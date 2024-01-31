@@ -1,0 +1,4471 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: JOB
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Job
+  fancyName: 
+  nickname: job
+  language: English
+  lang: eng
+  version: New Living Translation
+  ver: NLT
+  description: 
+  chapters:
+  - verses:
+    - title: Prologue
+      content: "There once was a man named Job who lived in the land of Uz. He was
+        blameless\u2014a man of complete integrity. He feared God and stayed away
+        from evil. "
+      comments: []
+    - title: 
+      content: 'He had seven sons and three daughters. '
+      comments: []
+    - title: 
+      content: 'He owned 7,000 sheep, 3,000 camels, 500 teams of oxen, and 500 female
+        donkeys. He also had many servants. He was, in fact, the richest person in
+        that entire area.  '
+      comments: []
+    - title: 
+      content: "Job\u2019s sons would take turns preparing feasts in their homes,
+        and they would also invite their three sisters to celebrate with them. "
+      comments: []
+    - title: 
+      content: "When these celebrations ended\u2014sometimes after several days\u2014Job
+        would purify his children. He would get up early in the morning and offer
+        a burnt offering for each of them. For Job said to himself, \u201CPerhaps
+        my children have sinned and have cursed God in their hearts.\u201D This was
+        Job\u2019s regular practice.  "
+      comments: []
+    - title: "Job\u2019s First Test"
+      content: "One day the members of the heavenly court[COMMENT[0]] came to present
+        themselves before the <smallcaps>Lord</smallcaps>\n\t, and the Accuser, Satan,[COMMENT[1]]
+        came with them. "
+      comments:
+      - number: '1:6a '
+        contents:
+        - ft: 'Hebrew '
+          body: the sons of God.
+      - number: '1:6b '
+        contents:
+        - ft: 'Hebrew '
+          body: 'and the satan; '
+        - ft: similarly throughout this chapter.
+          body: 
+    - title: 
+      content: "\u201CWhere have you come from?\u201D the <smallcaps>Lord</smallcaps>
+        asked Satan.\n\tSatan answered the <smallcaps>Lord</smallcaps>\n\t, \u201CI
+        have been patrolling the earth, watching everything that\u2019s going on.\u201D  "
+      comments: []
+    - title: 
+      content: "Then the <smallcaps>Lord</smallcaps> asked Satan, \u201CHave you
+        noticed my servant Job? He is the finest man in all the earth. He is blameless\u2014a
+        man of complete integrity. He fears God and stays away from evil.\u201D  "
+      comments: []
+    - title: 
+      content: "Satan replied to the <smallcaps>Lord</smallcaps>\n\t, \u201CYes,
+        but Job has good reason to fear God. "
+      comments: []
+    - title: 
+      content: 'You have always put a wall of protection around him and his home
+        and his property. You have made him prosper in everything he does. Look how
+        rich he is! '
+      comments: []
+    - title: 
+      content: "But reach out and take away everything he has, and he will surely
+        curse you to your face!\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CAll right, you may test him,\u201D the <smallcaps>Lord</smallcaps>
+        said to Satan. \u201CDo whatever you want with everything he possesses, but
+        don\u2019t harm him physically.\u201D So Satan left the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        presence.  "
+      comments: []
+    - title: 
+      content: "One day when Job\u2019s sons and daughters were feasting at the oldest
+        brother\u2019s house, "
+      comments: []
+    - title: 
+      content: "a messenger arrived at Job\u2019s home with this news: \u201CYour
+        oxen were plowing, with the donkeys feeding beside them, "
+      comments: []
+    - title: 
+      content: "when the Sabeans raided us. They stole all the animals and killed
+        all the farmhands. I am the only one who escaped to tell you.\u201D  "
+      comments: []
+    - title: 
+      content: "While he was still speaking, another messenger arrived with this
+        news: \u201CThe fire of God has fallen from heaven and burned up your sheep
+        and all the shepherds. I am the only one who escaped to tell you.\u201D  "
+      comments: []
+    - title: 
+      content: "While he was still speaking, a third messenger arrived with this
+        news: \u201CThree bands of Chaldean raiders have stolen your camels and killed
+        your servants. I am the only one who escaped to tell you.\u201D  "
+      comments: []
+    - title: 
+      content: "While he was still speaking, another messenger arrived with this
+        news: \u201CYour sons and daughters were feasting in their oldest brother\u2019s
+        home. "
+      comments: []
+    - title: 
+      content: "Suddenly, a powerful wind swept in from the wilderness and hit the
+        house on all sides. The house collapsed, and all your children are dead.
+        I am the only one who escaped to tell you.\u201D  "
+      comments: []
+    - title: 
+      content: 'Job stood up and tore his robe in grief. Then he shaved his head
+        and fell to the ground to worship. '
+      comments: []
+    - title: 
+      content: "He said,\n\t\u201CI came naked from my mother\u2019s womb,\n\tand
+        I will be naked when I leave.\n\tThe <smallcaps>Lord</smallcaps> gave me
+        what I had,\n\tand the <smallcaps>Lord</smallcaps> has taken it away.\n\tPraise
+        the name of the <smallcaps>Lord</smallcaps>\n\t!\u201D  "
+      comments: []
+    - title: 
+      content: In all of this, Job did not sin by blaming God.
+      comments: []
+  - verses:
+    - title: "Job\u2019s Second Test"
+      content: "One day the members of the heavenly court[COMMENT[0]] came again
+        to present themselves before the <smallcaps>Lord</smallcaps>\n\t, and the
+        Accuser, Satan,[COMMENT[1]] came with them. "
+      comments:
+      - number: '2:1a '
+        contents:
+        - ft: 'Hebrew '
+          body: the sons of God.
+      - number: '2:1b '
+        contents:
+        - ft: 'Hebrew '
+          body: 'and the satan; '
+        - ft: similarly throughout this chapter.
+          body: 
+    - title: 
+      content: "\u201CWhere have you come from?\u201D the <smallcaps>Lord</smallcaps>
+        asked Satan.\n\tSatan answered the <smallcaps>Lord</smallcaps>\n\t, \u201CI
+        have been patrolling the earth, watching everything that\u2019s going on.\u201D  "
+      comments: []
+    - title: 
+      content: "Then the <smallcaps>Lord</smallcaps> asked Satan, \u201CHave you
+        noticed my servant Job? He is the finest man in all the earth. He is blameless\u2014a
+        man of complete integrity. He fears God and stays away from evil. And he
+        has maintained his integrity, even though you urged me to harm him without
+        cause.\u201D  "
+      comments: []
+    - title: 
+      content: "Satan replied to the <smallcaps>Lord</smallcaps>\n\t, \u201CSkin
+        for skin! A man will give up everything he has to save his life. "
+      comments: []
+    - title: 
+      content: "But reach out and take away his health, and he will surely curse
+        you to your face!\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CAll right, do with him as you please,\u201D the <smallcaps>Lord</smallcaps>
+        said to Satan. \u201CBut spare his life.\u201D "
+      comments: []
+    - title: 
+      content: "So Satan left the <smallcaps>Lord</smallcaps>\n\t\u2019s presence,
+        and he struck Job with terrible boils from head to foot.  "
+      comments: []
+    - title: 
+      content: 'Job scraped his skin with a piece of broken pottery as he sat among
+        the ashes. '
+      comments: []
+    - title: 
+      content: "His wife said to him, \u201CAre you still trying to maintain your
+        integrity? Curse God and die.\u201D  "
+      comments: []
+    - title: 
+      content: "But Job replied, \u201CYou talk like a foolish woman. Should we accept
+        only good things from the hand of God and never anything bad?\u201D So in
+        all this, Job said nothing wrong.  "
+      comments: []
+    - title: "Job\u2019s Three Friends Share His Anguish"
+      content: "When three of Job\u2019s friends heard of the tragedy he had suffered,
+        they got together and traveled from their homes to comfort and console him.
+        Their names were Eliphaz the Temanite, Bildad the Shuhite, and Zophar the
+        Naamathite. "
+      comments: []
+    - title: 
+      content: 'When they saw Job from a distance, they scarcely recognized him.
+        Wailing loudly, they tore their robes and threw dust into the air over their
+        heads to show their grief. '
+      comments: []
+    - title: 
+      content: Then they sat on the ground with him for seven days and nights. No
+        one said a word to Job, for they saw that his suffering was too great for
+        words.
+      comments: []
+  - verses:
+    - title: "Job\u2019s First Speech"
+      content: 'At last Job spoke, and he cursed the day of his birth. '
+      comments: []
+    - title: 
+      content: 'He said:  '
+      comments: []
+    - title: 
+      content: "\u201CLet the day of my birth be erased,\n\tand the night I was conceived.  "
+      comments: []
+    - title: 
+      content: "Let that day be turned to darkness.\n\tLet it be lost even to God
+        on high,\n\tand let no light shine on it.  "
+      comments: []
+    - title: 
+      content: "Let the darkness and utter gloom claim that day for its own.\n\tLet
+        a black cloud overshadow it,\n\tand let the darkness terrify it.  "
+      comments: []
+    - title: 
+      content: "Let that night be blotted off the calendar,\n\tnever again to be
+        counted among the days of the year,\n\tnever again to appear among the months.  "
+      comments: []
+    - title: 
+      content: "Let that night be childless.\n\tLet it have no joy.  "
+      comments: []
+    - title: 
+      content: "Let those who are experts at cursing\u2014\n\twhose cursing could
+        rouse Leviathan[COMMENT[0]]\u2014\n\tcurse that day.  "
+      comments:
+      - number: '3:8 '
+        contents:
+        - ft: The identification of Leviathan is disputed, ranging from an earthly
+            creature to a mythical sea monster in ancient literature.
+          body: 
+    - title: 
+      content: "Let its morning stars remain dark.\n\tLet it hope for light, but
+        in vain;\n\tmay it never see the morning light.  "
+      comments: []
+    - title: 
+      content: "Curse that day for failing to shut my mother\u2019s womb,\n\tfor
+        letting me be born to see all this trouble.  "
+      comments: []
+    - title: 
+      content: "\u201CWhy wasn\u2019t I born dead?\n\tWhy didn\u2019t I die as I
+        came from the womb?  "
+      comments: []
+    - title: 
+      content: "Why was I laid on my mother\u2019s lap?\n\tWhy did she nurse me at
+        her breasts?  "
+      comments: []
+    - title: 
+      content: "Had I died at birth, I would now be at peace.\n\tI would be asleep
+        and at rest.  "
+      comments: []
+    - title: 
+      content: "I would rest with the world\u2019s kings and prime ministers,\n\twhose
+        great buildings now lie in ruins.  "
+      comments: []
+    - title: 
+      content: "I would rest with princes, rich in gold,\n\twhose palaces were filled
+        with silver.  "
+      comments: []
+    - title: 
+      content: "Why wasn\u2019t I buried like a stillborn child,\n\tlike a baby who
+        never lives to see the light?  "
+      comments: []
+    - title: 
+      content: "For in death the wicked cause no trouble,\n\tand the weary are at
+        rest.  "
+      comments: []
+    - title: 
+      content: "Even captives are at ease in death,\n\twith no guards to curse them.  "
+      comments: []
+    - title: 
+      content: "Rich and poor are both there,\n\tand the slave is free from his master.  "
+      comments: []
+    - title: 
+      content: "\u201COh, why give light to those in misery,\n\tand life to those
+        who are bitter?  "
+      comments: []
+    - title: 
+      content: "They long for death, and it won\u2019t come.\n\tThey search for death
+        more eagerly than for hidden treasure.  "
+      comments: []
+    - title: 
+      content: "They\u2019re filled with joy when they finally die,\n\tand rejoice
+        when they find the grave.  "
+      comments: []
+    - title: 
+      content: "Why is life given to those with no future,\n\tthose God has surrounded
+        with difficulties?  "
+      comments: []
+    - title: 
+      content: "I cannot eat for sighing;\n\tmy groans pour out like water.  "
+      comments: []
+    - title: 
+      content: "What I always feared has happened to me.\n\tWhat I dreaded has come
+        true.  "
+      comments: []
+    - title: 
+      content: "I have no peace, no quietness.\n\tI have no rest; only trouble comes.\u201D"
+      comments: []
+  - verses:
+    - title: "Eliphaz\u2019s First Response to Job"
+      content: 'Then Eliphaz the Temanite replied to Job:  '
+      comments: []
+    - title: 
+      content: "\u201CWill you be patient and let me say a word?\n\tFor who could
+        keep from speaking out?  "
+      comments: []
+    - title: 
+      content: "\u201CIn the past you have encouraged many people;\n\tyou have strengthened
+        those who were weak.  "
+      comments: []
+    - title: 
+      content: "Your words have supported those who were falling;\n\tyou encouraged
+        those with shaky knees.  "
+      comments: []
+    - title: 
+      content: "But now when trouble strikes, you lose heart.\n\tYou are terrified
+        when it touches you.  "
+      comments: []
+    - title: 
+      content: "Doesn\u2019t your reverence for God give you confidence?\n\tDoesn\u2019t
+        your life of integrity give you hope?  "
+      comments: []
+    - title: 
+      content: "\u201CStop and think! Do the innocent die?\n\tWhen have the upright
+        been destroyed?  "
+      comments: []
+    - title: 
+      content: "My experience shows that those who plant trouble\n\tand cultivate
+        evil will harvest the same.  "
+      comments: []
+    - title: 
+      content: "A breath from God destroys them.\n\tThey vanish in a blast of his
+        anger.  "
+      comments: []
+    - title: 
+      content: "The lion roars and the wildcat snarls,\n\tbut the teeth of strong
+        lions will be broken.  "
+      comments: []
+    - title: 
+      content: "The fierce lion will starve for lack of prey,\n\tand the cubs of
+        the lioness will be scattered.  "
+      comments: []
+    - title: 
+      content: "\u201CThis truth was given to me in secret,\n\tas though whispered
+        in my ear.  "
+      comments: []
+    - title: 
+      content: "It came to me in a disturbing vision at night,\n\twhen people are
+        in a deep sleep.  "
+      comments: []
+    - title: 
+      content: "Fear gripped me,\n\tand my bones trembled.  "
+      comments: []
+    - title: 
+      content: "A spirit[COMMENT[0]] swept past my face,\n\tand my hair stood on
+        end.[COMMENT[1]]  "
+      comments:
+      - number: '4:15a '
+        contents:
+        - ft: 'Or '
+          body: 'wind; '
+        - ft: also in 4:16.
+          body: 
+      - number: '4:15b '
+        contents:
+        - ft: 'Or '
+          body: its wind sent shivers up my spine.
+    - title: 
+      content: "The spirit stopped, but I couldn\u2019t see its shape.\n\tThere was
+        a form before my eyes.\n\tIn the silence I heard a voice say,  "
+      comments: []
+    - title: 
+      content: "\u2018Can a mortal be innocent before God?\n\tCan anyone be pure
+        before the Creator?\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CIf God does not trust his own angels\n\tand has charged his
+        messengers with foolishness,  "
+      comments: []
+    - title: 
+      content: "how much less will he trust people made of clay!\n\tThey are made
+        of dust, crushed as easily as a moth.  "
+      comments: []
+    - title: 
+      content: "They are alive in the morning but dead by evening,\n\tgone forever
+        without a trace.  "
+      comments: []
+    - title: 
+      content: "Their tent-cords are pulled and the tent collapses,\n\tand they die
+        in ignorance."
+      comments: []
+  - verses:
+    - title: "Eliphaz\u2019s Response Continues"
+      content: "\u201CCry for help, but will anyone answer you?\n\tWhich of the angels[COMMENT[0]]
+        will help you?  "
+      comments:
+      - number: '5:1 '
+        contents:
+        - ft: 'Hebrew '
+          body: the holy ones.
+    - title: 
+      content: "Surely resentment destroys the fool,\n\tand jealousy kills the simple.  "
+      comments: []
+    - title: 
+      content: "I have seen that fools may be successful for the moment,\n\tbut then
+        comes sudden disaster.  "
+      comments: []
+    - title: 
+      content: "Their children are abandoned far from help;\n\tthey are crushed in
+        court with no one to defend them.  "
+      comments: []
+    - title: 
+      content: "The hungry devour their harvest,\n\teven when it is guarded by brambles.[COMMENT[0]]The
+        thirsty pant after their wealth.[COMMENT[1]]  "
+      comments:
+      - number: '5:5a '
+        contents:
+        - ft: The meaning of the Hebrew for this phrase is uncertain.
+          body: 
+      - number: '5:5b '
+        contents:
+        - ft: 'As in Greek and Syriac versions; Hebrew reads '
+          body: A snare snatches their wealth.
+    - title: 
+      content: "But evil does not spring from the soil,\n\tand trouble does not sprout
+        from the earth.  "
+      comments: []
+    - title: 
+      content: "People are born for trouble\n\tas readily as sparks fly up from a
+        fire.  "
+      comments: []
+    - title: 
+      content: "\u201CIf I were you, I would go to God\n\tand present my case to
+        him.  "
+      comments: []
+    - title: 
+      content: "He does great things too marvelous to understand.\n\tHe performs
+        countless miracles.  "
+      comments: []
+    - title: 
+      content: "He gives rain for the earth\n\tand water for the fields.  "
+      comments: []
+    - title: 
+      content: "He gives prosperity to the poor\n\tand protects those who suffer.  "
+      comments: []
+    - title: 
+      content: "He frustrates the plans of schemers\n\tso the work of their hands
+        will not succeed.  "
+      comments: []
+    - title: 
+      content: "He traps the wise in their own cleverness\n\tso their cunning schemes
+        are thwarted.  "
+      comments: []
+    - title: 
+      content: "They find it is dark in the daytime,\n\tand they grope at noon as
+        if it were night.  "
+      comments: []
+    - title: 
+      content: "He rescues the poor from the cutting words of the strong,\n\tand
+        rescues them from the clutches of the powerful.  "
+      comments: []
+    - title: 
+      content: "And so at last the poor have hope,\n\tand the snapping jaws of the
+        wicked are shut.  "
+      comments: []
+    - title: 
+      content: "\u201CBut consider the joy of those corrected by God!\n\tDo not despise
+        the discipline of the Almighty when you sin.  "
+      comments: []
+    - title: 
+      content: "For though he wounds, he also bandages.\n\tHe strikes, but his hands
+        also heal.  "
+      comments: []
+    - title: 
+      content: "From six disasters he will rescue you;\n\teven in the seventh, he
+        will keep you from evil.  "
+      comments: []
+    - title: 
+      content: "He will save you from death in time of famine,\n\tfrom the power
+        of the sword in time of war.  "
+      comments: []
+    - title: 
+      content: "You will be safe from slander\n\tand have no fear when destruction
+        comes.  "
+      comments: []
+    - title: 
+      content: "You will laugh at destruction and famine;\n\twild animals will not
+        terrify you.  "
+      comments: []
+    - title: 
+      content: "You will be at peace with the stones of the field,\n\tand its wild
+        animals will be at peace with you.  "
+      comments: []
+    - title: 
+      content: "You will know that your home is safe.\n\tWhen you survey your possessions,
+        nothing will be missing.  "
+      comments: []
+    - title: 
+      content: "You will have many children;\n\tyour descendants will be as plentiful
+        as grass!  "
+      comments: []
+    - title: 
+      content: "You will go to the grave at a ripe old age,\n\tlike a sheaf of grain
+        harvested at the proper time!  "
+      comments: []
+    - title: 
+      content: "\u201CWe have studied life and found all this to be true.\n\tListen
+        to my counsel, and apply it to yourself.\u201D"
+      comments: []
+  - verses:
+    - title: "Job\u2019s Second Speech: A Response to Eliphaz"
+      content: 'Then Job spoke again:  '
+      comments: []
+    - title: 
+      content: "\u201CIf my misery could be weighed\n\tand my troubles be put on
+        the scales,  "
+      comments: []
+    - title: 
+      content: "they would outweigh all the sands of the sea.\n\tThat is why I spoke
+        impulsively.  "
+      comments: []
+    - title: 
+      content: "For the Almighty has struck me down with his arrows.\n\tTheir poison
+        infects my spirit.\n\tGod\u2019s terrors are lined up against me.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t I have a right to complain?\n\tDon\u2019t wild donkeys
+        bray when they find no grass,\n\tand oxen bellow when they have no food?  "
+      comments: []
+    - title: 
+      content: "Don\u2019t people complain about unsalted food?\n\tDoes anyone want
+        the tasteless white of an egg?[COMMENT[0]]  "
+      comments:
+      - number: '6:6 '
+        contents:
+        - ft: 'Or '
+          body: the tasteless juice of the mallow plant?
+    - title: 
+      content: "My appetite disappears when I look at it;\n\tI gag at the thought
+        of eating it!  "
+      comments: []
+    - title: 
+      content: "\u201COh, that I might have my request,\n\tthat God would grant my
+        desire.  "
+      comments: []
+    - title: 
+      content: "I wish he would crush me.\n\tI wish he would reach out his hand and
+        kill me.  "
+      comments: []
+    - title: 
+      content: "At least I can take comfort in this:\n\tDespite the pain,\n\tI have
+        not denied the words of the Holy One.  "
+      comments: []
+    - title: 
+      content: "But I don\u2019t have the strength to endure.\n\tI have nothing to
+        live for.  "
+      comments: []
+    - title: 
+      content: "Do I have the strength of a stone?\n\tIs my body made of bronze?  "
+      comments: []
+    - title: 
+      content: "No, I am utterly helpless,\n\twithout any chance of success.  "
+      comments: []
+    - title: 
+      content: "\u201COne should be kind to a fainting friend,\n\tbut you accuse
+        me without any fear of the Almighty.[COMMENT[0]]  "
+      comments:
+      - number: '6:14 '
+        contents:
+        - ft: 'Or '
+          body: friend, / or he might lose his fear of the Almighty.
+    - title: 
+      content: "My brothers, you have proved as unreliable as a seasonal brook\n\tthat
+        overflows its banks in the spring  "
+      comments: []
+    - title: 
+      content: 'when it is swollen with ice and melting snow.  '
+      comments: []
+    - title: 
+      content: "But when the hot weather arrives, the water disappears.\n\tThe brook
+        vanishes in the heat.  "
+      comments: []
+    - title: 
+      content: "The caravans turn aside to be refreshed,\n\tbut there is nothing
+        to drink, so they die.  "
+      comments: []
+    - title: 
+      content: "The caravans from Tema search for this water;\n\tthe travelers from
+        Sheba hope to find it.  "
+      comments: []
+    - title: 
+      content: "They count on it but are disappointed.\n\tWhen they arrive, their
+        hopes are dashed.  "
+      comments: []
+    - title: 
+      content: "You, too, have given no help.\n\tYou have seen my calamity, and you
+        are afraid.  "
+      comments: []
+    - title: 
+      content: "But why? Have I ever asked you for a gift?\n\tHave I begged for anything
+        of yours for myself?  "
+      comments: []
+    - title: 
+      content: "Have I asked you to rescue me from my enemies,\n\tor to save me from
+        ruthless people?  "
+      comments: []
+    - title: 
+      content: "Teach me, and I will keep quiet.\n\tShow me what I have done wrong.  "
+      comments: []
+    - title: 
+      content: "Honest words can be painful,\n\tbut what do your criticisms amount
+        to?  "
+      comments: []
+    - title: 
+      content: "Do you think your words are convincing\n\twhen you disregard my cry
+        of desperation?  "
+      comments: []
+    - title: 
+      content: 'You would even send an orphan into slavery[COMMENT[0]]or sell a friend.  '
+      comments:
+      - number: '6:27 '
+        contents:
+        - ft: 'Hebrew '
+          body: even gamble over an orphan.
+    - title: 
+      content: "Look at me!\n\tWould I lie to your face?  "
+      comments: []
+    - title: 
+      content: "Stop assuming my guilt,\n\tfor I have done no wrong.  "
+      comments: []
+    - title: 
+      content: "Do you think I am lying?\n\tDon\u2019t I know the difference between
+        right and wrong?"
+      comments: []
+  - verses:
+    - title: 
+      content: "\u201CIs not all human life a struggle?\n\tOur lives are like that
+        of a hired hand,  "
+      comments: []
+    - title: 
+      content: "like a worker who longs for the shade,\n\tlike a servant waiting
+        to be paid.  "
+      comments: []
+    - title: 
+      content: "I, too, have been assigned months of futility,\n\tlong and weary
+        nights of misery.  "
+      comments: []
+    - title: 
+      content: "Lying in bed, I think, \u2018When will it be morning?\u2019\n\tBut
+        the night drags on, and I toss till dawn.  "
+      comments: []
+    - title: 
+      content: "My body is covered with maggots and scabs.\n\tMy skin breaks open,
+        oozing with pus.  "
+      comments: []
+    - title: Job Cries Out to God
+      content: "\u201CMy days fly faster than a weaver\u2019s shuttle.\n\tThey end
+        without hope.  "
+      comments: []
+    - title: 
+      content: "O God, remember that my life is but a breath,\n\tand I will never
+        again feel happiness.  "
+      comments: []
+    - title: 
+      content: "You see me now, but not for long.\n\tYou will look for me, but I
+        will be gone.  "
+      comments: []
+    - title: 
+      content: "Just as a cloud dissipates and vanishes,\n\tthose who die[COMMENT[0]]
+        will not come back.  "
+      comments:
+      - number: '7:9 '
+        contents:
+        - ft: 'Hebrew '
+          body: who go down to Sheol.
+    - title: 
+      content: "They are gone forever from their home\u2014\n\tnever to be seen again.  "
+      comments: []
+    - title: 
+      content: "\u201CI cannot keep from speaking.\n\tI must express my anguish.\n\tMy
+        bitter soul must complain.  "
+      comments: []
+    - title: 
+      content: "Am I a sea monster or a dragon\n\tthat you must place me under guard?  "
+      comments: []
+    - title: 
+      content: "I think, \u2018My bed will comfort me,\n\tand sleep will ease my
+        misery,\u2019  "
+      comments: []
+    - title: 
+      content: "but then you shatter me with dreams\n\tand terrify me with visions.  "
+      comments: []
+    - title: 
+      content: "I would rather be strangled\u2014\n\trather die than suffer like
+        this.  "
+      comments: []
+    - title: 
+      content: "I hate my life and don\u2019t want to go on living.\n\tOh, leave
+        me alone for my few remaining days.  "
+      comments: []
+    - title: 
+      content: "\u201CWhat are people, that you should make so much of us,\n\tthat
+        you should think of us so often?  "
+      comments: []
+    - title: 
+      content: "For you examine us every morning\n\tand test us every moment.  "
+      comments: []
+    - title: 
+      content: "Why won\u2019t you leave me alone,\n\tat least long enough for me
+        to swallow!  "
+      comments: []
+    - title: 
+      content: "If I have sinned, what have I done to you,\n\tO watcher of all humanity?\n\tWhy
+        make me your target?\n\tAm I a burden to you?[COMMENT[0]]  "
+      comments:
+      - number: '7:20 '
+        contents:
+        - ft: 'As in Greek version; Hebrew reads '
+          body: target, so that I am a burden to myself?
+    - title: 
+      content: "Why not just forgive my sin\n\tand take away my guilt?\n\tFor soon
+        I will lie down in the dust and die.\n\tWhen you look for me, I will be gone.\u201D"
+      comments: []
+  - verses:
+    - title: "Bildad\u2019s First Response to Job"
+      content: 'Then Bildad the Shuhite replied to Job:  '
+      comments: []
+    - title: 
+      content: "\u201CHow long will you go on like this?\n\tYou sound like a blustering
+        wind.  "
+      comments: []
+    - title: 
+      content: "Does God twist justice?\n\tDoes the Almighty twist what is right?  "
+      comments: []
+    - title: 
+      content: "Your children must have sinned against him,\n\tso their punishment
+        was well deserved.  "
+      comments: []
+    - title: 
+      content: "But if you pray to God\n\tand seek the favor of the Almighty,  "
+      comments: []
+    - title: 
+      content: "and if you are pure and live with integrity,\n\the will surely rise
+        up and restore your happy home.  "
+      comments: []
+    - title: 
+      content: "And though you started with little,\n\tyou will end with much.  "
+      comments: []
+    - title: 
+      content: "\u201CJust ask the previous generation.\n\tPay attention to the experience
+        of our ancestors.  "
+      comments: []
+    - title: 
+      content: "For we were born but yesterday and know nothing.\n\tOur days on earth
+        are as fleeting as a shadow.  "
+      comments: []
+    - title: 
+      content: "But those who came before us will teach you.\n\tThey will teach you
+        the wisdom of old.  "
+      comments: []
+    - title: 
+      content: "\u201CCan papyrus reeds grow tall without a marsh?\n\tCan marsh grass
+        flourish without water?  "
+      comments: []
+    - title: 
+      content: "While they are still flowering, not ready to be cut,\n\tthey begin
+        to wither more quickly than grass.  "
+      comments: []
+    - title: 
+      content: "The same happens to all who forget God.\n\tThe hopes of the godless
+        evaporate.  "
+      comments: []
+    - title: 
+      content: "Their confidence hangs by a thread.\n\tThey are leaning on a spider\u2019s
+        web.  "
+      comments: []
+    - title: 
+      content: "They cling to their home for security, but it won\u2019t last.\n\tThey
+        try to hold it tight, but it will not endure.  "
+      comments: []
+    - title: 
+      content: "The godless seem like a lush plant growing in the sunshine,\n\tits
+        branches spreading across the garden.  "
+      comments: []
+    - title: 
+      content: "Its roots grow down through a pile of stones;\n\tit takes hold on
+        a bed of rocks.  "
+      comments: []
+    - title: 
+      content: "But when it is uprooted,\n\tit\u2019s as though it never existed!  "
+      comments: []
+    - title: 
+      content: "That\u2019s the end of its life,\n\tand others spring up from the
+        earth to replace it.  "
+      comments: []
+    - title: 
+      content: "\u201CBut look, God will not reject a person of integrity,\n\tnor
+        will he lend a hand to the wicked.  "
+      comments: []
+    - title: 
+      content: "He will once again fill your mouth with laughter\n\tand your lips
+        with shouts of joy.  "
+      comments: []
+    - title: 
+      content: "Those who hate you will be clothed with shame,\n\tand the home of
+        the wicked will be destroyed.\u201D"
+      comments: []
+  - verses:
+    - title: "Job\u2019s Third Speech: A Response to Bildad"
+      content: 'Then Job spoke again:  '
+      comments: []
+    - title: 
+      content: "\u201CYes, I know all this is true in principle.\n\tBut how can a
+        person be declared innocent in God\u2019s sight?  "
+      comments: []
+    - title: 
+      content: 'If someone wanted to take God to court,[COMMENT[0]]would it be possible
+        to answer him even once in a thousand times?  '
+      comments:
+      - number: '9:3 '
+        contents:
+        - ft: 'Or '
+          body: If God wanted to take someone to court.
+    - title: 
+      content: "For God is so wise and so mighty.\n\tWho has ever challenged him
+        successfully?  "
+      comments: []
+    - title: 
+      content: "\u201CWithout warning, he moves the mountains,\n\toverturning them
+        in his anger.  "
+      comments: []
+    - title: 
+      content: "He shakes the earth from its place,\n\tand its foundations tremble.  "
+      comments: []
+    - title: 
+      content: "If he commands it, the sun won\u2019t rise\n\tand the stars won\u2019t
+        shine.  "
+      comments: []
+    - title: 
+      content: "He alone has spread out the heavens\n\tand marches on the waves of
+        the sea.  "
+      comments: []
+    - title: 
+      content: "He made all the stars\u2014the Bear and Orion,\n\tthe Pleiades and
+        the constellations of the southern sky.  "
+      comments: []
+    - title: 
+      content: "He does great things too marvelous to understand.\n\tHe performs
+        countless miracles.  "
+      comments: []
+    - title: 
+      content: "\u201CYet when he comes near, I cannot see him.\n\tWhen he moves
+        by, I do not see him go.  "
+      comments: []
+    - title: 
+      content: "If he snatches someone in death, who can stop him?\n\tWho dares to
+        ask, \u2018What are you doing?\u2019  "
+      comments: []
+    - title: 
+      content: "And God does not restrain his anger.\n\tEven the monsters of the
+        sea[COMMENT[0]] are crushed beneath his feet.  "
+      comments:
+      - number: '9:13 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'the helpers of Rahab, '
+        - ft: the name of a mythical sea monster that represents chaos in ancient
+            literature.
+          body: 
+    - title: 
+      content: "\u201CSo who am I, that I should try to answer God\n\tor even reason
+        with him?  "
+      comments: []
+    - title: 
+      content: "Even if I were right, I would have no defense.\n\tI could only plead
+        for mercy.  "
+      comments: []
+    - title: 
+      content: "And even if I summoned him and he responded,\n\tI\u2019m not sure
+        he would listen to me.  "
+      comments: []
+    - title: 
+      content: "For he attacks me with a storm\n\tand repeatedly wounds me without
+        cause.  "
+      comments: []
+    - title: 
+      content: "He will not let me catch my breath,\n\tbut fills me instead with
+        bitter sorrows.  "
+      comments: []
+    - title: 
+      content: "If it\u2019s a question of strength, he\u2019s the strong one.\n\tIf
+        it\u2019s a matter of justice, who dares to summon him[COMMENT[0]] to court?  "
+      comments:
+      - number: '9:19 '
+        contents:
+        - ft: 'As in Greek version; Hebrew reads '
+          body: me.
+    - title: 
+      content: "Though I am innocent, my own mouth would pronounce me guilty.\n\tThough
+        I am blameless, it[COMMENT[0]] would prove me wicked.  "
+      comments:
+      - number: '9:20 '
+        contents:
+        - ft: 'Or '
+          body: he.
+    - title: 
+      content: "\u201CI am innocent,\n\tbut it makes no difference to me\u2014\n\tI
+        despise my life.  "
+      comments: []
+    - title: 
+      content: "Innocent or wicked, it is all the same to God.\n\tThat\u2019s why
+        I say, \u2018He destroys both the blameless and the wicked.\u2019  "
+      comments: []
+    - title: 
+      content: "When a plague[COMMENT[0]] sweeps through,\n\the laughs at the death
+        of the innocent.  "
+      comments:
+      - number: '9:23 '
+        contents:
+        - ft: 'Or '
+          body: disaster.
+    - title: 
+      content: "The whole earth is in the hands of the wicked,\n\tand God blinds
+        the eyes of the judges.\n\tIf he\u2019s not the one who does it, who is?  "
+      comments: []
+    - title: 
+      content: "\u201CMy life passes more swiftly than a runner.\n\tIt flees away
+        without a glimpse of happiness.  "
+      comments: []
+    - title: 
+      content: "It disappears like a swift papyrus boat,\n\tlike an eagle swooping
+        down on its prey.  "
+      comments: []
+    - title: 
+      content: "If I decided to forget my complaints,\n\tto put away my sad face
+        and be cheerful,  "
+      comments: []
+    - title: 
+      content: "I would still dread all the pain,\n\tfor I know you will not find
+        me innocent, O God.  "
+      comments: []
+    - title: 
+      content: "Whatever happens, I will be found guilty.\n\tSo what\u2019s the use
+        of trying?  "
+      comments: []
+    - title: 
+      content: "Even if I were to wash myself with soap\n\tand clean my hands with
+        lye,  "
+      comments: []
+    - title: 
+      content: "you would plunge me into a muddy ditch,\n\tand my own filthy clothing
+        would hate me.  "
+      comments: []
+    - title: 
+      content: "\u201CGod is not a mortal like me,\n\tso I cannot argue with him
+        or take him to trial.  "
+      comments: []
+    - title: 
+      content: "If only there were a mediator between us,\n\tsomeone who could bring
+        us together.  "
+      comments: []
+    - title: 
+      content: "The mediator could make God stop beating me,\n\tand I would no longer
+        live in terror of his punishment.  "
+      comments: []
+    - title: 
+      content: "Then I could speak to him without fear,\n\tbut I cannot do that in
+        my own strength."
+      comments: []
+  - verses:
+    - title: Job Frames His Plea to God
+      content: "\u201CI am disgusted with my life.\n\tLet me complain freely.\n\tMy
+        bitter soul must complain.  "
+      comments: []
+    - title: 
+      content: "I will say to God, \u2018Don\u2019t simply condemn me\u2014\n\ttell
+        me the charge you are bringing against me.  "
+      comments: []
+    - title: 
+      content: "What do you gain by oppressing me?\n\tWhy do you reject me, the work
+        of your own hands,\n\twhile smiling on the schemes of the wicked?  "
+      comments: []
+    - title: 
+      content: "Are your eyes like those of a human?\n\tDo you see things only as
+        people see them?  "
+      comments: []
+    - title: 
+      content: "Is your lifetime only as long as ours?\n\tIs your life so short  "
+      comments: []
+    - title: 
+      content: "that you must quickly probe for my guilt\n\tand search for my sin?  "
+      comments: []
+    - title: 
+      content: "Although you know I am not guilty,\n\tno one can rescue me from your
+        hands.  "
+      comments: []
+    - title: 
+      content: "\u201C\u2018You formed me with your hands; you made me,\n\tyet now
+        you completely destroy me.  "
+      comments: []
+    - title: 
+      content: "Remember that you made me from dust\u2014\n\twill you turn me back
+        to dust so soon?  "
+      comments: []
+    - title: 
+      content: "You guided my conception\n\tand formed me in the womb.[COMMENT[0]]  "
+      comments:
+      - number: '10:10 '
+        contents:
+        - ft: 'Hebrew '
+          body: You poured me out like milk / and curdled me like cheese.
+    - title: 
+      content: "You clothed me with skin and flesh,\n\tand you knit my bones and
+        sinews together.  "
+      comments: []
+    - title: 
+      content: "You gave me life and showed me your unfailing love.\n\tMy life was
+        preserved by your care.  "
+      comments: []
+    - title: 
+      content: "\u201C\u2018Yet your real motive\u2014\n\tyour true intent\u2014  "
+      comments: []
+    - title: 
+      content: "was to watch me, and if I sinned,\n\tyou would not forgive my guilt.  "
+      comments: []
+    - title: 
+      content: "If I am guilty, too bad for me;\n\tand even if I\u2019m innocent,
+        I can\u2019t hold my head high,\n\tbecause I am filled with shame and misery.  "
+      comments: []
+    - title: 
+      content: "And if I hold my head high, you hunt me like a lion\n\tand display
+        your awesome power against me.  "
+      comments: []
+    - title: 
+      content: "Again and again you witness against me.\n\tYou pour out your growing
+        anger on me\n\tand bring fresh armies against me.  "
+      comments: []
+    - title: 
+      content: "\u201C\u2018Why, then, did you deliver me from my mother\u2019s womb?\n\tWhy
+        didn\u2019t you let me die at birth?  "
+      comments: []
+    - title: 
+      content: "It would be as though I had never existed,\n\tgoing directly from
+        the womb to the grave.  "
+      comments: []
+    - title: 
+      content: "I have only a few days left, so leave me alone,\n\tthat I may have
+        a moment of comfort  "
+      comments: []
+    - title: 
+      content: "before I leave\u2014never to return\u2014\n\tfor the land of darkness
+        and utter gloom.  "
+      comments: []
+    - title: 
+      content: "It is a land as dark as midnight,\n\ta land of gloom and confusion,\n\twhere
+        even the light is dark as midnight.\u2019\u201D"
+      comments: []
+  - verses:
+    - title: "Zophar\u2019s First Response to Job"
+      content: 'Then Zophar the Naamathite replied to Job:  '
+      comments: []
+    - title: 
+      content: "\u201CShouldn\u2019t someone answer this torrent of words?\n\tIs
+        a person proved innocent just by a lot of talking?  "
+      comments: []
+    - title: 
+      content: "Should I remain silent while you babble on?\n\tWhen you mock God,
+        shouldn\u2019t someone make you ashamed?  "
+      comments: []
+    - title: 
+      content: "You claim, \u2018My beliefs are pure,\u2019\n\tand \u2018I am clean
+        in the sight of God.\u2019  "
+      comments: []
+    - title: 
+      content: "If only God would speak;\n\tif only he would tell you what he thinks!  "
+      comments: []
+    - title: 
+      content: "If only he would tell you the secrets of wisdom,\n\tfor true wisdom
+        is not a simple matter.\n\tListen! God is doubtless punishing you\n\tfar
+        less than you deserve!  "
+      comments: []
+    - title: 
+      content: "\u201CCan you solve the mysteries of God?\n\tCan you discover everything
+        about the Almighty?  "
+      comments: []
+    - title: 
+      content: "Such knowledge is higher than the heavens\u2014\n\tand who are you?\n\tIt
+        is deeper than the underworld[COMMENT[0]]\u2014\n\twhat do you know?  "
+      comments:
+      - number: '11:8 '
+        contents:
+        - ft: 'Hebrew '
+          body: than Sheol.
+    - title: 
+      content: "It is broader than the earth\n\tand wider than the sea.  "
+      comments: []
+    - title: 
+      content: "If God comes and puts a person in prison\n\tor calls the court to
+        order, who can stop him?  "
+      comments: []
+    - title: 
+      content: "For he knows those who are false,\n\tand he takes note of all their
+        sins.  "
+      comments: []
+    - title: 
+      content: "An empty-headed person won\u2019t become wise\n\tany more than a
+        wild donkey can bear a human child.[COMMENT[0]]  "
+      comments:
+      - number: '11:12 '
+        contents:
+        - ft: 'Or '
+          body: than a wild male donkey can bear a tame colt.
+    - title: 
+      content: "\u201CIf only you would prepare your heart\n\tand lift up your hands
+        to him in prayer!  "
+      comments: []
+    - title: 
+      content: "Get rid of your sins,\n\tand leave all iniquity behind you.  "
+      comments: []
+    - title: 
+      content: "Then your face will brighten with innocence.\n\tYou will be strong
+        and free of fear.  "
+      comments: []
+    - title: 
+      content: "You will forget your misery;\n\tit will be like water flowing away.  "
+      comments: []
+    - title: 
+      content: "Your life will be brighter than the noonday.\n\tEven darkness will
+        be as bright as morning.  "
+      comments: []
+    - title: 
+      content: "Having hope will give you courage.\n\tYou will be protected and will
+        rest in safety.  "
+      comments: []
+    - title: 
+      content: "You will lie down unafraid,\n\tand many will look to you for help.  "
+      comments: []
+    - title: 
+      content: "But the wicked will be blinded.\n\tThey will have no escape.\n\tTheir
+        only hope is death.\u201D"
+      comments: []
+  - verses:
+    - title: "Job\u2019s Fourth Speech: A Response to Zophar"
+      content: 'Then Job spoke again:  '
+      comments: []
+    - title: 
+      content: "\u201CYou people really know everything, don\u2019t you?\n\tAnd when
+        you die, wisdom will die with you!  "
+      comments: []
+    - title: 
+      content: "Well, I know a few things myself\u2014\n\tand you\u2019re no better
+        than I am.\n\tWho doesn\u2019t know these things you\u2019ve been saying?  "
+      comments: []
+    - title: 
+      content: "Yet my friends laugh at me,\n\tfor I call on God and expect an answer.\n\tI
+        am a just and blameless man,\n\tyet they laugh at me.  "
+      comments: []
+    - title: 
+      content: "People who are at ease mock those in trouble.\n\tThey give a push
+        to people who are stumbling.  "
+      comments: []
+    - title: 
+      content: "But robbers are left in peace,\n\tand those who provoke God live
+        in safety\u2014\n\tthough God keeps them in his power.[COMMENT[0]]  "
+      comments:
+      - number: '12:6 '
+        contents:
+        - ft: 'Or '
+          body: "safety\u2014those who try to manipulate God. "
+        - ft: The meaning of the Hebrew is uncertain.
+          body: 
+    - title: 
+      content: "\u201CJust ask the animals, and they will teach you.\n\tAsk the birds
+        of the sky, and they will tell you.  "
+      comments: []
+    - title: 
+      content: "Speak to the earth, and it will instruct you.\n\tLet the fish in
+        the sea speak to you.  "
+      comments: []
+    - title: 
+      content: "For they all know\n\tthat my disaster[COMMENT[0]] has come from the
+        hand of the <smallcaps>Lord</smallcaps>\n\t.  "
+      comments:
+      - number: '12:9 '
+        contents:
+        - ft: 'Hebrew '
+          body: that this.
+    - title: 
+      content: "For the life of every living thing is in his hand,\n\tand the breath
+        of every human being.  "
+      comments: []
+    - title: 
+      content: "The ear tests the words it hears\n\tjust as the mouth distinguishes
+        between foods.  "
+      comments: []
+    - title: 
+      content: "Wisdom belongs to the aged,\n\tand understanding to the old.  "
+      comments: []
+    - title: 
+      content: "\u201CBut true wisdom and power are found in God;\n\tcounsel and
+        understanding are his.  "
+      comments: []
+    - title: 
+      content: "What he destroys cannot be rebuilt.\n\tWhen he puts someone in prison,
+        there is no escape.  "
+      comments: []
+    - title: 
+      content: "If he holds back the rain, the earth becomes a desert.\n\tIf he releases
+        the waters, they flood the earth.  "
+      comments: []
+    - title: 
+      content: "Yes, strength and wisdom are his;\n\tdeceivers and deceived are both
+        in his power.  "
+      comments: []
+    - title: 
+      content: "He leads counselors away, stripped of good judgment;\n\twise judges
+        become fools.  "
+      comments: []
+    - title: 
+      content: "He removes the royal robe of kings.\n\tThey are led away with ropes
+        around their waist.  "
+      comments: []
+    - title: 
+      content: "He leads priests away, stripped of status;\n\the overthrows those
+        with long years in power.  "
+      comments: []
+    - title: 
+      content: "He silences the trusted adviser\n\tand removes the insight of the
+        elders.  "
+      comments: []
+    - title: 
+      content: "He pours disgrace upon princes\n\tand disarms the strong.  "
+      comments: []
+    - title: 
+      content: "\u201CHe uncovers mysteries hidden in darkness;\n\the brings light
+        to the deepest gloom.  "
+      comments: []
+    - title: 
+      content: "He builds up nations, and he destroys them.\n\tHe expands nations,
+        and he abandons them.  "
+      comments: []
+    - title: 
+      content: "He strips kings of understanding\n\tand leaves them wandering in
+        a pathless wasteland.  "
+      comments: []
+    - title: 
+      content: "They grope in the darkness without a light.\n\tHe makes them stagger
+        like drunkards."
+      comments: []
+  - verses:
+    - title: Job Wants to Argue His Case with God
+      content: "\u201CLook, I have seen all this with my own eyes\n\tand heard it
+        with my own ears, and now I understand.  "
+      comments: []
+    - title: 
+      content: "I know as much as you do.\n\tYou are no better than I am.  "
+      comments: []
+    - title: 
+      content: "As for me, I would speak directly to the Almighty.\n\tI want to argue
+        my case with God himself.  "
+      comments: []
+    - title: 
+      content: "As for you, you smear me with lies.\n\tAs physicians, you are worthless
+        quacks.  "
+      comments: []
+    - title: 
+      content: "If only you could be silent!\n\tThat\u2019s the wisest thing you
+        could do.  "
+      comments: []
+    - title: 
+      content: "Listen to my charge;\n\tpay attention to my arguments.  "
+      comments: []
+    - title: 
+      content: "\u201CAre you defending God with lies?\n\tDo you make your dishonest
+        arguments for his sake?  "
+      comments: []
+    - title: 
+      content: "Will you slant your testimony in his favor?\n\tWill you argue God\u2019s
+        case for him?  "
+      comments: []
+    - title: 
+      content: "What will happen when he finds out what you are doing?\n\tCan you
+        fool him as easily as you fool people?  "
+      comments: []
+    - title: 
+      content: "No, you will be in trouble with him\n\tif you secretly slant your
+        testimony in his favor.  "
+      comments: []
+    - title: 
+      content: "Doesn\u2019t his majesty terrify you?\n\tDoesn\u2019t your fear of
+        him overwhelm you?  "
+      comments: []
+    - title: 
+      content: "Your platitudes are as valuable as ashes.\n\tYour defense is as fragile
+        as a clay pot.  "
+      comments: []
+    - title: 
+      content: "\u201CBe silent now and leave me alone.\n\tLet me speak, and I will
+        face the consequences.  "
+      comments: []
+    - title: 
+      content: 'Why should I put myself in mortal danger[COMMENT[0]]and take my life
+        in my own hands?  '
+      comments:
+      - number: '13:14 '
+        contents:
+        - ft: 'Hebrew '
+          body: Why should I take my flesh in my teeth.
+    - title: 
+      content: 'God might kill me, but I have no other hope.[COMMENT[0]]I am going
+        to argue my case with him.  '
+      comments:
+      - number: '13:15 '
+        contents:
+        - ft: 'An alternate reading in the Masoretic Text reads '
+          body: God might kill me, but I hope in him.
+    - title: 
+      content: "But this is what will save me\u2014I am not godless.\n\tIf I were,
+        I could not stand before him.  "
+      comments: []
+    - title: 
+      content: "\u201CListen closely to what I am about to say.\n\tHear me out.  "
+      comments: []
+    - title: 
+      content: "I have prepared my case;\n\tI will be proved innocent.  "
+      comments: []
+    - title: 
+      content: "Who can argue with me over this?\n\tAnd if you prove me wrong, I
+        will remain silent and die.  "
+      comments: []
+    - title: Job Asks How He Has Sinned
+      content: "\u201CO God, grant me these two things,\n\tand then I will be able
+        to face you.  "
+      comments: []
+    - title: 
+      content: "Remove your heavy hand from me,\n\tand don\u2019t terrify me with
+        your awesome presence.  "
+      comments: []
+    - title: 
+      content: "Now summon me, and I will answer!\n\tOr let me speak to you, and
+        you reply.  "
+      comments: []
+    - title: 
+      content: "Tell me, what have I done wrong?\n\tShow me my rebellion and my sin.  "
+      comments: []
+    - title: 
+      content: "Why do you turn away from me?\n\tWhy do you treat me as your enemy?  "
+      comments: []
+    - title: 
+      content: "Would you terrify a leaf blown by the wind?\n\tWould you chase dry
+        straw?  "
+      comments: []
+    - title: 
+      content: "\u201CYou write bitter accusations against me\n\tand bring up all
+        the sins of my youth.  "
+      comments: []
+    - title: 
+      content: "You put my feet in stocks.\n\tYou examine all my paths.\n\tYou trace
+        all my footprints.  "
+      comments: []
+    - title: 
+      content: "I waste away like rotting wood,\n\tlike a moth-eaten coat."
+      comments: []
+  - verses:
+    - title: 
+      content: "\u201CHow frail is humanity!\n\tHow short is life, how full of trouble!  "
+      comments: []
+    - title: 
+      content: "We blossom like a flower and then wither.\n\tLike a passing shadow,
+        we quickly disappear.  "
+      comments: []
+    - title: 
+      content: "Must you keep an eye on such a frail creature\n\tand demand an accounting
+        from me?  "
+      comments: []
+    - title: 
+      content: "Who can bring purity out of an impure person?\n\tNo one!  "
+      comments: []
+    - title: 
+      content: "You have decided the length of our lives.\n\tYou know how many months
+        we will live,\n\tand we are not given a minute longer.  "
+      comments: []
+    - title: 
+      content: "So leave us alone and let us rest!\n\tWe are like hired hands, so
+        let us finish our work in peace.  "
+      comments: []
+    - title: 
+      content: "\u201CEven a tree has more hope!\n\tIf it is cut down, it will sprout
+        again\n\tand grow new branches.  "
+      comments: []
+    - title: 
+      content: "Though its roots have grown old in the earth\n\tand its stump decays,  "
+      comments: []
+    - title: 
+      content: "at the scent of water it will bud\n\tand sprout again like a new
+        seedling.  "
+      comments: []
+    - title: 
+      content: "\u201CBut when people die, their strength is gone.\n\tThey breathe
+        their last, and then where are they?  "
+      comments: []
+    - title: 
+      content: "As water evaporates from a lake\n\tand a river disappears in drought,  "
+      comments: []
+    - title: 
+      content: "people are laid to rest and do not rise again.\n\tUntil the heavens
+        are no more, they will not wake up\n\tnor be roused from their sleep.  "
+      comments: []
+    - title: 
+      content: "\u201CI wish you would hide me in the grave[COMMENT[0]]and forget
+        me there until your anger has passed.\n\tBut mark your calendar to think
+        of me again!  "
+      comments:
+      - number: '14:13 '
+        contents:
+        - ft: 'Hebrew '
+          body: in Sheol.
+    - title: 
+      content: "Can the dead live again?\n\tIf so, this would give me hope through
+        all my years of struggle,\n\tand I would eagerly await the release of death.  "
+      comments: []
+    - title: 
+      content: "You would call and I would answer,\n\tand you would yearn for me,
+        your handiwork.  "
+      comments: []
+    - title: 
+      content: "For then you would guard my steps,\n\tinstead of watching for my
+        sins.  "
+      comments: []
+    - title: 
+      content: "My sins would be sealed in a pouch,\n\tand you would cover my guilt.  "
+      comments: []
+    - title: 
+      content: "\u201CBut instead, as mountains fall and crumble\n\tand as rocks
+        fall from a cliff,  "
+      comments: []
+    - title: 
+      content: "as water wears away the stones\n\tand floods wash away the soil,\n\tso
+        you destroy people\u2019s hope.  "
+      comments: []
+    - title: 
+      content: "You always overpower them, and they pass from the scene.\n\tYou disfigure
+        them in death and send them away.  "
+      comments: []
+    - title: 
+      content: "They never know if their children grow up in honor\n\tor sink to
+        insignificance.  "
+      comments: []
+    - title: 
+      content: "They suffer painfully;\n\ttheir life is full of trouble.\u201D"
+      comments: []
+  - verses:
+    - title: "Eliphaz\u2019s Second Response to Job"
+      content: 'Then Eliphaz the Temanite replied:  '
+      comments: []
+    - title: 
+      content: "\u201CA wise man wouldn\u2019t answer with such empty talk!\n\tYou
+        are nothing but a windbag.  "
+      comments: []
+    - title: 
+      content: "The wise don\u2019t engage in empty chatter.\n\tWhat good are such
+        words?  "
+      comments: []
+    - title: 
+      content: "Have you no fear of God,\n\tno reverence for him?  "
+      comments: []
+    - title: 
+      content: "Your sins are telling your mouth what to say.\n\tYour words are based
+        on clever deception.  "
+      comments: []
+    - title: 
+      content: "Your own mouth condemns you, not I.\n\tYour own lips testify against
+        you.  "
+      comments: []
+    - title: 
+      content: "\u201CWere you the first person ever born?\n\tWere you born before
+        the hills were made?  "
+      comments: []
+    - title: 
+      content: "Were you listening at God\u2019s secret council?\n\tDo you have a
+        monopoly on wisdom?  "
+      comments: []
+    - title: 
+      content: "What do you know that we don\u2019t?\n\tWhat do you understand that
+        we do not?  "
+      comments: []
+    - title: 
+      content: "On our side are aged, gray-haired men\n\tmuch older than your father!  "
+      comments: []
+    - title: 
+      content: "\u201CIs God\u2019s comfort too little for you?\n\tIs his gentle
+        word not enough?  "
+      comments: []
+    - title: 
+      content: "What has taken away your reason?\n\tWhat has weakened your vision,[COMMENT[0]]  "
+      comments:
+      - number: '15:12 '
+        contents:
+        - ft: 'Or '
+          body: 'Why do your eyes flash with anger; '
+        - ft: 'Hebrew reads '
+          body: Why do your eyes blink.
+    - title: 
+      content: "that you turn against God\n\tand say all these evil things?  "
+      comments: []
+    - title: 
+      content: "Can any mortal be pure?\n\tCan anyone born of a woman be just?  "
+      comments: []
+    - title: 
+      content: 'Look, God does not even trust the angels.[COMMENT[0]]Even the heavens
+        are not absolutely pure in his sight.  '
+      comments:
+      - number: '15:15 '
+        contents:
+        - ft: 'Hebrew '
+          body: the holy ones.
+    - title: 
+      content: "How much less pure is a corrupt and sinful person\n\twith a thirst
+        for wickedness!  "
+      comments: []
+    - title: 
+      content: "\u201CIf you will listen, I will show you.\n\tI will answer you from
+        my own experience.  "
+      comments: []
+    - title: 
+      content: "And it is confirmed by the reports of wise men\n\twho have heard
+        the same thing from their fathers\u2014  "
+      comments: []
+    - title: 
+      content: "from those to whom the land was given\n\tlong before any foreigners
+        arrived.  "
+      comments: []
+    - title: 
+      content: "\u201CThe wicked writhe in pain throughout their lives.\n\tYears
+        of trouble are stored up for the ruthless.  "
+      comments: []
+    - title: 
+      content: "The sound of terror rings in their ears,\n\tand even on good days
+        they fear the attack of the destroyer.  "
+      comments: []
+    - title: 
+      content: "They dare not go out into the darkness\n\tfor fear they will be murdered.  "
+      comments: []
+    - title: 
+      content: "They wander around, saying, \u2018Where can I find bread?\u2019[COMMENT[0]]They
+        know their day of destruction is near.  "
+      comments:
+      - number: '15:23 '
+        contents:
+        - ft: 'Greek version reads '
+          body: He is appointed to be food for a vulture.
+    - title: 
+      content: "That dark day terrifies them.\n\tThey live in distress and anguish,\n\tlike
+        a king preparing for battle.  "
+      comments: []
+    - title: 
+      content: "For they shake their fists at God,\n\tdefying the Almighty.  "
+      comments: []
+    - title: 
+      content: "Holding their strong shields,\n\tthey defiantly charge against him.  "
+      comments: []
+    - title: 
+      content: "\u201CThese wicked people are heavy and prosperous;\n\ttheir waists
+        bulge with fat.  "
+      comments: []
+    - title: 
+      content: "But their cities will be ruined.\n\tThey will live in abandoned houses\n\tthat
+        are ready to tumble down.  "
+      comments: []
+    - title: 
+      content: "Their riches will not last,\n\tand their wealth will not endure.\n\tTheir
+        possessions will no longer spread across the horizon.  "
+      comments: []
+    - title: 
+      content: "\u201CThey will not escape the darkness.\n\tThe burning sun will
+        wither their shoots,\n\tand the breath of God will destroy them.  "
+      comments: []
+    - title: 
+      content: "Let them no longer fool themselves by trusting in empty riches,\n\tfor
+        emptiness will be their only reward.  "
+      comments: []
+    - title: 
+      content: "They will be cut down in the prime of life;\n\ttheir branches will
+        never again be green.  "
+      comments: []
+    - title: 
+      content: "They will be like a vine whose grapes are harvested too early,\n\tlike
+        an olive tree that loses its blossoms before the fruit can form.  "
+      comments: []
+    - title: 
+      content: "For the godless are barren.\n\tTheir homes, enriched through bribery,
+        will burn.  "
+      comments: []
+    - title: 
+      content: "They conceive trouble and give birth to evil.\n\tTheir womb produces
+        deceit.\u201D"
+      comments: []
+  - verses:
+    - title: "Job\u2019s Fifth Speech: A Response to Eliphaz"
+      content: 'Then Job spoke again:  '
+      comments: []
+    - title: 
+      content: "\u201CI have heard all this before.\n\tWhat miserable comforters
+        you are!  "
+      comments: []
+    - title: 
+      content: "Won\u2019t you ever stop blowing hot air?\n\tWhat makes you keep
+        on talking?  "
+      comments: []
+    - title: 
+      content: "I could say the same things if you were in my place.\n\tI could spout
+        off criticism and shake my head at you.  "
+      comments: []
+    - title: 
+      content: "But if it were me, I would encourage you.\n\tI would try to take
+        away your grief.  "
+      comments: []
+    - title: 
+      content: "Instead, I suffer if I defend myself,\n\tand I suffer no less if
+        I refuse to speak.  "
+      comments: []
+    - title: 
+      content: "\u201CO God, you have ground me down\n\tand devastated my family.  "
+      comments: []
+    - title: 
+      content: "As if to prove I have sinned, you\u2019ve reduced me to skin and
+        bones.\n\tMy gaunt flesh testifies against me.  "
+      comments: []
+    - title: 
+      content: "God hates me and angrily tears me apart.\n\tHe snaps his teeth at
+        me\n\tand pierces me with his eyes.  "
+      comments: []
+    - title: 
+      content: "People jeer and laugh at me.\n\tThey slap my cheek in contempt.\n\tA
+        mob gathers against me.  "
+      comments: []
+    - title: 
+      content: "God has handed me over to sinners.\n\tHe has tossed me into the hands
+        of the wicked.  "
+      comments: []
+    - title: 
+      content: "\u201CI was living quietly until he shattered me.\n\tHe took me by
+        the neck and broke me in pieces.\n\tThen he set me up as his target,  "
+      comments: []
+    - title: 
+      content: "and now his archers surround me.\n\tHis arrows pierce me without
+        mercy.\n\tThe ground is wet with my blood.[COMMENT[0]]  "
+      comments:
+      - number: '16:13 '
+        contents:
+        - ft: 'Hebrew '
+          body: my gall.
+    - title: 
+      content: "Again and again he smashes against me,\n\tcharging at me like a warrior.  "
+      comments: []
+    - title: 
+      content: "I wear burlap to show my grief.\n\tMy pride lies in the dust.  "
+      comments: []
+    - title: 
+      content: "My eyes are red with weeping;\n\tdark shadows circle my eyes.  "
+      comments: []
+    - title: 
+      content: "Yet I have done no wrong,\n\tand my prayer is pure.  "
+      comments: []
+    - title: 
+      content: "\u201CO earth, do not conceal my blood.\n\tLet it cry out on my behalf.  "
+      comments: []
+    - title: 
+      content: "Even now my witness is in heaven.\n\tMy advocate is there on high.  "
+      comments: []
+    - title: 
+      content: "My friends scorn me,\n\tbut I pour out my tears to God.  "
+      comments: []
+    - title: 
+      content: "I need someone to mediate between God and me,\n\tas a person mediates
+        between friends.  "
+      comments: []
+    - title: 
+      content: "For soon I must go down that road\n\tfrom which I will never return."
+      comments: []
+  - verses:
+    - title: Job Continues to Defend His Innocence
+      content: "\u201CMy spirit is crushed,\n\tand my life is nearly snuffed out.\n\tThe
+        grave is ready to receive me.  "
+      comments: []
+    - title: 
+      content: "I am surrounded by mockers.\n\tI watch how bitterly they taunt me.  "
+      comments: []
+    - title: 
+      content: "\u201CYou must defend my innocence, O God,\n\tsince no one else will
+        stand up for me.  "
+      comments: []
+    - title: 
+      content: "You have closed their minds to understanding,\n\tbut do not let them
+        triumph.  "
+      comments: []
+    - title: 
+      content: "They betray their friends for their own advantage,\n\tso let their
+        children faint with hunger.  "
+      comments: []
+    - title: 
+      content: "\u201CGod has made a mockery of me among the people;\n\tthey spit
+        in my face.  "
+      comments: []
+    - title: 
+      content: "My eyes are swollen with weeping,\n\tand I am but a shadow of my
+        former self.  "
+      comments: []
+    - title: 
+      content: "The virtuous are horrified when they see me.\n\tThe innocent rise
+        up against the ungodly.  "
+      comments: []
+    - title: 
+      content: "The righteous keep moving forward,\n\tand those with clean hands
+        become stronger and stronger.  "
+      comments: []
+    - title: 
+      content: "\u201CAs for all of you, come back with a better argument,\n\tthough
+        I still won\u2019t find a wise man among you.  "
+      comments: []
+    - title: 
+      content: "My days are over.\n\tMy hopes have disappeared.\n\tMy heart\u2019s
+        desires are broken.  "
+      comments: []
+    - title: 
+      content: "These men say that night is day;\n\tthey claim that the darkness
+        is light.  "
+      comments: []
+    - title: 
+      content: 'What if I go to the grave[COMMENT[0]]and make my bed in darkness?  '
+      comments:
+      - number: '17:13 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'to Sheol; '
+        - ft: also in 17:16.
+          body: 
+    - title: 
+      content: "What if I call the grave my father,\n\tand the maggot my mother or
+        my sister?  "
+      comments: []
+    - title: 
+      content: "Where then is my hope?\n\tCan anyone find it?  "
+      comments: []
+    - title: 
+      content: "No, my hope will go down with me to the grave.\n\tWe will rest together
+        in the dust!\u201D"
+      comments: []
+  - verses:
+    - title: "Bildad\u2019s Second Response to Job"
+      content: 'Then Bildad the Shuhite replied:  '
+      comments: []
+    - title: 
+      content: "\u201CHow long before you stop talking?\n\tSpeak sense if you want
+        us to answer!  "
+      comments: []
+    - title: 
+      content: "Do you think we are mere animals?\n\tDo you think we are stupid?  "
+      comments: []
+    - title: 
+      content: "You may tear out your hair in anger,\n\tbut will that destroy the
+        earth?\n\tWill it make the rocks tremble?  "
+      comments: []
+    - title: 
+      content: "\u201CSurely the light of the wicked will be snuffed out.\n\tThe
+        sparks of their fire will not glow.  "
+      comments: []
+    - title: 
+      content: "The light in their tent will grow dark.\n\tThe lamp hanging above
+        them will be quenched.  "
+      comments: []
+    - title: 
+      content: "The confident stride of the wicked will be shortened.\n\tTheir own
+        schemes will be their downfall.  "
+      comments: []
+    - title: 
+      content: "The wicked walk into a net.\n\tThey fall into a pit.  "
+      comments: []
+    - title: 
+      content: "A trap grabs them by the heel.\n\tA snare holds them tight.  "
+      comments: []
+    - title: 
+      content: "A noose lies hidden on the ground.\n\tA rope is stretched across
+        their path.  "
+      comments: []
+    - title: 
+      content: "\u201CTerrors surround the wicked\n\tand trouble them at every step.  "
+      comments: []
+    - title: 
+      content: "Hunger depletes their strength,\n\tand calamity waits for them to
+        stumble.  "
+      comments: []
+    - title: 
+      content: "Disease eats their skin;\n\tdeath devours their limbs.  "
+      comments: []
+    - title: 
+      content: "They are torn from the security of their homes\n\tand are brought
+        down to the king of terrors.  "
+      comments: []
+    - title: 
+      content: "The homes of the wicked will burn down;\n\tburning sulfur rains on
+        their houses.  "
+      comments: []
+    - title: 
+      content: "Their roots will dry up,\n\tand their branches will wither.  "
+      comments: []
+    - title: 
+      content: "All memory of their existence will fade from the earth;\n\tno one
+        will remember their names.  "
+      comments: []
+    - title: 
+      content: "They will be thrust from light into darkness,\n\tdriven from the
+        world.  "
+      comments: []
+    - title: 
+      content: "They will have neither children nor grandchildren,\n\tnor any survivor
+        in the place where they lived.  "
+      comments: []
+    - title: 
+      content: "People in the west are appalled at their fate;\n\tpeople in the east
+        are horrified.  "
+      comments: []
+    - title: 
+      content: "They will say, \u2018This was the home of a wicked person,\n\tthe
+        place of one who rejected God.\u2019\u201D"
+      comments: []
+  - verses:
+    - title: "Job\u2019s Sixth Speech: A Response to Bildad"
+      content: 'Then Job spoke again:  '
+      comments: []
+    - title: 
+      content: "\u201CHow long will you torture me?\n\tHow long will you try to crush
+        me with your words?  "
+      comments: []
+    - title: 
+      content: "You have already insulted me ten times.\n\tYou should be ashamed
+        of treating me so badly.  "
+      comments: []
+    - title: 
+      content: "Even if I have sinned,\n\tthat is my concern, not yours.  "
+      comments: []
+    - title: 
+      content: "You think you\u2019re better than I am,\n\tusing my humiliation as
+        evidence of my sin.  "
+      comments: []
+    - title: 
+      content: "But it is God who has wronged me,\n\tcapturing me in his net.[COMMENT[0]]  "
+      comments:
+      - number: '19:6 '
+        contents:
+        - ft: 'Or '
+          body: for I am like a city under siege.
+    - title: 
+      content: "\u201CI cry out, \u2018Help!\u2019 but no one answers me.\n\tI protest,
+        but there is no justice.  "
+      comments: []
+    - title: 
+      content: "God has blocked my way so I cannot move.\n\tHe has plunged my path
+        into darkness.  "
+      comments: []
+    - title: 
+      content: "He has stripped me of my honor\n\tand removed the crown from my head.  "
+      comments: []
+    - title: 
+      content: "He has demolished me on every side, and I am finished.\n\tHe has
+        uprooted my hope like a fallen tree.  "
+      comments: []
+    - title: 
+      content: "His fury burns against me;\n\the counts me as an enemy.  "
+      comments: []
+    - title: 
+      content: "His troops advance.\n\tThey build up roads to attack me.\n\tThey
+        camp all around my tent.  "
+      comments: []
+    - title: 
+      content: "\u201CMy relatives stay far away,\n\tand my friends have turned against
+        me.  "
+      comments: []
+    - title: 
+      content: "My family is gone,\n\tand my close friends have forgotten me.  "
+      comments: []
+    - title: 
+      content: "My servants and maids consider me a stranger.\n\tI am like a foreigner
+        to them.  "
+      comments: []
+    - title: 
+      content: "When I call my servant, he doesn\u2019t come;\n\tI have to plead
+        with him!  "
+      comments: []
+    - title: 
+      content: "My breath is repulsive to my wife.\n\tI am rejected by my own family.  "
+      comments: []
+    - title: 
+      content: "Even young children despise me.\n\tWhen I stand to speak, they turn
+        their backs on me.  "
+      comments: []
+    - title: 
+      content: "My close friends detest me.\n\tThose I loved have turned against
+        me.  "
+      comments: []
+    - title: 
+      content: "I have been reduced to skin and bones\n\tand have escaped death by
+        the skin of my teeth.  "
+      comments: []
+    - title: 
+      content: "\u201CHave mercy on me, my friends, have mercy,\n\tfor the hand of
+        God has struck me.  "
+      comments: []
+    - title: 
+      content: "Must you also persecute me, like God does?\n\tHaven\u2019t you chewed
+        me up enough?  "
+      comments: []
+    - title: 
+      content: "\u201COh, that my words could be recorded.\n\tOh, that they could
+        be inscribed on a monument,  "
+      comments: []
+    - title: 
+      content: "carved with an iron chisel and filled with lead,\n\tengraved forever
+        in the rock.  "
+      comments: []
+    - title: 
+      content: "\u201CBut as for me, I know that my Redeemer lives,\n\tand he will
+        stand upon the earth at last.  "
+      comments: []
+    - title: 
+      content: "And after my body has decayed,\n\tyet in my body I will see God![COMMENT[0]]  "
+      comments:
+      - number: '19:26 '
+        contents:
+        - ft: 'Or '
+          body: 'without my body I will see God. '
+        - ft: The meaning of the Hebrew is uncertain.
+          body: 
+    - title: 
+      content: "I will see him for myself.\n\tYes, I will see him with my own eyes.\n\tI
+        am overwhelmed at the thought!  "
+      comments: []
+    - title: 
+      content: "\u201CHow dare you go on persecuting me,\n\tsaying, \u2018It\u2019s
+        his own fault\u2019?  "
+      comments: []
+    - title: 
+      content: "You should fear punishment yourselves,\n\tfor your attitude deserves
+        punishment.\n\tThen you will know that there is indeed a judgment.\u201D"
+      comments: []
+  - verses:
+    - title: "Zophar\u2019s Second Response to Job"
+      content: 'Then Zophar the Naamathite replied:  '
+      comments: []
+    - title: 
+      content: "\u201CI must reply\n\tbecause I am greatly disturbed.  "
+      comments: []
+    - title: 
+      content: "I\u2019ve had to endure your insults,\n\tbut now my spirit prompts
+        me to reply.  "
+      comments: []
+    - title: 
+      content: "\u201CDon\u2019t you realize that from the beginning of time,\n\tever
+        since people were first placed on the earth,  "
+      comments: []
+    - title: 
+      content: "the triumph of the wicked has been short lived\n\tand the joy of
+        the godless has been only temporary?  "
+      comments: []
+    - title: 
+      content: "Though the pride of the godless reaches to the heavens\n\tand their
+        heads touch the clouds,  "
+      comments: []
+    - title: 
+      content: "yet they will vanish forever,\n\tthrown away like their own dung.\n\tThose
+        who knew them will ask,\n\t\u2018Where are they?\u2019  "
+      comments: []
+    - title: 
+      content: "They will fade like a dream and not be found.\n\tThey will vanish
+        like a vision in the night.  "
+      comments: []
+    - title: 
+      content: "Those who once saw them will see them no more.\n\tTheir families
+        will never see them again.  "
+      comments: []
+    - title: 
+      content: "Their children will beg from the poor,\n\tfor they must give back
+        their stolen riches.  "
+      comments: []
+    - title: 
+      content: "Though they are young,\n\ttheir bones will lie in the dust.  "
+      comments: []
+    - title: 
+      content: "\u201CThey enjoyed the sweet taste of wickedness,\n\tletting it melt
+        under their tongue.  "
+      comments: []
+    - title: 
+      content: "They savored it,\n\tholding it long in their mouths.  "
+      comments: []
+    - title: 
+      content: "But suddenly the food in their bellies turns sour,\n\ta poisonous
+        venom in their stomach.  "
+      comments: []
+    - title: 
+      content: "They will vomit the wealth they swallowed.\n\tGod won\u2019t let
+        them keep it down.  "
+      comments: []
+    - title: 
+      content: "They will suck the poison of cobras.\n\tThe viper will kill them.  "
+      comments: []
+    - title: 
+      content: "They will never again enjoy streams of olive oil\n\tor rivers of
+        milk and honey.  "
+      comments: []
+    - title: 
+      content: "They will give back everything they worked for.\n\tTheir wealth will
+        bring them no joy.  "
+      comments: []
+    - title: 
+      content: "For they oppressed the poor and left them destitute.\n\tThey foreclosed
+        on their homes.  "
+      comments: []
+    - title: 
+      content: "They were always greedy and never satisfied.\n\tNothing remains of
+        all the things they dreamed about.  "
+      comments: []
+    - title: 
+      content: "Nothing is left after they finish gorging themselves.\n\tTherefore,
+        their prosperity will not endure.  "
+      comments: []
+    - title: 
+      content: "\u201CIn the midst of plenty, they will run into trouble\n\tand be
+        overcome by misery.  "
+      comments: []
+    - title: 
+      content: "May God give them a bellyful of trouble.\n\tMay God rain down his
+        anger upon them.  "
+      comments: []
+    - title: 
+      content: "When they try to escape an iron weapon,\n\ta bronze-tipped arrow
+        will pierce them.  "
+      comments: []
+    - title: 
+      content: "The arrow is pulled from their back,\n\tand the arrowhead glistens
+        with blood.[COMMENT[0]]The terrors of death are upon them.  "
+      comments:
+      - number: '20:25 '
+        contents:
+        - ft: 'Hebrew '
+          body: with gall.
+    - title: 
+      content: "Their treasures will be thrown into deepest darkness.\n\tA wildfire
+        will devour their goods,\n\tconsuming all they have left.  "
+      comments: []
+    - title: 
+      content: "The heavens will reveal their guilt,\n\tand the earth will testify
+        against them.  "
+      comments: []
+    - title: 
+      content: "A flood will sweep away their house.\n\tGod\u2019s anger will descend
+        on them in torrents.  "
+      comments: []
+    - title: 
+      content: "This is the reward that God gives the wicked.\n\tIt is the inheritance
+        decreed by God.\u201D"
+      comments: []
+  - verses:
+    - title: "Job\u2019s Seventh Speech: A Response to Zophar"
+      content: 'Then Job spoke again:  '
+      comments: []
+    - title: 
+      content: "\u201CListen closely to what I am saying.\n\tThat\u2019s one consolation
+        you can give me.  "
+      comments: []
+    - title: 
+      content: "Bear with me, and let me speak.\n\tAfter I have spoken, you may resume
+        mocking me.  "
+      comments: []
+    - title: 
+      content: "\u201CMy complaint is with God, not with people.\n\tI have good reason
+        to be so impatient.  "
+      comments: []
+    - title: 
+      content: "Look at me and be stunned.\n\tPut your hand over your mouth in shock.  "
+      comments: []
+    - title: 
+      content: "When I think about what I am saying, I shudder.\n\tMy body trembles.  "
+      comments: []
+    - title: 
+      content: "\u201CWhy do the wicked prosper,\n\tgrowing old and powerful?  "
+      comments: []
+    - title: 
+      content: "They live to see their children grow up and settle down,\n\tand they
+        enjoy their grandchildren.  "
+      comments: []
+    - title: 
+      content: "Their homes are safe from every fear,\n\tand God does not punish
+        them.  "
+      comments: []
+    - title: 
+      content: "Their bulls never fail to breed.\n\tTheir cows bear calves and never
+        miscarry.  "
+      comments: []
+    - title: 
+      content: "They let their children frisk about like lambs.\n\tTheir little ones
+        skip and dance.  "
+      comments: []
+    - title: 
+      content: "They sing with tambourine and harp.\n\tThey celebrate to the sound
+        of the flute.  "
+      comments: []
+    - title: 
+      content: "They spend their days in prosperity,\n\tthen go down to the grave[COMMENT[0]]
+        in peace.  "
+      comments:
+      - number: '21:13 '
+        contents:
+        - ft: 'Hebrew '
+          body: to Sheol.
+    - title: 
+      content: "And yet they say to God, \u2018Go away.\n\tWe want no part of you
+        and your ways.  "
+      comments: []
+    - title: 
+      content: "Who is the Almighty, and why should we obey him?\n\tWhat good will
+        it do us to pray?\u2019  "
+      comments: []
+    - title: 
+      content: "(They think their prosperity is of their own doing,\n\tbut I will
+        have nothing to do with that kind of thinking.)  "
+      comments: []
+    - title: 
+      content: "\u201CYet the light of the wicked never seems to be extinguished.\n\tDo
+        they ever have trouble?\n\tDoes God distribute sorrows to them in anger?  "
+      comments: []
+    - title: 
+      content: "Are they driven before the wind like straw?\n\tAre they carried away
+        by the storm like chaff?\n\tNot at all!  "
+      comments: []
+    - title: 
+      content: "\u201C\u2018Well,\u2019 you say, \u2018at least God will punish their
+        children!\u2019\n\tBut I say he should punish the ones who sin,\n\tso that
+        they understand his judgment.  "
+      comments: []
+    - title: 
+      content: "Let them see their destruction with their own eyes.\n\tLet them drink
+        deeply of the anger of the Almighty.  "
+      comments: []
+    - title: 
+      content: "For they will not care what happens to their family\n\tafter they
+        are dead.  "
+      comments: []
+    - title: 
+      content: "\u201CBut who can teach a lesson to God,\n\tsince he judges even
+        the most powerful?  "
+      comments: []
+    - title: 
+      content: "One person dies in prosperity,\n\tcompletely comfortable and secure,  "
+      comments: []
+    - title: 
+      content: "the picture of good health,\n\tvigorous and fit.  "
+      comments: []
+    - title: 
+      content: "Another person dies in bitter poverty,\n\tnever having tasted the
+        good life.  "
+      comments: []
+    - title: 
+      content: "But both are buried in the same dust,\n\tboth eaten by the same maggots.  "
+      comments: []
+    - title: 
+      content: "\u201CLook, I know what you\u2019re thinking.\n\tI know the schemes
+        you plot against me.  "
+      comments: []
+    - title: 
+      content: "You will tell me of rich and wicked people\n\twhose houses have vanished
+        because of their sins.  "
+      comments: []
+    - title: 
+      content: "But ask those who have been around,\n\tand they will tell you the
+        truth.  "
+      comments: []
+    - title: 
+      content: "Evil people are spared in times of calamity\n\tand are allowed to
+        escape disaster.  "
+      comments: []
+    - title: 
+      content: "No one criticizes them openly\n\tor pays them back for what they
+        have done.  "
+      comments: []
+    - title: 
+      content: "When they are carried to the grave,\n\tan honor guard keeps watch
+        at their tomb.  "
+      comments: []
+    - title: 
+      content: "A great funeral procession goes to the cemetery.\n\tMany pay their
+        respects as the body is laid to rest,\n\tand the earth gives sweet repose.  "
+      comments: []
+    - title: 
+      content: "\u201CHow can your empty clich\xE9s comfort me?\n\tAll your explanations
+        are lies!\u201D"
+      comments: []
+  - verses:
+    - title: "Eliphaz\u2019s Third Response to Job"
+      content: 'Then Eliphaz the Temanite replied:  '
+      comments: []
+    - title: 
+      content: "\u201CCan a person do anything to help God?\n\tCan even a wise person
+        be helpful to him?  "
+      comments: []
+    - title: 
+      content: "Is it any advantage to the Almighty if you are righteous?\n\tWould
+        it be any gain to him if you were perfect?  "
+      comments: []
+    - title: 
+      content: "Is it because you\u2019re so pious that he accuses you\n\tand brings
+        judgment against you?  "
+      comments: []
+    - title: 
+      content: "No, it\u2019s because of your wickedness!\n\tThere\u2019s no limit
+        to your sins.  "
+      comments: []
+    - title: 
+      content: "\u201CFor example, you must have lent money to your friend\n\tand
+        demanded clothing as security.\n\tYes, you stripped him to the bone.  "
+      comments: []
+    - title: 
+      content: "You must have refused water for the thirsty\n\tand food for the hungry.  "
+      comments: []
+    - title: 
+      content: "You probably think the land belongs to the powerful\n\tand only the
+        privileged have a right to it!  "
+      comments: []
+    - title: 
+      content: "You must have sent widows away empty-handed\n\tand crushed the hopes
+        of orphans.  "
+      comments: []
+    - title: 
+      content: "That is why you are surrounded by traps\n\tand tremble from sudden
+        fears.  "
+      comments: []
+    - title: 
+      content: "That is why you cannot see in the darkness,\n\tand waves of water
+        cover you.  "
+      comments: []
+    - title: 
+      content: "\u201CGod is so great\u2014higher than the heavens,\n\thigher than
+        the farthest stars.  "
+      comments: []
+    - title: 
+      content: "But you reply, \u2018That\u2019s why God can\u2019t see what I am
+        doing!\n\tHow can he judge through the thick darkness?  "
+      comments: []
+    - title: 
+      content: "For thick clouds swirl about him, and he cannot see us.\n\tHe is
+        way up there, walking on the vault of heaven.\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CWill you continue on the old paths\n\twhere evil people have
+        walked?  "
+      comments: []
+    - title: 
+      content: "They were snatched away in the prime of life,\n\tthe foundations
+        of their lives washed away.  "
+      comments: []
+    - title: 
+      content: "For they said to God, \u2018Leave us alone!\n\tWhat can the Almighty
+        do to us?\u2019  "
+      comments: []
+    - title: 
+      content: "Yet he was the one who filled their homes with good things,\n\tso
+        I will have nothing to do with that kind of thinking.  "
+      comments: []
+    - title: 
+      content: "\u201CThe righteous will be happy to see the wicked destroyed,\n\tand
+        the innocent will laugh in contempt.  "
+      comments: []
+    - title: 
+      content: "They will say, \u2018See how our enemies have been destroyed.\n\tThe
+        last of them have been consumed in the fire.\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CSubmit to God, and you will have peace;\n\tthen things will
+        go well for you.  "
+      comments: []
+    - title: 
+      content: "Listen to his instructions,\n\tand store them in your heart.  "
+      comments: []
+    - title: 
+      content: "If you return to the Almighty, you will be restored\u2014\n\tso clean
+        up your life.  "
+      comments: []
+    - title: 
+      content: "If you give up your lust for money\n\tand throw your precious gold
+        into the river,  "
+      comments: []
+    - title: 
+      content: "the Almighty himself will be your treasure.\n\tHe will be your precious
+        silver!  "
+      comments: []
+    - title: 
+      content: "\u201CThen you will take delight in the Almighty\n\tand look up to
+        God.  "
+      comments: []
+    - title: 
+      content: "You will pray to him, and he will hear you,\n\tand you will fulfill
+        your vows to him.  "
+      comments: []
+    - title: 
+      content: "You will succeed in whatever you choose to do,\n\tand light will
+        shine on the road ahead of you.  "
+      comments: []
+    - title: 
+      content: "If people are in trouble and you say, \u2018Help them,\u2019\n\tGod
+        will save them.  "
+      comments: []
+    - title: 
+      content: "Even sinners will be rescued;\n\tthey will be rescued because your
+        hands are pure.\u201D"
+      comments: []
+  - verses:
+    - title: "Job\u2019s Eighth Speech: A Response to Eliphaz"
+      content: 'Then Job spoke again:  '
+      comments: []
+    - title: 
+      content: "\u201CMy complaint today is still a bitter one,\n\tand I try hard
+        not to groan aloud.  "
+      comments: []
+    - title: 
+      content: "If only I knew where to find God,\n\tI would go to his court.  "
+      comments: []
+    - title: 
+      content: "I would lay out my case\n\tand present my arguments.  "
+      comments: []
+    - title: 
+      content: "Then I would listen to his reply\n\tand understand what he says to
+        me.  "
+      comments: []
+    - title: 
+      content: "Would he use his great power to argue with me?\n\tNo, he would give
+        me a fair hearing.  "
+      comments: []
+    - title: 
+      content: "Honest people can reason with him,\n\tso I would be forever acquitted
+        by my judge.  "
+      comments: []
+    - title: 
+      content: "I go east, but he is not there.\n\tI go west, but I cannot find him.  "
+      comments: []
+    - title: 
+      content: "I do not see him in the north, for he is hidden.\n\tI look to the
+        south, but he is concealed.  "
+      comments: []
+    - title: 
+      content: "\u201CBut he knows where I am going.\n\tAnd when he tests me, I will
+        come out as pure as gold.  "
+      comments: []
+    - title: 
+      content: "For I have stayed on God\u2019s paths;\n\tI have followed his ways
+        and not turned aside.  "
+      comments: []
+    - title: 
+      content: "I have not departed from his commands,\n\tbut have treasured his
+        words more than daily food.  "
+      comments: []
+    - title: 
+      content: "But once he has made his decision, who can change his mind?\n\tWhatever
+        he wants to do, he does.  "
+      comments: []
+    - title: 
+      content: "So he will do to me whatever he has planned.\n\tHe controls my destiny.  "
+      comments: []
+    - title: 
+      content: "No wonder I am so terrified in his presence.\n\tWhen I think of it,
+        terror grips me.  "
+      comments: []
+    - title: 
+      content: "God has made me sick at heart;\n\tthe Almighty has terrified me.  "
+      comments: []
+    - title: 
+      content: "Darkness is all around me;\n\tthick, impenetrable darkness is everywhere."
+      comments: []
+  - verses:
+    - title: Job Asks Why the Wicked Are Not Punished
+      content: "\u201CWhy doesn\u2019t the Almighty bring the wicked to judgment?\n\tWhy
+        must the godly wait for him in vain?  "
+      comments: []
+    - title: 
+      content: "Evil people steal land by moving the boundary markers.\n\tThey steal
+        livestock and put them in their own pastures.  "
+      comments: []
+    - title: 
+      content: "They take the orphan\u2019s donkey\n\tand demand the widow\u2019s
+        ox as security for a loan.  "
+      comments: []
+    - title: 
+      content: "The poor are pushed off the path;\n\tthe needy must hide together
+        for safety.  "
+      comments: []
+    - title: 
+      content: "Like wild donkeys in the wilderness,\n\tthe poor must spend all their
+        time looking for food,\n\tsearching even in the desert for food for their
+        children.  "
+      comments: []
+    - title: 
+      content: "They harvest a field they do not own,\n\tand they glean in the vineyards
+        of the wicked.  "
+      comments: []
+    - title: 
+      content: "All night they lie naked in the cold,\n\twithout clothing or covering.  "
+      comments: []
+    - title: 
+      content: "They are soaked by mountain showers,\n\tand they huddle against the
+        rocks for want of a home.  "
+      comments: []
+    - title: 
+      content: "\u201CThe wicked snatch a widow\u2019s child from her breast,\n\ttaking
+        the baby as security for a loan.  "
+      comments: []
+    - title: 
+      content: "The poor must go about naked, without any clothing.\n\tThey harvest
+        food for others while they themselves are starving.  "
+      comments: []
+    - title: 
+      content: "They press out olive oil without being allowed to taste it,\n\tand
+        they tread in the winepress as they suffer from thirst.  "
+      comments: []
+    - title: 
+      content: "The groans of the dying rise from the city,\n\tand the wounded cry
+        for help,\n\tyet God ignores their moaning.  "
+      comments: []
+    - title: 
+      content: "\u201CWicked people rebel against the light.\n\tThey refuse to acknowledge
+        its ways\n\tor stay in its paths.  "
+      comments: []
+    - title: 
+      content: "The murderer rises in the early dawn\n\tto kill the poor and needy;\n\tat
+        night he is a thief.  "
+      comments: []
+    - title: 
+      content: "The adulterer waits for the twilight,\n\tsaying, \u2018No one will
+        see me then.\u2019\n\tHe hides his face so no one will know him.  "
+      comments: []
+    - title: 
+      content: "Thieves break into houses at night\n\tand sleep in the daytime.\n\tThey
+        are not acquainted with the light.  "
+      comments: []
+    - title: 
+      content: "The black night is their morning.\n\tThey ally themselves with the
+        terrors of the darkness.  "
+      comments: []
+    - title: 
+      content: "\u201CBut they disappear like foam down a river.\n\tEverything they
+        own is cursed,\n\tand they are afraid to enter their own vineyards.  "
+      comments: []
+    - title: 
+      content: "The grave[COMMENT[0]] consumes sinners\n\tjust as drought and heat
+        consume snow.  "
+      comments:
+      - number: '24:19 '
+        contents:
+        - ft: 'Hebrew '
+          body: Sheol.
+    - title: 
+      content: "Their own mothers will forget them.\n\tMaggots will find them sweet
+        to eat.\n\tNo one will remember them.\n\tWicked people are broken like a
+        tree in the storm.  "
+      comments: []
+    - title: 
+      content: "They cheat the woman who has no son to help her.\n\tThey refuse to
+        help the needy widow.  "
+      comments: []
+    - title: 
+      content: "\u201CGod, in his power, drags away the rich.\n\tThey may rise high,
+        but they have no assurance of life.  "
+      comments: []
+    - title: 
+      content: "They may be allowed to live in security,\n\tbut God is always watching
+        them.  "
+      comments: []
+    - title: 
+      content: "And though they are great now,\n\tin a moment they will be gone like
+        all others,\n\tcut off like heads of grain.  "
+      comments: []
+    - title: 
+      content: "Can anyone claim otherwise?\n\tWho can prove me wrong?\u201D"
+      comments: []
+  - verses:
+    - title: "Bildad\u2019s Third Response to Job"
+      content: 'Then Bildad the Shuhite replied:  '
+      comments: []
+    - title: 
+      content: "\u201CGod is powerful and dreadful.\n\tHe enforces peace in the heavens.  "
+      comments: []
+    - title: 
+      content: "Who is able to count his heavenly army?\n\tDoesn\u2019t his light
+        shine on all the earth?  "
+      comments: []
+    - title: 
+      content: "How can a mortal be innocent before God?\n\tCan anyone born of a
+        woman be pure?  "
+      comments: []
+    - title: 
+      content: "God is more glorious than the moon;\n\the shines brighter than the
+        stars.  "
+      comments: []
+    - title: 
+      content: "In comparison, people are maggots;\n\twe mortals are mere worms.\u201D"
+      comments: []
+  - verses:
+    - title: "Job\u2019s Ninth Speech: A Response to Bildad"
+      content: 'Then Job spoke again:  '
+      comments: []
+    - title: 
+      content: "\u201CHow you have helped the powerless!\n\tHow you have saved the
+        weak!  "
+      comments: []
+    - title: 
+      content: "How you have enlightened my stupidity!\n\tWhat wise advice you have
+        offered!  "
+      comments: []
+    - title: 
+      content: "Where have you gotten all these wise sayings?\n\tWhose spirit speaks
+        through you?  "
+      comments: []
+    - title: 
+      content: "\u201CThe dead tremble\u2014\n\tthose who live beneath the waters.  "
+      comments: []
+    - title: 
+      content: "The underworld[COMMENT[0]] is naked in God\u2019s presence.\n\tThe
+        place of destruction[COMMENT[1]] is uncovered.  "
+      comments:
+      - number: '26:6a '
+        contents:
+        - ft: 'Hebrew '
+          body: Sheol.
+      - number: '26:6b '
+        contents:
+        - ft: 'Hebrew '
+          body: Abaddon.
+    - title: 
+      content: "God stretches the northern sky over empty space\n\tand hangs the
+        earth on nothing.  "
+      comments: []
+    - title: 
+      content: "He wraps the rain in his thick clouds,\n\tand the clouds don\u2019t
+        burst with the weight.  "
+      comments: []
+    - title: 
+      content: 'He covers the face of the moon,[COMMENT[0]]shrouding it with his
+        clouds.  '
+      comments:
+      - number: '26:9 '
+        contents:
+        - ft: 'Or '
+          body: covers his throne.
+    - title: 
+      content: "He created the horizon when he separated the waters;\n\the set the
+        boundary between day and night.  "
+      comments: []
+    - title: 
+      content: "The foundations of heaven tremble;\n\tthey shudder at his rebuke.  "
+      comments: []
+    - title: 
+      content: "By his power the sea grew calm.\n\tBy his skill he crushed the great
+        sea monster.[COMMENT[0]]  "
+      comments:
+      - number: '26:12 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'Rahab, '
+        - ft: the name of a mythical sea monster that represents chaos in ancient
+            literature.
+          body: 
+    - title: 
+      content: "His Spirit made the heavens beautiful,\n\tand his power pierced the
+        gliding serpent.  "
+      comments: []
+    - title: 
+      content: "These are just the beginning of all that he does,\n\tmerely a whisper
+        of his power.\n\tWho, then, can comprehend the thunder of his power?\u201D"
+      comments: []
+  - verses:
+    - title: "Job\u2019s Final Speech"
+      content: 'Job continued speaking:  '
+      comments: []
+    - title: 
+      content: "\u201CI vow by the living God, who has taken away my rights,\n\tby
+        the Almighty who has embittered my soul\u2014  "
+      comments: []
+    - title: 
+      content: "As long as I live,\n\twhile I have breath from God,  "
+      comments: []
+    - title: 
+      content: "my lips will speak no evil,\n\tand my tongue will speak no lies.  "
+      comments: []
+    - title: 
+      content: "I will never concede that you are right;\n\tI will defend my integrity
+        until I die.  "
+      comments: []
+    - title: 
+      content: "I will maintain my innocence without wavering.\n\tMy conscience is
+        clear for as long as I live.  "
+      comments: []
+    - title: 
+      content: "\u201CMay my enemy be punished like the wicked,\n\tmy adversary like
+        those who do evil.  "
+      comments: []
+    - title: 
+      content: "For what hope do the godless have when God cuts them off\n\tand takes
+        away their life?  "
+      comments: []
+    - title: 
+      content: "Will God listen to their cry\n\twhen trouble comes upon them?  "
+      comments: []
+    - title: 
+      content: "Can they take delight in the Almighty?\n\tCan they call to God at
+        any time?  "
+      comments: []
+    - title: 
+      content: "I will teach you about God\u2019s power.\n\tI will not conceal anything
+        concerning the Almighty.  "
+      comments: []
+    - title: 
+      content: "But you have seen all this,\n\tyet you say all these useless things
+        to me.  "
+      comments: []
+    - title: 
+      content: "\u201CThis is what the wicked will receive from God;\n\tthis is their
+        inheritance from the Almighty.  "
+      comments: []
+    - title: 
+      content: "They may have many children,\n\tbut the children will die in war
+        or starve to death.  "
+      comments: []
+    - title: 
+      content: "Those who survive will die of a plague,\n\tand not even their widows
+        will mourn them.  "
+      comments: []
+    - title: 
+      content: "\u201CEvil people may have piles of money\n\tand may store away mounds
+        of clothing.  "
+      comments: []
+    - title: 
+      content: "But the righteous will wear that clothing,\n\tand the innocent will
+        divide that money.  "
+      comments: []
+    - title: 
+      content: "The wicked build houses as fragile as a spider\u2019s web,[COMMENT[0]]as
+        flimsy as a shelter made of branches.  "
+      comments:
+      - number: '27:18 '
+        contents:
+        - ft: 'As in Greek and Syriac versions (see also 8:14); Hebrew reads '
+          body: a moth.
+    - title: 
+      content: "The wicked go to bed rich\n\tbut wake to find that all their wealth
+        is gone.  "
+      comments: []
+    - title: 
+      content: "Terror overwhelms them like a flood,\n\tand they are blown away in
+        the storms of the night.  "
+      comments: []
+    - title: 
+      content: "The east wind carries them away, and they are gone.\n\tIt sweeps
+        them away.  "
+      comments: []
+    - title: 
+      content: "It whirls down on them without mercy.\n\tThey struggle to flee from
+        its power.  "
+      comments: []
+    - title: 
+      content: "But everyone jeers at them\n\tand mocks them."
+      comments: []
+  - verses:
+    - title: Job Speaks of Wisdom and Understanding
+      content: "\u201CPeople know where to mine silver\n\tand how to refine gold.  "
+      comments: []
+    - title: 
+      content: "They know where to dig iron from the earth\n\tand how to smelt copper
+        from rock.  "
+      comments: []
+    - title: 
+      content: "They know how to shine light in the darkness\n\tand explore the farthest
+        regions of the earth\n\tas they search in the dark for ore.  "
+      comments: []
+    - title: 
+      content: "They sink a mine shaft into the earth\n\tfar from where anyone lives.\n\tThey
+        descend on ropes, swinging back and forth.  "
+      comments: []
+    - title: 
+      content: "Food is grown on the earth above,\n\tbut down below, the earth is
+        melted as by fire.  "
+      comments: []
+    - title: 
+      content: "Here the rocks contain precious lapis lazuli,\n\tand the dust contains
+        gold.  "
+      comments: []
+    - title: 
+      content: "These are treasures no bird of prey can see,\n\tno falcon\u2019s
+        eye observe.  "
+      comments: []
+    - title: 
+      content: "No wild animal has walked upon these treasures;\n\tno lion has ever
+        set his paw there.  "
+      comments: []
+    - title: 
+      content: "People know how to tear apart flinty rocks\n\tand overturn the roots
+        of mountains.  "
+      comments: []
+    - title: 
+      content: "They cut tunnels in the rocks\n\tand uncover precious stones.  "
+      comments: []
+    - title: 
+      content: "They dam up the trickling streams\n\tand bring to light the hidden
+        treasures.  "
+      comments: []
+    - title: 
+      content: "\u201CBut do people know where to find wisdom?\n\tWhere can they
+        find understanding?  "
+      comments: []
+    - title: 
+      content: 'No one knows where to find it,[COMMENT[0]]for it is not found among
+        the living.  '
+      comments:
+      - number: '28:13 '
+        contents:
+        - ft: 'As in Greek version; Hebrew reads '
+          body: knows its value.
+    - title: 
+      content: "\u2018It is not here,\u2019 says the ocean.\n\t\u2018Nor is it here,\u2019
+        says the sea.  "
+      comments: []
+    - title: 
+      content: "It cannot be bought with gold.\n\tIt cannot be purchased with silver.  "
+      comments: []
+    - title: 
+      content: "It\u2019s worth more than all the gold of Ophir,\n\tgreater than
+        precious onyx or lapis lazuli.  "
+      comments: []
+    - title: 
+      content: "Wisdom is more valuable than gold and crystal.\n\tIt cannot be purchased
+        with jewels mounted in fine gold.  "
+      comments: []
+    - title: 
+      content: "Coral and jasper are worthless in trying to get it.\n\tThe price
+        of wisdom is far above rubies.  "
+      comments: []
+    - title: 
+      content: "Precious peridot from Ethiopia[COMMENT[0]] cannot be exchanged for
+        it.\n\tIt\u2019s worth more than the purest gold.  "
+      comments:
+      - number: '28:19 '
+        contents:
+        - ft: 'Hebrew '
+          body: from Cush.
+    - title: 
+      content: "\u201CBut do people know where to find wisdom?\n\tWhere can they
+        find understanding?  "
+      comments: []
+    - title: 
+      content: "It is hidden from the eyes of all humanity.\n\tEven the sharp-eyed
+        birds in the sky cannot discover it.  "
+      comments: []
+    - title: 
+      content: "Destruction[COMMENT[0]] and Death say,\n\t\u2018We\u2019ve heard
+        only rumors of where wisdom can be found.\u2019  "
+      comments:
+      - number: '28:22 '
+        contents:
+        - ft: 'Hebrew '
+          body: Abaddon.
+    - title: 
+      content: "\u201CGod alone understands the way to wisdom;\n\the knows where
+        it can be found,  "
+      comments: []
+    - title: 
+      content: "for he looks throughout the whole earth\n\tand sees everything under
+        the heavens.  "
+      comments: []
+    - title: 
+      content: "He decided how hard the winds should blow\n\tand how much rain should
+        fall.  "
+      comments: []
+    - title: 
+      content: "He made the laws for the rain\n\tand laid out a path for the lightning.  "
+      comments: []
+    - title: 
+      content: "Then he saw wisdom and evaluated it.\n\tHe set it in place and examined
+        it thoroughly.  "
+      comments: []
+    - title: 
+      content: "And this is what he says to all humanity:\n\t\u2018The fear of the
+        Lord is true wisdom;\n\tto forsake evil is real understanding.\u2019\u201D"
+      comments: []
+  - verses:
+    - title: Job Speaks of His Former Blessings
+      content: 'Job continued speaking:  '
+      comments: []
+    - title: 
+      content: "\u201CI long for the years gone by\n\twhen God took care of me,  "
+      comments: []
+    - title: 
+      content: "when he lit up the way before me\n\tand I walked safely through the
+        darkness.  "
+      comments: []
+    - title: 
+      content: "When I was in my prime,\n\tGod\u2019s friendship was felt in my home.  "
+      comments: []
+    - title: 
+      content: "The Almighty was still with me,\n\tand my children were around me.  "
+      comments: []
+    - title: 
+      content: "My steps were awash in cream,\n\tand the rocks gushed olive oil for
+        me.  "
+      comments: []
+    - title: 
+      content: "\u201CThose were the days when I went to the city gate\n\tand took
+        my place among the honored leaders.  "
+      comments: []
+    - title: 
+      content: "The young stepped aside when they saw me,\n\tand even the aged rose
+        in respect at my coming.  "
+      comments: []
+    - title: 
+      content: "The princes stood in silence\n\tand put their hands over their mouths.  "
+      comments: []
+    - title: 
+      content: "The highest officials of the city stood quietly,\n\tholding their
+        tongues in respect.  "
+      comments: []
+    - title: 
+      content: "\u201CAll who heard me praised me.\n\tAll who saw me spoke well of
+        me.  "
+      comments: []
+    - title: 
+      content: "For I assisted the poor in their need\n\tand the orphans who required
+        help.  "
+      comments: []
+    - title: 
+      content: "I helped those without hope, and they blessed me.\n\tAnd I caused
+        the widows\u2019 hearts to sing for joy.  "
+      comments: []
+    - title: 
+      content: "Everything I did was honest.\n\tRighteousness covered me like a robe,\n\tand
+        I wore justice like a turban.  "
+      comments: []
+    - title: 
+      content: "I served as eyes for the blind\n\tand feet for the lame.  "
+      comments: []
+    - title: 
+      content: "I was a father to the poor\n\tand assisted strangers who needed help.  "
+      comments: []
+    - title: 
+      content: "I broke the jaws of godless oppressors\n\tand plucked their victims
+        from their teeth.  "
+      comments: []
+    - title: 
+      content: "\u201CI thought, \u2018Surely I will die surrounded by my family\n\tafter
+        a long, good life.[COMMENT[0]]  "
+      comments:
+      - number: '29:18 '
+        contents:
+        - ft: 'Hebrew '
+          body: after I have counted my days like sand.
+    - title: 
+      content: "For I am like a tree whose roots reach the water,\n\twhose branches
+        are refreshed with the dew.  "
+      comments: []
+    - title: 
+      content: "New honors are constantly bestowed on me,\n\tand my strength is continually
+        renewed.\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CEveryone listened to my advice.\n\tThey were silent as they
+        waited for me to speak.  "
+      comments: []
+    - title: 
+      content: "And after I spoke, they had nothing to add,\n\tfor my counsel satisfied
+        them.  "
+      comments: []
+    - title: 
+      content: "They longed for me to speak as people long for rain.\n\tThey drank
+        my words like a refreshing spring rain.  "
+      comments: []
+    - title: 
+      content: "When they were discouraged, I smiled at them.\n\tMy look of approval
+        was precious to them.  "
+      comments: []
+    - title: 
+      content: "Like a chief, I told them what to do.\n\tI lived like a king among
+        his troops\n\tand comforted those who mourned."
+      comments: []
+  - verses:
+    - title: Job Speaks of His Anguish
+      content: "\u201CBut now I am mocked by people younger than I,\n\tby young men
+        whose fathers are not worthy to run with my sheepdogs.  "
+      comments: []
+    - title: 
+      content: "A lot of good they are to me\u2014\n\tthose worn-out wretches!  "
+      comments: []
+    - title: 
+      content: "They are gaunt from poverty and hunger.\n\tThey claw the dry ground
+        in desolate wastelands.  "
+      comments: []
+    - title: 
+      content: "They pluck wild greens from among the bushes\n\tand eat from the
+        roots of broom trees.  "
+      comments: []
+    - title: 
+      content: "They are driven from human society,\n\tand people shout at them as
+        if they were thieves.  "
+      comments: []
+    - title: 
+      content: "So now they live in frightening ravines,\n\tin caves and among the
+        rocks.  "
+      comments: []
+    - title: 
+      content: "They sound like animals howling among the bushes,\n\thuddled together
+        beneath the nettles.  "
+      comments: []
+    - title: 
+      content: "They are nameless fools,\n\toutcasts from society.  "
+      comments: []
+    - title: 
+      content: "\u201CAnd now they mock me with vulgar songs!\n\tThey taunt me!  "
+      comments: []
+    - title: 
+      content: "They despise me and won\u2019t come near me,\n\texcept to spit in
+        my face.  "
+      comments: []
+    - title: 
+      content: "For God has cut my bowstring.\n\tHe has humbled me,\n\tso they have
+        thrown off all restraint.  "
+      comments: []
+    - title: 
+      content: "These outcasts oppose me to my face.\n\tThey send me sprawling\n\tand
+        lay traps in my path.  "
+      comments: []
+    - title: 
+      content: "They block my road\n\tand do everything they can to destroy me.\n\tThey
+        know I have no one to help me.  "
+      comments: []
+    - title: 
+      content: "They come at me from all directions.\n\tThey jump on me when I am
+        down.  "
+      comments: []
+    - title: 
+      content: "I live in terror now.\n\tMy honor has blown away in the wind,\n\tand
+        my prosperity has vanished like a cloud.  "
+      comments: []
+    - title: 
+      content: "\u201CAnd now my life seeps away.\n\tDepression haunts my days.  "
+      comments: []
+    - title: 
+      content: "At night my bones are filled with pain,\n\twhich gnaws at me relentlessly.  "
+      comments: []
+    - title: 
+      content: 'With a strong hand, God grabs my shirt.[COMMENT[0]]He grips me by
+        the collar of my coat.  '
+      comments:
+      - number: '30:18 '
+        contents:
+        - ft: 'As in Greek version; Hebrew reads '
+          body: hand, my garment is disfigured.
+    - title: 
+      content: "He has thrown me into the mud.\n\tI\u2019m nothing more than dust
+        and ashes.  "
+      comments: []
+    - title: 
+      content: "\u201CI cry to you, O God, but you don\u2019t answer.\n\tI stand
+        before you, but you don\u2019t even look.  "
+      comments: []
+    - title: 
+      content: "You have become cruel toward me.\n\tYou use your power to persecute
+        me.  "
+      comments: []
+    - title: 
+      content: "You throw me into the whirlwind\n\tand destroy me in the storm.  "
+      comments: []
+    - title: 
+      content: "And I know you are sending me to my death\u2014\n\tthe destination
+        of all who live.  "
+      comments: []
+    - title: 
+      content: "\u201CSurely no one would turn against the needy\n\twhen they cry
+        for help in their trouble.  "
+      comments: []
+    - title: 
+      content: "Did I not weep for those in trouble?\n\tWas I not deeply grieved
+        for the needy?  "
+      comments: []
+    - title: 
+      content: "So I looked for good, but evil came instead.\n\tI waited for the
+        light, but darkness fell.  "
+      comments: []
+    - title: 
+      content: "My heart is troubled and restless.\n\tDays of suffering torment me.  "
+      comments: []
+    - title: 
+      content: "I walk in gloom, without sunlight.\n\tI stand in the public square
+        and cry for help.  "
+      comments: []
+    - title: 
+      content: "Instead, I am considered a brother to jackals\n\tand a companion
+        to owls.  "
+      comments: []
+    - title: 
+      content: "My skin has turned dark,\n\tand my bones burn with fever.  "
+      comments: []
+    - title: 
+      content: "My harp plays sad music,\n\tand my flute accompanies those who weep."
+      comments: []
+  - verses:
+    - title: "Job\u2019s Final Protest of Innocence"
+      content: "\u201CI made a covenant with my eyes\n\tnot to look with lust at
+        a young woman.  "
+      comments: []
+    - title: 
+      content: "For what has God above chosen for us?\n\tWhat is our inheritance
+        from the Almighty on high?  "
+      comments: []
+    - title: 
+      content: "Isn\u2019t it calamity for the wicked\n\tand misfortune for those
+        who do evil?  "
+      comments: []
+    - title: 
+      content: "Doesn\u2019t he see everything I do\n\tand every step I take?  "
+      comments: []
+    - title: 
+      content: "\u201CHave I lied to anyone\n\tor deceived anyone?  "
+      comments: []
+    - title: 
+      content: "Let God weigh me on the scales of justice,\n\tfor he knows my integrity.  "
+      comments: []
+    - title: 
+      content: "If I have strayed from his pathway,\n\tor if my heart has lusted
+        for what my eyes have seen,\n\tor if I am guilty of any other sin,  "
+      comments: []
+    - title: 
+      content: "then let someone else eat the crops I have planted.\n\tLet all that
+        I have planted be uprooted.  "
+      comments: []
+    - title: 
+      content: "\u201CIf my heart has been seduced by a woman,\n\tor if I have lusted
+        for my neighbor\u2019s wife,  "
+      comments: []
+    - title: 
+      content: "then let my wife serve[COMMENT[0]] another man;\n\tlet other men
+        sleep with her.  "
+      comments:
+      - number: '31:10 '
+        contents:
+        - ft: 'Hebrew '
+          body: grind for.
+    - title: 
+      content: "For lust is a shameful sin,\n\ta crime that should be punished.  "
+      comments: []
+    - title: 
+      content: 'It is a fire that burns all the way to hell.[COMMENT[0]]It would
+        wipe out everything I own.  '
+      comments:
+      - number: '31:12 '
+        contents:
+        - ft: 'Hebrew '
+          body: to Abaddon.
+    - title: 
+      content: "\u201CIf I have been unfair to my male or female servants\n\twhen
+        they brought their complaints to me,  "
+      comments: []
+    - title: 
+      content: "how could I face God?\n\tWhat could I say when he questioned me?  "
+      comments: []
+    - title: 
+      content: "For God created both me and my servants.\n\tHe created us both in
+        the womb.  "
+      comments: []
+    - title: 
+      content: "\u201CHave I refused to help the poor,\n\tor crushed the hopes of
+        widows?  "
+      comments: []
+    - title: 
+      content: "Have I been stingy with my food\n\tand refused to share it with orphans?  "
+      comments: []
+    - title: 
+      content: "No, from childhood I have cared for orphans like a father,\n\tand
+        all my life I have cared for widows.  "
+      comments: []
+    - title: 
+      content: "Whenever I saw the homeless without clothes\n\tand the needy with
+        nothing to wear,  "
+      comments: []
+    - title: 
+      content: "did they not praise me\n\tfor providing wool clothing to keep them
+        warm?  "
+      comments: []
+    - title: 
+      content: "\u201CIf I raised my hand against an orphan,\n\tknowing the judges
+        would take my side,  "
+      comments: []
+    - title: 
+      content: "then let my shoulder be wrenched out of place!\n\tLet my arm be torn
+        from its socket!  "
+      comments: []
+    - title: 
+      content: "That would be better than facing God\u2019s judgment.\n\tFor if the
+        majesty of God opposes me, what hope is there?  "
+      comments: []
+    - title: 
+      content: "\u201CHave I put my trust in money\n\tor felt secure because of my
+        gold?  "
+      comments: []
+    - title: 
+      content: "Have I gloated about my wealth\n\tand all that I own?  "
+      comments: []
+    - title: 
+      content: "\u201CHave I looked at the sun shining in the skies,\n\tor the moon
+        walking down its silver pathway,  "
+      comments: []
+    - title: 
+      content: "and been secretly enticed in my heart\n\tto throw kisses at them
+        in worship?  "
+      comments: []
+    - title: 
+      content: "If so, I should be punished by the judges,\n\tfor it would mean I
+        had denied the God of heaven.  "
+      comments: []
+    - title: 
+      content: "\u201CHave I ever rejoiced when disaster struck my enemies,\n\tor
+        become excited when harm came their way?  "
+      comments: []
+    - title: 
+      content: "No, I have never sinned by cursing anyone\n\tor by asking for revenge.  "
+      comments: []
+    - title: 
+      content: "\u201CMy servants have never said,\n\t\u2018He let others go hungry.\u2019  "
+      comments: []
+    - title: 
+      content: "I have never turned away a stranger\n\tbut have opened my doors to
+        everyone.  "
+      comments: []
+    - title: 
+      content: "\u201CHave I tried to hide my sins like other people do,\n\tconcealing
+        my guilt in my heart?  "
+      comments: []
+    - title: 
+      content: "Have I feared the crowd\n\tor the contempt of the masses,\n\tso that
+        I kept quiet and stayed indoors?  "
+      comments: []
+    - title: 
+      content: "\u201CIf only someone would listen to me!\n\tLook, I will sign my
+        name to my defense.\n\tLet the Almighty answer me.\n\tLet my accuser write
+        out the charges against me.  "
+      comments: []
+    - title: 
+      content: "I would face the accusation proudly.\n\tI would wear it like a crown.  "
+      comments: []
+    - title: 
+      content: "For I would tell him exactly what I have done.\n\tI would come before
+        him like a prince.  "
+      comments: []
+    - title: 
+      content: "\u201CIf my land accuses me\n\tand all its furrows cry out together,  "
+      comments: []
+    - title: 
+      content: "or if I have stolen its crops\n\tor murdered its owners,  "
+      comments: []
+    - title: 
+      content: "then let thistles grow on that land instead of wheat,\n\tand weeds
+        instead of barley.\u201D\n\tJob\u2019s words are ended."
+      comments: []
+  - verses:
+    - title: "Elihu Responds to Job\u2019s Friends"
+      content: "Job\u2019s three friends refused to reply further to him because
+        he kept insisting on his innocence.  "
+      comments: []
+    - title: 
+      content: 'Then Elihu son of Barakel the Buzite, of the clan of Ram, became
+        angry. He was angry because Job refused to admit that he had sinned and that
+        God was right in punishing him. '
+      comments: []
+    - title: 
+      content: "He was also angry with Job\u2019s three friends, for they made God[COMMENT[0]]
+        appear to be wrong by their inability to answer Job\u2019s arguments. "
+      comments:
+      - number: '32:3 '
+        contents:
+        - ft: 'As in ancient Hebrew scribal tradition; the Masoretic Text reads '
+          body: Job.
+    - title: 
+      content: 'Elihu had waited for the others to speak to Job because they were
+        older than he. '
+      comments: []
+    - title: 
+      content: 'But when he saw that they had no further reply, he spoke out angrily. '
+      comments: []
+    - title: 
+      content: "Elihu son of Barakel the Buzite said,\n\t\u201CI am young and you
+        are old,\n\tso I held back from telling you what I think.  "
+      comments: []
+    - title: 
+      content: "I thought, \u2018Those who are older should speak,\n\tfor wisdom
+        comes with age.\u2019  "
+      comments: []
+    - title: 
+      content: "But there is a spirit[COMMENT[0]] within people,\n\tthe breath of
+        the Almighty within them,\n\tthat makes them intelligent.  "
+      comments:
+      - number: '32:8 '
+        contents:
+        - ft: 'Or '
+          body: 'Spirit; '
+        - ft: also in 32:18.
+          body: 
+    - title: 
+      content: "Sometimes the elders are not wise.\n\tSometimes the aged do not understand
+        justice.  "
+      comments: []
+    - title: 
+      content: "So listen to me,\n\tand let me tell you what I think.  "
+      comments: []
+    - title: 
+      content: "\u201CI have waited all this time,\n\tlistening very carefully to
+        your arguments,\n\tlistening to you grope for words.  "
+      comments: []
+    - title: 
+      content: "I have listened,\n\tbut not one of you has refuted Job\n\tor answered
+        his arguments.  "
+      comments: []
+    - title: 
+      content: "And don\u2019t tell me, \u2018He is too wise for us.\n\tOnly God
+        can convince him.\u2019  "
+      comments: []
+    - title: 
+      content: "If Job had been arguing with me,\n\tI would not answer with your
+        kind of logic!  "
+      comments: []
+    - title: 
+      content: "You sit there baffled,\n\twith nothing more to say.  "
+      comments: []
+    - title: 
+      content: "Should I continue to wait, now that you are silent?\n\tMust I also
+        remain silent?  "
+      comments: []
+    - title: 
+      content: "No, I will say my piece.\n\tI will speak my mind.  "
+      comments: []
+    - title: 
+      content: "For I am full of pent-up words,\n\tand the spirit within me urges
+        me on.  "
+      comments: []
+    - title: 
+      content: "I am like a cask of wine without a vent,\n\tlike a new wineskin ready
+        to burst!  "
+      comments: []
+    - title: 
+      content: "I must speak to find relief,\n\tso let me give my answers.  "
+      comments: []
+    - title: 
+      content: "I won\u2019t play favorites\n\tor try to flatter anyone.  "
+      comments: []
+    - title: 
+      content: "For if I tried flattery,\n\tmy Creator would soon destroy me."
+      comments: []
+  - verses:
+    - title: Elihu Presents His Case against Job
+      content: "\u201CListen to my words, Job;\n\tpay attention to what I have to
+        say.  "
+      comments: []
+    - title: 
+      content: "Now that I have begun to speak,\n\tlet me continue.  "
+      comments: []
+    - title: 
+      content: "I speak with all sincerity;\n\tI speak the truth.  "
+      comments: []
+    - title: 
+      content: "For the Spirit of God has made me,\n\tand the breath of the Almighty
+        gives me life.  "
+      comments: []
+    - title: 
+      content: "Answer me, if you can;\n\tmake your case and take your stand.  "
+      comments: []
+    - title: 
+      content: "Look, you and I both belong to God.\n\tI, too, was formed from clay.  "
+      comments: []
+    - title: 
+      content: "So you don\u2019t need to be afraid of me.\n\tI won\u2019t come down
+        hard on you.  "
+      comments: []
+    - title: 
+      content: "\u201CYou have spoken in my hearing,\n\tand I have heard your very
+        words.  "
+      comments: []
+    - title: 
+      content: "You said, \u2018I am pure; I am without sin;\n\tI am innocent; I
+        have no guilt.  "
+      comments: []
+    - title: 
+      content: "God is picking a quarrel with me,\n\tand he considers me his enemy.  "
+      comments: []
+    - title: 
+      content: "He puts my feet in the stocks\n\tand watches my every move.\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CBut you are wrong, and I will show you why.\n\tFor God is greater
+        than any human being.  "
+      comments: []
+    - title: 
+      content: "So why are you bringing a charge against him?\n\tWhy say he does
+        not respond to people\u2019s complaints?  "
+      comments: []
+    - title: 
+      content: "For God speaks again and again,\n\tthough people do not recognize
+        it.  "
+      comments: []
+    - title: 
+      content: "He speaks in dreams, in visions of the night,\n\twhen deep sleep
+        falls on people\n\tas they lie in their beds.  "
+      comments: []
+    - title: 
+      content: "He whispers in their ears\n\tand terrifies them with warnings.  "
+      comments: []
+    - title: 
+      content: "He makes them turn from doing wrong;\n\the keeps them from pride.  "
+      comments: []
+    - title: 
+      content: "He protects them from the grave,\n\tfrom crossing over the river
+        of death.  "
+      comments: []
+    - title: 
+      content: "\u201COr God disciplines people with pain on their sickbeds,\n\twith
+        ceaseless aching in their bones.  "
+      comments: []
+    - title: 
+      content: "They lose their appetite\n\tfor even the most delicious food.  "
+      comments: []
+    - title: 
+      content: "Their flesh wastes away,\n\tand their bones stick out.  "
+      comments: []
+    - title: 
+      content: "They are at death\u2019s door;\n\tthe angels of death wait for them.  "
+      comments: []
+    - title: 
+      content: "\u201CBut if an angel from heaven appears\u2014\n\ta special messenger
+        to intercede for a person\n\tand declare that he is upright\u2014  "
+      comments: []
+    - title: 
+      content: "he will be gracious and say,\n\t\u2018Rescue him from the grave,\n\tfor
+        I have found a ransom for his life.\u2019  "
+      comments: []
+    - title: 
+      content: "Then his body will become as healthy as a child\u2019s,\n\tfirm and
+        youthful again.  "
+      comments: []
+    - title: 
+      content: "When he prays to God,\n\the will be accepted.\n\tAnd God will receive
+        him with joy\n\tand restore him to good standing.  "
+      comments: []
+    - title: 
+      content: "He will declare to his friends,\n\t\u2018I sinned and twisted the
+        truth,\n\tbut it was not worth it.[COMMENT[0]]  "
+      comments:
+      - number: '33:27 '
+        contents:
+        - ft: 'Greek version reads '
+          body: 'but he '
+        - ft: '[God] '
+          body: did not punish me as my sin deserved.
+    - title: 
+      content: "God rescued me from the grave,\n\tand now my life is filled with
+        light.\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CYes, God does these things\n\tagain and again for people.  "
+      comments: []
+    - title: 
+      content: "He rescues them from the grave\n\tso they may enjoy the light of
+        life.  "
+      comments: []
+    - title: 
+      content: "Mark this well, Job. Listen to me,\n\tfor I have more to say.  "
+      comments: []
+    - title: 
+      content: "But if you have anything to say, go ahead.\n\tSpeak, for I am anxious
+        to see you justified.  "
+      comments: []
+    - title: 
+      content: "But if not, then listen to me.\n\tKeep silent and I will teach you
+        wisdom!\u201D"
+      comments: []
+  - verses:
+    - title: Elihu Accuses Job of Arrogance
+      content: 'Then Elihu said:  '
+      comments: []
+    - title: 
+      content: "\u201CListen to me, you wise men.\n\tPay attention, you who have
+        knowledge.  "
+      comments: []
+    - title: 
+      content: "Job said, \u2018The ear tests the words it hears\n\tjust as the mouth
+        distinguishes between foods.\u2019  "
+      comments: []
+    - title: 
+      content: "So let us discern for ourselves what is right;\n\tlet us learn together
+        what is good.  "
+      comments: []
+    - title: 
+      content: "For Job also said, \u2018I am innocent,\n\tbut God has taken away
+        my rights.  "
+      comments: []
+    - title: 
+      content: "I am innocent, but they call me a liar.\n\tMy suffering is incurable,
+        though I have not sinned.\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CTell me, has there ever been a man like Job,\n\twith his thirst
+        for irreverent talk?  "
+      comments: []
+    - title: 
+      content: "He chooses evil people as companions.\n\tHe spends his time with
+        wicked men.  "
+      comments: []
+    - title: 
+      content: "He has even said, \u2018Why waste time\n\ttrying to please God?\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CListen to me, you who have understanding.\n\tEveryone knows
+        that God doesn\u2019t sin!\n\tThe Almighty can do no wrong.  "
+      comments: []
+    - title: 
+      content: "He repays people according to their deeds.\n\tHe treats people as
+        they deserve.  "
+      comments: []
+    - title: 
+      content: "Truly, God will not do wrong.\n\tThe Almighty will not twist justice.  "
+      comments: []
+    - title: 
+      content: "Did someone else put the world in his care?\n\tWho set the whole
+        world in place?  "
+      comments: []
+    - title: 
+      content: "If God were to take back his spirit\n\tand withdraw his breath,  "
+      comments: []
+    - title: 
+      content: "all life would cease,\n\tand humanity would turn again to dust.  "
+      comments: []
+    - title: 
+      content: "\u201CNow listen to me if you are wise.\n\tPay attention to what
+        I say.  "
+      comments: []
+    - title: 
+      content: "Could God govern if he hated justice?\n\tAre you going to condemn
+        the almighty judge?  "
+      comments: []
+    - title: 
+      content: "For he says to kings, \u2018You are wicked,\u2019\n\tand to nobles,
+        \u2018You are unjust.\u2019  "
+      comments: []
+    - title: 
+      content: "He doesn\u2019t care how great a person may be,\n\tand he pays no
+        more attention to the rich than to the poor.\n\tHe made them all.  "
+      comments: []
+    - title: 
+      content: "In a moment they die.\n\tIn the middle of the night they pass away;\n\tthe
+        mighty are removed without human hand.  "
+      comments: []
+    - title: 
+      content: "\u201CFor God watches how people live;\n\the sees everything they
+        do.  "
+      comments: []
+    - title: 
+      content: "No darkness is thick enough\n\tto hide the wicked from his eyes.  "
+      comments: []
+    - title: 
+      content: "We don\u2019t set the time\n\twhen we will come before God in judgment.  "
+      comments: []
+    - title: 
+      content: "He brings the mighty to ruin without asking anyone,\n\tand he sets
+        up others in their place.  "
+      comments: []
+    - title: 
+      content: "He knows what they do,\n\tand in the night he overturns and destroys
+        them.  "
+      comments: []
+    - title: 
+      content: "He strikes them down because they are wicked,\n\tdoing it openly
+        for all to see.  "
+      comments: []
+    - title: 
+      content: "For they turned away from following him.\n\tThey have no respect
+        for any of his ways.  "
+      comments: []
+    - title: 
+      content: "They cause the poor to cry out, catching God\u2019s attention.\n\tHe
+        hears the cries of the needy.  "
+      comments: []
+    - title: 
+      content: "But if he chooses to remain quiet,\n\twho can criticize him?\n\tWhen
+        he hides his face, no one can find him,\n\twhether an individual or a nation.  "
+      comments: []
+    - title: 
+      content: "He prevents the godless from ruling\n\tso they cannot be a snare
+        to the people.  "
+      comments: []
+    - title: 
+      content: "\u201CWhy don\u2019t people say to God, \u2018I have sinned,\n\tbut
+        I will sin no more\u2019?  "
+      comments: []
+    - title: 
+      content: "Or \u2018I don\u2019t know what evil I have done\u2014tell me.\n\tIf
+        I have done wrong, I will stop at once\u2019?  "
+      comments: []
+    - title: 
+      content: "\u201CMust God tailor his justice to your demands?\n\tBut you have
+        rejected him!\n\tThe choice is yours, not mine.\n\tGo ahead, share your wisdom
+        with us.  "
+      comments: []
+    - title: 
+      content: "After all, bright people will tell me,\n\tand wise people will hear
+        me say,  "
+      comments: []
+    - title: 
+      content: "\u2018Job speaks out of ignorance;\n\this words lack insight.\u2019  "
+      comments: []
+    - title: 
+      content: "Job, you deserve the maximum penalty\n\tfor the wicked way you have
+        talked.  "
+      comments: []
+    - title: 
+      content: "For you have added rebellion to your sin;\n\tyou show no respect,\n\tand
+        you speak many angry words against God.\u201D"
+      comments: []
+  - verses:
+    - title: "Elihu Reminds Job of God\u2019s Justice"
+      content: 'Then Elihu said:  '
+      comments: []
+    - title: 
+      content: "\u201CDo you think it is right for you to claim,\n\t\u2018I am righteous
+        before God\u2019?  "
+      comments: []
+    - title: 
+      content: "For you also ask, \u2018What\u2019s in it for me?\n\tWhat\u2019s
+        the use of living a righteous life?\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CI will answer you\n\tand all your friends, too.  "
+      comments: []
+    - title: 
+      content: "Look up into the sky,\n\tand see the clouds high above you.  "
+      comments: []
+    - title: 
+      content: "If you sin, how does that affect God?\n\tEven if you sin again and
+        again,\n\twhat effect will it have on him?  "
+      comments: []
+    - title: 
+      content: "If you are good, is this some great gift to him?\n\tWhat could you
+        possibly give him?  "
+      comments: []
+    - title: 
+      content: "No, your sins affect only people like yourself,\n\tand your good
+        deeds also affect only humans.  "
+      comments: []
+    - title: 
+      content: "\u201CPeople cry out when they are oppressed.\n\tThey groan beneath
+        the power of the mighty.  "
+      comments: []
+    - title: 
+      content: "Yet they don\u2019t ask, \u2018Where is God my Creator,\n\tthe one
+        who gives songs in the night?  "
+      comments: []
+    - title: 
+      content: "Where is the one who makes us smarter than the animals\n\tand wiser
+        than the birds of the sky?\u2019  "
+      comments: []
+    - title: 
+      content: "And when they cry out, God does not answer\n\tbecause of their pride.  "
+      comments: []
+    - title: 
+      content: "But it is wrong to say God doesn\u2019t listen,\n\tto say the Almighty
+        isn\u2019t concerned.  "
+      comments: []
+    - title: 
+      content: "You say you can\u2019t see him,\n\tbut he will bring justice if you
+        will only wait.[COMMENT[0]]  "
+      comments:
+      - number: '35:13-14 '
+        contents:
+        - ft: 'These verses can also be translated as follows: '
+          body: "How much less will he listen when you say you don\u2019t see him,
+            / and that your case is before him and you\u2019re waiting for justice."
+    - title: 
+      content: "You say he does not respond to sinners with anger\n\tand is not greatly
+        concerned about wickedness.[COMMENT[0]]  "
+      comments:
+      - number: '35:15 '
+        contents:
+        - ft: As in Greek and Latin versions; the meaning of this Hebrew word is
+            uncertain.
+          body: 
+    - title: 
+      content: "But you are talking nonsense, Job.\n\tYou have spoken like a fool.\u201D"
+      comments: []
+  - verses:
+    - title: 
+      content: 'Elihu continued speaking:  '
+      comments: []
+    - title: 
+      content: "\u201CLet me go on, and I will show you the truth.\n\tFor I have
+        not finished defending God!  "
+      comments: []
+    - title: 
+      content: "I will present profound arguments\n\tfor the righteousness of my
+        Creator.  "
+      comments: []
+    - title: 
+      content: "I am telling you nothing but the truth,\n\tfor I am a man of great
+        knowledge.  "
+      comments: []
+    - title: 
+      content: "\u201CGod is mighty, but he does not despise anyone!\n\tHe is mighty
+        in both power and understanding.  "
+      comments: []
+    - title: 
+      content: "He does not let the wicked live\n\tbut gives justice to the afflicted.  "
+      comments: []
+    - title: 
+      content: "He never takes his eyes off the innocent,\n\tbut he sets them on
+        thrones with kings\n\tand exalts them forever.  "
+      comments: []
+    - title: 
+      content: "If they are bound in chains\n\tand caught up in a web of trouble,  "
+      comments: []
+    - title: 
+      content: "he shows them the reason.\n\tHe shows them their sins of pride.  "
+      comments: []
+    - title: 
+      content: "He gets their attention\n\tand commands that they turn from evil.  "
+      comments: []
+    - title: 
+      content: "\u201CIf they listen and obey God,\n\tthey will be blessed with prosperity
+        throughout their lives.\n\tAll their years will be pleasant.  "
+      comments: []
+    - title: 
+      content: "But if they refuse to listen to him,\n\tthey will cross over the
+        river of death,\n\tdying from lack of understanding.  "
+      comments: []
+    - title: 
+      content: "For the godless are full of resentment.\n\tEven when he punishes
+        them,\n\tthey refuse to cry out to him for help.  "
+      comments: []
+    - title: 
+      content: "They die when they are young,\n\tafter wasting their lives in immoral
+        living.  "
+      comments: []
+    - title: 
+      content: "But by means of their suffering, he rescues those who suffer.\n\tFor
+        he gets their attention through adversity.  "
+      comments: []
+    - title: 
+      content: "\u201CGod is leading you away from danger, Job,\n\tto a place free
+        from distress.\n\tHe is setting your table with the best food.  "
+      comments: []
+    - title: 
+      content: "But you are obsessed with whether the godless will be judged.\n\tDon\u2019t
+        worry, judgment and justice will be upheld.  "
+      comments: []
+    - title: 
+      content: "But watch out, or you may be seduced by wealth.[COMMENT[0]]Don\u2019t
+        let yourself be bribed into sin.  "
+      comments:
+      - number: '36:18 '
+        contents:
+        - ft: 'Or '
+          body: "But don\u2019t let your anger lead you to mockery."
+    - title: 
+      content: "Could all your wealth[COMMENT[0]]or all your mighty efforts\n\tkeep
+        you from distress?  "
+      comments:
+      - number: '36:19 '
+        contents:
+        - ft: 'Or '
+          body: Could all your cries for help.
+    - title: 
+      content: "Do not long for the cover of night,\n\tfor that is when people will
+        be destroyed.[COMMENT[0]]  "
+      comments:
+      - number: '36:16-20 '
+        contents:
+        - ft: The meaning of the Hebrew in this passage is uncertain.
+          body: 
+    - title: 
+      content: "Be on guard! Turn back from evil,\n\tfor God sent this suffering\n\tto
+        keep you from a life of evil.  "
+      comments: []
+    - title: "Elihu Reminds Job of God\u2019s Power"
+      content: "\u201CLook, God is all-powerful.\n\tWho is a teacher like him?  "
+      comments: []
+    - title: 
+      content: "No one can tell him what to do,\n\tor say to him, \u2018You have
+        done wrong.\u2019  "
+      comments: []
+    - title: 
+      content: "Instead, glorify his mighty works,\n\tsinging songs of praise.  "
+      comments: []
+    - title: 
+      content: "Everyone has seen these things,\n\tthough only from a distance.  "
+      comments: []
+    - title: 
+      content: "\u201CLook, God is greater than we can understand.\n\tHis years cannot
+        be counted.  "
+      comments: []
+    - title: 
+      content: "He draws up the water vapor\n\tand then distills it into rain.  "
+      comments: []
+    - title: 
+      content: "The rain pours down from the clouds,\n\tand everyone benefits.  "
+      comments: []
+    - title: 
+      content: "Who can understand the spreading of the clouds\n\tand the thunder
+        that rolls forth from heaven?  "
+      comments: []
+    - title: 
+      content: "See how he spreads the lightning around him\n\tand how it lights
+        up the depths of the sea.  "
+      comments: []
+    - title: 
+      content: "By these mighty acts he nourishes[COMMENT[0]] the people,\n\tgiving
+        them food in abundance.  "
+      comments:
+      - number: '36:31 '
+        contents:
+        - ft: 'Or '
+          body: he governs.
+    - title: 
+      content: "He fills his hands with lightning bolts\n\tand hurls each at its
+        target.  "
+      comments: []
+    - title: 
+      content: "The thunder announces his presence;\n\tthe storm announces his indignant
+        anger.[COMMENT[0]]"
+      comments:
+      - number: '36:33 '
+        contents:
+        - ft: 'Or '
+          body: 'even the cattle know when a storm is coming. '
+        - ft: The meaning of the Hebrew is uncertain.
+          body: 
+  - verses:
+    - title: 
+      content: "\u201CMy heart pounds as I think of this.\n\tIt trembles within me.  "
+      comments: []
+    - title: 
+      content: "Listen carefully to the thunder of God\u2019s voice\n\tas it rolls
+        from his mouth.  "
+      comments: []
+    - title: 
+      content: "It rolls across the heavens,\n\tand his lightning flashes in every
+        direction.  "
+      comments: []
+    - title: 
+      content: "Then comes the roaring of the thunder\u2014\n\tthe tremendous voice
+        of his majesty.\n\tHe does not restrain it when he speaks.  "
+      comments: []
+    - title: 
+      content: "God\u2019s voice is glorious in the thunder.\n\tWe can\u2019t even
+        imagine the greatness of his power.  "
+      comments: []
+    - title: 
+      content: "\u201CHe directs the snow to fall on the earth\n\tand tells the rain
+        to pour down.  "
+      comments: []
+    - title: 
+      content: "Then everyone stops working\n\tso they can watch his power.  "
+      comments: []
+    - title: 
+      content: "The wild animals take cover\n\tand stay inside their dens.  "
+      comments: []
+    - title: 
+      content: "The stormy wind comes from its chamber,\n\tand the driving winds
+        bring the cold.  "
+      comments: []
+    - title: 
+      content: "God\u2019s breath sends the ice,\n\tfreezing wide expanses of water.  "
+      comments: []
+    - title: 
+      content: "He loads the clouds with moisture,\n\tand they flash with his lightning.  "
+      comments: []
+    - title: 
+      content: "The clouds churn about at his direction.\n\tThey do whatever he commands
+        throughout the earth.  "
+      comments: []
+    - title: 
+      content: "He makes these things happen either to punish people\n\tor to show
+        his unfailing love.  "
+      comments: []
+    - title: 
+      content: "\u201CPay attention to this, Job.\n\tStop and consider the wonderful
+        miracles of God!  "
+      comments: []
+    - title: 
+      content: "Do you know how God controls the storm\n\tand causes the lightning
+        to flash from his clouds?  "
+      comments: []
+    - title: 
+      content: "Do you understand how he moves the clouds\n\twith wonderful perfection
+        and skill?  "
+      comments: []
+    - title: 
+      content: "When you are sweltering in your clothes\n\tand the south wind dies
+        down and everything is still,  "
+      comments: []
+    - title: 
+      content: "he makes the skies reflect the heat like a bronze mirror.\n\tCan
+        you do that?  "
+      comments: []
+    - title: 
+      content: "\u201CSo teach the rest of us what to say to God.\n\tWe are too ignorant
+        to make our own arguments.  "
+      comments: []
+    - title: 
+      content: "Should God be notified that I want to speak?\n\tCan people even speak
+        when they are confused?[COMMENT[0]]  "
+      comments:
+      - number: '37:20 '
+        contents:
+        - ft: 'Or '
+          body: speak without being swallowed up?
+    - title: 
+      content: "We cannot look at the sun,\n\tfor it shines brightly in the sky\n\twhen
+        the wind clears away the clouds.  "
+      comments: []
+    - title: 
+      content: 'So also, golden splendor comes from the mountain of God.[COMMENT[0]]He
+        is clothed in dazzling splendor.  '
+      comments:
+      - number: '37:22 '
+        contents:
+        - ft: 'Or '
+          body: 'from the north; '
+        - ft: 'or '
+          body: from the abode.
+    - title: 
+      content: "We cannot imagine the power of the Almighty;\n\tbut even though he
+        is just and righteous,\n\the does not destroy us.  "
+      comments: []
+    - title: 
+      content: "No wonder people everywhere fear him.\n\tAll who are wise show him
+        reverence.[COMMENT[0]]\u201D"
+      comments:
+      - number: '37:24 '
+        contents:
+        - ft: 'As in Greek version; Hebrew reads '
+          body: He is not impressed by the wise.
+  - verses:
+    - title: ' Challenges Job'
+      content: 'Then the <smallcaps>Lord</smallcaps> answered Job from the whirlwind:  '
+      comments: []
+    - title: 
+      content: "\u201CWho is this that questions my wisdom\n\twith such ignorant
+        words?  "
+      comments: []
+    - title: 
+      content: "Brace yourself like a man,\n\tbecause I have some questions for you,\n\tand
+        you must answer them.  "
+      comments: []
+    - title: 
+      content: "\u201CWhere were you when I laid the foundations of the earth?\n\tTell
+        me, if you know so much.  "
+      comments: []
+    - title: 
+      content: "Who determined its dimensions\n\tand stretched out the surveying
+        line?  "
+      comments: []
+    - title: 
+      content: "What supports its foundations,\n\tand who laid its cornerstone  "
+      comments: []
+    - title: 
+      content: "as the morning stars sang together\n\tand all the angels[COMMENT[0]]
+        shouted for joy?  "
+      comments:
+      - number: '38:7 '
+        contents:
+        - ft: 'Hebrew '
+          body: the sons of God.
+    - title: 
+      content: "\u201CWho kept the sea inside its boundaries\n\tas it burst from
+        the womb,  "
+      comments: []
+    - title: 
+      content: "and as I clothed it with clouds\n\tand wrapped it in thick darkness?  "
+      comments: []
+    - title: 
+      content: "For I locked it behind barred gates,\n\tlimiting its shores.  "
+      comments: []
+    - title: 
+      content: "I said, \u2018This far and no farther will you come.\n\tHere your
+        proud waves must stop!\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CHave you ever commanded the morning to appear\n\tand caused
+        the dawn to rise in the east?  "
+      comments: []
+    - title: 
+      content: "Have you made daylight spread to the ends of the earth,\n\tto bring
+        an end to the night\u2019s wickedness?  "
+      comments: []
+    - title: 
+      content: "As the light approaches,\n\tthe earth takes shape like clay pressed
+        beneath a seal;\n\tit is robed in brilliant colors.[COMMENT[0]]  "
+      comments:
+      - number: '38:14 '
+        contents:
+        - ft: 'Or '
+          body: its features stand out like folds in a robe.
+    - title: 
+      content: "The light disturbs the wicked\n\tand stops the arm that is raised
+        in violence.  "
+      comments: []
+    - title: 
+      content: "\u201CHave you explored the springs from which the seas come?\n\tHave
+        you explored their depths?  "
+      comments: []
+    - title: 
+      content: "Do you know where the gates of death are located?\n\tHave you seen
+        the gates of utter gloom?  "
+      comments: []
+    - title: 
+      content: "Do you realize the extent of the earth?\n\tTell me about it if you
+        know!  "
+      comments: []
+    - title: 
+      content: "\u201CWhere does light come from,\n\tand where does darkness go?  "
+      comments: []
+    - title: 
+      content: "Can you take each to its home?\n\tDo you know how to get there?  "
+      comments: []
+    - title: 
+      content: "But of course you know all this!\n\tFor you were born before it was
+        all created,\n\tand you are so very experienced!  "
+      comments: []
+    - title: 
+      content: "\u201CHave you visited the storehouses of the snow\n\tor seen the
+        storehouses of hail?  "
+      comments: []
+    - title: 
+      content: "(I have reserved them as weapons for the time of trouble,\n\tfor
+        the day of battle and war.)  "
+      comments: []
+    - title: 
+      content: "Where is the path to the source of light?\n\tWhere is the home of
+        the east wind?  "
+      comments: []
+    - title: 
+      content: "\u201CWho created a channel for the torrents of rain?\n\tWho laid
+        out the path for the lightning?  "
+      comments: []
+    - title: 
+      content: "Who makes the rain fall on barren land,\n\tin a desert where no one
+        lives?  "
+      comments: []
+    - title: 
+      content: "Who sends rain to satisfy the parched ground\n\tand make the tender
+        grass spring up?  "
+      comments: []
+    - title: 
+      content: "\u201CDoes the rain have a father?\n\tWho gives birth to the dew?  "
+      comments: []
+    - title: 
+      content: "Who is the mother of the ice?\n\tWho gives birth to the frost from
+        the heavens?  "
+      comments: []
+    - title: 
+      content: "For the water turns to ice as hard as rock,\n\tand the surface of
+        the water freezes.  "
+      comments: []
+    - title: 
+      content: "\u201CCan you direct the movement of the stars\u2014\n\tbinding the
+        cluster of the Pleiades\n\tor loosening the cords of Orion?  "
+      comments: []
+    - title: 
+      content: "Can you direct the constellations through the seasons\n\tor guide
+        the Bear with her cubs across the heavens?  "
+      comments: []
+    - title: 
+      content: "Do you know the laws of the universe?\n\tCan you use them to regulate
+        the earth?  "
+      comments: []
+    - title: 
+      content: "\u201CCan you shout to the clouds\n\tand make it rain?  "
+      comments: []
+    - title: 
+      content: "Can you make lightning appear\n\tand cause it to strike as you direct?  "
+      comments: []
+    - title: 
+      content: "Who gives intuition to the heart\n\tand instinct to the mind?  "
+      comments: []
+    - title: 
+      content: "Who is wise enough to count all the clouds?\n\tWho can tilt the water
+        jars of heaven  "
+      comments: []
+    - title: 
+      content: "when the parched ground is dry\n\tand the soil has hardened into
+        clods?  "
+      comments: []
+    - title: 
+      content: "\u201CCan you stalk prey for a lioness\n\tand satisfy the young lions\u2019
+        appetites  "
+      comments: []
+    - title: 
+      content: "as they lie in their dens\n\tor crouch in the thicket?  "
+      comments: []
+    - title: 
+      content: "Who provides food for the ravens\n\twhen their young cry out to God\n\tand
+        wander about in hunger?"
+      comments: []
+  - verses:
+    - title: "\u2019s Challenge Continues"
+      content: "\u201CDo you know when the wild goats give birth?\n\tHave you watched
+        as deer are born in the wild?  "
+      comments: []
+    - title: 
+      content: "Do you know how many months they carry their young?\n\tAre you aware
+        of the time of their delivery?  "
+      comments: []
+    - title: 
+      content: "They crouch down to give birth to their young\n\tand deliver their
+        offspring.  "
+      comments: []
+    - title: 
+      content: "Their young grow up in the open fields,\n\tthen leave home and never
+        return.  "
+      comments: []
+    - title: 
+      content: "\u201CWho gives the wild donkey its freedom?\n\tWho untied its ropes?  "
+      comments: []
+    - title: 
+      content: "I have placed it in the wilderness;\n\tits home is the wasteland.  "
+      comments: []
+    - title: 
+      content: "It hates the noise of the city\n\tand has no driver to shout at it.  "
+      comments: []
+    - title: 
+      content: "The mountains are its pastureland,\n\twhere it searches for every
+        blade of grass.  "
+      comments: []
+    - title: 
+      content: "\u201CWill the wild ox consent to being tamed?\n\tWill it spend the
+        night in your stall?  "
+      comments: []
+    - title: 
+      content: "Can you hitch a wild ox to a plow?\n\tWill it plow a field for you?  "
+      comments: []
+    - title: 
+      content: "Given its strength, can you trust it?\n\tCan you leave and trust
+        the ox to do your work?  "
+      comments: []
+    - title: 
+      content: "Can you rely on it to bring home your grain\n\tand deliver it to
+        your threshing floor?  "
+      comments: []
+    - title: 
+      content: "\u201CThe ostrich flaps her wings grandly,\n\tbut they are no match
+        for the feathers of the stork.  "
+      comments: []
+    - title: 
+      content: "She lays her eggs on top of the earth,\n\tletting them be warmed
+        in the dust.  "
+      comments: []
+    - title: 
+      content: "She doesn\u2019t worry that a foot might crush them\n\tor a wild
+        animal might destroy them.  "
+      comments: []
+    - title: 
+      content: "She is harsh toward her young,\n\tas if they were not her own.\n\tShe
+        doesn\u2019t care if they die.  "
+      comments: []
+    - title: 
+      content: "For God has deprived her of wisdom.\n\tHe has given her no understanding.  "
+      comments: []
+    - title: 
+      content: "But whenever she jumps up to run,\n\tshe passes the swiftest horse
+        with its rider.  "
+      comments: []
+    - title: 
+      content: "\u201CHave you given the horse its strength\n\tor clothed its neck
+        with a flowing mane?  "
+      comments: []
+    - title: 
+      content: "Did you give it the ability to leap like a locust?\n\tIts majestic
+        snorting is terrifying!  "
+      comments: []
+    - title: 
+      content: "It paws the earth and rejoices in its strength\n\twhen it charges
+        out to battle.  "
+      comments: []
+    - title: 
+      content: "It laughs at fear and is unafraid.\n\tIt does not run from the sword.  "
+      comments: []
+    - title: 
+      content: "The arrows rattle against it,\n\tand the spear and javelin flash.  "
+      comments: []
+    - title: 
+      content: "It paws the ground fiercely\n\tand rushes forward into battle when
+        the ram\u2019s horn blows.  "
+      comments: []
+    - title: 
+      content: "It snorts at the sound of the horn.\n\tIt senses the battle in the
+        distance.\n\tIt quivers at the captain\u2019s commands and the noise of battle.  "
+      comments: []
+    - title: 
+      content: "\u201CIs it your wisdom that makes the hawk soar\n\tand spread its
+        wings toward the south?  "
+      comments: []
+    - title: 
+      content: "Is it at your command that the eagle rises\n\tto the heights to make
+        its nest?  "
+      comments: []
+    - title: 
+      content: "It lives on the cliffs,\n\tmaking its home on a distant, rocky crag.  "
+      comments: []
+    - title: 
+      content: "From there it hunts its prey,\n\tkeeping watch with piercing eyes.  "
+      comments: []
+    - title: 
+      content: "Its young gulp down blood.\n\tWhere there\u2019s a carcass, there
+        you\u2019ll find it.\u201D"
+      comments: []
+  - verses:
+    - title: 
+      content: 'Then the <smallcaps>Lord</smallcaps> said to Job,  '
+      comments: []
+    - title: 
+      content: "\u201CDo you still want to argue with the Almighty?\n\tYou are God\u2019s
+        critic, but do you have the answers?\u201D  "
+      comments: []
+    - title: Lord
+      content: "Then Job replied to the <smallcaps>Lord</smallcaps>\n\t,  "
+      comments: []
+    - title: 
+      content: "\u201CI am nothing\u2014how could I ever find the answers?\n\tI will
+        cover my mouth with my hand.  "
+      comments: []
+    - title: 
+      content: "I have said too much already.\n\tI have nothing more to say.\u201D  "
+      comments: []
+    - title: ' Challenges Job Again'
+      content: 'Then the <smallcaps>Lord</smallcaps> answered Job from the whirlwind:  '
+      comments: []
+    - title: 
+      content: "\u201CBrace yourself like a man,\n\tbecause I have some questions
+        for you,\n\tand you must answer them.  "
+      comments: []
+    - title: 
+      content: "\u201CWill you discredit my justice\n\tand condemn me just to prove
+        you are right?  "
+      comments: []
+    - title: 
+      content: "Are you as strong as God?\n\tCan you thunder with a voice like his?  "
+      comments: []
+    - title: 
+      content: "All right, put on your glory and splendor,\n\tyour honor and majesty.  "
+      comments: []
+    - title: 
+      content: "Give vent to your anger.\n\tLet it overflow against the proud.  "
+      comments: []
+    - title: 
+      content: "Humiliate the proud with a glance;\n\twalk on the wicked where they
+        stand.  "
+      comments: []
+    - title: 
+      content: "Bury them in the dust.\n\tImprison them in the world of the dead.  "
+      comments: []
+    - title: 
+      content: "Then even I would praise you,\n\tfor your own strength would save
+        you.  "
+      comments: []
+    - title: 
+      content: "\u201CTake a look at Behemoth,[COMMENT[0]]which I made, just as I
+        made you.\n\tIt eats grass like an ox.  "
+      comments:
+      - number: '40:15 '
+        contents:
+        - ft: The identification of Behemoth is disputed, ranging from an earthly
+            creature to a mythical sea monster in ancient literature.
+          body: 
+    - title: 
+      content: "See its powerful loins\n\tand the muscles of its belly.  "
+      comments: []
+    - title: 
+      content: "Its tail is as strong as a cedar.\n\tThe sinews of its thighs are
+        knit tightly together.  "
+      comments: []
+    - title: 
+      content: "Its bones are tubes of bronze.\n\tIts limbs are bars of iron.  "
+      comments: []
+    - title: 
+      content: "It is a prime example of God\u2019s handiwork,\n\tand only its Creator
+        can threaten it.  "
+      comments: []
+    - title: 
+      content: "The mountains offer it their best food,\n\twhere all the wild animals
+        play.  "
+      comments: []
+    - title: 
+      content: 'It lies under the lotus plants,[COMMENT[0]]hidden by the reeds in
+        the marsh.  '
+      comments:
+      - number: '40:21 '
+        contents:
+        - ft: 'Or '
+          body: 'bramble bushes; '
+        - ft: also in 40:22.
+          body: 
+    - title: 
+      content: "The lotus plants give it shade\n\tamong the willows beside the stream.  "
+      comments: []
+    - title: 
+      content: "It is not disturbed by the raging river,\n\tnot concerned when the
+        swelling Jordan rushes around it.  "
+      comments: []
+    - title: 
+      content: "No one can catch it off guard\n\tor put a ring in its nose and lead
+        it away."
+      comments: []
+  - verses:
+    - title: "\u2019s Challenge Continues"
+      content: "  [COMMENT[1]]\u201CCan you catch Leviathan[COMMENT[2]] with a hook\n\tor
+        put a noose around its jaw?  "
+      comments:
+      - number: 
+        contents:
+        - ft: '  '
+          body: 
+      - number: '41:1a '
+        contents:
+        - ft: '  '
+          body: 
+        - ft: Verses 41:1-8 are numbered 40:25-32 in Hebrew text.
+          body: 
+        - ft: '  '
+          body: 
+      - number: '41:1b '
+        contents:
+        - ft: The identification of Leviathan is disputed, ranging from an earthly
+            creature to a mythical sea monster in ancient literature.
+          body: 
+    - title: 
+      content: "Can you tie it with a rope through the nose\n\tor pierce its jaw
+        with a spike?  "
+      comments: []
+    - title: 
+      content: "Will it beg you for mercy\n\tor implore you for pity?  "
+      comments: []
+    - title: 
+      content: "Will it agree to work for you,\n\tto be your slave for life?  "
+      comments: []
+    - title: 
+      content: "Can you make it a pet like a bird,\n\tor give it to your little girls
+        to play with?  "
+      comments: []
+    - title: 
+      content: "Will merchants try to buy it\n\tto sell it in their shops?  "
+      comments: []
+    - title: 
+      content: "Will its hide be hurt by spears\n\tor its head by a harpoon?  "
+      comments: []
+    - title: 
+      content: "If you lay a hand on it,\n\tyou will certainly remember the battle
+        that follows.\n\tYou won\u2019t try that again!  "
+      comments: []
+    - title: 
+      content: "  [COMMENT[1]]No, it is useless to try to capture it.\n\tThe hunter
+        who attempts it will be knocked down.  "
+      comments:
+      - number: 
+        contents:
+        - ft: '  '
+          body: 
+      - number: '41:9 '
+        contents:
+        - ft: '  '
+          body: 
+        - ft: Verses 41:9-34 are numbered 41:1-26 in Hebrew text.
+          body: 
+        - ft: '  '
+          body: 
+    - title: 
+      content: "And since no one dares to disturb it,\n\twho then can stand up to
+        me?  "
+      comments: []
+    - title: 
+      content: "Who has given me anything that I need to pay back?\n\tEverything
+        under heaven is mine.  "
+      comments: []
+    - title: 
+      content: "\u201CI want to emphasize Leviathan\u2019s limbs\n\tand its enormous
+        strength and graceful form.  "
+      comments: []
+    - title: 
+      content: "Who can strip off its hide,\n\tand who can penetrate its double layer
+        of armor?[COMMENT[0]]  "
+      comments:
+      - number: '41:13 '
+        contents:
+        - ft: 'As in Greek version; Hebrew reads '
+          body: its bridle?
+    - title: 
+      content: "Who could pry open its jaws?\n\tFor its teeth are terrible!  "
+      comments: []
+    - title: 
+      content: "The scales on its back are like[COMMENT[0]] rows of shields\n\ttightly
+        sealed together.  "
+      comments:
+      - number: '41:15 '
+        contents:
+        - ft: 'As in some Greek manuscripts and Latin Vulgate; Hebrew reads '
+          body: Its pride is in its.
+    - title: 
+      content: "They are so close together\n\tthat no air can get between them.  "
+      comments: []
+    - title: 
+      content: "Each scale sticks tight to the next.\n\tThey interlock and cannot
+        be penetrated.  "
+      comments: []
+    - title: 
+      content: "\u201CWhen it sneezes, it flashes light!\n\tIts eyes are like the
+        red of dawn.  "
+      comments: []
+    - title: 
+      content: "Lightning leaps from its mouth;\n\tflames of fire flash out.  "
+      comments: []
+    - title: 
+      content: "Smoke streams from its nostrils\n\tlike steam from a pot heated over
+        burning rushes.  "
+      comments: []
+    - title: 
+      content: "Its breath would kindle coals,\n\tfor flames shoot from its mouth.  "
+      comments: []
+    - title: 
+      content: "\u201CThe tremendous strength in Leviathan\u2019s neck\n\tstrikes
+        terror wherever it goes.  "
+      comments: []
+    - title: 
+      content: "Its flesh is hard and firm\n\tand cannot be penetrated.  "
+      comments: []
+    - title: 
+      content: "Its heart is hard as rock,\n\thard as a millstone.  "
+      comments: []
+    - title: 
+      content: "When it rises, the mighty are afraid,\n\tgripped by terror.  "
+      comments: []
+    - title: 
+      content: "No sword can stop it,\n\tno spear, dart, or javelin.  "
+      comments: []
+    - title: 
+      content: "Iron is nothing but straw to that creature,\n\tand bronze is like
+        rotten wood.  "
+      comments: []
+    - title: 
+      content: "Arrows cannot make it flee.\n\tStones shot from a sling are like
+        bits of grass.  "
+      comments: []
+    - title: 
+      content: "Clubs are like a blade of grass,\n\tand it laughs at the swish of
+        javelins.  "
+      comments: []
+    - title: 
+      content: "Its belly is covered with scales as sharp as glass.\n\tIt plows up
+        the ground as it drags through the mud.  "
+      comments: []
+    - title: 
+      content: "\u201CLeviathan makes the water boil with its commotion.\n\tIt stirs
+        the depths like a pot of ointment.  "
+      comments: []
+    - title: 
+      content: "The water glistens in its wake,\n\tmaking the sea look white.  "
+      comments: []
+    - title: 
+      content: "Nothing on earth is its equal,\n\tno other creature so fearless.  "
+      comments: []
+    - title: 
+      content: "Of all the creatures, it is the proudest.\n\tIt is the king of beasts.\u201D"
+      comments: []
+  - verses:
+    - title: Lord
+      content: "Then Job replied to the <smallcaps>Lord</smallcaps>\n\t:  "
+      comments: []
+    - title: 
+      content: "\u201CI know that you can do anything,\n\tand no one can stop you.  "
+      comments: []
+    - title: 
+      content: "You asked, \u2018Who is this that questions my wisdom with such ignorance?\u2019\n\tIt
+        is I\u2014and I was talking about things I knew nothing about,\n\tthings
+        far too wonderful for me.  "
+      comments: []
+    - title: 
+      content: "You said, \u2018Listen and I will speak!\n\tI have some questions
+        for you,\n\tand you must answer them.\u2019  "
+      comments: []
+    - title: 
+      content: "I had only heard about you before,\n\tbut now I have seen you with
+        my own eyes.  "
+      comments: []
+    - title: 
+      content: "I take back everything I said,\n\tand I sit in dust and ashes to
+        show my repentance.\u201D  "
+      comments: []
+    - title: ' Blesses Job'
+      content: "After the <smallcaps>Lord</smallcaps> had finished speaking to Job,
+        he said to Eliphaz the Temanite: \u201CI am angry with you and your two friends,
+        for you have not spoken accurately about me, as my servant Job has. "
+      comments: []
+    - title: 
+      content: "So take seven bulls and seven rams and go to my servant Job and offer
+        a burnt offering for yourselves. My servant Job will pray for you, and I
+        will accept his prayer on your behalf. I will not treat you as you deserve,
+        for you have not spoken accurately about me, as my servant Job has.\u201D "
+      comments: []
+    - title: 
+      content: "So Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite
+        did as the <smallcaps>Lord</smallcaps> commanded them, and the <smallcaps>Lord</smallcaps>
+        accepted Job\u2019s prayer.  "
+      comments: []
+    - title: 
+      content: 'When Job prayed for his friends, the <smallcaps>Lord</smallcaps>
+        restored his fortunes. In fact, the <smallcaps>Lord</smallcaps> gave him
+        twice as much as before! '
+      comments: []
+    - title: 
+      content: 'Then all his brothers, sisters, and former friends came and feasted
+        with him in his home. And they consoled him and comforted him because of
+        all the trials the <smallcaps>Lord</smallcaps> had brought against him. And
+        each of them brought him a gift of money[COMMENT[0]] and a gold ring.  '
+      comments:
+      - number: '42:11 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'a kesitah; '
+        - ft: the value or weight of the kesitah is no longer known.
+          body: 
+    - title: 
+      content: 'So the <smallcaps>Lord</smallcaps> blessed Job in the second half
+        of his life even more than in the beginning. For now he had 14,000 sheep,
+        6,000 camels, 1,000 teams of oxen, and 1,000 female donkeys. '
+      comments: []
+    - title: 
+      content: 'He also gave Job seven more sons and three more daughters. '
+      comments: []
+    - title: 
+      content: 'He named his first daughter Jemimah, the second Keziah, and the third
+        Keren-happuch. '
+      comments: []
+    - title: 
+      content: 'In all the land no women were as lovely as the daughters of Job.
+        And their father put them into his will along with their brothers.  '
+      comments: []
+    - title: 
+      content: 'Job lived 140 years after that, living to see four generations of
+        his children and grandchildren. '
+      comments: []
+    - title: 
+      content: Then he died, an old man who had lived a long, full life.
+      comments: []

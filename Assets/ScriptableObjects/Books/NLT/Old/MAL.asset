@@ -1,0 +1,391 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: MAL
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Malachi
+  fancyName: 
+  nickname: mal
+  language: English
+  lang: eng
+  version: New Living Translation
+  ver: NLT
+  description: 
+  chapters:
+  - verses:
+    - title: 
+      content: 'This is the message[COMMENT[0]] that the <smallcaps>Lord</smallcaps>
+        gave to Israel through the prophet Malachi.[COMMENT[1]]  '
+      comments:
+      - number: '1:1a '
+        contents:
+        - ft: 'Hebrew '
+          body: 'An Oracle: The message.'
+      - number: '1:1b '
+        contents:
+        - ft: 
+          body: 'Malachi '
+        - ft: "means \u201Cmy messenger.\u201D"
+          body: 
+    - title: "\u2019s Love for Israel"
+      content: "\u201CI have always loved you,\u201D says the <smallcaps>Lord</smallcaps>\n\t.\n\tBut
+        you retort, \u201CReally? How have you loved us?\u201D\n\tAnd the <smallcaps>Lord</smallcaps>
+        replies, \u201CThis is how I showed my love for you: I loved your ancestor
+        Jacob, "
+      comments: []
+    - title: 
+      content: "but I rejected his brother, Esau, and devastated his hill country.
+        I turned Esau\u2019s inheritance into a desert for jackals.\u201D  "
+      comments: []
+    - title: 
+      content: "Esau\u2019s descendants in Edom may say, \u201CWe have been shattered,
+        but we will rebuild the ruins.\u201D\n\tBut the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies replies, \u201CThey may try to rebuild, but I will
+        demolish them again. Their country will be known as \u2018The Land of Wickedness,\u2019
+        and their people will be called \u2018The People with Whom the <smallcaps>Lord</smallcaps>
+        Is Forever Angry.\u2019 "
+      comments: []
+    - title: 
+      content: "When you see the destruction for yourselves, you will say, \u2018Truly,
+        the <smallcaps>Lord</smallcaps>\n\t\u2019s greatness reaches far beyond Israel\u2019s
+        borders!\u2019\u201D  "
+      comments: []
+    - title: Unworthy Sacrifices
+      content: "The <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies says to the
+        priests: \u201CA son honors his father, and a servant respects his master.
+        If I am your father and master, where are the honor and respect I deserve?
+        You have shown contempt for my name!\n\t\u201CBut you ask, \u2018How have
+        we ever shown contempt for your name?\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CYou have shown contempt by offering defiled sacrifices on my
+        altar.\n\t\u201CThen you ask, \u2018How have we defiled the sacrifices?[COMMENT[0]]\u2019\n\t\u201CYou
+        defile them by saying the altar of the <smallcaps>Lord</smallcaps> deserves
+        no respect. "
+      comments:
+      - number: '1:7 '
+        contents:
+        - ft: 'As in Greek version; Hebrew reads '
+          body: defiled you?
+    - title: 
+      content: "When you give blind animals as sacrifices, isn\u2019t that wrong?
+        And isn\u2019t it wrong to offer animals that are crippled and diseased?
+        Try giving gifts like that to your governor, and see how pleased he is!\u201D
+        says the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies.  "
+      comments: []
+    - title: 
+      content: "\u201CGo ahead, beg God to be merciful to you! But when you bring
+        that kind of offering, why should he show you any favor at all?\u201D asks
+        the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies.  "
+      comments: []
+    - title: 
+      content: "\u201CHow I wish one of you would shut the Temple doors so that these
+        worthless sacrifices could not be offered! I am not pleased with you,\u201D
+        says the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies, \u201Cand I
+        will not accept your offerings. "
+      comments: []
+    - title: 
+      content: "But my name is honored[COMMENT[0]] by people of other nations from
+        morning till night. All around the world they offer[COMMENT[1]] sweet incense
+        and pure offerings in honor of my name. For my name is great among the nations,\u201D
+        says the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies.  "
+      comments:
+      - number: '1:11a '
+        contents:
+        - ft: 'Or '
+          body: will be honored.
+      - number: '1:11b '
+        contents:
+        - ft: 'Or '
+          body: will offer.
+    - title: 
+      content: "\u201CBut you dishonor my name with your actions. By bringing contemptible
+        food, you are saying it\u2019s all right to defile the Lord\u2019s table. "
+      comments: []
+    - title: 
+      content: "You say, \u2018It\u2019s too hard to serve the <smallcaps>Lord</smallcaps>\n\t,\u2019
+        and you turn up your noses at my commands,\u201D says the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies. \u201CThink of it! Animals that are stolen and crippled
+        and sick are being presented as offerings! Should I accept from you such
+        offerings as these?\u201D asks the <smallcaps>Lord</smallcaps>\n\t.  "
+      comments: []
+    - title: 
+      content: "\u201CCursed is the cheat who promises to give a fine ram from his
+        flock but then sacrifices a defective one to the Lord. For I am a great king,\u201D
+        says the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies, \u201Cand my
+        name is feared among the nations!"
+      comments: []
+  - verses:
+    - title: A Warning to the Priests
+      content: "\u201CListen, you priests\u2014this command is for you! "
+      comments: []
+    - title: 
+      content: "Listen to me and make up your minds to honor my name,\u201D says
+        the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies, \u201Cor I will
+        bring a terrible curse against you. I will curse even the blessings you receive.
+        Indeed, I have already cursed them, because you have not taken my warning
+        to heart. "
+      comments: []
+    - title: 
+      content: 'I will punish your descendants and splatter your faces with the manure
+        from your festival sacrifices, and I will throw you on the manure pile. '
+      comments: []
+    - title: 
+      content: "Then at last you will know it was I who sent you this warning so
+        that my covenant with the Levites can continue,\u201D says the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies.  "
+      comments: []
+    - title: 
+      content: "\u201CThe purpose of my covenant with the Levites was to bring life
+        and peace, and that is what I gave them. This required reverence from them,
+        and they greatly revered me and stood in awe of my name. "
+      comments: []
+    - title: 
+      content: 'They passed on to the people the truth of the instructions they received
+        from me. They did not lie or cheat; they walked with me, living good and
+        righteous lives, and they turned many from lives of sin.  '
+      comments: []
+    - title: 
+      content: "\u201CThe words of a priest\u2019s lips should preserve knowledge
+        of God, and people should go to him for instruction, for the priest is the
+        messenger of the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies. "
+      comments: []
+    - title: 
+      content: "But you priests have left God\u2019s paths. Your instructions have
+        caused many to stumble into sin. You have corrupted the covenant I made with
+        the Levites,\u201D says the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies. "
+      comments: []
+    - title: 
+      content: "\u201CSo I have made you despised and humiliated in the eyes of all
+        the people. For you have not obeyed me but have shown favoritism in the way
+        you carry out my instructions.\u201D  "
+      comments: []
+    - title: A Call to Faithfulness
+      content: 'Are we not all children of the same Father? Are we not all created
+        by the same God? Then why do we betray each other, violating the covenant
+        of our ancestors?  '
+      comments: []
+    - title: 
+      content: "Judah has been unfaithful, and a detestable thing has been done in
+        Israel and in Jerusalem. The men of Judah have defiled the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        beloved sanctuary by marrying women who worship idols. "
+      comments: []
+    - title: 
+      content: "May the <smallcaps>Lord</smallcaps> cut off from the nation of Israel[COMMENT[0]]
+        every last man who has done this and yet brings an offering to the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies.  "
+      comments:
+      - number: '2:12 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'from the tents of Jacob. '
+        - ft: "The names \u201CJacob\u201D and \u201CIsrael\u201D are often interchanged
+            throughout the Old Testament, referring sometimes to the individual patriarch
+            and sometimes to the nation."
+          body: 
+    - title: 
+      content: "Here is another thing you do. You cover the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        altar with tears, weeping and groaning because he pays no attention to your
+        offerings and doesn\u2019t accept them with pleasure. "
+      comments: []
+    - title: 
+      content: "You cry out, \u201CWhy doesn\u2019t the <smallcaps>Lord</smallcaps>
+        accept my worship?\u201D I\u2019ll tell you why! Because the <smallcaps>Lord</smallcaps>
+        witnessed the vows you and your wife made when you were young. But you have
+        been unfaithful to her, though she remained your faithful partner, the wife
+        of your marriage vows.  "
+      comments: []
+    - title: 
+      content: "Didn\u2019t the <smallcaps>Lord</smallcaps> make you one with your
+        wife? In body and spirit you are his.[COMMENT[0]] And what does he want?
+        Godly children from your union. So guard your heart; remain loyal to the
+        wife of your youth. "
+      comments:
+      - number: '2:15 '
+        contents:
+        - ft: 'Or '
+          body: "Didn\u2019t the one "
+        - ft: 'or '
+          body: "Didn\u2019t the one "
+        - ft: The meaning of the Hebrew is uncertain.
+          body: 
+    - title: 
+      content: "\u201CFor I hate divorce!\u201D[COMMENT[0]] says the <smallcaps>Lord</smallcaps>\n\t,
+        the God of Israel. \u201CTo divorce your wife is to overwhelm her with cruelty,[COMMENT[1]]\u201D
+        says the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies. \u201CSo guard
+        your heart; do not be unfaithful to your wife.\u201D  "
+      comments:
+      - number: '2:16a '
+        contents:
+        - ft: 'Hebrew '
+          body: For he hates divorcing.
+      - number: '2:16b '
+        contents:
+        - ft: 'Hebrew '
+          body: "to cover one\u2019s garment with violence."
+    - title: 
+      content: "You have wearied the <smallcaps>Lord</smallcaps> with your words.\n\t\u201CHow
+        have we wearied him?\u201D you ask.\n\tYou have wearied him by saying that
+        all who do evil are good in the <smallcaps>Lord</smallcaps>\n\t\u2019s sight,
+        and he is pleased with them. You have wearied him by asking, \u201CWhere
+        is the God of justice?\u201D"
+      comments: []
+  - verses:
+    - title: The Coming Day of Judgment
+      content: "\u201CLook! I am sending my messenger, and he will prepare the way
+        before me. Then the Lord you are seeking will suddenly come to his Temple.
+        The messenger of the covenant, whom you look for so eagerly, is surely coming,\u201D
+        says the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies.  "
+      comments: []
+    - title: 
+      content: "\u201CBut who will be able to endure it when he comes? Who will be
+        able to stand and face him when he appears? For he will be like a blazing
+        fire that refines metal, or like a strong soap that bleaches clothes. "
+      comments: []
+    - title: 
+      content: "He will sit like a refiner of silver, burning away the dross. He
+        will purify the Levites, refining them like gold and silver, so that they
+        may once again offer acceptable sacrifices to the <smallcaps>Lord</smallcaps>\n\t. "
+      comments: []
+    - title: 
+      content: 'Then once more the <smallcaps>Lord</smallcaps> will accept the offerings
+        brought to him by the people of Judah and Jerusalem, as he did in the past.  '
+      comments: []
+    - title: 
+      content: "\u201CAt that time I will put you on trial. I am eager to witness
+        against all sorcerers and adulterers and liars. I will speak against those
+        who cheat employees of their wages, who oppress widows and orphans, or who
+        deprive the foreigners living among you of justice, for these people do not
+        fear me,\u201D says the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies.  "
+      comments: []
+    - title: A Call to Repentance
+      content: "\u201CI am the <smallcaps>Lord</smallcaps>\n\t, and I do not change.
+        That is why you descendants of Jacob are not already destroyed. "
+      comments: []
+    - title: 
+      content: "Ever since the days of your ancestors, you have scorned my decrees
+        and failed to obey them. Now return to me, and I will return to you,\u201D
+        says the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies.\n\t\u201CBut
+        you ask, \u2018How can we return when we have never gone away?\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CShould people cheat God? Yet you have cheated me!\n\t\u201CBut
+        you ask, \u2018What do you mean? When did we ever cheat you?\u2019\n\t\u201CYou
+        have cheated me of the tithes and offerings due to me. "
+      comments: []
+    - title: 
+      content: 'You are under a curse, for your whole nation has been cheating me. '
+      comments: []
+    - title: 
+      content: "Bring all the tithes into the storehouse so there will be enough
+        food in my Temple. If you do,\u201D says the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies, \u201CI will open the windows of heaven for you.
+        I will pour out a blessing so great you won\u2019t have enough room to take
+        it in! Try it! Put me to the test! "
+      comments: []
+    - title: 
+      content: "Your crops will be abundant, for I will guard them from insects and
+        disease.[COMMENT[0]] Your grapes will not fall from the vine before they
+        are ripe,\u201D says the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies. "
+      comments:
+      - number: '3:11 '
+        contents:
+        - ft: 'Hebrew '
+          body: from the devourer.
+    - title: 
+      content: "\u201CThen all nations will call you blessed, for your land will
+        be such a delight,\u201D says the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies.  "
+      comments: []
+    - title: 
+      content: "\u201CYou have said terrible things about me,\u201D says the <smallcaps>Lord</smallcaps>\n\t.\n\t\u201CBut
+        you say, \u2018What do you mean? What have we said against you?\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CYou have said, \u2018What\u2019s the use of serving God? What
+        have we gained by obeying his commands or by trying to show the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies that we are sorry for our sins? "
+      comments: []
+    - title: 
+      content: "From now on we will call the arrogant blessed. For those who do evil
+        get rich, and those who dare God to punish them suffer no harm.\u2019\u201D  "
+      comments: []
+    - title: "\u2019s Promise of Mercy"
+      content: 'Then those who feared the <smallcaps>Lord</smallcaps> spoke with
+        each other, and the <smallcaps>Lord</smallcaps> listened to what they said.
+        In his presence, a scroll of remembrance was written to record the names
+        of those who feared him and always thought about the honor of his name.  '
+      comments: []
+    - title: 
+      content: "\u201CThey will be my people,\u201D says the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies. \u201COn the day when I act in judgment, they will
+        be my own special treasure. I will spare them as a father spares an obedient
+        child. "
+      comments: []
+    - title: 
+      content: "Then you will again see the difference between the righteous and
+        the wicked, between those who serve God and those who do not.\u201D"
+      comments: []
+  - verses:
+    - title: The Coming Day of Judgment
+      content: "  [COMMENT[1]]The <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies
+        says, \u201CThe day of judgment is coming, burning like a furnace. On that
+        day the arrogant and the wicked will be burned up like straw. They will be
+        consumed\u2014roots, branches, and all.  "
+      comments:
+      - number: 
+        contents:
+        - ft: '  '
+          body: 
+      - number: '4:1 '
+        contents:
+        - ft: '  '
+          body: 
+        - ft: Verses 4:1-6 are numbered 3:19-24 in Hebrew text.
+          body: 
+        - ft: '  '
+          body: 
+    - title: 
+      content: "\u201CBut for you who fear my name, the Sun of Righteousness will
+        rise with healing in his wings.[COMMENT[0]] And you will go free, leaping
+        with joy like calves let out to pasture. "
+      comments:
+      - number: '4:2 '
+        contents:
+        - ft: 'Or '
+          body: the sun of righteousness will rise with healing in its wings.
+    - title: 
+      content: "On the day when I act, you will tread upon the wicked as if they
+        were dust under your feet,\u201D says the <smallcaps>Lord</smallcaps> of
+        Heaven\u2019s Armies.  "
+      comments: []
+    - title: 
+      content: "\u201CRemember to obey the Law of Moses, my servant\u2014all the
+        decrees and regulations that I gave him on Mount Sinai[COMMENT[0]] for all
+        Israel.  "
+      comments:
+      - number: '4:4 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'Horeb, '
+        - ft: another name for Sinai.
+          body: 
+    - title: 
+      content: "\u201CLook, I am sending you the prophet Elijah before the great
+        and dreadful day of the <smallcaps>Lord</smallcaps> arrives. "
+      comments: []
+    - title: 
+      content: "His preaching will turn the hearts of fathers to their children,
+        and the hearts of children to their fathers. Otherwise I will come and strike
+        the land with a curse.\u201D"
+      comments: []

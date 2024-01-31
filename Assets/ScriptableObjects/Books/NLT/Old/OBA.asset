@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: OBA
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Obadiah
+  fancyName: 
+  nickname: oba
+  language: English
+  lang: eng
+  version: New Living Translation
+  ver: NLT
+  description: 
+  chapters:
+  - verses:
+    - title: 
+      content: "This is the vision that the Sovereign <smallcaps>Lord</smallcaps>
+        revealed to Obadiah concerning the land of Edom.We have heard a message from
+        the <smallcaps>Lord</smallcaps>\n\tthat an ambassador was sent to the nations
+        to say,\n\t\u201CGet ready, everyone!\n\tLet\u2019s assemble our armies and
+        attack Edom!\u201D  "
+      comments: []
+    - title: "Edom\u2019s Judgment Announced"
+      content: "The <smallcaps>Lord</smallcaps> says to Edom,\n\t\u201CI will cut
+        you down to size among the nations;\n\tyou will be greatly despised.  "
+      comments: []
+    - title: 
+      content: "You have been deceived by your own pride\n\tbecause you live in a
+        rock fortress\n\tand make your home high in the mountains.\n\t\u2018Who can
+        ever reach us way up here?\u2019\n\tyou ask boastfully.  "
+      comments: []
+    - title: 
+      content: "But even if you soar as high as eagles\n\tand build your nest among
+        the stars,\n\tI will bring you crashing down,\u201D\n\tsays the <smallcaps>Lord</smallcaps>\n\t.  "
+      comments: []
+    - title: 
+      content: "\u201CIf thieves came at night and robbed you\n\t(what a disaster
+        awaits you!),\n\tthey would not take everything.\n\tThose who harvest grapes\n\talways
+        leave a few for the poor.\n\tBut your enemies will wipe you out completely!  "
+      comments: []
+    - title: 
+      content: "Every nook and cranny of Edom[COMMENT[0]]will be searched and looted.\n\tEvery
+        treasure will be found and taken.  "
+      comments:
+      - number: '1:6 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'Esau; '
+        - ft: also in 8b, 9, 18, 19, 21.
+          body: 
+    - title: 
+      content: "\u201CAll your allies will turn against you.\n\tThey will help to
+        chase you from your land.\n\tThey will promise you peace\n\twhile plotting
+        to deceive and destroy you.\n\tYour trusted friends will set traps for you,\n\tand
+        you won\u2019t even know about it.  "
+      comments: []
+    - title: 
+      content: "At that time not a single wise person\n\twill be left in the whole
+        land of Edom,\u201D\n\tsays the <smallcaps>Lord</smallcaps>\n\t.\n\t\u201CFor
+        on the mountains of Edom\n\tI will destroy everyone who has understanding.  "
+      comments: []
+    - title: 
+      content: "The mightiest warriors of Teman\n\twill be terrified,\n\tand everyone
+        on the mountains of Edom\n\twill be cut down in the slaughter.  "
+      comments: []
+    - title: "Reasons for Edom\u2019s Punishment"
+      content: "\u201CBecause of the violence you did\n\tto your close relatives
+        in Israel,[COMMENT[0]]you will be filled with shame\n\tand destroyed forever.  "
+      comments:
+      - number: '1:10 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'your brother Jacob. '
+        - ft: "The names \u201CJacob\u201D and \u201CIsrael\u201D are often interchanged
+            throughout the Old Testament, referring sometimes to the individual patriarch
+            and sometimes to the nation."
+          body: 
+    - title: 
+      content: "When they were invaded,\n\tyou stood aloof, refusing to help them.\n\tForeign
+        invaders carried off their wealth\n\tand cast lots to divide up Jerusalem,\n\tbut
+        you acted like one of Israel\u2019s enemies.  "
+      comments: []
+    - title: 
+      content: "\u201CYou should not have gloated\n\twhen they exiled your relatives
+        to distant lands.\n\tYou should not have rejoiced\n\twhen the people of Judah
+        suffered such misfortune.\n\tYou should not have spoken arrogantly\n\tin
+        that terrible time of trouble.  "
+      comments: []
+    - title: 
+      content: "You should not have plundered the land of Israel\n\twhen they were
+        suffering such calamity.\n\tYou should not have gloated over their destruction\n\twhen
+        they were suffering such calamity.\n\tYou should not have seized their wealth\n\twhen
+        they were suffering such calamity.  "
+      comments: []
+    - title: 
+      content: "You should not have stood at the crossroads,\n\tkilling those who
+        tried to escape.\n\tYou should not have captured the survivors\n\tand handed
+        them over in their terrible time of trouble.  "
+      comments: []
+    - title: Edom Destroyed, Israel Restored
+      content: "\u201CThe day is near when I, the <smallcaps>Lord</smallcaps>\n\t,\n\twill
+        judge all godless nations!\n\tAs you have done to Israel,\n\tso it will be
+        done to you.\n\tAll your evil deeds\n\twill fall back on your own heads.  "
+      comments: []
+    - title: 
+      content: "Just as you swallowed up my people\n\ton my holy mountain,\n\tso
+        you and the surrounding nations\n\twill swallow the punishment I pour out
+        on you.\n\tYes, all you nations will drink and stagger\n\tand disappear from
+        history.  "
+      comments: []
+    - title: 
+      content: "\u201CBut Jerusalem[COMMENT[0]] will become a refuge for those who
+        escape;\n\tit will be a holy place.\n\tAnd the people of Israel[COMMENT[1]]
+        will come back\n\tto reclaim their inheritance.  "
+      comments:
+      - number: '1:17a '
+        contents:
+        - ft: 'Hebrew '
+          body: Mount Zion.
+      - number: '1:17b '
+        contents:
+        - ft: 'Hebrew '
+          body: 'house of Jacob; '
+        - ft: also in 18. See note on 10.
+          body: 
+    - title: 
+      content: "The people of Israel will be a raging fire,\n\tand Edom a field of
+        dry stubble.\n\tThe descendants of Joseph will be a flame\n\troaring across
+        the field, devouring everything.\n\tThere will be no survivors in Edom.\n\tI,
+        the <smallcaps>Lord</smallcaps>\n\t, have spoken!  "
+      comments: []
+    - title: 
+      content: "\u201CThen my people living in the Negev\n\twill occupy the mountains
+        of Edom.\n\tThose living in the foothills of Judah[COMMENT[0]]will possess
+        the Philistine plains\n\tand take over the fields of Ephraim and Samaria.\n\tAnd
+        the people of Benjamin\n\twill occupy the land of Gilead.  "
+      comments:
+      - number: '1:19 '
+        contents:
+        - ft: 'Hebrew '
+          body: the Shephelah.
+    - title: 
+      content: "The exiles of Israel will return to their land\n\tand occupy the
+        Phoenician coast as far north as Zarephath.\n\tThe captives from Jerusalem
+        exiled in the north[COMMENT[0]]will return home and resettle the towns of
+        the Negev.  "
+      comments:
+      - number: '1:20 '
+        contents:
+        - ft: 'Hebrew '
+          body: in Sepharad.
+    - title: 
+      content: "Those who have been rescued[COMMENT[0]] will go up to[COMMENT[1]]
+        Mount Zion in Jerusalem\n\tto rule over the mountains of Edom.\n\tAnd the
+        <smallcaps>Lord </smallcaps>\n\thimself will be king!\u201D"
+      comments:
+      - number: '1:21a '
+        contents:
+        - ft: 'As in Greek and Syriac versions; Hebrew reads '
+          body: Rescuers.
+      - number: '1:21b '
+        contents:
+        - ft: 'Or '
+          body: from.

@@ -1,0 +1,1356 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: ZEC
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Zechariah
+  fancyName: 
+  nickname: zec
+  language: English
+  lang: eng
+  version: New Living Translation
+  ver: NLT
+  description: 
+  chapters:
+  - verses:
+    - title: Lord
+      content: "In November[COMMENT[0]] of the second year of King Darius\u2019s
+        reign, the <smallcaps>Lord</smallcaps> gave this message to the prophet Zechariah
+        son of Berekiah and grandson of Iddo:  "
+      comments:
+      - number: '1:1 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'In the eighth month. '
+        - ft: 'A number of dates in Zechariah can be cross-checked with dates in
+            surviving Persian records and related accurately to our modern calendar.
+            This month of the ancient Hebrew lunar calendar occurred within the months
+            of October and November 520 '
+          body: 
+    - title: 
+      content: "\u201CI, the <smallcaps>Lord</smallcaps>\n\t, was very angry with
+        your ancestors. "
+      comments: []
+    - title: 
+      content: "Therefore, say to the people, \u2018This is what the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies says: Return to me, and I will return to you, says
+        the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies.\u2019 "
+      comments: []
+    - title: 
+      content: "Don\u2019t be like your ancestors who would not listen or pay attention
+        when the earlier prophets said to them, \u2018This is what the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies says: Turn from your evil ways, and stop all your
+        evil practices.\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CWhere are your ancestors now? They and the prophets are long
+        dead. "
+      comments: []
+    - title: 
+      content: "But everything I said through my servants the prophets happened to
+        your ancestors, just as I said. As a result, they repented and said, \u2018We
+        have received what we deserved from the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies. He has done what he said he would do.\u2019\u201D  "
+      comments: []
+    - title: A Man among the Myrtle Trees
+      content: 'Three months later, on February 15,[COMMENT[0]] the <smallcaps>Lord</smallcaps>
+        sent another message to the prophet Zechariah son of Berekiah and grandson
+        of Iddo.  '
+      comments:
+      - number: '1:7 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'On the twenty-fourth day of the eleventh month, the month of Shebat,
+            in the second year of Darius. '
+        - ft: 'This event occurred on February 15, 519 '
+          body: 
+    - title: 
+      content: 'In a vision during the night, I saw a man sitting on a red horse
+        that was standing among some myrtle trees in a small valley. Behind him were
+        riders on red, brown, and white horses. '
+      comments: []
+    - title: 
+      content: "I asked the angel who was talking with me, \u201CMy lord, what do
+        these horses mean?\u201D\n\t\u201CI will show you,\u201D the angel replied.  "
+      comments: []
+    - title: 
+      content: "The rider standing among the myrtle trees then explained, \u201CThey
+        are the ones the <smallcaps>Lord</smallcaps> has sent out to patrol the earth.\u201D  "
+      comments: []
+    - title: 
+      content: "Then the other riders reported to the angel of the <smallcaps>Lord</smallcaps>\n\t,
+        who was standing among the myrtle trees, \u201CWe have been patrolling the
+        earth, and the whole earth is at peace.\u201D  "
+      comments: []
+    - title: 
+      content: "Upon hearing this, the angel of the <smallcaps>Lord</smallcaps> prayed
+        this prayer: \u201CO <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies,
+        for seventy years now you have been angry with Jerusalem and the towns of
+        Judah. How long until you again show mercy to them?\u201D "
+      comments: []
+    - title: 
+      content: 'And the <smallcaps>Lord</smallcaps> spoke kind and comforting words
+        to the angel who talked with me.  '
+      comments: []
+    - title: 
+      content: "Then the angel said to me, \u201CShout this message for all to hear:
+        \u2018This is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies
+        says: My love for Jerusalem and Mount Zion is passionate and strong. "
+      comments: []
+    - title: 
+      content: 'But I am very angry with the other nations that are now enjoying
+        peace and security. I was only a little angry with my people, but the nations
+        inflicted harm on them far beyond my intentions.  '
+      comments: []
+    - title: 
+      content: "\u201C\u2018Therefore, this is what the <smallcaps>Lord</smallcaps>
+        says: I have returned to show mercy to Jerusalem. My Temple will be rebuilt,
+        says the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies, and measurements
+        will be taken for the reconstruction of Jerusalem.[COMMENT[0]]\u2019  "
+      comments:
+      - number: '1:16 '
+        contents:
+        - ft: 'Hebrew '
+          body: and the measuring line will be stretched out over Jerusalem.
+    - title: 
+      content: "\u201CSay this also: \u2018This is what the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies says: The towns of Israel will again overflow with
+        prosperity, and the <smallcaps>Lord</smallcaps> will again comfort Zion and
+        choose Jerusalem as his own.\u2019\u201D  "
+      comments: []
+    - title: Four Horns and Four Blacksmiths
+      content: '  [COMMENT[1]]Then I looked up and saw four animal horns. '
+      comments:
+      - number: 
+        contents:
+        - ft: '  '
+          body: 
+      - number: '1:18 '
+        contents:
+        - ft: '  '
+          body: 
+        - ft: Verses 1:18-21 are numbered 2:1-4 in Hebrew text.
+          body: 
+        - ft: '  '
+          body: 
+    - title: 
+      content: "\u201CWhat are these?\u201D I asked the angel who was talking with
+        me.\n\tHe replied, \u201CThese horns represent the nations that scattered
+        Judah, Israel, and Jerusalem.\u201D  "
+      comments: []
+    - title: 
+      content: 'Then the <smallcaps>Lord</smallcaps> showed me four blacksmiths. '
+      comments: []
+    - title: 
+      content: "\u201CWhat are these men coming to do?\u201D I asked.\n\tThe angel
+        replied, \u201CThese four horns\u2014these nations\u2014scattered and humbled
+        Judah. Now these blacksmiths have come to terrify those nations and throw
+        them down and destroy them.\u201D"
+      comments: []
+  - verses:
+    - title: Future Prosperity of Jerusalem
+      content: '  [COMMENT[1]]When I looked again, I saw a man with a measuring line
+        in his hand. '
+      comments:
+      - number: 
+        contents:
+        - ft: '  '
+          body: 
+      - number: '2:1 '
+        contents:
+        - ft: '  '
+          body: 
+        - ft: Verses 2:1-13 are numbered 2:5-17 in Hebrew text.
+          body: 
+        - ft: '  '
+          body: 
+    - title: 
+      content: "\u201CWhere are you going?\u201D I asked.\n\tHe replied, \u201CI
+        am going to measure Jerusalem, to see how wide and how long it is.\u201D  "
+      comments: []
+    - title: 
+      content: 'Then the angel who was with me went to meet a second angel who was
+        coming toward him. '
+      comments: []
+    - title: 
+      content: "The other angel said, \u201CHurry, and say to that young man, \u2018Jerusalem
+        will someday be so full of people and livestock that there won\u2019t be
+        room enough for everyone! Many will live outside the city walls. "
+      comments: []
+    - title: 
+      content: "Then I, myself, will be a protective wall of fire around Jerusalem,
+        says the <smallcaps>Lord</smallcaps>\n\t. And I will be the glory inside
+        the city!\u2019\u201D  "
+      comments: []
+    - title: The Exiles Are Called Home
+      content: "The <smallcaps>Lord</smallcaps> says, \u201CCome away! Flee from
+        Babylon in the land of the north, for I have scattered you to the four winds. "
+      comments: []
+    - title: 
+      content: "Come away, people of Zion, you who are exiled in Babylon!\u201D  "
+      comments: []
+    - title: 
+      content: "After a period of glory, the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies sent me[COMMENT[0]] against the nations who plundered you. For he
+        said, \u201CAnyone who harms you harms my most precious possession.[COMMENT[1]]  "
+      comments:
+      - number: '2:8a '
+        contents:
+        - ft: The meaning of the Hebrew is uncertain.
+          body: 
+      - number: '2:8b '
+        contents:
+        - ft: 'Hebrew '
+          body: Anyone who touches you touches the pupil of his eye.
+    - title: 
+      content: "I will raise my fist to crush them, and their own slaves will plunder
+        them.\u201D Then you will know that the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies has sent me.  "
+      comments: []
+    - title: 
+      content: "The <smallcaps>Lord</smallcaps> says, \u201CShout and rejoice, O
+        beautiful Jerusalem,[COMMENT[0]] for I am coming to live among you. "
+      comments:
+      - number: '2:10 '
+        contents:
+        - ft: 'Hebrew '
+          body: O daughter of Zion.
+    - title: 
+      content: "Many nations will join themselves to the <smallcaps>Lord</smallcaps>
+        on that day, and they, too, will be my people. I will live among you, and
+        you will know that the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies
+        sent me to you. "
+      comments: []
+    - title: 
+      content: "The land of Judah will be the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        special possession in the holy land, and he will once again choose Jerusalem
+        to be his own city. "
+      comments: []
+    - title: 
+      content: "Be silent before the <smallcaps>Lord</smallcaps>\n\t, all humanity,
+        for he is springing into action from his holy dwelling.\u201D"
+      comments: []
+  - verses:
+    - title: Cleansing for the High Priest
+      content: "Then the angel showed me Jeshua[COMMENT[0]] the high priest standing
+        before the angel of the <smallcaps>Lord</smallcaps>\n\t. The Accuser, Satan,[COMMENT[1]]
+        was there at the angel\u2019s right hand, making accusations against Jeshua. "
+      comments:
+      - number: '3:1a '
+        contents:
+        - ft: 'Hebrew '
+          body: 'Joshua, '
+        - ft: a variant spelling of Jeshua; also in 3:3, 4, 6, 8, 9.
+          body: 
+      - number: '3:1b '
+        contents:
+        - ft: 'Hebrew '
+          body: 'The satan; '
+        - ft: similarly in 3:2.
+          body: 
+    - title: 
+      content: "And the <smallcaps>Lord</smallcaps> said to Satan, \u201CI, the <smallcaps>Lord</smallcaps>\n\t,
+        reject your accusations, Satan. Yes, the <smallcaps>Lord</smallcaps>\n\t,
+        who has chosen Jerusalem, rebukes you. This man is like a burning stick that
+        has been snatched from the fire.\u201D  "
+      comments: []
+    - title: 
+      content: "Jeshua\u2019s clothing was filthy as he stood there before the angel. "
+      comments: []
+    - title: 
+      content: "So the angel said to the others standing there, \u201CTake off his
+        filthy clothes.\u201D And turning to Jeshua he said, \u201CSee, I have taken
+        away your sins, and now I am giving you these fine new clothes.\u201D  "
+      comments: []
+    - title: 
+      content: "Then I said, \u201CThey should also place a clean turban on his head.\u201D
+        So they put a clean priestly turban on his head and dressed him in new clothes
+        while the angel of the <smallcaps>Lord</smallcaps> stood by.  "
+      comments: []
+    - title: 
+      content: 'Then the angel of the <smallcaps>Lord</smallcaps> spoke very solemnly
+        to Jeshua and said, '
+      comments: []
+    - title: 
+      content: "\u201CThis is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies says: If you follow my ways and carefully serve me, then you will
+        be given authority over my Temple and its courtyards. I will let you walk
+        among these others standing here.  "
+      comments: []
+    - title: 
+      content: "\u201CListen to me, O Jeshua the high priest, and all you other priests.
+        You are symbols of things to come. Soon I am going to bring my servant, the
+        Branch. "
+      comments: []
+    - title: 
+      content: "Now look at the jewel I have set before Jeshua, a single stone with
+        seven facets.[COMMENT[0]] I will engrave an inscription on it, says the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies, and I will remove the sins of this land in a single
+        day.  "
+      comments:
+      - number: '3:9 '
+        contents:
+        - ft: 'Hebrew '
+          body: seven eyes.
+    - title: 
+      content: "\u201CAnd on that day, says the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies, each of you will invite your neighbor to sit with you peacefully
+        under your own grapevine and fig tree.\u201D"
+      comments: []
+  - verses:
+    - title: A Lampstand and Two Olive Trees
+      content: 'Then the angel who had been talking with me returned and woke me,
+        as though I had been asleep. '
+      comments: []
+    - title: 
+      content: "\u201CWhat do you see now?\u201D he asked.\n\tI answered, \u201CI
+        see a solid gold lampstand with a bowl of oil on top of it. Around the bowl
+        are seven lamps, each having seven spouts with wicks. "
+      comments: []
+    - title: 
+      content: "And I see two olive trees, one on each side of the bowl.\u201D "
+      comments: []
+    - title: 
+      content: "Then I asked the angel, \u201CWhat are these, my lord? What do they
+        mean?\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CDon\u2019t you know?\u201D the angel asked.\n\t\u201CNo, my
+        lord,\u201D I replied.  "
+      comments: []
+    - title: 
+      content: "Then he said to me, \u201CThis is what the <smallcaps>Lord</smallcaps>
+        says to Zerubbabel: It is not by force nor by strength, but by my Spirit,
+        says the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies. "
+      comments: []
+    - title: 
+      content: "Nothing, not even a mighty mountain, will stand in Zerubbabel\u2019s
+        way; it will become a level plain before him! And when Zerubbabel sets the
+        final stone of the Temple in place, the people will shout: \u2018May God
+        bless it! May God bless it!\u2019[COMMENT[0]]\u201D  "
+      comments:
+      - number: '4:7 '
+        contents:
+        - ft: 'Hebrew '
+          body: "\u2018Grace, grace to it.\u2019"
+    - title: 
+      content: "Then another message came to me from the <smallcaps>Lord</smallcaps>\n\t: "
+      comments: []
+    - title: 
+      content: "\u201CZerubbabel is the one who laid the foundation of this Temple,
+        and he will complete it. Then you will know that the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies has sent me. "
+      comments: []
+    - title: 
+      content: "Do not despise these small beginnings, for the <smallcaps>Lord</smallcaps>
+        rejoices to see the work begin, to see the plumb line in Zerubbabel\u2019s
+        hand.\u201D\n\t(The seven lamps[COMMENT[0]] represent the eyes of the <smallcaps>Lord</smallcaps>
+        that search all around the world.)  "
+      comments:
+      - number: '4:10 '
+        contents:
+        - ft: 'Or '
+          body: 'The seven facets '
+        - ft: '(see 3:9); Hebrew reads '
+          body: These seven.
+    - title: 
+      content: "Then I asked the angel, \u201CWhat are these two olive trees on each
+        side of the lampstand, "
+      comments: []
+    - title: 
+      content: "and what are the two olive branches that pour out golden oil through
+        two gold tubes?\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CDon\u2019t you know?\u201D he asked.\n\t\u201CNo, my lord,\u201D
+        I replied.  "
+      comments: []
+    - title: 
+      content: "Then he said to me, \u201CThey represent the two anointed ones[COMMENT[0]]
+        who stand in the court of the Lord of all the earth.\u201D"
+      comments:
+      - number: '4:14 '
+        contents:
+        - ft: 'Or '
+          body: 'two heavenly beings; '
+        - ft: 'Hebrew reads '
+          body: two sons of fresh oil.
+  - verses:
+    - title: A Flying Scroll
+      content: 'I looked up again and saw a scroll flying through the air.  '
+      comments: []
+    - title: 
+      content: "\u201CWhat do you see?\u201D the angel asked.\n\t\u201CI see a flying
+        scroll,\u201D I replied. \u201CIt appears to be about 30 feet long and 15
+        feet wide.[COMMENT[0]]\u201D  "
+      comments:
+      - number: '5:2 '
+        contents:
+        - ft: 'Hebrew '
+          body: '20 cubits '
+        - ft: '[9.2 meters] '
+          body: 'long and 10 cubits '
+        - ft: '[4.6 meters] '
+          body: wide.
+    - title: 
+      content: "Then he said to me, \u201CThis scroll contains the curse that is
+        going out over the entire land. One side of the scroll says that those who
+        steal will be banished from the land; the other side says that those who
+        swear falsely will be banished from the land. "
+      comments: []
+    - title: 
+      content: "And this is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies says: I am sending this curse into the house of every thief and into
+        the house of everyone who swears falsely using my name. And my curse will
+        remain in that house and completely destroy it\u2014even its timbers and
+        stones.\u201D  "
+      comments: []
+    - title: A Woman in a Basket
+      content: "Then the angel who was talking with me came forward and said, \u201CLook
+        up and see what\u2019s coming.\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CWhat is it?\u201D I asked.\n\tHe replied, \u201CIt is a basket
+        for measuring grain,[COMMENT[0]] and it\u2019s filled with the sins[COMMENT[1]]
+        of everyone throughout the land.\u201D  "
+      comments:
+      - number: '5:6a '
+        contents:
+        - ft: 'Hebrew '
+          body: 'an ephah '
+        - ft: '[20 quarts or 22 liters]; also in 5:7, 8, 9, 10, 11.'
+          body: 
+      - number: '5:6b '
+        contents:
+        - ft: 'As in Greek version; Hebrew reads '
+          body: the appearance.
+    - title: 
+      content: 'Then the heavy lead cover was lifted off the basket, and there was
+        a woman sitting inside it. '
+      comments: []
+    - title: 
+      content: "The angel said, \u201CThe woman\u2019s name is Wickedness,\u201D
+        and he pushed her back into the basket and closed the heavy lid again.  "
+      comments: []
+    - title: 
+      content: 'Then I looked up and saw two women flying toward us, gliding on the
+        wind. They had wings like a stork, and they picked up the basket and flew
+        into the sky.  '
+      comments: []
+    - title: 
+      content: "\u201CWhere are they taking the basket?\u201D I asked the angel.  "
+      comments: []
+    - title: 
+      content: "He replied, \u201CTo the land of Babylonia,[COMMENT[0]] where they
+        will build a temple for the basket. And when the temple is ready, they will
+        set the basket there on its pedestal.\u201D"
+      comments:
+      - number: '5:11 '
+        contents:
+        - ft: 'Hebrew '
+          body: the land of Shinar.
+  - verses:
+    - title: Four Chariots
+      content: 'Then I looked up again and saw four chariots coming from between
+        two bronze mountains. '
+      comments: []
+    - title: 
+      content: 'The first chariot was pulled by red horses, the second by black horses, '
+      comments: []
+    - title: 
+      content: 'the third by white horses, and the fourth by powerful dappled-gray
+        horses. '
+      comments: []
+    - title: 
+      content: "\u201CAnd what are these, my lord?\u201D I asked the angel who was
+        talking with me.  "
+      comments: []
+    - title: 
+      content: "The angel replied, \u201CThese are the four spirits[COMMENT[0]] of
+        heaven who stand before the Lord of all the earth. They are going out to
+        do his work. "
+      comments:
+      - number: '6:5 '
+        contents:
+        - ft: 'Or '
+          body: the four winds.
+    - title: 
+      content: "The chariot with black horses is going north, the chariot with white
+        horses is going west,[COMMENT[0]] and the chariot with dappled-gray horses
+        is going south.\u201D  "
+      comments:
+      - number: '6:6 '
+        contents:
+        - ft: 'Hebrew '
+          body: is going after them.
+    - title: 
+      content: "The powerful horses were eager to set out to patrol the earth. And
+        the <smallcaps>Lord</smallcaps> said, \u201CGo and patrol the earth!\u201D
+        So they left at once on their patrol.  "
+      comments: []
+    - title: 
+      content: "Then the <smallcaps>Lord</smallcaps> summoned me and said, \u201CLook,
+        those who went north have vented the anger of my Spirit[COMMENT[0]] there
+        in the land of the north.\u201D  "
+      comments:
+      - number: '6:8 '
+        contents:
+        - ft: 'Hebrew '
+          body: have given my Spirit rest.
+    - title: The Crowning of Jeshua
+      content: "Then I received another message from the <smallcaps>Lord</smallcaps>\n\t: "
+      comments: []
+    - title: 
+      content: "\u201CHeldai, Tobijah, and Jedaiah will bring gifts of silver and
+        gold from the Jews exiled in Babylon. As soon as they arrive, meet them at
+        the home of Josiah son of Zephaniah. "
+      comments: []
+    - title: 
+      content: 'Accept their gifts, and make a crown from the silver and gold. Then
+        put the crown on the head of Jeshua[COMMENT[0]] son of Jehozadak, the high
+        priest. '
+      comments:
+      - number: '6:11 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'Joshua, '
+        - ft: a variant spelling of Jeshua.
+          body: 
+    - title: 
+      content: "Tell him, \u2018This is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies says: Here is the man called the Branch. He will branch out from where
+        he is and build the Temple of the <smallcaps>Lord</smallcaps>\n\t. "
+      comments: []
+    - title: 
+      content: "Yes, he will build the Temple of the <smallcaps>Lord</smallcaps>\n\t.
+        Then he will receive royal honor and will rule as king from his throne. He
+        will also serve as priest from his throne,[COMMENT[0]] and there will be
+        perfect harmony between his two roles.\u2019  "
+      comments:
+      - number: '6:13 '
+        contents:
+        - ft: 'Or '
+          body: There will be a priest by his throne.
+    - title: 
+      content: "\u201CThe crown will be a memorial in the Temple of the <smallcaps>Lord</smallcaps>
+        to honor those who gave it\u2014Heldai,[COMMENT[0]] Tobijah, Jedaiah, and
+        Josiah[COMMENT[1]] son of Zephaniah.\u201D  "
+      comments:
+      - number: '6:14a '
+        contents:
+        - ft: 'As in Syriac version (compare 6:10); Hebrew reads '
+          body: Helem.
+      - number: '6:14b '
+        contents:
+        - ft: 'As in Syriac version (compare 6:10); Hebrew reads '
+          body: Hen.
+    - title: 
+      content: "People will come from distant lands to rebuild the Temple of the
+        <smallcaps>Lord</smallcaps>\n\t. And when this happens, you will know that
+        my messages have been from the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies. All this will happen if you carefully obey what the <smallcaps>Lord</smallcaps>
+        your God says."
+      comments: []
+  - verses:
+    - title: A Call to Justice and Mercy
+      content: "On December 7[COMMENT[0]] of the fourth year of King Darius\u2019s
+        reign, another message came to Zechariah from the <smallcaps>Lord</smallcaps>\n\t. "
+      comments:
+      - number: '7:1 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'On the fourth day of the ninth month, the month of Kislev, '
+        - ft: 'of the ancient Hebrew lunar calendar. This event occurred on December
+            7, 518 '
+          body: 
+    - title: 
+      content: "The people of Bethel had sent Sharezer and Regemmelech,[COMMENT[0]]
+        along with their attendants, to seek the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        favor. "
+      comments:
+      - number: '7:2 '
+        contents:
+        - ft: 'Or '
+          body: Bethel-sharezer had sent Regemmelech.
+    - title: 
+      content: "They were to ask this question of the prophets and the priests at
+        the Temple of the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies: \u201CShould
+        we continue to mourn and fast each summer on the anniversary of the Temple\u2019s
+        destruction,[COMMENT[0]] as we have done for so many years?\u201D  "
+      comments:
+      - number: '7:3 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'mourn and fast in the fifth month. '
+        - ft: 'The Temple had been destroyed in the fifth month of the ancient Hebrew
+            lunar calendar (August 586 '
+          body: 
+    - title: 
+      content: "The <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies sent me this
+        message in reply: "
+      comments: []
+    - title: 
+      content: "\u201CSay to all your people and your priests, \u2018During these
+        seventy years of exile, when you fasted and mourned in the summer and in
+        early autumn,[COMMENT[0]] was it really for me that you were fasting? "
+      comments:
+      - number: '7:5 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'fasted and mourned in the fifth and seventh months. '
+        - ft: The fifth month of the ancient Hebrew lunar calendar usually occurs
+            within the months of July and August. The seventh month usually occurs
+            within the months of September and October; both the Day of Atonement
+            and the Festival of Shelters were celebrated in the seventh month.
+          body: 
+    - title: 
+      content: "And even now in your holy festivals, aren\u2019t you eating and drinking
+        just to please yourselves? "
+      comments: []
+    - title: 
+      content: "Isn\u2019t this the same message the <smallcaps>Lord</smallcaps>
+        proclaimed through the prophets in years past when Jerusalem and the towns
+        of Judah were bustling with people, and the Negev and the foothills of Judah[COMMENT[0]]
+        were well populated?\u2019\u201D  "
+      comments:
+      - number: '7:7 '
+        contents:
+        - ft: 'Hebrew '
+          body: the Shephelah.
+    - title: 
+      content: "Then this message came to Zechariah from the <smallcaps>Lord</smallcaps>\n\t: "
+      comments: []
+    - title: 
+      content: "\u201CThis is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies says: Judge fairly, and show mercy and kindness to one another. "
+      comments: []
+    - title: 
+      content: 'Do not oppress widows, orphans, foreigners, and the poor. And do
+        not scheme against each other.  '
+      comments: []
+    - title: 
+      content: "\u201CYour ancestors refused to listen to this message. They stubbornly
+        turned away and put their fingers in their ears to keep from hearing. "
+      comments: []
+    - title: 
+      content: "They made their hearts as hard as stone, so they could not hear the
+        instructions or the messages that the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies had sent them by his Spirit through the earlier prophets. That is
+        why the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies was so angry
+        with them.  "
+      comments: []
+    - title: 
+      content: "\u201CSince they refused to listen when I called to them, I would
+        not listen when they called to me, says the <smallcaps>Lord</smallcaps> of
+        Heaven\u2019s Armies. "
+      comments: []
+    - title: 
+      content: "As with a whirlwind, I scattered them among the distant nations,
+        where they lived as strangers. Their land became so desolate that no one
+        even traveled through it. They turned their pleasant land into a desert.\u201D"
+      comments: []
+  - verses:
+    - title: Promised Blessings for Jerusalem
+      content: "Then another message came to me from the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies: "
+      comments: []
+    - title: 
+      content: "\u201CThis is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies says: My love for Mount Zion is passionate and strong; I am consumed
+        with passion for Jerusalem!  "
+      comments: []
+    - title: 
+      content: "\u201CAnd now the <smallcaps>Lord</smallcaps> says: I am returning
+        to Mount Zion, and I will live in Jerusalem. Then Jerusalem will be called
+        the Faithful City; the mountain of the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies will be called the Holy Mountain.  "
+      comments: []
+    - title: 
+      content: "\u201CThis is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies says: Once again old men and women will walk Jerusalem\u2019s streets
+        with their canes and will sit together in the city squares. "
+      comments: []
+    - title: 
+      content: 'And the streets of the city will be filled with boys and girls at
+        play.  '
+      comments: []
+    - title: 
+      content: "\u201CThis is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies says: All this may seem impossible to you now, a small remnant of
+        God\u2019s people. But is it impossible for me? says the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies.  "
+      comments: []
+    - title: 
+      content: "\u201CThis is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies says: You can be sure that I will rescue my people from the east and
+        from the west. "
+      comments: []
+    - title: 
+      content: 'I will bring them home again to live safely in Jerusalem. They will
+        be my people, and I will be faithful and just toward them as their God.  '
+      comments: []
+    - title: 
+      content: "\u201CThis is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies says: Be strong and finish the task! Ever since the laying of the
+        foundation of the Temple of the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies, you have heard what the prophets have been saying about completing
+        the building. "
+      comments: []
+    - title: 
+      content: 'Before the work on the Temple began, there were no jobs and no money
+        to hire people or animals. No traveler was safe from the enemy, for there
+        were enemies on all sides. I had turned everyone against each other.  '
+      comments: []
+    - title: 
+      content: "\u201CBut now I will not treat the remnant of my people as I treated
+        them before, says the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies. "
+      comments: []
+    - title: 
+      content: 'For I am planting seeds of peace and prosperity among you. The grapevines
+        will be heavy with fruit. The earth will produce its crops, and the heavens
+        will release the dew. Once more I will cause the remnant in Judah and Israel
+        to inherit these blessings. '
+      comments: []
+    - title: 
+      content: "Among the other nations, Judah and Israel became symbols of a cursed
+        nation. But no longer! Now I will rescue you and make you both a symbol and
+        a source of blessing. So don\u2019t be afraid. Be strong, and get on with
+        rebuilding the Temple!  "
+      comments: []
+    - title: 
+      content: "\u201CFor this is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies says: I was determined to punish you when your ancestors angered me,
+        and I did not change my mind, says the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies. "
+      comments: []
+    - title: 
+      content: "But now I am determined to bless Jerusalem and the people of Judah.
+        So don\u2019t be afraid. "
+      comments: []
+    - title: 
+      content: 'But this is what you must do: Tell the truth to each other. Render
+        verdicts in your courts that are just and that lead to peace. '
+      comments: []
+    - title: 
+      content: "Don\u2019t scheme against each other. Stop your love of telling lies
+        that you swear are the truth. I hate all these things, says the <smallcaps>Lord</smallcaps>\n\t.\u201D  "
+      comments: []
+    - title: 
+      content: "Here is another message that came to me from the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies. "
+      comments: []
+    - title: 
+      content: "\u201CThis is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies says: The traditional fasts and times of mourning you have kept in
+        early summer, midsummer, autumn, and winter[COMMENT[0]] are now ended. They
+        will become festivals of joy and celebration for the people of Judah. So
+        love truth and peace.  "
+      comments:
+      - number: '8:19 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'in the fourth, fifth, seventh, and tenth months. '
+        - ft: The fourth month of the ancient Hebrew lunar calendar usually occurs
+            within the months of June and July. The fifth month usually occurs within
+            the months of July and August. The seventh month usually occurs within
+            the months of September and October. The tenth month usually occurs within
+            the months of December and January.
+          body: 
+    - title: 
+      content: "\u201CThis is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies says: People from nations and cities around the world will travel
+        to Jerusalem. "
+      comments: []
+    - title: 
+      content: "The people of one city will say to the people of another, \u2018Come
+        with us to Jerusalem to ask the <smallcaps>Lord</smallcaps> to bless us.
+        Let\u2019s worship the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies.
+        I\u2019m determined to go.\u2019 "
+      comments: []
+    - title: 
+      content: "Many peoples and powerful nations will come to Jerusalem to seek
+        the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies and to ask for his
+        blessing.  "
+      comments: []
+    - title: 
+      content: "\u201CThis is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies says: In those days ten men from different nations and languages of
+        the world will clutch at the sleeve of one Jew. And they will say, \u2018Please
+        let us walk with you, for we have heard that God is with you.\u2019\u201D"
+      comments: []
+  - verses:
+    - title: "Judgment against Israel\u2019s Enemies"
+      content: "This is the message[COMMENT[0]] from the <smallcaps>Lord</smallcaps>
+        against the land of Aram[COMMENT[1]] and the city of Damascus, for the eyes
+        of humanity, including all the tribes of Israel, are on the <smallcaps>Lord</smallcaps>\n\t.  "
+      comments:
+      - number: '9:1a '
+        contents:
+        - ft: 'Hebrew '
+          body: 'An Oracle: The message.'
+      - number: '9:1b '
+        contents:
+        - ft: 'Hebrew '
+          body: land of Hadrach.
+    - title: 
+      content: "Doom is certain for Hamath,\n\tnear Damascus,\n\tand for the cities
+        of Tyre and Sidon,\n\tthough they are so clever.  "
+      comments: []
+    - title: 
+      content: "Tyre has built a strong fortress\n\tand has made silver and gold\n\tas
+        plentiful as dust in the streets!  "
+      comments: []
+    - title: 
+      content: "But now the Lord will strip away Tyre\u2019s possessions\n\tand hurl
+        its fortifications into the sea,\n\tand it will be burned to the ground.  "
+      comments: []
+    - title: 
+      content: "The city of Ashkelon will see Tyre fall\n\tand will be filled with
+        fear.\n\tGaza will shake with terror,\n\tas will Ekron, for their hopes will
+        be dashed.\n\tGaza\u2019s king will be killed,\n\tand Ashkelon will be deserted.  "
+      comments: []
+    - title: 
+      content: "Foreigners will occupy the city of Ashdod.\n\tI will destroy the
+        pride of the Philistines.  "
+      comments: []
+    - title: 
+      content: "I will grab the bloody meat from their mouths\n\tand snatch the detestable
+        sacrifices from their teeth.\n\tThen the surviving Philistines will worship
+        our God\n\tand become like a clan in Judah.[COMMENT[0]]The Philistines of
+        Ekron will join my people,\n\tas the ancient Jebusites once did.  "
+      comments:
+      - number: '9:7 '
+        contents:
+        - ft: 'Hebrew '
+          body: like a leader in Judah.
+    - title: 
+      content: "I will guard my Temple\n\tand protect it from invading armies.\n\tI
+        am watching closely to ensure\n\tthat no more foreign oppressors overrun
+        my people\u2019s land.  "
+      comments: []
+    - title: "Zion\u2019s Coming King"
+      content: "Rejoice, O people of Zion![COMMENT[0]]Shout in triumph, O people
+        of Jerusalem!\n\tLook, your king is coming to you.\n\tHe is righteous and
+        victorious,[COMMENT[1]]yet he is humble, riding on a donkey\u2014\n\triding
+        on a donkey\u2019s colt.  "
+      comments:
+      - number: '9:9a '
+        contents:
+        - ft: 'Hebrew '
+          body: O daughter of Zion!
+      - number: '9:9b '
+        contents:
+        - ft: 'Hebrew '
+          body: and is being vindicated.
+    - title: 
+      content: "I will remove the battle chariots from Israel[COMMENT[0]]and the
+        warhorses from Jerusalem.\n\tI will destroy all the weapons used in battle,\n\tand
+        your king will bring peace to the nations.\n\tHis realm will stretch from
+        sea to sea\n\tand from the Euphrates River[COMMENT[1]] to the ends of the
+        earth.[COMMENT[2]]  "
+      comments:
+      - number: '9:10a '
+        contents:
+        - ft: 'Hebrew '
+          body: 'Ephraim, '
+        - ft: referring to the northern kingdom of Israel; also in 9:13.
+          body: 
+      - number: '9:10b '
+        contents:
+        - ft: 'Hebrew '
+          body: the river.
+      - number: '9:10c '
+        contents:
+        - ft: 'Or '
+          body: the end of the land.
+    - title: 
+      content: "Because of the covenant I made with you,\n\tsealed with blood,\n\tI
+        will free your prisoners\n\tfrom death in a waterless dungeon.  "
+      comments: []
+    - title: 
+      content: "Come back to the place of safety,\n\tall you prisoners who still
+        have hope!\n\tI promise this very day\n\tthat I will repay two blessings
+        for each of your troubles.  "
+      comments: []
+    - title: 
+      content: "Judah is my bow,\n\tand Israel is my arrow.\n\tJerusalem[COMMENT[0]]
+        is my sword,\n\tand like a warrior, I will brandish it against the Greeks.[COMMENT[1]]  "
+      comments:
+      - number: '9:13a '
+        contents:
+        - ft: 'Hebrew '
+          body: Zion.
+      - number: '9:13b '
+        contents:
+        - ft: 'Hebrew '
+          body: the sons of Javan.
+    - title: 
+      content: "The <smallcaps>Lord</smallcaps> will appear above his people;\n\this
+        arrows will fly like lightning!\n\tThe Sovereign <smallcaps>Lord</smallcaps>
+        will sound the ram\u2019s horn\n\tand attack like a whirlwind from the southern
+        desert.  "
+      comments: []
+    - title: 
+      content: "The <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies will protect
+        his people,\n\tand they will defeat their enemies by hurling great stones.\n\tThey
+        will shout in battle as though drunk with wine.\n\tThey will be filled with
+        blood like a bowl,\n\tdrenched with blood like the corners of the altar.  "
+      comments: []
+    - title: 
+      content: "On that day the <smallcaps>Lord</smallcaps> their God will rescue
+        his people,\n\tjust as a shepherd rescues his sheep.\n\tThey will sparkle
+        in his land\n\tlike jewels in a crown.  "
+      comments: []
+    - title: 
+      content: "How wonderful and beautiful they will be!\n\tThe young men will thrive
+        on abundant grain,\n\tand the young women will flourish on new wine."
+      comments: []
+  - verses:
+    - title: ' Will Restore His People'
+      content: "Ask the <smallcaps>Lord</smallcaps> for rain in the spring,\n\tfor
+        he makes the storm clouds.\n\tAnd he will send showers of rain\n\tso every
+        field becomes a lush pasture.  "
+      comments: []
+    - title: 
+      content: "Household gods give worthless advice,\n\tfortune-tellers predict
+        only lies,\n\tand interpreters of dreams pronounce\n\tfalsehoods that give
+        no comfort.\n\tSo my people are wandering like lost sheep;\n\tthey are attacked
+        because they have no shepherd.  "
+      comments: []
+    - title: 
+      content: "\u201CMy anger burns against your shepherds,\n\tand I will punish
+        these leaders.[COMMENT[0]]For the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies has arrived\n\tto look after Judah, his flock.\n\tHe will make them
+        strong and glorious,\n\tlike a proud warhorse in battle.  "
+      comments:
+      - number: '10:3 '
+        contents:
+        - ft: 'Or '
+          body: these male goats.
+    - title: 
+      content: "From Judah will come the cornerstone,\n\tthe tent peg,\n\tthe bow
+        for battle,\n\tand all the rulers.  "
+      comments: []
+    - title: 
+      content: "They will be like mighty warriors in battle,\n\ttrampling their enemies
+        in the mud under their feet.\n\tSince the <smallcaps>Lord</smallcaps> is
+        with them as they fight,\n\tthey will overthrow even the enemy\u2019s horsemen.  "
+      comments: []
+    - title: 
+      content: "\u201CI will strengthen Judah and save Israel[COMMENT[0]];\n\tI will
+        restore them because of my compassion.\n\tIt will be as though I had never
+        rejected them,\n\tfor I am the <smallcaps>Lord</smallcaps> their God, who
+        will hear their cries.  "
+      comments:
+      - number: '10:6 '
+        contents:
+        - ft: 'Hebrew '
+          body: save the house of Joseph.
+    - title: 
+      content: "The people of Israel[COMMENT[0]] will become like mighty warriors,\n\tand
+        their hearts will be made happy as if by wine.\n\tTheir children, too, will
+        see it and be glad;\n\ttheir hearts will rejoice in the <smallcaps>Lord</smallcaps>\n\t.  "
+      comments:
+      - number: '10:7 '
+        contents:
+        - ft: 'Hebrew '
+          body: of Ephraim.
+    - title: 
+      content: "When I whistle to them, they will come running,\n\tfor I have redeemed
+        them.\n\tFrom the few who are left,\n\tthey will grow as numerous as they
+        were before.  "
+      comments: []
+    - title: 
+      content: "Though I have scattered them like seeds among the nations,\n\tthey
+        will still remember me in distant lands.\n\tThey and their children will
+        survive\n\tand return again to Israel.  "
+      comments: []
+    - title: 
+      content: "I will bring them back from Egypt\n\tand gather them from Assyria.\n\tI
+        will resettle them in Gilead and Lebanon\n\tuntil there is no more room for
+        them all.  "
+      comments: []
+    - title: 
+      content: "They will pass safely through the sea of distress,[COMMENT[0]]for
+        the waves of the sea will be held back,\n\tand the waters of the Nile will
+        dry up.\n\tThe pride of Assyria will be crushed,\n\tand the rule of Egypt
+        will end.  "
+      comments:
+      - number: '10:11 '
+        contents:
+        - ft: 'Or '
+          body: 'the sea of Egypt, '
+        - ft: referring to the Red Sea.
+          body: 
+    - title: 
+      content: "By my power[COMMENT[0]] I will make my people strong,\n\tand by my
+        authority they will go wherever they wish.\n\tI, the <smallcaps>Lord</smallcaps>\n\t,
+        have spoken!\u201D"
+      comments:
+      - number: '10:12 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'In the '
+  - verses:
+    - title: 
+      content: "Open your doors, Lebanon,\n\tso that fire may devour your cedar forests.  "
+      comments: []
+    - title: 
+      content: "Weep, you cypress trees, for all the ruined cedars;\n\tthe most majestic
+        ones have fallen.\n\tWeep, you oaks of Bashan,\n\tfor the thick forests have
+        been cut down.  "
+      comments: []
+    - title: 
+      content: "Listen to the wailing of the shepherds,\n\tfor their rich pastures
+        are destroyed.\n\tHear the young lions roaring,\n\tfor their thickets in
+        the Jordan Valley are ruined.  "
+      comments: []
+    - title: The Good and Evil Shepherds
+      content: "This is what the <smallcaps>Lord</smallcaps> my God says: \u201CGo
+        and care for the flock that is intended for slaughter. "
+      comments: []
+    - title: 
+      content: "The buyers slaughter their sheep without remorse. The sellers say,
+        \u2018Praise the <smallcaps>Lord</smallcaps>\n\t! Now I\u2019m rich!\u2019
+        Even the shepherds have no compassion for them. "
+      comments: []
+    - title: 
+      content: "Likewise, I will no longer have pity on the people of the land,\u201D
+        says the <smallcaps>Lord</smallcaps>\n\t. \u201CI will let them fall into
+        each other\u2019s hands and into the hands of their king. They will turn
+        the land into a wilderness, and I will not rescue them.\u201D  "
+      comments: []
+    - title: 
+      content: "So I cared for the flock intended for slaughter\u2014the flock that
+        was oppressed. Then I took two shepherd\u2019s staffs and named one Favor
+        and the other Union. "
+      comments: []
+    - title: 
+      content: "I got rid of their three evil shepherds in a single month.\n\tBut
+        I became impatient with these sheep, and they hated me, too. "
+      comments: []
+    - title: 
+      content: "So I told them, \u201CI won\u2019t be your shepherd any longer. If
+        you die, you die. If you are killed, you are killed. And let those who remain
+        devour each other!\u201D  "
+      comments: []
+    - title: 
+      content: 'Then I took my staff called Favor and cut it in two, showing that
+        I had revoked the covenant I had made with all the nations. '
+      comments: []
+    - title: 
+      content: 'That was the end of my covenant with them. The suffering flock was
+        watching me, and they knew that the <smallcaps>Lord</smallcaps> was speaking
+        through my actions.  '
+      comments: []
+    - title: 
+      content: "And I said to them, \u201CIf you like, give me my wages, whatever
+        I am worth; but only if you want to.\u201D So they counted out for my wages
+        thirty pieces of silver.  "
+      comments: []
+    - title: 
+      content: "And the <smallcaps>Lord</smallcaps> said to me, \u201CThrow it to
+        the potter[COMMENT[0]]\u201D\u2014this magnificent sum at which they valued
+        me! So I took the thirty coins and threw them to the potter in the Temple
+        of the <smallcaps>Lord</smallcaps>\n\t.  "
+      comments:
+      - number: '11:13 '
+        contents:
+        - ft: 'Syriac version reads '
+          body: 'into the treasury; '
+        - ft: also in 11:13b. Compare Matt 27:6-10.
+          body: 
+    - title: 
+      content: 'Then I took my other staff, Union, and cut it in two, showing that
+        the bond of unity between Judah and Israel was broken.  '
+      comments: []
+    - title: 
+      content: "Then the <smallcaps>Lord</smallcaps> said to me, \u201CGo again and
+        play the part of a worthless shepherd. "
+      comments: []
+    - title: 
+      content: 'This illustrates how I will give this nation a shepherd who will
+        not care for those who are dying, nor look after the young, nor heal the
+        injured, nor feed the healthy. Instead, this shepherd will eat the meat of
+        the fattest sheep and tear off their hooves.  '
+      comments: []
+    - title: 
+      content: "\u201CWhat sorrow awaits this worthless shepherd\n\twho abandons
+        the flock!\n\tThe sword will cut his arm\n\tand pierce his right eye.\n\tHis
+        arm will become useless,\n\tand his right eye completely blind.\u201D"
+      comments: []
+  - verses:
+    - title: Future Deliverance for Jerusalem
+      content: "This[COMMENT[0]] message concerning the fate of Israel came from
+        the <smallcaps>Lord</smallcaps>\n\t: \u201CThis message is from the <smallcaps>Lord</smallcaps>\n\t,
+        who stretched out the heavens, laid the foundations of the earth, and formed
+        the human spirit. "
+      comments:
+      - number: '12:1 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'An Oracle: This.'
+    - title: 
+      content: 'I will make Jerusalem like an intoxicating drink that makes the nearby
+        nations stagger when they send their armies to besiege Jerusalem and Judah. '
+      comments: []
+    - title: 
+      content: 'On that day I will make Jerusalem an immovable rock. All the nations
+        will gather against it to try to move it, but they will only hurt themselves.  '
+      comments: []
+    - title: 
+      content: "\u201COn that day,\u201D says the <smallcaps>Lord</smallcaps>\n\t,
+        \u201CI will cause every horse to panic and every rider to lose his nerve.
+        I will watch over the people of Judah, but I will blind all the horses of
+        their enemies. "
+      comments: []
+    - title: 
+      content: "And the clans of Judah will say to themselves, \u2018The people of
+        Jerusalem have found strength in the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies, their God.\u2019  "
+      comments: []
+    - title: 
+      content: "\u201COn that day I will make the clans of Judah like a flame that
+        sets a woodpile ablaze or like a burning torch among sheaves of grain. They
+        will burn up all the neighboring nations right and left, while the people
+        living in Jerusalem remain secure.  "
+      comments: []
+    - title: 
+      content: "\u201CThe <smallcaps>Lord</smallcaps> will give victory to the rest
+        of Judah first, before Jerusalem, so that the people of Jerusalem and the
+        royal line of David will not have greater honor than the rest of Judah. "
+      comments: []
+    - title: 
+      content: 'On that day the <smallcaps>Lord</smallcaps> will defend the people
+        of Jerusalem; the weakest among them will be as mighty as King David! And
+        the royal descendants will be like God, like the angel of the <smallcaps>Lord</smallcaps>
+        who goes before them! '
+      comments: []
+    - title: 
+      content: 'For on that day I will begin to destroy all the nations that come
+        against Jerusalem.  '
+      comments: []
+    - title: 
+      content: "\u201CThen I will pour out a spirit[COMMENT[0]] of grace and prayer
+        on the family of David and on the people of Jerusalem. They will look on
+        me whom they have pierced and mourn for him as for an only son. They will
+        grieve bitterly for him as for a firstborn son who has died. "
+      comments:
+      - number: '12:10 '
+        contents:
+        - ft: 'Or '
+          body: the Spirit.
+    - title: 
+      content: 'The sorrow and mourning in Jerusalem on that day will be like the
+        great mourning for Hadad-rimmon in the valley of Megiddo.  '
+      comments: []
+    - title: 
+      content: "\u201CAll Israel will mourn, each clan by itself, and with the husbands
+        separate from their wives. The clan of David will mourn alone, as will the
+        clan of Nathan, "
+      comments: []
+    - title: 
+      content: 'the clan of Levi, and the clan of Shimei. '
+      comments: []
+    - title: 
+      content: Each of the surviving clans from Judah will mourn separately, and
+        with the husbands separate from their wives.
+      comments: []
+  - verses:
+    - title: A Fountain of Cleansing
+      content: "\u201COn that day a fountain will be opened for the dynasty of David
+        and for the people of Jerusalem, a fountain to cleanse them from all their
+        sins and impurity.  "
+      comments: []
+    - title: 
+      content: "\u201CAnd on that day,\u201D says the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies, \u201CI will erase idol worship throughout the land,
+        so that even the names of the idols will be forgotten. I will remove from
+        the land both the false prophets and the spirit of impurity that came with
+        them. "
+      comments: []
+    - title: 
+      content: "If anyone continues to prophesy, his own father and mother will tell
+        him, \u2018You must die, for you have prophesied lies in the name of the
+        <smallcaps>Lord</smallcaps>\n\t.\u2019 And as he prophesies, his own father
+        and mother will stab him.  "
+      comments: []
+    - title: 
+      content: "\u201COn that day people will be ashamed to claim the prophetic gift.
+        No one will pretend to be a prophet by wearing prophet\u2019s clothes. "
+      comments: []
+    - title: 
+      content: "He will say, \u2018I\u2019m no prophet; I\u2019m a farmer. I began
+        working for a farmer as a boy.\u2019 "
+      comments: []
+    - title: 
+      content: "And if someone asks, \u2018Then what about those wounds on your chest?[COMMENT[0]]\u2019
+        he will say, \u2018I was wounded at my friends\u2019 house!\u2019  "
+      comments:
+      - number: '13:6 '
+        contents:
+        - ft: 'Hebrew '
+          body: wounds between your hands?
+    - title: The Scattering of the Sheep
+      content: "\u201CAwake, O sword, against my shepherd,\n\tthe man who is my partner,\u201D\n\tsays
+        the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies.\n\t\u201CStrike
+        down the shepherd,\n\tand the sheep will be scattered,\n\tand I will turn
+        against the lambs.  "
+      comments: []
+    - title: 
+      content: "Two-thirds of the people in the land\n\twill be cut off and die,\u201D
+        says the <smallcaps>Lord</smallcaps>\n\t.\n\t\u201CBut one-third will be
+        left in the land.  "
+      comments: []
+    - title: 
+      content: "I will bring that group through the fire\n\tand make them pure.\n\tI
+        will refine them like silver\n\tand purify them like gold.\n\tThey will call
+        on my name,\n\tand I will answer them.\n\tI will say, \u2018These are my
+        people,\u2019\n\tand they will say, \u2018The <smallcaps>Lord</smallcaps>
+        is our God.\u2019\u201D"
+      comments: []
+  - verses:
+    - title: ' Will Rule the Earth'
+      content: 'Watch, for the day of the <smallcaps>Lord</smallcaps> is coming when
+        your possessions will be plundered right in front of you! '
+      comments: []
+    - title: 
+      content: 'I will gather all the nations to fight against Jerusalem. The city
+        will be taken, the houses looted, and the women raped. Half the population
+        will be taken into captivity, and the rest will be left among the ruins of
+        the city.  '
+      comments: []
+    - title: 
+      content: 'Then the <smallcaps>Lord</smallcaps> will go out to fight against
+        those nations, as he has fought in times past. '
+      comments: []
+    - title: 
+      content: 'On that day his feet will stand on the Mount of Olives, east of Jerusalem.
+        And the Mount of Olives will split apart, making a wide valley running from
+        east to west. Half the mountain will move toward the north and half toward
+        the south. '
+      comments: []
+    - title: 
+      content: 'You will flee through this valley, for it will reach across to Azal.[COMMENT[0]]
+        Yes, you will flee as you did from the earthquake in the days of King Uzziah
+        of Judah. Then the <smallcaps>Lord</smallcaps> my God will come, and all
+        his holy ones with him.[COMMENT[1]]  '
+      comments:
+      - number: '14:5a '
+        contents:
+        - ft: The meaning of the Hebrew is uncertain.
+          body: 
+      - number: '14:5b '
+        contents:
+        - ft: 'As in Greek version; Hebrew reads '
+          body: with you.
+    - title: 
+      content: 'On that day the sources of light will no longer shine,[COMMENT[0]]  '
+      comments:
+      - number: '14:6 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'the precious ones shall diminish; '
+        - ft: 'or '
+          body: 'the precious ones and frost. '
+        - ft: The meaning of the Hebrew is uncertain.
+          body: 
+    - title: 
+      content: 'yet there will be continuous day! Only the <smallcaps>Lord</smallcaps>
+        knows how this could happen. There will be no normal day and night, for at
+        evening time it will still be light.  '
+      comments: []
+    - title: 
+      content: 'On that day life-giving waters will flow out from Jerusalem, half
+        toward the Dead Sea and half toward the Mediterranean,[COMMENT[0]] flowing
+        continuously in both summer and winter.  '
+      comments:
+      - number: '14:8 '
+        contents:
+        - ft: 'Hebrew '
+          body: half toward the eastern sea and half toward the western sea.
+    - title: 
+      content: "And the <smallcaps>Lord</smallcaps> will be king over all the earth.
+        On that day there will be one <smallcaps>Lord</smallcaps>\n\t\u2014his name
+        alone will be worshiped.  "
+      comments: []
+    - title: 
+      content: "All the land from Geba, north of Judah, to Rimmon, south of Jerusalem,
+        will become one vast plain. But Jerusalem will be raised up in its original
+        place and will be inhabited all the way from the Benjamin Gate over to the
+        site of the old gate, then to the Corner Gate, and from the Tower of Hananel
+        to the king\u2019s winepresses. "
+      comments: []
+    - title: 
+      content: 'And Jerusalem will be filled, safe at last, never again to be cursed
+        and destroyed.  '
+      comments: []
+    - title: 
+      content: 'And the <smallcaps>Lord</smallcaps> will send a plague on all the
+        nations that fought against Jerusalem. Their people will become like walking
+        corpses, their flesh rotting away. Their eyes will rot in their sockets,
+        and their tongues will rot in their mouths. '
+      comments: []
+    - title: 
+      content: 'On that day they will be terrified, stricken by the <smallcaps>Lord</smallcaps>
+        with great panic. They will fight their neighbors hand to hand. '
+      comments: []
+    - title: 
+      content: "Judah, too, will be fighting at Jerusalem. The wealth of all the
+        neighboring nations will be captured\u2014great quantities of gold and silver
+        and fine clothing. "
+      comments: []
+    - title: 
+      content: 'This same plague will strike the horses, mules, camels, donkeys,
+        and all the other animals in the enemy camps.  '
+      comments: []
+    - title: 
+      content: "In the end, the enemies of Jerusalem who survive the plague will
+        go up to Jerusalem each year to worship the King, the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies, and to celebrate the Festival of Shelters. "
+      comments: []
+    - title: 
+      content: "Any nation in the world that refuses to come to Jerusalem to worship
+        the King, the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies, will have
+        no rain. "
+      comments: []
+    - title: 
+      content: 'If the people of Egypt refuse to attend the festival, the <smallcaps>Lord</smallcaps>
+        will punish[COMMENT[0]] them with the same plague that he sends on the other
+        nations who refuse to go. '
+      comments:
+      - number: '14:18 '
+        contents:
+        - ft: 'As in some Hebrew manuscripts and Greek and Syriac versions; Masoretic
+            Text reads '
+          body: will not punish.
+    - title: 
+      content: "Egypt and the other nations will all be punished if they don\u2019t
+        go to celebrate the Festival of Shelters.  "
+      comments: []
+    - title: 
+      content: "On that day even the harness bells of the horses will be inscribed
+        with these words: <smallcaps>Holy to the Lord</smallcaps>\n\t. And the cooking
+        pots in the Temple of the <smallcaps>Lord</smallcaps> will be as sacred as
+        the basins used beside the altar. "
+      comments: []
+    - title: 
+      content: "In fact, every cooking pot in Jerusalem and Judah will be holy to
+        the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies. All who come to
+        worship will be free to use any of these pots to boil their sacrifices. And
+        on that day there will no longer be traders[COMMENT[0]] in the Temple of
+        the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies."
+      comments:
+      - number: '14:21 '
+        contents:
+        - ft: 'Hebrew '
+          body: Canaanites.

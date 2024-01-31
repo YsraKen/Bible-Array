@@ -1,0 +1,348 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: HAB
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Habakkuk
+  fancyName: 
+  nickname: hab
+  language: English
+  lang: eng
+  version: New Living Translation
+  ver: NLT
+  description: 
+  chapters:
+  - verses:
+    - title: 
+      content: 'This is the message that the prophet Habakkuk received in a vision.  '
+      comments: []
+    - title: "Habakkuk\u2019s Complaint"
+      content: "How long, O <smallcaps>Lord</smallcaps>\n\t, must I call for help?\n\tBut
+        you do not listen!\n\t\u201CViolence is everywhere!\u201D I cry,\n\tbut you
+        do not come to save.  "
+      comments: []
+    - title: 
+      content: "Must I forever see these evil deeds?\n\tWhy must I watch all this
+        misery?\n\tWherever I look,\n\tI see destruction and violence.\n\tI am surrounded
+        by people\n\twho love to argue and fight.  "
+      comments: []
+    - title: 
+      content: "The law has become paralyzed,\n\tand there is no justice in the courts.\n\tThe
+        wicked far outnumber the righteous,\n\tso that justice has become perverted.  "
+      comments: []
+    - title: "\u2019s Reply"
+      content: "The <smallcaps>Lord</smallcaps> replied,\n\t\u201CLook around at
+        the nations;\n\tlook and be amazed![COMMENT[0]]For I am doing something in
+        your own day,\n\tsomething you wouldn\u2019t believe\n\teven if someone told
+        you about it.  "
+      comments:
+      - number: '1:5 '
+        contents:
+        - ft: 'Greek version reads '
+          body: 'Look, you mockers; / look and be amazed and die. '
+        - ft: Compare Acts 13:41.
+          body: 
+    - title: 
+      content: "I am raising up the Babylonians,[COMMENT[0]]a cruel and violent people.\n\tThey
+        will march across the world\n\tand conquer other lands.  "
+      comments:
+      - number: '1:6 '
+        contents:
+        - ft: 'Or '
+          body: Chaldeans.
+    - title: 
+      content: "They are notorious for their cruelty\n\tand do whatever they like.  "
+      comments: []
+    - title: 
+      content: "Their horses are swifter than cheetahs[COMMENT[0]]and fiercer than
+        wolves at dusk.\n\tTheir charioteers charge from far away.\n\tLike eagles,
+        they swoop down to devour their prey.  "
+      comments:
+      - number: '1:8 '
+        contents:
+        - ft: 'Or '
+          body: leopards.
+    - title: 
+      content: "\u201COn they come, all bent on violence.\n\tTheir hordes advance
+        like a desert wind,\n\tsweeping captives ahead of them like sand.  "
+      comments: []
+    - title: 
+      content: "They scoff at kings and princes\n\tand scorn all their fortresses.\n\tThey
+        simply pile ramps of earth\n\tagainst their walls and capture them!  "
+      comments: []
+    - title: 
+      content: "They sweep past like the wind\n\tand are gone.\n\tBut they are deeply
+        guilty,\n\tfor their own strength is their god.\u201D  "
+      comments: []
+    - title: "Habakkuk\u2019s Second Complaint"
+      content: "O <smallcaps>Lord</smallcaps> my God, my Holy One, you who are eternal\u2014\n\tsurely
+        you do not plan to wipe us out?\n\tO <smallcaps>Lord</smallcaps>\n\t, our
+        Rock, you have sent these Babylonians to correct us,\n\tto punish us for
+        our many sins.  "
+      comments: []
+    - title: 
+      content: "But you are pure and cannot stand the sight of evil.\n\tWill you
+        wink at their treachery?\n\tShould you be silent while the wicked\n\tswallow
+        up people more righteous than they?  "
+      comments: []
+    - title: 
+      content: "Are we only fish to be caught and killed?\n\tAre we only sea creatures
+        that have no leader?  "
+      comments: []
+    - title: 
+      content: "Must we be strung up on their hooks\n\tand caught in their nets while
+        they rejoice and celebrate?  "
+      comments: []
+    - title: 
+      content: "Then they will worship their nets\n\tand burn incense in front of
+        them.\n\t\u201CThese nets are the gods who have made us rich!\u201D\n\tthey
+        will claim.  "
+      comments: []
+    - title: 
+      content: "Will you let them get away with this forever?\n\tWill they succeed
+        forever in their heartless conquests?"
+      comments: []
+  - verses:
+    - title: 
+      content: "I will climb up to my watchtower\n\tand stand at my guardpost.\n\tThere
+        I will wait to see what the <smallcaps>Lord</smallcaps> says\n\tand how he[COMMENT[0]]
+        will answer my complaint.  "
+      comments:
+      - number: '2:1 '
+        contents:
+        - ft: 'As in Syriac version; Hebrew reads '
+          body: I.
+    - title: "\u2019s Second Reply"
+      content: "Then the <smallcaps>Lord</smallcaps> said to me,\n\t\u201CWrite my
+        answer plainly on tablets,\n\tso that a runner can carry the correct message
+        to others.  "
+      comments: []
+    - title: 
+      content: "This vision is for a future time.\n\tIt describes the end, and it
+        will be fulfilled.\n\tIf it seems slow in coming, wait patiently,\n\tfor
+        it will surely take place.\n\tIt will not be delayed.  "
+      comments: []
+    - title: 
+      content: "\u201CLook at the proud!\n\tThey trust in themselves, and their lives
+        are crooked.\n\tBut the righteous will live by their faithfulness to God.[COMMENT[0]]  "
+      comments:
+      - number: '2:3b-4 '
+        contents:
+        - ft: 'Greek version reads '
+          body: 'I will take no pleasure in anyone who turns away. / But the righteous
+            person will live by my faith. '
+        - ft: Compare Rom 1:17; Gal 3:11; Heb 10:37-38.
+          body: 
+    - title: 
+      content: "Wealth[COMMENT[0]] is treacherous,\n\tand the arrogant are never
+        at rest.\n\tThey open their mouths as wide as the grave,[COMMENT[1]]and like
+        death, they are never satisfied.\n\tIn their greed they have gathered up
+        many nations\n\tand swallowed many peoples.  "
+      comments:
+      - number: '2:5a '
+        contents:
+        - ft: 'As in Dead Sea Scroll 1QpHab; other Hebrew manuscripts read '
+          body: Wine.
+      - number: '2:5b '
+        contents:
+        - ft: 'Hebrew '
+          body: as Sheol.
+    - title: 
+      content: "\u201CBut soon their captives will taunt them.\n\tThey will mock
+        them, saying,\n\t\u2018What sorrow awaits you thieves!\n\tNow you will get
+        what you deserve!\n\tYou\u2019ve become rich by extortion,\n\tbut how much
+        longer can this go on?\u2019  "
+      comments: []
+    - title: 
+      content: "Suddenly, your debtors will take action.\n\tThey will turn on you
+        and take all you have,\n\twhile you stand trembling and helpless.  "
+      comments: []
+    - title: 
+      content: "Because you have plundered many nations,\n\tnow all the survivors
+        will plunder you.\n\tYou committed murder throughout the countryside\n\tand
+        filled the towns with violence.  "
+      comments: []
+    - title: 
+      content: "\u201CWhat sorrow awaits you who build big houses\n\twith money gained
+        dishonestly!\n\tYou believe your wealth will buy security,\n\tputting your
+        family\u2019s nest beyond the reach of danger.  "
+      comments: []
+    - title: 
+      content: "But by the murders you committed,\n\tyou have shamed your name and
+        forfeited your lives.  "
+      comments: []
+    - title: 
+      content: "The very stones in the walls cry out against you,\n\tand the beams
+        in the ceilings echo the complaint.  "
+      comments: []
+    - title: 
+      content: "\u201CWhat sorrow awaits you who build cities\n\twith money gained
+        through murder and corruption!  "
+      comments: []
+    - title: 
+      content: "Has not the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies promised\n\tthat
+        the wealth of nations will turn to ashes?\n\tThey work so hard,\n\tbut all
+        in vain!  "
+      comments: []
+    - title: 
+      content: "For as the waters fill the sea,\n\tthe earth will be filled with
+        an awareness\n\tof the glory of the <smallcaps>Lord</smallcaps>\n\t.  "
+      comments: []
+    - title: 
+      content: "\u201CWhat sorrow awaits you who make your neighbors drunk!\n\tYou
+        force your cup on them\n\tso you can gloat over their shameful nakedness.  "
+      comments: []
+    - title: 
+      content: "But soon it will be your turn to be disgraced.\n\tCome, drink and
+        be exposed![COMMENT[0]]Drink from the cup of the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        judgment,\n\tand all your glory will be turned to shame.  "
+      comments:
+      - number: '2:16 '
+        contents:
+        - ft: 'Dead Sea Scrolls and Greek and Syriac versions read '
+          body: and stagger!
+    - title: 
+      content: "You cut down the forests of Lebanon.\n\tNow you will be cut down.\n\tYou
+        destroyed the wild animals,\n\tso now their terror will be yours.\n\tYou
+        committed murder throughout the countryside\n\tand filled the towns with
+        violence.  "
+      comments: []
+    - title: 
+      content: "\u201CWhat good is an idol carved by man,\n\tor a cast image that
+        deceives you?\n\tHow foolish to trust in your own creation\u2014\n\ta god
+        that can\u2019t even talk!  "
+      comments: []
+    - title: 
+      content: "What sorrow awaits you who say to wooden idols,\n\t\u2018Wake up
+        and save us!\u2019\n\tTo speechless stone images you say,\n\t\u2018Rise up
+        and teach us!\u2019\n\tCan an idol tell you what to do?\n\tThey may be overlaid
+        with gold and silver,\n\tbut they are lifeless inside.  "
+      comments: []
+    - title: 
+      content: "But the <smallcaps>Lord</smallcaps> is in his holy Temple.\n\tLet
+        all the earth be silent before him.\u201D"
+      comments: []
+  - verses:
+    - title: "Habakkuk\u2019s Prayer"
+      content: 'This prayer was sung by the prophet Habakkuk[COMMENT[0]]:  '
+      comments:
+      - number: '3:1 '
+        contents:
+        - ft: 'Hebrew adds '
+          body: 'according to shigionoth, '
+        - ft: probably indicating the musical setting for the prayer.
+          body: 
+    - title: 
+      content: "I have heard all about you, <smallcaps>Lord</smallcaps>\n\t.\n\tI
+        am filled with awe by your amazing works.\n\tIn this time of our deep need,\n\thelp
+        us again as you did in years gone by.\n\tAnd in your anger,\n\tremember your
+        mercy.  "
+      comments: []
+    - title: 
+      content: "I see God moving across the deserts from Edom,[COMMENT[0]]the Holy
+        One coming from Mount Paran.[COMMENT[1]]His brilliant splendor fills the
+        heavens,\n\tand the earth is filled with his praise.  "
+      comments:
+      - number: '3:3a '
+        contents:
+        - ft: 'Hebrew '
+          body: Teman.
+      - number: '3:3b '
+        contents:
+        - ft: 'Hebrew adds '
+          body: 'selah; '
+        - ft: also in 3:9, 13. The meaning of this Hebrew term is uncertain; it is
+            probably a musical or literary term.
+          body: 
+    - title: 
+      content: "His coming is as brilliant as the sunrise.\n\tRays of light flash
+        from his hands,\n\twhere his awesome power is hidden.  "
+      comments: []
+    - title: 
+      content: "Pestilence marches before him;\n\tplague follows close behind.  "
+      comments: []
+    - title: 
+      content: "When he stops, the earth shakes.\n\tWhen he looks, the nations tremble.\n\tHe
+        shatters the everlasting mountains\n\tand levels the eternal hills.\n\tHe
+        is the Eternal One![COMMENT[0]]  "
+      comments:
+      - number: '3:6 '
+        contents:
+        - ft: 'Or '
+          body: The ancient paths belong to him.
+    - title: 
+      content: "I see the people of Cushan in distress,\n\tand the nation of Midian
+        trembling in terror.  "
+      comments: []
+    - title: 
+      content: "Was it in anger, <smallcaps>Lord</smallcaps>\n\t, that you struck
+        the rivers\n\tand parted the sea?\n\tWere you displeased with them?\n\tNo,
+        you were sending your chariots of salvation!  "
+      comments: []
+    - title: 
+      content: "You brandished your bow\n\tand your quiver of arrows.\n\tYou split
+        open the earth with flowing rivers.  "
+      comments: []
+    - title: 
+      content: "The mountains watched and trembled.\n\tOnward swept the raging waters.\n\tThe
+        mighty deep cried out,\n\tlifting its hands in submission.  "
+      comments: []
+    - title: 
+      content: "The sun and moon stood still in the sky\n\tas your brilliant arrows
+        flew\n\tand your glittering spear flashed.  "
+      comments: []
+    - title: 
+      content: "You marched across the land in anger\n\tand trampled the nations
+        in your fury.  "
+      comments: []
+    - title: 
+      content: "You went out to rescue your chosen people,\n\tto save your anointed
+        ones.\n\tYou crushed the heads of the wicked\n\tand stripped their bones
+        from head to toe.  "
+      comments: []
+    - title: 
+      content: "With his own weapons,\n\tyou destroyed the chief of those\n\twho
+        rushed out like a whirlwind,\n\tthinking Israel would be easy prey.  "
+      comments: []
+    - title: 
+      content: "You trampled the sea with your horses,\n\tand the mighty waters piled
+        high.  "
+      comments: []
+    - title: 
+      content: "I trembled inside when I heard this;\n\tmy lips quivered with fear.\n\tMy
+        legs gave way beneath me,[COMMENT[0]]and I shook in terror.\n\tI will wait
+        quietly for the coming day\n\twhen disaster will strike the people who invade
+        us.  "
+      comments:
+      - number: '3:16 '
+        contents:
+        - ft: 'Hebrew '
+          body: Decay entered my bones.
+    - title: 
+      content: "Even though the fig trees have no blossoms,\n\tand there are no grapes
+        on the vines;\n\teven though the olive crop fails,\n\tand the fields lie
+        empty and barren;\n\teven though the flocks die in the fields,\n\tand the
+        cattle barns are empty,  "
+      comments: []
+    - title: 
+      content: "yet I will rejoice in the <smallcaps>Lord</smallcaps>\n\t!\n\tI will
+        be joyful in the God of my salvation!  "
+      comments: []
+    - title: 
+      content: "The Sovereign <smallcaps>Lord</smallcaps> is my strength!\n\tHe makes
+        me as surefooted as a deer,[COMMENT[0]]able to tread upon the heights.\n\t(For
+        the choir director: This prayer is to be accompanied by stringed instruments.)"
+      comments:
+      - number: '3:19 '
+        contents:
+        - ft: 'Or '
+          body: He gives me the speed of a deer.

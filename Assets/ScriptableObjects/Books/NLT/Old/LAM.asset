@@ -1,0 +1,790 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: LAM
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Lamentations
+  fancyName: 
+  nickname: lam
+  language: English
+  lang: eng
+  version: New Living Translation
+  ver: NLT
+  description: 
+  chapters:
+  - verses:
+    - title: 
+      content: '[COMMENT[1]]  '
+      comments:
+      - number: 
+        contents:
+        - ft: '  '
+          body: 
+      - number: '1 '
+        contents:
+        - ft: '  '
+          body: 
+        - ft: Each of the first four chapters of this book is an acrostic, laid out
+            in the order of the Hebrew alphabet. The first word of each verse begins
+            with a successive Hebrew letter. Chapters 1, 2, and 4 have one verse
+            for each of the 22 Hebrew letters. Chapter 3 contains 22 stanzas of three
+            verses each. Though chapter 5 has 22 verses, it is not an acrostic.
+          body: 
+        - ft: '  '
+          body: 
+    - title: Sorrow in Jerusalem
+      content: "Jerusalem, once so full of people,\n\tis now deserted.\n\tShe who
+        was once great among the nations\n\tnow sits alone like a widow.\n\tOnce
+        the queen of all the earth,\n\tshe is now a slave.  "
+      comments: []
+    - title: 
+      content: "She sobs through the night;\n\ttears stream down her cheeks.\n\tAmong
+        all her lovers,\n\tthere is no one left to comfort her.\n\tAll her friends
+        have betrayed her\n\tand become her enemies.  "
+      comments: []
+    - title: 
+      content: "Judah has been led away into captivity,\n\toppressed with cruel slavery.\n\tShe
+        lives among foreign nations\n\tand has no place of rest.\n\tHer enemies have
+        chased her down,\n\tand she has nowhere to turn.  "
+      comments: []
+    - title: 
+      content: "The roads to Jerusalem[COMMENT[0]] are in mourning,\n\tfor crowds
+        no longer come to celebrate the festivals.\n\tThe city gates are silent,\n\ther
+        priests groan,\n\ther young women are crying\u2014\n\thow bitter is her fate!  "
+      comments:
+      - number: '1:4 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'Zion; '
+        - ft: also in 1:17.
+          body: 
+    - title: 
+      content: "Her oppressors have become her masters,\n\tand her enemies prosper,\n\tfor
+        the <smallcaps>Lord</smallcaps> has punished Jerusalem\n\tfor her many sins.\n\tHer
+        children have been captured\n\tand taken away to distant lands.  "
+      comments: []
+    - title: 
+      content: "All the majesty of beautiful Jerusalem[COMMENT[0]]has been stripped
+        away.\n\tHer princes are like starving deer\n\tsearching for pasture.\n\tThey
+        are too weak to run\n\tfrom the pursuing enemy.  "
+      comments:
+      - number: '1:6 '
+        contents:
+        - ft: 'Hebrew '
+          body: of the daughter of Zion.
+    - title: 
+      content: "In the midst of her sadness and wandering,\n\tJerusalem remembers
+        her ancient splendor.\n\tBut now she has fallen to her enemy,\n\tand there
+        is no one to help her.\n\tHer enemy struck her down\n\tand laughed as she
+        fell.  "
+      comments: []
+    - title: 
+      content: "Jerusalem has sinned greatly,\n\tso she has been tossed away like
+        a filthy rag.\n\tAll who once honored her now despise her,\n\tfor they have
+        seen her stripped naked and humiliated.\n\tAll she can do is groan\n\tand
+        hide her face.  "
+      comments: []
+    - title: 
+      content: "She defiled herself with immorality\n\tand gave no thought to her
+        future.\n\tNow she lies in the gutter\n\twith no one to lift her out.\n\t\u201C<smallcaps>Lord</smallcaps>\n\t,
+        see my misery,\u201D she cries.\n\t\u201CThe enemy has triumphed.\u201D  "
+      comments: []
+    - title: 
+      content: "The enemy has plundered her completely,\n\ttaking every precious
+        thing she owns.\n\tShe has seen foreigners violate her sacred Temple,\n\tthe
+        place the <smallcaps>Lord</smallcaps> had forbidden them to enter.  "
+      comments: []
+    - title: 
+      content: "Her people groan as they search for bread.\n\tThey have sold their
+        treasures for food to stay alive.\n\t\u201CO <smallcaps>Lord</smallcaps>\n\t,
+        look,\u201D she mourns,\n\t\u201Cand see how I am despised.  "
+      comments: []
+    - title: 
+      content: "\u201CDoes it mean nothing to you, all you who pass by?\n\tLook around
+        and see if there is any suffering like mine,\n\twhich the <smallcaps>Lord</smallcaps>
+        brought on me\n\twhen he erupted in fierce anger.  "
+      comments: []
+    - title: 
+      content: "\u201CHe has sent fire from heaven that burns in my bones.\n\tHe
+        has placed a trap in my path and turned me back.\n\tHe has left me devastated,\n\tracked
+        with sickness all day long.  "
+      comments: []
+    - title: 
+      content: "\u201CHe wove my sins into ropes\n\tto hitch me to a yoke of captivity.\n\tThe
+        Lord sapped my strength and turned me over to my enemies;\n\tI am helpless
+        in their hands.  "
+      comments: []
+    - title: 
+      content: "\u201CThe Lord has treated my mighty men\n\twith contempt.\n\tAt
+        his command a great army has come\n\tto crush my young warriors.\n\tThe Lord
+        has trampled his beloved city[COMMENT[0]]like grapes are trampled in a winepress.  "
+      comments:
+      - number: '1:15 '
+        contents:
+        - ft: 'Hebrew '
+          body: the virgin daughter of Judah.
+    - title: 
+      content: "\u201CFor all these things I weep;\n\ttears flow down my cheeks.\n\tNo
+        one is here to comfort me;\n\tany who might encourage me are far away.\n\tMy
+        children have no future,\n\tfor the enemy has conquered us.\u201D  "
+      comments: []
+    - title: 
+      content: "Jerusalem reaches out for help,\n\tbut no one comforts her.\n\tRegarding
+        his people Israel,[COMMENT[0]]the <smallcaps>Lord</smallcaps> has said,\n\t\u201CLet
+        their neighbors be their enemies!\n\tLet them be thrown away like a filthy
+        rag!\u201D  "
+      comments:
+      - number: '1:17 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'Jacob. '
+        - ft: "The names \u201CJacob\u201D and \u201CIsrael\u201D are often interchanged
+            throughout the Old Testament, referring sometimes to the individual patriarch
+            and sometimes to the nation."
+          body: 
+    - title: 
+      content: "\u201CThe <smallcaps>Lord</smallcaps> is right,\u201D Jerusalem says,\n\t\u201Cfor
+        I rebelled against him.\n\tListen, people everywhere;\n\tlook upon my anguish
+        and despair,\n\tfor my sons and daughters\n\thave been taken captive to distant
+        lands.  "
+      comments: []
+    - title: 
+      content: "\u201CI begged my allies for help,\n\tbut they betrayed me.\n\tMy
+        priests and leaders\n\tstarved to death in the city,\n\teven as they searched
+        for food\n\tto save their lives.  "
+      comments: []
+    - title: 
+      content: "\u201C<smallcaps>Lord</smallcaps>\n\t, see my anguish!\n\tMy heart
+        is broken\n\tand my soul despairs,\n\tfor I have rebelled against you.\n\tIn
+        the streets the sword kills,\n\tand at home there is only death.  "
+      comments: []
+    - title: 
+      content: "\u201COthers heard my groans,\n\tbut no one turned to comfort me.\n\tWhen
+        my enemies heard about my troubles,\n\tthey were happy to see what you had
+        done.\n\tOh, bring the day you promised,\n\twhen they will suffer as I have
+        suffered.  "
+      comments: []
+    - title: 
+      content: "\u201CLook at all their evil deeds, <smallcaps>Lord</smallcaps>\n\t.\n\tPunish
+        them,\n\tas you have punished me\n\tfor all my sins.\n\tMy groans are many,\n\tand
+        I am sick at heart.\u201D"
+      comments: []
+  - verses:
+    - title: "God\u2019s Anger at Sin"
+      content: "The Lord in his anger\n\thas cast a dark shadow over beautiful Jerusalem.[COMMENT[0]]The
+        fairest of Israel\u2019s cities lies in the dust,\n\tthrown down from the
+        heights of heaven.\n\tIn his day of great anger,\n\tthe Lord has shown no
+        mercy even to his Temple.[COMMENT[1]]  "
+      comments:
+      - number: '2:1a '
+        contents:
+        - ft: 'Hebrew '
+          body: 'the daughter of Zion; '
+        - ft: also in 2:8, 10, 18.
+          body: 
+      - number: '2:1b '
+        contents:
+        - ft: 'Hebrew '
+          body: his footstool.
+    - title: 
+      content: "Without mercy the Lord has destroyed\n\tevery home in Israel.[COMMENT[0]]In
+        his anger he has broken down\n\tthe fortress walls of beautiful Jerusalem.[COMMENT[1]]He
+        has brought them to the ground,\n\tdishonoring the kingdom and its rulers.  "
+      comments:
+      - number: '2:2a '
+        contents:
+        - ft: 'Hebrew '
+          body: 'Jacob; '
+        - ft: also in 2:3b. See note on 1:17.
+          body: 
+      - number: '2:2b '
+        contents:
+        - ft: 'Hebrew '
+          body: 'the daughter of Judah; '
+        - ft: also in 2:5.
+          body: 
+    - title: 
+      content: "All the strength of Israel\n\tvanishes beneath his fierce anger.\n\tThe
+        Lord has withdrawn his protection\n\tas the enemy attacks.\n\tHe consumes
+        the whole land of Israel\n\tlike a raging fire.  "
+      comments: []
+    - title: 
+      content: "He bends his bow against his people,\n\tas though he were their enemy.\n\tHis
+        strength is used against them\n\tto kill their finest youth.\n\tHis fury
+        is poured out like fire\n\ton beautiful Jerusalem.[COMMENT[0]]  "
+      comments:
+      - number: '2:4 '
+        contents:
+        - ft: 'Hebrew '
+          body: on the tent of the daughter of Zion.
+    - title: 
+      content: "Yes, the Lord has vanquished Israel\n\tlike an enemy.\n\tHe has destroyed
+        her palaces\n\tand demolished her fortresses.\n\tHe has brought unending
+        sorrow and tears\n\tupon beautiful Jerusalem.  "
+      comments: []
+    - title: 
+      content: "He has broken down his Temple\n\tas though it were merely a garden
+        shelter.\n\tThe <smallcaps>Lord</smallcaps> has blotted out all memory\n\tof
+        the holy festivals and Sabbath days.\n\tKings and priests fall together\n\tbefore
+        his fierce anger.  "
+      comments: []
+    - title: 
+      content: "The Lord has rejected his own altar;\n\the despises his own sanctuary.\n\tHe
+        has given Jerusalem\u2019s palaces\n\tto her enemies.\n\tThey shout in the
+        <smallcaps>Lord</smallcaps>\n\t\u2019s Temple\n\tas though it were a day
+        of celebration.  "
+      comments: []
+    - title: 
+      content: "The <smallcaps>Lord</smallcaps> was determined\n\tto destroy the
+        walls of beautiful Jerusalem.\n\tHe made careful plans for their destruction,\n\tthen
+        did what he had planned.\n\tTherefore, the ramparts and walls\n\thave fallen
+        down before him.  "
+      comments: []
+    - title: 
+      content: "Jerusalem\u2019s gates have sunk into the ground.\n\tHe has smashed
+        their locks and bars.\n\tHer kings and princes have been exiled to distant
+        lands;\n\ther law has ceased to exist.\n\tHer prophets receive\n\tno more
+        visions from the <smallcaps>Lord</smallcaps>\n\t.  "
+      comments: []
+    - title: 
+      content: "The leaders of beautiful Jerusalem\n\tsit on the ground in silence.\n\tThey
+        are clothed in burlap\n\tand throw dust on their heads.\n\tThe young women
+        of Jerusalem\n\thang their heads in shame.  "
+      comments: []
+    - title: 
+      content: "I have cried until the tears no longer come;\n\tmy heart is broken.\n\tMy
+        spirit is poured out in agony\n\tas I see the desperate plight of my people.\n\tLittle
+        children and tiny babies\n\tare fainting and dying in the streets.  "
+      comments: []
+    - title: 
+      content: "They cry out to their mothers,\n\t\u201CWe need food and drink!\u201D\n\tTheir
+        lives ebb away in the streets\n\tlike the life of a warrior wounded in battle.\n\tThey
+        gasp for life\n\tas they collapse in their mothers\u2019 arms.  "
+      comments: []
+    - title: 
+      content: "What can I say about you?\n\tWho has ever seen such sorrow?\n\tO
+        daughter of Jerusalem,\n\tto what can I compare your anguish?\n\tO virgin
+        daughter of Zion,\n\thow can I comfort you?\n\tFor your wound is as deep
+        as the sea.\n\tWho can heal you?  "
+      comments: []
+    - title: 
+      content: "Your prophets have said\n\tso many foolish things, false to the core.\n\tThey
+        did not save you from exile\n\tby pointing out your sins.\n\tInstead, they
+        painted false pictures,\n\tfilling you with false hope.  "
+      comments: []
+    - title: 
+      content: "All who pass by jeer at you.\n\tThey scoff and insult beautiful Jerusalem,[COMMENT[0]]
+        saying,\n\t\u201CIs this the city called \u2018Most Beautiful in All the
+        World\u2019\n\tand \u2018Joy of All the Earth\u2019?\u201D  "
+      comments:
+      - number: '2:15 '
+        contents:
+        - ft: 'Hebrew '
+          body: the daughter of Jerusalem.
+    - title: 
+      content: "All your enemies mock you.\n\tThey scoff and snarl and say,\n\t\u201CWe
+        have destroyed her at last!\n\tWe have long waited for this day,\n\tand it
+        is finally here!\u201D  "
+      comments: []
+    - title: 
+      content: "But it is the <smallcaps>Lord</smallcaps> who did just as he planned.\n\tHe
+        has fulfilled the promises of disaster\n\the made long ago.\n\tHe has destroyed
+        Jerusalem without mercy.\n\tHe has caused her enemies to gloat over her\n\tand
+        has given them power over her.  "
+      comments: []
+    - title: 
+      content: "Cry aloud[COMMENT[0]] before the Lord,\n\tO walls of beautiful Jerusalem!\n\tLet
+        your tears flow like a river\n\tday and night.\n\tGive yourselves no rest;\n\tgive
+        your eyes no relief.  "
+      comments:
+      - number: '2:18 '
+        contents:
+        - ft: 'Hebrew '
+          body: Their heart cried.
+    - title: 
+      content: "Rise during the night and cry out.\n\tPour out your hearts like water
+        to the Lord.\n\tLift up your hands to him in prayer,\n\tpleading for your
+        children,\n\tfor in every street\n\tthey are faint with hunger.  "
+      comments: []
+    - title: 
+      content: "\u201CO <smallcaps>Lord</smallcaps>\n\t, think about this!\n\tShould
+        you treat your own people this way?\n\tShould mothers eat their own children,\n\tthose
+        they once bounced on their knees?\n\tShould priests and prophets be killed\n\twithin
+        the Lord\u2019s Temple?  "
+      comments: []
+    - title: 
+      content: "\u201CSee them lying in the streets\u2014\n\tyoung and old,\n\tboys
+        and girls,\n\tkilled by the swords of the enemy.\n\tYou have killed them
+        in your anger,\n\tslaughtering them without mercy.  "
+      comments: []
+    - title: 
+      content: "\u201CYou have invited terrors from all around,\n\tas though you
+        were calling them to a day of feasting.\n\tIn the day of the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        anger,\n\tno one has escaped or survived.\n\tThe enemy has killed all the
+        children\n\twhom I carried and raised.\u201D"
+      comments: []
+  - verses:
+    - title: "\u2019s Faithfulness"
+      content: "I am the one who has seen the afflictions\n\tthat come from the rod
+        of the <smallcaps>Lord</smallcaps>\n\t\u2019s anger.  "
+      comments: []
+    - title: 
+      content: "He has led me into darkness,\n\tshutting out all light.  "
+      comments: []
+    - title: 
+      content: "He has turned his hand against me\n\tagain and again, all day long.  "
+      comments: []
+    - title: 
+      content: "He has made my skin and flesh grow old.\n\tHe has broken my bones.  "
+      comments: []
+    - title: 
+      content: "He has besieged and surrounded me\n\twith anguish and distress.  "
+      comments: []
+    - title: 
+      content: "He has buried me in a dark place,\n\tlike those long dead.  "
+      comments: []
+    - title: 
+      content: "He has walled me in, and I cannot escape.\n\tHe has bound me in heavy
+        chains.  "
+      comments: []
+    - title: 
+      content: "And though I cry and shout,\n\the has shut out my prayers.  "
+      comments: []
+    - title: 
+      content: "He has blocked my way with a high stone wall;\n\the has made my road
+        crooked.  "
+      comments: []
+    - title: 
+      content: "He has hidden like a bear or a lion,\n\twaiting to attack me.  "
+      comments: []
+    - title: 
+      content: "He has dragged me off the path and torn me in pieces,\n\tleaving
+        me helpless and devastated.  "
+      comments: []
+    - title: 
+      content: "He has drawn his bow\n\tand made me the target for his arrows.  "
+      comments: []
+    - title: 
+      content: "He shot his arrows\n\tdeep into my heart.  "
+      comments: []
+    - title: 
+      content: "My own people laugh at me.\n\tAll day long they sing their mocking
+        songs.  "
+      comments: []
+    - title: 
+      content: "He has filled me with bitterness\n\tand given me a bitter cup of
+        sorrow to drink.  "
+      comments: []
+    - title: 
+      content: "He has made me chew on gravel.\n\tHe has rolled me in the dust.  "
+      comments: []
+    - title: 
+      content: "Peace has been stripped away,\n\tand I have forgotten what prosperity
+        is.  "
+      comments: []
+    - title: 
+      content: "I cry out, \u201CMy splendor is gone!\n\tEverything I had hoped for
+        from the <smallcaps>Lord</smallcaps> is lost!\u201D  "
+      comments: []
+    - title: 
+      content: "The thought of my suffering and homelessness\n\tis bitter beyond
+        words.[COMMENT[0]]  "
+      comments:
+      - number: '3:19 '
+        contents:
+        - ft: 'Or '
+          body: is wormwood and gall.
+    - title: 
+      content: "I will never forget this awful time,\n\tas I grieve over my loss.  "
+      comments: []
+    - title: 
+      content: "Yet I still dare to hope\n\twhen I remember this:  "
+      comments: []
+    - title: 
+      content: 'The faithful love of the <smallcaps>Lord</smallcaps> never ends![COMMENT[0]]His
+        mercies never cease.  '
+      comments:
+      - number: '3:22 '
+        contents:
+        - ft: 'As in Syriac version; Hebrew reads '
+          body: 'of the '
+    - title: 
+      content: "Great is his faithfulness;\n\this mercies begin afresh each morning.  "
+      comments: []
+    - title: 
+      content: "I say to myself, \u201CThe <smallcaps>Lord</smallcaps> is my inheritance;\n\ttherefore,
+        I will hope in him!\u201D  "
+      comments: []
+    - title: 
+      content: "The <smallcaps>Lord</smallcaps> is good to those who depend on him,\n\tto
+        those who search for him.  "
+      comments: []
+    - title: 
+      content: "So it is good to wait quietly\n\tfor salvation from the <smallcaps>Lord</smallcaps>\n\t.  "
+      comments: []
+    - title: 
+      content: "And it is good for people to submit at an early age\n\tto the yoke
+        of his discipline:  "
+      comments: []
+    - title: 
+      content: "Let them sit alone in silence\n\tbeneath the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        demands.  "
+      comments: []
+    - title: 
+      content: "Let them lie face down in the dust,\n\tfor there may be hope at last.  "
+      comments: []
+    - title: 
+      content: "Let them turn the other cheek to those who strike them\n\tand accept
+        the insults of their enemies.  "
+      comments: []
+    - title: 
+      content: "For no one is abandoned\n\tby the Lord forever.  "
+      comments: []
+    - title: 
+      content: "Though he brings grief, he also shows compassion\n\tbecause of the
+        greatness of his unfailing love.  "
+      comments: []
+    - title: 
+      content: "For he does not enjoy hurting people\n\tor causing them sorrow.  "
+      comments: []
+    - title: 
+      content: "If people crush underfoot\n\tall the prisoners of the land,  "
+      comments: []
+    - title: 
+      content: "if they deprive others of their rights\n\tin defiance of the Most
+        High,  "
+      comments: []
+    - title: 
+      content: "if they twist justice in the courts\u2014\n\tdoesn\u2019t the Lord
+        see all these things?  "
+      comments: []
+    - title: 
+      content: "Who can command things to happen\n\twithout the Lord\u2019s permission?  "
+      comments: []
+    - title: 
+      content: "Does not the Most High\n\tsend both calamity and good?  "
+      comments: []
+    - title: 
+      content: "Then why should we, mere humans, complain\n\twhen we are punished
+        for our sins?  "
+      comments: []
+    - title: 
+      content: "Instead, let us test and examine our ways.\n\tLet us turn back to
+        the <smallcaps>Lord</smallcaps>\n\t.  "
+      comments: []
+    - title: 
+      content: "Let us lift our hearts and hands\n\tto God in heaven and say,  "
+      comments: []
+    - title: 
+      content: "\u201CWe have sinned and rebelled,\n\tand you have not forgiven us.  "
+      comments: []
+    - title: 
+      content: "\u201CYou have engulfed us with your anger, chased us down,\n\tand
+        slaughtered us without mercy.  "
+      comments: []
+    - title: 
+      content: "You have hidden yourself in a cloud\n\tso our prayers cannot reach
+        you.  "
+      comments: []
+    - title: 
+      content: "You have discarded us as refuse and garbage\n\tamong the nations.  "
+      comments: []
+    - title: 
+      content: "\u201CAll our enemies\n\thave spoken out against us.  "
+      comments: []
+    - title: 
+      content: "We are filled with fear,\n\tfor we are trapped, devastated, and ruined.\u201D  "
+      comments: []
+    - title: 
+      content: "Tears stream from my eyes\n\tbecause of the destruction of my people!  "
+      comments: []
+    - title: 
+      content: "My tears flow endlessly;\n\tthey will not stop  "
+      comments: []
+    - title: 
+      content: "until the <smallcaps>Lord</smallcaps> looks down\n\tfrom heaven and
+        sees.  "
+      comments: []
+    - title: 
+      content: "My heart is breaking\n\tover the fate of all the women of Jerusalem.  "
+      comments: []
+    - title: 
+      content: "My enemies, whom I have never harmed,\n\thunted me down like a bird.  "
+      comments: []
+    - title: 
+      content: "They threw me into a pit\n\tand dropped stones on me.  "
+      comments: []
+    - title: 
+      content: "The water rose over my head,\n\tand I cried out, \u201CThis is the
+        end!\u201D  "
+      comments: []
+    - title: 
+      content: "But I called on your name, <smallcaps>Lord</smallcaps>\n\t,\n\tfrom
+        deep within the pit.  "
+      comments: []
+    - title: 
+      content: "You heard me when I cried, \u201CListen to my pleading!\n\tHear my
+        cry for help!\u201D  "
+      comments: []
+    - title: 
+      content: "Yes, you came when I called;\n\tyou told me, \u201CDo not fear.\u201D  "
+      comments: []
+    - title: 
+      content: "Lord, you have come to my defense;\n\tyou have redeemed my life.  "
+      comments: []
+    - title: 
+      content: "You have seen the wrong they have done to me, <smallcaps>Lord</smallcaps>\n\t.\n\tBe
+        my judge, and prove me right.  "
+      comments: []
+    - title: 
+      content: "You have seen the vengeful plots\n\tmy enemies have laid against
+        me.  "
+      comments: []
+    - title: 
+      content: "  <smallcaps>Lord</smallcaps>\n\t, you have heard the vile names
+        they call me.\n\tYou know all about the plans they have made.  "
+      comments: []
+    - title: 
+      content: "My enemies whisper and mutter\n\tas they plot against me all day
+        long.  "
+      comments: []
+    - title: 
+      content: "Look at them! Whether they sit or stand,\n\tI am the object of their
+        mocking songs.  "
+      comments: []
+    - title: 
+      content: "Pay them back, <smallcaps>Lord</smallcaps>\n\t,\n\tfor all the evil
+        they have done.  "
+      comments: []
+    - title: 
+      content: "Give them hard and stubborn hearts,\n\tand then let your curse fall
+        on them!  "
+      comments: []
+    - title: 
+      content: "Chase them down in your anger,\n\tdestroying them beneath the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        heavens."
+      comments: []
+  - verses:
+    - title: "God\u2019s Anger Satisfied"
+      content: "How the gold has lost its luster!\n\tEven the finest gold has become
+        dull.\n\tThe sacred gemstones\n\tlie scattered in the streets!  "
+      comments: []
+    - title: 
+      content: "See how the precious children of Jerusalem,[COMMENT[0]]worth their
+        weight in fine gold,\n\tare now treated like pots of clay\n\tmade by a common
+        potter.  "
+      comments:
+      - number: '4:2 '
+        contents:
+        - ft: 'Hebrew '
+          body: precious sons of Zion.
+    - title: 
+      content: "Even the jackals feed their young,\n\tbut not my people Israel.\n\tThey
+        ignore their children\u2019s cries,\n\tlike ostriches in the desert.  "
+      comments: []
+    - title: 
+      content: "The parched tongues of their little ones\n\tstick to the roofs of
+        their mouths in thirst.\n\tThe children cry for bread,\n\tbut no one has
+        any to give them.  "
+      comments: []
+    - title: 
+      content: "The people who once ate the richest foods\n\tnow beg in the streets
+        for anything they can get.\n\tThose who once wore the finest clothes\n\tnow
+        search the garbage dumps for food.  "
+      comments: []
+    - title: 
+      content: "The guilt[COMMENT[0]] of my people\n\tis greater than that of Sodom,\n\twhere
+        utter disaster struck in a moment\n\tand no hand offered help.  "
+      comments:
+      - number: '4:6 '
+        contents:
+        - ft: 'Or '
+          body: punishment.
+    - title: 
+      content: "Our princes once glowed with health\u2014\n\tbrighter than snow,
+        whiter than milk.\n\tTheir faces were as ruddy as rubies,\n\ttheir appearance
+        like fine jewels.[COMMENT[0]]  "
+      comments:
+      - number: '4:7 '
+        contents:
+        - ft: 'Hebrew '
+          body: like lapis lazuli.
+    - title: 
+      content: "But now their faces are blacker than soot.\n\tNo one recognizes them
+        in the streets.\n\tTheir skin sticks to their bones;\n\tit is as dry and
+        hard as wood.  "
+      comments: []
+    - title: 
+      content: "Those killed by the sword are better off\n\tthan those who die of
+        hunger.\n\tStarving, they waste away\n\tfor lack of food from the fields.  "
+      comments: []
+    - title: 
+      content: "Tenderhearted women\n\thave cooked their own children.\n\tThey have
+        eaten them\n\tto survive the siege.  "
+      comments: []
+    - title: 
+      content: "But now the anger of the <smallcaps>Lord</smallcaps> is satisfied.\n\tHis
+        fierce anger has been poured out.\n\tHe started a fire in Jerusalem[COMMENT[0]]that
+        burned the city to its foundations.  "
+      comments:
+      - number: '4:11 '
+        contents:
+        - ft: 'Hebrew '
+          body: in Zion.
+    - title: 
+      content: "Not a king in all the earth\u2014\n\tno one in all the world\u2014\n\twould
+        have believed that an enemy\n\tcould march through the gates of Jerusalem.  "
+      comments: []
+    - title: 
+      content: "Yet it happened because of the sins of her prophets\n\tand the sins
+        of her priests,\n\twho defiled the city\n\tby shedding innocent blood.  "
+      comments: []
+    - title: 
+      content: "They wandered blindly\n\tthrough the streets,\n\tso defiled by blood\n\tthat
+        no one dared touch them.  "
+      comments: []
+    - title: 
+      content: "\u201CGet away!\u201D the people shouted at them.\n\t\u201CYou\u2019re
+        defiled! Don\u2019t touch us!\u201D\n\tSo they fled to distant lands\n\tand
+        wandered among foreign nations,\n\tbut none would let them stay.  "
+      comments: []
+    - title: 
+      content: "The <smallcaps>Lord </smallcaps>\n\thimself has scattered them,\n\tand
+        he no longer helps them.\n\tPeople show no respect for the priests\n\tand
+        no longer honor the leaders.  "
+      comments: []
+    - title: 
+      content: "We looked in vain for our allies\n\tto come and save us,\n\tbut we
+        were looking to nations\n\tthat could not help us.  "
+      comments: []
+    - title: 
+      content: "We couldn\u2019t go into the streets\n\twithout danger to our lives.\n\tOur
+        end was near; our days were numbered.\n\tWe were doomed!  "
+      comments: []
+    - title: 
+      content: "Our enemies were swifter than eagles in flight.\n\tIf we fled to
+        the mountains, they found us.\n\tIf we hid in the wilderness,\n\tthey were
+        waiting for us there.  "
+      comments: []
+    - title: 
+      content: "Our king\u2014the <smallcaps>Lord</smallcaps>\n\t\u2019s anointed,
+        the very life of our nation\u2014\n\twas caught in their snares.\n\tWe had
+        thought that his shadow\n\twould protect us against any nation on earth!  "
+      comments: []
+    - title: 
+      content: "Are you rejoicing in the land of Uz,\n\tO people of Edom?\n\tBut
+        you, too, must drink from the cup of the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        anger.\n\tYou, too, will be stripped naked in your drunkenness.  "
+      comments: []
+    - title: 
+      content: "O beautiful Jerusalem,[COMMENT[0]] your punishment will end;\n\tyou
+        will soon return from exile.\n\tBut Edom, your punishment is just beginning;\n\tsoon
+        your many sins will be exposed."
+      comments:
+      - number: '4:22 '
+        contents:
+        - ft: 'Hebrew '
+          body: O daughter of Zion.
+  - verses:
+    - title: Prayer for Restoration
+      content: "  <smallcaps>Lord</smallcaps>\n\t, remember what has happened to
+        us.\n\tSee how we have been disgraced!  "
+      comments: []
+    - title: 
+      content: "Our inheritance has been turned over to strangers,\n\tour homes to
+        foreigners.  "
+      comments: []
+    - title: 
+      content: "We are orphaned and fatherless.\n\tOur mothers are widowed.  "
+      comments: []
+    - title: 
+      content: "We have to pay for water to drink,\n\tand even firewood is expensive.  "
+      comments: []
+    - title: 
+      content: "Those who pursue us are at our heels;\n\twe are exhausted but are
+        given no rest.  "
+      comments: []
+    - title: 
+      content: "We submitted to Egypt and Assyria\n\tto get enough food to survive.  "
+      comments: []
+    - title: 
+      content: "Our ancestors sinned, but they have died\u2014\n\tand we are suffering
+        the punishment they deserved!  "
+      comments: []
+    - title: 
+      content: "Slaves have now become our masters;\n\tthere is no one left to rescue
+        us.  "
+      comments: []
+    - title: 
+      content: "We hunt for food at the risk of our lives,\n\tfor violence rules
+        the countryside.  "
+      comments: []
+    - title: 
+      content: "The famine has blackened our skin\n\tas though baked in an oven.  "
+      comments: []
+    - title: 
+      content: 'Our enemies rape the women in Jerusalem[COMMENT[0]]and the young
+        girls in all the towns of Judah.  '
+      comments:
+      - number: '5:11 '
+        contents:
+        - ft: 'Hebrew '
+          body: in Zion.
+    - title: 
+      content: "Our princes are being hanged by their thumbs,\n\tand our elders are
+        treated with contempt.  "
+      comments: []
+    - title: 
+      content: "Young men are led away to work at millstones,\n\tand boys stagger
+        under heavy loads of wood.  "
+      comments: []
+    - title: 
+      content: "The elders no longer sit in the city gates;\n\tthe young men no longer
+        dance and sing.  "
+      comments: []
+    - title: 
+      content: "Joy has left our hearts;\n\tour dancing has turned to mourning.  "
+      comments: []
+    - title: 
+      content: "The garlands have[COMMENT[0]] fallen from our heads.\n\tWeep for
+        us because we have sinned.  "
+      comments:
+      - number: '5:16 '
+        contents:
+        - ft: 'Or '
+          body: The crown has.
+    - title: 
+      content: "Our hearts are sick and weary,\n\tand our eyes grow dim with tears.  "
+      comments: []
+    - title: 
+      content: "For Jerusalem[COMMENT[0]] is empty and desolate,\n\ta place haunted
+        by jackals.  "
+      comments:
+      - number: '5:18 '
+        contents:
+        - ft: 'Hebrew '
+          body: Mount Zion.
+    - title: 
+      content: "But <smallcaps>Lord</smallcaps>\n\t, you remain the same forever!\n\tYour
+        throne continues from generation to generation.  "
+      comments: []
+    - title: 
+      content: "Why do you continue to forget us?\n\tWhy have you abandoned us for
+        so long?  "
+      comments: []
+    - title: 
+      content: "Restore us, O <smallcaps>Lord</smallcaps>\n\t, and bring us back
+        to you again!\n\tGive us back the joys we once had!  "
+      comments: []
+    - title: 
+      content: "Or have you utterly rejected us?\n\tAre you angry with us still?"
+      comments: []

@@ -1,0 +1,500 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: 1TH
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 1 Thessalonians
+  fancyName: 
+  nickname: 1th
+  language: English
+  lang: eng
+  version: New Living Translation
+  ver: NLT
+  description: 
+  chapters:
+  - verses:
+    - title: Greetings from Paul
+      content: "This letter is from Paul, Silas,[COMMENT[0]] and Timothy.\n\tWe are
+        writing to the church in Thessalonica, to you who belong to God the Father
+        and the Lord Jesus Christ.\n\tMay God give you grace and peace.  "
+      comments:
+      - number: '1:1 '
+        contents:
+        - ft: 'Greek '
+          body: 'Silvanus, '
+        - ft: the Greek form of the name.
+          body: 
+    - title: The Faith of the Thessalonian Believers
+      content: 'We always thank God for all of you and pray for you constantly. '
+      comments: []
+    - title: 
+      content: 'As we pray to our God and Father about you, we think of your faithful
+        work, your loving deeds, and the enduring hope you have because of our Lord
+        Jesus Christ.  '
+      comments: []
+    - title: 
+      content: 'We know, dear brothers and sisters,[COMMENT[0]] that God loves you
+        and has chosen you to be his own people. '
+      comments:
+      - number: '1:4 '
+        contents:
+        - ft: 'Greek '
+          body: brothers.
+    - title: 
+      content: 'For when we brought you the Good News, it was not only with words
+        but also with power, for the Holy Spirit gave you full assurance[COMMENT[0]]
+        that what we said was true. And you know of our concern for you from the
+        way we lived when we were with you. '
+      comments:
+      - number: '1:5 '
+        contents:
+        - ft: 'Or '
+          body: with the power of the Holy Spirit, so you can have full assurance.
+    - title: 
+      content: 'So you received the message with joy from the Holy Spirit in spite
+        of the severe suffering it brought you. In this way, you imitated both us
+        and the Lord. '
+      comments: []
+    - title: 
+      content: "As a result, you have become an example to all the believers in Greece\u2014throughout
+        both Macedonia and Achaia.[COMMENT[0]]  "
+      comments:
+      - number: '1:7 '
+        contents:
+        - ft: 
+          body: 'Macedonia '
+        - ft: 'and '
+          body: 'Achaia '
+        - ft: were the northern and southern regions of Greece.
+          body: 
+    - title: 
+      content: "And now the word of the Lord is ringing out from you to people everywhere,
+        even beyond Macedonia and Achaia, for wherever we go we find people telling
+        us about your faith in God. We don\u2019t need to tell them about it, "
+      comments: []
+    - title: 
+      content: 'for they keep talking about the wonderful welcome you gave us and
+        how you turned away from idols to serve the living and true God. '
+      comments: []
+    - title: 
+      content: "And they speak of how you are looking forward to the coming of God\u2019s
+        Son from heaven\u2014Jesus, whom God raised from the dead. He is the one
+        who has rescued us from the terrors of the coming judgment."
+      comments: []
+  - verses:
+    - title: Paul Remembers His Visit
+      content: 'You yourselves know, dear brothers and sisters,[COMMENT[0]] that
+        our visit to you was not a failure. '
+      comments:
+      - number: '2:1 '
+        contents:
+        - ft: 'Greek '
+          body: 'brothers; '
+        - ft: also in 2:9, 14, 17.
+          body: 
+    - title: 
+      content: 'You know how badly we had been treated at Philippi just before we
+        came to you and how much we suffered there. Yet our God gave us the courage
+        to declare his Good News to you boldly, in spite of great opposition. '
+      comments: []
+    - title: 
+      content: 'So you can see we were not preaching with any deceit or impure motives
+        or trickery.  '
+      comments: []
+    - title: 
+      content: 'For we speak as messengers approved by God to be entrusted with the
+        Good News. Our purpose is to please God, not people. He alone examines the
+        motives of our hearts. '
+      comments: []
+    - title: 
+      content: 'Never once did we try to win you with flattery, as you well know.
+        And God is our witness that we were not pretending to be your friends just
+        to get your money! '
+      comments: []
+    - title: 
+      content: 'As for human praise, we have never sought it from you or anyone else.  '
+      comments: []
+    - title: 
+      content: 'As apostles of Christ we certainly had a right to make some demands
+        of you, but instead we were like children[COMMENT[0]] among you. Or we were
+        like a mother feeding and caring for her own children. '
+      comments:
+      - number: '2:7 '
+        contents:
+        - ft: 'Some manuscripts read '
+          body: we were gentle.
+    - title: 
+      content: "We loved you so much that we shared with you not only God\u2019s
+        Good News but our own lives, too.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t you remember, dear brothers and sisters, how hard we worked
+        among you? Night and day we toiled to earn a living so that we would not
+        be a burden to any of you as we preached God\u2019s Good News to you. "
+      comments: []
+    - title: 
+      content: "You yourselves are our witnesses\u2014and so is God\u2014that we
+        were devout and honest and faultless toward all of you believers. "
+      comments: []
+    - title: 
+      content: 'And you know that we treated each of you as a father treats his own
+        children. '
+      comments: []
+    - title: 
+      content: 'We pleaded with you, encouraged you, and urged you to live your lives
+        in a way that God would consider worthy. For he called you to share in his
+        Kingdom and glory.  '
+      comments: []
+    - title: 
+      content: "Therefore, we never stop thanking God that when you received his
+        message from us, you didn\u2019t think of our words as mere human ideas.
+        You accepted what we said as the very word of God\u2014which, of course,
+        it is. And this word continues to work in you who believe.  "
+      comments: []
+    - title: 
+      content: "And then, dear brothers and sisters, you suffered persecution from
+        your own countrymen. In this way, you imitated the believers in God\u2019s
+        churches in Judea who, because of their belief in Christ Jesus, suffered
+        from their own people, the Jews. "
+      comments: []
+    - title: 
+      content: 'For some of the Jews killed the prophets, and some even killed the
+        Lord Jesus. Now they have persecuted us, too. They fail to please God and
+        work against all humanity '
+      comments: []
+    - title: 
+      content: 'as they try to keep us from preaching the Good News of salvation
+        to the Gentiles. By doing this, they continue to pile up their sins. But
+        the anger of God has caught up with them at last.  '
+      comments: []
+    - title: "Timothy\u2019s Good Report about the Church"
+      content: 'Dear brothers and sisters, after we were separated from you for a
+        little while (though our hearts never left you), we tried very hard to come
+        back because of our intense longing to see you again. '
+      comments: []
+    - title: 
+      content: 'We wanted very much to come to you, and I, Paul, tried again and
+        again, but Satan prevented us. '
+      comments: []
+    - title: 
+      content: 'After all, what gives us hope and joy, and what will be our proud
+        reward and crown as we stand before our Lord Jesus when he returns? It is
+        you! '
+      comments: []
+    - title: 
+      content: Yes, you are our pride and joy.
+      comments: []
+  - verses:
+    - title: 
+      content: 'Finally, when we could stand it no longer, we decided to stay alone
+        in Athens, '
+      comments: []
+    - title: 
+      content: "and we sent Timothy to visit you. He is our brother and God\u2019s
+        co-worker[COMMENT[0]] in proclaiming the Good News of Christ. We sent him
+        to strengthen you, to encourage you in your faith, "
+      comments:
+      - number: '3:2 '
+        contents:
+        - ft: 'Other manuscripts read '
+          body: "and God\u2019s servant; "
+        - ft: 'still others read '
+          body: 'and a co-worker, '
+        - ft: 'or '
+          body: 'and a servant and co-worker for God, '
+        - ft: 'or '
+          body: "and God\u2019s servant and our co-worker."
+    - title: 
+      content: 'and to keep you from being shaken by the troubles you were going
+        through. But you know that we are destined for such troubles. '
+      comments: []
+    - title: 
+      content: "Even while we were with you, we warned you that troubles would soon
+        come\u2014and they did, as you well know. "
+      comments: []
+    - title: 
+      content: 'That is why, when I could bear it no longer, I sent Timothy to find
+        out whether your faith was still strong. I was afraid that the tempter had
+        gotten the best of you and that our work had been useless.  '
+      comments: []
+    - title: 
+      content: 'But now Timothy has just returned, bringing us good news about your
+        faith and love. He reports that you always remember our visit with joy and
+        that you want to see us as much as we want to see you. '
+      comments: []
+    - title: 
+      content: 'So we have been greatly encouraged in the midst of our troubles and
+        suffering, dear brothers and sisters,[COMMENT[0]] because you have remained
+        strong in your faith. '
+      comments:
+      - number: '3:7 '
+        contents:
+        - ft: 'Greek '
+          body: brothers.
+    - title: 
+      content: 'It gives us new life to know that you are standing firm in the Lord.  '
+      comments: []
+    - title: 
+      content: "How we thank God for you! Because of you we have great joy as we
+        enter God\u2019s presence. "
+      comments: []
+    - title: 
+      content: 'Night and day we pray earnestly for you, asking God to let us see
+        you again to fill the gaps in your faith.  '
+      comments: []
+    - title: 
+      content: 'May God our Father and our Lord Jesus bring us to you very soon. '
+      comments: []
+    - title: 
+      content: 'And may the Lord make your love for one another and for all people
+        grow and overflow, just as our love for you overflows. '
+      comments: []
+    - title: 
+      content: May he, as a result, make your hearts strong, blameless, and holy
+        as you stand before God our Father when our Lord Jesus comes again with all
+        his holy people. Amen.
+      comments: []
+  - verses:
+    - title: Live to Please God
+      content: 'Finally, dear brothers and sisters,[COMMENT[0]] we urge you in the
+        name of the Lord Jesus to live in a way that pleases God, as we have taught
+        you. You live this way already, and we encourage you to do so even more. '
+      comments:
+      - number: '4:1 '
+        contents:
+        - ft: 'Greek '
+          body: 'brothers; '
+        - ft: also in 4:10, 13.
+          body: 
+    - title: 
+      content: 'For you remember what we taught you by the authority of the Lord
+        Jesus.  '
+      comments: []
+    - title: 
+      content: "God\u2019s will is for you to be holy, so stay away from all sexual
+        sin. "
+      comments: []
+    - title: 
+      content: "Then each of you will control his own body[COMMENT[0]] and live in
+        holiness and honor\u2014 "
+      comments:
+      - number: '4:4 '
+        contents:
+        - ft: 'Or '
+          body: 'will know how to take a wife for himself; '
+        - ft: 'or '
+          body: 'will learn to live with his own wife; '
+        - ft: 'Greek reads '
+          body: will know how to possess his own vessel.
+    - title: 
+      content: 'not in lustful passion like the pagans who do not know God and his
+        ways. '
+      comments: []
+    - title: 
+      content: 'Never harm or cheat a fellow believer in this matter by violating
+        his wife,[COMMENT[0]] for the Lord avenges all such sins, as we have solemnly
+        warned you before. '
+      comments:
+      - number: '4:6 '
+        contents:
+        - ft: 'Greek '
+          body: Never harm or cheat a brother in this matter.
+    - title: 
+      content: 'God has called us to live holy lives, not impure lives. '
+      comments: []
+    - title: 
+      content: 'Therefore, anyone who refuses to live by these rules is not disobeying
+        human teaching but is rejecting God, who gives his Holy Spirit to you.  '
+      comments: []
+    - title: 
+      content: "But we don\u2019t need to write to you about the importance of loving
+        each other,[COMMENT[0]] for God himself has taught you to love one another. "
+      comments:
+      - number: '4:9 '
+        contents:
+        - ft: 'Greek '
+          body: about brotherly love.
+    - title: 
+      content: 'Indeed, you already show your love for all the believers[COMMENT[0]]
+        throughout Macedonia. Even so, dear brothers and sisters, we urge you to
+        love them even more.  '
+      comments:
+      - number: '4:10 '
+        contents:
+        - ft: 'Greek '
+          body: the brothers.
+    - title: 
+      content: 'Make it your goal to live a quiet life, minding your own business
+        and working with your hands, just as we instructed you before. '
+      comments: []
+    - title: 
+      content: 'Then people who are not believers will respect the way you live,
+        and you will not need to depend on others.  '
+      comments: []
+    - title: The Hope of the Resurrection
+      content: 'And now, dear brothers and sisters, we want you to know what will
+        happen to the believers who have died[COMMENT[0]] so you will not grieve
+        like people who have no hope. '
+      comments:
+      - number: '4:13 '
+        contents:
+        - ft: 'Greek '
+          body: 'those who have fallen asleep; '
+        - ft: also in 4:14.
+          body: 
+    - title: 
+      content: 'For since we believe that Jesus died and was raised to life again,
+        we also believe that when Jesus returns, God will bring back with him the
+        believers who have died.  '
+      comments: []
+    - title: 
+      content: 'We tell you this directly from the Lord: We who are still living
+        when the Lord returns will not meet him ahead of those who have died.[COMMENT[0]]  '
+      comments:
+      - number: '4:15 '
+        contents:
+        - ft: 'Greek '
+          body: those who have fallen asleep.
+    - title: 
+      content: 'For the Lord himself will come down from heaven with a commanding
+        shout, with the voice of the archangel, and with the trumpet call of God.
+        First, the believers who have died[COMMENT[0]] will rise from their graves. '
+      comments:
+      - number: '4:16 '
+        contents:
+        - ft: 'Greek '
+          body: the dead in Christ.
+    - title: 
+      content: 'Then, together with them, we who are still alive and remain on the
+        earth will be caught up in the clouds to meet the Lord in the air. Then we
+        will be with the Lord forever. '
+      comments: []
+    - title: 
+      content: So encourage each other with these words.
+      comments: []
+  - verses:
+    - title: 
+      content: "Now concerning how and when all this will happen, dear brothers and
+        sisters,[COMMENT[0]] we don\u2019t really need to write you. "
+      comments:
+      - number: '5:1 '
+        contents:
+        - ft: 'Greek '
+          body: 'brothers; '
+        - ft: also in 5:4, 12, 14, 25, 26, 27.
+          body: 
+    - title: 
+      content: "For you know quite well that the day of the Lord\u2019s return will
+        come unexpectedly, like a thief in the night. "
+      comments: []
+    - title: 
+      content: "When people are saying, \u201CEverything is peaceful and secure,\u201D
+        then disaster will fall on them as suddenly as a pregnant woman\u2019s labor
+        pains begin. And there will be no escape.  "
+      comments: []
+    - title: 
+      content: "But you aren\u2019t in the dark about these things, dear brothers
+        and sisters, and you won\u2019t be surprised when the day of the Lord comes
+        like a thief.[COMMENT[0]]  "
+      comments:
+      - number: '5:4 '
+        contents:
+        - ft: 'Some manuscripts read '
+          body: comes upon you as if you were thieves.
+    - title: 
+      content: "For you are all children of the light and of the day; we don\u2019t
+        belong to darkness and night. "
+      comments: []
+    - title: 
+      content: 'So be on your guard, not asleep like the others. Stay alert and be
+        clearheaded. '
+      comments: []
+    - title: 
+      content: 'Night is the time when people sleep and drinkers get drunk. '
+      comments: []
+    - title: 
+      content: 'But let us who live in the light be clearheaded, protected by the
+        armor of faith and love, and wearing as our helmet the confidence of our
+        salvation.  '
+      comments: []
+    - title: 
+      content: 'For God chose to save us through our Lord Jesus Christ, not to pour
+        out his anger on us. '
+      comments: []
+    - title: 
+      content: 'Christ died for us so that, whether we are dead or alive when he
+        returns, we can live with him forever. '
+      comments: []
+    - title: 
+      content: 'So encourage each other and build each other up, just as you are
+        already doing.  '
+      comments: []
+    - title: "Paul\u2019s Final Advice"
+      content: "Dear brothers and sisters, honor those who are your leaders in the
+        Lord\u2019s work. They work hard among you and give you spiritual guidance. "
+      comments: []
+    - title: 
+      content: 'Show them great respect and wholehearted love because of their work.
+        And live peacefully with each other.  '
+      comments: []
+    - title: 
+      content: 'Brothers and sisters, we urge you to warn those who are lazy. Encourage
+        those who are timid. Take tender care of those who are weak. Be patient with
+        everyone.  '
+      comments: []
+    - title: 
+      content: 'See that no one pays back evil for evil, but always try to do good
+        to each other and to all people.  '
+      comments: []
+    - title: 
+      content: 'Always be joyful. '
+      comments: []
+    - title: 
+      content: 'Never stop praying. '
+      comments: []
+    - title: 
+      content: "Be thankful in all circumstances, for this is God\u2019s will for
+        you who belong to Christ Jesus.  "
+      comments: []
+    - title: 
+      content: 'Do not stifle the Holy Spirit. '
+      comments: []
+    - title: 
+      content: 'Do not scoff at prophecies, '
+      comments: []
+    - title: 
+      content: 'but test everything that is said. Hold on to what is good. '
+      comments: []
+    - title: 
+      content: 'Stay away from every kind of evil.  '
+      comments: []
+    - title: "Paul\u2019s Final Greetings"
+      content: 'Now may the God of peace make you holy in every way, and may your
+        whole spirit and soul and body be kept blameless until our Lord Jesus Christ
+        comes again. '
+      comments: []
+    - title: 
+      content: 'God will make this happen, for he who calls you is faithful.  '
+      comments: []
+    - title: 
+      content: 'Dear brothers and sisters, pray for us.  '
+      comments: []
+    - title: 
+      content: 'Greet all the brothers and sisters with a sacred kiss.  '
+      comments: []
+    - title: 
+      content: 'I command you in the name of the Lord to read this letter to all
+        the brothers and sisters.  '
+      comments: []
+    - title: 
+      content: May the grace of our Lord Jesus Christ be with you.
+      comments: []

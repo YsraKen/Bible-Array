@@ -1,0 +1,717 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: MIC
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Micah
+  fancyName: 
+  nickname: mic
+  language: English
+  lang: eng
+  version: New Living Translation
+  ver: NLT
+  description: 
+  chapters:
+  - verses:
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> gave this message to Micah of Moresheth
+        during the years when Jotham, Ahaz, and Hezekiah were kings of Judah. The
+        visions he saw concerned both Samaria and Jerusalem.  '
+      comments: []
+    - title: Grief over Samaria and Jerusalem
+      content: "Attention! Let all the people of the world listen!\n\tLet the earth
+        and everything in it hear.\n\tThe Sovereign <smallcaps>Lord</smallcaps> is
+        making accusations against you;\n\tthe Lord speaks from his holy Temple.  "
+      comments: []
+    - title: 
+      content: "Look! The <smallcaps>Lord</smallcaps> is coming!\n\tHe leaves his
+        throne in heaven\n\tand tramples the heights of the earth.  "
+      comments: []
+    - title: 
+      content: "The mountains melt beneath his feet\n\tand flow into the valleys\n\tlike
+        wax in a fire,\n\tlike water pouring down a hill.  "
+      comments: []
+    - title: 
+      content: "And why is this happening?\n\tBecause of the rebellion of Israel[COMMENT[0]]\u2014\n\tyes,
+        the sins of the whole nation.\n\tWho is to blame for Israel\u2019s rebellion?\n\tSamaria,
+        its capital city!\n\tWhere is the center of idolatry in Judah?\n\tIn Jerusalem,
+        its capital!  "
+      comments:
+      - number: '1:5 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'Jacob; '
+        - ft: "also in 1:5b. The names \u201CJacob\u201D and \u201CIsrael\u201D are
+            often interchanged throughout the Old Testament, referring sometimes
+            to the individual patriarch and sometimes to the nation."
+          body: 
+    - title: 
+      content: "\u201CSo I, the <smallcaps>Lord</smallcaps>\n\t, will make the city
+        of Samaria\n\ta heap of ruins.\n\tHer streets will be plowed up\n\tfor planting
+        vineyards.\n\tI will roll the stones of her walls into the valley below,\n\texposing
+        her foundations.  "
+      comments: []
+    - title: 
+      content: "All her carved images will be smashed.\n\tAll her sacred treasures
+        will be burned.\n\tThese things were bought with the money\n\tearned by her
+        prostitution,\n\tand they will now be carried away\n\tto pay prostitutes
+        elsewhere.\u201D  "
+      comments: []
+    - title: 
+      content: "Therefore, I will mourn and lament.\n\tI will walk around barefoot
+        and naked.\n\tI will howl like a jackal\n\tand moan like an owl.  "
+      comments: []
+    - title: 
+      content: "For my people\u2019s wound\n\tis too deep to heal.\n\tIt has reached
+        into Judah,\n\teven to the gates of Jerusalem.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t tell our enemies in Gath[COMMENT[0]];\n\tdon\u2019t weep
+        at all.\n\tYou people in Beth-leaphrah,[COMMENT[1]]roll in the dust to show
+        your despair.  "
+      comments:
+      - number: '1:10a '
+        contents:
+        - ft: 
+          body: 'Gath '
+        - ft: "sounds like the Hebrew term for \u201Ctell.\u201D"
+          body: 
+      - number: '1:10b '
+        contents:
+        - ft: 
+          body: 'Beth-leaphrah '
+        - ft: "means \u201Chouse of dust.\u201D"
+          body: 
+    - title: 
+      content: "You people in Shaphir,[COMMENT[0]]go as captives into exile\u2014naked
+        and ashamed.\n\tThe people of Zaanan[COMMENT[1]]dare not come outside their
+        walls.\n\tThe people of Beth-ezel[COMMENT[2]] mourn,\n\tfor their house has
+        no support.  "
+      comments:
+      - number: '1:11a '
+        contents:
+        - ft: 
+          body: 'Shaphir '
+        - ft: "means \u201Cpleasant.\u201D"
+          body: 
+      - number: '1:11b '
+        contents:
+        - ft: 
+          body: 'Zaanan '
+        - ft: "sounds like the Hebrew term for \u201Ccome out.\u201D"
+          body: 
+      - number: '1:11c '
+        contents:
+        - ft: 
+          body: 'Beth-ezel '
+        - ft: "means \u201Cadjoining house.\u201D"
+          body: 
+    - title: 
+      content: "The people of Maroth[COMMENT[0]] anxiously wait for relief,\n\tbut
+        only bitterness awaits them\n\tas the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        judgment reaches\n\teven to the gates of Jerusalem.  "
+      comments:
+      - number: '1:12 '
+        contents:
+        - ft: 
+          body: 'Maroth '
+        - ft: "sounds like the Hebrew term for \u201Cbitter.\u201D"
+          body: 
+    - title: 
+      content: "Harness your chariot horses and flee,\n\tyou people of Lachish.[COMMENT[0]]You
+        were the first city in Judah\n\tto follow Israel in her rebellion,\n\tand
+        you led Jerusalem[COMMENT[1]] into sin.  "
+      comments:
+      - number: '1:13a '
+        contents:
+        - ft: 
+          body: 'Lachish '
+        - ft: "sounds like the Hebrew term for \u201Cteam of horses.\u201D"
+          body: 
+      - number: '1:13b '
+        contents:
+        - ft: 'Hebrew '
+          body: the daughter of Zion.
+    - title: 
+      content: "Send farewell gifts to Moresheth-gath[COMMENT[0]];\n\tthere is no
+        hope of saving it.\n\tThe town of Aczib[COMMENT[1]]has deceived the kings
+        of Israel.  "
+      comments:
+      - number: '1:14a '
+        contents:
+        - ft: 
+          body: 'Moresheth '
+        - ft: "sounds like the Hebrew term for \u201Cgift\u201D or \u201Cdowry.\u201D"
+          body: 
+      - number: '1:14b '
+        contents:
+        - ft: 
+          body: 'Aczib '
+        - ft: "means \u201Cdeception.\u201D"
+          body: 
+    - title: 
+      content: "O people of Mareshah,[COMMENT[0]]I will bring a conqueror to capture
+        your town.\n\tAnd the leaders[COMMENT[1]] of Israel\n\twill go to Adullam.  "
+      comments:
+      - number: '1:15a '
+        contents:
+        - ft: 
+          body: 'Mareshah '
+        - ft: "sounds like the Hebrew term for \u201Cconqueror.\u201D"
+          body: 
+      - number: '1:15b '
+        contents:
+        - ft: 'Hebrew '
+          body: the glory.
+    - title: 
+      content: "Oh, people of Judah, shave your heads in sorrow,\n\tfor the children
+        you love will be snatched away.\n\tMake yourselves as bald as a vulture,\n\tfor
+        your little ones will be exiled to distant lands."
+      comments: []
+  - verses:
+    - title: Judgment against Wealthy Oppressors
+      content: "What sorrow awaits you who lie awake at night,\n\tthinking up evil
+        plans.\n\tYou rise at dawn and hurry to carry them out,\n\tsimply because
+        you have the power to do so.  "
+      comments: []
+    - title: 
+      content: "When you want a piece of land,\n\tyou find a way to seize it.\n\tWhen
+        you want someone\u2019s house,\n\tyou take it by fraud and violence.\n\tYou
+        cheat a man of his property,\n\tstealing his family\u2019s inheritance.  "
+      comments: []
+    - title: 
+      content: "But this is what the <smallcaps>Lord</smallcaps> says:\n\t\u201CI
+        will reward your evil with evil;\n\tyou won\u2019t be able to pull your neck
+        out of the noose.\n\tYou will no longer walk around proudly,\n\tfor it will
+        be a terrible time.\u201D  "
+      comments: []
+    - title: 
+      content: "In that day your enemies will make fun of you\n\tby singing this
+        song of despair about you:\n\t\u201CWe are finished,\n\tcompletely ruined!\n\tGod
+        has confiscated our land,\n\ttaking it from us.\n\tHe has given our fields\n\tto
+        those who betrayed us.[COMMENT[0]]\u201D  "
+      comments:
+      - number: '2:4 '
+        contents:
+        - ft: 'Or '
+          body: to those who took us captive.
+    - title: 
+      content: "Others will set your boundaries then,\n\tand the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        people will have no say\n\tin how the land is divided.  "
+      comments: []
+    - title: True and False Prophets
+      content: "\u201CDon\u2019t say such things,\u201D\n\tthe people respond.[COMMENT[0]]\u201CDon\u2019t
+        prophesy like that.\n\tSuch disasters will never come our way!\u201D  "
+      comments:
+      - number: '2:6 '
+        contents:
+        - ft: 'Or '
+          body: 'the prophets respond; '
+        - ft: 'Hebrew reads '
+          body: they prophesy.
+    - title: 
+      content: "Should you talk that way, O family of Israel?[COMMENT[0]]Will the
+        <smallcaps>Lord</smallcaps>\n\t\u2019s Spirit have patience with such behavior?\n\tIf
+        you would do what is right,\n\tyou would find my words comforting.  "
+      comments:
+      - number: '2:7 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'O house of Jacob? '
+        - ft: See note on 1:5a.
+          body: 
+    - title: 
+      content: "Yet to this very hour\n\tmy people rise against me like an enemy!\n\tYou
+        steal the shirts right off the backs\n\tof those who trusted you,\n\tmaking
+        them as ragged as men\n\treturning from battle.  "
+      comments: []
+    - title: 
+      content: "You have evicted women from their pleasant homes\n\tand forever stripped
+        their children of all that God would give them.  "
+      comments: []
+    - title: 
+      content: "Up! Begone!\n\tThis is no longer your land and home,\n\tfor you have
+        filled it with sin\n\tand ruined it completely.  "
+      comments: []
+    - title: 
+      content: "Suppose a prophet full of lies would say to you,\n\t\u201CI\u2019ll
+        preach to you the joys of wine and alcohol!\u201D\n\tThat\u2019s just the
+        kind of prophet you would like!  "
+      comments: []
+    - title: Hope for Restoration
+      content: "\u201CSomeday, O Israel, I will gather you;\n\tI will gather the
+        remnant who are left.\n\tI will bring you together again like sheep in a
+        pen,\n\tlike a flock in its pasture.\n\tYes, your land will again\n\tbe filled
+        with noisy crowds!  "
+      comments: []
+    - title: 
+      content: "Your leader will break out\n\tand lead you out of exile,\n\tout through
+        the gates of the enemy cities,\n\tback to your own land.\n\tYour king will
+        lead you;\n\tthe <smallcaps>Lord </smallcaps>\n\thimself will guide you.\u201D"
+      comments: []
+  - verses:
+    - title: "Judgment against Israel\u2019s Leaders"
+      content: "I said, \u201CListen, you leaders of Israel!\n\tYou are supposed
+        to know right from wrong,  "
+      comments: []
+    - title: 
+      content: "but you are the very ones\n\twho hate good and love evil.\n\tYou
+        skin my people alive\n\tand tear the flesh from their bones.  "
+      comments: []
+    - title: 
+      content: "Yes, you eat my people\u2019s flesh,\n\tstrip off their skin,\n\tand
+        break their bones.\n\tYou chop them up\n\tlike meat for the cooking pot.  "
+      comments: []
+    - title: 
+      content: "Then you beg the <smallcaps>Lord</smallcaps> for help in times of
+        trouble!\n\tDo you really expect him to answer?\n\tAfter all the evil you
+        have done,\n\the won\u2019t even look at you!\u201D  "
+      comments: []
+    - title: 
+      content: "This is what the <smallcaps>Lord</smallcaps> says:\n\t\u201CYou false
+        prophets are leading my people astray!\n\tYou promise peace for those who
+        give you food,\n\tbut you declare war on those who refuse to feed you.  "
+      comments: []
+    - title: 
+      content: "Now the night will close around you,\n\tcutting off all your visions.\n\tDarkness
+        will cover you,\n\tputting an end to your predictions.\n\tThe sun will set
+        for you prophets,\n\tand your day will come to an end.  "
+      comments: []
+    - title: 
+      content: "Then you seers will be put to shame,\n\tand you fortune-tellers will
+        be disgraced.\n\tAnd you will cover your faces\n\tbecause there is no answer
+        from God.\u201D  "
+      comments: []
+    - title: 
+      content: "But as for me, I am filled with power\u2014\n\twith the Spirit of
+        the <smallcaps>Lord</smallcaps>\n\t.\n\tI am filled with justice and strength\n\tto
+        boldly declare Israel\u2019s sin and rebellion.  "
+      comments: []
+    - title: 
+      content: "Listen to me, you leaders of Israel!\n\tYou hate justice and twist
+        all that is right.  "
+      comments: []
+    - title: 
+      content: "You are building Jerusalem\n\ton a foundation of murder and corruption.  "
+      comments: []
+    - title: 
+      content: "You rulers make decisions based on bribes;\n\tyou priests teach God\u2019s
+        laws only for a price;\n\tyou prophets won\u2019t prophesy unless you are
+        paid.\n\tYet all of you claim to depend on the <smallcaps>Lord</smallcaps>\n\t.\n\t\u201CNo
+        harm can come to us,\u201D you say,\n\t\u201Cfor the <smallcaps>Lord</smallcaps>
+        is here among us.\u201D  "
+      comments: []
+    - title: 
+      content: "Because of you, Mount Zion will be plowed like an open field;\n\tJerusalem
+        will be reduced to ruins!\n\tA thicket will grow on the heights\n\twhere
+        the Temple now stands."
+      comments: []
+  - verses:
+    - title: "\u2019s Future Reign"
+      content: "In the last days, the mountain of the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        house\n\twill be the highest of all\u2014\n\tthe most important place on
+        earth.\n\tIt will be raised above the other hills,\n\tand people from all
+        over the world will stream there to worship.  "
+      comments: []
+    - title: 
+      content: "People from many nations will come and say,\n\t\u201CCome, let us
+        go up to the mountain of the <smallcaps>Lord</smallcaps>\n\t,\n\tto the house
+        of Jacob\u2019s God.\n\tThere he will teach us his ways,\n\tand we will walk
+        in his paths.\u201D\n\tFor the <smallcaps>Lord</smallcaps>\n\t\u2019s teaching
+        will go out from Zion;\n\this word will go out from Jerusalem.  "
+      comments: []
+    - title: 
+      content: "The <smallcaps>Lord</smallcaps> will mediate between peoples\n\tand
+        will settle disputes between strong nations far away.\n\tThey will hammer
+        their swords into plowshares\n\tand their spears into pruning hooks.\n\tNation
+        will no longer fight against nation,\n\tnor train for war anymore.  "
+      comments: []
+    - title: 
+      content: "Everyone will live in peace and prosperity,\n\tenjoying their own
+        grapevines and fig trees,\n\tfor there will be nothing to fear.\n\tThe <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies\n\thas made this promise!  "
+      comments: []
+    - title: 
+      content: "Though the nations around us follow their idols,\n\twe will follow
+        the <smallcaps>Lord</smallcaps> our God forever and ever.  "
+      comments: []
+    - title: "Israel\u2019s Return from Exile"
+      content: "\u201CIn that coming day,\u201D says the <smallcaps>Lord</smallcaps>\n\t,\n\t\u201CI
+        will gather together those who are lame,\n\tthose who have been exiles,\n\tand
+        those whom I have filled with grief.  "
+      comments: []
+    - title: 
+      content: "Those who are weak will survive as a remnant;\n\tthose who were exiles
+        will become a strong nation.\n\tThen I, the <smallcaps>Lord</smallcaps>\n\t,
+        will rule from Jerusalem[COMMENT[0]]as their king forever.\u201D  "
+      comments:
+      - number: '4:7 '
+        contents:
+        - ft: 'Hebrew '
+          body: Mount Zion.
+    - title: 
+      content: "As for you, Jerusalem,\n\tthe citadel of God\u2019s people,[COMMENT[0]]your
+        royal might and power\n\twill come back to you again.\n\tThe kingship will
+        be restored\n\tto my precious Jerusalem.  "
+      comments:
+      - number: '4:8 '
+        contents:
+        - ft: 'Hebrew '
+          body: As for you, Migdal-eder, / the Ophel of the daughter of Zion.
+    - title: 
+      content: "But why are you now screaming in terror?\n\tHave you no king to lead
+        you?\n\tHave your wise people all died?\n\tPain has gripped you like a woman
+        in childbirth.  "
+      comments: []
+    - title: 
+      content: "Writhe and groan like a woman in labor,\n\tyou people of Jerusalem,[COMMENT[0]]for
+        now you must leave this city\n\tto live in the open country.\n\tYou will
+        soon be sent in exile\n\tto distant Babylon.\n\tBut the <smallcaps>Lord</smallcaps>
+        will rescue you there;\n\the will redeem you from the grip of your enemies.  "
+      comments:
+      - number: '4:10 '
+        contents:
+        - ft: 'Hebrew '
+          body: O daughter of Zion.
+    - title: 
+      content: "Now many nations have gathered against you.\n\t\u201CLet her be desecrated,\u201D
+        they say.\n\t\u201CLet us see the destruction of Jerusalem.[COMMENT[0]]\u201D  "
+      comments:
+      - number: '4:11 '
+        contents:
+        - ft: 'Hebrew '
+          body: of Zion.
+    - title: 
+      content: "But they do not know the <smallcaps>Lord</smallcaps>\n\t\u2019s thoughts\n\tor
+        understand his plan.\n\tThese nations don\u2019t know\n\tthat he is gathering
+        them together\n\tto be beaten and trampled\n\tlike sheaves of grain on a
+        threshing floor.  "
+      comments: []
+    - title: 
+      content: "\u201CRise up and crush the nations, O Jerusalem!\u201D[COMMENT[0]]says
+        the <smallcaps>Lord</smallcaps>\n\t.\n\t\u201CFor I will give you iron horns
+        and bronze hooves,\n\tso you can trample many nations to pieces.\n\tYou will
+        present their stolen riches to the <smallcaps>Lord</smallcaps>\n\t,\n\ttheir
+        wealth to the Lord of all the earth.\u201D"
+      comments:
+      - number: '4:13 '
+        contents:
+        - ft: 'Hebrew '
+          body: "\u201CRise up and thresh, O daughter of Zion.\u201D"
+  - verses:
+    - title: 
+      content: "  [COMMENT[1]]Mobilize! Marshal your troops!\n\tThe enemy is laying
+        siege to Jerusalem.\n\tThey will strike Israel\u2019s leader\n\tin the face
+        with a rod.  "
+      comments:
+      - number: 
+        contents:
+        - ft: '  '
+          body: 
+      - number: '5:1 '
+        contents:
+        - ft: '  '
+          body: 
+        - ft: Verse 5:1 is numbered 4:14 in Hebrew text.
+          body: 
+        - ft: '  '
+          body: 
+    - title: A Ruler from Bethlehem
+      content: "  [COMMENT[1]]But you, O Bethlehem Ephrathah,\n\tare only a small
+        village among all the people of Judah.\n\tYet a ruler of Israel,\n\twhose
+        origins are in the distant past,\n\twill come from you on my behalf.  "
+      comments:
+      - number: 
+        contents:
+        - ft: '  '
+          body: 
+      - number: '5:2 '
+        contents:
+        - ft: '  '
+          body: 
+        - ft: Verses 5:2-15 are numbered 5:1-14 in Hebrew text.
+          body: 
+        - ft: '  '
+          body: 
+    - title: 
+      content: "The people of Israel will be abandoned to their enemies\n\tuntil
+        the woman in labor gives birth.\n\tThen at last his fellow countrymen\n\twill
+        return from exile to their own land.  "
+      comments: []
+    - title: 
+      content: "And he will stand to lead his flock with the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        strength,\n\tin the majesty of the name of the <smallcaps>Lord </smallcaps>\n\this
+        God.\n\tThen his people will live there undisturbed,\n\tfor he will be highly
+        honored around the world.  "
+      comments: []
+    - title: 
+      content: "And he will be the source of peace.\n\tWhen the Assyrians invade
+        our land\n\tand break through our defenses,\n\twe will appoint seven rulers
+        to watch over us,\n\teight princes to lead us.  "
+      comments: []
+    - title: 
+      content: "They will rule Assyria with drawn swords\n\tand enter the gates of
+        the land of Nimrod.\n\tHe will rescue us from the Assyrians\n\twhen they
+        pour over the borders to invade our land.  "
+      comments: []
+    - title: The Remnant Purified
+      content: "Then the remnant left in Israel[COMMENT[0]]will take their place
+        among the nations.\n\tThey will be like dew sent by the <smallcaps>Lord</smallcaps>\n\tor
+        like rain falling on the grass,\n\twhich no one can hold back\n\tand no one
+        can restrain.  "
+      comments:
+      - number: '5:7 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'in Jacob; '
+        - ft: also in 5:8. See note on 1:5a.
+          body: 
+    - title: 
+      content: "The remnant left in Israel\n\twill take their place among the nations.\n\tThey
+        will be like a lion among the animals of the forest,\n\tlike a strong young
+        lion among flocks of sheep and goats,\n\tpouncing and tearing as they go\n\twith
+        no rescuer in sight.  "
+      comments: []
+    - title: 
+      content: "The people of Israel will stand up to their foes,\n\tand all their
+        enemies will be wiped out.  "
+      comments: []
+    - title: 
+      content: "\u201CIn that day,\u201D says the <smallcaps>Lord</smallcaps>\n\t,\n\t\u201CI
+        will slaughter your horses\n\tand destroy your chariots.  "
+      comments: []
+    - title: 
+      content: "I will tear down your walls\n\tand demolish your defenses.  "
+      comments: []
+    - title: 
+      content: "I will put an end to all witchcraft,\n\tand there will be no more
+        fortune-tellers.  "
+      comments: []
+    - title: 
+      content: "I will destroy all your idols and sacred pillars,\n\tso you will
+        never again worship the work of your own hands.  "
+      comments: []
+    - title: 
+      content: "I will abolish your idol shrines with their Asherah poles\n\tand
+        destroy your pagan cities.  "
+      comments: []
+    - title: 
+      content: "I will pour out my vengeance\n\ton all the nations that refuse to
+        obey me.\u201D"
+      comments: []
+  - verses:
+    - title: "\u2019s Case against Israel"
+      content: "Listen to what the <smallcaps>Lord</smallcaps> is saying:\n\t\u201CStand
+        up and state your case against me.\n\tLet the mountains and hills be called
+        to witness your complaints.  "
+      comments: []
+    - title: 
+      content: "And now, O mountains,\n\tlisten to the <smallcaps>Lord</smallcaps>\n\t\u2019s
+        complaint!\n\tHe has a case against his people.\n\tHe will bring charges
+        against Israel.  "
+      comments: []
+    - title: 
+      content: "\u201CO my people, what have I done to you?\n\tWhat have I done to
+        make you tired of me?\n\tAnswer me!  "
+      comments: []
+    - title: 
+      content: "For I brought you out of Egypt\n\tand redeemed you from slavery.\n\tI
+        sent Moses, Aaron, and Miriam to help you.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t you remember, my people,\n\thow King Balak of Moab tried
+        to have you cursed\n\tand how Balaam son of Beor blessed you instead?\n\tAnd
+        remember your journey from Acacia Grove[COMMENT[0]] to Gilgal,\n\twhen I,
+        the <smallcaps>Lord</smallcaps>\n\t, did everything I could\n\tto teach you
+        about my faithfulness.\u201D  "
+      comments:
+      - number: '6:5 '
+        contents:
+        - ft: 'Hebrew '
+          body: Shittim.
+    - title: 
+      content: "What can we bring to the <smallcaps>Lord</smallcaps>\n\t?\n\tShould
+        we bring him burnt offerings?\n\tShould we bow before God Most High\n\twith
+        offerings of yearling calves?  "
+      comments: []
+    - title: 
+      content: "Should we offer him thousands of rams\n\tand ten thousand rivers
+        of olive oil?\n\tShould we sacrifice our firstborn children\n\tto pay for
+        our sins?  "
+      comments: []
+    - title: 
+      content: "No, O people, the <smallcaps>Lord</smallcaps> has told you what is
+        good,\n\tand this is what he requires of you:\n\tto do what is right, to
+        love mercy,\n\tand to walk humbly with your God.  "
+      comments: []
+    - title: "Israel\u2019s Guilt and Punishment"
+      content: "Fear the <smallcaps>Lord</smallcaps> if you are wise!\n\tHis voice
+        calls to everyone in Jerusalem:\n\t\u201CThe armies of destruction are coming;\n\tthe
+        <smallcaps>Lord</smallcaps> is sending them.[COMMENT[0]]  "
+      comments:
+      - number: '6:9 '
+        contents:
+        - ft: 'Hebrew '
+          body: "\u201CListen to the rod. / Who appointed it?\u201D"
+    - title: 
+      content: "What shall I say about the homes of the wicked\n\tfilled with treasures
+        gained by cheating?\n\tWhat about the disgusting practice\n\tof measuring
+        out grain with dishonest measures?[COMMENT[0]]  "
+      comments:
+      - number: '6:10 '
+        contents:
+        - ft: 'Hebrew '
+          body: 'of using the short ephah? '
+        - ft: The ephah was a unit for measuring grain.
+          body: 
+    - title: 
+      content: "How can I tolerate your merchants\n\twho use dishonest scales and
+        weights?  "
+      comments: []
+    - title: 
+      content: "The rich among you have become wealthy\n\tthrough extortion and violence.\n\tYour
+        citizens are so used to lying\n\tthat their tongues can no longer tell the
+        truth.  "
+      comments: []
+    - title: 
+      content: "\u201CTherefore, I will wound you!\n\tI will bring you to ruin for
+        all your sins.  "
+      comments: []
+    - title: 
+      content: "You will eat but never have enough.\n\tYour hunger pangs and emptiness
+        will remain.\n\tAnd though you try to save your money,\n\tit will come to
+        nothing in the end.\n\tYou will save a little,\n\tbut I will give it to those
+        who conquer you.  "
+      comments: []
+    - title: 
+      content: "You will plant crops\n\tbut not harvest them.\n\tYou will press your
+        olives\n\tbut not get enough oil to anoint yourselves.\n\tYou will trample
+        the grapes\n\tbut get no juice to make your wine.  "
+      comments: []
+    - title: 
+      content: "You keep only the laws of evil King Omri;\n\tyou follow only the
+        example of wicked King Ahab!\n\tTherefore, I will make an example of you,\n\tbringing
+        you to complete ruin.\n\tYou will be treated with contempt,\n\tmocked by
+        all who see you.\u201D"
+      comments: []
+  - verses:
+    - title: Misery Turned to Hope
+      content: "How miserable I am!\n\tI feel like the fruit picker after the harvest\n\twho
+        can find nothing to eat.\n\tNot a cluster of grapes or a single early fig\n\tcan
+        be found to satisfy my hunger.  "
+      comments: []
+    - title: 
+      content: "The godly people have all disappeared;\n\tnot one honest person is
+        left on the earth.\n\tThey are all murderers,\n\tsetting traps even for their
+        own brothers.  "
+      comments: []
+    - title: 
+      content: "Both their hands are equally skilled at doing evil!\n\tOfficials
+        and judges alike demand bribes.\n\tThe people with influence get what they
+        want,\n\tand together they scheme to twist justice.  "
+      comments: []
+    - title: 
+      content: "Even the best of them is like a brier;\n\tthe most honest is as dangerous
+        as a hedge of thorns.\n\tBut your judgment day is coming swiftly now.\n\tYour
+        time of punishment is here, a time of confusion.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t trust anyone\u2014\n\tnot your best friend or even your
+        wife!  "
+      comments: []
+    - title: 
+      content: "For the son despises his father.\n\tThe daughter defies her mother.\n\tThe
+        daughter-in-law defies her mother-in-law.\n\tYour enemies are right in your
+        own household!  "
+      comments: []
+    - title: 
+      content: "As for me, I look to the <smallcaps>Lord</smallcaps> for help.\n\tI
+        wait confidently for God to save me,\n\tand my God will certainly hear me.  "
+      comments: []
+    - title: 
+      content: "Do not gloat over me, my enemies!\n\tFor though I fall, I will rise
+        again.\n\tThough I sit in darkness,\n\tthe <smallcaps>Lord</smallcaps> will
+        be my light.  "
+      comments: []
+    - title: 
+      content: "I will be patient as the <smallcaps>Lord</smallcaps> punishes me,\n\tfor
+        I have sinned against him.\n\tBut after that, he will take up my case\n\tand
+        give me justice for all I have suffered from my enemies.\n\tThe <smallcaps>Lord</smallcaps>
+        will bring me into the light,\n\tand I will see his righteousness.  "
+      comments: []
+    - title: 
+      content: "Then my enemies will see that the <smallcaps>Lord</smallcaps> is
+        on my side.\n\tThey will be ashamed that they taunted me, saying,\n\t\u201CSo
+        where is the <smallcaps>Lord</smallcaps>\n\t\u2014\n\tthat God of yours?\u201D\n\tWith
+        my own eyes I will see their downfall;\n\tthey will be trampled like mud
+        in the streets.  "
+      comments: []
+    - title: 
+      content: "In that day, Israel, your cities will be rebuilt,\n\tand your borders
+        will be extended.  "
+      comments: []
+    - title: 
+      content: "People from many lands will come and honor you\u2014\n\tfrom Assyria
+        all the way to the towns of Egypt,\n\tfrom Egypt all the way to the Euphrates
+        River,[COMMENT[0]]and from distant seas and mountains.  "
+      comments:
+      - number: '7:12 '
+        contents:
+        - ft: 'Hebrew '
+          body: the river.
+    - title: 
+      content: "But the land[COMMENT[0]] will become empty and desolate\n\tbecause
+        of the wickedness of those who live there.  "
+      comments:
+      - number: '7:13 '
+        contents:
+        - ft: 'Or '
+          body: earth.
+    - title: "\u2019s Compassion on Israel"
+      content: "O <smallcaps>Lord</smallcaps>\n\t, protect your people with your
+        shepherd\u2019s staff;\n\tlead your flock, your special possession.\n\tThough
+        they live alone in a thicket\n\ton the heights of Mount Carmel,[COMMENT[0]]let
+        them graze in the fertile pastures of Bashan and Gilead\n\tas they did long
+        ago.  "
+      comments:
+      - number: '7:14 '
+        contents:
+        - ft: 'Or '
+          body: surrounded by a fruitful land.
+    - title: 
+      content: "\u201CYes,\u201D says the <smallcaps>Lord</smallcaps>\n\t,\n\t\u201CI
+        will do mighty miracles for you,\n\tlike those I did when I rescued you\n\tfrom
+        slavery in Egypt.\u201D  "
+      comments: []
+    - title: 
+      content: "All the nations of the world will stand amazed\n\tat what the <smallcaps>Lord</smallcaps>
+        will do for you.\n\tThey will be embarrassed\n\tat their feeble power.\n\tThey
+        will cover their mouths in silent awe,\n\tdeaf to everything around them.  "
+      comments: []
+    - title: 
+      content: "Like snakes crawling from their holes,\n\tthey will come out to meet
+        the <smallcaps>Lord</smallcaps> our God.\n\tThey will fear him greatly,\n\ttrembling
+        in terror at his presence.  "
+      comments: []
+    - title: 
+      content: "Where is another God like you,\n\twho pardons the guilt of the remnant,\n\toverlooking
+        the sins of his special people?\n\tYou will not stay angry with your people
+        forever,\n\tbecause you delight in showing unfailing love.  "
+      comments: []
+    - title: 
+      content: "Once again you will have compassion on us.\n\tYou will trample our
+        sins under your feet\n\tand throw them into the depths of the ocean!  "
+      comments: []
+    - title: 
+      content: "You will show us your faithfulness and unfailing love\n\tas you promised
+        to our ancestors Abraham and Jacob long ago."
+      comments: []

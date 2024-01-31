@@ -1,0 +1,663 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: 1PE
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 1 Peter
+  fancyName: 
+  nickname: 1pe
+  language: English
+  lang: eng
+  version: New Living Translation
+  ver: NLT
+  description: 
+  chapters:
+  - verses:
+    - title: Greetings from Peter
+      content: "This letter is from Peter, an apostle of Jesus Christ.\n\tI am writing
+        to God\u2019s chosen people who are living as foreigners in the provinces
+        of Pontus, Galatia, Cappadocia, Asia, and Bithynia.[COMMENT[0]]  "
+      comments:
+      - number: '1:1 '
+        contents:
+        - ft: 
+          body: 'Pontus, Galatia, Cappadocia, Asia, '
+        - ft: 'and '
+          body: 'Bithynia '
+        - ft: were Roman provinces in what is now Turkey.
+          body: 
+    - title: 
+      content: "God the Father knew you and chose you long ago, and his Spirit has
+        made you holy. As a result, you have obeyed him and have been cleansed by
+        the blood of Jesus Christ.\n\tMay God give you more and more grace and peace.  "
+      comments: []
+    - title: The Hope of Eternal Life
+      content: 'All praise to God, the Father of our Lord Jesus Christ. It is by
+        his great mercy that we have been born again, because God raised Jesus Christ
+        from the dead. Now we live with great expectation, '
+      comments: []
+    - title: 
+      content: "and we have a priceless inheritance\u2014an inheritance that is kept
+        in heaven for you, pure and undefiled, beyond the reach of change and decay. "
+      comments: []
+    - title: 
+      content: 'And through your faith, God is protecting you by his power until
+        you receive this salvation, which is ready to be revealed on the last day
+        for all to see.  '
+      comments: []
+    - title: 
+      content: 'So be truly glad.[COMMENT[0]] There is wonderful joy ahead, even
+        though you must endure many trials for a little while. '
+      comments:
+      - number: '1:6 '
+        contents:
+        - ft: 'Or '
+          body: So you are truly glad.
+    - title: 
+      content: "These trials will show that your faith is genuine. It is being tested
+        as fire tests and purifies gold\u2014though your faith is far more precious
+        than mere gold. So when your faith remains strong through many trials, it
+        will bring you much praise and glory and honor on the day when Jesus Christ
+        is revealed to the whole world.  "
+      comments: []
+    - title: 
+      content: 'You love him even though you have never seen him. Though you do not
+        see him now, you trust him; and you rejoice with a glorious, inexpressible
+        joy. '
+      comments: []
+    - title: 
+      content: 'The reward for trusting him will be the salvation of your souls.  '
+      comments: []
+    - title: 
+      content: 'This salvation was something even the prophets wanted to know more
+        about when they prophesied about this gracious salvation prepared for you. '
+      comments: []
+    - title: 
+      content: "They wondered what time or situation the Spirit of Christ within
+        them was talking about when he told them in advance about Christ\u2019s suffering
+        and his great glory afterward.  "
+      comments: []
+    - title: 
+      content: 'They were told that their messages were not for themselves, but for
+        you. And now this Good News has been announced to you by those who preached
+        in the power of the Holy Spirit sent from heaven. It is all so wonderful
+        that even the angels are eagerly watching these things happen.  '
+      comments: []
+    - title: A Call to Holy Living
+      content: 'So prepare your minds for action and exercise self-control. Put all
+        your hope in the gracious salvation that will come to you when Jesus Christ
+        is revealed to the world. '
+      comments: []
+    - title: 
+      content: "So you must live as God\u2019s obedient children. Don\u2019t slip
+        back into your old ways of living to satisfy your own desires. You didn\u2019t
+        know any better then. "
+      comments: []
+    - title: 
+      content: 'But now you must be holy in everything you do, just as God who chose
+        you is holy. '
+      comments: []
+    - title: 
+      content: "For the Scriptures say, \u201CYou must be holy because I am holy.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '1:16 '
+        contents:
+        - ft: Lev 11:44-45; 19:2; 20:7.
+          body: 
+    - title: 
+      content: "And remember that the heavenly Father to whom you pray has no favorites.
+        He will judge or reward you according to what you do. So you must live in
+        reverent fear of him during your time here as \u201Ctemporary residents.\u201D "
+      comments: []
+    - title: 
+      content: 'For you know that God paid a ransom to save you from the empty life
+        you inherited from your ancestors. And it was not paid with mere gold or
+        silver, which lose their value. '
+      comments: []
+    - title: 
+      content: 'It was the precious blood of Christ, the sinless, spotless Lamb of
+        God. '
+      comments: []
+    - title: 
+      content: 'God chose him as your ransom long before the world began, but now
+        in these last days he has been revealed for your sake.  '
+      comments: []
+    - title: 
+      content: 'Through Christ you have come to trust in God. And you have placed
+        your faith and hope in God because he raised Christ from the dead and gave
+        him great glory.  '
+      comments: []
+    - title: 
+      content: 'You were cleansed from your sins when you obeyed the truth, so now
+        you must show sincere love to each other as brothers and sisters.[COMMENT[0]]
+        Love each other deeply with all your heart.[COMMENT[1]]  '
+      comments:
+      - number: '1:22a '
+        contents:
+        - ft: 'Greek '
+          body: must have brotherly love.
+      - number: '1:22b '
+        contents:
+        - ft: 'Some manuscripts read '
+          body: with a pure heart.
+    - title: 
+      content: 'For you have been born again, but not to a life that will quickly
+        end. Your new life will last forever because it comes from the eternal, living
+        word of God. '
+      comments: []
+    - title: 
+      content: "As the Scriptures say,\n\t\u201CPeople are like grass;\n\ttheir beauty
+        is like a flower in the field.\n\tThe grass withers and the flower fades.  "
+      comments: []
+    - title: 
+      content: "But the word of the Lord remains forever.\u201D[COMMENT[0]]And that
+        word is the Good News that was preached to you."
+      comments:
+      - number: '1:24-25 '
+        contents:
+        - ft: Isa 40:6-8.
+          body: 
+  - verses:
+    - title: 
+      content: 'So get rid of all evil behavior. Be done with all deceit, hypocrisy,
+        jealousy, and all unkind speech. '
+      comments: []
+    - title: 
+      content: 'Like newborn babies, you must crave pure spiritual milk so that you
+        will grow into a full experience of salvation. Cry out for this nourishment, '
+      comments: []
+    - title: 
+      content: "now that you have had a taste of the Lord\u2019s kindness.  "
+      comments: []
+    - title: "Living Stones for God\u2019s House"
+      content: "You are coming to Christ, who is the living cornerstone of God\u2019s
+        temple. He was rejected by people, but he was chosen by God for great honor.  "
+      comments: []
+    - title: 
+      content: "And you are living stones that God is building into his spiritual
+        temple. What\u2019s more, you are his holy priests.[COMMENT[0]] Through the
+        mediation of Jesus Christ, you offer spiritual sacrifices that please God. "
+      comments:
+      - number: '2:5 '
+        contents:
+        - ft: 'Greek '
+          body: holy priesthood
+        - ft: .
+          body: 
+    - title: 
+      content: "As the Scriptures say,\n\t\u201CI am placing a cornerstone in Jerusalem,[COMMENT[0]]chosen
+        for great honor,\n\tand anyone who trusts in him\n\twill never be disgraced.\u201D[COMMENT[1]]  "
+      comments:
+      - number: '2:6a '
+        contents:
+        - ft: 'Greek '
+          body: in Zion.
+      - number: '2:6b '
+        contents:
+        - ft: Isa 28:16 (Greek version).
+          body: 
+    - title: 
+      content: "Yes, you who trust him recognize the honor God has given him.[COMMENT[0]]
+        But for those who reject him,\n\t\u201CThe stone that the builders rejected\n\thas
+        now become the cornerstone.\u201D[COMMENT[1]]  "
+      comments:
+      - number: '2:7a '
+        contents:
+        - ft: 'Or '
+          body: Yes, for you who believe, there is honor.
+      - number: '2:7b '
+        contents:
+        - ft: Ps 118:22.
+          body: 
+    - title: 
+      content: "And,\n\t\u201CHe is the stone that makes people stumble,\n\tthe rock
+        that makes them fall.\u201D[COMMENT[0]]They stumble because they do not obey
+        God\u2019s word, and so they meet the fate that was planned for them.  "
+      comments:
+      - number: '2:8 '
+        contents:
+        - ft: Isa 8:14.
+          body: 
+    - title: 
+      content: "But you are not like that, for you are a chosen people. You are royal
+        priests,[COMMENT[0]] a holy nation, God\u2019s very own possession. As a
+        result, you can show others the goodness of God, for he called you out of
+        the darkness into his wonderful light.  "
+      comments:
+      - number: '2:9 '
+        contents:
+        - ft: 'Greek '
+          body: a royal priesthood.
+    - title: 
+      content: "\u201COnce you had no identity as a people;\n\tnow you are God\u2019s
+        people.\n\tOnce you received no mercy;\n\tnow you have received God\u2019s
+        mercy.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '2:10 '
+        contents:
+        - ft: Hos 1:6, 9; 2:23.
+          body: 
+    - title: 
+      content: "Dear friends, I warn you as \u201Ctemporary residents and foreigners\u201D
+        to keep away from worldly desires that wage war against your very souls. "
+      comments: []
+    - title: 
+      content: 'Be careful to live properly among your unbelieving neighbors. Then
+        even if they accuse you of doing wrong, they will see your honorable behavior,
+        and they will give honor to God when he judges the world.[COMMENT[0]]  '
+      comments:
+      - number: '2:12 '
+        contents:
+        - ft: 'Or '
+          body: on the day of visitation.
+    - title: Respecting People in Authority
+      content: "For the Lord\u2019s sake, submit to all human authority\u2014whether
+        the king as head of state, "
+      comments: []
+    - title: 
+      content: 'or the officials he has appointed. For the king has sent them to
+        punish those who do wrong and to honor those who do right.  '
+      comments: []
+    - title: 
+      content: "It is God\u2019s will that your honorable lives should silence those
+        ignorant people who make foolish accusations against you. "
+      comments: []
+    - title: 
+      content: "For you are free, yet you are God\u2019s slaves, so don\u2019t use
+        your freedom as an excuse to do evil. "
+      comments: []
+    - title: 
+      content: 'Respect everyone, and love the family of believers.[COMMENT[0]] Fear
+        God, and respect the king.  '
+      comments:
+      - number: '2:17 '
+        contents:
+        - ft: 'Greek '
+          body: love the brotherhood.
+    - title: Slaves
+      content: "You who are slaves must submit to your masters with all respect.[COMMENT[0]]
+        Do what they tell you\u2014not only if they are kind and reasonable, but
+        even if they are cruel. "
+      comments:
+      - number: '2:18 '
+        contents:
+        - ft: 'Or '
+          body: 'because you fear God; '
+        - ft: 'Greek reads '
+          body: in all fear.
+    - title: 
+      content: 'For God is pleased when, conscious of his will, you patiently endure
+        unjust treatment. '
+      comments: []
+    - title: 
+      content: 'Of course, you get no credit for being patient if you are beaten
+        for doing wrong. But if you suffer for doing good and endure it patiently,
+        God is pleased with you.  '
+      comments: []
+    - title: 
+      content: 'For God called you to do good, even if it means suffering, just as
+        Christ suffered[COMMENT[0]] for you. He is your example, and you must follow
+        in his steps.  '
+      comments:
+      - number: '2:21 '
+        contents:
+        - ft: 'Some manuscripts read '
+          body: died.
+    - title: 
+      content: "He never sinned,\n\tnor ever deceived anyone.[COMMENT[0]]  "
+      comments:
+      - number: '2:22 '
+        contents:
+        - ft: Isa 53:9.
+          body: 
+    - title: 
+      content: "He did not retaliate when he was insulted,\n\tnor threaten revenge
+        when he suffered.\n\tHe left his case in the hands of God,\n\twho always
+        judges fairly.  "
+      comments: []
+    - title: 
+      content: "He personally carried our sins\n\tin his body on the cross\n\tso
+        that we can be dead to sin\n\tand live for what is right.\n\tBy his wounds\n\tyou
+        are healed.  "
+      comments: []
+    - title: 
+      content: "Once you were like sheep\n\twho wandered away.\n\tBut now you have
+        turned to your Shepherd,\n\tthe Guardian of your souls."
+      comments: []
+  - verses:
+    - title: Wives
+      content: 'In the same way, you wives must accept the authority of your husbands.
+        Then, even if some refuse to obey the Good News, your godly lives will speak
+        to them without any words. They will be won over '
+      comments: []
+    - title: 
+      content: 'by observing your pure and reverent lives.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t be concerned about the outward beauty of fancy hairstyles,
+        expensive jewelry, or beautiful clothes. "
+      comments: []
+    - title: 
+      content: 'You should clothe yourselves instead with the beauty that comes from
+        within, the unfading beauty of a gentle and quiet spirit, which is so precious
+        to God. '
+      comments: []
+    - title: 
+      content: 'This is how the holy women of old made themselves beautiful. They
+        put their trust in God and accepted the authority of their husbands. '
+      comments: []
+    - title: 
+      content: 'For instance, Sarah obeyed her husband, Abraham, and called him her
+        master. You are her daughters when you do what is right without fear of what
+        your husbands might do.  '
+      comments: []
+    - title: Husbands
+      content: "In the same way, you husbands must give honor to your wives. Treat
+        your wife with understanding as you live together. She may be weaker than
+        you are, but she is your equal partner in God\u2019s gift of new life. Treat
+        her as you should so your prayers will not be hindered.  "
+      comments: []
+    - title: All Christians
+      content: 'Finally, all of you should be of one mind. Sympathize with each other.
+        Love each other as brothers and sisters.[COMMENT[0]] Be tenderhearted, and
+        keep a humble attitude. '
+      comments:
+      - number: '3:8 '
+        contents:
+        - ft: 'Greek '
+          body: Show brotherly love.
+    - title: 
+      content: "Don\u2019t repay evil for evil. Don\u2019t retaliate with insults
+        when people insult you. Instead, pay them back with a blessing. That is what
+        God has called you to do, and he will grant you his blessing. "
+      comments: []
+    - title: 
+      content: "For the Scriptures say,\n\t\u201CIf you want to enjoy life\n\tand
+        see many happy days,\n\tkeep your tongue from speaking evil\n\tand your lips
+        from telling lies.  "
+      comments: []
+    - title: 
+      content: "Turn away from evil and do good.\n\tSearch for peace, and work to
+        maintain it.  "
+      comments: []
+    - title: 
+      content: "The eyes of the <smallcaps>Lord</smallcaps> watch over those who
+        do right,\n\tand his ears are open to their prayers.\n\tBut the <smallcaps>Lord</smallcaps>
+        turns his face\n\tagainst those who do evil.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '3:10-12 '
+        contents:
+        - ft: Ps 34:12-16.
+          body: 
+    - title: Suffering for Doing Good
+      content: 'Now, who will want to harm you if you are eager to do good? '
+      comments: []
+    - title: 
+      content: "But even if you suffer for doing what is right, God will reward you
+        for it. So don\u2019t worry or be afraid of their threats. "
+      comments: []
+    - title: 
+      content: 'Instead, you must worship Christ as Lord of your life. And if someone
+        asks about your hope as a believer, always be ready to explain it. '
+      comments: []
+    - title: 
+      content: 'But do this in a gentle and respectful way.[COMMENT[0]] Keep your
+        conscience clear. Then if people speak against you, they will be ashamed
+        when they see what a good life you live because you belong to Christ. '
+      comments:
+      - number: '3:16 '
+        contents:
+        - ft: Some English translations put this sentence in verse 15.
+          body: 
+    - title: 
+      content: 'Remember, it is better to suffer for doing good, if that is what
+        God wants, than to suffer for doing wrong!  '
+      comments: []
+    - title: 
+      content: 'Christ suffered[COMMENT[0]] for our sins once for all time. He never
+        sinned, but he died for sinners to bring you safely home to God. He suffered
+        physical death, but he was raised to life in the Spirit.[COMMENT[1]]  '
+      comments:
+      - number: '3:18a '
+        contents:
+        - ft: 'Some manuscripts read '
+          body: died.
+      - number: '3:18b '
+        contents:
+        - ft: 'Or '
+          body: in spirit.
+    - title: 
+      content: "So he went and preached to the spirits in prison\u2014 "
+      comments: []
+    - title: 
+      content: 'those who disobeyed God long ago when God waited patiently while
+        Noah was building his boat. Only eight people were saved from drowning in
+        that terrible flood.[COMMENT[0]]  '
+      comments:
+      - number: '3:20 '
+        contents:
+        - ft: 'Greek '
+          body: saved through water.
+    - title: 
+      content: 'And that water is a picture of baptism, which now saves you, not
+        by removing dirt from your body, but as a response to God from[COMMENT[0]]
+        a clean conscience. It is effective because of the resurrection of Jesus
+        Christ.  '
+      comments:
+      - number: '3:21 '
+        contents:
+        - ft: 'Or '
+          body: as an appeal to God for.
+    - title: 
+      content: Now Christ has gone to heaven. He is seated in the place of honor
+        next to God, and all the angels and authorities and powers accept his authority.
+      comments: []
+  - verses:
+    - title: Living for God
+      content: 'So then, since Christ suffered physical pain, you must arm yourselves
+        with the same attitude he had, and be ready to suffer, too. For if you have
+        suffered physically for Christ, you have finished with sin.[COMMENT[0]]  '
+      comments:
+      - number: '4:1 '
+        contents:
+        - ft: 'Or '
+          body: 'For the one '
+        - ft: '[or '
+          body: One
+        - ft: '] '
+          body: who has suffered physically has finished with sin.
+    - title: 
+      content: "You won\u2019t spend the rest of your lives chasing your own desires,
+        but you will be anxious to do the will of God. "
+      comments: []
+    - title: 
+      content: "You have had enough in the past of the evil things that godless people
+        enjoy\u2014their immorality and lust, their feasting and drunkenness and
+        wild parties, and their terrible worship of idols.  "
+      comments: []
+    - title: 
+      content: 'Of course, your former friends are surprised when you no longer plunge
+        into the flood of wild and destructive things they do. So they slander you. '
+      comments: []
+    - title: 
+      content: 'But remember that they will have to face God, who stands ready to
+        judge everyone, both the living and the dead. '
+      comments: []
+    - title: 
+      content: "That is why the Good News was preached to those who are now dead[COMMENT[0]]\u2014so
+        although they were destined to die like all people,[COMMENT[1]] they now
+        live forever with God in the Spirit.[COMMENT[2]]  "
+      comments:
+      - number: '4:6a '
+        contents:
+        - ft: 'Greek '
+          body: preached even to the dead.
+      - number: '4:6b '
+        contents:
+        - ft: 'Or '
+          body: so although people had judged them worthy of death.
+      - number: '4:6c '
+        contents:
+        - ft: 'Or '
+          body: in spirit.
+    - title: 
+      content: 'The end of the world is coming soon. Therefore, be earnest and disciplined
+        in your prayers. '
+      comments: []
+    - title: 
+      content: 'Most important of all, continue to show deep love for each other,
+        for love covers a multitude of sins. '
+      comments: []
+    - title: 
+      content: 'Cheerfully share your home with those who need a meal or a place
+        to stay.  '
+      comments: []
+    - title: 
+      content: 'God has given each of you a gift from his great variety of spiritual
+        gifts. Use them well to serve one another. '
+      comments: []
+    - title: 
+      content: 'Do you have the gift of speaking? Then speak as though God himself
+        were speaking through you. Do you have the gift of helping others? Do it
+        with all the strength and energy that God supplies. Then everything you do
+        will bring glory to God through Jesus Christ. All glory and power to him
+        forever and ever! Amen.  '
+      comments: []
+    - title: Suffering for Being a Christian
+      content: "Dear friends, don\u2019t be surprised at the fiery trials you are
+        going through, as if something strange were happening to you. "
+      comments: []
+    - title: 
+      content: "Instead, be very glad\u2014for these trials make you partners with
+        Christ in his suffering, so that you will have the wonderful joy of seeing
+        his glory when it is revealed to all the world.  "
+      comments: []
+    - title: 
+      content: 'If you are insulted because you bear the name of Christ, you will
+        be blessed, for the glorious Spirit of God[COMMENT[0]] rests upon you.[COMMENT[1]]  '
+      comments:
+      - number: '4:14a '
+        contents:
+        - ft: 'Or '
+          body: for the glory of God, which is his Spirit.
+      - number: '4:14b '
+        contents:
+        - ft: 'Some manuscripts add '
+          body: On their part he is blasphemed, but on your part he is glorified.
+    - title: 
+      content: "If you suffer, however, it must not be for murder, stealing, making
+        trouble, or prying into other people\u2019s affairs. "
+      comments: []
+    - title: 
+      content: 'But it is no shame to suffer for being a Christian. Praise God for
+        the privilege of being called by his name! '
+      comments: []
+    - title: 
+      content: "For the time has come for judgment, and it must begin with God\u2019s
+        household. And if judgment begins with us, what terrible fate awaits those
+        who have never obeyed God\u2019s Good News? "
+      comments: []
+    - title: 
+      content: "And also,\n\t\u201CIf the righteous are barely saved,\n\twhat will
+        happen to godless sinners?\u201D[COMMENT[0]]  "
+      comments:
+      - number: '4:18 '
+        contents:
+        - ft: Prov 11:31 (Greek version).
+          body: 
+    - title: 
+      content: So if you are suffering in a manner that pleases God, keep on doing
+        what is right, and trust your lives to the God who created you, for he will
+        never fail you.
+      comments: []
+  - verses:
+    - title: Advice for Elders and Young Men
+      content: 'And now, a word to you who are elders in the churches. I, too, am
+        an elder and a witness to the sufferings of Christ. And I, too, will share
+        in his glory when he is revealed to the whole world. As a fellow elder, I
+        appeal to you: '
+      comments: []
+    - title: 
+      content: "Care for the flock that God has entrusted to you. Watch over it willingly,
+        not grudgingly\u2014not for what you will get out of it, but because you
+        are eager to serve God. "
+      comments: []
+    - title: 
+      content: "Don\u2019t lord it over the people assigned to your care, but lead
+        them by your own good example. "
+      comments: []
+    - title: 
+      content: 'And when the Great Shepherd appears, you will receive a crown of
+        never-ending glory and honor.  '
+      comments: []
+    - title: 
+      content: "In the same way, you who are younger must accept the authority of
+        the elders. And all of you, dress yourselves in humility as you relate to
+        one another, for\n\t\u201CGod opposes the proud\n\tbut gives grace to the
+        humble.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '5:5 '
+        contents:
+        - ft: Prov 3:34 (Greek version).
+          body: 
+    - title: 
+      content: 'So humble yourselves under the mighty power of God, and at the right
+        time he will lift you up in honor. '
+      comments: []
+    - title: 
+      content: 'Give all your worries and cares to God, for he cares about you.  '
+      comments: []
+    - title: 
+      content: 'Stay alert! Watch out for your great enemy, the devil. He prowls
+        around like a roaring lion, looking for someone to devour. '
+      comments: []
+    - title: 
+      content: 'Stand firm against him, and be strong in your faith. Remember that
+        your family of believers[COMMENT[0]] all over the world is going through
+        the same kind of suffering you are.  '
+      comments:
+      - number: '5:9 '
+        contents:
+        - ft: 'Greek '
+          body: your brotherhood.
+    - title: 
+      content: 'In his kindness God called you to share in his eternal glory by means
+        of Christ Jesus. So after you have suffered a little while, he will restore,
+        support, and strengthen you, and he will place you on a firm foundation. '
+      comments: []
+    - title: 
+      content: 'All power to him forever! Amen.  '
+      comments: []
+    - title: "Peter\u2019s Final Greetings"
+      content: "I have written and sent this short letter to you with the help of
+        Silas,[COMMENT[0]] whom I commend to you as a faithful brother. My purpose
+        in writing is to encourage you and assure you that what you are experiencing
+        is truly part of God\u2019s grace for you. Stand firm in this grace.  "
+      comments:
+      - number: '5:12 '
+        contents:
+        - ft: 'Greek '
+          body: Silvanus.
+    - title: 
+      content: 'Your sister church here in Babylon[COMMENT[0]] sends you greetings,
+        and so does my son Mark. '
+      comments:
+      - number: '5:13 '
+        contents:
+        - ft: 'Greek '
+          body: 'The elect one in Babylon. '
+        - ft: Babylon was probably symbolic for Rome.
+          body: 
+    - title: 
+      content: "Greet each other with a kiss of love.\n\tPeace be with all of you
+        who are in Christ."
+      comments: []

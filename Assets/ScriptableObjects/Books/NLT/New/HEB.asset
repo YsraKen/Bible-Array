@@ -1,0 +1,1787 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: HEB
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Hebrews
+  fancyName: 
+  nickname: heb
+  language: English
+  lang: eng
+  version: New Living Translation
+  ver: NLT
+  description: 
+  chapters:
+  - verses:
+    - title: "Jesus Christ Is God\u2019s Son"
+      content: 'Long ago God spoke many times and in many ways to our ancestors through
+        the prophets. '
+      comments: []
+    - title: 
+      content: 'And now in these final days, he has spoken to us through his Son.
+        God promised everything to the Son as an inheritance, and through the Son
+        he created the universe. '
+      comments: []
+    - title: 
+      content: "The Son radiates God\u2019s own glory and expresses the very character
+        of God, and he sustains everything by the mighty power of his command. When
+        he had cleansed us from our sins, he sat down in the place of honor at the
+        right hand of the majestic God in heaven. "
+      comments: []
+    - title: 
+      content: 'This shows that the Son is far greater than the angels, just as the
+        name God gave him is greater than their names.  '
+      comments: []
+    - title: The Son Is Greater Than the Angels
+      content: "For God never said to any angel what he said to Jesus:\n\t\u201CYou
+        are my Son.\n\tToday I have become your Father.[COMMENT[0]]\u201D\n\tGod
+        also said,\n\t\u201CI will be his Father,\n\tand he will be my Son.\u201D[COMMENT[1]]  "
+      comments:
+      - number: '1:5a '
+        contents:
+        - ft: 'Or '
+          body: 'Today I reveal you as my Son. '
+        - ft: Ps 2:7.
+          body: 
+      - number: '1:5b '
+        contents:
+        - ft: 2 Sam 7:14.
+          body: 
+    - title: 
+      content: "And when he brought his supreme[COMMENT[0]] Son into the world, God
+        said,[COMMENT[1]]\u201CLet all of God\u2019s angels worship him.\u201D[COMMENT[2]]  "
+      comments:
+      - number: '1:6a '
+        contents:
+        - ft: 'Or '
+          body: firstborn.
+      - number: '1:6b '
+        contents:
+        - ft: 'Or '
+          body: 'when he again brings his supreme Son '
+        - ft: '[or '
+          body: firstborn Son
+        - ft: '] '
+          body: into the world, God will say.
+      - number: '1:6c '
+        contents:
+        - ft: Deut 32:43.
+          body: 
+    - title: 
+      content: "Regarding the angels, he says,\n\t\u201CHe sends his angels like
+        the winds,\n\this servants like flames of fire.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '1:7 '
+        contents:
+        - ft: Ps 104:4 (Greek version).
+          body: 
+    - title: 
+      content: "But to the Son he says,\n\t\u201CYour throne, O God, endures forever
+        and ever.\n\tYou rule with a scepter of justice.  "
+      comments: []
+    - title: 
+      content: "You love justice and hate evil.\n\tTherefore, O God, your God has
+        anointed you,\n\tpouring out the oil of joy on you more than on anyone else.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '1:8-9 '
+        contents:
+        - ft: Ps 45:6-7.
+          body: 
+    - title: 
+      content: "He also says to the Son,\n\t\u201CIn the beginning, Lord, you laid
+        the foundation of the earth\n\tand made the heavens with your hands.  "
+      comments: []
+    - title: 
+      content: "They will perish, but you remain forever.\n\tThey will wear out like
+        old clothing.  "
+      comments: []
+    - title: 
+      content: "You will fold them up like a cloak\n\tand discard them like old clothing.\n\tBut
+        you are always the same;\n\tyou will live forever.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '1:10-12 '
+        contents:
+        - ft: Ps 102:25-27.
+          body: 
+    - title: 
+      content: "And God never said to any of the angels,\n\t\u201CSit in the place
+        of honor at my right hand\n\tuntil I humble your enemies,\n\tmaking them
+        a footstool under your feet.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '1:13 '
+        contents:
+        - ft: Ps 110:1.
+          body: 
+    - title: 
+      content: "Therefore, angels are only servants\u2014spirits sent to care for
+        people who will inherit salvation."
+      comments: []
+  - verses:
+    - title: A Warning against Drifting Away
+      content: 'So we must listen very carefully to the truth we have heard, or we
+        may drift away from it. '
+      comments: []
+    - title: 
+      content: 'For the message God delivered through angels has always stood firm,
+        and every violation of the law and every act of disobedience was punished. '
+      comments: []
+    - title: 
+      content: 'So what makes us think we can escape if we ignore this great salvation
+        that was first announced by the Lord Jesus himself and then delivered to
+        us by those who heard him speak? '
+      comments: []
+    - title: 
+      content: 'And God confirmed the message by giving signs and wonders and various
+        miracles and gifts of the Holy Spirit whenever he chose.  '
+      comments: []
+    - title: Jesus, the Man
+      content: 'And furthermore, it is not angels who will control the future world
+        we are talking about. '
+      comments: []
+    - title: 
+      content: "For in one place the Scriptures say,\n\t\u201CWhat are mere mortals
+        that you should think about them,\n\tor a son of man[COMMENT[0]] that you
+        should care for him?  "
+      comments:
+      - number: '2:6 '
+        contents:
+        - ft: 'Or '
+          body: the Son of Man.
+    - title: 
+      content: "Yet for a little while you made them a little lower than the angels\n\tand
+        crowned them with glory and honor.[COMMENT[0]]  "
+      comments:
+      - number: '2:7 '
+        contents:
+        - ft: 'Some manuscripts add '
+          body: You gave them charge of everything you made.
+    - title: 
+      content: "You gave them authority over all things.\u201D[COMMENT[0]]Now when
+        it says \u201Call things,\u201D it means nothing is left out. But we have
+        not yet seen all things put under their authority. "
+      comments:
+      - number: '2:6-8 '
+        contents:
+        - ft: Ps 8:4-6 (Greek version).
+          body: 
+    - title: 
+      content: "What we do see is Jesus, who for a little while was given a position
+        \u201Ca little lower than the angels\u201D; and because he suffered death
+        for us, he is now \u201Ccrowned with glory and honor.\u201D Yes, by God\u2019s
+        grace, Jesus tasted death for everyone. "
+      comments: []
+    - title: 
+      content: 'God, for whom and through whom everything was made, chose to bring
+        many children into glory. And it was only right that he should make Jesus,
+        through his suffering, a perfect leader, fit to bring them into their salvation.  '
+      comments: []
+    - title: 
+      content: 'So now Jesus and the ones he makes holy have the same Father. That
+        is why Jesus is not ashamed to call them his brothers and sisters.[COMMENT[0]]  '
+      comments:
+      - number: '2:11 '
+        contents:
+        - ft: 'Greek '
+          body: 'brothers; '
+        - ft: also in 2:12.
+          body: 
+    - title: 
+      content: "For he said to God,\n\t\u201CI will proclaim your name to my brothers
+        and sisters.\n\tI will praise you among your assembled people.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '2:12 '
+        contents:
+        - ft: Ps 22:22.
+          body: 
+    - title: 
+      content: "He also said,\n\t\u201CI will put my trust in him,\u201D\n\tthat
+        is, \u201CI and the children God has given me.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '2:13 '
+        contents:
+        - ft: Isa 8:17-18.
+          body: 
+    - title: 
+      content: "Because God\u2019s children are human beings\u2014made of flesh and
+        blood\u2014the Son also became flesh and blood. For only as a human being
+        could he die, and only by dying could he break the power of the devil, who
+        had[COMMENT[0]] the power of death. "
+      comments:
+      - number: '2:14 '
+        contents:
+        - ft: 'Or '
+          body: has.
+    - title: 
+      content: 'Only in this way could he set free all who have lived their lives
+        as slaves to the fear of dying.  '
+      comments: []
+    - title: 
+      content: 'We also know that the Son did not come to help angels; he came to
+        help the descendants of Abraham. '
+      comments: []
+    - title: 
+      content: 'Therefore, it was necessary for him to be made in every respect like
+        us, his brothers and sisters,[COMMENT[0]] so that he could be our merciful
+        and faithful High Priest before God. Then he could offer a sacrifice that
+        would take away the sins of the people. '
+      comments:
+      - number: '2:17 '
+        contents:
+        - ft: 'Greek '
+          body: like the brothers.
+    - title: 
+      content: Since he himself has gone through suffering and testing, he is able
+        to help us when we are being tested.
+      comments: []
+  - verses:
+    - title: Jesus Is Greater Than Moses
+      content: "And so, dear brothers and sisters who belong to God and[COMMENT[0]]
+        are partners with those called to heaven, think carefully about this Jesus
+        whom we declare to be God\u2019s messenger[COMMENT[1]] and High Priest. "
+      comments:
+      - number: '3:1a '
+        contents:
+        - ft: 'Greek '
+          body: And so, holy brothers who.
+      - number: '3:1b '
+        contents:
+        - ft: 'Greek '
+          body: "God\u2019s apostle."
+    - title: 
+      content: "For he was faithful to God, who appointed him, just as Moses served
+        faithfully when he was entrusted with God\u2019s entire[COMMENT[0]] house.  "
+      comments:
+      - number: '3:2 '
+        contents:
+        - ft: 'Some manuscripts do not include '
+          body: entire.
+    - title: 
+      content: 'But Jesus deserves far more glory than Moses, just as a person who
+        builds a house deserves more praise than the house itself. '
+      comments: []
+    - title: 
+      content: 'For every house has a builder, but the one who built everything is
+        God.  '
+      comments: []
+    - title: 
+      content: "Moses was certainly faithful in God\u2019s house as a servant. His
+        work was an illustration of the truths God would reveal later. "
+      comments: []
+    - title: 
+      content: "But Christ, as the Son, is in charge of God\u2019s entire house.
+        And we are God\u2019s house, if we keep our courage and remain confident
+        in our hope in Christ.[COMMENT[0]]  "
+      comments:
+      - number: '3:6 '
+        contents:
+        - ft: 'Some manuscripts add '
+          body: faithful to the end.
+    - title: 
+      content: "That is why the Holy Spirit says,\n\t\u201CToday when you hear his
+        voice,  "
+      comments: []
+    - title: 
+      content: "don\u2019t harden your hearts\n\tas Israel did when they rebelled,\n\twhen
+        they tested me in the wilderness.  "
+      comments: []
+    - title: 
+      content: "There your ancestors tested and tried my patience,\n\teven though
+        they saw my miracles for forty years.  "
+      comments: []
+    - title: 
+      content: "So I was angry with them, and I said,\n\t\u2018Their hearts always
+        turn away from me.\n\tThey refuse to do what I tell them.\u2019  "
+      comments: []
+    - title: 
+      content: "So in my anger I took an oath:\n\t\u2018They will never enter my
+        place of rest.\u2019\u201D[COMMENT[0]]  "
+      comments:
+      - number: '3:7-11 '
+        contents:
+        - ft: Ps 95:7-11.
+          body: 
+    - title: 
+      content: 'Be careful then, dear brothers and sisters.[COMMENT[0]] Make sure
+        that your own hearts are not evil and unbelieving, turning you away from
+        the living God. '
+      comments:
+      - number: '3:12 '
+        contents:
+        - ft: 'Greek '
+          body: brothers.
+    - title: 
+      content: "You must warn each other every day, while it is still \u201Ctoday,\u201D
+        so that none of you will be deceived by sin and hardened against God. "
+      comments: []
+    - title: 
+      content: 'For if we are faithful to the end, trusting God just as firmly as
+        when we first believed, we will share in all that belongs to Christ. '
+      comments: []
+    - title: 
+      content: "Remember what it says:\n\t\u201CToday when you hear his voice,\n\tdon\u2019t
+        harden your hearts\n\tas Israel did when they rebelled.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '3:15 '
+        contents:
+        - ft: Ps 95:7-8.
+          body: 
+    - title: 
+      content: "And who was it who rebelled against God, even though they heard his
+        voice? Wasn\u2019t it the people Moses led out of Egypt? "
+      comments: []
+    - title: 
+      content: "And who made God angry for forty years? Wasn\u2019t it the people
+        who sinned, whose corpses lay in the wilderness? "
+      comments: []
+    - title: 
+      content: "And to whom was God speaking when he took an oath that they would
+        never enter his rest? Wasn\u2019t it the people who disobeyed him? "
+      comments: []
+    - title: 
+      content: So we see that because of their unbelief they were not able to enter
+        his rest.
+      comments: []
+  - verses:
+    - title: "Promised Rest for God\u2019s People"
+      content: "God\u2019s promise of entering his rest still stands, so we ought
+        to tremble with fear that some of you might fail to experience it. "
+      comments: []
+    - title: 
+      content: "For this good news\u2014that God has prepared this rest\u2014has
+        been announced to us just as it was to them. But it did them no good because
+        they didn\u2019t share the faith of those who listened to God.[COMMENT[0]]  "
+      comments:
+      - number: '4:2 '
+        contents:
+        - ft: 'Some manuscripts read '
+          body: "they didn\u2019t combine what they heard with faith."
+    - title: 
+      content: "For only we who believe can enter his rest. As for the others, God
+        said,\n\t\u201CIn my anger I took an oath:\n\t\u2018They will never enter
+        my place of rest,\u2019\u201D[COMMENT[0]]even though this rest has been ready
+        since he made the world. "
+      comments:
+      - number: '4:3 '
+        contents:
+        - ft: Ps 95:11.
+          body: 
+    - title: 
+      content: "We know it is ready because of the place in the Scriptures where
+        it mentions the seventh day: \u201COn the seventh day God rested from all
+        his work.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '4:4 '
+        contents:
+        - ft: Gen 2:2.
+          body: 
+    - title: 
+      content: "But in the other passage God said, \u201CThey will never enter my
+        place of rest.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '4:5 '
+        contents:
+        - ft: Ps 95:11.
+          body: 
+    - title: 
+      content: "So God\u2019s rest is there for people to enter, but those who first
+        heard this good news failed to enter because they disobeyed God. "
+      comments: []
+    - title: 
+      content: "So God set another time for entering his rest, and that time is today.
+        God announced this through David much later in the words already quoted:\n\t\u201CToday
+        when you hear his voice,\n\tdon\u2019t harden your hearts.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '4:7 '
+        contents:
+        - ft: Ps 95:7-8.
+          body: 
+    - title: 
+      content: 'Now if Joshua had succeeded in giving them this rest, God would not
+        have spoken about another day of rest still to come. '
+      comments: []
+    - title: 
+      content: 'So there is a special rest[COMMENT[0]] still waiting for the people
+        of God. '
+      comments:
+      - number: '4:9 '
+        contents:
+        - ft: 'Or '
+          body: a Sabbath rest.
+    - title: 
+      content: "For all who have entered into God\u2019s rest have rested from their
+        labors, just as God did after creating the world. "
+      comments: []
+    - title: 
+      content: 'So let us do our best to enter that rest. But if we disobey God,
+        as the people of Israel did, we will fall.  '
+      comments: []
+    - title: 
+      content: 'For the word of God is alive and powerful. It is sharper than the
+        sharpest two-edged sword, cutting between soul and spirit, between joint
+        and marrow. It exposes our innermost thoughts and desires. '
+      comments: []
+    - title: 
+      content: 'Nothing in all creation is hidden from God. Everything is naked and
+        exposed before his eyes, and he is the one to whom we are accountable.  '
+      comments: []
+    - title: Christ Is Our High Priest
+      content: 'So then, since we have a great High Priest who has entered heaven,
+        Jesus the Son of God, let us hold firmly to what we believe. '
+      comments: []
+    - title: 
+      content: 'This High Priest of ours understands our weaknesses, for he faced
+        all of the same testings we do, yet he did not sin. '
+      comments: []
+    - title: 
+      content: So let us come boldly to the throne of our gracious God. There we
+        will receive his mercy, and we will find grace to help us when we need it
+        most.
+      comments: []
+  - verses:
+    - title: 
+      content: 'Every high priest is a man chosen to represent other people in their
+        dealings with God. He presents their gifts to God and offers sacrifices for
+        their sins. '
+      comments: []
+    - title: 
+      content: 'And he is able to deal gently with ignorant and wayward people because
+        he himself is subject to the same weaknesses. '
+      comments: []
+    - title: 
+      content: 'That is why he must offer sacrifices for his own sins as well as
+        theirs.  '
+      comments: []
+    - title: 
+      content: 'And no one can become a high priest simply because he wants such
+        an honor. He must be called by God for this work, just as Aaron was. '
+      comments: []
+    - title: 
+      content: "That is why Christ did not honor himself by assuming he could become
+        High Priest. No, he was chosen by God, who said to him,\n\t\u201CYou are
+        my Son.\n\tToday I have become your Father.[COMMENT[0]]\u201D  "
+      comments:
+      - number: '5:5 '
+        contents:
+        - ft: 'Or '
+          body: 'Today I reveal you as my Son. '
+        - ft: Ps 2:7.
+          body: 
+    - title: 
+      content: "And in another passage God said to him,\n\t\u201CYou are a priest
+        forever in the order of Melchizedek.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '5:6 '
+        contents:
+        - ft: Ps 110:4.
+          body: 
+    - title: 
+      content: 'While Jesus was here on earth, he offered prayers and pleadings,
+        with a loud cry and tears, to the one who could rescue him from death. And
+        God heard his prayers because of his deep reverence for God. '
+      comments: []
+    - title: 
+      content: "Even though Jesus was God\u2019s Son, he learned obedience from the
+        things he suffered. "
+      comments: []
+    - title: 
+      content: 'In this way, God qualified him as a perfect High Priest, and he became
+        the source of eternal salvation for all those who obey him. '
+      comments: []
+    - title: 
+      content: 'And God designated him to be a High Priest in the order of Melchizedek.  '
+      comments: []
+    - title: A Call to Spiritual Growth
+      content: "There is much more we would like to say about this, but it is difficult
+        to explain, especially since you are spiritually dull and don\u2019t seem
+        to listen. "
+      comments: []
+    - title: 
+      content: "You have been believers so long now that you ought to be teaching
+        others. Instead, you need someone to teach you again the basic things about
+        God\u2019s word.[COMMENT[0]] You are like babies who need milk and cannot
+        eat solid food. "
+      comments:
+      - number: '5:12 '
+        contents:
+        - ft: 'Or '
+          body: about the oracles of God.
+    - title: 
+      content: "For someone who lives on milk is still an infant and doesn\u2019t
+        know how to do what is right. "
+      comments: []
+    - title: 
+      content: Solid food is for those who are mature, who through training have
+        the skill to recognize the difference between right and wrong.
+      comments: []
+  - verses:
+    - title: 
+      content: "So let us stop going over the basic teachings about Christ again
+        and again. Let us go on instead and become mature in our understanding. Surely
+        we don\u2019t need to start again with the fundamental importance of repenting
+        from evil deeds[COMMENT[0]] and placing our faith in God. "
+      comments:
+      - number: '6:1 '
+        contents:
+        - ft: 'Greek '
+          body: from dead works.
+    - title: 
+      content: "You don\u2019t need further instruction about baptisms, the laying
+        on of hands, the resurrection of the dead, and eternal judgment. "
+      comments: []
+    - title: 
+      content: 'And so, God willing, we will move forward to further understanding.  '
+      comments: []
+    - title: 
+      content: "For it is impossible to bring back to repentance those who were once
+        enlightened\u2014those who have experienced the good things of heaven and
+        shared in the Holy Spirit, "
+      comments: []
+    - title: 
+      content: "who have tasted the goodness of the word of God and the power of
+        the age to come\u2014 "
+      comments: []
+    - title: 
+      content: 'and who then turn away from God. It is impossible to bring such people
+        back to repentance; by rejecting the Son of God, they themselves are nailing
+        him to the cross once again and holding him up to public shame.  '
+      comments: []
+    - title: 
+      content: "When the ground soaks up the falling rain and bears a good crop for
+        the farmer, it has God\u2019s blessing. "
+      comments: []
+    - title: 
+      content: 'But if a field bears thorns and thistles, it is useless. The farmer
+        will soon condemn that field and burn it.  '
+      comments: []
+    - title: 
+      content: "Dear friends, even though we are talking this way, we really don\u2019t
+        believe it applies to you. We are confident that you are meant for better
+        things, things that come with salvation. "
+      comments: []
+    - title: 
+      content: 'For God is not unjust. He will not forget how hard you have worked
+        for him and how you have shown your love to him by caring for other believers,[COMMENT[0]]
+        as you still do. '
+      comments:
+      - number: '6:10 '
+        contents:
+        - ft: 'Greek '
+          body: "for God\u2019s holy people."
+    - title: 
+      content: 'Our great desire is that you will keep on loving others as long as
+        life lasts, in order to make certain that what you hope for will come true. '
+      comments: []
+    - title: 
+      content: "Then you will not become spiritually dull and indifferent. Instead,
+        you will follow the example of those who are going to inherit God\u2019s
+        promises because of their faith and endurance.  "
+      comments: []
+    - title: "God\u2019s Promises Bring Hope"
+      content: "For example, there was God\u2019s promise to Abraham. Since there
+        was no one greater to swear by, God took an oath in his own name, saying:  "
+      comments: []
+    - title: 
+      content: "\u201CI will certainly bless you,\n\tand I will multiply your descendants
+        beyond number.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '6:14 '
+        contents:
+        - ft: Gen 22:17.
+          body: 
+    - title: 
+      content: 'Then Abraham waited patiently, and he received what God had promised.  '
+      comments: []
+    - title: 
+      content: 'Now when people take an oath, they call on someone greater than themselves
+        to hold them to it. And without any question that oath is binding. '
+      comments: []
+    - title: 
+      content: 'God also bound himself with an oath, so that those who received the
+        promise could be perfectly sure that he would never change his mind. '
+      comments: []
+    - title: 
+      content: 'So God has given both his promise and his oath. These two things
+        are unchangeable because it is impossible for God to lie. Therefore, we who
+        have fled to him for refuge can have great confidence as we hold to the hope
+        that lies before us. '
+      comments: []
+    - title: 
+      content: "This hope is a strong and trustworthy anchor for our souls. It leads
+        us through the curtain into God\u2019s inner sanctuary. "
+      comments: []
+    - title: 
+      content: Jesus has already gone in there for us. He has become our eternal
+        High Priest in the order of Melchizedek.
+      comments: []
+  - verses:
+    - title: Melchizedek Is Greater Than Abraham
+      content: 'This Melchizedek was king of the city of Salem and also a priest
+        of God Most High. When Abraham was returning home after winning a great battle
+        against the kings, Melchizedek met him and blessed him. '
+      comments: []
+    - title: 
+      content: "Then Abraham took a tenth of all he had captured in battle and gave
+        it to Melchizedek. The name Melchizedek means \u201Cking of justice,\u201D
+        and king of Salem means \u201Cking of peace.\u201D "
+      comments: []
+    - title: 
+      content: "There is no record of his father or mother or any of his ancestors\u2014no
+        beginning or end to his life. He remains a priest forever, resembling the
+        Son of God.  "
+      comments: []
+    - title: 
+      content: 'Consider then how great this Melchizedek was. Even Abraham, the great
+        patriarch of Israel, recognized this by giving him a tenth of what he had
+        taken in battle. '
+      comments: []
+    - title: 
+      content: 'Now the law of Moses required that the priests, who are descendants
+        of Levi, must collect a tithe from the rest of the people of Israel,[COMMENT[0]]
+        who are also descendants of Abraham. '
+      comments:
+      - number: '7:5 '
+        contents:
+        - ft: 'Greek '
+          body: from their brothers.
+    - title: 
+      content: 'But Melchizedek, who was not a descendant of Levi, collected a tenth
+        from Abraham. And Melchizedek placed a blessing upon Abraham, the one who
+        had already received the promises of God. '
+      comments: []
+    - title: 
+      content: 'And without question, the person who has the power to give a blessing
+        is greater than the one who is blessed.  '
+      comments: []
+    - title: 
+      content: 'The priests who collect tithes are men who die, so Melchizedek is
+        greater than they are, because we are told that he lives on. '
+      comments: []
+    - title: 
+      content: "In addition, we might even say that these Levites\u2014the ones who
+        collect the tithe\u2014paid a tithe to Melchizedek when their ancestor Abraham
+        paid a tithe to him. "
+      comments: []
+    - title: 
+      content: "For although Levi wasn\u2019t born yet, the seed from which he came
+        was in Abraham\u2019s body when Melchizedek collected the tithe from him.  "
+      comments: []
+    - title: 
+      content: 'So if the priesthood of Levi, on which the law was based, could have
+        achieved the perfection God intended, why did God need to establish a different
+        priesthood, with a priest in the order of Melchizedek instead of the order
+        of Levi and Aaron?[COMMENT[0]]  '
+      comments:
+      - number: '7:11 '
+        contents:
+        - ft: 'Greek '
+          body: the order of Aaron?
+    - title: 
+      content: 'And if the priesthood is changed, the law must also be changed to
+        permit it. '
+      comments: []
+    - title: 
+      content: 'For the priest we are talking about belongs to a different tribe,
+        whose members have never served at the altar as priests. '
+      comments: []
+    - title: 
+      content: 'What I mean is, our Lord came from the tribe of Judah, and Moses
+        never mentioned priests coming from that tribe.  '
+      comments: []
+    - title: Jesus Is like Melchizedek
+      content: 'This change has been made very clear since a different priest, who
+        is like Melchizedek, has appeared. '
+      comments: []
+    - title: 
+      content: 'Jesus became a priest, not by meeting the physical requirement of
+        belonging to the tribe of Levi, but by the power of a life that cannot be
+        destroyed. '
+      comments: []
+    - title: 
+      content: "And the psalmist pointed this out when he prophesied,\n\t\u201CYou
+        are a priest forever in the order of Melchizedek.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '7:17 '
+        contents:
+        - ft: Ps 110:4.
+          body: 
+    - title: 
+      content: 'Yes, the old requirement about the priesthood was set aside because
+        it was weak and useless. '
+      comments: []
+    - title: 
+      content: 'For the law never made anything perfect. But now we have confidence
+        in a better hope, through which we draw near to God.  '
+      comments: []
+    - title: 
+      content: "This new system was established with a solemn oath. Aaron\u2019s
+        descendants became priests without such an oath, "
+      comments: []
+    - title: 
+      content: "but there was an oath regarding Jesus. For God said to him,\n\t\u201CThe
+        <smallcaps>Lord</smallcaps> has taken an oath and will not break his vow:\n\t\u2018You
+        are a priest forever.\u2019\u201D[COMMENT[0]]  "
+      comments:
+      - number: '7:21 '
+        contents:
+        - ft: Ps 110:4.
+          body: 
+    - title: 
+      content: 'Because of this oath, Jesus is the one who guarantees this better
+        covenant with God.  '
+      comments: []
+    - title: 
+      content: 'There were many priests under the old system, for death prevented
+        them from remaining in office. '
+      comments: []
+    - title: 
+      content: 'But because Jesus lives forever, his priesthood lasts forever. '
+      comments: []
+    - title: 
+      content: 'Therefore he is able, once and forever, to save[COMMENT[0]] those
+        who come to God through him. He lives forever to intercede with God on their
+        behalf.  '
+      comments:
+      - number: '7:25 '
+        contents:
+        - ft: 'Or '
+          body: is able to save completely.
+    - title: 
+      content: 'He is the kind of high priest we need because he is holy and blameless,
+        unstained by sin. He has been set apart from sinners and has been given the
+        highest place of honor in heaven.[COMMENT[0]]  '
+      comments:
+      - number: '7:26 '
+        contents:
+        - ft: 'Or '
+          body: has been exalted higher than the heavens.
+    - title: 
+      content: "Unlike those other high priests, he does not need to offer sacrifices
+        every day. They did this for their own sins first and then for the sins of
+        the people. But Jesus did this once for all when he offered himself as the
+        sacrifice for the people\u2019s sins. "
+      comments: []
+    - title: 
+      content: The law appointed high priests who were limited by human weakness.
+        But after the law was given, God appointed his Son with an oath, and his
+        Son has been made the perfect High Priest forever.
+      comments: []
+  - verses:
+    - title: Christ Is Our High Priest
+      content: 'Here is the main point: We have a High Priest who sat down in the
+        place of honor beside the throne of the majestic God in heaven. '
+      comments: []
+    - title: 
+      content: 'There he ministers in the heavenly Tabernacle,[COMMENT[0]] the true
+        place of worship that was built by the Lord and not by human hands.  '
+      comments:
+      - number: '8:2 '
+        contents:
+        - ft: 'Or '
+          body: 'tent; '
+        - ft: also in 8:5.
+          body: 
+    - title: 
+      content: 'And since every high priest is required to offer gifts and sacrifices,
+        our High Priest must make an offering, too. '
+      comments: []
+    - title: 
+      content: 'If he were here on earth, he would not even be a priest, since there
+        already are priests who offer the gifts required by the law. '
+      comments: []
+    - title: 
+      content: "They serve in a system of worship that is only a copy, a shadow of
+        the real one in heaven. For when Moses was getting ready to build the Tabernacle,
+        God gave him this warning: \u201CBe sure that you make everything according
+        to the pattern I have shown you here on the mountain.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '8:5 '
+        contents:
+        - ft: Exod 25:40; 26:30.
+          body: 
+    - title: 
+      content: 'But now Jesus, our High Priest, has been given a ministry that is
+        far superior to the old priesthood, for he is the one who mediates for us
+        a far better covenant with God, based on better promises.  '
+      comments: []
+    - title: 
+      content: 'If the first covenant had been faultless, there would have been no
+        need for a second covenant to replace it. '
+      comments: []
+    - title: 
+      content: "But when God found fault with the people, he said:\n\t\u201CThe day
+        is coming, says the <smallcaps>Lord</smallcaps>\n\t,\n\twhen I will make
+        a new covenant\n\twith the people of Israel and Judah.  "
+      comments: []
+    - title: 
+      content: "This covenant will not be like the one\n\tI made with their ancestors\n\twhen
+        I took them by the hand\n\tand led them out of the land of Egypt.\n\tThey
+        did not remain faithful to my covenant,\n\tso I turned my back on them, says
+        the <smallcaps>Lord</smallcaps>\n\t.  "
+      comments: []
+    - title: 
+      content: "But this is the new covenant I will make\n\twith the people of Israel
+        on that day,[COMMENT[0]] says the <smallcaps>Lord</smallcaps>\n\t:\n\tI will
+        put my laws in their minds,\n\tand I will write them on their hearts.\n\tI
+        will be their God,\n\tand they will be my people.  "
+      comments:
+      - number: '8:10 '
+        contents:
+        - ft: 'Greek '
+          body: after those days.
+    - title: 
+      content: "And they will not need to teach their neighbors,\n\tnor will they
+        need to teach their relatives,[COMMENT[0]]saying, \u2018You should know the
+        <smallcaps>Lord</smallcaps>\n\t.\u2019\n\tFor everyone, from the least to
+        the greatest,\n\twill know me already.  "
+      comments:
+      - number: '8:11 '
+        contents:
+        - ft: 'Greek '
+          body: their brother.
+    - title: 
+      content: "And I will forgive their wickedness,\n\tand I will never again remember
+        their sins.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '8:8-12 '
+        contents:
+        - ft: Jer 31:31-34.
+          body: 
+    - title: 
+      content: "When God speaks of a \u201Cnew\u201D covenant, it means he has made
+        the first one obsolete. It is now out of date and will soon disappear."
+      comments: []
+  - verses:
+    - title: Old Rules about Worship
+      content: 'That first covenant between God and Israel had regulations for worship
+        and a place of worship here on earth. '
+      comments: []
+    - title: 
+      content: 'There were two rooms in that Tabernacle.[COMMENT[0]] In the first
+        room were a lampstand, a table, and sacred loaves of bread on the table.
+        This room was called the Holy Place. '
+      comments:
+      - number: '9:2 '
+        contents:
+        - ft: 'Or '
+          body: 'tent; '
+        - ft: also in 9:11, 21.
+          body: 
+    - title: 
+      content: 'Then there was a curtain, and behind the curtain was the second room[COMMENT[0]]
+        called the Most Holy Place. '
+      comments:
+      - number: '9:3 '
+        contents:
+        - ft: 'Greek '
+          body: second tent.
+    - title: 
+      content: "In that room were a gold incense altar and a wooden chest called
+        the Ark of the Covenant, which was covered with gold on all sides. Inside
+        the Ark were a gold jar containing manna, Aaron\u2019s staff that sprouted
+        leaves, and the stone tablets of the covenant. "
+      comments: []
+    - title: 
+      content: "Above the Ark were the cherubim of divine glory, whose wings stretched
+        out over the Ark\u2019s cover, the place of atonement. But we cannot explain
+        these things in detail now.  "
+      comments: []
+    - title: 
+      content: 'When these things were all in place, the priests regularly entered
+        the first room[COMMENT[0]] as they performed their religious duties. '
+      comments:
+      - number: '9:6 '
+        contents:
+        - ft: 'Greek '
+          body: first tent.
+    - title: 
+      content: 'But only the high priest ever entered the Most Holy Place, and only
+        once a year. And he always offered blood for his own sins and for the sins
+        the people had committed in ignorance. '
+      comments: []
+    - title: 
+      content: 'By these regulations the Holy Spirit revealed that the entrance to
+        the Most Holy Place was not freely open as long as the Tabernacle[COMMENT[0]]
+        and the system it represented were still in use.  '
+      comments:
+      - number: '9:8 '
+        contents:
+        - ft: 'Or '
+          body: 'the first room; '
+        - ft: 'Greek reads '
+          body: the first tent.
+    - title: 
+      content: 'This is an illustration pointing to the present time. For the gifts
+        and sacrifices that the priests offer are not able to cleanse the consciences
+        of the people who bring them. '
+      comments: []
+    - title: 
+      content: "For that old system deals only with food and drink and various cleansing
+        ceremonies\u2014physical regulations that were in effect only until a better
+        system could be established.  "
+      comments: []
+    - title: Christ Is the Perfect Sacrifice
+      content: 'So Christ has now become the High Priest over all the good things
+        that have come.[COMMENT[0]] He has entered that greater, more perfect Tabernacle
+        in heaven, which was not made by human hands and is not part of this created
+        world. '
+      comments:
+      - number: '9:11 '
+        contents:
+        - ft: 'Some manuscripts read '
+          body: that are about to come.
+    - title: 
+      content: "With his own blood\u2014not the blood of goats and calves\u2014he
+        entered the Most Holy Place once for all time and secured our redemption
+        forever.  "
+      comments: []
+    - title: 
+      content: "Under the old system, the blood of goats and bulls and the ashes
+        of a heifer could cleanse people\u2019s bodies from ceremonial impurity. "
+      comments: []
+    - title: 
+      content: 'Just think how much more the blood of Christ will purify our consciences
+        from sinful deeds[COMMENT[0]] so that we can worship the living God. For
+        by the power of the eternal Spirit, Christ offered himself to God as a perfect
+        sacrifice for our sins. '
+      comments:
+      - number: '9:14 '
+        contents:
+        - ft: 'Greek '
+          body: from dead works.
+    - title: 
+      content: 'That is why he is the one who mediates a new covenant between God
+        and people, so that all who are called can receive the eternal inheritance
+        God has promised them. For Christ died to set them free from the penalty
+        of the sins they had committed under that first covenant.  '
+      comments: []
+    - title: 
+      content: 'Now when someone leaves a will,[COMMENT[0]] it is necessary to prove
+        that the person who made it is dead.[COMMENT[1]]  '
+      comments:
+      - number: '9:16a '
+        contents:
+        - ft: 'Or '
+          body: 'covenant; '
+        - ft: also in 9:17.
+          body: 
+      - number: '9:16b '
+        contents:
+        - ft: 'Or '
+          body: Now when someone makes a covenant, it is necessary to ratify it with
+            the death of a sacrifice.
+    - title: 
+      content: "The will goes into effect only after the person\u2019s death. While
+        the person who made it is still alive, the will cannot be put into effect.  "
+      comments: []
+    - title: 
+      content: 'That is why even the first covenant was put into effect with the
+        blood of an animal. '
+      comments: []
+    - title: 
+      content: "For after Moses had read each of God\u2019s commandments to all the
+        people, he took the blood of calves and goats,[COMMENT[0]] along with water,
+        and sprinkled both the book of God\u2019s law and all the people, using hyssop
+        branches and scarlet wool. "
+      comments:
+      - number: '9:19 '
+        contents:
+        - ft: 'Some manuscripts do not include '
+          body: and goats.
+    - title: 
+      content: "Then he said, \u201CThis blood confirms the covenant God has made
+        with you.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '9:20 '
+        contents:
+        - ft: Exod 24:8.
+          body: 
+    - title: 
+      content: 'And in the same way, he sprinkled blood on the Tabernacle and on
+        everything used for worship. '
+      comments: []
+    - title: 
+      content: 'In fact, according to the law of Moses, nearly everything was purified
+        with blood. For without the shedding of blood, there is no forgiveness.  '
+      comments: []
+    - title: 
+      content: 'That is why the Tabernacle and everything in it, which were copies
+        of things in heaven, had to be purified by the blood of animals. But the
+        real things in heaven had to be purified with far better sacrifices than
+        the blood of animals.  '
+      comments: []
+    - title: 
+      content: 'For Christ did not enter into a holy place made with human hands,
+        which was only a copy of the true one in heaven. He entered into heaven itself
+        to appear now before God on our behalf. '
+      comments: []
+    - title: 
+      content: 'And he did not enter heaven to offer himself again and again, like
+        the high priest here on earth who enters the Most Holy Place year after year
+        with the blood of an animal. '
+      comments: []
+    - title: 
+      content: 'If that had been necessary, Christ would have had to die again and
+        again, ever since the world began. But now, once for all time, he has appeared
+        at the end of the age[COMMENT[0]] to remove sin by his own death as a sacrifice.  '
+      comments:
+      - number: '9:26 '
+        contents:
+        - ft: 'Greek '
+          body: the ages.
+    - title: 
+      content: 'And just as each person is destined to die once and after that comes
+        judgment, '
+      comments: []
+    - title: 
+      content: so also Christ was offered once for all time as a sacrifice to take
+        away the sins of many people. He will come again, not to deal with our sins,
+        but to bring salvation to all who are eagerly waiting for him.
+      comments: []
+  - verses:
+    - title: "Christ\u2019s Sacrifice Once for All"
+      content: 'The old system under the law of Moses was only a shadow, a dim preview
+        of the good things to come, not the good things themselves. The sacrifices
+        under that system were repeated again and again, year after year, but they
+        were never able to provide perfect cleansing for those who came to worship. '
+      comments: []
+    - title: 
+      content: 'If they could have provided perfect cleansing, the sacrifices would
+        have stopped, for the worshipers would have been purified once for all time,
+        and their feelings of guilt would have disappeared.  '
+      comments: []
+    - title: 
+      content: 'But instead, those sacrifices actually reminded them of their sins
+        year after year. '
+      comments: []
+    - title: 
+      content: 'For it is not possible for the blood of bulls and goats to take away
+        sins. '
+      comments: []
+    - title: 
+      content: "That is why, when Christ[COMMENT[0]] came into the world, he said
+        to God,\n\t\u201CYou did not want animal sacrifices or sin offerings.\n\tBut
+        you have given me a body to offer.  "
+      comments:
+      - number: '10:5 '
+        contents:
+        - ft: 'Greek '
+          body: 'he; '
+        - ft: also in 10:8.
+          body: 
+    - title: 
+      content: "You were not pleased with burnt offerings\n\tor other offerings for
+        sin.  "
+      comments: []
+    - title: 
+      content: "Then I said, \u2018Look, I have come to do your will, O God\u2014\n\tas
+        is written about me in the Scriptures.\u2019\u201D[COMMENT[0]]  "
+      comments:
+      - number: '10:5-7 '
+        contents:
+        - ft: Ps 40:6-8 (Greek version).
+          body: 
+    - title: 
+      content: "First, Christ said, \u201CYou did not want animal sacrifices or sin
+        offerings or burnt offerings or other offerings for sin, nor were you pleased
+        with them\u201D (though they are required by the law of Moses). "
+      comments: []
+    - title: 
+      content: "Then he said, \u201CLook, I have come to do your will.\u201D He cancels
+        the first covenant in order to put the second into effect. "
+      comments: []
+    - title: 
+      content: "For God\u2019s will was for us to be made holy by the sacrifice of
+        the body of Jesus Christ, once for all time.  "
+      comments: []
+    - title: 
+      content: 'Under the old covenant, the priest stands and ministers before the
+        altar day after day, offering the same sacrifices again and again, which
+        can never take away sins. '
+      comments: []
+    - title: 
+      content: "But our High Priest offered himself to God as a single sacrifice
+        for sins, good for all time. Then he sat down in the place of honor at God\u2019s
+        right hand. "
+      comments: []
+    - title: 
+      content: 'There he waits until his enemies are humbled and made a footstool
+        under his feet. '
+      comments: []
+    - title: 
+      content: 'For by that one offering he forever made perfect those who are being
+        made holy.  '
+      comments: []
+    - title: 
+      content: 'And the Holy Spirit also testifies that this is so. For he says,  '
+      comments: []
+    - title: 
+      content: "\u201CThis is the new covenant I will make\n\twith my people on that
+        day,[COMMENT[0]] says the <smallcaps>Lord</smallcaps>\n\t:\n\tI will put
+        my laws in their hearts,\n\tand I will write them on their minds.\u201D[COMMENT[1]]  "
+      comments:
+      - number: '10:16a '
+        contents:
+        - ft: 'Greek '
+          body: after those days.
+      - number: '10:16b '
+        contents:
+        - ft: Jer 31:33a.
+          body: 
+    - title: 
+      content: "Then he says,\n\t\u201CI will never again remember\n\ttheir sins
+        and lawless deeds.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '10:17 '
+        contents:
+        - ft: Jer 31:34b.
+          body: 
+    - title: 
+      content: 'And when sins have been forgiven, there is no need to offer any more
+        sacrifices.  '
+      comments: []
+    - title: A Call to Persevere
+      content: "And so, dear brothers and sisters,[COMMENT[0]] we can boldly enter
+        heaven\u2019s Most Holy Place because of the blood of Jesus. "
+      comments:
+      - number: '10:19 '
+        contents:
+        - ft: 'Greek '
+          body: brothers.
+    - title: 
+      content: 'By his death,[COMMENT[0]] Jesus opened a new and life-giving way
+        through the curtain into the Most Holy Place. '
+      comments:
+      - number: '10:20 '
+        contents:
+        - ft: 'Greek '
+          body: Through his flesh.
+    - title: 
+      content: "And since we have a great High Priest who rules over God\u2019s house, "
+      comments: []
+    - title: 
+      content: "let us go right into the presence of God with sincere hearts fully
+        trusting him. For our guilty consciences have been sprinkled with Christ\u2019s
+        blood to make us clean, and our bodies have been washed with pure water.  "
+      comments: []
+    - title: 
+      content: 'Let us hold tightly without wavering to the hope we affirm, for God
+        can be trusted to keep his promise. '
+      comments: []
+    - title: 
+      content: 'Let us think of ways to motivate one another to acts of love and
+        good works. '
+      comments: []
+    - title: 
+      content: 'And let us not neglect our meeting together, as some people do, but
+        encourage one another, especially now that the day of his return is drawing
+        near.  '
+      comments: []
+    - title: 
+      content: 'Dear friends, if we deliberately continue sinning after we have received
+        knowledge of the truth, there is no longer any sacrifice that will cover
+        these sins. '
+      comments: []
+    - title: 
+      content: "There is only the terrible expectation of God\u2019s judgment and
+        the raging fire that will consume his enemies. "
+      comments: []
+    - title: 
+      content: 'For anyone who refused to obey the law of Moses was put to death
+        without mercy on the testimony of two or three witnesses. '
+      comments: []
+    - title: 
+      content: "Just think how much worse the punishment will be for those who have
+        trampled on the Son of God, and have treated the blood of the covenant, which
+        made us holy, as if it were common and unholy, and have insulted and disdained
+        the Holy Spirit who brings God\u2019s mercy to us. "
+      comments: []
+    - title: 
+      content: "For we know the one who said,\n\t\u201CI will take revenge.\n\tI
+        will pay them back.\u201D[COMMENT[0]]He also said,\n\t\u201CThe <smallcaps>Lord</smallcaps>
+        will judge his own people.\u201D[COMMENT[1]]  "
+      comments:
+      - number: '10:30a '
+        contents:
+        - ft: Deut 32:35.
+          body: 
+      - number: '10:30b '
+        contents:
+        - ft: Deut 32:36.
+          body: 
+    - title: 
+      content: 'It is a terrible thing to fall into the hands of the living God.  '
+      comments: []
+    - title: 
+      content: 'Think back on those early days when you first learned about Christ.[COMMENT[0]]
+        Remember how you remained faithful even though it meant terrible suffering. '
+      comments:
+      - number: '10:32 '
+        contents:
+        - ft: 'Greek '
+          body: when you were first enlightened.
+    - title: 
+      content: 'Sometimes you were exposed to public ridicule and were beaten, and
+        sometimes you helped others who were suffering the same things. '
+      comments: []
+    - title: 
+      content: 'You suffered along with those who were thrown into jail, and when
+        all you owned was taken from you, you accepted it with joy. You knew there
+        were better things waiting for you that will last forever.  '
+      comments: []
+    - title: 
+      content: 'So do not throw away this confident trust in the Lord. Remember the
+        great reward it brings you! '
+      comments: []
+    - title: 
+      content: "Patient endurance is what you need now, so that you will continue
+        to do God\u2019s will. Then you will receive all that he has promised.  "
+      comments: []
+    - title: 
+      content: "\u201CFor in just a little while,\n\tthe Coming One will come and
+        not delay.  "
+      comments: []
+    - title: 
+      content: "And my righteous ones will live by faith.[COMMENT[0]]But I will take
+        no pleasure in anyone who turns away.\u201D[COMMENT[1]]  "
+      comments:
+      - number: '10:38 '
+        contents:
+        - ft: 'Or '
+          body: 'my righteous ones will live by their faithfulness; '
+        - ft: 'Greek reads '
+          body: my righteous one will live by faith.
+      - number: '10:37-38 '
+        contents:
+        - ft: Hab 2:3-4.
+          body: 
+    - title: 
+      content: But we are not like those who turn away from God to their own destruction.
+        We are the faithful ones, whose souls will be saved.
+      comments: []
+  - verses:
+    - title: Great Examples of Faith
+      content: 'Faith shows the reality of what we hope for; it is the evidence of
+        things we cannot see. '
+      comments: []
+    - title: 
+      content: 'Through their faith, the people in days of old earned a good reputation.  '
+      comments: []
+    - title: 
+      content: "By faith we understand that the entire universe was formed at God\u2019s
+        command, that what we now see did not come from anything that can be seen.  "
+      comments: []
+    - title: 
+      content: "It was by faith that Abel brought a more acceptable offering to God
+        than Cain did. Abel\u2019s offering gave evidence that he was a righteous
+        man, and God showed his approval of his gifts. Although Abel is long dead,
+        he still speaks to us by his example of faith.  "
+      comments: []
+    - title: 
+      content: "It was by faith that Enoch was taken up to heaven without dying\u2014\u201Che
+        disappeared, because God took him.\u201D[COMMENT[0]] For before he was taken
+        up, he was known as a person who pleased God. "
+      comments:
+      - number: '11:5 '
+        contents:
+        - ft: Gen 5:24.
+          body: 
+    - title: 
+      content: 'And it is impossible to please God without faith. Anyone who wants
+        to come to him must believe that God exists and that he rewards those who
+        sincerely seek him.  '
+      comments: []
+    - title: 
+      content: 'It was by faith that Noah built a large boat to save his family from
+        the flood. He obeyed God, who warned him about things that had never happened
+        before. By his faith Noah condemned the rest of the world, and he received
+        the righteousness that comes by faith.  '
+      comments: []
+    - title: 
+      content: 'It was by faith that Abraham obeyed when God called him to leave
+        home and go to another land that God would give him as his inheritance. He
+        went without knowing where he was going. '
+      comments: []
+    - title: 
+      content: "And even when he reached the land God promised him, he lived there
+        by faith\u2014for he was like a foreigner, living in tents. And so did Isaac
+        and Jacob, who inherited the same promise. "
+      comments: []
+    - title: 
+      content: 'Abraham was confidently looking forward to a city with eternal foundations,
+        a city designed and built by God.  '
+      comments: []
+    - title: 
+      content: 'It was by faith that even Sarah was able to have a child, though
+        she was barren and was too old. She believed[COMMENT[0]] that God would keep
+        his promise. '
+      comments:
+      - number: '11:11 '
+        contents:
+        - ft: 'Or '
+          body: It was by faith that he [Abraham] was able to have a child, even
+            though Sarah was barren and he was too old. He believed.
+    - title: 
+      content: "And so a whole nation came from this one man who was as good as dead\u2014a
+        nation with so many people that, like the stars in the sky and the sand on
+        the seashore, there is no way to count them.  "
+      comments: []
+    - title: 
+      content: 'All these people died still believing what God had promised them.
+        They did not receive what was promised, but they saw it all from a distance
+        and welcomed it. They agreed that they were foreigners and nomads here on
+        earth. '
+      comments: []
+    - title: 
+      content: 'Obviously people who say such things are looking forward to a country
+        they can call their own. '
+      comments: []
+    - title: 
+      content: 'If they had longed for the country they came from, they could have
+        gone back. '
+      comments: []
+    - title: 
+      content: 'But they were looking for a better place, a heavenly homeland. That
+        is why God is not ashamed to be called their God, for he has prepared a city
+        for them.  '
+      comments: []
+    - title: 
+      content: "It was by faith that Abraham offered Isaac as a sacrifice when God
+        was testing him. Abraham, who had received God\u2019s promises, was ready
+        to sacrifice his only son, Isaac, "
+      comments: []
+    - title: 
+      content: "even though God had told him, \u201CIsaac is the son through whom
+        your descendants will be counted.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '11:18 '
+        contents:
+        - ft: Gen 21:12.
+          body: 
+    - title: 
+      content: 'Abraham reasoned that if Isaac died, God was able to bring him back
+        to life again. And in a sense, Abraham did receive his son back from the
+        dead.  '
+      comments: []
+    - title: 
+      content: 'It was by faith that Isaac promised blessings for the future to his
+        sons, Jacob and Esau.  '
+      comments: []
+    - title: 
+      content: "It was by faith that Jacob, when he was old and dying, blessed each
+        of Joseph\u2019s sons and bowed in worship as he leaned on his staff.  "
+      comments: []
+    - title: 
+      content: 'It was by faith that Joseph, when he was about to die, said confidently
+        that the people of Israel would leave Egypt. He even commanded them to take
+        his bones with them when they left.  '
+      comments: []
+    - title: 
+      content: "It was by faith that Moses\u2019 parents hid him for three months
+        when he was born. They saw that God had given them an unusual child, and
+        they were not afraid to disobey the king\u2019s command.  "
+      comments: []
+    - title: 
+      content: "It was by faith that Moses, when he grew up, refused to be called
+        the son of Pharaoh\u2019s daughter. "
+      comments: []
+    - title: 
+      content: "He chose to share the oppression of God\u2019s people instead of
+        enjoying the fleeting pleasures of sin. "
+      comments: []
+    - title: 
+      content: 'He thought it was better to suffer for the sake of Christ than to
+        own the treasures of Egypt, for he was looking ahead to his great reward. '
+      comments: []
+    - title: 
+      content: "It was by faith that Moses left the land of Egypt, not fearing the
+        king\u2019s anger. He kept right on going because he kept his eyes on the
+        one who is invisible. "
+      comments: []
+    - title: 
+      content: 'It was by faith that Moses commanded the people of Israel to keep
+        the Passover and to sprinkle blood on the doorposts so that the angel of
+        death would not kill their firstborn sons.  '
+      comments: []
+    - title: 
+      content: 'It was by faith that the people of Israel went right through the
+        Red Sea as though they were on dry ground. But when the Egyptians tried to
+        follow, they were all drowned.  '
+      comments: []
+    - title: 
+      content: 'It was by faith that the people of Israel marched around Jericho
+        for seven days, and the walls came crashing down.  '
+      comments: []
+    - title: 
+      content: 'It was by faith that Rahab the prostitute was not destroyed with
+        the people in her city who refused to obey God. For she had given a friendly
+        welcome to the spies.  '
+      comments: []
+    - title: 
+      content: 'How much more do I need to say? It would take too long to recount
+        the stories of the faith of Gideon, Barak, Samson, Jephthah, David, Samuel,
+        and all the prophets. '
+      comments: []
+    - title: 
+      content: 'By faith these people overthrew kingdoms, ruled with justice, and
+        received what God had promised them. They shut the mouths of lions, '
+      comments: []
+    - title: 
+      content: 'quenched the flames of fire, and escaped death by the edge of the
+        sword. Their weakness was turned to strength. They became strong in battle
+        and put whole armies to flight. '
+      comments: []
+    - title: 
+      content: "Women received their loved ones back again from death.\n\tBut others
+        were tortured, refusing to turn from God in order to be set free. They placed
+        their hope in a better life after the resurrection. "
+      comments: []
+    - title: 
+      content: 'Some were jeered at, and their backs were cut open with whips. Others
+        were chained in prisons. '
+      comments: []
+    - title: 
+      content: 'Some died by stoning, some were sawed in half,[COMMENT[0]] and others
+        were killed with the sword. Some went about wearing skins of sheep and goats,
+        destitute and oppressed and mistreated. '
+      comments:
+      - number: '11:37 '
+        contents:
+        - ft: 'Some manuscripts add '
+          body: some were tested.
+    - title: 
+      content: 'They were too good for this world, wandering over deserts and mountains,
+        hiding in caves and holes in the ground.  '
+      comments: []
+    - title: 
+      content: 'All these people earned a good reputation because of their faith,
+        yet none of them received all that God had promised. '
+      comments: []
+    - title: 
+      content: For God had something better in mind for us, so that they would not
+        reach perfection without us.
+      comments: []
+  - verses:
+    - title: "God\u2019s Discipline Proves His Love"
+      content: 'Therefore, since we are surrounded by such a huge crowd of witnesses
+        to the life of faith, let us strip off every weight that slows us down, especially
+        the sin that so easily trips us up. And let us run with endurance the race
+        God has set before us. '
+      comments: []
+    - title: 
+      content: "We do this by keeping our eyes on Jesus, the champion who initiates
+        and perfects our faith.[COMMENT[0]] Because of the joy[COMMENT[1]] awaiting
+        him, he endured the cross, disregarding its shame. Now he is seated in the
+        place of honor beside God\u2019s throne. "
+      comments:
+      - number: '12:2a '
+        contents:
+        - ft: 'Or '
+          body: Jesus, the originator and perfecter of our faith.
+      - number: '12:2b '
+        contents:
+        - ft: 'Or '
+          body: Instead of the joy.
+    - title: 
+      content: "Think of all the hostility he endured from sinful people;[COMMENT[0]]
+        then you won\u2019t become weary and give up. "
+      comments:
+      - number: '12:3 '
+        contents:
+        - ft: 'Some manuscripts read '
+          body: Think of how people hurt themselves by opposing him.
+    - title: 
+      content: 'After all, you have not yet given your lives in your struggle against
+        sin.  '
+      comments: []
+    - title: 
+      content: "And have you forgotten the encouraging words God spoke to you as
+        his children?[COMMENT[0]] He said,\n\t\u201CMy child,[COMMENT[1]] don\u2019t
+        make light of the <smallcaps>Lord</smallcaps>\n\t\u2019s discipline,\n\tand
+        don\u2019t give up when he corrects you.  "
+      comments:
+      - number: '12:5a '
+        contents:
+        - ft: 'Greek '
+          body: 'sons; '
+        - ft: also in 12:7, 8.
+          body: 
+      - number: '12:5b '
+        contents:
+        - ft: 'Greek '
+          body: 'son; '
+        - ft: also in 12:6, 7.
+          body: 
+    - title: 
+      content: "For the <smallcaps>Lord</smallcaps> disciplines those he loves,\n\tand
+        he punishes each one he accepts as his child.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '12:5-6 '
+        contents:
+        - ft: Prov 3:11-12 (Greek version).
+          body: 
+    - title: 
+      content: 'As you endure this divine discipline, remember that God is treating
+        you as his own children. Who ever heard of a child who is never disciplined
+        by its father? '
+      comments: []
+    - title: 
+      content: "If God doesn\u2019t discipline you as he does all of his children,
+        it means that you are illegitimate and are not really his children at all. "
+      comments: []
+    - title: 
+      content: "Since we respected our earthly fathers who disciplined us, shouldn\u2019t
+        we submit even more to the discipline of the Father of our spirits, and live
+        forever?[COMMENT[0]]  "
+      comments:
+      - number: '12:9 '
+        contents:
+        - ft: 'Or '
+          body: and really live?
+    - title: 
+      content: "For our earthly fathers disciplined us for a few years, doing the
+        best they knew how. But God\u2019s discipline is always good for us, so that
+        we might share in his holiness. "
+      comments: []
+    - title: 
+      content: "No discipline is enjoyable while it is happening\u2014it\u2019s painful!
+        But afterward there will be a peaceful harvest of right living for those
+        who are trained in this way.  "
+      comments: []
+    - title: 
+      content: 'So take a new grip with your tired hands and strengthen your weak
+        knees. '
+      comments: []
+    - title: 
+      content: 'Mark out a straight path for your feet so that those who are weak
+        and lame will not fall but become strong.  '
+      comments: []
+    - title: A Call to Listen to God
+      content: 'Work at living in peace with everyone, and work at living a holy
+        life, for those who are not holy will not see the Lord. '
+      comments: []
+    - title: 
+      content: 'Look after each other so that none of you fails to receive the grace
+        of God. Watch out that no poisonous root of bitterness grows up to trouble
+        you, corrupting many. '
+      comments: []
+    - title: 
+      content: 'Make sure that no one is immoral or godless like Esau, who traded
+        his birthright as the firstborn son for a single meal. '
+      comments: []
+    - title: 
+      content: "You know that afterward, when he wanted his father\u2019s blessing,
+        he was rejected. It was too late for repentance, even though he begged with
+        bitter tears.  "
+      comments: []
+    - title: 
+      content: 'You have not come to a physical mountain,[COMMENT[0]] to a place
+        of flaming fire, darkness, gloom, and whirlwind, as the Israelites did at
+        Mount Sinai. '
+      comments:
+      - number: '12:18 '
+        contents:
+        - ft: 'Greek '
+          body: to something that can be touched.
+    - title: 
+      content: 'For they heard an awesome trumpet blast and a voice so terrible that
+        they begged God to stop speaking. '
+      comments: []
+    - title: 
+      content: "They staggered back under God\u2019s command: \u201CIf even an animal
+        touches the mountain, it must be stoned to death.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '12:20 '
+        contents:
+        - ft: Exod 19:13.
+          body: 
+    - title: 
+      content: "Moses himself was so frightened at the sight that he said, \u201CI
+        am terrified and trembling.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '12:21 '
+        contents:
+        - ft: Deut 9:19.
+          body: 
+    - title: 
+      content: 'No, you have come to Mount Zion, to the city of the living God, the
+        heavenly Jerusalem, and to countless thousands of angels in a joyful gathering. '
+      comments: []
+    - title: 
+      content: "You have come to the assembly of God\u2019s firstborn children, whose
+        names are written in heaven. You have come to God himself, who is the judge
+        over all things. You have come to the spirits of the righteous ones in heaven
+        who have now been made perfect. "
+      comments: []
+    - title: 
+      content: 'You have come to Jesus, the one who mediates the new covenant between
+        God and people, and to the sprinkled blood, which speaks of forgiveness instead
+        of crying out for vengeance like the blood of Abel.  '
+      comments: []
+    - title: 
+      content: 'Be careful that you do not refuse to listen to the One who is speaking.
+        For if the people of Israel did not escape when they refused to listen to
+        Moses, the earthly messenger, we will certainly not escape if we reject the
+        One who speaks to us from heaven! '
+      comments: []
+    - title: 
+      content: "When God spoke from Mount Sinai his voice shook the earth, but now
+        he makes another promise: \u201COnce again I will shake not only the earth
+        but the heavens also.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '12:26 '
+        contents:
+        - ft: Hag 2:6.
+          body: 
+    - title: 
+      content: 'This means that all of creation will be shaken and removed, so that
+        only unshakable things will remain.  '
+      comments: []
+    - title: 
+      content: 'Since we are receiving a Kingdom that is unshakable, let us be thankful
+        and please God by worshiping him with holy fear and awe. '
+      comments: []
+    - title: 
+      content: For our God is a devouring fire.
+      comments: []
+  - verses:
+    - title: Concluding Words
+      content: 'Keep on loving each other as brothers and sisters.[COMMENT[0]]  '
+      comments:
+      - number: '13:1 '
+        contents:
+        - ft: 'Greek '
+          body: Continue in brotherly love.
+    - title: 
+      content: "Don\u2019t forget to show hospitality to strangers, for some who
+        have done this have entertained angels without realizing it! "
+      comments: []
+    - title: 
+      content: 'Remember those in prison, as if you were there yourself. Remember
+        also those being mistreated, as if you felt their pain in your own bodies.  '
+      comments: []
+    - title: 
+      content: 'Give honor to marriage, and remain faithful to one another in marriage.
+        God will surely judge people who are immoral and those who commit adultery.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t love money; be satisfied with what you have. For God has
+        said,\n\t\u201CI will never fail you.\n\tI will never abandon you.\u201D[COMMENT[0]]  "
+      comments:
+      - number: '13:5 '
+        contents:
+        - ft: Deut 31:6, 8.
+          body: 
+    - title: 
+      content: "So we can say with confidence,\n\t\u201CThe <smallcaps>Lord</smallcaps>
+        is my helper,\n\tso I will have no fear.\n\tWhat can mere people do to me?\u201D[COMMENT[0]]  "
+      comments:
+      - number: '13:6 '
+        contents:
+        - ft: Ps 118:6.
+          body: 
+    - title: 
+      content: 'Remember your leaders who taught you the word of God. Think of all
+        the good that has come from their lives, and follow the example of their
+        faith.  '
+      comments: []
+    - title: 
+      content: 'Jesus Christ is the same yesterday, today, and forever. '
+      comments: []
+    - title: 
+      content: "So do not be attracted by strange, new ideas. Your strength comes
+        from God\u2019s grace, not from rules about food, which don\u2019t help those
+        who follow them.  "
+      comments: []
+    - title: 
+      content: 'We have an altar from which the priests in the Tabernacle[COMMENT[0]]
+        have no right to eat. '
+      comments:
+      - number: '13:10 '
+        contents:
+        - ft: 'Or '
+          body: tent.
+    - title: 
+      content: 'Under the old system, the high priest brought the blood of animals
+        into the Holy Place as a sacrifice for sin, and the bodies of the animals
+        were burned outside the camp. '
+      comments: []
+    - title: 
+      content: 'So also Jesus suffered and died outside the city gates to make his
+        people holy by means of his own blood. '
+      comments: []
+    - title: 
+      content: 'So let us go out to him, outside the camp, and bear the disgrace
+        he bore. '
+      comments: []
+    - title: 
+      content: 'For this world is not our permanent home; we are looking forward
+        to a home yet to come.  '
+      comments: []
+    - title: 
+      content: 'Therefore, let us offer through Jesus a continual sacrifice of praise
+        to God, proclaiming our allegiance to his name. '
+      comments: []
+    - title: 
+      content: "And don\u2019t forget to do good and to share with those in need.
+        These are the sacrifices that please God.  "
+      comments: []
+    - title: 
+      content: 'Obey your spiritual leaders, and do what they say. Their work is
+        to watch over your souls, and they are accountable to God. Give them reason
+        to do this with joy and not with sorrow. That would certainly not be for
+        your benefit.  '
+      comments: []
+    - title: 
+      content: 'Pray for us, for our conscience is clear and we want to live honorably
+        in everything we do. '
+      comments: []
+    - title: 
+      content: 'And especially pray that I will be able to come back to you soon.  '
+      comments: []
+    - title: 
+      content: "Now may the God of peace\u2014\n\twho brought up from the dead our
+        Lord Jesus,\n\tthe great Shepherd of the sheep,\n\tand ratified an eternal
+        covenant with his blood\u2014  "
+      comments: []
+    - title: 
+      content: "may he equip you with all you need\n\tfor doing his will.\n\tMay
+        he produce in you,[COMMENT[0]]through the power of Jesus Christ,\n\tevery
+        good thing that is pleasing to him.\n\tAll glory to him forever and ever!
+        Amen.  "
+      comments:
+      - number: '13:21 '
+        contents:
+        - ft: 'Some manuscripts read '
+          body: in us.
+    - title: 
+      content: 'I urge you, dear brothers and sisters,[COMMENT[0]] to pay attention
+        to what I have written in this brief exhortation.  '
+      comments:
+      - number: '13:22 '
+        contents:
+        - ft: 'Greek '
+          body: brothers.
+    - title: 
+      content: 'I want you to know that our brother Timothy has been released from
+        jail. If he comes here soon, I will bring him with me to see you.  '
+      comments: []
+    - title: 
+      content: 'Greet all your leaders and all the believers there.[COMMENT[0]] The
+        believers from Italy send you their greetings.  '
+      comments:
+      - number: '13:24 '
+        contents:
+        - ft: 'Greek '
+          body: "all of God\u2019s holy people."
+    - title: 
+      content: "May God\u2019s grace be with you all."
+      comments: []
