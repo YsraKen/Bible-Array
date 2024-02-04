@@ -1,0 +1,2949 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: JDG
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Judges
+  fancyName: 
+  nickname: jdg
+  version: {fileID: 11400000, guid: 51ee3e37f5ded7941ab6216610f6fc67, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - title: Judah and Simeon Conquer the Land
+      content: "  After the death of Joshua, the Israelites asked the <smallcaps>Lord</smallcaps>,
+        \u201CWhich tribe should go first to attack the Canaanites?\u201D  "
+      comments: []
+    - title: 
+      content: "The <smallcaps>Lord</smallcaps> answered, \u201CJudah, for I have
+        given them victory over the land.\u201D  "
+      comments: []
+    - title: 
+      content: "The men of Judah said to their relatives from the tribe of Simeon,
+        \u201CJoin with us to fight against the Canaanites living in the territory
+        allotted to us. Then we will help you conquer your territory.\u201D So the
+        men of Simeon went with Judah.  "
+      comments: []
+    - title: 
+      content: 'When the men of Judah attacked, the <smallcaps>Lord</smallcaps> gave
+        them victory over the Canaanites and Perizzites, and they killed 10,000 enemy
+        warriors at the town of Bezek. '
+      comments: []
+    - title: 
+      content: 'While at Bezek they encountered King Adoni-bezek and fought against
+        him, and the Canaanites and Perizzites were defeated. '
+      comments: []
+    - title: 
+      content: 'Adoni-bezek escaped, but the Israelites soon captured him and cut
+        off his thumbs and big toes.  '
+      comments: []
+    - title: 
+      content: "Adoni-bezek said, \u201CI once had seventy kings with their thumbs
+        and big toes cut off, eating scraps from under my table. Now God has paid
+        me back for what I did to them.\u201D They took him to Jerusalem, and he
+        died there.  "
+      comments: []
+    - title: 
+      content: 'The men of Judah attacked Jerusalem and captured it, killing all
+        its people and setting the city on fire. '
+      comments: []
+    - title: 
+      content: 'Then they went down to fight the Canaanites living in the hill country,
+        the Negev, and the western foothills.[[COMMENT(0)]]  '
+      comments:
+      - number: '1:9 '
+        content: Hebrew <b>the Shephelah.</b>
+    - title: 
+      content: 'Judah marched against the Canaanites in Hebron (formerly called Kiriath-arba),
+        defeating the forces of Sheshai, Ahiman, and Talmai.  '
+      comments: []
+    - title: 
+      content: 'From there they went to fight against the people living in the town
+        of Debir (formerly called Kiriath-sepher). '
+      comments: []
+    - title: 
+      content: "Caleb said, \u201CI will give my daughter Acsah in marriage to the
+        one who attacks and captures Kiriath-sepher.\u201D "
+      comments: []
+    - title: 
+      content: "Othniel, the son of Caleb\u2019s younger brother, Kenaz, was the
+        one who conquered it, so Acsah became Othniel\u2019s wife.  "
+      comments: []
+    - title: 
+      content: "When Acsah married Othniel, she urged him[[COMMENT(0)]] to ask her
+        father for a field. As she got down off her donkey, Caleb asked her, \u201CWhat\u2019s
+        the matter?\u201D  "
+      comments:
+      - number: '1:14 '
+        content: Greek version and Latin Vulgate read <b>he urged her.</b>
+    - title: 
+      content: "She said, \u201CLet me have another gift. You have already given
+        me land in the Negev; now please give me springs of water, too.\u201D So
+        Caleb gave her the upper and lower springs.  "
+      comments: []
+    - title: 
+      content: "When the tribe of Judah left Jericho\u2014the city of palms\u2014the
+        Kenites, who were descendants of Moses\u2019 father-in-law, traveled with
+        them into the wilderness of Judah. They settled among the people there, near
+        the town of Arad in the Negev.  "
+      comments: []
+    - title: 
+      content: 'Then Judah joined with Simeon to fight against the Canaanites living
+        in Zephath, and they completely destroyed[[COMMENT(0)]]<smallcaps> the town.
+        So the town was named Hormah.</smallcaps>[[COMMENT(1)]]  '
+      comments:
+      - number: '1:17a '
+        content: The Hebrew term used here refers to the complete consecration of
+          things or people to the <span class="ChapterContent_nd__ECPAf">Lord</span>,
+          either by destroying them or by giving them as an offering.
+      - number: '1:17b '
+        content: "<b>Hormah </b>means \u201Cdestruction.\u201D"
+    - title: Israel Fails to Conquer the Land
+      content: 'In addition, Judah captured the towns of Gaza, Ashkelon, and Ekron,
+        along with their surrounding territories.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> was with the people of Judah, and
+        they took possession of the hill country. But they failed to drive out the
+        people living in the plains, who had iron chariots. '
+      comments: []
+    - title: 
+      content: 'The town of Hebron was given to Caleb as Moses had promised. And
+        Caleb drove out the people living there, who were descendants of the three
+        sons of Anak.  '
+      comments: []
+    - title: 
+      content: 'The tribe of Benjamin, however, failed to drive out the Jebusites,
+        who were living in Jerusalem. So to this day the Jebusites live in Jerusalem
+        among the people of Benjamin.  '
+      comments: []
+    - title: 
+      content: 'The descendants of Joseph attacked the town of Bethel, and the <smallcaps>Lord</smallcaps>
+        was with them. '
+      comments: []
+    - title: 
+      content: 'They sent men to scout out Bethel (formerly known as Luz). '
+      comments: []
+    - title: 
+      content: "They confronted a man coming out of the town and said to him, \u201CShow
+        us a way into the town, and we will have mercy on you.\u201D "
+      comments: []
+    - title: 
+      content: 'So he showed them a way in, and they killed everyone in the town
+        except that man and his family. '
+      comments: []
+    - title: 
+      content: 'Later the man moved to the land of the Hittites, where he built a
+        town. He named it Luz, which is its name to this day.  '
+      comments: []
+    - title: 
+      content: 'The tribe of Manasseh failed to drive out the people living in Beth-shan,[[COMMENT(0)]]
+        Taanach, Dor, Ibleam, Megiddo, and all their surrounding settlements, because
+        the Canaanites were determined to stay in that region. '
+      comments:
+      - number: '1:27 '
+        content: Hebrew <b>Beth-shean, </b>a variant spelling of Beth-shan.
+    - title: 
+      content: 'When the Israelites grew stronger, they forced the Canaanites to
+        work as slaves, but they never did drive them completely out of the land.  '
+      comments: []
+    - title: 
+      content: 'The tribe of Ephraim failed to drive out the Canaanites living in
+        Gezer, so the Canaanites continued to live there among them.  '
+      comments: []
+    - title: 
+      content: 'The tribe of Zebulun failed to drive out the residents of Kitron
+        and Nahalol, so the Canaanites continued to live among them. But the Canaanites
+        were forced to work as slaves for the people of Zebulun.  '
+      comments: []
+    - title: 
+      content: 'The tribe of Asher failed to drive out the residents of Acco, Sidon,
+        Ahlab, Aczib, Helbah, Aphik, and Rehob. '
+      comments: []
+    - title: 
+      content: 'Instead, the people of Asher moved in among the Canaanites, who controlled
+        the land, for they failed to drive them out.  '
+      comments: []
+    - title: 
+      content: 'Likewise, the tribe of Naphtali failed to drive out the residents
+        of Beth-shemesh and Beth-anath. Instead, they moved in among the Canaanites,
+        who controlled the land. Nevertheless, the people of Beth-shemesh and Beth-anath
+        were forced to work as slaves for the people of Naphtali.  '
+      comments: []
+    - title: 
+      content: 'As for the tribe of Dan, the Amorites forced them back into the hill
+        country and would not let them come down into the plains. '
+      comments: []
+    - title: 
+      content: 'The Amorites were determined to stay in Mount Heres, Aijalon, and
+        Shaalbim, but when the descendants of Joseph became stronger, they forced
+        the Amorites to work as slaves. '
+      comments: []
+  - verses:
+    - title: "The <smallcaps>Lord</smallcaps>\u2019s Messenger Comes to Bokim"
+      content: "  The angel of the <smallcaps>Lord</smallcaps> went up from Gilgal
+        to Bokim and said to the Israelites, \u201CI brought you out of Egypt into
+        this land that I swore to give your ancestors, and I said I would never break
+        my covenant with you. "
+      comments: []
+    - title: 
+      content: 'For your part, you were not to make any covenants with the people
+        living in this land; instead, you were to destroy their altars. But you disobeyed
+        my command. Why did you do this? '
+      comments: []
+    - title: 
+      content: "So now I declare that I will no longer drive out the people living
+        in your land. They will be thorns in your sides,[[COMMENT(0)]] and their
+        gods will be a constant temptation to you.\u201D  "
+      comments:
+      - number: '2:3 '
+        content: Hebrew <b>They will be in your sides; </b>compare Num 33:55.
+    - title: 
+      content: 'When the angel of the <smallcaps>Lord</smallcaps> finished speaking
+        to all the Israelites, the people wept loudly. '
+      comments: []
+    - title: The Death of Joshua
+      content: "So they called the place Bokim (which means \u201Cweeping\u201D),
+        and they offered sacrifices there to the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - title: 
+      content: 'After Joshua sent the people away, each of the tribes left to take
+        possession of the land allotted to them. '
+      comments: []
+    - title: 
+      content: "And the Israelites served the <smallcaps>Lord</smallcaps> throughout
+        the lifetime of Joshua and the leaders who outlived him\u2014those who had
+        seen all the great things the <smallcaps>Lord</smallcaps> had done for Israel.  "
+      comments: []
+    - title: 
+      content: 'Joshua son of Nun, the servant of the <smallcaps>Lord</smallcaps>,
+        died at the age of 110. '
+      comments: []
+    - title: Israel Disobeys the <smallcaps>Lord</smallcaps>
+      content: 'They buried him in the land he had been allocated, at Timnath-serah[[COMMENT(0)]]
+        in the hill country of Ephraim, north of Mount Gaash.  '
+      comments:
+      - number: '2:9 '
+        content: As in parallel text at Josh 24:30; Hebrew reads <b>Timnath-heres,
+          </b>a variant spelling of Timnath-serah.
+    - title: 
+      content: 'After that generation died, another generation grew up who did not
+        acknowledge the <smallcaps>Lord</smallcaps> or remember the mighty things
+        he had done for Israel.  '
+      comments: []
+    - title: 
+      content: "The Israelites did evil in the <smallcaps>Lord</smallcaps>\u2019s
+        sight and served the images of Baal. "
+      comments: []
+    - title: 
+      content: 'They abandoned the <smallcaps>Lord</smallcaps>, the God of their
+        ancestors, who had brought them out of Egypt. They went after other gods,
+        worshiping the gods of the people around them. And they angered the <smallcaps>Lord</smallcaps>. '
+      comments: []
+    - title: 
+      content: 'They abandoned the <smallcaps>Lord</smallcaps> to serve Baal and
+        the images of Ashtoreth. '
+      comments: []
+    - title: 
+      content: 'This made the <smallcaps>Lord</smallcaps> burn with anger against
+        Israel, so he handed them over to raiders who stole their possessions. He
+        turned them over to their enemies all around, and they were no longer able
+        to resist them. '
+      comments: []
+    - title: The <smallcaps>Lord</smallcaps> Rescues His People
+      content: 'Every time Israel went out to battle, the <smallcaps>Lord</smallcaps>
+        fought against them, causing them to be defeated, just as he had warned.
+        And the people were in great distress.  '
+      comments: []
+    - title: 
+      content: 'Then the <smallcaps>Lord</smallcaps> raised up judges to rescue the
+        Israelites from their attackers. '
+      comments: []
+    - title: 
+      content: "Yet Israel did not listen to the judges but prostituted themselves
+        by worshiping other gods. How quickly they turned away from the path of their
+        ancestors, who had walked in obedience to the <smallcaps>Lord</smallcaps>\u2019s
+        commands.  "
+      comments: []
+    - title: 
+      content: "Whenever the <smallcaps>Lord</smallcaps> raised up a judge over Israel,
+        he was with that judge and rescued the people from their enemies throughout
+        the judge\u2019s lifetime. For the <smallcaps>Lord</smallcaps> took pity
+        on his people, who were burdened by oppression and suffering. "
+      comments: []
+    - title: 
+      content: 'But when the judge died, the people returned to their corrupt ways,
+        behaving worse than those who had lived before them. They went after other
+        gods, serving and worshiping them. And they refused to give up their evil
+        practices and stubborn ways.  '
+      comments: []
+    - title: 
+      content: "So the <smallcaps>Lord</smallcaps> burned with anger against Israel.
+        He said, \u201CBecause these people have violated my covenant, which I made
+        with their ancestors, and have ignored my commands, "
+      comments: []
+    - title: 
+      content: 'I will no longer drive out the nations that Joshua left unconquered
+        when he died. '
+      comments: []
+    - title: 
+      content: "I did this to test Israel\u2014to see whether or not they would follow
+        the ways of the <smallcaps>Lord</smallcaps> as their ancestors did.\u201D "
+      comments: []
+  - verses:
+    - title: The Nations Left in Canaan
+      content: '  These are the nations that the <smallcaps>Lord</smallcaps> left
+        in the land to test those Israelites who had not experienced the wars of
+        Canaan. '
+      comments: []
+    - title: 
+      content: 'He did this to teach warfare to generations of Israelites who had
+        no experience in battle. '
+      comments: []
+    - title: 
+      content: 'These are the nations: the Philistines (those living under the five
+        Philistine rulers), all the Canaanites, the Sidonians, and the Hivites living
+        in the mountains of Lebanon from Mount Baal-hermon to Lebo-hamath. '
+      comments: []
+    - title: 
+      content: "These people were left to test the Israelites\u2014to see whether
+        they would obey the commands the <smallcaps>Lord</smallcaps> had given to
+        their ancestors through Moses.  "
+      comments: []
+    - title: 
+      content: 'So the people of Israel lived among the Canaanites, Hittites, Amorites,
+        Perizzites, Hivites, and Jebusites, '
+      comments: []
+    - title: "Othniel Becomes Israel\u2019s Judge"
+      content: 'and they intermarried with them. Israelite sons married their daughters,
+        and Israelite daughters were given in marriage to their sons. And the Israelites
+        served their gods.  '
+      comments: []
+    - title: 
+      content: "The Israelites did evil in the <smallcaps>Lord</smallcaps>\u2019s
+        sight. They forgot about the <smallcaps>Lord</smallcaps> their God, and they
+        served the images of Baal and the Asherah poles. "
+      comments: []
+    - title: 
+      content: 'Then the <smallcaps>Lord</smallcaps> burned with anger against Israel,
+        and he turned them over to King Cushan-rishathaim of Aram-naharaim.[[COMMENT(0)]]
+        And the Israelites served Cushan-rishathaim for eight years.  '
+      comments:
+      - number: '3:8 '
+        content: "<b>Aram-naharaim </b>means \u201CAram of the two rivers,\u201D
+          thought to have been located between the Euphrates and Balih Rivers in
+          northwestern Mesopotamia."
+    - title: 
+      content: "But when the people of Israel cried out to the <smallcaps>Lord</smallcaps>
+        for help, the <smallcaps>Lord</smallcaps> raised up a rescuer to save them.
+        His name was Othniel, the son of Caleb\u2019s younger brother, Kenaz. "
+      comments: []
+    - title: 
+      content: "The Spirit of the <smallcaps>Lord</smallcaps> came upon him, and
+        he became Israel\u2019s judge. He went to war against King Cushan-rishathaim
+        of Aram, and the <smallcaps>Lord</smallcaps> gave Othniel victory over him. "
+      comments: []
+    - title: "Ehud Becomes Israel\u2019s Judge"
+      content: 'So there was peace in the land for forty years. Then Othniel son
+        of Kenaz died.  '
+      comments: []
+    - title: 
+      content: "Once again the Israelites did evil in the <smallcaps>Lord</smallcaps>\u2019s
+        sight, and the <smallcaps>Lord</smallcaps> gave King Eglon of Moab control
+        over Israel because of their evil. "
+      comments: []
+    - title: 
+      content: 'Eglon enlisted the Ammonites and Amalekites as allies, and then he
+        went out and defeated Israel, taking possession of Jericho, the city of palms. '
+      comments: []
+    - title: 
+      content: 'And the Israelites served Eglon of Moab for eighteen years.  '
+      comments: []
+    - title: 
+      content: 'But when the people of Israel cried out to the <smallcaps>Lord</smallcaps>
+        for help, the <smallcaps>Lord</smallcaps> again raised up a rescuer to save
+        them. His name was Ehud son of Gera, a left-handed man of the tribe of Benjamin.
+        The Israelites sent Ehud to deliver their tribute money to King Eglon of
+        Moab. '
+      comments: []
+    - title: 
+      content: 'So Ehud made a double-edged dagger that was about a foot[[COMMENT(0)]]
+        long, and he strapped it to his right thigh, keeping it hidden under his
+        clothing. '
+      comments:
+      - number: '3:16 '
+        content: Hebrew <b>gomed, </b>the length of which is uncertain.
+    - title: 
+      content: 'He brought the tribute money to Eglon, who was very fat.  '
+      comments: []
+    - title: 
+      content: 'After delivering the payment, Ehud started home with those who had
+        helped carry the tribute. '
+      comments: []
+    - title: 
+      content: "But when Ehud reached the stone idols near Gilgal, he turned back.
+        He came to Eglon and said, \u201CI have a secret message for you.\u201DSo
+        the king commanded his servants, \u201CBe quiet!\u201D and he sent them all
+        out of the room.  "
+      comments: []
+    - title: 
+      content: "Ehud walked over to Eglon, who was sitting alone in a cool upstairs
+        room. And Ehud said, \u201CI have a message from God for you!\u201D As King
+        Eglon rose from his seat, "
+      comments: []
+    - title: 
+      content: "Ehud reached with his left hand, pulled out the dagger strapped to
+        his right thigh, and plunged it into the king\u2019s belly. "
+      comments: []
+    - title: 
+      content: "The dagger went so deep that the handle disappeared beneath the king\u2019s
+        fat. So Ehud did not pull out the dagger, and the king\u2019s bowels emptied.[[COMMENT(0)]]  "
+      comments:
+      - number: '3:22 '
+        content: Or <b>and it came out behind.</b>
+    - title: 
+      content: 'Then Ehud closed and locked the doors of the room and escaped down
+        the latrine.[[COMMENT(0)]]  '
+      comments:
+      - number: '3:23 '
+        content: Or <b>and went out through the porch; </b>the meaning of the Hebrew
+          is uncertain.
+    - title: 
+      content: "After Ehud was gone, the king\u2019s servants returned and found
+        the doors to the upstairs room locked. They thought he might be using the
+        latrine in the room, "
+      comments: []
+    - title: 
+      content: "so they waited. But when the king didn\u2019t come out after a long
+        delay, they became concerned and got a key. And when they opened the doors,
+        they found their master dead on the floor.  "
+      comments: []
+    - title: 
+      content: 'While the servants were waiting, Ehud escaped, passing the stone
+        idols on his way to Seirah. '
+      comments: []
+    - title: 
+      content: 'When he arrived in the hill country of Ephraim, Ehud sounded a call
+        to arms. Then he led a band of Israelites down from the hills.  '
+      comments: []
+    - title: 
+      content: "\u201CFollow me,\u201D he said, \u201Cfor the <smallcaps>Lord</smallcaps>
+        has given you victory over Moab your enemy.\u201D So they followed him. And
+        the Israelites took control of the shallow crossings of the Jordan River
+        across from Moab, preventing anyone from crossing.  "
+      comments: []
+    - title: 
+      content: 'They attacked the Moabites and killed about 10,000 of their strongest
+        and most able-bodied warriors. Not one of them escaped. '
+      comments: []
+    - title: "Shamgar Becomes Israel\u2019s Judge"
+      content: 'So Moab was conquered by Israel that day, and there was peace in
+        the land for eighty years.  '
+      comments: []
+  - verses:
+    - title: "Deborah Becomes Israel\u2019s Judge"
+      content: "  After Ehud\u2019s death, the Israelites again did evil in the <smallcaps>Lord</smallcaps>\u2019s
+        sight. "
+      comments: []
+    - title: 
+      content: 'So the <smallcaps>Lord</smallcaps> turned them over to King Jabin
+        of Hazor, a Canaanite king. The commander of his army was Sisera, who lived
+        in Harosheth-haggoyim. '
+      comments: []
+    - title: 
+      content: 'Sisera, who had 900 iron chariots, ruthlessly oppressed the Israelites
+        for twenty years. Then the people of Israel cried out to the <smallcaps>Lord</smallcaps>
+        for help.  '
+      comments: []
+    - title: 
+      content: 'Deborah, the wife of Lappidoth, was a prophet who was judging Israel
+        at that time. '
+      comments: []
+    - title: 
+      content: 'She would sit under the Palm of Deborah, between Ramah and Bethel
+        in the hill country of Ephraim, and the Israelites would go to her for judgment. '
+      comments: []
+    - title: 
+      content: "One day she sent for Barak son of Abinoam, who lived in Kedesh in
+        the land of Naphtali. She said to him, \u201CThis is what the <smallcaps>Lord</smallcaps>,
+        the God of Israel, commands you: Call out 10,000 warriors from the tribes
+        of Naphtali and Zebulun at Mount Tabor. "
+      comments: []
+    - title: 
+      content: "And I will call out Sisera, commander of Jabin\u2019s army, along
+        with his chariots and warriors, to the Kishon River. There I will give you
+        victory over him.\u201D  "
+      comments: []
+    - title: 
+      content: "Barak told her, \u201CI will go, but only if you go with me.\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CVery well,\u201D she replied, \u201CI will go with you. But
+        you will receive no honor in this venture, for the <smallcaps>Lord</smallcaps>\u2019s
+        victory over Sisera will be at the hands of a woman.\u201D So Deborah went
+        with Barak to Kedesh. "
+      comments: []
+    - title: 
+      content: 'At Kedesh, Barak called together the tribes of Zebulun and Naphtali,
+        and 10,000 warriors went up with him. Deborah also went with him.  '
+      comments: []
+    - title: 
+      content: "Now Heber the Kenite, a descendant of Moses\u2019 brother-in-law[[COMMENT(0)]]
+        Hobab, had moved away from the other members of his tribe and pitched his
+        tent by the oak of Zaanannim near Kedesh.  "
+      comments:
+      - number: '4:11 '
+        content: Or <b>father-in-law.</b>
+    - title: 
+      content: 'When Sisera was told that Barak son of Abinoam had gone up to Mount
+        Tabor, '
+      comments: []
+    - title: 
+      content: 'he called for all 900 of his iron chariots and all of his warriors,
+        and they marched from Harosheth-haggoyim to the Kishon River.  '
+      comments: []
+    - title: 
+      content: "Then Deborah said to Barak, \u201CGet ready! This is the day the
+        <smallcaps>Lord</smallcaps> will give you victory over Sisera, for the <smallcaps>Lord</smallcaps>
+        is marching ahead of you.\u201D So Barak led his 10,000 warriors down the
+        slopes of Mount Tabor into battle. "
+      comments: []
+    - title: 
+      content: 'When Barak attacked, the <smallcaps>Lord</smallcaps> threw Sisera
+        and all his chariots and warriors into a panic. Sisera leaped down from his
+        chariot and escaped on foot. '
+      comments: []
+    - title: 
+      content: "Then Barak chased the chariots and the enemy army all the way to
+        Harosheth-haggoyim, killing all of Sisera\u2019s warriors. Not a single one
+        was left alive.  "
+      comments: []
+    - title: 
+      content: "Meanwhile, Sisera ran to the tent of Jael, the wife of Heber the
+        Kenite, because Heber\u2019s family was on friendly terms with King Jabin
+        of Hazor. "
+      comments: []
+    - title: 
+      content: "Jael went out to meet Sisera and said to him, \u201CCome into my
+        tent, sir. Come in. Don\u2019t be afraid.\u201D So he went into her tent,
+        and she covered him with a blanket.  "
+      comments: []
+    - title: 
+      content: "\u201CPlease give me some water,\u201D he said. \u201CI\u2019m thirsty.\u201D
+        So she gave him some milk from a leather bag and covered him again.  "
+      comments: []
+    - title: 
+      content: "\u201CStand at the door of the tent,\u201D he told her. \u201CIf
+        anybody comes and asks you if there is anyone here, say no.\u201D  "
+      comments: []
+    - title: 
+      content: 'But when Sisera fell asleep from exhaustion, Jael quietly crept up
+        to him with a hammer and tent peg in her hand. Then she drove the tent peg
+        through his temple and into the ground, and so he died.  '
+      comments: []
+    - title: 
+      content: "When Barak came looking for Sisera, Jael went out to meet him. She
+        said, \u201CCome, and I will show you the man you are looking for.\u201D
+        So he followed her into the tent and found Sisera lying there dead, with
+        the tent peg through his temple.  "
+      comments: []
+    - title: 
+      content: 'So on that day Israel saw God defeat Jabin, the Canaanite king. '
+      comments: []
+  - verses:
+    - title: The Song of Deborah
+      content: '  On that day Deborah and Barak son of Abinoam sang this song:  '
+      comments: []
+    - title: 
+      content: "\u201CIsrael\u2019s leaders took charge,and the people gladly followed.Praise
+        the <smallcaps>Lord</smallcaps>!  "
+      comments: []
+    - title: 
+      content: "\u201CListen, you kings!Pay attention, you mighty rulers!For I will
+        sing to the <smallcaps>Lord</smallcaps>.I will make music to the <smallcaps>Lord</smallcaps>,
+        the God of Israel.  "
+      comments: []
+    - title: 
+      content: "\u201C<smallcaps>Lord</smallcaps>, when you set out from Seirand
+        marched across the fields of Edom,the earth trembled,and the cloudy skies
+        poured down rain.  "
+      comments: []
+    - title: 
+      content: "The mountains quaked in the presence of the <smallcaps>Lord</smallcaps>,the
+        God of Mount Sinai\u2014in the presence of the <smallcaps>Lord</smallcaps>,the
+        God of Israel.  "
+      comments: []
+    - title: 
+      content: "\u201CIn the days of Shamgar son of Anath,and in the days of Jael,people
+        avoided the main roads,and travelers stayed on winding pathways.  "
+      comments: []
+    - title: 
+      content: "There were few people left in the villages of Israel[[COMMENT(0)]]\u2014until
+        Deborah arose as a mother for Israel.  "
+      comments:
+      - number: '5:7 '
+        content: The meaning of the Hebrew is uncertain.
+    - title: 
+      content: 'When Israel chose new gods,war erupted at the city gates.Yet not
+        a shield or spear could be seenamong forty thousand warriors in Israel!  '
+      comments: []
+    - title: 
+      content: 'My heart is with the commanders of Israel,with those who volunteered
+        for war.Praise the <smallcaps>Lord</smallcaps>!  '
+      comments: []
+    - title: 
+      content: "\u201CConsider this, you who ride on fine donkeys,you who sit on
+        fancy saddle blankets,and you who walk along the road.  "
+      comments: []
+    - title: 
+      content: 'Listen to the village musicians[[COMMENT(0)]]gathered at the watering
+        holes.They recount the righteous victories of the <smallcaps>Lord</smallcaps>and
+        the victories of his villagers in Israel.Then the people of the <smallcaps>Lord</smallcaps>marched
+        down to the city gates.  '
+      comments:
+      - number: '5:11 '
+        content: The meaning of the Hebrew is uncertain.
+    - title: 
+      content: "\u201CWake up, Deborah, wake up!Wake up, wake up, and sing a song!Arise,
+        Barak!Lead your captives away, son of Abinoam!  "
+      comments: []
+    - title: 
+      content: "\u201CDown from Tabor marched the few against the nobles.The people
+        of the <smallcaps>Lord</smallcaps> marched down against mighty warriors.  "
+      comments: []
+    - title: 
+      content: "They came down from Ephraim\u2014a land that once belonged to the
+        Amalekites;they followed you, Benjamin, with your troops.From Makir the commanders
+        marched down;from Zebulun came those who carry a commander\u2019s staff.  "
+      comments: []
+    - title: 
+      content: 'The princes of Issachar were with Deborah and Barak.They followed
+        Barak, rushing into the valley.But in the tribe of Reubenthere was great
+        indecision.[[COMMENT(0)]]  '
+      comments:
+      - number: '5:15 '
+        content: As in some Hebrew manuscripts and Syriac version, which read <b>searchings
+          of heart; </b>Masoretic Text reads <b>resolve of heart.</b>
+    - title: 
+      content: "Why did you sit at home among the sheepfolds\u2014to hear the shepherds
+        whistle for their flocks?Yes, in the tribe of Reubenthere was great indecision.  "
+      comments: []
+    - title: 
+      content: 'Gilead remained east of the Jordan.And why did Dan stay home?Asher
+        sat unmoved at the seashore,remaining in his harbors.  '
+      comments: []
+    - title: 
+      content: 'But Zebulun risked his life,as did Naphtali, on the heights of the
+        battlefield.  '
+      comments: []
+    - title: 
+      content: "\u201CThe kings of Canaan came and fought,at Taanach near Megiddo\u2019s
+        springs,but they carried off no silver treasures.  "
+      comments: []
+    - title: 
+      content: 'The stars fought from heaven.The stars in their orbits fought against
+        Sisera.  '
+      comments: []
+    - title: 
+      content: "The Kishon River swept them away\u2014that ancient torrent, the Kishon.March
+        on with courage, my soul!  "
+      comments: []
+    - title: 
+      content: "Then the horses\u2019 hooves hammered the ground,the galloping, galloping
+        of Sisera\u2019s mighty steeds.  "
+      comments: []
+    - title: 
+      content: "\u2018Let the people of Meroz be cursed,\u2019 said the angel of
+        the <smallcaps>Lord</smallcaps>.\u2018Let them be utterly cursed,because
+        they did not come to help the <smallcaps>Lord</smallcaps>\u2014to help the
+        <smallcaps>Lord</smallcaps> against the mighty warriors.\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CMost blessed among women is Jael,the wife of Heber the Kenite.May
+        she be blessed above all women who live in tents.  "
+      comments: []
+    - title: 
+      content: 'Sisera asked for water,and she gave him milk.In a bowl fit for nobles,she
+        brought him yogurt.  '
+      comments: []
+    - title: 
+      content: "Then with her left hand she reached for a tent peg,and with her right
+        hand for the workman\u2019s hammer.She struck Sisera with the hammer, crushing
+        his head.With a shattering blow, she pierced his temples.  "
+      comments: []
+    - title: 
+      content: 'He sank, he fell,he lay still at her feet.And where he sank,there
+        he died.  '
+      comments: []
+    - title: 
+      content: "\u201CFrom the window Sisera\u2019s mother looked out.Through the
+        window she watched for his return, saying,\u2018Why is his chariot so long
+        in coming?Why don\u2019t we hear the sound of chariot wheels?\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CHer wise women answer,and she repeats these words to herself:  "
+      comments: []
+    - title: 
+      content: "\u2018They must be dividing the captured plunder\u2014with a woman
+        or two for every man.There will be colorful robes for Sisera,and colorful,
+        embroidered robes for me.Yes, the plunder will includecolorful robes embroidered
+        on both sides.\u2019  "
+      comments: []
+  - verses:
+    - title: "Gideon Becomes Israel\u2019s Judge"
+      content: "  The Israelites did evil in the <smallcaps>Lord</smallcaps>\u2019s
+        sight. So the <smallcaps>Lord</smallcaps> handed them over to the Midianites
+        for seven years. "
+      comments: []
+    - title: 
+      content: 'The Midianites were so cruel that the Israelites made hiding places
+        for themselves in the mountains, caves, and strongholds. '
+      comments: []
+    - title: 
+      content: 'Whenever the Israelites planted their crops, marauders from Midian,
+        Amalek, and the people of the east would attack Israel, '
+      comments: []
+    - title: 
+      content: 'camping in the land and destroying crops as far away as Gaza. They
+        left the Israelites with nothing to eat, taking all the sheep, goats, cattle,
+        and donkeys. '
+      comments: []
+    - title: 
+      content: 'These enemy hordes, coming with their livestock and tents, were as
+        thick as locusts; they arrived on droves of camels too numerous to count.
+        And they stayed until the land was stripped bare. '
+      comments: []
+    - title: 
+      content: 'So Israel was reduced to starvation by the Midianites. Then the Israelites
+        cried out to the <smallcaps>Lord</smallcaps> for help.  '
+      comments: []
+    - title: 
+      content: 'When they cried out to the <smallcaps>Lord</smallcaps> because of
+        Midian, '
+      comments: []
+    - title: 
+      content: "the <smallcaps>Lord</smallcaps> sent a prophet to the Israelites.
+        He said, \u201CThis is what the <smallcaps>Lord</smallcaps>, the God of Israel,
+        says: I brought you up out of slavery in Egypt. "
+      comments: []
+    - title: 
+      content: 'I rescued you from the Egyptians and from all who oppressed you.
+        I drove out your enemies and gave you their land. '
+      comments: []
+    - title: 
+      content: "I told you, \u2018I am the <smallcaps>Lord</smallcaps> your God.
+        You must not worship the gods of the Amorites, in whose land you now live.\u2019
+        But you have not listened to me.\u201D  "
+      comments: []
+    - title: 
+      content: 'Then the angel of the <smallcaps>Lord</smallcaps> came and sat beneath
+        the great tree at Ophrah, which belonged to Joash of the clan of Abiezer.
+        Gideon son of Joash was threshing wheat at the bottom of a winepress to hide
+        the grain from the Midianites. '
+      comments: []
+    - title: 
+      content: "The angel of the <smallcaps>Lord</smallcaps> appeared to him and
+        said, \u201CMighty hero, the <smallcaps>Lord</smallcaps> is with you!\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CSir,\u201D Gideon replied, \u201Cif the <smallcaps>Lord</smallcaps>
+        is with us, why has all this happened to us? And where are all the miracles
+        our ancestors told us about? Didn\u2019t they say, \u2018The <smallcaps>Lord</smallcaps>
+        brought us up out of Egypt\u2019? But now the <smallcaps>Lord</smallcaps>
+        has abandoned us and handed us over to the Midianites.\u201D  "
+      comments: []
+    - title: 
+      content: "Then the <smallcaps>Lord</smallcaps> turned to him and said, \u201CGo
+        with the strength you have, and rescue Israel from the Midianites. I am sending
+        you!\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CBut Lord,\u201D Gideon replied, \u201Chow can I rescue Israel?
+        My clan is the weakest in the whole tribe of Manasseh, and I am the least
+        in my entire family!\u201D  "
+      comments: []
+    - title: 
+      content: "The <smallcaps>Lord</smallcaps> said to him, \u201CI will be with
+        you. And you will destroy the Midianites as if you were fighting against
+        one man.\u201D  "
+      comments: []
+    - title: 
+      content: "Gideon replied, \u201CIf you are truly going to help me, show me
+        a sign to prove that it is really the <smallcaps>Lord</smallcaps> speaking
+        to me. "
+      comments: []
+    - title: 
+      content: "Don\u2019t go away until I come back and bring my offering to you.\u201DHe
+        answered, \u201CI will stay here until you return.\u201D  "
+      comments: []
+    - title: 
+      content: 'Gideon hurried home. He cooked a young goat, and with a basket[[COMMENT(0)]]
+        of flour he baked some bread without yeast. Then, carrying the meat in a
+        basket and the broth in a pot, he brought them out and presented them to
+        the angel, who was under the great tree.  '
+      comments:
+      - number: '6:19 '
+        content: Hebrew <b>an ephah </b>[20 quarts or 22 liters].
+    - title: 
+      content: "The angel of God said to him, \u201CPlace the meat and the unleavened
+        bread on this rock, and pour the broth over it.\u201D And Gideon did as he
+        was told. "
+      comments: []
+    - title: 
+      content: 'Then the angel of the <smallcaps>Lord</smallcaps> touched the meat
+        and bread with the tip of the staff in his hand, and fire flamed up from
+        the rock and consumed all he had brought. And the angel of the <smallcaps>Lord</smallcaps>
+        disappeared.  '
+      comments: []
+    - title: 
+      content: "When Gideon realized that it was the angel of the <smallcaps>Lord</smallcaps>,
+        he cried out, \u201COh, Sovereign <smallcaps>Lord</smallcaps>, I\u2019m doomed!
+        I have seen the angel of the <smallcaps>Lord</smallcaps> face to face!\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CIt is all right,\u201D the <smallcaps>Lord</smallcaps> replied.
+        \u201CDo not be afraid. You will not die.\u201D "
+      comments: []
+    - title: 
+      content: "And Gideon built an altar to the <smallcaps>Lord</smallcaps> there
+        and named it Yahweh-Shalom (which means \u201Cthe <smallcaps>Lord</smallcaps>
+        is peace\u201D). The altar remains in Ophrah in the land of the clan of Abiezer
+        to this day.  "
+      comments: []
+    - title: 
+      content: "That night the <smallcaps>Lord</smallcaps> said to Gideon, \u201CTake
+        the second bull from your father\u2019s herd, the one that is seven years
+        old. Pull down your father\u2019s altar to Baal, and cut down the Asherah
+        pole standing beside it. "
+      comments: []
+    - title: 
+      content: "Then build an altar to the <smallcaps>Lord</smallcaps> your God here
+        on this hilltop sanctuary, laying the stones carefully. Sacrifice the bull
+        as a burnt offering on the altar, using as fuel the wood of the Asherah pole
+        you cut down.\u201D  "
+      comments: []
+    - title: 
+      content: "So Gideon took ten of his servants and did as the <smallcaps>Lord</smallcaps>
+        had commanded. But he did it at night because he was afraid of the other
+        members of his father\u2019s household and the people of the town.  "
+      comments: []
+    - title: 
+      content: 'Early the next morning, as the people of the town began to stir,
+        someone discovered that the altar of Baal had been broken down and that the
+        Asherah pole beside it had been cut down. In their place a new altar had
+        been built, and on it were the remains of the bull that had been sacrificed. '
+      comments: []
+    - title: 
+      content: "The people said to each other, \u201CWho did this?\u201D And after
+        asking around and making a careful search, they learned that it was Gideon,
+        the son of Joash.  "
+      comments: []
+    - title: 
+      content: "\u201CBring out your son,\u201D the men of the town demanded of Joash.
+        \u201CHe must die for destroying the altar of Baal and for cutting down the
+        Asherah pole.\u201D  "
+      comments: []
+    - title: 
+      content: "But Joash shouted to the mob that confronted him, \u201CWhy are you
+        defending Baal? Will you argue his case? Whoever pleads his case will be
+        put to death by morning! If Baal truly is a god, let him defend himself and
+        destroy the one who broke down his altar!\u201D "
+      comments: []
+    - title: Gideon Asks for a Sign
+      content: "From then on Gideon was called Jerub-baal, which means \u201CLet
+        Baal defend himself,\u201D because he broke down Baal\u2019s altar.  "
+      comments: []
+    - title: 
+      content: 'Soon afterward the armies of Midian, Amalek, and the people of the
+        east formed an alliance against Israel and crossed the Jordan, camping in
+        the valley of Jezreel. '
+      comments: []
+    - title: 
+      content: "Then the Spirit of the <smallcaps>Lord</smallcaps> clothed Gideon
+        with power. He blew a ram\u2019s horn as a call to arms, and the men of the
+        clan of Abiezer came to him. "
+      comments: []
+    - title: 
+      content: 'He also sent messengers throughout Manasseh, Asher, Zebulun, and
+        Naphtali, summoning their warriors, and all of them responded.  '
+      comments: []
+    - title: 
+      content: "Then Gideon said to God, \u201CIf you are truly going to use me to
+        rescue Israel as you promised, "
+      comments: []
+    - title: 
+      content: "prove it to me in this way. I will put a wool fleece on the threshing
+        floor tonight. If the fleece is wet with dew in the morning but the ground
+        is dry, then I will know that you are going to help me rescue Israel as you
+        promised.\u201D "
+      comments: []
+    - title: 
+      content: 'And that is just what happened. When Gideon got up early the next
+        morning, he squeezed the fleece and wrung out a whole bowlful of water.  '
+      comments: []
+    - title: 
+      content: "Then Gideon said to God, \u201CPlease don\u2019t be angry with me,
+        but let me make one more request. Let me use the fleece for one more test.
+        This time let the fleece remain dry while the ground around it is wet with
+        dew.\u201D "
+      comments: []
+  - verses:
+    - title: Gideon Defeats the Midianites
+      content: '  So Jerub-baal (that is, Gideon) and his army got up early and went
+        as far as the spring of Harod. The armies of Midian were camped north of
+        them in the valley near the hill of Moreh. '
+      comments: []
+    - title: 
+      content: "The <smallcaps>Lord</smallcaps> said to Gideon, \u201CYou have too
+        many warriors with you. If I let all of you fight the Midianites, the Israelites
+        will boast to me that they saved themselves by their own strength. "
+      comments: []
+    - title: 
+      content: "Therefore, tell the people, \u2018Whoever is timid or afraid may
+        leave this mountain[[COMMENT(0)]] and go home.\u2019\u201D So 22,000 of them
+        went home, leaving only 10,000 who were willing to fight.  "
+      comments:
+      - number: '7:3 '
+        content: Hebrew <b>may leave Mount Gilead. </b>The identity of Mount Gilead
+          is uncertain in this context. It is perhaps used here as another name for
+          Mount Gilboa.
+    - title: 
+      content: "But the <smallcaps>Lord</smallcaps> told Gideon, \u201CThere are
+        still too many! Bring them down to the spring, and I will test them to determine
+        who will go with you and who will not.\u201D "
+      comments: []
+    - title: 
+      content: "When Gideon took his warriors down to the water, the <smallcaps>Lord</smallcaps>
+        told him, \u201CDivide the men into two groups. In one group put all those
+        who cup water in their hands and lap it up with their tongues like dogs.
+        In the other group put all those who kneel down and drink with their mouths
+        in the stream.\u201D "
+      comments: []
+    - title: 
+      content: 'Only 300 of the men drank from their hands. All the others got down
+        on their knees and drank with their mouths in the stream.  '
+      comments: []
+    - title: 
+      content: "The <smallcaps>Lord</smallcaps> told Gideon, \u201CWith these 300
+        men I will rescue you and give you victory over the Midianites. Send all
+        the others home.\u201D "
+      comments: []
+    - title: 
+      content: "So Gideon collected the provisions and rams\u2019 horns of the other
+        warriors and sent them home. But he kept the 300 men with him.The Midianite
+        camp was in the valley just below Gideon. "
+      comments: []
+    - title: 
+      content: "That night the <smallcaps>Lord</smallcaps> said, \u201CGet up! Go
+        down into the Midianite camp, for I have given you victory over them! "
+      comments: []
+    - title: 
+      content: 'But if you are afraid to attack, go down to the camp with your servant
+        Purah. '
+      comments: []
+    - title: 
+      content: "Listen to what the Midianites are saying, and you will be greatly
+        encouraged. Then you will be eager to attack.\u201DSo Gideon took Purah and
+        went down to the edge of the enemy camp. "
+      comments: []
+    - title: 
+      content: "The armies of Midian, Amalek, and the people of the east had settled
+        in the valley like a swarm of locusts. Their camels were like grains of sand
+        on the seashore\u2014too many to count! "
+      comments: []
+    - title: 
+      content: "Gideon crept up just as a man was telling his companion about a dream.
+        The man said, \u201CI had this dream, and in my dream a loaf of barley bread
+        came tumbling down into the Midianite camp. It hit a tent, turned it over,
+        and knocked it flat!\u201D  "
+      comments: []
+    - title: 
+      content: "His companion answered, \u201CYour dream can mean only one thing\u2014God
+        has given Gideon son of Joash, the Israelite, victory over Midian and all
+        its allies!\u201D  "
+      comments: []
+    - title: 
+      content: "When Gideon heard the dream and its interpretation, he bowed in worship
+        before the <smallcaps>Lord</smallcaps>.[[COMMENT(0)]] Then he returned to
+        the Israelite camp and shouted, \u201CGet up! For the <smallcaps>Lord</smallcaps>
+        has given you victory over the Midianite hordes!\u201D "
+      comments:
+      - number: '7:15 '
+        content: As in Greek version; Hebrew reads <b>he bowed.</b>
+    - title: 
+      content: "He divided the 300 men into three groups and gave each man a ram\u2019s
+        horn and a clay jar with a torch in it.  "
+      comments: []
+    - title: 
+      content: "Then he said to them, \u201CKeep your eyes on me. When I come to
+        the edge of the camp, do just as I do. "
+      comments: []
+    - title: 
+      content: "As soon as I and those with me blow the rams\u2019 horns, blow your
+        horns, too, all around the entire camp, and shout, \u2018For the <smallcaps>Lord</smallcaps>
+        and for Gideon!\u2019\u201D  "
+      comments: []
+    - title: 
+      content: "It was just after midnight,[[COMMENT(0)]] after the changing of the
+        guard, when Gideon and the 100 men with him reached the edge of the Midianite
+        camp. Suddenly, they blew the rams\u2019 horns and broke their clay jars. "
+      comments:
+      - number: '7:19 '
+        content: Hebrew <b>at the beginning of the second watch.</b>
+    - title: 
+      content: "Then all three groups blew their horns and broke their jars. They
+        held the blazing torches in their left hands and the horns in their right
+        hands, and they all shouted, \u201CA sword for the <smallcaps>Lord</smallcaps>
+        and for Gideon!\u201D  "
+      comments: []
+    - title: 
+      content: 'Each man stood at his position around the camp and watched as all
+        the Midianites rushed around in a panic, shouting as they ran to escape. '
+      comments: []
+    - title: 
+      content: "When the 300 Israelites blew their rams\u2019 horns, the <smallcaps>Lord</smallcaps>
+        caused the warriors in the camp to fight against each other with their swords.
+        Those who were not killed fled to places as far away as Beth-shittah near
+        Zererah and to the border of Abel-meholah near Tabbath.  "
+      comments: []
+    - title: 
+      content: 'Then Gideon sent for the warriors of Naphtali, Asher, and Manasseh,
+        who joined in chasing the army of Midian. '
+      comments: []
+    - title: 
+      content: "Gideon also sent messengers throughout the hill country of Ephraim,
+        saying, \u201CCome down to attack the Midianites. Cut them off at the shallow
+        crossings of the Jordan River at Beth-barah.\u201DSo all the men of Ephraim
+        did as they were told. "
+      comments: []
+  - verses:
+    - title: Gideon Kills Zebah and Zalmunna
+      content: "  Then the people of Ephraim asked Gideon, \u201CWhy have you treated
+        us this way? Why didn\u2019t you send for us when you first went out to fight
+        the Midianites?\u201D And they argued heatedly with Gideon.  "
+      comments: []
+    - title: 
+      content: "But Gideon replied, \u201CWhat have I accomplished compared to you?
+        Aren\u2019t even the leftover grapes of Ephraim\u2019s harvest better than
+        the entire crop of my little clan of Abiezer? "
+      comments: []
+    - title: 
+      content: "God gave you victory over Oreb and Zeeb, the commanders of the Midianite
+        army. What have I accomplished compared to that?\u201D When the men of Ephraim
+        heard Gideon\u2019s answer, their anger subsided.  "
+      comments: []
+    - title: 
+      content: 'Gideon then crossed the Jordan River with his 300 men, and though
+        exhausted, they continued to chase the enemy. '
+      comments: []
+    - title: 
+      content: "When they reached Succoth, Gideon asked the leaders of the town,
+        \u201CPlease give my warriors some food. They are very tired. I am chasing
+        Zebah and Zalmunna, the kings of Midian.\u201D  "
+      comments: []
+    - title: 
+      content: "But the officials of Succoth replied, \u201CCatch Zebah and Zalmunna
+        first, and then we will feed your army.\u201D  "
+      comments: []
+    - title: 
+      content: "So Gideon said, \u201CAfter the <smallcaps>Lord</smallcaps> gives
+        me victory over Zebah and Zalmunna, I will return and tear your flesh with
+        the thorns and briers from the wilderness.\u201D  "
+      comments: []
+    - title: 
+      content: 'From there Gideon went up to Peniel[[COMMENT(0)]] and again asked
+        for food, but he got the same answer. '
+      comments:
+      - number: '8:8 '
+        content: Hebrew <b>Penuel, </b>a variant spelling of Peniel; also in 8:9,
+          17.
+    - title: 
+      content: "So he said to the people of Peniel, \u201CAfter I return in victory,
+        I will tear down this tower.\u201D  "
+      comments: []
+    - title: 
+      content: "By this time Zebah and Zalmunna were in Karkor with about 15,000
+        warriors\u2014all that remained of the allied armies of the east, for 120,000
+        had already been killed. "
+      comments: []
+    - title: 
+      content: 'Gideon circled around by the caravan route east of Nobah and Jogbehah,
+        taking the Midianite army by surprise. '
+      comments: []
+    - title: 
+      content: 'Zebah and Zalmunna, the two Midianite kings, fled, but Gideon chased
+        them down and captured all their warriors.  '
+      comments: []
+    - title: 
+      content: 'After this, Gideon returned from the battle by way of Heres Pass. '
+      comments: []
+    - title: 
+      content: 'There he captured a young man from Succoth and demanded that he write
+        down the names of all the seventy-seven officials and elders in the town. '
+      comments: []
+    - title: 
+      content: "Gideon then returned to Succoth and said to the leaders, \u201CHere
+        are Zebah and Zalmunna. When we were here before, you taunted me, saying,
+        \u2018Catch Zebah and Zalmunna first, and then we will feed your exhausted
+        army.\u2019\u201D "
+      comments: []
+    - title: 
+      content: 'Then Gideon took the elders of the town and taught them a lesson,
+        punishing them with thorns and briers from the wilderness. '
+      comments: []
+    - title: 
+      content: 'He also tore down the tower of Peniel and killed all the men in the
+        town.  '
+      comments: []
+    - title: 
+      content: "Then Gideon asked Zebah and Zalmunna, \u201CThe men you killed at
+        Tabor\u2014what were they like?\u201D\u201CLike you,\u201D they replied.
+        \u201CThey all had the look of a king\u2019s son.\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CThey were my brothers, the sons of my own mother!\u201D Gideon
+        exclaimed. \u201CAs surely as the <smallcaps>Lord</smallcaps> lives, I wouldn\u2019t
+        kill you if you hadn\u2019t killed them.\u201D  "
+      comments: []
+    - title: 
+      content: "Turning to Jether, his oldest son, he said, \u201CKill them!\u201D
+        But Jether did not draw his sword, for he was only a boy and was afraid.  "
+      comments: []
+    - title: "Gideon\u2019s Sacred Ephod"
+      content: "Then Zebah and Zalmunna said to Gideon, \u201CBe a man! Kill us yourself!\u201D
+        So Gideon killed them both and took the royal ornaments from the necks of
+        their camels.  "
+      comments: []
+    - title: 
+      content: "Then the Israelites said to Gideon, \u201CBe our ruler! You and your
+        son and your grandson will be our rulers, for you have rescued us from Midian.\u201D  "
+      comments: []
+    - title: 
+      content: "But Gideon replied, \u201CI will not rule over you, nor will my son.
+        The <smallcaps>Lord</smallcaps> will rule over you! "
+      comments: []
+    - title: 
+      content: "However, I do have one request\u2014that each of you give me an earring
+        from the plunder you collected from your fallen enemies.\u201D (The enemies,
+        being Ishmaelites, all wore gold earrings.)  "
+      comments: []
+    - title: 
+      content: "\u201CGladly!\u201D they replied. They spread out a cloak, and each
+        one threw in a gold earring he had gathered from the plunder. "
+      comments: []
+    - title: 
+      content: 'The weight of the gold earrings was forty-three pounds,[[COMMENT(0)]]
+        not including the royal ornaments and pendants, the purple clothing worn
+        by the kings of Midian, or the chains around the necks of their camels.  '
+      comments:
+      - number: '8:26 '
+        content: Hebrew <b>1,700 [shekels] </b>[19.4 kilograms].
+    - title: 
+      content: 'Gideon made a sacred ephod from the gold and put it in Ophrah, his
+        hometown. But soon all the Israelites prostituted themselves by worshiping
+        it, and it became a trap for Gideon and his family.  '
+      comments: []
+    - title: 
+      content: "That is the story of how the people of Israel defeated Midian, which
+        never recovered. Throughout the rest of Gideon\u2019s lifetime\u2014about
+        forty years\u2014there was peace in the land.  "
+      comments: []
+    - title: 
+      content: 'Then Gideon[[COMMENT(0)]] son of Joash returned home. '
+      comments:
+      - number: '8:29 '
+        content: Hebrew <b>Jerub-baal; </b>see 6:32.
+    - title: 
+      content: 'He had seventy sons born to him, for he had many wives. '
+      comments: []
+    - title: 
+      content: 'He also had a concubine in Shechem, who gave birth to a son, whom
+        he named Abimelech. '
+      comments: []
+    - title: 
+      content: 'Gideon died when he was very old, and he was buried in the grave
+        of his father, Joash, at Ophrah in the land of the clan of Abiezer.  '
+      comments: []
+    - title: 
+      content: 'As soon as Gideon died, the Israelites prostituted themselves by
+        worshiping the images of Baal, making Baal-berith their god. '
+      comments: []
+    - title: 
+      content: 'They forgot the <smallcaps>Lord</smallcaps> their God, who had rescued
+        them from all their enemies surrounding them. '
+      comments: []
+  - verses:
+    - title: Abimelech Rules over Shechem
+      content: "  One day Gideon\u2019s[[COMMENT(0)]] son Abimelech went to Shechem
+        to visit his uncles\u2014his mother\u2019s brothers. He said to them and
+        to the rest of his mother\u2019s family, "
+      comments:
+      - number: '9:1 '
+        content: "Hebrew <b>Jerub-baal\u2019s </b>(see 6:32); also in 9:2, 24."
+    - title: 
+      content: "\u201CAsk the leading citizens of Shechem whether they want to be
+        ruled by all seventy of Gideon\u2019s sons or by one man. And remember that
+        I am your own flesh and blood!\u201D  "
+      comments: []
+    - title: 
+      content: "So Abimelech\u2019s uncles gave his message to all the citizens of
+        Shechem on his behalf. And after listening to this proposal, the people of
+        Shechem decided in favor of Abimelech because he was their relative. "
+      comments: []
+    - title: 
+      content: 'They gave him seventy silver coins from the temple of Baal-berith,
+        which he used to hire some reckless troublemakers who agreed to follow him. '
+      comments: []
+    - title: 
+      content: "He went to his father\u2019s home at Ophrah, and there, on one stone,
+        they killed all seventy of his half brothers, the sons of Gideon.[[COMMENT(0)]]
+        But the youngest brother, Jotham, escaped and hid.  "
+      comments:
+      - number: '9:5 '
+        content: Hebrew <b>Jerub-baal </b>(see 6:32); also in 9:16, 19, 28, 57.
+    - title: "Jotham\u2019s Parable"
+      content: 'Then all the leading citizens of Shechem and Beth-millo called a
+        meeting under the oak beside the pillar[[COMMENT(0)]] at Shechem and made
+        Abimelech their king.  '
+      comments:
+      - number: '9:6 '
+        content: The meaning of the Hebrew is uncertain.
+    - title: 
+      content: "When Jotham heard about this, he climbed to the top of Mount Gerizim
+        and shouted,\u201CListen to me, citizens of Shechem!Listen to me if you want
+        God to listen to you!  "
+      comments: []
+    - title: 
+      content: "Once upon a time the trees decided to choose a king.First they said
+        to the olive tree,\u2018Be our king!\u2019  "
+      comments: []
+    - title: 
+      content: "But the olive tree refused, saying,\u2018Should I quit producing
+        the olive oilthat blesses both God and people,just to wave back and forth
+        over the trees?\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CThen they said to the fig tree,\u2018You be our king!\u2019  "
+      comments: []
+    - title: 
+      content: "But the fig tree also refused, saying,\u2018Should I quit producing
+        my sweet fruitjust to wave back and forth over the trees?\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CThen they said to the grapevine,\u2018You be our king!\u2019  "
+      comments: []
+    - title: 
+      content: "But the grapevine also refused, saying,\u2018Should I quit producing
+        the winethat cheers both God and people,just to wave back and forth over
+        the trees?\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CThen all the trees finally turned to the thornbush and said,\u2018Come,
+        you be our king!\u2019  "
+      comments: []
+    - title: 
+      content: "And the thornbush replied to the trees,\u2018If you truly want to
+        make me your king,come and take shelter in my shade.If not, let fire come
+        out from meand devour the cedars of Lebanon.\u2019\u201D  "
+      comments: []
+    - title: 
+      content: "Jotham continued, \u201CNow make sure you have acted honorably and
+        in good faith by making Abimelech your king, and that you have done right
+        by Gideon and all of his descendants. Have you treated him with the honor
+        he deserves for all he accomplished? "
+      comments: []
+    - title: 
+      content: 'For he fought for you and risked his life when he rescued you from
+        the Midianites. '
+      comments: []
+    - title: 
+      content: "But today you have revolted against my father and his descendants,
+        killing his seventy sons on one stone. And you have chosen his slave woman\u2019s
+        son, Abimelech, to be your king just because he is your relative.  "
+      comments: []
+    - title: 
+      content: "\u201CIf you have acted honorably and in good faith toward Gideon
+        and his descendants today, then may you find joy in Abimelech, and may he
+        find joy in you. "
+      comments: []
+    - title: 
+      content: "But if you have not acted in good faith, then may fire come out from
+        Abimelech and devour the leading citizens of Shechem and Beth-millo; and
+        may fire come out from the citizens of Shechem and Beth-millo and devour
+        Abimelech!\u201D  "
+      comments: []
+    - title: Shechem Rebels against Abimelech
+      content: 'Then Jotham escaped and lived in Beer because he was afraid of his
+        brother Abimelech.  '
+      comments: []
+    - title: 
+      content: 'After Abimelech had ruled over Israel for three years, '
+      comments: []
+    - title: 
+      content: 'God sent a spirit that stirred up trouble between Abimelech and the
+        leading citizens of Shechem, and they revolted. '
+      comments: []
+    - title: 
+      content: "God was punishing Abimelech for murdering Gideon\u2019s seventy sons,
+        and the citizens of Shechem for supporting him in this treachery of murdering
+        his brothers. "
+      comments: []
+    - title: 
+      content: 'The citizens of Shechem set an ambush for Abimelech on the hilltops
+        and robbed everyone who passed that way. But someone warned Abimelech about
+        their plot.  '
+      comments: []
+    - title: 
+      content: 'One day Gaal son of Ebed moved to Shechem with his brothers and gained
+        the confidence of the leading citizens of Shechem. '
+      comments: []
+    - title: 
+      content: 'During the annual harvest festival at Shechem, held in the temple
+        of the local god, the wine flowed freely, and everyone began cursing Abimelech. '
+      comments: []
+    - title: 
+      content: "\u201CWho is Abimelech?\u201D Gaal shouted. \u201CHe\u2019s not a
+        true son of Shechem,[[COMMENT(0)]] so why should we be his servants? He\u2019s
+        merely the son of Gideon, and this Zebul is merely his deputy. Serve the
+        true sons of Hamor, the founder of Shechem. Why should we serve Abimelech? "
+      comments:
+      - number: '9:28 '
+        content: Hebrew <b>Who is Shechem?</b>
+    - title: 
+      content: "If I were in charge here, I would get rid of Abimelech. I would say[[COMMENT(0)]]
+        to him, \u2018Get some soldiers, and come out and fight!\u2019\u201D  "
+      comments:
+      - number: '9:29 '
+        content: As in Greek version; Hebrew reads <b>And he said.</b>
+    - title: 
+      content: 'But when Zebul, the leader of the city, heard what Gaal was saying,
+        he was furious. '
+      comments: []
+    - title: 
+      content: "He sent messengers to Abimelech in Arumah,[[COMMENT(0)]] telling
+        him, \u201CGaal son of Ebed and his brothers have come to live in Shechem,
+        and now they are inciting the city to rebel against you. "
+      comments:
+      - number: '9:31 '
+        content: Or <b>in secret; </b>Hebrew reads <b>in Tormah; </b>compare 9:41.
+    - title: 
+      content: 'Come by night with an army and hide out in the fields. '
+      comments: []
+    - title: 
+      content: "In the morning, as soon as it is daylight, attack the city. When
+        Gaal and those who are with him come out against you, you can do with them
+        as you wish.\u201D  "
+      comments: []
+    - title: 
+      content: 'So Abimelech and all his men went by night and split into four groups,
+        stationing themselves around Shechem. '
+      comments: []
+    - title: 
+      content: 'Gaal was standing at the city gates when Abimelech and his army came
+        out of hiding. '
+      comments: []
+    - title: 
+      content: "When Gaal saw them, he said to Zebul, \u201CLook, there are people
+        coming down from the hilltops!\u201DZebul replied, \u201CIt\u2019s just the
+        shadows on the hills that look like men.\u201D  "
+      comments: []
+    - title: 
+      content: "But again Gaal said, \u201CNo, people are coming down from the hills.[[COMMENT(0)]]
+        And another group is coming down the road past the Diviners\u2019 Oak.[[COMMENT(1)]]\u201D  "
+      comments:
+      - number: '9:37a '
+        content: Or <b>the center of the land.</b>
+      - number: '9:37b '
+        content: Hebrew <b>Elon-meonenim.</b>
+    - title: 
+      content: "Then Zebul turned on him and asked, \u201CNow where is that big mouth
+        of yours? Wasn\u2019t it you that said, \u2018Who is Abimelech, and why should
+        we be his servants?\u2019 The men you mocked are right outside the city!
+        Go out and fight them!\u201D  "
+      comments: []
+    - title: 
+      content: 'So Gaal led the leading citizens of Shechem into battle against Abimelech. '
+      comments: []
+    - title: 
+      content: "But Abimelech chased him, and many of Shechem\u2019s men were wounded
+        and fell along the road as they retreated to the city gate. "
+      comments: []
+    - title: 
+      content: 'Abimelech returned to Arumah, and Zebul drove Gaal and his brothers
+        out of Shechem.  '
+      comments: []
+    - title: 
+      content: 'The next day the people of Shechem went out into the fields to battle.
+        When Abimelech heard about it, '
+      comments: []
+    - title: 
+      content: 'he divided his men into three groups and set an ambush in the fields.
+        When Abimelech saw the people coming out of the city, he and his men jumped
+        up from their hiding places and attacked them. '
+      comments: []
+    - title: 
+      content: "Abimelech and his group stormed the city gate to keep the men of
+        Shechem from getting back in, while Abimelech\u2019s other two groups cut
+        them down in the fields. "
+      comments: []
+    - title: 
+      content: 'The battle went on all day before Abimelech finally captured the
+        city. He killed the people, leveled the city, and scattered salt all over
+        the ground.  '
+      comments: []
+    - title: 
+      content: 'When the leading citizens who lived in the tower of Shechem heard
+        what had happened, they ran and hid in the temple of Baal-berith.[[COMMENT(0)]]  '
+      comments:
+      - number: '9:46 '
+        content: Hebrew <b>El-berith, </b>another name for Baal-berith; compare 9:4.
+    - title: 
+      content: 'Someone reported to Abimelech that the citizens had gathered in the
+        temple, '
+      comments: []
+    - title: 
+      content: "so he led his forces to Mount Zalmon. He took an ax and chopped some
+        branches from a tree, then put them on his shoulder. \u201CQuick, do as I
+        have done!\u201D he told his men. "
+      comments: []
+    - title: 
+      content: "So each of them cut down some branches, following Abimelech\u2019s
+        example. They piled the branches against the walls of the temple and set
+        them on fire. So all the people who had lived in the tower of Shechem died\u2014about
+        1,000 men and women.  "
+      comments: []
+    - title: 
+      content: 'Then Abimelech attacked the town of Thebez and captured it. '
+      comments: []
+    - title: 
+      content: "But there was a strong tower inside the town, and all the men and
+        women\u2014the entire population\u2014fled to it. They barricaded themselves
+        in and climbed up to the roof of the tower. "
+      comments: []
+    - title: 
+      content: 'Abimelech followed them to attack the tower. But as he prepared to
+        set fire to the entrance, '
+      comments: []
+    - title: 
+      content: "a woman on the roof dropped a millstone that landed on Abimelech\u2019s
+        head and crushed his skull.  "
+      comments: []
+    - title: 
+      content: "He quickly said to his young armor bearer, \u201CDraw your sword
+        and kill me! Don\u2019t let it be said that a woman killed Abimelech!\u201D
+        So the young man ran him through with his sword, and he died. "
+      comments: []
+    - title: 
+      content: "When Abimelech\u2019s men saw that he was dead, they disbanded and
+        returned to their homes.  "
+      comments: []
+    - title: 
+      content: 'In this way, God punished Abimelech for the evil he had done against
+        his father by murdering his seventy brothers. '
+      comments: []
+  - verses:
+    - title: "Tola Becomes Israel\u2019s Judge"
+      content: '  After Abimelech died, Tola son of Puah, son of Dodo, was the next
+        person to rescue Israel. He was from the tribe of Issachar but lived in the
+        town of Shamir in the hill country of Ephraim. '
+      comments: []
+    - title: "Jair Becomes Israel\u2019s Judge"
+      content: 'He judged Israel for twenty-three years. When he died, he was buried
+        in Shamir.  '
+      comments: []
+    - title: 
+      content: 'After Tola died, Jair from Gilead judged Israel for twenty-two years. '
+      comments: []
+    - title: 
+      content: 'His thirty sons rode around on thirty donkeys, and they owned thirty
+        towns in the land of Gilead, which are still called the Towns of Jair.[[COMMENT(0)]]  '
+      comments:
+      - number: '10:4 '
+        content: Hebrew <b>Havvoth-jair.</b>
+    - title: The Ammonites Oppress Israel
+      content: 'When Jair died, he was buried in Kamon.  '
+      comments: []
+    - title: 
+      content: "Again the Israelites did evil in the <smallcaps>Lord</smallcaps>\u2019s
+        sight. They served the images of Baal and Ashtoreth, and the gods of Aram,
+        Sidon, Moab, Ammon, and Philistia. They abandoned the <smallcaps>Lord</smallcaps>
+        and no longer served him at all. "
+      comments: []
+    - title: 
+      content: 'So the <smallcaps>Lord</smallcaps> burned with anger against Israel,
+        and he turned them over to the Philistines and the Ammonites, '
+      comments: []
+    - title: 
+      content: 'who began to oppress them that year. For eighteen years they oppressed
+        all the Israelites east of the Jordan River in the land of the Amorites (that
+        is, in Gilead). '
+      comments: []
+    - title: 
+      content: 'The Ammonites also crossed to the west side of the Jordan and attacked
+        Judah, Benjamin, and Ephraim.The Israelites were in great distress. '
+      comments: []
+    - title: 
+      content: "Finally, they cried out to the <smallcaps>Lord</smallcaps> for help,
+        saying, \u201CWe have sinned against you because we have abandoned you as
+        our God and have served the images of Baal.\u201D  "
+      comments: []
+    - title: 
+      content: "The <smallcaps>Lord</smallcaps> replied, \u201CDid I not rescue you
+        from the Egyptians, the Amorites, the Ammonites, the Philistines, "
+      comments: []
+    - title: 
+      content: 'the Sidonians, the Amalekites, and the Maonites? When they oppressed
+        you, you cried out to me for help, and I rescued you. '
+      comments: []
+    - title: 
+      content: 'Yet you have abandoned me and served other gods. So I will not rescue
+        you anymore. '
+      comments: []
+    - title: 
+      content: "Go and cry out to the gods you have chosen! Let them rescue you in
+        your hour of distress!\u201D  "
+      comments: []
+    - title: 
+      content: "But the Israelites pleaded with the <smallcaps>Lord</smallcaps> and
+        said, \u201CWe have sinned. Punish us as you see fit, only rescue us today
+        from our enemies.\u201D "
+      comments: []
+    - title: 
+      content: 'Then the Israelites put aside their foreign gods and served the <smallcaps>Lord</smallcaps>.
+        And he was grieved by their misery.  '
+      comments: []
+    - title: 
+      content: 'At that time the armies of Ammon had gathered for war and were camped
+        in Gilead, and the people of Israel assembled and camped at Mizpah. '
+      comments: []
+  - verses:
+    - title: "Jephthah Becomes Israel\u2019s Judge"
+      content: '  Now Jephthah of Gilead was a great warrior. He was the son of Gilead,
+        but his mother was a prostitute. '
+      comments: []
+    - title: 
+      content: "Gilead\u2019s wife also had several sons, and when these half brothers
+        grew up, they chased Jephthah off the land. \u201CYou will not get any of
+        our father\u2019s inheritance,\u201D they said, \u201Cfor you are the son
+        of a prostitute.\u201D "
+      comments: []
+    - title: 
+      content: 'So Jephthah fled from his brothers and lived in the land of Tob.
+        Soon he had a band of worthless rebels following him.  '
+      comments: []
+    - title: 
+      content: 'At about this time, the Ammonites began their war against Israel. '
+      comments: []
+    - title: 
+      content: 'When the Ammonites attacked, the elders of Gilead sent for Jephthah
+        in the land of Tob. '
+      comments: []
+    - title: 
+      content: "The elders said, \u201CCome and be our commander! Help us fight the
+        Ammonites!\u201D  "
+      comments: []
+    - title: 
+      content: "But Jephthah said to them, \u201CAren\u2019t you the ones who hated
+        me and drove me from my father\u2019s house? Why do you come to me now when
+        you\u2019re in trouble?\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CBecause we need you,\u201D the elders replied. \u201CIf you
+        lead us in battle against the Ammonites, we will make you ruler over all
+        the people of Gilead.\u201D  "
+      comments: []
+    - title: 
+      content: "Jephthah said to the elders, \u201CLet me get this straight. If I
+        come with you and if the <smallcaps>Lord</smallcaps> gives me victory over
+        the Ammonites, will you really make me ruler over all the people?\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CThe <smallcaps>Lord</smallcaps> is our witness,\u201D the elders
+        replied. \u201CWe promise to do whatever you say.\u201D  "
+      comments: []
+    - title: 
+      content: 'So Jephthah went with the elders of Gilead, and the people made him
+        their ruler and commander of the army. At Mizpah, in the presence of the
+        <smallcaps>Lord</smallcaps>, Jephthah repeated what he had said to the elders.  '
+      comments: []
+    - title: 
+      content: "Then Jephthah sent messengers to the king of Ammon, asking, \u201CWhy
+        have you come out to fight against my land?\u201D  "
+      comments: []
+    - title: 
+      content: "The king of Ammon answered Jephthah\u2019s messengers, \u201CWhen
+        the Israelites came out of Egypt, they stole my land from the Arnon River
+        to the Jabbok River and all the way to the Jordan. Now then, give back the
+        land peaceably.\u201D  "
+      comments: []
+    - title: 
+      content: 'Jephthah sent this message back to the Ammonite king:  '
+      comments: []
+    - title: 
+      content: "\u201CThis is what Jephthah says: Israel did not steal any land from
+        Moab or Ammon. "
+      comments: []
+    - title: 
+      content: 'When the people of Israel arrived at Kadesh on their journey from
+        Egypt after crossing the Red Sea,[[COMMENT(0)]]  '
+      comments:
+      - number: '11:16 '
+        content: Hebrew <b>sea of reeds.</b>
+    - title: 
+      content: "they sent messengers to the king of Edom asking for permission to
+        pass through his land. But their request was denied. Then they asked the
+        king of Moab for similar permission, but he wouldn\u2019t let them pass through
+        either. So the people of Israel stayed in Kadesh.  "
+      comments: []
+    - title: 
+      content: "\u201CFinally, they went around Edom and Moab through the wilderness.
+        They traveled along Moab\u2019s eastern border and camped on the other side
+        of the Arnon River. But they never once crossed the Arnon River into Moab,
+        for the Arnon was the border of Moab.  "
+      comments: []
+    - title: 
+      content: "\u201CThen Israel sent messengers to King Sihon of the Amorites,
+        who ruled from Heshbon, asking for permission to cross through his land to
+        get to their destination. "
+      comments: []
+    - title: 
+      content: "But King Sihon didn\u2019t trust Israel to pass through his land.
+        Instead, he mobilized his army at Jahaz and attacked them. "
+      comments: []
+    - title: 
+      content: 'But the <smallcaps>Lord</smallcaps>, the God of Israel, gave his
+        people victory over King Sihon. So Israel took control of all the land of
+        the Amorites, who lived in that region, '
+      comments: []
+    - title: 
+      content: 'from the Arnon River to the Jabbok River, and from the eastern wilderness
+        to the Jordan.  '
+      comments: []
+    - title: 
+      content: "\u201CSo you see, it was the <smallcaps>Lord</smallcaps>, the God
+        of Israel, who took away the land from the Amorites and gave it to Israel.
+        Why, then, should we give it back to you? "
+      comments: []
+    - title: 
+      content: 'You keep whatever your god Chemosh gives you, and we will keep whatever
+        the <smallcaps>Lord</smallcaps> our God gives us. '
+      comments: []
+    - title: 
+      content: 'Are you any better than Balak son of Zippor, king of Moab? Did he
+        try to make a case against Israel for disputed land? Did he go to war against
+        them?  '
+      comments: []
+    - title: 
+      content: "\u201CIsrael has been living here for 300 years, inhabiting Heshbon
+        and its surrounding settlements, all the way to Aroer and its settlements,
+        and in all the towns along the Arnon River. Why have you made no effort to
+        recover it before now? "
+      comments: []
+    - title: 
+      content: "Therefore, I have not sinned against you. Rather, you have wronged
+        me by attacking me. Let the <smallcaps>Lord</smallcaps>, who is judge, decide
+        today which of us is right\u2014Israel or Ammon.\u201D  "
+      comments: []
+    - title: "Jephthah\u2019s Vow"
+      content: "But the king of Ammon paid no attention to Jephthah\u2019s message.  "
+      comments: []
+    - title: 
+      content: 'At that time the Spirit of the <smallcaps>Lord</smallcaps> came upon
+        Jephthah, and he went throughout the land of Gilead and Manasseh, including
+        Mizpah in Gilead, and from there he led an army against the Ammonites. '
+      comments: []
+    - title: 
+      content: "And Jephthah made a vow to the <smallcaps>Lord</smallcaps>. He said,
+        \u201CIf you give me victory over the Ammonites, "
+      comments: []
+    - title: 
+      content: "I will give to the <smallcaps>Lord</smallcaps> whatever comes out
+        of my house to meet me when I return in triumph. I will sacrifice it as a
+        burnt offering.\u201D  "
+      comments: []
+    - title: 
+      content: 'So Jephthah led his army against the Ammonites, and the <smallcaps>Lord</smallcaps>
+        gave him victory. '
+      comments: []
+    - title: 
+      content: 'He crushed the Ammonites, devastating about twenty towns from Aroer
+        to an area near Minnith and as far away as Abel-keramim. In this way Israel
+        defeated the Ammonites.  '
+      comments: []
+    - title: 
+      content: 'When Jephthah returned home to Mizpah, his daughter came out to meet
+        him, playing on a tambourine and dancing for joy. She was his one and only
+        child; he had no other sons or daughters. '
+      comments: []
+    - title: 
+      content: "When he saw her, he tore his clothes in anguish. \u201COh, my daughter!\u201D
+        he cried out. \u201CYou have completely destroyed me! You\u2019ve brought
+        disaster on me! For I have made a vow to the <smallcaps>Lord</smallcaps>,
+        and I cannot take it back.\u201D  "
+      comments: []
+    - title: 
+      content: "And she said, \u201CFather, if you have made a vow to the <smallcaps>Lord</smallcaps>,
+        you must do to me what you have vowed, for the <smallcaps>Lord</smallcaps>
+        has given you a great victory over your enemies, the Ammonites. "
+      comments: []
+    - title: 
+      content: "But first let me do this one thing: Let me go up and roam in the
+        hills and weep with my friends for two months, because I will die a virgin.\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CYou may go,\u201D Jephthah said. And he sent her away for two
+        months. She and her friends went into the hills and wept because she would
+        never have children. "
+      comments: []
+    - title: 
+      content: 'When she returned home, her father kept the vow he had made, and
+        she died a virgin.So it has become a custom in Israel '
+      comments: []
+  - verses:
+    - title: Ephraim Fights with Jephthah
+      content: "  Then the people of Ephraim mobilized an army and crossed over the
+        Jordan River to Zaphon. They sent this message to Jephthah: \u201CWhy didn\u2019t
+        you call for us to help you fight against the Ammonites? We are going to
+        burn down your house with you in it!\u201D  "
+      comments: []
+    - title: 
+      content: "Jephthah replied, \u201CI summoned you at the beginning of the dispute,
+        but you refused to come! You failed to help us in our struggle against Ammon. "
+      comments: []
+    - title: 
+      content: "So when I realized you weren\u2019t coming, I risked my life and
+        went to battle without you, and the <smallcaps>Lord</smallcaps> gave me victory
+        over the Ammonites. So why have you now come to fight me?\u201D  "
+      comments: []
+    - title: 
+      content: "The people of Ephraim responded, \u201CYou men of Gilead are nothing
+        more than fugitives from Ephraim and Manasseh.\u201D So Jephthah gathered
+        all the men of Gilead and attacked the men of Ephraim and defeated them.  "
+      comments: []
+    - title: 
+      content: "Jephthah captured the shallow crossings of the Jordan River, and
+        whenever a fugitive from Ephraim tried to go back across, the men of Gilead
+        would challenge him. \u201CAre you a member of the tribe of Ephraim?\u201D
+        they would ask. If the man said, \u201CNo, I\u2019m not,\u201D "
+      comments: []
+    - title: 
+      content: "they would tell him to say \u201CShibboleth.\u201D If he was from
+        Ephraim, he would say \u201CSibboleth,\u201D because people from Ephraim
+        cannot pronounce the word correctly. Then they would take him and kill him
+        at the shallow crossings of the Jordan. In all, 42,000 Ephraimites were killed
+        at that time.  "
+      comments: []
+    - title: "Ibzan Becomes Israel\u2019s Judge"
+      content: 'Jephthah judged Israel for six years. When he died, he was buried
+        in one of the towns of Gilead.  '
+      comments: []
+    - title: 
+      content: 'After Jephthah died, Ibzan from Bethlehem judged Israel. '
+      comments: []
+    - title: 
+      content: 'He had thirty sons and thirty daughters. He sent his daughters to
+        marry men outside his clan, and he brought in thirty young women from outside
+        his clan to marry his sons. Ibzan judged Israel for seven years. '
+      comments: []
+    - title: "Elon Becomes Israel\u2019s Judge"
+      content: 'When he died, he was buried at Bethlehem.  '
+      comments: []
+    - title: 
+      content: 'After Ibzan died, Elon from the tribe of Zebulun judged Israel for
+        ten years. '
+      comments: []
+    - title: "Abdon Becomes Israel\u2019s Judge"
+      content: 'When he died, he was buried at Aijalon in Zebulun.  '
+      comments: []
+    - title: 
+      content: 'After Elon died, Abdon son of Hillel, from Pirathon, judged Israel. '
+      comments: []
+    - title: 
+      content: 'He had forty sons and thirty grandsons, who rode on seventy donkeys.
+        He judged Israel for eight years. '
+      comments: []
+  - verses:
+    - title: The Birth of Samson
+      content: "  Again the Israelites did evil in the <smallcaps>Lord</smallcaps>\u2019s
+        sight, so the <smallcaps>Lord</smallcaps> handed them over to the Philistines,
+        who oppressed them for forty years.  "
+      comments: []
+    - title: 
+      content: 'In those days a man named Manoah from the tribe of Dan lived in the
+        town of Zorah. His wife was unable to become pregnant, and they had no children. '
+      comments: []
+    - title: 
+      content: "The angel of the <smallcaps>Lord</smallcaps> appeared to Manoah\u2019s
+        wife and said, \u201CEven though you have been unable to have children, you
+        will soon become pregnant and give birth to a son. "
+      comments: []
+    - title: 
+      content: 'So be careful; you must not drink wine or any other alcoholic drink
+        nor eat any forbidden food.[[COMMENT(0)]]  '
+      comments:
+      - number: '13:4 '
+        content: Hebrew <b>any unclean thing; </b>also in 13:7, 14.
+    - title: 
+      content: "You will become pregnant and give birth to a son, and his hair must
+        never be cut. For he will be dedicated to God as a Nazirite from birth. He
+        will begin to rescue Israel from the Philistines.\u201D  "
+      comments: []
+    - title: 
+      content: "The woman ran and told her husband, \u201CA man of God appeared to
+        me! He looked like one of God\u2019s angels, terrifying to see. I didn\u2019t
+        ask where he was from, and he didn\u2019t tell me his name. "
+      comments: []
+    - title: 
+      content: "But he told me, \u2018You will become pregnant and give birth to
+        a son. You must not drink wine or any other alcoholic drink nor eat any forbidden
+        food. For your son will be dedicated to God as a Nazirite from the moment
+        of his birth until the day of his death.\u2019\u201D  "
+      comments: []
+    - title: 
+      content: "Then Manoah prayed to the <smallcaps>Lord</smallcaps>, saying, \u201CLord,
+        please let the man of God come back to us again and give us more instructions
+        about this son who is to be born.\u201D  "
+      comments: []
+    - title: 
+      content: "God answered Manoah\u2019s prayer, and the angel of God appeared
+        once again to his wife as she was sitting in the field. But her husband,
+        Manoah, was not with her. "
+      comments: []
+    - title: 
+      content: "So she quickly ran and told her husband, \u201CThe man who appeared
+        to me the other day is here again!\u201D  "
+      comments: []
+    - title: 
+      content: "Manoah ran back with his wife and asked, \u201CAre you the man who
+        spoke to my wife the other day?\u201D\u201CYes,\u201D he replied, \u201CI
+        am.\u201D  "
+      comments: []
+    - title: 
+      content: "So Manoah asked him, \u201CWhen your words come true, what kind of
+        rules should govern the boy\u2019s life and work?\u201D  "
+      comments: []
+    - title: 
+      content: "The angel of the <smallcaps>Lord</smallcaps> replied, \u201CBe sure
+        your wife follows the instructions I gave her. "
+      comments: []
+    - title: 
+      content: "She must not eat grapes or raisins, drink wine or any other alcoholic
+        drink, or eat any forbidden food.\u201D  "
+      comments: []
+    - title: 
+      content: "Then Manoah said to the angel of the <smallcaps>Lord</smallcaps>,
+        \u201CPlease stay here until we can prepare a young goat for you to eat.\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CI will stay,\u201D the angel of the <smallcaps>Lord</smallcaps>
+        replied, \u201Cbut I will not eat anything. However, you may prepare a burnt
+        offering as a sacrifice to the <smallcaps>Lord</smallcaps>.\u201D (Manoah
+        didn\u2019t realize it was the angel of the <smallcaps>Lord</smallcaps>.)  "
+      comments: []
+    - title: 
+      content: "Then Manoah asked the angel of the <smallcaps>Lord</smallcaps>, \u201CWhat
+        is your name? For when all this comes true, we want to honor you.\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CWhy do you ask my name?\u201D the angel of the <smallcaps>Lord</smallcaps>
+        replied. \u201CIt is too wonderful for you to understand.\u201D  "
+      comments: []
+    - title: 
+      content: 'Then Manoah took a young goat and a grain offering and offered it
+        on a rock as a sacrifice to the <smallcaps>Lord</smallcaps>. And as Manoah
+        and his wife watched, the <smallcaps>Lord</smallcaps> did an amazing thing. '
+      comments: []
+    - title: 
+      content: 'As the flames from the altar shot up toward the sky, the angel of
+        the <smallcaps>Lord</smallcaps> ascended in the fire. When Manoah and his
+        wife saw this, they fell with their faces to the ground.  '
+      comments: []
+    - title: 
+      content: 'The angel did not appear again to Manoah and his wife. Manoah finally
+        realized it was the angel of the <smallcaps>Lord</smallcaps>, '
+      comments: []
+    - title: 
+      content: "and he said to his wife, \u201CWe will certainly die, for we have
+        seen God!\u201D  "
+      comments: []
+    - title: 
+      content: "But his wife said, \u201CIf the <smallcaps>Lord</smallcaps> were
+        going to kill us, he wouldn\u2019t have accepted our burnt offering and grain
+        offering. He wouldn\u2019t have appeared to us and told us this wonderful
+        thing and done these miracles.\u201D  "
+      comments: []
+    - title: 
+      content: 'When her son was born, she named him Samson. And the <smallcaps>Lord</smallcaps>
+        blessed him as he grew up. '
+      comments: []
+  - verses:
+    - title: "Samson\u2019s Riddle"
+      content: '  One day when Samson was in Timnah, one of the Philistine women
+        caught his eye. '
+      comments: []
+    - title: 
+      content: "When he returned home, he told his father and mother, \u201CA young
+        Philistine woman in Timnah caught my eye. I want to marry her. Get her for
+        me.\u201D  "
+      comments: []
+    - title: 
+      content: "His father and mother objected. \u201CIsn\u2019t there even one woman
+        in our tribe or among all the Israelites you could marry?\u201D they asked.
+        \u201CWhy must you go to the pagan Philistines to find a wife?\u201DBut Samson
+        told his father, \u201CGet her for me! She looks good to me.\u201D "
+      comments: []
+    - title: 
+      content: "His father and mother didn\u2019t realize the <smallcaps>Lord</smallcaps>
+        was at work in this, creating an opportunity to work against the Philistines,
+        who ruled over Israel at that time.  "
+      comments: []
+    - title: 
+      content: 'As Samson and his parents were going down to Timnah, a young lion
+        suddenly attacked Samson near the vineyards of Timnah. '
+      comments: []
+    - title: 
+      content: "At that moment the Spirit of the <smallcaps>Lord</smallcaps> came
+        powerfully upon him, and he ripped the lion\u2019s jaws apart with his bare
+        hands. He did it as easily as if it were a young goat. But he didn\u2019t
+        tell his father or mother about it. "
+      comments: []
+    - title: 
+      content: 'When Samson arrived in Timnah, he talked with the woman and was very
+        pleased with her.  '
+      comments: []
+    - title: 
+      content: 'Later, when he returned to Timnah for the wedding, he turned off
+        the path to look at the carcass of the lion. And he found that a swarm of
+        bees had made some honey in the carcass. '
+      comments: []
+    - title: 
+      content: "He scooped some of the honey into his hands and ate it along the
+        way. He also gave some to his father and mother, and they ate it. But he
+        didn\u2019t tell them he had taken the honey from the carcass of the lion.  "
+      comments: []
+    - title: 
+      content: 'As his father was making final arrangements for the marriage, Samson
+        threw a party at Timnah, as was the custom for elite young men. '
+      comments: []
+    - title: 
+      content: "When the bride\u2019s parents[[COMMENT(0)]] saw him, they selected
+        thirty young men from the town to be his companions.  "
+      comments:
+      - number: '14:11 '
+        content: Hebrew <b>they.</b>
+    - title: 
+      content: "Samson said to them, \u201CLet me tell you a riddle. If you solve
+        my riddle during these seven days of the celebration, I will give you thirty
+        fine linen robes and thirty sets of festive clothing. "
+      comments: []
+    - title: 
+      content: "But if you can\u2019t solve it, then you must give me thirty fine
+        linen robes and thirty sets of festive clothing.\u201D\u201CAll right,\u201D
+        they agreed, \u201Clet\u2019s hear your riddle.\u201D  "
+      comments: []
+    - title: 
+      content: "So he said:\u201COut of the one who eats came something to eat;out
+        of the strong came something sweet.\u201DThree days later they were still
+        trying to figure it out. "
+      comments: []
+    - title: 
+      content: "On the fourth[[COMMENT(0)]] day they said to Samson\u2019s wife,
+        \u201CEntice your husband to explain the riddle for us, or we will burn down
+        your father\u2019s house with you in it. Did you invite us to this party
+        just to make us poor?\u201D  "
+      comments:
+      - number: '14:15 '
+        content: As in Greek version; Hebrew reads <b>seventh.</b>
+    - title: 
+      content: "So Samson\u2019s wife came to him in tears and said, \u201CYou don\u2019t
+        love me; you hate me! You have given my people a riddle, but you haven\u2019t
+        told me the answer.\u201D\u201CI haven\u2019t even given the answer to my
+        father or mother,\u201D he replied. \u201CWhy should I tell you?\u201D "
+      comments: []
+    - title: 
+      content: 'So she cried whenever she was with him and kept it up for the rest
+        of the celebration. At last, on the seventh day he told her the answer because
+        she was tormenting him with her nagging. Then she explained the riddle to
+        the young men.  '
+      comments: []
+    - title: 
+      content: "So before sunset of the seventh day, the men of the town came to
+        Samson with their answer:\u201CWhat is sweeter than honey?What is stronger
+        than a lion?\u201DSamson replied, \u201CIf you hadn\u2019t plowed with my
+        heifer, you wouldn\u2019t have solved my riddle!\u201D  "
+      comments: []
+    - title: 
+      content: 'Then the Spirit of the <smallcaps>Lord</smallcaps> came powerfully
+        upon him. He went down to the town of Ashkelon, killed thirty men, took their
+        belongings, and gave their clothing to the men who had solved his riddle.
+        But Samson was furious about what had happened, and he went back home to
+        live with his father and mother. '
+      comments: []
+  - verses:
+    - title: "Samson\u2019s Vengeance on the Philistines"
+      content: "  Later on, during the wheat harvest, Samson took a young goat as
+        a present to his wife. He said, \u201CI\u2019m going into my wife\u2019s
+        room to sleep with her,\u201D but her father wouldn\u2019t let him in.  "
+      comments: []
+    - title: 
+      content: "\u201CI truly thought you must hate her,\u201D her father explained,
+        \u201Cso I gave her in marriage to your best man. But look, her younger sister
+        is even more beautiful than she is. Marry her instead.\u201D  "
+      comments: []
+    - title: 
+      content: "Samson said, \u201CThis time I cannot be blamed for everything I
+        am going to do to you Philistines.\u201D "
+      comments: []
+    - title: 
+      content: 'Then he went out and caught 300 foxes. He tied their tails together
+        in pairs, and he fastened a torch to each pair of tails. '
+      comments: []
+    - title: 
+      content: 'Then he lit the torches and let the foxes run through the grain fields
+        of the Philistines. He burned all their grain to the ground, including the
+        sheaves and the uncut grain. He also destroyed their vineyards and olive
+        groves.  '
+      comments: []
+    - title: 
+      content: "\u201CWho did this?\u201D the Philistines demanded.\u201CSamson,\u201D
+        was the reply, \u201Cbecause his father-in-law from Timnah gave Samson\u2019s
+        wife to be married to his best man.\u201D So the Philistines went and got
+        the woman and her father and burned them to death.  "
+      comments: []
+    - title: 
+      content: "\u201CBecause you did this,\u201D Samson vowed, \u201CI won\u2019t
+        rest until I take my revenge on you!\u201D "
+      comments: []
+    - title: 
+      content: 'So he attacked the Philistines with great fury and killed many of
+        them. Then he went to live in a cave in the rock of Etam.  '
+      comments: []
+    - title: 
+      content: 'The Philistines retaliated by setting up camp in Judah and spreading
+        out near the town of Lehi. '
+      comments: []
+    - title: 
+      content: "The men of Judah asked the Philistines, \u201CWhy are you attacking
+        us?\u201DThe Philistines replied, \u201CWe\u2019ve come to capture Samson.
+        We\u2019ve come to pay him back for what he did to us.\u201D  "
+      comments: []
+    - title: 
+      content: "So 3,000 men of Judah went down to get Samson at the cave in the
+        rock of Etam. They said to Samson, \u201CDon\u2019t you realize the Philistines
+        rule over us? What are you doing to us?\u201DBut Samson replied, \u201CI
+        only did to them what they did to me.\u201D  "
+      comments: []
+    - title: 
+      content: "But the men of Judah told him, \u201CWe have come to tie you up and
+        hand you over to the Philistines.\u201D\u201CAll right,\u201D Samson said.
+        \u201CBut promise that you won\u2019t kill me yourselves.\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CWe will only tie you up and hand you over to the Philistines,\u201D
+        they replied. \u201CWe won\u2019t kill you.\u201D So they tied him up with
+        two new ropes and brought him up from the rock.  "
+      comments: []
+    - title: 
+      content: 'As Samson arrived at Lehi, the Philistines came shouting in triumph.
+        But the Spirit of the <smallcaps>Lord</smallcaps> came powerfully upon Samson,
+        and he snapped the ropes on his arms as if they were burnt strands of flax,
+        and they fell from his wrists. '
+      comments: []
+    - title: 
+      content: 'Then he found the jawbone of a recently killed donkey. He picked
+        it up and killed 1,000 Philistines with it. '
+      comments: []
+    - title: 
+      content: "Then Samson said,\u201CWith the jawbone of a donkey,I\u2019ve piled
+        them in heaps!With the jawbone of a donkey,I\u2019ve killed a thousand men!\u201D  "
+      comments: []
+    - title: 
+      content: 'When he finished his boasting, he threw away the jawbone; and the
+        place was named Jawbone Hill.[[COMMENT(0)]]  '
+      comments:
+      - number: '15:17 '
+        content: Hebrew <b>Ramath-lehi.</b>
+    - title: 
+      content: "Samson was now very thirsty, and he cried out to the <smallcaps>Lord</smallcaps>,
+        \u201CYou have accomplished this great victory by the strength of your servant.
+        Must I now die of thirst and fall into the hands of these pagans?\u201D "
+      comments: []
+    - title: 
+      content: "So God caused water to gush out of a hollow in the ground at Lehi,
+        and Samson was revived as he drank. Then he named that place \u201CThe Spring
+        of the One Who Cried Out,\u201D[[COMMENT(0)]] and it is still in Lehi to
+        this day.  "
+      comments:
+      - number: '15:19 '
+        content: Hebrew <b>En-hakkore.</b>
+  - verses:
+    - title: "Samson Carries Away Gaza\u2019s Gates"
+      content: '  One day Samson went to the Philistine town of Gaza and spent the
+        night with a prostitute. '
+      comments: []
+    - title: 
+      content: "Word soon spread[[COMMENT(0)]] that Samson was there, so the men
+        of Gaza gathered together and waited all night at the town gates. They kept
+        quiet during the night, saying to themselves, \u201CWhen the light of morning
+        comes, we will kill him.\u201D  "
+      comments:
+      - number: '16:2 '
+        content: As in Greek and Syriac versions and Latin Vulgate; Hebrew lacks
+          <b>Word soon spread.</b>
+    - title: Samson and Delilah
+      content: 'But Samson stayed in bed only until midnight. Then he got up, took
+        hold of the doors of the town gate, including the two posts, and lifted them
+        up, bar and all. He put them on his shoulders and carried them all the way
+        to the top of the hill across from Hebron.  '
+      comments: []
+    - title: 
+      content: 'Some time later Samson fell in love with a woman named Delilah, who
+        lived in the valley of Sorek. '
+      comments: []
+    - title: 
+      content: "The rulers of the Philistines went to her and said, \u201CEntice
+        Samson to tell you what makes him so strong and how he can be overpowered
+        and tied up securely. Then each of us will give you 1,100 pieces[[COMMENT(0)]]
+        of silver.\u201D  "
+      comments:
+      - number: '16:5 '
+        content: Hebrew <b>1,100 [shekels], </b>about 28 pounds or 12.5 kilograms
+          in weight.
+    - title: 
+      content: "So Delilah said to Samson, \u201CPlease tell me what makes you so
+        strong and what it would take to tie you up securely.\u201D  "
+      comments: []
+    - title: 
+      content: "Samson replied, \u201CIf I were tied up with seven new bowstrings
+        that have not yet been dried, I would become as weak as anyone else.\u201D  "
+      comments: []
+    - title: 
+      content: 'So the Philistine rulers brought Delilah seven new bowstrings, and
+        she tied Samson up with them. '
+      comments: []
+    - title: 
+      content: "She had hidden some men in one of the inner rooms of her house, and
+        she cried out, \u201CSamson! The Philistines have come to capture you!\u201D
+        But Samson snapped the bowstrings as a piece of string snaps when it is burned
+        by a fire. So the secret of his strength was not discovered.  "
+      comments: []
+    - title: 
+      content: "Afterward Delilah said to him, \u201CYou\u2019ve been making fun
+        of me and telling me lies! Now please tell me how you can be tied up securely.\u201D  "
+      comments: []
+    - title: 
+      content: "Samson replied, \u201CIf I were tied up with brand-new ropes that
+        had never been used, I would become as weak as anyone else.\u201D  "
+      comments: []
+    - title: 
+      content: "So Delilah took new ropes and tied him up with them. The men were
+        hiding in the inner room as before, and again Delilah cried out, \u201CSamson!
+        The Philistines have come to capture you!\u201D But again Samson snapped
+        the ropes from his arms as if they were thread.  "
+      comments: []
+    - title: 
+      content: "Then Delilah said, \u201CYou\u2019ve been making fun of me and telling
+        me lies! Now tell me how you can be tied up securely.\u201DSamson replied,
+        \u201CIf you were to weave the seven braids of my hair into the fabric on
+        your loom and tighten it with the loom shuttle, I would become as weak as
+        anyone else.\u201DSo while he slept, Delilah wove the seven braids of his
+        hair into the fabric. "
+      comments: []
+    - title: 
+      content: "Then she tightened it with the loom shuttle.[[COMMENT(0)]] Again
+        she cried out, \u201CSamson! The Philistines have come to capture you!\u201D
+        But Samson woke up, pulled back the loom shuttle, and yanked his hair away
+        from the loom and the fabric.  "
+      comments:
+      - number: '16:13-14 '
+        content: As in Greek version and Latin Vulgate; Hebrew lacks <b>I would become
+          as weak as anyone else. / So while he slept, Delilah wove the seven braids
+          of his hair into the fabric. </b><b>Then she tightened it with the loom
+          shuttle.</b>
+    - title: 
+      content: "Then Delilah pouted, \u201CHow can you tell me, \u2018I love you,\u2019
+        when you don\u2019t share your secrets with me? You\u2019ve made fun of me
+        three times now, and you still haven\u2019t told me what makes you so strong!\u201D "
+      comments: []
+    - title: 
+      content: 'She tormented him with her nagging day after day until he was sick
+        to death of it.  '
+      comments: []
+    - title: 
+      content: "Finally, Samson shared his secret with her. \u201CMy hair has never
+        been cut,\u201D he confessed, \u201Cfor I was dedicated to God as a Nazirite
+        from birth. If my head were shaved, my strength would leave me, and I would
+        become as weak as anyone else.\u201D  "
+      comments: []
+    - title: 
+      content: "Delilah realized he had finally told her the truth, so she sent for
+        the Philistine rulers. \u201CCome back one more time,\u201D she said, \u201Cfor
+        he has finally told me his secret.\u201D So the Philistine rulers returned
+        with the money in their hands. "
+      comments: []
+    - title: 
+      content: 'Delilah lulled Samson to sleep with his head in her lap, and then
+        she called in a man to shave off the seven locks of his hair. In this way
+        she began to bring him down,[[COMMENT(0)]] and his strength left him.  '
+      comments:
+      - number: '16:19 '
+        content: Or <b>she began to torment him. </b>Greek version reads <b>He began
+          to grow weak.</b>
+    - title: 
+      content: "Then she cried out, \u201CSamson! The Philistines have come to capture
+        you!\u201DWhen he woke up, he thought, \u201CI will do as before and shake
+        myself free.\u201D But he didn\u2019t realize the <smallcaps>Lord</smallcaps>
+        had left him.  "
+      comments: []
+    - title: 
+      content: 'So the Philistines captured him and gouged out his eyes. They took
+        him to Gaza, where he was bound with bronze chains and forced to grind grain
+        in the prison.  '
+      comments: []
+    - title: "Samson\u2019s Final Victory"
+      content: 'But before long, his hair began to grow back.  '
+      comments: []
+    - title: 
+      content: "The Philistine rulers held a great festival, offering sacrifices
+        and praising their god, Dagon. They said, \u201COur god has given us victory
+        over our enemy Samson!\u201D  "
+      comments: []
+    - title: 
+      content: "When the people saw him, they praised their god, saying, \u201COur
+        god has delivered our enemy to us! The one who killed so many of us is now
+        in our power!\u201D  "
+      comments: []
+    - title: 
+      content: "Half drunk by now, the people demanded, \u201CBring out Samson so
+        he can amuse us!\u201D So he was brought from the prison to amuse them, and
+        they had him stand between the pillars supporting the roof.  "
+      comments: []
+    - title: 
+      content: "Samson said to the young servant who was leading him by the hand,
+        \u201CPlace my hands against the pillars that hold up the temple. I want
+        to rest against them.\u201D "
+      comments: []
+    - title: 
+      content: 'Now the temple was completely filled with people. All the Philistine
+        rulers were there, and there were about 3,000 men and women on the roof who
+        were watching as Samson amused them.  '
+      comments: []
+    - title: 
+      content: "Then Samson prayed to the <smallcaps>Lord</smallcaps>, \u201CSovereign
+        <smallcaps>Lord</smallcaps>, remember me again. O God, please strengthen
+        me just one more time. With one blow let me pay back the Philistines for
+        the loss of my two eyes.\u201D "
+      comments: []
+    - title: 
+      content: 'Then Samson put his hands on the two center pillars that held up
+        the temple. Pushing against them with both hands, '
+      comments: []
+    - title: 
+      content: "he prayed, \u201CLet me die with the Philistines.\u201D And the temple
+        crashed down on the Philistine rulers and all the people. So he killed more
+        people when he died than he had during his entire lifetime.  "
+      comments: []
+  - verses:
+    - title: "Micah\u2019s Idols"
+      content: '  There was a man named Micah, who lived in the hill country of Ephraim. '
+      comments: []
+    - title: 
+      content: "One day he said to his mother, \u201CI heard you place a curse on
+        the person who stole 1,100 pieces[[COMMENT(0)]] of silver from you. Well,
+        I have the money. I was the one who took it.\u201D\u201CThe <smallcaps>Lord</smallcaps>
+        bless you for admitting it,\u201D his mother replied. "
+      comments:
+      - number: '17:2 '
+        content: Hebrew <b>1,100 [shekels], </b>about 28 pounds or 12.5 kilograms
+          in weight.
+    - title: 
+      content: "He returned the money to her, and she said, \u201CI now dedicate
+        these silver coins to the <smallcaps>Lord</smallcaps>. In honor of my son,
+        I will have an image carved and an idol cast.\u201D  "
+      comments: []
+    - title: 
+      content: "So when he returned the money to his mother, she took 200 silver
+        coins and gave them to a silversmith, who made them into an image and an
+        idol. And these were placed in Micah\u2019s house. "
+      comments: []
+    - title: 
+      content: 'Micah set up a shrine for the idol, and he made a sacred ephod and
+        some household idols. Then he installed one of his sons as his personal priest.  '
+      comments: []
+    - title: 
+      content: 'In those days Israel had no king; all the people did whatever seemed
+        right in their own eyes.  '
+      comments: []
+    - title: 
+      content: 'One day a young Levite, who had been living in Bethlehem in Judah,
+        arrived in that area. '
+      comments: []
+    - title: 
+      content: "He had left Bethlehem in search of another place to live, and as
+        he traveled, he came to the hill country of Ephraim. He happened to stop
+        at Micah\u2019s house as he was traveling through. "
+      comments: []
+    - title: 
+      content: "\u201CWhere are you from?\u201D Micah asked him.He replied, \u201CI
+        am a Levite from Bethlehem in Judah, and I am looking for a place to live.\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CStay here with me,\u201D Micah said, \u201Cand you can be a
+        father and priest to me. I will give you ten pieces of silver[[COMMENT(0)]]
+        a year, plus a change of clothes and your food.\u201D "
+      comments:
+      - number: '17:10 '
+        content: Hebrew <b>10 [shekels] of silver, </b>about 4 ounces or 114 grams
+          in weight.
+    - title: 
+      content: "The Levite agreed to this, and the young man became like one of Micah\u2019s
+        sons.  "
+      comments: []
+    - title: 
+      content: "So Micah installed the Levite as his personal priest, and he lived
+        in Micah\u2019s house. "
+      comments: []
+  - verses:
+    - title: Idolatry in the Tribe of Dan
+      content: '  Now in those days Israel had no king. And the tribe of Dan was
+        trying to find a place where they could settle, for they had not yet moved
+        into the land assigned to them when the land was divided among the tribes
+        of Israel. '
+      comments: []
+    - title: 
+      content: "So the men of Dan chose from their clans five capable warriors from
+        the towns of Zorah and Eshtaol to scout out a land for them to settle in.When
+        these warriors arrived in the hill country of Ephraim, they came to Micah\u2019s
+        house and spent the night there. "
+      comments: []
+    - title: 
+      content: "While at Micah\u2019s house, they recognized the young Levite\u2019s
+        accent, so they went over and asked him, \u201CWho brought you here, and
+        what are you doing in this place? Why are you here?\u201D "
+      comments: []
+    - title: 
+      content: "He told them about his agreement with Micah and that he had been
+        hired as Micah\u2019s personal priest.  "
+      comments: []
+    - title: 
+      content: "Then they said, \u201CAsk God whether or not our journey will be
+        successful.\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CGo in peace,\u201D the priest replied. \u201CFor the <smallcaps>Lord</smallcaps>
+        is watching over your journey.\u201D  "
+      comments: []
+    - title: 
+      content: 'So the five men went on to the town of Laish, where they noticed
+        the people living carefree lives, like the Sidonians; they were peaceful
+        and secure.[[COMMENT(0)]] The people were also wealthy because their land
+        was very fertile. And they lived a great distance from Sidon and had no allies
+        nearby.  '
+      comments:
+      - number: '18:7 '
+        content: The meaning of the Hebrew is uncertain.
+    - title: 
+      content: "When the men returned to Zorah and Eshtaol, their relatives asked
+        them, \u201CWhat did you find?\u201D  "
+      comments: []
+    - title: 
+      content: "The men replied, \u201CCome on, let\u2019s attack them! We have seen
+        the land, and it is very good. What are you waiting for? Don\u2019t hesitate
+        to go and take possession of it. "
+      comments: []
+    - title: 
+      content: "When you get there, you will find the people living carefree lives.
+        God has given us a spacious and fertile land, lacking in nothing!\u201D  "
+      comments: []
+    - title: 
+      content: 'So 600 men from the tribe of Dan, armed with weapons of war, set
+        out from Zorah and Eshtaol. '
+      comments: []
+    - title: 
+      content: 'They camped at a place west of Kiriath-jearim in Judah, which is
+        called Mahaneh-dan[[COMMENT(0)]] to this day. '
+      comments:
+      - number: '18:12 '
+        content: "<b>Mahaneh-dan </b>means \u201Cthe camp of Dan.\u201D"
+    - title: 
+      content: 'Then they went on from there into the hill country of Ephraim and
+        came to the house of Micah.  '
+      comments: []
+    - title: 
+      content: "The five men who had scouted out the land around Laish explained
+        to the others, \u201CThese buildings contain a sacred ephod, as well as some
+        household idols, a carved image, and a cast idol. What do you think you should
+        do?\u201D "
+      comments: []
+    - title: 
+      content: "Then the five men turned off the road and went over to Micah\u2019s
+        house, where the young Levite lived, and greeted him kindly. "
+      comments: []
+    - title: 
+      content: 'As the 600 armed warriors from the tribe of Dan stood at the entrance
+        of the gate, '
+      comments: []
+    - title: 
+      content: 'the five scouts entered the shrine and removed the carved image,
+        the sacred ephod, the household idols, and the cast idol. Meanwhile, the
+        priest was standing at the gate with the 600 armed warriors.  '
+      comments: []
+    - title: 
+      content: "When the priest saw the men carrying all the sacred objects out of
+        Micah\u2019s shrine, he said, \u201CWhat are you doing?\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CBe quiet and come with us,\u201D they said. \u201CBe a father
+        and priest to all of us. Isn\u2019t it better to be a priest for an entire
+        tribe and clan of Israel than for the household of just one man?\u201D  "
+      comments: []
+    - title: 
+      content: 'The young priest was quite happy to go with them, so he took along
+        the sacred ephod, the household idols, and the carved image. '
+      comments: []
+    - title: 
+      content: 'They turned and started on their way again, placing their children,
+        livestock, and possessions in front of them.  '
+      comments: []
+    - title: 
+      content: "When the people from the tribe of Dan were quite a distance from
+        Micah\u2019s house, the people who lived near Micah came chasing after them. "
+      comments: []
+    - title: 
+      content: "They were shouting as they caught up with them. The men of Dan turned
+        around and said to Micah, \u201CWhat\u2019s the matter? Why have you called
+        these men together and chased after us like this?\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CWhat do you mean, \u2018What\u2019s the matter?\u2019\u201D
+        Micah replied. \u201CYou\u2019ve taken away all the gods I have made, and
+        my priest, and I have nothing left!\u201D  "
+      comments: []
+    - title: 
+      content: "The men of Dan said, \u201CWatch what you say! There are some short-tempered
+        men around here who might get angry and kill you and your family.\u201D "
+      comments: []
+    - title: 
+      content: 'So the men of Dan continued on their way. When Micah saw that there
+        were too many of them for him to attack, he turned around and went home.  '
+      comments: []
+    - title: 
+      content: "Then, with Micah\u2019s idols and his priest, the men of Dan came
+        to the town of Laish, whose people were peaceful and secure. They attacked
+        with swords and burned the town to the ground. "
+      comments: []
+    - title: 
+      content: 'There was no one to rescue the people, for they lived a great distance
+        from Sidon and had no allies nearby. This happened in the valley near Beth-rehob.Then
+        the people of the tribe of Dan rebuilt the town and lived there. '
+      comments: []
+    - title: 
+      content: "They renamed the town Dan after their ancestor, Israel\u2019s son,
+        but it had originally been called Laish.  "
+      comments: []
+    - title: 
+      content: 'Then they set up the carved image, and they appointed Jonathan son
+        of Gershom, son of Moses,[[COMMENT(0)]] as their priest. This family continued
+        as priests for the tribe of Dan until the Exile. '
+      comments:
+      - number: '18:30 '
+        content: As in an ancient Hebrew tradition, some Greek manuscripts, and Latin
+          Vulgate; Masoretic Text reads <b>son of Manasseh.</b>
+  - verses:
+    - title: The Levite and His Concubine
+      content: '  Now in those days Israel had no king. There was a man from the
+        tribe of Levi living in a remote area of the hill country of Ephraim. One
+        day he brought home a woman from Bethlehem in Judah to be his concubine. '
+      comments: []
+    - title: 
+      content: "But she became angry with him[[COMMENT(0)]] and returned to her father\u2019s
+        home in Bethlehem.After about four months, "
+      comments:
+      - number: '19:2 '
+        content: Or <b>she was unfaithful to him.</b>
+    - title: 
+      content: "her husband set out for Bethlehem to speak personally to her and
+        persuade her to come back. He took with him a servant and a pair of donkeys.
+        When he arrived at[[COMMENT(0)]] her father\u2019s house, her father saw
+        him and welcomed him. "
+      comments:
+      - number: '19:3 '
+        content: As in Greek version; Hebrew reads <b>When she brought him to.</b>
+    - title: 
+      content: 'Her father urged him to stay awhile, so he stayed three days, eating,
+        drinking, and sleeping there.  '
+      comments: []
+    - title: 
+      content: "On the fourth day the man was up early, ready to leave, but the woman\u2019s
+        father said to his son-in-law, \u201CHave something to eat before you go.\u201D "
+      comments: []
+    - title: 
+      content: "So the two men sat down together and had something to eat and drink.
+        Then the woman\u2019s father said, \u201CPlease stay another night and enjoy
+        yourself.\u201D "
+      comments: []
+    - title: 
+      content: 'The man got up to leave, but his father-in-law kept urging him to
+        stay, so he finally gave in and stayed the night.  '
+      comments: []
+    - title: 
+      content: "On the morning of the fifth day he was up early again, ready to leave,
+        and again the woman\u2019s father said, \u201CHave something to eat; then
+        you can leave later this afternoon.\u201D So they had another day of feasting. "
+      comments: []
+    - title: 
+      content: "Later, as the man and his concubine and servant were preparing to
+        leave, his father-in-law said, \u201CLook, it\u2019s almost evening. Stay
+        the night and enjoy yourself. Tomorrow you can get up early and be on your
+        way.\u201D  "
+      comments: []
+    - title: 
+      content: 'But this time the man was determined to leave. So he took his two
+        saddled donkeys and his concubine and headed in the direction of Jebus (that
+        is, Jerusalem). '
+      comments: []
+    - title: 
+      content: "It was late in the day when they neared Jebus, and the man\u2019s
+        servant said to him, \u201CLet\u2019s stop at this Jebusite town and spend
+        the night there.\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CNo,\u201D his master said, \u201Cwe can\u2019t stay in this
+        foreign town where there are no Israelites. Instead, we will go on to Gibeah. "
+      comments: []
+    - title: 
+      content: "Come on, let\u2019s try to get as far as Gibeah or Ramah, and we\u2019ll
+        spend the night in one of those towns.\u201D "
+      comments: []
+    - title: 
+      content: 'So they went on. The sun was setting as they came to Gibeah, a town
+        in the land of Benjamin, '
+      comments: []
+    - title: 
+      content: 'so they stopped there to spend the night. They rested in the town
+        square, but no one took them in for the night.  '
+      comments: []
+    - title: 
+      content: 'That evening an old man came home from his work in the fields. He
+        was from the hill country of Ephraim, but he was living in Gibeah, where
+        the people were from the tribe of Benjamin. '
+      comments: []
+    - title: 
+      content: 'When he saw the travelers sitting in the town square, he asked them
+        where they were from and where they were going.  '
+      comments: []
+    - title: 
+      content: "\u201CWe have been in Bethlehem in Judah,\u201D the man replied.
+        \u201CWe are on our way to a remote area in the hill country of Ephraim,
+        which is my home. I traveled to Bethlehem, and now I\u2019m returning home.[[COMMENT(0)]]<smallcaps>
+        But no one has taken us in for the night, </smallcaps>"
+      comments:
+      - number: '19:18 '
+        content: "As in Greek version (see also 19:29); Hebrew reads <b>now I\u2019m
+          going to the Tabernacle of the <span class=\"ChapterContent_nd__ECPAf\">Lord</span>.</b>"
+    - title: 
+      content: "even though we have everything we need. We have straw and feed for
+        our donkeys and plenty of bread and wine for ourselves.\u201D  "
+      comments: []
+    - title: 
+      content: "\u201CYou are welcome to stay with me,\u201D the old man said. \u201CI
+        will give you anything you might need. But whatever you do, don\u2019t spend
+        the night in the square.\u201D "
+      comments: []
+    - title: 
+      content: 'So he took them home with him and fed the donkeys. After they washed
+        their feet, they ate and drank together.  '
+      comments: []
+    - title: 
+      content: "While they were enjoying themselves, a crowd of troublemakers from
+        the town surrounded the house. They began beating at the door and shouting
+        to the old man, \u201CBring out the man who is staying with you so we can
+        have sex with him.\u201D  "
+      comments: []
+    - title: 
+      content: "The old man stepped outside to talk to them. \u201CNo, my brothers,
+        don\u2019t do such an evil thing. For this man is a guest in my house, and
+        such a thing would be shameful. "
+      comments: []
+    - title: 
+      content: "Here, take my virgin daughter and this man\u2019s concubine. I will
+        bring them out to you, and you can abuse them and do whatever you like. But
+        don\u2019t do such a shameful thing to this man.\u201D  "
+      comments: []
+    - title: 
+      content: "But they wouldn\u2019t listen to him. So the Levite took hold of
+        his concubine and pushed her out the door. The men of the town abused her
+        all night, taking turns raping her until morning. Finally, at dawn they let
+        her go. "
+      comments: []
+    - title: 
+      content: 'At daybreak the woman returned to the house where her husband was
+        staying. She collapsed at the door of the house and lay there until it was
+        light.  '
+      comments: []
+    - title: 
+      content: 'When her husband opened the door to leave, there lay his concubine
+        with her hands on the threshold. '
+      comments: []
+    - title: 
+      content: "He said, \u201CGet up! Let\u2019s go!\u201D But there was no answer.[[COMMENT(0)]]
+        So he put her body on his donkey and took her home.  "
+      comments:
+      - number: '19:28 '
+        content: Greek version adds <b>for she was dead.</b>
+    - title: 
+      content: "When he got home, he took a knife and cut his concubine\u2019s body
+        into twelve pieces. Then he sent one piece to each tribe throughout all the
+        territory of Israel.  "
+      comments: []
+  - verses:
+    - title: "Israel\u2019s War with Benjamin"
+      content: '  Then all the Israelites were united as one man, from Dan in the
+        north to Beersheba in the south, including those from across the Jordan in
+        the land of Gilead. The entire community assembled in the presence of the
+        <smallcaps>Lord</smallcaps> at Mizpah. '
+      comments: []
+    - title: 
+      content: "The leaders of all the people and all the tribes of Israel\u2014400,000
+        warriors armed with swords\u2014took their positions in the assembly of the
+        people of God. "
+      comments: []
+    - title: 
+      content: '(Word soon reached the land of Benjamin that the other tribes had
+        gone up to Mizpah.) The Israelites then asked how this terrible crime had
+        happened.  '
+      comments: []
+    - title: 
+      content: "The Levite, the husband of the woman who had been murdered, said,
+        \u201CMy concubine and I came to spend the night in Gibeah, a town that belongs
+        to the people of Benjamin. "
+      comments: []
+    - title: 
+      content: 'That night some of the leading citizens of Gibeah surrounded the
+        house, planning to kill me, and they raped my concubine until she was dead. '
+      comments: []
+    - title: 
+      content: 'So I cut her body into twelve pieces and sent the pieces throughout
+        the territory assigned to Israel, for these men have committed a terrible
+        and shameful crime. '
+      comments: []
+    - title: 
+      content: "Now then, all of you\u2014the entire community of Israel\u2014must
+        decide here and now what should be done about this!\u201D  "
+      comments: []
+    - title: 
+      content: "And all the people rose to their feet in unison and declared, \u201CNone
+        of us will return home! No, not even one of us! "
+      comments: []
+    - title: 
+      content: 'Instead, this is what we will do to Gibeah; we will draw lots to
+        decide who will attack it. '
+      comments: []
+    - title: 
+      content: "One-tenth of the men[[COMMENT(0)]] from each tribe will be chosen
+        to supply the warriors with food, and the rest of us will take revenge on
+        Gibeah[[COMMENT(1)]] of Benjamin for this shameful thing they have done in
+        Israel.\u201D "
+      comments:
+      - number: '20:10a '
+        content: Hebrew <b>10 men from every hundred, 100 men from every thousand,
+          and 1,000 men from every 10,000.</b>
+      - number: '20:10b '
+        content: Hebrew <b>Geba, </b>in this case a variant spelling of Gibeah; also
+          in 20:33.
+    - title: 
+      content: 'So all the Israelites were completely united, and they gathered together
+        to attack the town.  '
+      comments: []
+    - title: 
+      content: "The Israelites sent messengers to the tribe of Benjamin, saying,
+        \u201CWhat a terrible thing has been done among you! "
+      comments: []
+    - title: 
+      content: "Give up those evil men, those troublemakers from Gibeah, so we can
+        execute them and purge Israel of this evil.\u201DBut the people of Benjamin
+        would not listen. "
+      comments: []
+    - title: 
+      content: 'Instead, they came from their towns and gathered at Gibeah to fight
+        the Israelites. '
+      comments: []
+    - title: 
+      content: 'In all, 26,000 of their warriors armed with swords arrived in Gibeah
+        to join the 700 elite troops who lived there. '
+      comments: []
+    - title: 
+      content: "Among Benjamin\u2019s elite troops, 700 were left-handed, and each
+        of them could sling a rock and hit a target within a hairsbreadth without
+        missing. "
+      comments: []
+    - title: 
+      content: "Israel had 400,000 experienced soldiers armed with swords, not counting
+        Benjamin\u2019s warriors.  "
+      comments: []
+    - title: 
+      content: "Before the battle the Israelites went to Bethel and asked God, \u201CWhich
+        tribe should go first to attack the people of Benjamin?\u201DThe <smallcaps>Lord</smallcaps>
+        answered, \u201CJudah is to go first.\u201D  "
+      comments: []
+    - title: 
+      content: 'So the Israelites left early the next morning and camped near Gibeah. '
+      comments: []
+    - title: 
+      content: 'Then they advanced toward Gibeah to attack the men of Benjamin. '
+      comments: []
+    - title: 
+      content: "But Benjamin\u2019s warriors, who were defending the town, came out
+        and killed 22,000 Israelites on the battlefield that day.  "
+      comments: []
+    - title: 
+      content: 'But the Israelites encouraged each other and took their positions
+        again at the same place they had fought the previous day. '
+      comments: []
+    - title: 
+      content: "For they had gone up to Bethel and wept in the presence of the <smallcaps>Lord</smallcaps>
+        until evening. They had asked the <smallcaps>Lord</smallcaps>, \u201CShould
+        we fight against our relatives from Benjamin again?\u201DAnd the <smallcaps>Lord</smallcaps>
+        had said, \u201CGo out and fight against them.\u201D  "
+      comments: []
+    - title: 
+      content: 'So the next day they went out again to fight against the men of Benjamin, '
+      comments: []
+    - title: 
+      content: 'but the men of Benjamin killed another 18,000 Israelites, all of
+        whom were experienced with the sword.  '
+      comments: []
+    - title: 
+      content: 'Then all the Israelites went up to Bethel and wept in the presence
+        of the <smallcaps>Lord</smallcaps> and fasted until evening. They also brought
+        burnt offerings and peace offerings to the <smallcaps>Lord</smallcaps>. '
+      comments: []
+    - title: 
+      content: 'The Israelites went up seeking direction from the <smallcaps>Lord</smallcaps>.
+        (In those days the Ark of the Covenant of God was in Bethel, '
+      comments: []
+    - title: 
+      content: "and Phinehas son of Eleazar and grandson of Aaron was the priest.)
+        The Israelites asked the <smallcaps>Lord</smallcaps>, \u201CShould we fight
+        against our relatives from Benjamin again, or should we stop?\u201DThe <smallcaps>Lord</smallcaps>
+        said, \u201CGo! Tomorrow I will hand them over to you.\u201D  "
+      comments: []
+    - title: 
+      content: 'So the Israelites set an ambush all around Gibeah. '
+      comments: []
+    - title: 
+      content: 'They went out on the third day and took their positions at the same
+        place as before. '
+      comments: []
+    - title: 
+      content: 'When the men of Benjamin came out to attack, they were drawn away
+        from the town. And as they had done before, they began to kill the Israelites.
+        About thirty Israelites died in the open fields and along the roads, one
+        leading to Bethel and the other leading back to Gibeah.  '
+      comments: []
+    - title: 
+      content: "Then the warriors of Benjamin shouted, \u201CWe\u2019re defeating
+        them as we did before!\u201D But the Israelites had planned in advance to
+        run away so that the men of Benjamin would chase them along the roads and
+        be drawn away from the town.  "
+      comments: []
+    - title: 
+      content: 'When the main group of Israelite warriors reached Baal-tamar, they
+        turned and took up their positions. Meanwhile, the Israelites hiding in ambush
+        to the west[[COMMENT(0)]] of Gibeah jumped up to fight. '
+      comments:
+      - number: '20:33 '
+        content: As in Greek and Syriac versions and Latin Vulgate; Hebrew reads
+          <b>hiding in the open space.</b>
+    - title: 
+      content: "There were 10,000 elite Israelite troops who advanced against Gibeah.
+        The fighting was so heavy that Benjamin didn\u2019t realize the impending
+        disaster. "
+      comments: []
+    - title: 
+      content: "So the <smallcaps>Lord</smallcaps> helped Israel defeat Benjamin,
+        and that day the Israelites killed 25,100 of Benjamin\u2019s warriors, all
+        of whom were experienced swordsmen. "
+      comments: []
+    - title: 
+      content: "Then the men of Benjamin saw that they were beaten.The Israelites
+        had retreated from Benjamin\u2019s warriors in order to give those hiding
+        in ambush more room to maneuver against Gibeah. "
+      comments: []
+    - title: 
+      content: 'Then those who were hiding rushed in from all sides and killed everyone
+        in the town. '
+      comments: []
+    - title: 
+      content: 'They had arranged to send up a large cloud of smoke from the town
+        as a signal. '
+      comments: []
+    - title: 
+      content: "When the Israelites saw the smoke, they turned and attacked Benjamin\u2019s
+        warriors.By that time Benjamin\u2019s warriors had killed about thirty Israelites,
+        and they shouted, \u201CWe\u2019re defeating them as we did in the first
+        battle!\u201D "
+      comments: []
+    - title: 
+      content: 'But when the warriors of Benjamin looked behind them and saw the
+        smoke rising into the sky from every part of the town, '
+      comments: []
+    - title: 
+      content: 'the men of Israel turned and attacked. At this point the men of Benjamin
+        became terrified, because they realized disaster was close at hand. '
+      comments: []
+    - title: 
+      content: "So they turned around and fled before the Israelites toward the wilderness.
+        But they couldn\u2019t escape the battle, and the people who came out of
+        the nearby towns were also killed.[[COMMENT(0)]]  "
+      comments:
+      - number: '20:42 '
+        content: Or <b>battle, for the people from the nearby towns also came out
+          and killed them.</b>
+    - title: 
+      content: 'The Israelites surrounded the men of Benjamin and chased them relentlessly,
+        finally overtaking them east of Gibeah.[[COMMENT(0)]]  '
+      comments:
+      - number: '20:43 '
+        content: The meaning of the Hebrew is uncertain.
+    - title: 
+      content: "That day 18,000 of Benjamin\u2019s strongest warriors died in battle. "
+      comments: []
+    - title: 
+      content: 'The survivors fled into the wilderness toward the rock of Rimmon,
+        but Israel killed 5,000 of them along the road. They continued the chase
+        until they had killed another 2,000 near Gidom.  '
+      comments: []
+    - title: 
+      content: 'So that day the tribe of Benjamin lost 25,000 strong warriors armed
+        with swords, '
+      comments: []
+    - title: 
+      content: 'leaving only 600 men who escaped to the rock of Rimmon, where they
+        lived for four months. '
+      comments: []
+  - verses:
+    - title: Israel Provides Wives for Benjamin
+      content: "  The Israelites had vowed at Mizpah, \u201CWe will never give our
+        daughters in marriage to a man from the tribe of Benjamin.\u201D "
+      comments: []
+    - title: 
+      content: 'Now the people went to Bethel and sat in the presence of God until
+        evening, weeping loudly and bitterly. '
+      comments: []
+    - title: 
+      content: "\u201CO <smallcaps>Lord</smallcaps>, God of Israel,\u201D they cried
+        out, \u201Cwhy has this happened in Israel? Now one of our tribes is missing
+        from Israel!\u201D  "
+      comments: []
+    - title: 
+      content: 'Early the next morning the people built an altar and presented their
+        burnt offerings and peace offerings on it. '
+      comments: []
+    - title: 
+      content: "Then they said, \u201CWho among the tribes of Israel did not join
+        us at Mizpah when we held our assembly in the presence of the <smallcaps>Lord</smallcaps>?\u201D
+        At that time they had taken a solemn oath in the <smallcaps>Lord</smallcaps>\u2019s
+        presence, vowing that anyone who refused to come would be put to death.  "
+      comments: []
+    - title: 
+      content: "The Israelites felt sorry for their brother Benjamin and said, \u201CToday
+        one of the tribes of Israel has been cut off. "
+      comments: []
+    - title: 
+      content: "How can we find wives for the few who remain, since we have sworn
+        by the <smallcaps>Lord</smallcaps> not to give them our daughters in marriage?\u201D  "
+      comments: []
+    - title: 
+      content: "So they asked, \u201CWho among the tribes of Israel did not join
+        us at Mizpah when we assembled in the presence of the <smallcaps>Lord</smallcaps>?\u201D
+        And they discovered that no one from Jabesh-gilead had attended the assembly. "
+      comments: []
+    - title: 
+      content: 'For after they counted all the people, no one from Jabesh-gilead
+        was present.  '
+      comments: []
+    - title: 
+      content: 'So the assembly sent 12,000 of their best warriors to Jabesh-gilead
+        with orders to kill everyone there, including women and children. '
+      comments: []
+    - title: 
+      content: "\u201CThis is what you are to do,\u201D they said. \u201CCompletely
+        destroy[[COMMENT(0)]]<smallcaps> all the males and every woman who is not
+        a virgin.\u201D </smallcaps>"
+      comments:
+      - number: '21:11 '
+        content: The Hebrew term used here refers to the complete consecration of
+          things or people to the <span class="ChapterContent_nd__ECPAf">Lord</span>,
+          either by destroying them or by giving them as an offering.
+    - title: 
+      content: 'Among the residents of Jabesh-gilead they found 400 young virgins
+        who had never slept with a man, and they brought them to the camp at Shiloh
+        in the land of Canaan.  '
+      comments: []
+    - title: 
+      content: 'The Israelite assembly sent a peace delegation to the remaining people
+        of Benjamin who were living at the rock of Rimmon. '
+      comments: []
+    - title: 
+      content: 'Then the men of Benjamin returned to their homes, and the 400 women
+        of Jabesh-gilead who had been spared were given to them as wives. But there
+        were not enough women for all of them.  '
+      comments: []
+    - title: 
+      content: 'The people felt sorry for Benjamin because the <smallcaps>Lord</smallcaps>
+        had made this gap among the tribes of Israel. '
+      comments: []
+    - title: 
+      content: "So the elders of the assembly asked, \u201CHow can we find wives
+        for the few who remain, since the women of the tribe of Benjamin are dead? "
+      comments: []
+    - title: 
+      content: 'There must be heirs for the survivors so that an entire tribe of
+        Israel is not wiped out. '
+      comments: []
+    - title: 
+      content: "But we cannot give them our own daughters in marriage because we
+        have sworn with a solemn oath that anyone who does this will fall under God\u2019s
+        curse.\u201D  "
+      comments: []
+    - title: 
+      content: 'Then they thought of the annual festival of the <smallcaps>Lord</smallcaps>
+        held in Shiloh, south of Lebonah and north of Bethel, along the east side
+        of the road that goes from Bethel to Shechem. '
+      comments: []
+    - title: 
+      content: "They told the men of Benjamin who still needed wives, \u201CGo and
+        hide in the vineyards. "
+      comments: []
+    - title: 
+      content: 'When you see the young women of Shiloh come out for their dances,
+        rush out from the vineyards, and each of you can take one of them home to
+        the land of Benjamin to be your wife! '
+      comments: []
+    - title: 
+      content: "And when their fathers and brothers come to us in protest, we will
+        tell them, \u2018Please be sympathetic. Let them have your daughters, for
+        we didn\u2019t find wives for all of them when we destroyed Jabesh-gilead.
+        And you are not guilty of breaking the vow since you did not actually give
+        your daughters to them in marriage.\u2019\u201D  "
+      comments: []
+    - title: 
+      content: 'So the men of Benjamin did as they were told. Each man caught one
+        of the women as she danced in the celebration and carried her off to be his
+        wife. They returned to their own land, and they rebuilt their towns and lived
+        in them.  '
+      comments: []
+    - title: 
+      content: 'Then the people of Israel departed by tribes and families, and they
+        returned to their own homes.  '
+      comments: []

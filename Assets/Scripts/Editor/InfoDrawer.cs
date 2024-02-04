@@ -1,7 +1,12 @@
 using UnityEngine;
-using UnityEditor;
+// using UnityEditor;
 
-[CustomPropertyDrawer(typeof(Info))]
+public class InfoDrawer
+{
+	
+}
+
+/* [CustomPropertyDrawer(typeof(Info))]
 public class InfoDrawer : PropertyDrawer
 {
 	static float singleLine = EditorGUIUtility.singleLineHeight;
@@ -110,4 +115,4 @@ public class InfoDrawer : PropertyDrawer
 		
 		property.stringValue = EditorGUI.TextArea(propertyRect, property.stringValue);
 	}
-}
+} */

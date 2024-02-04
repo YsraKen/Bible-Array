@@ -74,37 +74,19 @@ public static partial class Extensions
 		return output;
 	}
 	
-	/// <summary>
-	/// Loop two lists together
-	/// </summary>
-	/// <param name ="others">The secondary list you want to loop synchronously</param>
-	/// <param name ="action">Invoke a logic with the current elements of both lists (T and U) along with the current iteration index (int)</param>
-	/// <param name ="breaker">Optional, break the iteration if invoking return is true</param>
-	public static void ForWithOther<T, U>
-	(
-		this List<T> currents,
-		ref List<U> others,
-		Action<T, U, int> action,
-		Func<bool> breaker = null
-	){
-		int count = currents.Count;
-		
-		for(int i = 0; i < count; i++)
-		{
-			action(currents[i], others.GetElement(i), i);
-			
-			if(breaker != null)
-				if(breaker()) break;
-		}
-	}
-	
-	/* public T Add<T>(List<T> list, T t, out int index)
+	public static T Add<T>(List<T> list, T t, out int index)
 	{
 		list.Add(t);
 		
 		index = list.Count - 1;
 		return t;
-	} */
+	}
+	
+	public static T Add<T>(List<T> list, T t)
+	{
+		list.Add(t);
+		return t;
+	}
 	
 	public static bool IsInsideRange<T>(this List<T> list, int index) => index > -1 && index < list.Length();
 }

@@ -1,0 +1,1950 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: NEH
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Nehemiah
+  fancyName: 
+  nickname: neh
+  version: {fileID: 11400000, guid: 51ee3e37f5ded7941ab6216610f6fc67, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - title: "Nehemiah\u2019s Concern for Jerusalem"
+      content: "  These are the memoirs of Nehemiah son of Hacaliah.In late autumn,
+        in the month of Kislev, in the twentieth year of King Artaxerxes\u2019 reign,[[COMMENT(0)]]
+        I was at the fortress of Susa. "
+      comments:
+      - number: '1:1 '
+        content: Hebrew <b>In the month of Kislev of the twentieth year. </b>A number
+          of dates in the book of Nehemiah can be cross-checked with dates in surviving
+          Persian records and related accurately to our modern calendar. This month
+          of the ancient Hebrew lunar calendar occurred within the months of November
+          and December 446 <span class="ChapterContent_sc__Hg9da">b.c.</span> The
+          <b>twentieth year </b>probably refers to the reign of King Artaxerxes I;
+          compare 2:1; 5:14.
+    - title: 
+      content: 'Hanani, one of my brothers, came to visit me with some other men
+        who had just arrived from Judah. I asked them about the Jews who had returned
+        there from captivity and about how things were going in Jerusalem.  '
+      comments: []
+    - title: 
+      content: "They said to me, \u201CThings are not going well for those who returned
+        to the province of Judah. They are in great trouble and disgrace. The wall
+        of Jerusalem has been torn down, and the gates have been destroyed by fire.\u201D  "
+      comments: []
+    - title: 
+      content: 'When I heard this, I sat down and wept. In fact, for days I mourned,
+        fasted, and prayed to the God of heaven. '
+      comments: []
+    - title: 
+      content: "Then I said,\u201CO <smallcaps>Lord</smallcaps>, God of heaven, the
+        great and awesome God who keeps his covenant of unfailing love with those
+        who love him and obey his commands, "
+      comments: []
+    - title: 
+      content: 'listen to my prayer! Look down and see me praying night and day for
+        your people Israel. I confess that we have sinned against you. Yes, even
+        my own family and I have sinned! '
+      comments: []
+    - title: 
+      content: 'We have sinned terribly by not obeying the commands, decrees, and
+        regulations that you gave us through your servant Moses.  '
+      comments: []
+    - title: 
+      content: "\u201CPlease remember what you told your servant Moses: \u2018If
+        you are unfaithful to me, I will scatter you among the nations. "
+      comments: []
+    - title: 
+      content: "But if you return to me and obey my commands and live by them, then
+        even if you are exiled to the ends of the earth,[[COMMENT(0)]] I will bring
+        you back to the place I have chosen for my name to be honored.\u2019  "
+      comments:
+      - number: '1:9 '
+        content: Hebrew <b>of the heavens.</b>
+    - title: 
+      content: "\u201CThe people you rescued by your great power and strong hand
+        are your servants. "
+      comments: []
+  - verses:
+    - title: Nehemiah Goes to Jerusalem
+      content: "  Early the following spring, in the month of Nisan,[[COMMENT(0)]]
+        during the twentieth year of King Artaxerxes\u2019 reign, I was serving the
+        king his wine. I had never before appeared sad in his presence. "
+      comments:
+      - number: '2:1 '
+        content: Hebrew <b>In the month of Nisan. </b>This month of the ancient Hebrew
+          lunar calendar occurred within the months of April and May 445 <span class="ChapterContent_sc__Hg9da">b.c.</span>
+    - title: 
+      content: "So the king asked me, \u201CWhy are you looking so sad? You don\u2019t
+        look sick to me. You must be deeply troubled.\u201DThen I was terrified, "
+      comments: []
+    - title: 
+      content: "but I replied, \u201CLong live the king! How can I not be sad? For
+        the city where my ancestors are buried is in ruins, and the gates have been
+        destroyed by fire.\u201D  "
+      comments: []
+    - title: 
+      content: "The king asked, \u201CWell, how can I help you?\u201DWith a prayer
+        to the God of heaven, "
+      comments: []
+    - title: 
+      content: "I replied, \u201CIf it please the king, and if you are pleased with
+        me, your servant, send me to Judah to rebuild the city where my ancestors
+        are buried.\u201D  "
+      comments: []
+    - title: 
+      content: "The king, with the queen sitting beside him, asked, \u201CHow long
+        will you be gone? When will you return?\u201D After I told him how long I
+        would be gone, the king agreed to my request.  "
+      comments: []
+    - title: 
+      content: "I also said to the king, \u201CIf it please the king, let me have
+        letters addressed to the governors of the province west of the Euphrates
+        River,[[COMMENT(0)]] instructing them to let me travel safely through their
+        territories on my way to Judah. "
+      comments:
+      - number: '2:7 '
+        content: Hebrew <b>the province beyond the river; </b>also in 2:9.
+    - title: 
+      content: "And please give me a letter addressed to Asaph, the manager of the
+        king\u2019s forest, instructing him to give me timber. I will need it to
+        make beams for the gates of the Temple fortress, for the city walls, and
+        for a house for myself.\u201D And the king granted these requests, because
+        the gracious hand of God was on me.  "
+      comments: []
+    - title: 
+      content: "When I came to the governors of the province west of the Euphrates
+        River, I delivered the king\u2019s letters to them. The king, I should add,
+        had sent along army officers and horsemen[[COMMENT(0)]] to protect me. "
+      comments:
+      - number: '2:9 '
+        content: Or <b>charioteers.</b>
+    - title: "Nehemiah Inspects Jerusalem\u2019s Wall"
+      content: 'But when Sanballat the Horonite and Tobiah the Ammonite official
+        heard of my arrival, they were very displeased that someone had come to help
+        the people of Israel.  '
+      comments: []
+    - title: 
+      content: 'So I arrived in Jerusalem. Three days later, '
+      comments: []
+    - title: 
+      content: 'I slipped out during the night, taking only a few others with me.
+        I had not told anyone about the plans God had put in my heart for Jerusalem.
+        We took no pack animals with us except the donkey I was riding. '
+      comments: []
+    - title: 
+      content: "After dark I went out through the Valley Gate, past the Jackal\u2019s
+        Well,[[COMMENT(0)]] and over to the Dung Gate to inspect the broken walls
+        and burned gates. "
+      comments:
+      - number: '2:13 '
+        content: "Or <b>Serpent\u2019s Well.</b>"
+    - title: 
+      content: "Then I went to the Fountain Gate and to the King\u2019s Pool, but
+        my donkey couldn\u2019t get through the rubble. "
+      comments: []
+    - title: 
+      content: 'So, though it was still dark, I went up the Kidron Valley[[COMMENT(0)]]
+        instead, inspecting the wall before I turned back and entered again at the
+        Valley Gate.  '
+      comments:
+      - number: '2:15 '
+        content: Hebrew <b>the valley.</b>
+    - title: 
+      content: "The city officials did not know I had been out there or what I was
+        doing, for I had not yet said anything to anyone about my plans. I had not
+        yet spoken to the Jewish leaders\u2014the priests, the nobles, the officials,
+        or anyone else in the administration. "
+      comments: []
+    - title: 
+      content: "But now I said to them, \u201CYou know very well what trouble we
+        are in. Jerusalem lies in ruins, and its gates have been destroyed by fire.
+        Let us rebuild the wall of Jerusalem and end this disgrace!\u201D "
+      comments: []
+    - title: 
+      content: "Then I told them about how the gracious hand of God had been on me,
+        and about my conversation with the king.They replied at once, \u201CYes,
+        let\u2019s rebuild the wall!\u201D So they began the good work.  "
+      comments: []
+    - title: 
+      content: "But when Sanballat, Tobiah, and Geshem the Arab heard of our plan,
+        they scoffed contemptuously. \u201CWhat are you doing? Are you rebelling
+        against the king?\u201D they asked.  "
+      comments: []
+  - verses:
+    - title: Rebuilding the Wall of Jerusalem
+      content: '  Then Eliashib the high priest and the other priests started to
+        rebuild at the Sheep Gate. They dedicated it and set up its doors, building
+        the wall as far as the Tower of the Hundred, which they dedicated, and the
+        Tower of Hananel. '
+      comments: []
+    - title: 
+      content: 'People from the town of Jericho worked next to them, and beyond them
+        was Zaccur son of Imri.  '
+      comments: []
+    - title: 
+      content: 'The Fish Gate was built by the sons of Hassenaah. They laid the beams,
+        set up its doors, and installed its bolts and bars. '
+      comments: []
+    - title: 
+      content: 'Meremoth son of Uriah and grandson of Hakkoz repaired the next section
+        of wall. Beside him were Meshullam son of Berekiah and grandson of Meshezabel,
+        and then Zadok son of Baana. '
+      comments: []
+    - title: 
+      content: 'Next were the people from Tekoa, though their leaders refused to
+        work with the construction supervisors.  '
+      comments: []
+    - title: 
+      content: 'The Old City Gate[[COMMENT(0)]] was repaired by Joiada son of Paseah
+        and Meshullam son of Besodeiah. They laid the beams, set up its doors, and
+        installed its bolts and bars. '
+      comments:
+      - number: '3:6 '
+        content: Or <b>The Mishneh Gate, </b>or <b>The Jeshanah Gate.</b>
+    - title: 
+      content: 'Next to them were Melatiah from Gibeon, Jadon from Meronoth, people
+        from Gibeon, and people from Mizpah, the headquarters of the governor of
+        the province west of the Euphrates River.[[COMMENT(0)]]  '
+      comments:
+      - number: '3:7 '
+        content: Hebrew <b>the province beyond the river.</b>
+    - title: 
+      content: 'Next was Uzziel son of Harhaiah, a goldsmith by trade, who also worked
+        on the wall. Beyond him was Hananiah, a manufacturer of perfumes. They left
+        out a section of Jerusalem as they built the Broad Wall.[[COMMENT(0)]]  '
+      comments:
+      - number: '3:8 '
+        content: Or <b>They fortified Jerusalem up to the Broad Wall.</b>
+    - title: 
+      content: 'Rephaiah son of Hur, the leader of half the district of Jerusalem,
+        was next to them on the wall. '
+      comments: []
+    - title: 
+      content: 'Next Jedaiah son of Harumaph repaired the wall across from his own
+        house, and next to him was Hattush son of Hashabneiah. '
+      comments: []
+    - title: 
+      content: 'Then came Malkijah son of Harim and Hasshub son of Pahath-moab, who
+        repaired another section of the wall and the Tower of the Ovens. '
+      comments: []
+    - title: 
+      content: 'Shallum son of Hallohesh and his daughters repaired the next section.
+        He was the leader of the other half of the district of Jerusalem.  '
+      comments: []
+    - title: 
+      content: 'The Valley Gate was repaired by the people from Zanoah, led by Hanun.
+        They set up its doors and installed its bolts and bars. They also repaired
+        the 1,500 feet[[COMMENT(0)]] of wall to the Dung Gate.  '
+      comments:
+      - number: '3:13 '
+        content: Hebrew <b>1,000 cubits </b>[460 meters].
+    - title: 
+      content: 'The Dung Gate was repaired by Malkijah son of Recab, the leader of
+        the Beth-hakkerem district. He rebuilt it, set up its doors, and installed
+        its bolts and bars.  '
+      comments: []
+    - title: 
+      content: "The Fountain Gate was repaired by Shallum[[COMMENT(0)]] son of Col-hozeh,
+        the leader of the Mizpah district. He rebuilt it, roofed it, set up its doors,
+        and installed its bolts and bars. Then he repaired the wall of the pool of
+        Siloam[[COMMENT(1)]] near the king\u2019s garden, and he rebuilt the wall
+        as far as the stairs that descend from the City of David. "
+      comments:
+      - number: '3:15a '
+        content: As in Syriac version; Hebrew reads <b>Shallun.</b>
+      - number: '3:15b '
+        content: Hebrew <b>pool of Shelah, </b>another name for the pool of Siloam.
+    - title: 
+      content: "Next to him was Nehemiah son of Azbuk, the leader of half the district
+        of Beth-zur. He rebuilt the wall from a place across from the tombs of David\u2019s
+        family as far as the water reservoir and the House of the Warriors.  "
+      comments: []
+    - title: 
+      content: 'Next to him, repairs were made by a group of Levites working under
+        the supervision of Rehum son of Bani. Then came Hashabiah, the leader of
+        half the district of Keilah, who supervised the building of the wall on behalf
+        of his own district. '
+      comments: []
+    - title: 
+      content: 'Next down the line were his countrymen led by Binnui[[COMMENT(0)]]
+        son of Henadad, the leader of the other half of the district of Keilah.  '
+      comments:
+      - number: '3:18 '
+        content: As in a few Hebrew manuscripts, some Greek manuscripts, and Syriac
+          version (see also 3:24; 10:9); most Hebrew manuscripts read <b>Bavvai.</b>
+    - title: 
+      content: 'Next to them, Ezer son of Jeshua, the leader of Mizpah, repaired
+        another section of wall across from the ascent to the armory near the angle
+        in the wall. '
+      comments: []
+    - title: 
+      content: 'Next to him was Baruch son of Zabbai, who zealously repaired an additional
+        section from the angle to the door of the house of Eliashib the high priest. '
+      comments: []
+    - title: 
+      content: "Meremoth son of Uriah and grandson of Hakkoz rebuilt another section
+        of the wall extending from the door of Eliashib\u2019s house to the end of
+        the house.  "
+      comments: []
+    - title: 
+      content: 'The next repairs were made by the priests from the surrounding region. '
+      comments: []
+    - title: 
+      content: 'After them, Benjamin and Hasshub repaired the section across from
+        their house, and Azariah son of Maaseiah and grandson of Ananiah repaired
+        the section across from his house. '
+      comments: []
+    - title: 
+      content: "Next was Binnui son of Henadad, who rebuilt another section of the
+        wall from Azariah\u2019s house to the angle and the corner. "
+      comments: []
+    - title: 
+      content: "Palal son of Uzai carried on the work from a point opposite the angle
+        and the tower that projects up from the king\u2019s upper house beside the
+        court of the guard. Next to him were Pedaiah son of Parosh, "
+      comments: []
+    - title: 
+      content: 'with the Temple servants living on the hill of Ophel, who repaired
+        the wall as far as a point across from the Water Gate to the east and the
+        projecting tower. '
+      comments: []
+    - title: 
+      content: 'Then came the people of Tekoa, who repaired another section across
+        from the great projecting tower and over to the wall of Ophel.  '
+      comments: []
+    - title: 
+      content: 'Above the Horse Gate, the priests repaired the wall. Each one repaired
+        the section immediately across from his own house. '
+      comments: []
+    - title: 
+      content: 'Next Zadok son of Immer also rebuilt the wall across from his own
+        house, and beyond him was Shemaiah son of Shecaniah, the gatekeeper of the
+        East Gate. '
+      comments: []
+    - title: 
+      content: 'Next Hananiah son of Shelemiah and Hanun, the sixth son of Zalaph,
+        repaired another section, while Meshullam son of Berekiah rebuilt the wall
+        across from where he lived. '
+      comments: []
+    - title: 
+      content: 'Malkijah, one of the goldsmiths, repaired the wall as far as the
+        housing for the Temple servants and merchants, across from the Inspection
+        Gate. Then he continued as far as the upper room at the corner. '
+      comments: []
+  - verses:
+    - title: Enemies Oppose the Rebuilding
+      content: '    [[COMMENT(0)]]Sanballat was very angry when he learned that we
+        were rebuilding the wall. He flew into a rage and mocked the Jews, '
+      comments:
+      - number: '4:1 '
+        content: '  Verses 4:1-6 are numbered 3:33-38 in Hebrew text.  '
+    - title: 
+      content: "saying in front of his friends and the Samarian army officers, \u201CWhat
+        does this bunch of poor, feeble Jews think they\u2019re doing? Do they think
+        they can build the wall in a single day by just offering a few sacrifices?[[COMMENT(0)]]
+        Do they actually think they can make something of stones from a rubbish heap\u2014and
+        charred ones at that?\u201D  "
+      comments:
+      - number: '4:2 '
+        content: The meaning of the Hebrew is uncertain.
+    - title: 
+      content: "Tobiah the Ammonite, who was standing beside him, remarked, \u201CThat
+        stone wall would collapse if even a fox walked along the top of it!\u201D  "
+      comments: []
+    - title: 
+      content: "Then I prayed, \u201CHear us, our God, for we are being mocked. May
+        their scoffing fall back on their own heads, and may they themselves become
+        captives in a foreign land! "
+      comments: []
+    - title: 
+      content: "Do not ignore their guilt. Do not blot out their sins, for they have
+        provoked you to anger here in front of[[COMMENT(0)]] the builders.\u201D  "
+      comments:
+      - number: '4:5 '
+        content: 'Or <b>for they have thrown insults in the face of.</b>  '
+    - title: 
+      content: 'At last the wall was completed to half its height around the entire
+        city, for the people had worked with enthusiasm.  '
+      comments: []
+    - title: 
+      content: '  [[COMMENT(0)]]But when Sanballat and Tobiah and the Arabs, Ammonites,
+        and Ashdodites heard that the work was going ahead and that the gaps in the
+        wall of Jerusalem were being repaired, they were furious. '
+      comments:
+      - number: '4:7 '
+        content: '  Verses 4:7-23 are numbered 4:1-17 in Hebrew text.  '
+    - title: 
+      content: 'They all made plans to come and fight against Jerusalem and throw
+        us into confusion. '
+      comments: []
+    - title: 
+      content: 'But we prayed to our God and guarded the city day and night to protect
+        ourselves.  '
+      comments: []
+    - title: 
+      content: "Then the people of Judah began to complain, \u201CThe workers are
+        getting tired, and there is so much rubble to be moved. We will never be
+        able to build the wall by ourselves.\u201D  "
+      comments: []
+    - title: 
+      content: "Meanwhile, our enemies were saying, \u201CBefore they know what\u2019s
+        happening, we will swoop down on them and kill them and end their work.\u201D  "
+      comments: []
+    - title: 
+      content: "The Jews who lived near the enemy came and told us again and again,
+        \u201CThey will come from all directions and attack us!\u201D[[COMMENT(0)]]  "
+      comments:
+      - number: '4:12 '
+        content: The meaning of the Hebrew is uncertain.
+    - title: 
+      content: 'So I placed armed guards behind the lowest parts of the wall in the
+        exposed areas. I stationed the people to stand guard by families, armed with
+        swords, spears, and bows.  '
+      comments: []
+    - title: 
+      content: "Then as I looked over the situation, I called together the nobles
+        and the rest of the people and said to them, \u201CDon\u2019t be afraid of
+        the enemy! Remember the Lord, who is great and glorious, and fight for your
+        brothers, your sons, your daughters, your wives, and your homes!\u201D  "
+      comments: []
+    - title: 
+      content: 'When our enemies heard that we knew of their plans and that God had
+        frustrated them, we all returned to our work on the wall. '
+      comments: []
+    - title: 
+      content: 'But from then on, only half my men worked while the other half stood
+        guard with spears, shields, bows, and coats of mail. The leaders stationed
+        themselves behind the people of Judah '
+      comments: []
+    - title: 
+      content: 'who were building the wall. The laborers carried on their work with
+        one hand supporting their load and one hand holding a weapon. '
+      comments: []
+    - title: 
+      content: 'All the builders had a sword belted to their side. The trumpeter
+        stayed with me to sound the alarm.  '
+      comments: []
+    - title: 
+      content: "Then I explained to the nobles and officials and all the people,
+        \u201CThe work is very spread out, and we are widely separated from each
+        other along the wall. "
+      comments: []
+    - title: 
+      content: "When you hear the blast of the trumpet, rush to wherever it is sounding.
+        Then our God will fight for us!\u201D  "
+      comments: []
+    - title: 
+      content: 'We worked early and late, from sunrise to sunset. And half the men
+        were always on guard. '
+      comments: []
+    - title: 
+      content: 'I also told everyone living outside the walls to stay in Jerusalem.
+        That way they and their servants could help with guard duty at night and
+        work during the day. '
+      comments: []
+  - verses:
+    - title: Nehemiah Defends the Oppressed
+      content: '  About this time some of the men and their wives raised a cry of
+        protest against their fellow Jews. '
+      comments: []
+    - title: 
+      content: "They were saying, \u201CWe have such large families. We need more
+        food to survive.\u201D  "
+      comments: []
+    - title: 
+      content: "Others said, \u201CWe have mortgaged our fields, vineyards, and homes
+        to get food during the famine.\u201D  "
+      comments: []
+    - title: 
+      content: "And others said, \u201CWe have had to borrow money on our fields
+        and vineyards to pay our taxes. "
+      comments: []
+    - title: 
+      content: "We belong to the same family as those who are wealthy, and our children
+        are just like theirs. Yet we must sell our children into slavery just to
+        get enough money to live. We have already sold some of our daughters, and
+        we are helpless to do anything about it, for our fields and vineyards are
+        already mortgaged to others.\u201D  "
+      comments: []
+    - title: 
+      content: 'When I heard their complaints, I was very angry. '
+      comments: []
+    - title: 
+      content: "After thinking it over, I spoke out against these nobles and officials.
+        I told them, \u201CYou are hurting your own relatives by charging interest
+        when they borrow money!\u201D Then I called a public meeting to deal with
+        the problem.  "
+      comments: []
+    - title: 
+      content: "At the meeting I said to them, \u201CWe are doing all we can to redeem
+        our Jewish relatives who have had to sell themselves to pagan foreigners,
+        but you are selling them back into slavery again. How often must we redeem
+        them?\u201D And they had nothing to say in their defense.  "
+      comments: []
+    - title: 
+      content: "Then I pressed further, \u201CWhat you are doing is not right! Should
+        you not walk in the fear of our God in order to avoid being mocked by enemy
+        nations? "
+      comments: []
+    - title: 
+      content: 'I myself, as well as my brothers and my workers, have been lending
+        the people money and grain, but now let us stop this business of charging
+        interest. '
+      comments: []
+    - title: 
+      content: "You must restore their fields, vineyards, olive groves, and homes
+        to them this very day. And repay the interest you charged when you lent them
+        money, grain, new wine, and olive oil.\u201D  "
+      comments: []
+    - title: 
+      content: "They replied, \u201CWe will give back everything and demand nothing
+        more from the people. We will do as you say.\u201D Then I called the priests
+        and made the nobles and officials swear to do what they had promised.  "
+      comments: []
+    - title: 
+      content: "I shook out the folds of my robe and said, \u201CIf you fail to keep
+        your promise, may God shake you like this from your homes and from your property!\u201DThe
+        whole assembly responded, \u201CAmen,\u201D and they praised the <smallcaps>Lord</smallcaps>.
+        And the people did as they had promised.  "
+      comments: []
+    - title: 
+      content: "For the entire twelve years that I was governor of Judah\u2014from
+        the twentieth year to the thirty-second year of the reign of King Artaxerxes[[COMMENT(0)]]\u2014neither
+        I nor my officials drew on our official food allowance. "
+      comments:
+      - number: '5:14 '
+        content: "That is, 445\u2013433 <span class=\"ChapterContent_sc__Hg9da\">b.c.</span>"
+    - title: 
+      content: 'The former governors, in contrast, had laid heavy burdens on the
+        people, demanding a daily ration of food and wine, besides forty pieces[[COMMENT(0)]]
+        of silver. Even their assistants took advantage of the people. But because
+        I feared God, I did not act that way.  '
+      comments:
+      - number: '5:15 '
+        content: Hebrew <b>40 shekels </b>[1 pound or 456 grams].
+    - title: 
+      content: 'I also devoted myself to working on the wall and refused to acquire
+        any land. And I required all my servants to spend time working on the wall. '
+      comments: []
+    - title: 
+      content: 'I asked for nothing, even though I regularly fed 150 Jewish officials
+        at my table, besides all the visitors from other lands! '
+      comments: []
+    - title: 
+      content: "The provisions I paid for each day included one ox, six choice sheep
+        or goats, and a large number of poultry. And every ten days we needed a large
+        supply of all kinds of wine. Yet I refused to claim the governor\u2019s food
+        allowance because the people already carried a heavy burden.  "
+      comments: []
+  - verses:
+    - title: Continued Opposition to Rebuilding
+      content: "  Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies
+        found out that I had finished rebuilding the wall and that no gaps remained\u2014though
+        we had not yet set up the doors in the gates. "
+      comments: []
+    - title: 
+      content: 'So Sanballat and Geshem sent a message asking me to meet them at
+        one of the villages[[COMMENT(0)]] in the plain of Ono.But I realized they
+        were plotting to harm me, '
+      comments:
+      - number: '6:2 '
+        content: As in Greek version; Hebrew reads <b>at Kephirim.</b>
+    - title: 
+      content: "so I replied by sending this message to them: \u201CI am engaged
+        in a great work, so I can\u2019t come. Why should I stop working to come
+        and meet with you?\u201D  "
+      comments: []
+    - title: 
+      content: 'Four times they sent the same message, and each time I gave the same
+        reply. '
+      comments: []
+    - title: 
+      content: "The fifth time, Sanballat\u2019s servant came with an open letter
+        in his hand, "
+      comments: []
+    - title: 
+      content: "and this is what it said:\u201CThere is a rumor among the surrounding
+        nations, and Geshem[[COMMENT(0)]] tells me it is true, that you and the Jews
+        are planning to rebel and that is why you are building the wall. According
+        to his reports, you plan to be their king. "
+      comments:
+      - number: '6:6 '
+        content: Hebrew <b>Gashmu, </b>a variant spelling of Geshem.
+    - title: 
+      content: "He also reports that you have appointed prophets in Jerusalem to
+        proclaim about you, \u2018Look! There is a king in Judah!\u2019\u201CYou
+        can be very sure that this report will get back to the king, so I suggest
+        that you come and talk it over with me.\u201D  "
+      comments: []
+    - title: 
+      content: "I replied, \u201CThere is no truth in any part of your story. You
+        are making up the whole thing.\u201D  "
+      comments: []
+    - title: 
+      content: 'They were just trying to intimidate us, imagining that they could
+        discourage us and stop the work. So I continued the work with even greater
+        determination.[[COMMENT(0)]]  '
+      comments:
+      - number: '6:9 '
+        content: As in Greek version; Hebrew reads <b>But now to strengthen my hands.</b>
+    - title: 
+      content: "Later I went to visit Shemaiah son of Delaiah and grandson of Mehetabel,
+        who was confined to his home. He said, \u201CLet us meet together inside
+        the Temple of God and bolt the doors shut. Your enemies are coming to kill
+        you tonight.\u201D  "
+      comments: []
+    - title: 
+      content: "But I replied, \u201CShould someone in my position run from danger?
+        Should someone in my position enter the Temple to save his life? No, I won\u2019t
+        do it!\u201D "
+      comments: []
+    - title: 
+      content: 'I realized that God had not spoken to him, but that he had uttered
+        this prophecy against me because Tobiah and Sanballat had hired him. '
+      comments: []
+    - title: 
+      content: 'They were hoping to intimidate me and make me sin. Then they would
+        be able to accuse and discredit me.  '
+      comments: []
+    - title: The Builders Complete the Wall
+      content: 'Remember, O my God, all the evil things that Tobiah and Sanballat
+        have done. And remember Noadiah the prophet and all the prophets like her
+        who have tried to intimidate me.  '
+      comments: []
+    - title: 
+      content: "So on October 2[[COMMENT(0)]] the wall was finished\u2014just fifty-two
+        days after we had begun. "
+      comments:
+      - number: '6:15 '
+        content: Hebrew <b>on the twenty-fifth day of the month Elul, </b>of the
+          ancient Hebrew lunar calendar. This day was October 2, 445 <span class="ChapterContent_sc__Hg9da">b.c.</span>;
+          also see note on 1:1.
+    - title: 
+      content: 'When our enemies and the surrounding nations heard about it, they
+        were frightened and humiliated. They realized this work had been done with
+        the help of our God.  '
+      comments: []
+    - title: 
+      content: 'During those fifty-two days, many letters went back and forth between
+        Tobiah and the nobles of Judah. '
+      comments: []
+    - title: 
+      content: 'For many in Judah had sworn allegiance to him because his father-in-law
+        was Shecaniah son of Arah, and his son Jehohanan was married to the daughter
+        of Meshullam son of Berekiah. '
+      comments: []
+  - verses:
+    - title: 
+      content: '  After the wall was finished and I had set up the doors in the gates,
+        the gatekeepers, singers, and Levites were appointed. '
+      comments: []
+    - title: 
+      content: 'I gave the responsibility of governing Jerusalem to my brother Hanani,
+        along with Hananiah, the commander of the fortress, for he was a faithful
+        man who feared God more than most. '
+      comments: []
+    - title: Nehemiah Registers the People
+      content: "I said to them, \u201CDo not leave the gates open during the hottest
+        part of the day.[[COMMENT(0)]] And even while the gatekeepers are on duty,
+        have them shut and bar the doors. Appoint the residents of Jerusalem to act
+        as guards, everyone on a regular watch. Some will serve at sentry posts and
+        some in front of their own homes.\u201D  "
+      comments:
+      - number: '7:3 '
+        content: Or <b>Keep the gates of Jerusalem closed until the sun is hot.</b>
+    - title: 
+      content: 'At that time the city was large and spacious, but the population
+        was small, and none of the houses had been rebuilt. '
+      comments: []
+    - title: 
+      content: 'So my God gave me the idea to call together all the nobles and leaders
+        of the city, along with the ordinary citizens, for registration. I had found
+        the genealogical record of those who had first returned to Judah. This is
+        what was written there:  '
+      comments: []
+    - title: 
+      content: 'Here is the list of the Jewish exiles of the provinces who returned
+        from their captivity. King Nebuchadnezzar had deported them to Babylon, but
+        now they returned to Jerusalem and the other towns in Judah where they originally
+        lived. '
+      comments: []
+    - title: 
+      content: 'Their leaders were Zerubbabel, Jeshua, Nehemiah, Seraiah,[[COMMENT(0)]]
+        Reelaiah,[[COMMENT(1)]] Nahamani, Mordecai, Bilshan, Mispar,[[COMMENT(2)]]
+        Bigvai, Rehum,[[COMMENT(3)]] and Baanah.This is the number of the men of
+        Israel who returned from exile:'
+      comments:
+      - number: '7:7a '
+        content: As in parallel text at Ezra 2:2; Hebrew reads <b>Azariah.</b>
+      - number: '7:7b '
+        content: As in parallel text at Ezra 2:2; Hebrew reads <b>Raamiah.</b>
+      - number: '7:7c '
+        content: As in parallel text at Ezra 2:2; Hebrew reads <b>Mispereth.</b>
+      - number: '7:7d '
+        content: As in parallel text at Ezra 2:2; Hebrew reads <b>Nehum.</b>
+    - title: 
+      content: The family of Parosh2,172
+      comments: []
+    - title: 
+      content: The family of Shephatiah372
+      comments: []
+    - title: 
+      content: The family of Arah652
+      comments: []
+    - title: 
+      content: The family of Pahath-moab (descendants of Jeshua and Joab)2,818
+      comments: []
+    - title: 
+      content: The family of Elam1,254
+      comments: []
+    - title: 
+      content: The family of Zattu845
+      comments: []
+    - title: 
+      content: The family of Zaccai760
+      comments: []
+    - title: 
+      content: The family of Bani[[COMMENT(0)]]648
+      comments:
+      - number: '7:15 '
+        content: As in parallel text at Ezra 2:10; Hebrew reads <b>Binnui.</b>
+    - title: 
+      content: The family of Bebai628
+      comments: []
+    - title: 
+      content: The family of Azgad2,322
+      comments: []
+    - title: 
+      content: The family of Adonikam667
+      comments: []
+    - title: 
+      content: The family of Bigvai2,067
+      comments: []
+    - title: 
+      content: The family of Adin655
+      comments: []
+    - title: 
+      content: The family of Ater (descendants of Hezekiah)98
+      comments: []
+    - title: 
+      content: The family of Hashum328
+      comments: []
+    - title: 
+      content: The family of Bezai324
+      comments: []
+    - title: 
+      content: The family of Jorah[[COMMENT(0)]]112
+      comments:
+      - number: '7:24 '
+        content: As in parallel text at Ezra 2:18; Hebrew reads <b>Hariph.</b>
+    - title: 
+      content: The family of Gibbar[[COMMENT(0)]]95
+      comments:
+      - number: '7:25 '
+        content: As in parallel text at Ezra 2:20; Hebrew reads <b>Gibeon.</b>
+    - title: 
+      content: The people of Bethlehem and Netophah188
+      comments: []
+    - title: 
+      content: The people of Anathoth128
+      comments: []
+    - title: 
+      content: The people of Beth-azmaveth42
+      comments: []
+    - title: 
+      content: The people of Kiriath-jearim, Kephirah, and Beeroth743
+      comments: []
+    - title: 
+      content: The people of Ramah and Geba621
+      comments: []
+    - title: 
+      content: The people of Micmash122
+      comments: []
+    - title: 
+      content: The people of Bethel and Ai123
+      comments: []
+    - title: 
+      content: The people of West Nebo[[COMMENT(0)]]52
+      comments:
+      - number: '7:33 '
+        content: Or <b>of the other Nebo.</b>
+    - title: 
+      content: The citizens of West Elam[[COMMENT(0)]]1,254
+      comments:
+      - number: '7:34 '
+        content: Or <b>of the other Elam.</b>
+    - title: 
+      content: The citizens of Harim320
+      comments: []
+    - title: 
+      content: The citizens of Jericho345
+      comments: []
+    - title: 
+      content: The citizens of Lod, Hadid, and Ono721
+      comments: []
+    - title: 
+      content: 'The citizens of Senaah3,930      '
+      comments: []
+    - title: 
+      content: These are the priests who returned from exile:The family of Jedaiah
+        (through the line of Jeshua)973
+      comments: []
+    - title: 
+      content: The family of Immer1,052
+      comments: []
+    - title: 
+      content: The family of Pashhur1,247
+      comments: []
+    - title: 
+      content: 'The family of Harim1,017      '
+      comments: []
+    - title: 
+      content: These are the Levites who returned from exile:The families of Jeshua
+        and Kadmiel (descendants of Hodaviah[[COMMENT(0)]])74
+      comments:
+      - number: '7:43 '
+        content: As in parallel text at Ezra 2:40; Hebrew reads <b>Hodevah.</b>
+    - title: 
+      content: The singers of the family of Asaph148
+      comments: []
+    - title: 
+      content: 'The gatekeepers of the families of Shallum, Ater, Talmon, Akkub,
+        Hatita, and Shobai138      '
+      comments: []
+    - title: 
+      content: 'The descendants of the following Temple servants returned from exile:Ziha,
+        Hasupha, Tabbaoth,  '
+      comments: []
+    - title: 
+      content: 'Keros, Siaha,[[COMMENT(0)]] Padon,  '
+      comments:
+      - number: '7:47 '
+        content: As in parallel text at Ezra 2:44; Hebrew reads <b>Sia.</b>
+    - title: 
+      content: 'Lebanah, Hagabah, Shalmai,  '
+      comments: []
+    - title: 
+      content: 'Hanan, Giddel, Gahar,  '
+      comments: []
+    - title: 
+      content: 'Reaiah, Rezin, Nekoda,  '
+      comments: []
+    - title: 
+      content: 'Gazzam, Uzza, Paseah,  '
+      comments: []
+    - title: 
+      content: 'Besai, Meunim, Nephusim,[[COMMENT(0)]]  '
+      comments:
+      - number: '7:52 '
+        content: As in parallel text at Ezra 2:50; Hebrew reads <b>Nephushesim.</b>
+    - title: 
+      content: 'Bakbuk, Hakupha, Harhur,  '
+      comments: []
+    - title: 
+      content: 'Bazluth,[[COMMENT(0)]] Mehida, Harsha,  '
+      comments:
+      - number: '7:54 '
+        content: As in parallel text at Ezra 2:52; Hebrew reads <b>Bazlith.</b>
+    - title: 
+      content: 'Barkos, Sisera, Temah,  '
+      comments: []
+    - title: 
+      content: 'Neziah, and Hatipha.  '
+      comments: []
+    - title: 
+      content: 'The descendants of these servants of King Solomon returned from exile:Sotai,
+        Hassophereth, Peruda,[[COMMENT(0)]]  '
+      comments:
+      - number: '7:57 '
+        content: As in parallel text at Ezra 2:55; Hebrew reads <b>Sotai, Sophereth,
+          Perida.</b>
+    - title: 
+      content: 'Jaalah,[[COMMENT(0)]] Darkon, Giddel,  '
+      comments:
+      - number: '7:58 '
+        content: As in parallel text at Ezra 2:56; Hebrew reads <b>Jaala.</b>
+    - title: 
+      content: 'Shephatiah, Hattil, Pokereth-hazzebaim, and Ami.[[COMMENT(0)]]  '
+      comments:
+      - number: '7:59 '
+        content: As in parallel text at Ezra 2:57; Hebrew reads <b>Amon.</b>
+    - title: 
+      content: "In all, the Temple servants and the descendants of Solomon\u2019s
+        servants numbered 392.  "
+      comments: []
+    - title: 
+      content: 'Another group returned at this time from the towns of Tel-melah,
+        Tel-harsha, Kerub, Addan,[[COMMENT(0)]] and Immer. However, they could not
+        prove that they or their families were descendants of Israel. '
+      comments:
+      - number: '7:61 '
+        content: As in parallel text at Ezra 2:59; Hebrew reads <b>Addon.</b>
+    - title: 
+      content: "This group included the families of Delaiah, Tobiah, and Nekoda\u2014a
+        total of 642 people.  "
+      comments: []
+    - title: 
+      content: "Three families of priests\u2014Hobaiah, Hakkoz, and Barzillai\u2014also
+        returned. (This Barzillai had married a woman who was a descendant of Barzillai
+        of Gilead, and he had taken her family name.) "
+      comments: []
+    - title: 
+      content: 'They searched for their names in the genealogical records, but they
+        were not found, so they were disqualified from serving as priests. '
+      comments: []
+    - title: 
+      content: "The governor told them not to eat the priests\u2019 share of food
+        from the sacrifices until a priest could consult the <smallcaps>Lord</smallcaps>
+        about the matter by using the Urim and Thummim\u2014the sacred lots.  "
+      comments: []
+    - title: 
+      content: 'So a total of 42,360 people returned to Judah, '
+      comments: []
+    - title: 
+      content: 'in addition to 7,337 servants and 245 singers, both men and women. '
+      comments: []
+    - title: 
+      content: 'They took with them 736 horses, 245 mules,[[COMMENT(0)]]  '
+      comments:
+      - number: '7:68 '
+        content: As in some Hebrew manuscripts (see also Ezra 2:66); most Hebrew
+          manuscripts lack this verse. Verses 7:69-73 are numbered 7:68-72 in Hebrew
+          text.
+    - title: 
+      content: '435 camels, and 6,720 donkeys.  '
+      comments: []
+    - title: 
+      content: 'Some of the family leaders gave gifts for the work. The governor
+        gave to the treasury 1,000 gold coins,[[COMMENT(0)]] 50 gold basins, and
+        530 robes for the priests. '
+      comments:
+      - number: '7:70 '
+        content: Hebrew <b>1,000 darics of gold, </b>about 19 pounds or 8.6 kilograms
+          in weight.
+    - title: 
+      content: 'The other leaders gave to the treasury a total of 20,000 gold coins[[COMMENT(0)]]
+        and some 2,750 pounds[[COMMENT(1)]] of silver for the work. '
+      comments:
+      - number: '7:71a '
+        content: Hebrew <b>20,000 darics of gold, </b>about 375 pounds or 170 kilograms
+          in weight; also in 7:72.
+      - number: '7:71b '
+        content: Hebrew <b>2,200 minas </b>[1,300 kilograms].
+    - title: 
+      content: 'The rest of the people gave 20,000 gold coins, about 2,500 pounds[[COMMENT(0)]]
+        of silver, and 67 robes for the priests.  '
+      comments:
+      - number: '7:72 '
+        content: Hebrew <b>2,000 minas </b>[1,200 kilograms].
+  - verses:
+    - title: 
+      content: '  all the people assembled with a unified purpose at the square just
+        inside the Water Gate. They asked Ezra the scribe to bring out the Book of
+        the Law of Moses, which the <smallcaps>Lord</smallcaps> had given for Israel
+        to obey.  '
+      comments: []
+    - title: 
+      content: 'So on October 8[[COMMENT(0)]] Ezra the priest brought the Book of
+        the Law before the assembly, which included the men and women and all the
+        children old enough to understand. '
+      comments:
+      - number: '8:2 '
+        content: Hebrew <b>on the first day of the seventh month, </b>of the ancient
+          Hebrew lunar calendar. This day was October 8, 445 <span class="ChapterContent_sc__Hg9da">b.c.</span>;
+          also see note on 1:1.
+    - title: 
+      content: 'He faced the square just inside the Water Gate from early morning
+        until noon and read aloud to everyone who could understand. All the people
+        listened closely to the Book of the Law.  '
+      comments: []
+    - title: 
+      content: 'Ezra the scribe stood on a high wooden platform that had been made
+        for the occasion. To his right stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah,
+        and Maaseiah. To his left stood Pedaiah, Mishael, Malkijah, Hashum, Hashbaddanah,
+        Zechariah, and Meshullam. '
+      comments: []
+    - title: 
+      content: 'Ezra stood on the platform in full view of all the people. When they
+        saw him open the book, they all rose to their feet.  '
+      comments: []
+    - title: 
+      content: "Then Ezra praised the <smallcaps>Lord</smallcaps>, the great God,
+        and all the people chanted, \u201CAmen! Amen!\u201D as they lifted their
+        hands. Then they bowed down and worshiped the <smallcaps>Lord</smallcaps>
+        with their faces to the ground.  "
+      comments: []
+    - title: 
+      content: "The Levites\u2014Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai,
+        Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, and Pelaiah\u2014then
+        instructed the people in the Law while everyone remained in their places. "
+      comments: []
+    - title: 
+      content: 'They read from the Book of the Law of God and clearly explained the
+        meaning of what was being read, helping the people understand each passage.  '
+      comments: []
+    - title: 
+      content: "Then Nehemiah the governor, Ezra the priest and scribe, and the Levites
+        who were interpreting for the people said to them, \u201CDon\u2019t mourn
+        or weep on such a day as this! For today is a sacred day before the <smallcaps>Lord</smallcaps>
+        your God.\u201D For the people had all been weeping as they listened to the
+        words of the Law.  "
+      comments: []
+    - title: 
+      content: "And Nehemiah[[COMMENT(0)]] continued, \u201CGo and celebrate with
+        a feast of rich foods and sweet drinks, and share gifts of food with people
+        who have nothing prepared. This is a sacred day before our Lord. Don\u2019t
+        be dejected and sad, for the joy of the <smallcaps>Lord</smallcaps> is your
+        strength!\u201D  "
+      comments:
+      - number: '8:10 '
+        content: Hebrew <b>he.</b>
+    - title: 
+      content: "And the Levites, too, quieted the people, telling them, \u201CHush!
+        Don\u2019t weep! For this is a sacred day.\u201D "
+      comments: []
+    - title: The Festival of Shelters
+      content: "So the people went away to eat and drink at a festive meal, to share
+        gifts of food, and to celebrate with great joy because they had heard God\u2019s
+        words and understood them.  "
+      comments: []
+    - title: 
+      content: 'On October 9[[COMMENT(0)]] the family leaders of all the people,
+        together with the priests and Levites, met with Ezra the scribe to go over
+        the Law in greater detail. '
+      comments:
+      - number: '8:13 '
+        content: Hebrew <b>On the second day, </b>of the seventh month of the ancient
+          Hebrew lunar calendar. This day was October 9, 445 <span class="ChapterContent_sc__Hg9da">b.c.</span>;
+          also see notes on 1:1 and 8:2.
+    - title: 
+      content: 'As they studied the Law, they discovered that the <smallcaps>Lord</smallcaps>
+        had commanded through Moses that the Israelites should live in shelters during
+        the festival to be held that month.[[COMMENT(0)]]  '
+      comments:
+      - number: '8:14 '
+        content: Hebrew <b>in the seventh month. </b>This month of the ancient Hebrew
+          lunar calendar usually occurs within the months of September and October.
+          See Lev 23:39-43.
+    - title: 
+      content: 'He had said that a proclamation should be made throughout their towns
+        and in Jerusalem, telling the people to go to the hills to get branches from
+        olive, wild olive,[[COMMENT(0)]] myrtle, palm, and other leafy trees. They
+        were to use these branches to make shelters in which they would live during
+        the festival, as prescribed in the Law.  '
+      comments:
+      - number: '8:15 '
+        content: Or <b>pine; </b>Hebrew reads <b>oil tree.</b>
+    - title: 
+      content: "So the people went out and cut branches and used them to build shelters
+        on the roofs of their houses, in their courtyards, in the courtyards of God\u2019s
+        Temple, or in the squares just inside the Water Gate and the Ephraim Gate. "
+      comments: []
+    - title: 
+      content: 'So everyone who had returned from captivity lived in these shelters
+        during the festival, and they were all filled with great joy! The Israelites
+        had not celebrated like this since the days of Joshua[[COMMENT(0)]] son of
+        Nun.  '
+      comments:
+      - number: '8:17 '
+        content: Hebrew <b>Jeshua, </b>a variant spelling of Joshua.
+  - verses:
+    - title: The People Confess Their Sins
+      content: '  On October 31[[COMMENT(0)]] the people assembled again, and this
+        time they fasted and dressed in burlap and sprinkled dust on their heads. '
+      comments:
+      - number: '9:1 '
+        content: Hebrew <b>On the twenty-fourth day of that same month, </b>the seventh
+          month of the ancient Hebrew lunar calendar. This day was October 31, 445
+          <span class="ChapterContent_sc__Hg9da">b.c.</span>; also see notes on 1:1
+          and 8:2.
+    - title: 
+      content: 'Those of Israelite descent separated themselves from all foreigners
+        as they confessed their own sins and the sins of their ancestors. '
+      comments: []
+    - title: 
+      content: 'They remained standing in place for three hours[[COMMENT(0)]] while
+        the Book of the Law of the <smallcaps>Lord</smallcaps> their God was read
+        aloud to them. Then for three more hours they confessed their sins and worshiped
+        the <smallcaps>Lord</smallcaps> their God. '
+      comments:
+      - number: '9:3 '
+        content: Hebrew <b>for a quarter of a day.</b>
+    - title: 
+      content: "The Levites\u2014Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah,
+        Bani, and Kenani\u2014stood on the stairway of the Levites and cried out
+        to the <smallcaps>Lord</smallcaps> their God with loud voices.  "
+      comments: []
+    - title: 
+      content: "Then the leaders of the Levites\u2014Jeshua, Kadmiel, Bani, Hashabneiah,
+        Sherebiah, Hodiah, Shebaniah, and Pethahiah\u2014called out to the people:
+        \u201CStand up and praise the <smallcaps>Lord</smallcaps> your God, for he
+        lives from everlasting to everlasting!\u201D Then they prayed:\u201CMay your
+        glorious name be praised! May it be exalted above all blessing and praise!  "
+      comments: []
+    - title: 
+      content: "\u201CYou alone are the <smallcaps>Lord</smallcaps>. You made the
+        skies and the heavens and all the stars. You made the earth and the seas
+        and everything in them. You preserve them all, and the angels of heaven worship
+        you.  "
+      comments: []
+    - title: 
+      content: "\u201CYou are the <smallcaps>Lord</smallcaps> God, who chose Abram
+        and brought him from Ur of the Chaldeans and renamed him Abraham. "
+      comments: []
+    - title: 
+      content: 'When he had proved himself faithful, you made a covenant with him
+        to give him and his descendants the land of the Canaanites, Hittites, Amorites,
+        Perizzites, Jebusites, and Girgashites. And you have done what you promised,
+        for you are always true to your word.  '
+      comments: []
+    - title: 
+      content: "\u201CYou saw the misery of our ancestors in Egypt, and you heard
+        their cries from beside the Red Sea.[[COMMENT(0)]]  "
+      comments:
+      - number: '9:9 '
+        content: Hebrew <b>sea of reeds.</b>
+    - title: 
+      content: 'You displayed miraculous signs and wonders against Pharaoh, his officials,
+        and all his people, for you knew how arrogantly they were treating our ancestors.
+        You have a glorious reputation that has never been forgotten. '
+      comments: []
+    - title: 
+      content: 'You divided the sea for your people so they could walk through on
+        dry land! And then you hurled their enemies into the depths of the sea. They
+        sank like stones beneath the mighty waters. '
+      comments: []
+    - title: 
+      content: 'You led our ancestors by a pillar of cloud during the day and a pillar
+        of fire at night so that they could find their way.  '
+      comments: []
+    - title: 
+      content: "\u201CYou came down at Mount Sinai and spoke to them from heaven.
+        You gave them regulations and instructions that were just, and decrees and
+        commands that were good. "
+      comments: []
+    - title: 
+      content: 'You instructed them concerning your holy Sabbath. And you commanded
+        them, through Moses your servant, to obey all your commands, decrees, and
+        instructions.  '
+      comments: []
+    - title: 
+      content: "\u201CYou gave them bread from heaven when they were hungry and water
+        from the rock when they were thirsty. You commanded them to go and take possession
+        of the land you had sworn to give them.  "
+      comments: []
+    - title: 
+      content: "\u201CBut our ancestors were proud and stubborn, and they paid no
+        attention to your commands. "
+      comments: []
+    - title: 
+      content: 'They refused to obey and did not remember the miracles you had done
+        for them. Instead, they became stubborn and appointed a leader to take them
+        back to their slavery in Egypt.[[COMMENT(0)]] But you are a God of forgiveness,
+        gracious and merciful, slow to become angry, and rich in unfailing love.
+        You did not abandon them, '
+      comments:
+      - number: '9:17 '
+        content: As in Greek version; Hebrew reads <b>in their rebellion.</b>
+    - title: 
+      content: "even when they made an idol shaped like a calf and said, \u2018This
+        is your god who brought you out of Egypt!\u2019 They committed terrible blasphemies.  "
+      comments: []
+    - title: 
+      content: "\u201CBut in your great mercy you did not abandon them to die in
+        the wilderness. The pillar of cloud still led them forward by day, and the
+        pillar of fire showed them the way through the night. "
+      comments: []
+    - title: 
+      content: 'You sent your good Spirit to instruct them, and you did not stop
+        giving them manna from heaven or water for their thirst. '
+      comments: []
+    - title: 
+      content: 'For forty years you sustained them in the wilderness, and they lacked
+        nothing. Their clothes did not wear out, and their feet did not swell!  '
+      comments: []
+    - title: 
+      content: "\u201CThen you helped our ancestors conquer kingdoms and nations,
+        and you placed your people in every corner of the land.[[COMMENT(0)]] They
+        took over the land of King Sihon of Heshbon and the land of King Og of Bashan. "
+      comments:
+      - number: '9:22 '
+        content: 'The meaning of the Hebrew is uncertain.  '
+    - title: 
+      content: 'You made their descendants as numerous as the stars in the sky and
+        brought them into the land you had promised to their ancestors.  '
+      comments: []
+    - title: 
+      content: "\u201CThey went in and took possession of the land. You subdued whole
+        nations before them. Even the Canaanites, who inhabited the land, were powerless!
+        Your people could deal with these nations and their kings as they pleased. "
+      comments: []
+    - title: 
+      content: 'Our ancestors captured fortified cities and fertile land. They took
+        over houses full of good things, with cisterns already dug and vineyards
+        and olive groves and fruit trees in abundance. So they ate until they were
+        full and grew fat and enjoyed themselves in all your blessings.  '
+      comments: []
+    - title: 
+      content: "\u201CBut despite all this, they were disobedient and rebelled against
+        you. They turned their backs on your Law, they killed your prophets who warned
+        them to return to you, and they committed terrible blasphemies. "
+      comments: []
+    - title: 
+      content: 'So you handed them over to their enemies, who made them suffer. But
+        in their time of trouble they cried to you, and you heard them from heaven.
+        In your great mercy, you sent them liberators who rescued them from their
+        enemies.  '
+      comments: []
+    - title: 
+      content: "\u201CBut as soon as they were at peace, your people again committed
+        evil in your sight, and once more you let their enemies conquer them. Yet
+        whenever your people turned and cried to you again for help, you listened
+        once more from heaven. In your wonderful mercy, you rescued them many times!  "
+      comments: []
+    - title: 
+      content: "\u201CYou warned them to return to your Law, but they became proud
+        and obstinate and disobeyed your commands. They did not follow your regulations,
+        by which people will find life if only they obey. They stubbornly turned
+        their backs on you and refused to listen. "
+      comments: []
+    - title: 
+      content: "In your love, you were patient with them for many years. You sent
+        your Spirit, who warned them through the prophets. But still they wouldn\u2019t
+        listen! So once again you allowed the peoples of the land to conquer them. "
+      comments: []
+    - title: 
+      content: 'But in your great mercy, you did not destroy them completely or abandon
+        them forever. What a gracious and merciful God you are!  '
+      comments: []
+    - title: 
+      content: "\u201CAnd now, our God, the great and mighty and awesome God, who
+        keeps his covenant of unfailing love, do not let all the hardships we have
+        suffered seem insignificant to you. Great trouble has come upon us and upon
+        our kings and leaders and priests and prophets and ancestors\u2014all of
+        your people\u2014from the days when the kings of Assyria first triumphed
+        over us until now. "
+      comments: []
+    - title: 
+      content: 'Every time you punished us you were being just. We have sinned greatly,
+        and you gave us only what we deserved. '
+      comments: []
+    - title: 
+      content: 'Our kings, leaders, priests, and ancestors did not obey your Law
+        or listen to the warnings in your commands and laws. '
+      comments: []
+    - title: 
+      content: 'Even while they had their own kingdom, they did not serve you, though
+        you showered your goodness on them. You gave them a large, fertile land,
+        but they refused to turn from their wickedness.  '
+      comments: []
+    - title: 
+      content: "\u201CSo now today we are slaves in the land of plenty that you gave
+        our ancestors for their enjoyment! We are slaves here in this good land. "
+      comments: []
+    - title: The People Agree to Obey
+      content: "The lush produce of this land piles up in the hands of the kings
+        whom you have set over us because of our sins. They have power over us and
+        our livestock. We serve them at their pleasure, and we are in great misery.\u201D  "
+      comments: []
+  - verses:
+    - title: 
+      content: '    [[COMMENT(0)]]The document was ratified and sealed with the following
+        names:The governor:Nehemiah son of Hacaliah, and also Zedekiah.  '
+      comments:
+      - number: '10:1 '
+        content: '  Verses 10:1-39 are numbered 10:2-40 in Hebrew text.  '
+    - title: 
+      content: 'The following priests:Seraiah, Azariah, Jeremiah, '
+      comments: []
+    - title: 
+      content: 'Pashhur, Amariah, Malkijah, '
+      comments: []
+    - title: 
+      content: 'Hattush, Shebaniah, Malluch, '
+      comments: []
+    - title: 
+      content: 'Harim, Meremoth, Obadiah, '
+      comments: []
+    - title: 
+      content: 'Daniel, Ginnethon, Baruch, '
+      comments: []
+    - title: 
+      content: 'Meshullam, Abijah, Mijamin, '
+      comments: []
+    - title: 
+      content: 'Maaziah, Bilgai, and Shemaiah. These were the priests.  '
+      comments: []
+    - title: 
+      content: 'The following Levites:Jeshua son of Azaniah, Binnui from the family
+        of Henadad, Kadmiel, '
+      comments: []
+    - title: 
+      content: 'and their fellow Levites: Shebaniah, Hodiah, Kelita, Pelaiah, Hanan, '
+      comments: []
+    - title: 
+      content: 'Mica, Rehob, Hashabiah, '
+      comments: []
+    - title: 
+      content: 'Zaccur, Sherebiah, Shebaniah, '
+      comments: []
+    - title: 
+      content: 'Hodiah, Bani, and Beninu.  '
+      comments: []
+    - title: 
+      content: 'The following leaders:Parosh, Pahath-moab, Elam, Zattu, Bani, '
+      comments: []
+    - title: 
+      content: 'Bunni, Azgad, Bebai, '
+      comments: []
+    - title: 
+      content: 'Adonijah, Bigvai, Adin, '
+      comments: []
+    - title: 
+      content: 'Ater, Hezekiah, Azzur, '
+      comments: []
+    - title: 
+      content: 'Hodiah, Hashum, Bezai, '
+      comments: []
+    - title: 
+      content: 'Hariph, Anathoth, Nebai, '
+      comments: []
+    - title: 
+      content: 'Magpiash, Meshullam, Hezir, '
+      comments: []
+    - title: 
+      content: 'Meshezabel, Zadok, Jaddua, '
+      comments: []
+    - title: 
+      content: 'Pelatiah, Hanan, Anaiah, '
+      comments: []
+    - title: 
+      content: 'Hoshea, Hananiah, Hasshub, '
+      comments: []
+    - title: 
+      content: 'Hallohesh, Pilha, Shobek, '
+      comments: []
+    - title: 
+      content: 'Rehum, Hashabnah, Maaseiah, '
+      comments: []
+    - title: 
+      content: 'Ahiah, Hanan, Anan, '
+      comments: []
+    - title: The Vow of the People
+      content: 'Malluch, Harim, and Baanah.  '
+      comments: []
+    - title: 
+      content: "Then the rest of the people\u2014the priests, Levites, gatekeepers,
+        singers, Temple servants, and all who had separated themselves from the pagan
+        people of the land in order to obey the Law of God, together with their wives,
+        sons, daughters, and all who were old enough to understand\u2014 "
+      comments: []
+    - title: 
+      content: 'joined their leaders and bound themselves with an oath. They swore
+        a curse on themselves if they failed to obey the Law of God as issued by
+        his servant Moses. They solemnly promised to carefully follow all the commands,
+        regulations, and decrees of the <smallcaps>Lord</smallcaps> our Lord:  '
+      comments: []
+    - title: 
+      content: "\u201CWe promise not to let our daughters marry the pagan people
+        of the land, and not to let our sons marry their daughters.  "
+      comments: []
+    - title: 
+      content: "\u201CWe also promise that if the people of the land should bring
+        any merchandise or grain to be sold on the Sabbath or on any other holy day,
+        we will refuse to buy it. Every seventh year we will let our land rest, and
+        we will cancel all debts owed to us.  "
+      comments: []
+    - title: 
+      content: "\u201CIn addition, we promise to obey the command to pay the annual
+        Temple tax of one-eighth of an ounce of silver[[COMMENT(0)]] for the care
+        of the Temple of our God. "
+      comments:
+      - number: '10:32 '
+        content: Hebrew <b>tax of 1/3 of a shekel </b>[4 grams].
+    - title: 
+      content: 'This will provide for the Bread of the Presence; for the regular
+        grain offerings and burnt offerings; for the offerings on the Sabbaths, the
+        new moon celebrations, and the annual festivals; for the holy offerings;
+        and for the sin offerings to make atonement for Israel. It will provide for
+        everything necessary for the work of the Temple of our God.  '
+      comments: []
+    - title: 
+      content: "\u201CWe have cast sacred lots to determine when\u2014at regular
+        times each year\u2014the families of the priests, Levites, and the common
+        people should bring wood to God\u2019s Temple to be burned on the altar of
+        the <smallcaps>Lord</smallcaps> our God, as is written in the Law.  "
+      comments: []
+    - title: 
+      content: "\u201CWe promise to bring the first part of every harvest to the
+        <smallcaps>Lord</smallcaps>\u2019s Temple year after year\u2014whether it
+        be a crop from the soil or from our fruit trees. "
+      comments: []
+    - title: 
+      content: 'We agree to give God our oldest sons and the firstborn of all our
+        herds and flocks, as prescribed in the Law. We will present them to the priests
+        who minister in the Temple of our God. '
+      comments: []
+    - title: 
+      content: 'We will store the produce in the storerooms of the Temple of our
+        God. We will bring the best of our flour and other grain offerings, the best
+        of our fruit, and the best of our new wine and olive oil. And we promise
+        to bring to the Levites a tenth of everything our land produces, for it is
+        the Levites who collect the tithes in all our rural towns.  '
+      comments: []
+    - title: 
+      content: "\u201CA priest\u2014a descendant of Aaron\u2014will be with the Levites
+        as they receive these tithes. And a tenth of all that is collected as tithes
+        will be delivered by the Levites to the Temple of our God and placed in the
+        storerooms. "
+      comments: []
+  - verses:
+    - title: The People Occupy Jerusalem
+      content: '  The leaders of the people were living in Jerusalem, the holy city.
+        A tenth of the people from the other towns of Judah and Benjamin were chosen
+        by sacred lots to live there, too, while the rest stayed where they were. '
+      comments: []
+    - title: 
+      content: 'And the people commended everyone who volunteered to resettle in
+        Jerusalem.  '
+      comments: []
+    - title: 
+      content: "Here is a list of the names of the provincial officials who came
+        to live in Jerusalem. (Most of the people, priests, Levites, Temple servants,
+        and descendants of Solomon\u2019s servants continued to live in their own
+        homes in the various towns of Judah, "
+      comments: []
+    - title: 
+      content: 'but some of the people from Judah and Benjamin resettled in Jerusalem.)From
+        the tribe of Judah:Athaiah son of Uzziah, son of Zechariah, son of Amariah,
+        son of Shephatiah, son of Mahalalel, of the family of Perez. '
+      comments: []
+    - title: 
+      content: 'Also Maaseiah son of Baruch, son of Col-hozeh, son of Hazaiah, son
+        of Adaiah, son of Joiarib, son of Zechariah, of the family of Shelah.[[COMMENT(0)]]  '
+      comments:
+      - number: '11:5 '
+        content: Hebrew <b>son of the Shilonite.</b>
+    - title: 
+      content: "There were 468 descendants of Perez who lived in Jerusalem\u2014all
+        outstanding men.  "
+      comments: []
+    - title: 
+      content: 'From the tribe of Benjamin:Sallu son of Meshullam, son of Joed, son
+        of Pedaiah, son of Kolaiah, son of Maaseiah, son of Ithiel, son of Jeshaiah. '
+      comments: []
+    - title: 
+      content: 'After him were Gabbai and Sallai and a total of 928 relatives. '
+      comments: []
+    - title: 
+      content: 'Their chief officer was Joel son of Zicri, who was assisted by Judah
+        son of Hassenuah, second-in-command over the city.  '
+      comments: []
+    - title: 
+      content: 'From the priests:Jedaiah son of Joiarib; Jakin; '
+      comments: []
+    - title: 
+      content: 'and Seraiah son of Hilkiah, son of Meshullam, son of Zadok, son of
+        Meraioth, son of Ahitub, the supervisor of the Temple of God. '
+      comments: []
+    - title: 
+      content: 'Also 822 of their associates, who worked at the Temple. Also Adaiah
+        son of Jeroham, son of Pelaliah, son of Amzi, son of Zechariah, son of Pashhur,
+        son of Malkijah, '
+      comments: []
+    - title: 
+      content: 'along with 242 of his associates, who were heads of their families.
+        Also Amashsai son of Azarel, son of Ahzai, son of Meshillemoth, son of Immer, '
+      comments: []
+    - title: 
+      content: 'and 128 of his[[COMMENT(0)]] outstanding associates. Their chief
+        officer was Zabdiel son of Haggedolim.  '
+      comments:
+      - number: '11:14 '
+        content: As in Greek version; Hebrew reads <b>their.</b>
+    - title: 
+      content: 'From the Levites:Shemaiah son of Hasshub, son of Azrikam, son of
+        Hashabiah, son of Bunni. '
+      comments: []
+    - title: 
+      content: 'Also Shabbethai and Jozabad, who were in charge of the work outside
+        the Temple of God. '
+      comments: []
+    - title: 
+      content: "Also Mattaniah son of Mica, son of Zabdi, a descendant of Asaph,
+        who led in thanksgiving and prayer. Also Bakbukiah, who was Mattaniah\u2019s
+        assistant, and Abda son of Shammua, son of Galal, son of Jeduthun. "
+      comments: []
+    - title: 
+      content: 'In all, there were 284 Levites in the holy city.  '
+      comments: []
+    - title: 
+      content: 'From the gatekeepers:Akkub, Talmon, and 172 of their associates,
+        who guarded the gates.  '
+      comments: []
+    - title: 
+      content: 'The other priests, Levites, and the rest of the Israelites lived
+        wherever their family inheritance was located in any of the towns of Judah. '
+      comments: []
+    - title: 
+      content: 'The Temple servants, however, whose leaders were Ziha and Gishpa,
+        all lived on the hill of Ophel.  '
+      comments: []
+    - title: 
+      content: "The chief officer of the Levites in Jerusalem was Uzzi son of Bani,
+        son of Hashabiah, son of Mattaniah, son of Mica, a descendant of Asaph, whose
+        family served as singers at God\u2019s Temple. "
+      comments: []
+    - title: 
+      content: 'Their daily responsibilities were carried out according to the terms
+        of a royal command.  '
+      comments: []
+    - title: 
+      content: 'Pethahiah son of Meshezabel, a descendant of Zerah son of Judah,
+        was the royal adviser in all matters of public administration.  '
+      comments: []
+    - title: 
+      content: 'As for the surrounding villages with their open fields, some of the
+        people of Judah lived in Kiriath-arba with its settlements, Dibon with its
+        settlements, and Jekabzeel with its villages. '
+      comments: []
+    - title: 
+      content: 'They also lived in Jeshua, Moladah, Beth-pelet, '
+      comments: []
+    - title: 
+      content: 'Hazar-shual, Beersheba with its settlements, '
+      comments: []
+    - title: 
+      content: 'Ziklag, and Meconah with its settlements. '
+      comments: []
+    - title: 
+      content: 'They also lived in En-rimmon, Zorah, Jarmuth, '
+      comments: []
+    - title: 
+      content: 'Zanoah, and Adullam with their surrounding villages. They also lived
+        in Lachish with its nearby fields and Azekah with its surrounding villages.
+        So the people of Judah were living all the way from Beersheba in the south
+        to the valley of Hinnom.  '
+      comments: []
+    - title: 
+      content: 'Some of the people of Benjamin lived at Geba, Micmash, Aija, and
+        Bethel with its settlements. '
+      comments: []
+    - title: 
+      content: 'They also lived in Anathoth, Nob, Ananiah, '
+      comments: []
+    - title: 
+      content: 'Hazor, Ramah, Gittaim, '
+      comments: []
+    - title: 
+      content: 'Hadid, Zeboim, Neballat, '
+      comments: []
+    - title: 
+      content: 'Lod, Ono, and the Valley of Craftsmen.[[COMMENT(0)]]  '
+      comments:
+      - number: '11:35 '
+        content: Or <b>and Ge-harashim.</b>
+  - verses:
+    - title: A History of the Priests and Levites
+      content: '  Here is the list of the priests and Levites who returned with Zerubbabel
+        son of Shealtiel and Jeshua the high priest:Seraiah, Jeremiah, Ezra,  '
+      comments: []
+    - title: 
+      content: 'Amariah, Malluch, Hattush,  '
+      comments: []
+    - title: 
+      content: 'Shecaniah, Harim,[[COMMENT(0)]] Meremoth,  '
+      comments:
+      - number: '12:3 '
+        content: Hebrew <b>Rehum; </b>compare 7:42; 12:15; Ezra 2:39.
+    - title: 
+      content: 'Iddo, Ginnethon,[[COMMENT(0)]] Abijah,  '
+      comments:
+      - number: '12:4 '
+        content: As in some Hebrew manuscripts and Latin Vulgate (see also 12:16);
+          most Hebrew manuscripts read <b>Ginnethoi.</b>
+    - title: 
+      content: 'Miniamin, Moadiah,[[COMMENT(0)]] Bilgah,  '
+      comments:
+      - number: '12:5 '
+        content: Hebrew <b>Mijamin, Maadiah; </b>compare 12:17.
+    - title: 
+      content: 'Shemaiah, Joiarib, Jedaiah,  '
+      comments: []
+    - title: 
+      content: 'Sallu, Amok, Hilkiah, and Jedaiah.These were the leaders of the priests
+        and their associates in the days of Jeshua.  '
+      comments: []
+    - title: 
+      content: 'The Levites who returned with them were Jeshua, Binnui, Kadmiel,
+        Sherebiah, Judah, and Mattaniah, who with his associates was in charge of
+        the songs of thanksgiving. '
+      comments: []
+    - title: 
+      content: 'Their associates, Bakbukiah and Unni, stood opposite them during
+        the service.  '
+      comments: []
+    - title: 
+      content: 'Jeshua the high priest was the father of Joiakim.Joiakim was the
+        father of Eliashib.Eliashib was the father of Joiada.  '
+      comments: []
+    - title: 
+      content: 'Joiada was the father of Johanan.[[COMMENT(0)]]Johanan was the father
+        of Jaddua.  '
+      comments:
+      - number: '12:11 '
+        content: Hebrew <b>Jonathan; </b>compare 12:22.
+    - title: 
+      content: 'Now when Joiakim was high priest, the family leaders of the priests
+        were as follows:Meraiah was leader of the family of Seraiah.Hananiah was
+        leader of the family of Jeremiah.  '
+      comments: []
+    - title: 
+      content: 'Meshullam was leader of the family of Ezra.Jehohanan was leader of
+        the family of Amariah.  '
+      comments: []
+    - title: 
+      content: 'Jonathan was leader of the family of Malluch.[[COMMENT(0)]]Joseph
+        was leader of the family of Shecaniah.[[COMMENT(1)]]  '
+      comments:
+      - number: '12:14a '
+        content: As in Greek version (see also 10:4; 12:2); Hebrew reads <b>Malluchi.</b>
+      - number: '12:14b '
+        content: As in many Hebrew manuscripts, some Greek manuscripts, and Syriac
+          version (see also 12:3); most Hebrew manuscripts read <b>Shebaniah.</b>
+    - title: 
+      content: 'Adna was leader of the family of Harim.Helkai was leader of the family
+        of Meremoth.[[COMMENT(0)]]  '
+      comments:
+      - number: '12:15 '
+        content: As in some Greek manuscripts (see also 12:3); Hebrew reads <b>Meraioth.</b>
+    - title: 
+      content: 'Zechariah was leader of the family of Iddo.Meshullam was leader of
+        the family of Ginnethon.  '
+      comments: []
+    - title: 
+      content: 'Zicri was leader of the family of Abijah.There was also a[[COMMENT(0)]]
+        leader of the family of Miniamin.Piltai was leader of the family of Moadiah.  '
+      comments:
+      - number: '12:17 '
+        content: Hebrew lacks the name of this family leader.
+    - title: 
+      content: 'Shammua was leader of the family of Bilgah.Jehonathan was leader
+        of the family of Shemaiah.  '
+      comments: []
+    - title: 
+      content: 'Mattenai was leader of the family of Joiarib.Uzzi was leader of the
+        family of Jedaiah.  '
+      comments: []
+    - title: 
+      content: 'Kallai was leader of the family of Sallu.[[COMMENT(0)]]Eber was leader
+        of the family of Amok.  '
+      comments:
+      - number: '12:20 '
+        content: Hebrew <b>Sallai; </b>compare 12:7.
+    - title: 
+      content: 'Hashabiah was leader of the family of Hilkiah.Nethanel was leader
+        of the family of Jedaiah.  '
+      comments: []
+    - title: 
+      content: 'A record of the Levite families was kept during the years when Eliashib,
+        Joiada, Johanan, and Jaddua served as high priest. Another record of the
+        priests was kept during the reign of Darius the Persian.[[COMMENT(0)]]  '
+      comments:
+      - number: '12:22 '
+        content: "<b>Darius the Persian </b>is probably Darius II, who reigned 423\u2013404
+          <span class=\"ChapterContent_sc__Hg9da\">b.c.</span>, or possibly Darius
+          III, who reigned 336\u2013331 <span class=\"ChapterContent_sc__Hg9da\">b.c.</span>"
+    - title: 
+      content: 'A record of the heads of the Levite families was kept in The Book
+        of History down to the days of Johanan, the grandson[[COMMENT(0)]] of Eliashib.  '
+      comments:
+      - number: '12:23 '
+        content: Hebrew <b>descendant; </b>compare 12:10-11.
+    - title: 
+      content: 'These were the family leaders of the Levites: Hashabiah, Sherebiah,
+        Jeshua, Binnui,[[COMMENT(0)]] Kadmiel, and other associates, who stood opposite
+        them during the ceremonies of praise and thanksgiving, one section responding
+        to the other, as commanded by David, the man of God. '
+      comments:
+      - number: '12:24 '
+        content: Hebrew <b>son of </b>(i.e., <b>ben</b>), which should probably be
+          read here as the proper name Binnui; compare Ezra 3:9 and the note there.
+    - title: 
+      content: 'This included Mattaniah, Bakbukiah, and Obadiah.Meshullam, Talmon,
+        and Akkub were the gatekeepers in charge of the storerooms at the gates. '
+      comments: []
+    - title: "Dedication of Jerusalem\u2019s Wall"
+      content: 'These all served in the days of Joiakim son of Jeshua, son of Jehozadak,[[COMMENT(0)]]
+        and in the days of Nehemiah the governor and of Ezra the priest and scribe.  '
+      comments:
+      - number: '12:26 '
+        content: Hebrew <b>Jozadak, </b>a variant spelling of Jehozadak.
+    - title: 
+      content: 'For the dedication of the new wall of Jerusalem, the Levites throughout
+        the land were asked to come to Jerusalem to assist in the ceremonies. They
+        were to take part in the joyous occasion with their songs of thanksgiving
+        and with the music of cymbals, harps, and lyres. '
+      comments: []
+    - title: 
+      content: 'The singers were brought together from the region around Jerusalem
+        and from the villages of the Netophathites. '
+      comments: []
+    - title: 
+      content: 'They also came from Beth-gilgal and the rural areas near Geba and
+        Azmaveth, for the singers had built their own settlements around Jerusalem. '
+      comments: []
+    - title: 
+      content: 'The priests and Levites first purified themselves; then they purified
+        the people, the gates, and the wall.  '
+      comments: []
+    - title: 
+      content: 'I led the leaders of Judah to the top of the wall and organized two
+        large choirs to give thanks. One of the choirs proceeded southward[[COMMENT(0)]]
+        along the top of the wall to the Dung Gate. '
+      comments:
+      - number: '12:31 '
+        content: Hebrew <b>to the right.</b>
+    - title: 
+      content: 'Hoshaiah and half the leaders of Judah followed them, '
+      comments: []
+    - title: 
+      content: 'along with Azariah, Ezra, Meshullam, '
+      comments: []
+    - title: 
+      content: 'Judah, Benjamin, Shemaiah, and Jeremiah. '
+      comments: []
+    - title: 
+      content: 'Then came some priests who played trumpets, including Zechariah son
+        of Jonathan, son of Shemaiah, son of Mattaniah, son of Micaiah, son of Zaccur,
+        a descendant of Asaph. '
+      comments: []
+    - title: 
+      content: "And Zechariah\u2019s colleagues were Shemaiah, Azarel, Milalai, Gilalai,
+        Maai, Nethanel, Judah, and Hanani. They used the musical instruments prescribed
+        by David, the man of God. Ezra the scribe led this procession. "
+      comments: []
+    - title: 
+      content: 'At the Fountain Gate they went straight up the steps on the ascent
+        of the city wall toward the City of David. They passed the house of David
+        and then proceeded to the Water Gate on the east.  '
+      comments: []
+    - title: 
+      content: 'The second choir giving thanks went northward[[COMMENT(0)]] around
+        the other way to meet them. I followed them, together with the other half
+        of the people, along the top of the wall past the Tower of the Ovens to the
+        Broad Wall, '
+      comments:
+      - number: '12:38 '
+        content: Hebrew <b>to the left.</b>
+    - title: 
+      content: 'then past the Ephraim Gate to the Old City Gate,[[COMMENT(0)]] past
+        the Fish Gate and the Tower of Hananel, and on to the Tower of the Hundred.
+        Then we continued on to the Sheep Gate and stopped at the Guard Gate.  '
+      comments:
+      - number: '12:39 '
+        content: Or <b>the Mishneh Gate, </b>or <b>the Jeshanah Gate.</b>
+    - title: 
+      content: 'The two choirs that were giving thanks then proceeded to the Temple
+        of God, where they took their places. So did I, together with the group of
+        leaders who were with me. '
+      comments: []
+    - title: 
+      content: "We went together with the trumpet-playing priests\u2014Eliakim, Maaseiah,
+        Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah\u2014 "
+      comments: []
+    - title: 
+      content: "and the singers\u2014Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan,
+        Malkijah, Elam, and Ezer. They played and sang loudly under the direction
+        of Jezrahiah the choir director.  "
+      comments: []
+    - title: Provisions for Temple Worship
+      content: 'Many sacrifices were offered on that joyous day, for God had given
+        the people cause for great joy. The women and children also participated
+        in the celebration, and the joy of the people of Jerusalem could be heard
+        far away.  '
+      comments: []
+    - title: 
+      content: 'On that day men were appointed to be in charge of the storerooms
+        for the offerings, the first part of the harvest, and the tithes. They were
+        responsible to collect from the fields outside the towns the portions required
+        by the Law for the priests and Levites. For all the people of Judah took
+        joy in the priests and Levites and their work. '
+      comments: []
+    - title: 
+      content: 'They performed the service of their God and the service of purification,
+        as commanded by David and his son Solomon, and so did the singers and the
+        gatekeepers. '
+      comments: []
+    - title: 
+      content: 'The custom of having choir directors to lead the choirs in hymns
+        of praise and thanksgiving to God began long ago in the days of David and
+        Asaph. '
+      comments: []
+  - verses:
+    - title: "Nehemiah\u2019s Various Reforms"
+      content: '  On that same day, as the Book of Moses was being read to the people,
+        the passage was found that said no Ammonite or Moabite should ever be permitted
+        to enter the assembly of God.[[COMMENT(0)]]  '
+      comments:
+      - number: '13:1 '
+        content: See Deut 23:3-6.
+    - title: 
+      content: 'For they had not provided the Israelites with food and water in the
+        wilderness. Instead, they hired Balaam to curse them, though our God turned
+        the curse into a blessing. '
+      comments: []
+    - title: 
+      content: 'When this passage of the Law was read, all those of foreign descent
+        were immediately excluded from the assembly.  '
+      comments: []
+    - title: 
+      content: 'Before this had happened, Eliashib the priest, who had been appointed
+        as supervisor of the storerooms of the Temple of our God and who was also
+        a relative of Tobiah, '
+      comments: []
+    - title: 
+      content: "had converted a large storage room and placed it at Tobiah\u2019s
+        disposal. The room had previously been used for storing the grain offerings,
+        the frankincense, various articles for the Temple, and the tithes of grain,
+        new wine, and olive oil (which were prescribed for the Levites, the singers,
+        and the gatekeepers), as well as the offerings for the priests.  "
+      comments: []
+    - title: 
+      content: 'I was not in Jerusalem at that time, for I had returned to King Artaxerxes
+        of Babylon in the thirty-second year of his reign,[[COMMENT(0)]] though I
+        later asked his permission to return. '
+      comments:
+      - number: '13:6 '
+        content: King Artaxerxes of Persia is here identified as the king of Babylon
+          because Persia had conquered the Babylonian Empire. The thirty-second year
+          of Artaxerxes was 433 <span class="ChapterContent_sc__Hg9da">b.c.</span>
+    - title: 
+      content: "When I arrived back in Jerusalem, I learned about Eliashib\u2019s
+        evil deed in providing Tobiah with a room in the courtyards of the Temple
+        of God. "
+      comments: []
+    - title: 
+      content: "I became very upset and threw all of Tobiah\u2019s belongings out
+        of the room. "
+      comments: []
+    - title: 
+      content: "Then I demanded that the rooms be purified, and I brought back the
+        articles for God\u2019s Temple, the grain offerings, and the frankincense.  "
+      comments: []
+    - title: 
+      content: 'I also discovered that the Levites had not been given their prescribed
+        portions of food, so they and the singers who were to conduct the worship
+        services had all returned to work their fields. '
+      comments: []
+    - title: 
+      content: "I immediately confronted the leaders and demanded, \u201CWhy has
+        the Temple of God been neglected?\u201D Then I called all the Levites back
+        again and restored them to their proper duties. "
+      comments: []
+    - title: 
+      content: 'And once more all the people of Judah began bringing their tithes
+        of grain, new wine, and olive oil to the Temple storerooms.  '
+      comments: []
+    - title: 
+      content: 'I assigned supervisors for the storerooms: Shelemiah the priest,
+        Zadok the scribe, and Pedaiah, one of the Levites. And I appointed Hanan
+        son of Zaccur and grandson of Mattaniah as their assistant. These men had
+        an excellent reputation, and it was their job to make honest distributions
+        to their fellow Levites.  '
+      comments: []
+    - title: 
+      content: 'Remember this good deed, O my God, and do not forget all that I have
+        faithfully done for the Temple of my God and its services.  '
+      comments: []
+    - title: 
+      content: 'In those days I saw men of Judah treading out their winepresses on
+        the Sabbath. They were also bringing in grain, loading it on donkeys, and
+        bringing their wine, grapes, figs, and all sorts of produce to Jerusalem
+        to sell on the Sabbath. So I rebuked them for selling their produce on that
+        day. '
+      comments: []
+    - title: 
+      content: "Some men from Tyre, who lived in Jerusalem, were bringing in fish
+        and all kinds of merchandise. They were selling it on the Sabbath to the
+        people of Judah\u2014and in Jerusalem at that!  "
+      comments: []
+    - title: 
+      content: "So I confronted the nobles of Judah. \u201CWhy are you profaning
+        the Sabbath in this evil way?\u201D I asked. "
+      comments: []
+    - title: 
+      content: "\u201CWasn\u2019t it just this sort of thing that your ancestors
+        did that caused our God to bring all this trouble upon us and our city? Now
+        you are bringing even more wrath upon Israel by permitting the Sabbath to
+        be desecrated in this way!\u201D  "
+      comments: []
+    - title: 
+      content: 'Then I commanded that the gates of Jerusalem should be shut as darkness
+        fell every Friday evening,[[COMMENT(0)]] not to be opened until the Sabbath
+        ended. I sent some of my own servants to guard the gates so that no merchandise
+        could be brought in on the Sabbath day. '
+      comments:
+      - number: '13:19 '
+        content: Hebrew <b>on the day before the Sabbath.</b>
+    - title: 
+      content: 'The merchants and tradesmen with a variety of wares camped outside
+        Jerusalem once or twice. '
+      comments: []
+    - title: 
+      content: "But I spoke sharply to them and said, \u201CWhat are you doing out
+        here, camping around the wall? If you do this again, I will arrest you!\u201D
+        And that was the last time they came on the Sabbath. "
+      comments: []
+    - title: 
+      content: 'Then I commanded the Levites to purify themselves and to guard the
+        gates in order to preserve the holiness of the Sabbath.Remember this good
+        deed also, O my God! Have compassion on me according to your great and unfailing
+        love.  '
+      comments: []
+    - title: 
+      content: 'About the same time I realized that some of the men of Judah had
+        married women from Ashdod, Ammon, and Moab. '
+      comments: []
+    - title: 
+      content: 'Furthermore, half their children spoke the language of Ashdod or
+        of some other people and could not speak the language of Judah at all. '
+      comments: []
+    - title: 
+      content: 'So I confronted them and called down curses on them. I beat some
+        of them and pulled out their hair. I made them swear in the name of God that
+        they would not let their children intermarry with the pagan people of the
+        land.  '
+      comments: []
+    - title: 
+      content: "\u201CWasn\u2019t this exactly what led King Solomon of Israel into
+        sin?\u201D I demanded. \u201CThere was no king from any nation who could
+        compare to him, and God loved him and made him king over all Israel. But
+        even he was led into sin by his foreign wives. "
+      comments: []
+    - title: 
+      content: "How could you even think of committing this sinful deed and acting
+        unfaithfully toward God by marrying foreign women?\u201D  "
+      comments: []
+    - title: 
+      content: 'One of the sons of Joiada son of Eliashib the high priest had married
+        a daughter of Sanballat the Horonite, so I banished him from my presence.  '
+      comments: []
+    - title: 
+      content: 'Remember them, O my God, for they have defiled the priesthood and
+        the solemn vows of the priests and Levites.  '
+      comments: []
+    - title: 
+      content: 'So I purged out everything foreign and assigned tasks to the priests
+        and Levites, making certain that each knew his work. '
+      comments: []

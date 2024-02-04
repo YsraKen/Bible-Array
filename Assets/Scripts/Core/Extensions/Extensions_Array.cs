@@ -58,33 +58,6 @@ public static partial class Extensions
 		return array.GetElement(index);
 	}
 	
-	/// <summary>
-	/// Loop two arrays together
-	/// </summary>
-	/// <param name ="others">The secondary array you want to loop synchronously</param>
-	/// <param name ="action">Invoke a logic with the current elements of both array (T and U) along with the current iteration index</param>
-	/// <param name ="breaker">Optional, break the iteration if invoking return is true</param>
-	public static void ForWithOther<T, U>
-	(
-		this T[] currents,
-		ref U[] others,
-		Action<T, U, int> action,
-		Func<bool> breaker = null
-	){
-		int length = currents.Length;
-		
-		for(int i = 0; i < length; i++)
-		{
-			T current = currents[i];
-			U other = others.GetElement(i);
-			
-			action(current, other, i);
-			
-			if(breaker != null)
-				if(breaker()) break;
-		}
-	}
-	
 	// Current Use: for Collectibles data, no null and range checking
 	static void ExpandArrayWithIndex<T>(ref T[] array, int index)
 	{
@@ -120,17 +93,6 @@ public static partial class Extensions
 		array[index] = manuallyCreatedInstance;
 		return manuallyCreatedInstance;
 	}
-	
-	/* static T ArrayFind<T>(this T[] array, Predicate<T> predicate)
-	{
-		if(array.IsNullOrEmpty())
-			return default(T);
-		
-		foreach(var element in array)
-		{
-			if(predicate
-		}
-	} */
 	
 	public static bool IsInsideRange<T>(this T[] array, int index) => index > -1 && index < array.Length();
 }

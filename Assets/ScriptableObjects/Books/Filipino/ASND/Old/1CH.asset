@@ -1,0 +1,4150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: 1CH
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 1 Chronicles
+  fancyName: 
+  nickname: 1ch
+  version: {fileID: 11400000, guid: fc06489f21c1c3c43a353b052ba682a3, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - title: Mga Lahi Mula kay Adan Hanggang sa mga Anak ni Noe(Gen. 5:1-32; 10:1-32;
+        11:1-26)
+      content: '    Ang mga lahi ni Adan ay sina Set, Enosh, '
+      comments: []
+    - title: 
+      content: 'Kenan, Mahalalel, Jared, '
+      comments: []
+    - title: 
+      content: 'Enoc, Metusela, Lamec at Noe. '
+      comments: []
+    - title: Ang Lahi ni Jafet
+      content: 'Ang mga anak na lalaki ni Noe ay sina Shem, Ham at Jafet.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Jafet ay sina Gomer, Magog, Madai, Javan,
+        Tubal, Meshec at Tiras. '
+      comments: []
+    - title: 
+      content: 'Si Gomer ay may mga anak din na lalaki na sina Ashkenaz, Rifat,[[COMMENT(0)]]
+        at Togarma. '
+      comments:
+      - number: '1:6 '
+        content: '<b>: </b>o, <b>Difat.</b>'
+    - title: Ang Lahi ni Ham
+      content: 'Ang mga anak na lalaki ni Javan ay sina Elisha, Tarshish, Kitim at
+        Rodanim.[[COMMENT(0)]]  '
+      comments:
+      - number: '1:7 '
+        content: '<b>: </b>o, <b>Dodanim.</b>'
+    - title: 
+      content: 'Ang mga anak na lalaki ni Ham ay sina Cush, Mizraim,[[COMMENT(0)]]
+        Put, at Canaan. '
+      comments:
+      - number: '1:8 '
+        content: '<b>: </b>o, <b>Egipto. </b>Tingnan sa Gen. 10:5.'
+    - title: 
+      content: 'Si Cush ay may mga anak ding lalaki na sina Sheba, Havila, Sabta,
+        Raama at Sabteca. Ang mga anak na lalaki ni Raama ay sina Sheba at Dedan. '
+      comments: []
+    - title: 
+      content: 'May isa pang anak si Cush na ang pangalan ay Nimrod na naging magiting
+        na sundalo sa mundo.  '
+      comments: []
+    - title: 
+      content: 'Si Mizraim ang pinagmulan ng mga Ludeo, Anameo, Lehabeo, Naftu, '
+      comments: []
+    - title: 
+      content: 'Patruseo, Caslu, at mga Caftoreo na siyang pinagmulan ng mga Filisteo.  '
+      comments: []
+    - title: 
+      content: 'Si Canaan ang ama nina Sidon at Het.[[COMMENT(0)]] Si Sidon ang panganay. '
+      comments:
+      - number: '1:13 '
+        content: '<b>: </b>Si Sidon ang pinagmulan ng mga Sidoneo at ang pinagmulan
+          ng mga Heteo ay si Het.'
+    - title: 
+      content: 'Si Canaan ang siya ring pinagmulan ng mga Jebuseo, Amoreo, Girgaseo, '
+      comments: []
+    - title: 
+      content: 'Hiveo, Arkeo, Sineo, '
+      comments: []
+    - title: Ang Lahi ni Shem
+      content: 'Arvadeo, Zemareo at Hamateo.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Shem: sina Elam, Ashur, Arfaxad, Lud at
+        Aram. Ang mga anak na lalaki ni Aram ay sina,[[COMMENT(0)]] Uz, Hul, Geter
+        at Meshec.  '
+      comments:
+      - number: '1:17 '
+        content: '<b>: </b>Hindi ito makikita sa halos karamihan ng tekstong Hebreo.<b>:
+          </b>o, <b>Mash.</b>'
+    - title: 
+      content: 'Si Arfaxad ang ama ni Shela, at si Shela ang ama ni Eber. '
+      comments: []
+    - title: 
+      content: 'May dalawang anak na lalaki si Eber: ang isa ay pinangalanang Peleg,
+        dahil noong panahon niya, ang mga tao sa mundo ay nagkahati-hati; ang pangalan
+        naman ng kanyang kapatid ay Joktan. '
+      comments: []
+    - title: 
+      content: 'Si Joktan ang ama nina Almodad, Shelef, Hazarmavet, Jera, '
+      comments: []
+    - title: 
+      content: 'Hadoram, Uzal, Dikla, '
+      comments: []
+    - title: 
+      content: 'Obal,[[COMMENT(0)]] Abimael, Sheba, '
+      comments:
+      - number: '1:22 '
+        content: '<b>: </b>o, <b>Ebal.</b>'
+    - title: 
+      content: 'Ofir, Havila at Jobab. Silang lahat ay anak na lalaki ni Joktan.  '
+      comments: []
+    - title: 
+      content: '  Ito ang lahi na mula kay Shem: sina Arfaxad, Shela, '
+      comments: []
+    - title: 
+      content: 'Eber, Peleg, Reu '
+      comments: []
+    - title: 
+      content: 'Serug, Nahor, Tera, '
+      comments: []
+    - title: Ang Lahi ni Abraham(Gen. 25:1-4, 12-16)
+      content: 'at si Abram na siya ring si Abraham.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Abraham ay sina Isaac at Ishmael. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Ishmael ay sina Nebayot (ang panganay),
+        Kedar, Adbeel, Mibsam, '
+      comments: []
+    - title: 
+      content: 'Mishma, Duma, Masa, Hadad, Tema, '
+      comments: []
+    - title: 
+      content: 'Jetur, Nafis at Kedema. Sila ang mga anak na lalaki ni Ishmael. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Ketura na isa pang asawa ni Abraham ay
+        sina Zimran, Jokshan, Medan, Midian, Ishbak at Shua. Ang mga anak na lalaki
+        ni Jokshan ay sina Sheba at Dedan. '
+      comments: []
+    - title: Ang Lahi ni Esau(Gen. 36:1-19)
+      content: 'Ang mga anak na lalaki ni Midian ay sina Efa, Efer, Hanoc, Abida
+        at Eldaa. Silang lahat ang angkan ni Ketura.  '
+      comments: []
+    - title: 
+      content: 'Si Abraham ang ama ni Isaac. Ang mga anak ni Isaac ay sina Esau at
+        Israel.[[COMMENT(0)]]  '
+      comments:
+      - number: '1:34 '
+        content: 'Israel: o, <b>Jacob.</b>'
+    - title: 
+      content: 'Ang mga anak na lalaki ni Esau ay sina Elifaz, Reuel, Jeush, Jalam
+        at Kora. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Elifaz ay sina Teman, Omar, Zefo,[[COMMENT(0)]]
+        Gatam, Kenaz at Amalek. Si Amalek ay anak niya kay Timna.  '
+      comments:
+      - number: '1:36 '
+        content: '<b>: </b>o, <b>Zefi.</b><b>: </b>Ito ay nasa ibang mga tekstong
+          Septuagint; pero sa Hebreo, <b>Kenaz, Timna at Amalek.</b>'
+    - title: Ang mga Edomita(Gen. 36:20-30)
+      content: 'Ang mga anak na lalaki ni Reuel ay sina Nahat, Zera, Shama at Miza.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Seir ay sina Lotan, Shobal, Zibeon, Ana,
+        Dishon, Ezer at Dishan. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Lotan ay sina Hori at Homam.[[COMMENT(0)]]
+        Magkapatid sina Lotan at Timna na isa pang asawa ni Elipaz. '
+      comments:
+      - number: '1:39 '
+        content: '<b>: </b>o, <b>Hemam.</b>'
+    - title: 
+      content: 'Ang mga anak na lalaki ni Shobal ay sina Alvan,[[COMMENT(0)]] Manahat,
+        Ebal, Shefo at Onam. Ang mga anak na lalaki ni Zibeon ay sina Aya at Ana. '
+      comments:
+      - number: '1:40 '
+        content: '<b>: </b>o, <b>Alian.</b><b>: </b>o, <b>Shefi.</b>'
+    - title: 
+      content: 'Ang anak na lalaki ni Ana ay si Dishon. Ang mga anak na lalaki ni
+        Dishon ay sina Hemdan,[[COMMENT(0)]] Eshban, Itran at Keran. '
+      comments:
+      - number: '1:41 '
+        content: '<b>: </b>o, <b>Hamran.</b>'
+    - title: Ang mga Hari ng Edom(Gen. 36:31-43)
+      content: 'Ang mga anak na lalaki ni Ezer ay sina Bilhan, Zaavan at Akan.[[COMMENT(0)]]
+        Ang mga anak na lalaki ni Dishan ay sina Uz at Aran.  '
+      comments:
+      - number: '1:42 '
+        content: '<b>: </b>o, <b>Jaakan.</b><b>: </b>o, <b>Dishon.</b>'
+    - title: 
+      content: 'Ito ang mga hari ng Edom, noong panahon na wala pang mga hari ang
+        mga Israelita:Si Bela na taga-Dinhaba na anak ni Beor ay naging hari sa Edom. '
+      comments: []
+    - title: 
+      content: 'Pagkamatay niya, pinalitan siya ni Jobab na anak ni Zera na taga-Bozra. '
+      comments: []
+    - title: 
+      content: 'Pagkamatay ni Jobab, pinalitan siya ni Husham na taga-Teman. '
+      comments: []
+    - title: 
+      content: 'Pagkamatay ni Husham, pinalitan siya ni Hadad na taga-Avit na anak
+        ni Bedad. Si Hadad ang nakatalo sa mga Midianita roon sa Moab. '
+      comments: []
+    - title: 
+      content: 'Pagkamatay ni Hadad, pinalitan siya ni Samla na taga-Masreka. '
+      comments: []
+    - title: 
+      content: 'Pagkamatay ni Samla, pinalitan siya ni Shaul na taga-Rehobot na malapit
+        sa Ilog ng Eufrates. '
+      comments: []
+    - title: 
+      content: 'Pagkamatay ni Shaul, pinalitan siya ni Baal Hanan na anak ni Acbor. '
+      comments: []
+    - title: 
+      content: 'Pagkamatay ni Baal Hanan, pinalitan siya ni Hadad na taga-Pau. Ang
+        asawa niya ay si Mehetabel na anak ni Matred at apo ni Me-Zahab. '
+      comments: []
+    - title: 
+      content: 'Hindi nagtagal, namatay si Hadad.Ito ang mga pinuno ng angkan ng
+        Edom: Timna, Alva, Jetet, '
+      comments: []
+    - title: 
+      content: 'Oholibama, Elah, Pinon, '
+      comments: []
+    - title: 
+      content: 'Kenaz, Teman, Mibzar, '
+      comments: []
+  - verses:
+    - title: Ang mga Anak ni Israel
+      content: '  Ito ang mga anak na lalaki ni Israel: Reuben, Simeon, Levi, Juda,
+        Isacar, Zebulun, '
+      comments: []
+    - title: Ang Lahi ni Juda
+      content: 'Dan, Jose, Benjamin, Naftali, Gad at Asher.  '
+      comments: []
+    - title: 
+      content: "May tatlong anak na lalaki si Juda sa asawa niyang si Batshua na
+        Cananea. Sila\u02BCy sina Er, Onan at Shela. Si Er ang panganay sa magkakapatid.
+        Masama siya sa paningin ng <smallcaps>Panginoon</smallcaps>, kaya pinatay
+        siya ng <smallcaps>Panginoon</smallcaps>. "
+      comments: []
+    - title: 
+      content: "May mga anak pang lalaki si Juda kay Tamar na kanyang manugang. Sila\u02BCy
+        sina Perez at Zera. Lima lahat ang anak na lalaki ni Juda. "
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Perez ay sina Hezron at Hamul. '
+      comments: []
+    - title: 
+      content: 'Lima lahat ang anak na lalaki ni Zera: sina Zimri, Etan, Heman, Calcol
+        at Darda.[[COMMENT(0)]]  '
+      comments:
+      - number: '2:6 '
+        content: '<b>: </b>o, <b>Dara.</b>'
+    - title: 
+      content: 'Ang anak na lalaki ni Carmi[[COMMENT(0)]] ay si Acar. Si Acar ang
+        nagdala ng kasamaan sa Israel dahil kinuha niya ang bagay na inilaan nang
+        buo para sa Dios. '
+      comments:
+      - number: '2:7 '
+        content: '<b>: </b>Maaaring siya ay anak ni Zimri.<b>: </b>o, <b>Acan.</b><b>:
+          </b>Mga samsam na nakalaang sirain lahat bilang handog sa Dios.'
+    - title: Ang Lahi na Pinagmulan ni David
+      content: 'Ang anak na lalaki ni Etan ay si Azaria.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Hezron ay sina Jerameel, Ram at Caleb.[[COMMENT(0)]]  '
+      comments:
+      - number: '2:9 '
+        content: '<b>: </b>sa Hebreo, <b>ay Kelubai.</b>'
+    - title: 
+      content: 'Si Ram ang ama ni Aminadab, at si Aminadab naman ang ama ni Nashon
+        na pinuno ng lahi ni Juda. '
+      comments: []
+    - title: 
+      content: 'Si Nashon ang ama ni Salmon,[[COMMENT(0)]] at si Salmon ang ama ni
+        Boaz. '
+      comments:
+      - number: '2:11 '
+        content: '<b>: </b>sa Hebreo, <b>Salma.</b>'
+    - title: 
+      content: 'Si Boaz ang ama ni Obed at si Obed ang ama ni Jesse. '
+      comments: []
+    - title: 
+      content: "Ang panganay na anak ni Jesse ay si Eliab, ang ikalawa nama\u02BCy
+        si Abinadab, at ang ikatlo ay si Shimea, "
+      comments: []
+    - title: 
+      content: 'ang ikaapat ay si Netanel, ang ikalima ay si Radai, '
+      comments: []
+    - title: 
+      content: 'ang ikaanim ay si Ozem, at ang ikapito ay si David. '
+      comments: []
+    - title: 
+      content: 'Ang mga kapatid nilang babae ay sina Zeruya at Abigail. Si Zeruya
+        ay may tatlong anak na lalaki, sina Abishai, Joab at Asahel. '
+      comments: []
+    - title: Ang Angkan ni Hezron
+      content: 'Ang asawa ni Abigail ay si Jeter na Ishmaelita at may anak silang
+        lalaki na si Amasa.  '
+      comments: []
+    - title: 
+      content: 'Ang anak ni Hezron na si Caleb ay may mga anak sa asawa niyang si
+        Azuba na tinatawag ding Jeriot. Sila ay sina Jesher, Shobab at Ardon. '
+      comments: []
+    - title: 
+      content: 'Pagkamatay ni Azuba, napangasawa ni Caleb si Efrat[[COMMENT(0)]]
+        at ang naging anak nila ay si Hur. '
+      comments:
+      - number: '2:19 '
+        content: '<b>: </b>o, <b>Efrata.</b>'
+    - title: 
+      content: 'Si Hur ang ama ni Uri, at si Uri ang ama ni Bezalel. '
+      comments: []
+    - title: 
+      content: 'Noong 60 taong gulang na si Hezron, napangasawa niya ang anak ni
+        Makir, ang kapatid na babae ni Gilead. Si Segub ang naging anak nila. '
+      comments: []
+    - title: 
+      content: 'Si Segub ang ama ni Jair, na namahala ng 23 bayan sa Gilead. '
+      comments: []
+    - title: 
+      content: '(Dumating ang panahon na inagaw ni Geshur at ni Aram ang mga bayan
+        ni Jair[[COMMENT(0)]] at ang Kenat, pati ang 60 bayan sa paligid nito.) Silang
+        lahat ang angkan ni Makir na ama ni Gilead.  '
+      comments:
+      - number: '2:23 '
+        content: '<b>: </b>o, <b>Havot Jair.</b>'
+    - title: Ang Angkan ni Jerameel na Anak ni Hezron
+      content: 'Kamamatay lang ni Hezron sa Caleb Efrata nang manganak ang asawa
+        niyang si Abijah. Ang anak niya ay si Ashur na ama ni Tekoa.  '
+      comments: []
+    - title: 
+      content: 'Ito ang mga anak na lalaki ni Jerameel na panganay na anak ni Hezron:
+        Si Ram ang panganay, sumunod sina Buna, Oren, Ozem at Ahia. '
+      comments: []
+    - title: 
+      content: 'Si Jerameel ay may isa pang asawa na ang pangalan ay Atara. Siya
+        ang ina ni Onam. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Ram na panganay ni Jerameel ay sina Maaz,
+        Jamin at Eker.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Onam ay sina Shamai at Jada. Ang mga anak
+        na lalaki ni Shamai ay sina Nadab at Abishur.  '
+      comments: []
+    - title: 
+      content: 'Ang pangalan ng asawa ni Abishur ay Abihail. May mga anak silang
+        lalaki, sina Aban at Molid.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Nadab ay sina Seled at Apaim. Namatay si
+        Seled na walang anak.  '
+      comments: []
+    - title: 
+      content: 'Ang anak na lalaki ni Apaim ay si Ishi. Si Ishi ang ama ni Sheshan
+        at si Sheshan ang ama ni Alai. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Jada na kapatid ni Shamai ay sina Jeter
+        at Jonatan. Namatay si Jeter na walang anak. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Jonatan ay sina Pelet at Zaza. Silang lahat
+        ang angkan ni Jerameel.  '
+      comments: []
+    - title: 
+      content: 'Walang anak na lalaki si Sheshan, kundi puro babae. May alipin siyang
+        Egipcio na ang pangalan ay Jarha. '
+      comments: []
+    - title: 
+      content: 'Ibinigay ni Sheshan ang anak niyang babae kay Jarha bilang asawa.
+        Nagkaanak sila na ang pangalan ay Atai. '
+      comments: []
+    - title: 
+      content: 'Si Atai ang ama ni Natan, at si Natan ang ama ni Zabad, '
+      comments: []
+    - title: 
+      content: 'si Zabad naman ang ama ni Eflal, si Eflal ang ama ni Obed, '
+      comments: []
+    - title: 
+      content: 'si Obed ang ama ni Jehu, at si Jehu ang ama ni Azaria. '
+      comments: []
+    - title: 
+      content: 'Si Azaria ang ama ni Helez, si Helez ang ama ni Eleasa, '
+      comments: []
+    - title: 
+      content: 'at si Eleasa ang ama ni Sismai. Si Sismai ang ama ni Shalum, '
+      comments: []
+    - title: Ang Iba pang Angkan ni Caleb
+      content: 'si Shalum ang ama ni Jekamia, at si Jekamia ang ama ni Elishama.  '
+      comments: []
+    - title: 
+      content: 'Ang panganay na anak na lalaki ni Caleb na kapatid ni Jerameel ay
+        si Mesha na ama ni Zif. Ang ikalawa niyang anak ay si Maresha na ama ni Hebron. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Hebron ay sina Kora, Tapua, Rekem at Shema. '
+      comments: []
+    - title: 
+      content: 'Si Shema ang ama ni Raham, at si Raham ang ama ni Jorkeam. Si Rekem
+        ang ama ni Shamai, '
+      comments: []
+    - title: 
+      content: 'si Shamai ang ama ni Maon, at si Maon ang ama ni Bet Zur.  '
+      comments: []
+    - title: 
+      content: 'Ang isa pang asawa ni Caleb na si Efa ang ina nina Haran, Moza at
+        Gazez. May anak si Haran na Gazez din ang pangalan.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Jadai ay sina Regem, Jotam, Geshan, Pelet,
+        Efa at Shaaf.  '
+      comments: []
+    - title: 
+      content: 'Ang isa pang asawa ni Caleb ay si Maaca. May mga anak silang lalaki
+        na sina Sheber, Tirhana, '
+      comments: []
+    - title: 
+      content: 'Shaaf na ama ni Madmana at Sheva na ama naman nina Macbena at Gibea.
+        Ang anak na babae ni Caleb ay si Acsa. '
+      comments: []
+    - title: Ang Angkan ng Anak ni Caleb na si Hur.
+      content: 'Sila ang angkan ni Caleb.Si Hur ang panganay na anak ni Caleb at
+        ni Efrata. Ang mga anak na lalaki ni Hur ay sina Shobal na ama ni Kiriat
+        Jearim, '
+      comments: []
+    - title: 
+      content: 'si Salma na ama ni Betlehem, at si Haref na ama ni Bet Gader. '
+      comments: []
+    - title: 
+      content: 'Ang angkan ni Shobal na ama ni Kiriat Jearim ay ang mga Haroe, ang
+        kalahati ng mga naninirahan sa Manahat,[[COMMENT(0)]]  '
+      comments:
+      - number: '2:52 '
+        content: '<b>: </b>o, <b>Manahateo.</b>'
+    - title: 
+      content: 'at ang angkan ni Kiriat Jearim ay ang mga Itreo, Puteo, Sumateo at
+        Misraita. Sila ang pinagmulan ng mga Zoratita at mga Estaolita.  '
+      comments: []
+    - title: 
+      content: 'Ang angkan ni Salma ay ang mga taga-Betlehem, mga taga-Netofa, mga
+        taga-Atrot Bet Joab, ang kalahati ng mga Manahateo, at ang mga Zorita. '
+      comments: []
+  - verses:
+    - title: Ang mga Anak na Lalaki ni David
+      content: '  Ito ang mga anak na lalaki ni David na isinilang sa Hebron: Si
+        Amnon ang panganay, na anak niya kay Ahinoam na taga-Jezreel. Si Daniel[[COMMENT(0)]]
+        ang pangalawa, na anak niya kay Abigail na taga-Carmel. '
+      comments:
+      - number: '3:1 '
+        content: '<b>: </b>o, <b>Kileab.</b>'
+    - title: 
+      content: 'Si Absalom ang pangatlo, na anak niya kay Maaca na anak na babae
+        ni Haring Talmai ng Geshur. Si Adonia ang pang-apat, na anak niya kay Hagit. '
+      comments: []
+    - title: 
+      content: 'Si Shefatia ang panglima, na anak niya kay Abital. Si Itream ang
+        pang-anim, na anak niya kay Egla. '
+      comments: []
+    - title: 
+      content: 'Silang anim ay isinilang sa Hebron, kung saan naghari si David sa
+        loob ng pitong taon at anim na buwan.Naghari si David sa Jerusalem sa loob
+        ng 33 taon. '
+      comments: []
+    - title: 
+      content: 'At ito ang mga anak niyang lalaki na isinilang doon: si Shimea, Shobab,
+        Natan at Solomon. Silang apat ang anak niya sa asawa niyang si Batsheba[[COMMENT(0)]]
+        na anak ni Amiel. '
+      comments:
+      - number: '3:5 '
+        content: '<b>: </b>o, <b>Batshua.</b>'
+    - title: 
+      content: 'May siyam pa siyang anak na sina Ibhar, Elishua[[COMMENT(0)]] Elifelet, '
+      comments:
+      - number: '3:6 '
+        content: '<b>: </b>o, <b>Elishama.</b>'
+    - title: 
+      content: 'Noga, Nefeg, Jafia, '
+      comments: []
+    - title: 
+      content: 'Elishama, Eliada at Elifelet. '
+      comments: []
+    - title: Ang mga Hari ng Juda
+      content: 'Iyon ang lahat ng mga anak na lalaki ni David, bukod sa iba pa niyang
+        mga anak na lalaki sa iba pa niyang mga asawa. May anak din si David na babae
+        na si Tamar.  '
+      comments: []
+    - title: 
+      content: 'Ito ang angkan ni Solomon na naging hari: Rehoboam, Abijah, Asa,
+        Jehoshafat, '
+      comments: []
+    - title: 
+      content: 'Jehoram,[[COMMENT(0)]] Ahazia, Joash, '
+      comments:
+      - number: '3:11 '
+        content: '<b>: </b>o, <b>Joram.</b>'
+    - title: 
+      content: 'Amazia, Azaria,[[COMMENT(0)]] Jotam, '
+      comments:
+      - number: '3:12 '
+        content: '<b>: </b>o, <b>Uzia.</b>'
+    - title: 
+      content: 'Ahaz, Hezekia, Manase, '
+      comments: []
+    - title: 
+      content: 'Ammon at Josia.  '
+      comments: []
+    - title: 
+      content: 'Ito ang mga anak ni Josia: Ang panganay ay si Johanan, ang ikalawa
+        ay si Jehoyakim, ang ikatlo ay si Zedekia, at ang ikaapat ay si Shalum. '
+      comments: []
+    - title: Ang Angkan ni Jehoyakin
+      content: 'Ang pumalit kay Jehoyakim bilang hari ay si Jehoyakin[[COMMENT(0)]]
+        na kanyang anak. At ang pumalit kay Jehoyakin ay si Zedekia na kanyang tiyuhin.  '
+      comments:
+      - number: '3:16 '
+        content: '<b>: </b>o, <b>Jeconia.</b><b>: </b>o, <b>kapatid.</b>'
+    - title: 
+      content: 'Ito ang angkan ni Jehoyakin, ang hari na binihag sa Babilonia: si
+        Shealtiel, '
+      comments: []
+    - title: 
+      content: 'Malkiram, Pedaya, Shenazar, Jekamia, Hoshama at si Nedabia. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Pedaya ay sina Zerubabel at Shimei. Ang
+        mga anak na lalaki ni Zerubabel ay sina Meshulam at Hanania. Ang kapatid
+        nilang babae ay si Shelomit. '
+      comments: []
+    - title: 
+      content: 'May lima pang anak na lalaki si Zerubabel na sina Hashuba, Ohel,
+        Berekia, Hasadia at Jushab Hesed. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Hanania ay sina Pelatia at Jeshaya. Si
+        Jeshaya ang ama ni Refaya, si Refaya ang ama ni Arnan, si Arnan ang ama ni
+        Obadias, at si Obadias ang ama ni Shecania. '
+      comments: []
+    - title: 
+      content: 'Ang angkan ni Shecania ay si Shemaya. Anim lahat ang anak ni Shemaya:
+        sina Hatush, Igal, Baria, Nearia at Shafat. '
+      comments: []
+    - title: 
+      content: 'Tatlo lahat ang anak na lalaki ni Nearia: sina Elyoenai, Hizkia at
+        Azrikam. '
+      comments: []
+  - verses:
+    - title: Ang Ibang Lahi ni Juda
+      content: '  Ito ang iba pang lahi ni Juda: sina Perez, Hezron, Carmi, Hur at
+        Shobal. '
+      comments: []
+    - title: 
+      content: 'Ang anak ni Shobal na si Reaya ay ama ni Jahat. Si Jahat ang ama
+        nina Ahumai at Lahad. Sila ang pamilya ng mga Zoratita.  '
+      comments: []
+    - title: 
+      content: 'Ito ang mga anak[[COMMENT(0)]] ni Etam: sina Jezreel, Ishma at Idbas.
+        Si Hazelelponi ang kapatid nilang babae.  '
+      comments:
+      - number: '4:3 '
+        content: '<b>: </b>Ito ang nasa ibang mga tekstong Septuagint. Sa Hebreo,
+          <b>ama.</b>'
+    - title: 
+      content: 'Si Penuel ang ama ni Gedor, at si Ezer ang ama ni Husha. Sila ang
+        mga angkan ni Hur na panganay na anak ni Efrata. Si Hur ang ninuno ng mga
+        taga-Betlehem.  '
+      comments: []
+    - title: 
+      content: 'Si Ashur na ama ni Tekoa ay may dalawang asawa, sina Hela at Naara. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki nina Naara at Ashur ay sina Ahuzam, Hefer,
+        Temeni at Haahashtari. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak naman nina Hela at Ashur ay sina Zeret, Zohar,[[COMMENT(0)]]
+        Etnan, '
+      comments:
+      - number: '4:7 '
+        content: '<b>: </b>o, <b>Izar.</b>'
+    - title: 
+      content: 'at Koz. Si Koz ang ama nina Anub at Hazobeba, at ang pinagmulan ng
+        pamilya ni Aharhel na anak ni Harum.  '
+      comments: []
+    - title: 
+      content: "May isang tao na ang pangalan ay Jabez. Kagalang-galang siya kaysa
+        sa mga kapatid niyang lalaki. Pinangalanan siya ng kanyang ina na Jabez[[COMMENT(0)]]
+        dahil sinabi ng kanyang ina, \u201CLabis akong nahirapan sa panganganak ko
+        sa kanya.\u201D "
+      comments:
+      - number: '4:9 '
+        content: '<b>: </b>Maaaring ang ibig sabihin, <b>nahirapan.</b>'
+    - title: 
+      content: "Nanalangin si Jabez sa Dios ng Israel, \u201CPagpalain n\u02BCyo
+        po sana ako at palawakin ang aking nasasakupan. Samahan n\u02BCyo po ako
+        at ilayo sa kapahamakan para hindi ako masaktan.\u201D At dininig ng Dios
+        ang kanyang kahilingan.  "
+      comments: []
+    - title: 
+      content: 'Si Kelub na kapatid ni Shuha ang ama ni Mehir. Si Mehir ang ama ni
+        Eston, at '
+      comments: []
+    - title: 
+      content: 'si Eston ang ama nina Bet Rafa, Pasea at Tehina. Si Tehina ang ama
+        ni Ir Nahash. Sila ang angkan ni Reca.[[COMMENT(0)]]  '
+      comments:
+      - number: '4:12 '
+        content: '<b>: </b>o, <b>Sila ang mga mamamayan ng Reca.</b>'
+    - title: 
+      content: 'Ang mga anak na lalaki ni Kenaz ay sina Otniel at Seraya. Ang mga
+        anak ni Otniel ay sina Hatat at Meonotai.[[COMMENT(0)]]  '
+      comments:
+      - number: '4:13 '
+        content: '<b>: </b>Wala ito sa tekstong Hebreo, pero makikita sa ibang tekstong
+          Septuagint at sa Latin Vulgate.'
+    - title: 
+      content: 'Si Meonotai ang ama ni Ofra. Si Seraya naman ang ama ni Joab, na
+        nagtatag ng Lambak ng mga Panday.[[COMMENT(0)]] Tinawag itong Lambak ng mga
+        Panday dahil doon nakatira ang maraming panday.  '
+      comments:
+      - number: '4:14 '
+        content: '<b>: </b>o, <b>na ama ni Geharasim.</b>'
+    - title: 
+      content: 'Ito ang mga anak na lalaki ni Caleb na anak ni Jefune: sina Iru,
+        Elah at Naam. Ang anak na lalaki ni Elah ay si Kenaz.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Jehalelel ay sina Zif, Zifa, Tiria at Asarel. 
+        Ang mga anak na lalaki ni Ezra ay sina Jeter, Mered, Efer at Jalon. Asawa
+        ni Mered si Bitia na anak ng Faraon.[[COMMENT(0)]] Ang mga anak nila ay sina
+        Miriam, Shamai at Ishba. Si Ishba ang ama ni Estemoa. May asawa rin si Mered
+        na taga-Judea, at ang mga anak nila ay sina Jered na ama ni Gedor, Heber
+        na ama ni Soco, at Jekutiel na ama ni Zanoa. '
+      comments:
+      - number: '4:17-18 '
+        content: '<b>: </b>o <b>hari ng Egipto.</b>'
+    - title: 
+      content: 'Napangasawa ni Hodia ang kapatid ni Naham. Ang isa sa mga anak niya
+        ay ama ni Keila na Garmita, at ang isa naman ay ama ni Estemoa na Maacateo.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Shimon ay sina Amnon, Rina, Ben Hanan at
+        Tilon. Ang mga angkan ni Ishi ay sina Zohet at Ben Zohet.  '
+      comments: []
+    - title: 
+      content: 'Ito ang mga angkan ni Shela na anak ni Juda: si Er (na ama ni Leca),
+        at si Laada (na ama ni Maresha), at ang pamilya ng mga tagagawa ng telang
+        linen sa Bet Ashbea. '
+      comments: []
+    - title: 
+      content: 'Ito pa ang mga angkan Shela: si Jokim, ang mga mamamayan ng Cozeba,
+        si Joash, at si Saraf na namuno sa Moab at sa Jashubi Lehem. (Ang talaang
+        ito ay mula sa matagal nang dokumento.) '
+      comments: []
+    - title: Ang Angkan ni Simeon
+      content: 'Sila ang mga magpapalayok na nakatira sa Netaim at Gedera. Nagtatrabaho
+        sila para sa hari.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Simeon ay sina Nemuel, Jamin, Jarib, Zera
+        at Shaul. '
+      comments: []
+    - title: 
+      content: 'Si Shaul ang ama ni Shalum, si Shalum ang ama ni Mibsam, at si Mibsam
+        ang ama ni Mishma. '
+      comments: []
+    - title: 
+      content: 'Si Mishma ang ama ni Hammuel, si Hammuel ang ama ni Zacur, at si
+        Zacur ang ama ni Shimei. '
+      comments: []
+    - title: 
+      content: 'May 16 na anak na lalaki si Shimei at anim na anak na babae. Pero
+        kakaunti lang ang anak ng mga kapatid niya, kaya ang buong angkan nila ay
+        hindi kasindami ng mga mamamayan ng Juda. '
+      comments: []
+    - title: 
+      content: 'Tumira sila sa Beersheba, Molada, Hazar, Shual, '
+      comments: []
+    - title: 
+      content: 'Bilha, Ezem, Tolad, '
+      comments: []
+    - title: 
+      content: 'Betuel, Horma, Ziklag, '
+      comments: []
+    - title: 
+      content: 'Bet Marcabot, Hazar Susim, Bet Biri at Shaaraim. Ito ang mga bayan
+        nila hanggang sa paghahari ni David. '
+      comments: []
+    - title: 
+      content: 'Tumira rin sila sa limang bayan sa paligid nila: sa Etam, Ayin, Rimon,
+        Token at Ashan, '
+      comments: []
+    - title: 
+      content: 'pati na rin sa mga baryo sa paligid ng mga bayang ito hanggang sa
+        Baalat.[[COMMENT(0)]] Ito ang mga lugar na tinirhan nila, at naitago nila
+        ang mga talaan ng kanilang angkan.  Ito ang iba pang lahi ni Simeon:  '
+      comments:
+      - number: '4:33 '
+        content: '<b>: </b>Ito ang nasa ibang teksto ng Septuagint. Sa Hebreo, <b>Baal.</b>'
+    - title: 
+      content: 'sina Meshobab, Jamlec, Josha na anak ni Amazia '
+      comments: []
+    - title: 
+      content: 'Joel, Jehu na anak ni Joshibia at apo ni Seraya, na apo sa tuhod
+        ni Asiel, '
+      comments: []
+    - title: 
+      content: 'Elyoenai, Jaakoba, Jeshohaya, Asaya, Adiel, Jesimiel, Benaya '
+      comments: []
+    - title: 
+      content: 'at Ziza na anak ni Shifi at apo ni Allon, at apo sa tuhod ni Jedaya.
+        Si Jedaya ay anak ni Shimri at apo ni Shemaya. '
+      comments: []
+    - title: 
+      content: 'Sila ang mga pinuno ng kanilang mga pamilya. Lalong dumami ang pamilya
+        nila, '
+      comments: []
+    - title: 
+      content: 'kaya napunta sila sa hangganan ng Gedor, sa gawing silangan ng lambak.
+        Naghanap sila roon ng mapagpapastulan ng kanilang mga tupa, '
+      comments: []
+    - title: 
+      content: 'at nakakita sila ng mayabong at magandang pastulan. Malawak ang lugar
+        na ito at mapayapa. Doon dati nakatira ang ibang lahi ni Ham. '
+      comments: []
+    - title: 
+      content: 'Pero noong panahon na si Haring Hezekia ang hari ng Juda, nilusob
+        ang lahi ni Ham ng lahi ni Simeon na ang mga pangalan ay nabanggit sa itaas.
+        Nilusob din nila ang mga Meuneo na doon din nakatira, at nilipol nila sila
+        nang lubusan. Pagkatapos, sila ang tumira roon hanggang ngayon, dahil mayroong
+        pastulan doon para sa kanilang mga tupa. '
+      comments: []
+    - title: 
+      content: 'Lumusob ang 500 sa kanila sa kabundukan ng Seir. Pinangunahan sila
+        nina Pelatia, Nearia, Refaya at Uziel na mga anak ni Ishi. '
+      comments: []
+  - verses:
+    - title: Ang Lahi ni Reuben
+      content: '  Si Reuben ang panganay na anak ni Israel,[[COMMENT(0)]] pero dahil
+        nakipagtalik siya sa isa sa mga asawa ng kanyang ama, ang karapatan niya
+        bilang panganay ay ibinigay sa mga anak ni Jose na kanyang kapatid. Kaya
+        hindi siya inilista sa talaan ng lahi nila bilang panganay na anak. '
+      comments:
+      - number: '5:1 '
+        content: '<b>: </b>o, <b>Jacob.</b>'
+    - title: 
+      content: 'Kahit mas makapangyarihan si Juda kaysa sa kanyang mga kapatid at
+        ang pinuno ay nagmula sa kanyang lahi, ang karapatan ng pagkapanganay ay
+        ibinigay kay Jose. '
+      comments: []
+    - title: 
+      content: 'Ito ang mga anak na lalaki ni Reuben na panganay ni Israel: sina
+        Hanoc, Pallu, Hezron at Carmi.  '
+      comments: []
+    - title: 
+      content: 'Ito ang mga angkan ni Joel: sina Shemaya, Gog, Shimei, '
+      comments: []
+    - title: 
+      content: 'Micas, Reaya, Baal, '
+      comments: []
+    - title: 
+      content: 'at Beera. Si Beera ang pinuno ng lahi ni Reuben nang binihag sila
+        ni Haring Tiglat Pileser[[COMMENT(0)]] ng Asiria. '
+      comments:
+      - number: '5:6 '
+        content: '<b>: </b>o, <b>Pilneser.</b>'
+    - title: 
+      content: 'Ito ang mga kamag-anak ni Beera na naitala sa talaan ng kanilang
+        mga angkan ayon sa kanilang lahi: si Jeyel na pinuno, si Zacarias, '
+      comments: []
+    - title: 
+      content: 'at si Bela na anak ni Azaz na anak ni Shema at apo ni Joel. Ito ang
+        lahi ni Reuben na tumira mula sa Aroer hanggang sa Nebo at Baal Meon. '
+      comments: []
+    - title: 
+      content: 'At dahil dumami ang kanilang hayop doon sa Gilead, tumira sila hanggang
+        sa silangan, sa tabi ng ilang na papunta sa Ilog ng Eufrates. '
+      comments: []
+    - title: Ang Lahi ni Gad
+      content: 'Nang si Saul pa ang hari, nakipaglaban sila sa mga Hagreo at tinalo
+        nila ang mga ito. Sinakop nila ang mga tinitirhan ng mga Hagreo sa buong
+        silangan ng Gilead.  '
+      comments: []
+    - title: 
+      content: 'Tumira ang lahi ni Gad sa lupain ng Bashan na kasunod ng lupain nina
+        Reuben, hanggang sa Saleca. '
+      comments: []
+    - title: 
+      content: 'Ito ang lahi ni Gad: si Joel, na siyang pinuno sa Bashan, ang sumunod
+        sa kanya ay si Shafam, pagkatapos ay sina Janai at Shafat. '
+      comments: []
+    - title: 
+      content: "Ang kanilang mga kamag-anak ayon sa bawat pamilya ay sina Micael,
+        Meshulam, Sheba, Jorai, Jacan, Zia at Eber\u2009\u2013\u2009pito silang lahat. "
+      comments: []
+    - title: 
+      content: 'Sila ang mga angkan ni Abihail na anak ni Huri. Si Huri ang anak
+        ni Jaroa at apo ni Gilead, at apo sa tuhod ni Micael. Si Micael ay anak ni
+        Jeshishai at apo ni Jado, at apo sa tuhod ni Buz. '
+      comments: []
+    - title: 
+      content: 'Si Ahi na anak ni Abdiel at apo ni Guni ang siyang pinuno ng kanilang
+        pamilya. '
+      comments: []
+    - title: 
+      content: 'Tumira sila sa Gilead doon sa Bashan at sa mga baryo sa paligid nito,
+        at sa buong pastulan ng Sharon. '
+      comments: []
+    - title: 
+      content: 'Nailista silang lahat sa talaan ng mga angkan noong panahon ng paghahari
+        ni Jotam sa Juda at ni Jeroboam sa Israel.  '
+      comments: []
+    - title: 
+      content: 'May 44,760 sundalo sa mga lahi nina Reuben, Gad, at sa kalahating
+        lahi ni Manase. Sinanay sila para sa labanan at mahusay silang gumamit ng
+        mga pananggalang, espada at pana. '
+      comments: []
+    - title: 
+      content: 'Nakipaglaban sila sa mga Hagreo, Jetureo, Nafiseo, at Nodabeo. '
+      comments: []
+    - title: 
+      content: 'Humingi sila ng tulong sa Dios nang nakipaglaban sila, at dahil nagtiwala
+        sila sa kanya, tinugon ng Dios ang panalangin nila. Kaya pinagtagumpay sila
+        ng Dios sa mga Hagreo at sa mga kakampi nito. '
+      comments: []
+    - title: 
+      content: 'Pinagkukuha nila ang hayop ng mga Hagreo: 50,000 kamelyo, 250,000
+        tupa at 2,000 asno. Binihag din nila ang 100,000 tao, '
+      comments: []
+    - title: Ang Kalahating Lahi ni Manase
+      content: 'at marami silang napatay dahil tinulungan sila ng Dios sa pakikipaglaban.
+        Tinirhan nila ang mga lugar na ito hanggang sa mabihag sila ng ibang bansa.  '
+      comments: []
+    - title: 
+      content: 'Ang kalahating angkan ni Manase ay napakarami. Tumira sila sa mga
+        lupain mula sa Bashan papunta sa Baal Hermon, Senir, at Bundok ng Hermon.
+        At napakarami nila. '
+      comments: []
+    - title: 
+      content: 'Ito ang mga pinuno ng kanilang mga pamilya: sina Efer, Ishi, Eliel
+        Azriel, Jeremias, Hodavia at Jadiel. Matatapang silang mandirigma at tanyag
+        na mga pinuno ng mga pamilya nila. '
+      comments: []
+    - title: 
+      content: 'Pero hindi sila naging tapat sa Dios ng kanilang mga ninuno, sa halip
+        sumamba sila sa mga dios ng mga taong nilipol ng Dios sa lupaing iyon. '
+      comments: []
+  - verses:
+    - title: Ang Lahi ni Levi na mga Pari
+      content: '  Ito ang mga anak na lalaki ni Levi: sina Gershon,[[COMMENT(0)]]
+        Kohat at Merari. '
+      comments:
+      - number: '6:1 '
+        content: '<b>: </b>o, <b>Gershom.</b>'
+    - title: 
+      content: 'Ang mga anak na lalaki ni Kohat ay sina Amram, Izar, Hebron at Uziel. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak ni Amram ay sina Aaron, Moises at Miriam. Ang mga anak
+        na lalaki ni Aaron ay sina Nadab, Abihu, Eleazar at Itamar. '
+      comments: []
+    - title: 
+      content: 'Si Eleazar ay ama ni Finehas, si Finehas ay ama ni Abishua, '
+      comments: []
+    - title: 
+      content: 'at si Abishua ay ama ni Buki. Si Buki ay ama ni Uzi, '
+      comments: []
+    - title: 
+      content: 'si Uzi ay ama ni Zerahia at si Zerahia ay ama ni Merayot. '
+      comments: []
+    - title: 
+      content: 'Si Merayot ay ama ni Amaria, si Amaria ay ama ni Ahitub, '
+      comments: []
+    - title: 
+      content: 'si Ahitub ay ama ni Zadok. Si Zadok ay ama ni Ahimaaz, '
+      comments: []
+    - title: 
+      content: 'si Ahimaaz ay ama ni Azaria, at si Azaria ay ama ni Johanan. '
+      comments: []
+    - title: 
+      content: 'Si Johanan ay ama ni Azaria na siyang punong pari nang ipinatayo
+        ni Solomon ang templo sa Jerusalem. '
+      comments: []
+    - title: 
+      content: 'Si Azaria ay ama ni Amaria, si Amaria ay ama ni Ahitub, '
+      comments: []
+    - title: 
+      content: 'at si Ahitub ay ama ni Zadok. Si Zadok ay ama ni Shalum, '
+      comments: []
+    - title: 
+      content: 'si Shalum ay ama ni Hilkia at si Hilkia ay ama ni Azaria. '
+      comments: []
+    - title: 
+      content: 'Si Azaria ay ama ni Seraya at si Seraya ay ama ni Jehozadak. '
+      comments: []
+    - title: Ang Iba pang Lahi ni Levi
+      content: 'Si Jehozadak ay kasama sa mga bihag nang ipabihag ng <smallcaps>Panginoon</smallcaps>
+        ang mga mamamayan ng Jerusalem at Juda kay Nebucadnezar.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Levi ay sina Gershon, Kohat at Merari. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Gershon ay sina Libni at Shimei. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Kohat ay sina Amram, Izar, Hebron at Uziel. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Merari ay sina Mahli at Mushi.Ito ang mga
+        pamilya ng mga Levita na itinala ayon sa kanilang mga ninuno:  '
+      comments: []
+    - title: 
+      content: 'Sa mga angkan ni Gershon: sina Libni, Jehat, Zima, '
+      comments: []
+    - title: 
+      content: 'Joa, Iddo, Zera at Jeaterai.  '
+      comments: []
+    - title: 
+      content: 'Sa mga angkan ni Kohat: sina Aminadab, Kora, Asir, '
+      comments: []
+    - title: 
+      content: 'Elkana, Ebiasaf,[[COMMENT(0)]] Asir, '
+      comments:
+      - number: '6:23 '
+        content: '<b>: </b>o, <b>Abiasaf.</b>'
+    - title: 
+      content: 'Tahat, Uriel, Uzia at Shaul. '
+      comments: []
+    - title: 
+      content: 'Sa mga angkan ni Elkana: sina Amasai, Ahimot, '
+      comments: []
+    - title: 
+      content: 'Elkana, Zofai, Nahat, '
+      comments: []
+    - title: 
+      content: 'Eliab, Jeroham, Elkana at Samuel.[[COMMENT(0)]]  '
+      comments:
+      - number: '6:27 '
+        content: '<b>: </b>Wala ito sa tekstong Hebreo, pero makikita sa ibang mga
+          tekstong Septuagint at sa Syriac.'
+    - title: 
+      content: 'Ang mga anak na lalaki ni Samuel ay si Joel,[[COMMENT(0)]] ang panganay,
+        at ang ikalawa ay si Abijah.  '
+      comments:
+      - number: '6:28 '
+        content: '<b>: </b>Wala ito sa tekstong Hebreo, pero makikita sa ibang mga
+          tekstong Septuagint at sa Syriac.'
+    - title: 
+      content: 'Sa mga angkan ni Merari: sina Mahli, Libni, Shimei, Uza, '
+      comments: []
+    - title: Ang mga Musikero sa Templo
+      content: 'Shimea, Haggia at Asaya.  '
+      comments: []
+    - title: 
+      content: 'May mga taong itinalaga ni David sa pag-awit at pagtugtog sa bahay
+        ng <smallcaps>Panginoon</smallcaps> matapos malipat doon ang Kahon ng Kasunduan. '
+      comments: []
+    - title: 
+      content: 'Naglingkod sila sa pamamagitan ng pag-awit doon sa Toldang Sambahan
+        na tinatawag ding Toldang Tipanan hanggang sa panahon na naipatayo ni Solomon
+        ang templo ng <smallcaps>Panginoon</smallcaps> sa Jerusalem. Ginawa nila
+        ang kanilang gawain ayon sa mga tuntunin na ipinatupad sa kanila. '
+      comments: []
+    - title: 
+      content: 'Ito ang mga naglilingkod na kasama ang kanilang mga anak:Si Heman
+        na isang musikero na mula sa angkan ni Kohat. (Si Heman ay anak ni Joel.
+        Si Joel ay anak ni Samuel. Si Samuel ay anak ni Elkana. '
+      comments: []
+    - title: 
+      content: 'Si Elkana ay anak ni Jeroham. Si Jeroham ay anak ni Eliel. Si Eliel
+        ay anak ni Toa. '
+      comments: []
+    - title: 
+      content: 'Si Toa ay anak ni Zuf. Si Zuf ay anak ni Elkana. Si Elkana ay anak
+        ni Mahat. Si Mahat ay anak ni Amasai. '
+      comments: []
+    - title: 
+      content: 'Si Amasai ay anak ni Elkana. Si Elkana ay anak ni Joel. Si Joel ay
+        anak ni Azaria. Si Azaria ay anak ni Zefanias. '
+      comments: []
+    - title: 
+      content: 'Si Zefanias ay anak ni Tahat. Si Tahat ay anak ni Asir. Si Asir ay
+        anak ni Ebiasaf. Si Ebiasaf ay anak ni Kora. '
+      comments: []
+    - title: 
+      content: 'Si Kora ay anak ni Izar. Si Izar ay anak ni Kohat. Si Kohat ay anak
+        ni Levi. Si Levi ay anak ni Israel.)  '
+      comments: []
+    - title: 
+      content: 'Si Asaf na mula sa angkan ni Gershon. Siya ang unang tagapamahala
+        ni Heman. (Si Asaf ay anak ni Berekia. Si Berekia ay anak ni Shimea. '
+      comments: []
+    - title: 
+      content: 'Si Shimea ay anak ni Micael. Si Micael ay anak ni Baaseya. Si Baaseya
+        ay anak ni Malkia. '
+      comments: []
+    - title: 
+      content: 'Si Malkia ay anak ni Etni. Si Etni ay anak ni Zera. Si Zera ay anak
+        ni Adaya. '
+      comments: []
+    - title: 
+      content: 'Si Adaya ay anak ni Etan. Si Etan ay anak ni Zima. Si Zima ay anak
+        ni Shimei. '
+      comments: []
+    - title: 
+      content: 'Si Shimei ay anak ni Jahat. Si Jahat ay anak ni Gershon. Si Gershon
+        ay anak ni Levi.)  '
+      comments: []
+    - title: 
+      content: 'Si Etan na mula sa angkan ni Merari. Siya ang pangalawang tagapamahala
+        ni Heman. (Si Etan ay anak ni Kishi. Si Kishi ay anak ni Abdi. Si Abdi ay
+        anak ni Maluc. '
+      comments: []
+    - title: 
+      content: 'Si Maluc ay anak ni Hashabia. Si Hashabia ay anak ni Amazia. Si Amazia
+        ay anak ni Hilkia. '
+      comments: []
+    - title: 
+      content: 'Si Hilkia ay anak ni Amzi. Si Amzi ay anak ni Bani. Si Bani ay anak
+        ni Shemer. '
+      comments: []
+    - title: 
+      content: 'Si Shemer ay anak ni Mahli. Si Mahli ay anak ni Mushi. Si Mushi ay
+        anak ni Merari. At si Merari ay anak ni Levi.)  '
+      comments: []
+    - title: 
+      content: 'Ang mga kapwa nila Levita ay binigyan ng ibang gawain sa Toldang
+        Sambahan, ang bahay ng Dios. '
+      comments: []
+    - title: 
+      content: 'Pero si Aaron at ang kanyang angkan ang naghahandog sa altar na pinag-aalayan
+        ng mga handog na sinusunog at sa altar na pinagsusunugan ng insenso. At sila
+        rin ang gumagawa ng iba pang mga gawain na may kinalaman sa ginagawa sa Pinakabanal
+        na Lugar. Naghahandog sila para sa kapatawaran ng kasalanan ng Israel. Ginagawa
+        nila ito ayon sa lahat ng iniutos ni Moises na lingkod ng Dios. '
+      comments: []
+    - title: 
+      content: 'Ito ang mga angkan ni Aaron: sina Eleazar, Finehas, Abishua, '
+      comments: []
+    - title: 
+      content: 'Buki, Uzi, Zerahia, '
+      comments: []
+    - title: 
+      content: 'Merayot, Amaria, Ahitub, '
+      comments: []
+    - title: Ang mga Lupain ng Lahi ni Levi
+      content: 'Zadok, at Ahimaaz.  '
+      comments: []
+    - title: 
+      content: 'Ito ang mga lupain na ibinigay sa angkan ni Aaron na mula sa angkan
+        ni Kohat. Sila ang unang binigyan ng lupain sa pamamagitan ng palabunutan. '
+      comments: []
+    - title: 
+      content: 'Kabilang sa mga lupaing ito ay ang Hebron na nasa Juda at ang mga
+        pastulan sa paligid nito. '
+      comments: []
+    - title: 
+      content: 'Pero ang mga bukirin at ang mga baryo sa paligid ng Hebron ay ibinigay
+        kay Caleb na anak ni Jefune. '
+      comments: []
+    - title: 
+      content: 'Kaya ibinigay sa angkan ni Aaron ang mga sumusunod na lupain kabilang
+        ang mga pastulan nito: Hebron (ang lungsod na tanggulan), Libna, Jatir, Estemoa, '
+      comments: []
+    - title: 
+      content: 'Hilen,[[COMMENT(0)]] Debir, '
+      comments:
+      - number: '6:58 '
+        content: '<b>: </b>o, <b>Holon.</b>'
+    - title: 
+      content: 'Ashan,[[COMMENT(0)]] Juta, at Bet Shemesh. '
+      comments:
+      - number: '6:59 '
+        content: '<b>: </b>o, <b>Ain.</b><b>: </b>Wala ito sa tekstong Hebreo, pero
+          makikita sa tekstong Syriac.'
+    - title: 
+      content: 'At mula sa lupain ng lahi ni Benjamin ay ibinigay sa kanila ang Gibeon,[[COMMENT(0)]]
+        Geba, Alemet at Anatot, pati na ang mga pastulan nito. Ang bayan na ibinigay
+        sa angkang ito ni Kohat ay 13 lahat. '
+      comments:
+      - number: '6:60 '
+        content: '<b>: </b>Wala ito sa tekstong Hebreo, pero makikita sa Josue 21:17.'
+    - title: 
+      content: 'Ang natirang mga angkan ni Kohat ay binigyan ng sampung bayan sa
+        pamamagitan ng palabunutan mula sa lupain ng kalahating lahi ni Manase.  '
+      comments: []
+    - title: 
+      content: 'Ang mga angkan ni Gershon ayon sa bawat pamilya ay binigyan ng 13
+        bayan mula sa mga lahi nina Isacar, Asher, Naftali, at mula sa kalahating
+        lahi ni Manase sa Bashan.  '
+      comments: []
+    - title: 
+      content: 'Ang angkan ni Merari, ayon sa bawat pamilya ay binigyan ng 12 bayan
+        mula sa lahi nina Reuben, Gad at Zebulun.  '
+      comments: []
+    - title: 
+      content: 'Kaya ibinigay ng mga Israelita sa mga Levita ang mga bayang ito at
+        ang mga pastulan nito. '
+      comments: []
+    - title: 
+      content: 'Ibinigay din sa lahi ni Levi ang mga nabanggit na bayan na mula sa
+        lahi nina Juda, Simeon at Benjamin. '
+      comments: []
+    - title: 
+      content: 'Ang ibang mga pamilya ni Kohat ay binigyan ng mga bayan mula sa lahi
+        ni Efraim. '
+      comments: []
+    - title: 
+      content: 'Ibinigay sa kanila ang Shekem (na siyang lungsod na tanggulan sa
+        kaburulan ng Efraim), ang Gezer, '
+      comments: []
+    - title: 
+      content: 'Jokmeam, Bet Horon, '
+      comments: []
+    - title: 
+      content: 'Ayalon at Gat Rimon, pati na ang mga pastulan nito. '
+      comments: []
+    - title: 
+      content: 'Ang iba pang angkan ni Kohat ay binigyan ng mga kapwa nila Israelita
+        ng mga bayan mula sa kalahating lahi ni Manase. Ang ibinigay sa kanila ay
+        ang Aner at Bileam pati ang mga pastulan nito.  '
+      comments: []
+    - title: 
+      content: 'Ang angkan ni Gershon ay binigyan ng mga sumusunod na bayan:Mula
+        sa kalahating lahi ni Manase: Golan sa Bashan at ang Ashtarot, pati ang mga
+        pastulan nito.  '
+      comments: []
+    - title: 
+      content: 'Mula sa lahi ni Isacar: Kedesh, Daberat, '
+      comments: []
+    - title: 
+      content: 'Ramot at Anem, pati ang mga pastulan nito.  '
+      comments: []
+    - title: 
+      content: 'Mula sa lahi ni Asher: Mashal, Abdon, '
+      comments: []
+    - title: 
+      content: 'Hukok at Rehob, pati ang mga pastulan nito.  '
+      comments: []
+    - title: 
+      content: 'Mula sa lahi ni Naftali: Kedesh sa Galilea, Hammon at Kiriataim,
+        pati ang mga pastulan nito.  '
+      comments: []
+    - title: 
+      content: 'Ang mga natirang angkan ni Merari ay binigyan ng mga sumusunod na
+        lupain:Mula sa lahi ni Zebulun: Jokneam, Karta,[[COMMENT(0)]] Rimono at Tabor,
+        pati ang mga pastulan nito.  '
+      comments:
+      - number: '6:77 '
+        content: '<b>: </b>Hindi ito makikita sa tekstong Hebreo ngunit makikita
+          sa Septuagint at sa Josue 21:34.'
+    - title: 
+      content: 'Mula sa lahi ni Reuben na nasa kabilang Ilog ng Jordan sa silangan
+        ng Jerico: Bezer sa may disyerto, Jaza,[[COMMENT(0)]]  '
+      comments:
+      - number: '6:78 '
+        content: '<b>: </b>o, <b>Jahaz.</b>'
+    - title: 
+      content: 'Kedemot at Mefaat, pati ang mga pastulan nito.  '
+      comments: []
+    - title: 
+      content: 'At mula sa lahi ni Gad: Ramot sa Gilead, Mahanaim, '
+      comments: []
+  - verses:
+    - title: Ang Lahi ni Isacar
+      content: '  May apat na anak na lalaki si Isacar: sina Tola, Pua, Jashub at
+        Shimron. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Tola ay sina Uzi, Refaya, Jeriel, Jamai,
+        Ibsam at Shemuel.[[COMMENT(0)]] Sila ang mga pinuno ng kanilang mga pamilya.
+        Nang si David ang hari, 22,600 ang bilang ng mga lalaking handa sa paglilingkod
+        sa militar mula sa mga angkan ni Tola.  '
+      comments:
+      - number: '7:2 '
+        content: '<b>: </b>o, <b>Samuel.</b>'
+    - title: 
+      content: 'Ang anak na lalaki ni Uzi ay si Izrahia. Si Izrahia at ang kanyang
+        apat na anak na sina Micael, Obadias, Joel at Ishia, ang mga pinuno ng kanilang
+        mga pamilya. '
+      comments: []
+    - title: 
+      content: "Marami silang asawa\u02BCt anak, kaya ayon sa talaan ng kanilang
+        mga angkan, mayroon silang 36,000 lalaking handa sa paglilingkod sa militar. "
+      comments: []
+    - title: Ang Lahi ni Benjamin
+      content: 'Ang bilang ng mga lalaking handa sa paglilingkod sa militar mula
+        sa lahat ng pamilya ni Isacar ay 87,000, ayon sa talaan ng kanilang lahi.  '
+      comments: []
+    - title: 
+      content: 'May tatlong anak na lalaki si Benjamin: sina Bela, Beker at Jediael. '
+      comments: []
+    - title: 
+      content: 'Si Bela ay may limang anak na lalaki na sina Ezbon, Uzi, Uziel, Jerimot
+        at Iri. Sila ang mga pinuno ng kanilang mga pamilya. Ang bilang ng kalalakihan
+        nilang handa sa paglilingkod sa militar ay 22,034, ayon sa talaan ng kanilang
+        mga lahi. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Beker ay sina Zemira, Joash, Eliezer, Elyoenai,
+        Omri, Jeremot, Abijah, Anatot at Alemet. Silang lahat ang anak ni Beker. '
+      comments: []
+    - title: 
+      content: 'Ang bilang ng kalalakihan nilang handa sa paglilingkod sa militar
+        ay 20,200. Ito ang mga pinuno ng mga pamilya nila na nakatala sa talaan ng
+        kanilang mga lahi. '
+      comments: []
+    - title: 
+      content: 'Ang anak na lalaki ni Jediael ay si Bilhan. Ang mga anak na lalaki
+        ni Bilhan ay sina Jeush, Benjamin, Ehud, Kenaana, Zetan, Tarshish at Ahishahar. '
+      comments: []
+    - title: 
+      content: 'Sila ang mga pinuno ng kanilang mga pamilya. May 17,200 silang kalalakihang
+        handa sa paglilingkod sa militar. '
+      comments: []
+    - title: Ang Lahi ni Naftali
+      content: 'Ang mga anak na lalaki ni Ir ay sina Shupim at si Hupim,[[COMMENT(0)]]
+        at ang anak ni Aher ay si Hushim.  '
+      comments:
+      - number: '7:12 '
+        content: '<b>: </b>o, <b>Ang mga angkan ni Ir na mga Hupeo at Shupeo.</b>'
+    - title: 
+      content: 'Ang mga anak na lalaki ni Naftali kay Bilha ay sina Jahziel,[[COMMENT(0)]]
+        Guni, Jezer at Shilem.  '
+      comments:
+      - number: '7:13 '
+        content: '<b>: </b>o, <b>Jazeel.</b><b>: </b>o, <b>Shalum.</b>'
+    - title: 
+      content: 'May dalawang anak si Manase sa asawa niyang Arameo. Sila ay sina
+        Asriel at Makir. Si Makir ang ama ni Gilead, '
+      comments: []
+    - title: 
+      content: 'at siya ang naghanap ng asawa para kina Hupim at Shupim.[[COMMENT(0)]]
+        May kapatid na babae si Makir na ang pangalan ay Maaca. Ang isa pang anak
+        ni Makir ay si Zelofehad na ang mga anak ay puro babae. '
+      comments:
+      - number: '7:15 '
+        content: '<b>: </b>o, <b>si Makir ay nakapag-asawa mula sa angkan ng Hupeo
+          at Shupeo.</b>'
+    - title: 
+      content: 'May mga anak ding lalaki si Makir kay Maaca na ang mga pangalan ay
+        Peresh at Sheresh. Ang mga anak na lalaki ni Peresh ay sina Ulam at Rakem. '
+      comments: []
+    - title: 
+      content: 'Ang anak na lalaki ni Ulam ay si Bedan. Sila ang mga angkan ni Gilead
+        na anak ni Makir, at apo ni Manase. '
+      comments: []
+    - title: 
+      content: 'Ang kapatid na babae ni Gilead na si Hammoleket ay may mga anak na
+        lalaki na sina Ishod, Abiezer at Mala.  '
+      comments: []
+    - title: Ang Lahi ni Efraim
+      content: 'Ang mga anak na lalaki ni Shemida ay sina Ahian, Shekem, Likhi at
+        Aniam.  '
+      comments: []
+    - title: 
+      content: 'Ito ang lahi ni Efraim: si Shutela na ama ni Bered, si Bered na ama
+        ni Tahat, si Tahat na ama ni Eleada, si Eleada na ama ni Tahat, '
+      comments: []
+    - title: 
+      content: 'si Tahat na ama ni Zabad, si Zabad na ama ni Shutela. Ang mga anak
+        ni Efraim na sina Ezer at Elead ay pinatay ng mga lalaking katutubo ng Gat
+        nang nagnakaw sila ng mga hayop. '
+      comments: []
+    - title: 
+      content: 'Matagal ang paghihinagpis ni Efraim sa kanilang pagkamatay, at pumunta
+        ang kanyang mga kamag-anak para aliwin siya. '
+      comments: []
+    - title: 
+      content: 'Nang bandang huli, sumiping si Efraim sa kanyang asawa; nabuntis
+        ito at nanganak ng lalaki. Pinangalanan ni Efraim ang bata na Beria,[[COMMENT(0)]]
+        dahil sa kasawiang dumating sa kanilang pamilya. '
+      comments:
+      - number: '7:23 '
+        content: '<b>: </b>Maaaring ang ibig sabihin, <b>kasawian.</b>'
+    - title: 
+      content: 'May anak na babae si Efraim na si Sheera. Siya ang nagtatag ng itaas
+        at ibabang bahagi ng Bet Horon at ng Uzen Sheera. '
+      comments: []
+    - title: 
+      content: 'At ang anak na lalaki ni Efraim ay si Refa. Si Refa ay ama ni Reshef,
+        si Reshef ay ama ni Tela, si Tela ay ama ni Tahan, '
+      comments: []
+    - title: 
+      content: 'si Tahan ay ama ni Ladan, si Ladan ay ama ni Amihud, si Amihud ay
+        ama ni Elishama, '
+      comments: []
+    - title: 
+      content: 'si Elishama ay ama ni Nun, si Nun ay ama ni Josue.  '
+      comments: []
+    - title: 
+      content: 'Ang lupaing natanggap at tinirhan ng lahi ni Efraim ay ang Betel
+        at ang mga baryo sa paligid nito, ang Naaran sa bandang silangan, ang Gezer
+        sa kanluran at ang mga baryo sa paligid nito, ang Shekem at ang mga baryo
+        sa paligid nito papunta sa Aya at sa mga baryo nito. '
+      comments: []
+    - title: Ang Lahi ni Asher
+      content: 'Ang lahi ni Manase ang nagmamay-ari sa mga lungsod ng Bet Shan, Taanac,
+        Megido at Dor, pati sa mga baryo sa paligid nito. Sa mga bayang ito nakatira
+        ang lahi ni Jose na anak ni Israel.[[COMMENT(0)]]  '
+      comments:
+      - number: '7:29 '
+        content: '<b>: </b>Ang pangalang ibinigay ng Dios kay Jacob.'
+    - title: 
+      content: 'Ang mga anak na lalaki ni Asher ay sina Imna, Ishva, Ishvi at Beria.
+        Ang kapatid nilang babae ay si Sera. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Beria ay sina Heber at Malkiel. Si Malkiel
+        ang ama ni Birzait. '
+      comments: []
+    - title: 
+      content: 'Si Heber ang ama nina Jaflet, Shomer, at Hotam. Ang kapatid nilang
+        babae ay si Shua. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Jaflet ay sina Pasac, Bimhal at Asvat.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Shomer ay sina Ahi, Roga,[[COMMENT(0)]]
+        Hubba at Aram. '
+      comments:
+      - number: '7:34 '
+        content: '<b>: </b>o, <b>ang kanyang anak ay si Shomer na nagkaroon ng anak
+          kay Roga.</b>'
+    - title: 
+      content: 'Ang mga anak na lalaki ng kapatid ni Shomer na si Helem[[COMMENT(0)]]
+        ay sina Zofa, Imna, Sheles at Amal. '
+      comments:
+      - number: '7:35 '
+        content: '<b>: </b>Maaaring ito ay isa pang pangalan ni Hotam.'
+    - title: 
+      content: 'Ang mga anak na lalaki ni Zofa ay sina Shua, Harnefer, Shual, Beri,
+        Imra, '
+      comments: []
+    - title: 
+      content: 'Bezer, Hod, Shama, Shilsha, Itran,[[COMMENT(0)]] at Beera. '
+      comments:
+      - number: '7:37 '
+        content: '<b>: </b>Maaaring ito ay isa pang pangalan ni Jeter.'
+    - title: 
+      content: 'Ang mga anak na lalaki ni Jeter ay sina Jefune, Pispa at Ara. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Ula ay sina Ara, Haniel at Rizia. '
+      comments: []
+  - verses:
+    - title: Ang Lahi ni Benjamin
+      content: '  Ito ang mga anak na lalaki ni Benjamin mula sa panganay hanggang
+        sa pinakabata: Bela, Ashbel, Ahara, '
+      comments: []
+    - title: 
+      content: 'Noha at Rafa. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Bela ay sina Adar, Gera, Abihud,[[COMMENT(0)]]  '
+      comments:
+      - number: '8:3 '
+        content: '<b>: </b>o, <b>Abihud, na ama ni Ehud.</b>'
+    - title: 
+      content: 'Abishua, Naaman, Ahoa, '
+      comments: []
+    - title: 
+      content: 'Gera, Shefufan at Huram. '
+      comments: []
+    - title: 
+      content: "Ang mga angkan ni Ehud na pinuno ng kanilang mga pamilya ay pinaalis
+        sa Geba at lumipat sa Manahat\u202F\u2013 "
+      comments: []
+    - title: 
+      content: 'sila ay sina Naaman, Ahia, at Gera. Si Gera na ama nina Uza at Ahihud
+        ang nanguna sa paglipat nila.  '
+      comments: []
+    - title: 
+      content: 'Hiniwalayan ni Shaharaim ang mga asawa niyang sina Hushim at Baara.
+        Kinalaunan, tumira siya sa Moab, at nagkaanak siya '
+      comments: []
+    - title: 
+      content: 'sa asawa niyang si Hodes. Ang mga anak nilang lalaki ay sina Jobab,
+        Zibia, Mesha, Malcam, '
+      comments: []
+    - title: 
+      content: 'Jeuz, Sakia at Mirma. Naging pinuno sila ng kanilang mga pamilya. '
+      comments: []
+    - title: 
+      content: "May anak ding lalaki si Shaharaim sa asawa niyang si Hushim. Sila\u02BCy
+        sina Abitub at Elpaal. "
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Elpaal ay sina Eber, Misam, Shemed (na
+        nagtatag ng mga bayan ng Ono at Lod, at ng mga baryo sa paligid nito), '
+      comments: []
+    - title: 
+      content: 'at sina Beria at Shema. Sila ang mga pinuno ng kanilang mga pamilya
+        na nakatira sa Ayalon. Sila rin ang nagpaalis sa mga naninirahan sa Gat.
+        Ang mga anak na lalaki ni Beria ay sina Ahio, Shashak, Jeremot, Zebadia,
+        Arad, Eder, Micael, Ishpa at Joha.  Ang mga anak na lalaki ni Elpaal ay sina
+        Zebadia, Meshulam, Hizki, Heber, Ishmerai, Izlia at Jobab.  Ang mga anak
+        na lalaki ni Shimei ay sina Jakim, Zicri, Zabdi, Elienai, Ziletai, Eliel,
+        Adaya, Beraya at Shimrat.  Ang mga anak na lalaki ni Shashak ay sina Ispan,
+        Eber, Eliel Abdon, Zicri, Hanan, Hanania, Elam, Antotia, Ifdeya at Penuel.
+        Ang mga anak na lalaki ni Jeroham ay sina Shamsherai, Sheharia, Atalia, Jaareshia,
+        Elias at Zicri. '
+      comments: []
+    - title: 
+      content: 'Sila ang mga pinuno ng mga pamilya nila ayon sa talaan ng kanilang
+        mga lahi, at tumira sila sa Jerusalem.  '
+      comments: []
+    - title: 
+      content: 'Si Jeyel[[COMMENT(0)]] na ama ni Gibeon ay tumira sa Gibeon. Ang
+        pangalan ng asawa niya ay Maaca. '
+      comments:
+      - number: '8:29 '
+        content: '<b>: </b>Wala ito sa tekstong Hebreo, pero makikita sa ibang mga
+          tekstong Septuagint.'
+    - title: 
+      content: 'Ang mga anak niyang lalaki mula sa panganay hanggang sa pinakabata
+        ay sina Abdon, Zur, Kish, Baal, Ner,[[COMMENT(0)]] Nadab, '
+      comments:
+      - number: '8:30 '
+        content: '<b>: </b>Wala ito sa tekstong Hebreo, pero makikita sa ibang mga
+          tekstong Septuagint.'
+    - title: 
+      content: 'Gedor, Ahio, Zeker,[[COMMENT(0)]]  '
+      comments:
+      - number: '8:31 '
+        content: '<b>: </b>o, <b>Zacarias.</b>'
+    - title: 
+      content: 'at Miklot na ama ni Shimea.[[COMMENT(0)]] Tumira sila malapit sa
+        kanilang mga kamag-anak sa Jerusalem. '
+      comments:
+      - number: '8:32 '
+        content: '<b>: </b>o, <b>Shimeam.</b>'
+    - title: 
+      content: 'Si Ner ang ama ni Kish, si Kish ang ama ni Saul, at si Saul ang ama
+        ni Jonatan, Malki Shua, Abinadab at Eshbaal.[[COMMENT(0)]]  '
+      comments:
+      - number: '8:33 '
+        content: '<b>: </b>siya rin si Ishboshet.'
+    - title: 
+      content: 'Ang anak ni Jonatan ay si Merib Baal[[COMMENT(0)]] na ama ni Micas. '
+      comments:
+      - number: '8:34 '
+        content: '<b>: </b>siya rin si Mefiboset.'
+    - title: 
+      content: 'Ang mga anak na lalaki ni Micas ay sina Piton, Melec, Tarea at Ahaz. '
+      comments: []
+    - title: 
+      content: 'Si Ahaz ang ama ni Jehoada,[[COMMENT(0)]] at si Jehoada ang ama nina
+        Alemet, Azmavet at Zimri. Si Zimri ang ama ni Moza, '
+      comments:
+      - number: '8:36 '
+        content: '<b>: </b>o, <b>Jada.</b>'
+    - title: 
+      content: 'at si Moza ang ama ni Binea. Ang anak ni Binea ay si Rafa,[[COMMENT(0)]]
+        na ama ni Eleasa, na ama ni Azel. '
+      comments:
+      - number: '8:37 '
+        content: '<b>: </b>o, <b>Refaya.</b>'
+    - title: 
+      content: 'Si Azel ay may anim na anak na lalaki na sina Azrikam, Bokeru, Ishmael,
+        Shearia, Obadias at Hanan. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ng kapatid ni Azel na si Eshek ay sina Ulam
+        (ang panganay), Jeush (ang ikalawa), at Elifelet (ang ikatlo). '
+      comments: []
+  - verses:
+    - title: 
+      content: '  Nailista ang lahat ng Israelita sa talaan ng mga lahi sa Aklat
+        ng Kasaysayan ng mga hari ng Israel. Ang mga mamamayan ng Juda ay binihag
+        sa Babilonia dahil hindi sila naging tapat sa <smallcaps>Panginoon</smallcaps>. '
+      comments: []
+    - title: 
+      content: 'Ang unang nakabalik sa kanilang mga bayan sa sariling lupain ay ang
+        mga ordinaryong Israelita, mga pari, mga Levita, at mga utusan sa templo.[[COMMENT(0)]]  '
+      comments:
+      - number: '9:2 '
+        content: '<b>: </b>sa Hebreo, <b>tolda.</b>'
+    - title: 
+      content: 'Ito ang mga lahi nina Juda, Benjamin, Efraim at Manase na nakabalik
+        at tumira sa Jerusalem:  '
+      comments: []
+    - title: 
+      content: 'Si Utai na anak ni Amihud (si Amihud ay anak ni Omri; si Omri ay
+        anak ni Imri; si Imri ay anak ni Bani na mula sa angkan ni Perez na anak
+        ni Juda).  '
+      comments: []
+    - title: 
+      content: 'Sa mga Shilonita: si Asaya (ang panganay) at ang mga anak niya.  '
+      comments: []
+    - title: 
+      content: 'Sa mga Zerahita: ang pamilya ni Jeuel.  Silang lahat ay 690 mula
+        sa lahi ni Juda.  '
+      comments: []
+    - title: 
+      content: 'Sa lahi ni Benjamin: si Salu na anak ni Meshulam (si Meshulam ay
+        anak ni Hodavia; si Hodavia ay anak ni Hasenua), '
+      comments: []
+    - title: 
+      content: 'si Ibneya na anak ni Jeroham, si Elah na anak ni Uzi (si Uzi ay anak
+        ni Micri), at si Meshulam na anak ni Shefatia (si Shefatia ay anak ni Reuel;
+        si Reuel ay anak ni Ibnia).  '
+      comments: []
+    - title: 
+      content: 'Silang lahat ang pinuno ng kanilang mga pamilya. Mula sa lahi ni
+        Benjamin, ang lahat ng nakabalik na lalaki ay 956 ayon sa talaan ng kanilang
+        mga lahi.  '
+      comments: []
+    - title: 
+      content: 'Sa mga pari: si Jedaya, si Jehoyarib, si Jakin, '
+      comments: []
+    - title: 
+      content: 'si Azaria na pinakamataas na opisyal sa templo ng Dios (anak siya
+        ni Hilkia; si Hilkia ay anak ni Meshulam; si Meshulam ay anak ni Zadok; si
+        Zadok ay anak ni Merayot; si Merayot ay anak ni Ahitub), '
+      comments: []
+    - title: 
+      content: 'si Adaya na anak ni Jeroham (si Jeroham ay anak ni Pashur; si Pashur
+        ay anak ni Malkia), at si Maasai na anak ni Adiel (si Adiel ay anak ni Jazera;
+        si Jezera ay anak ni Meshulam; si Meshulam ay anak ni Meshilemit; si Meshilemit
+        ay anak ni Imer).  '
+      comments: []
+    - title: 
+      content: 'Ang mga pari na nakabalik ay 1,760 lahat. Mahuhusay silang pinuno
+        ng kanilang mga pamilya. Sila ang mga pinagkatiwalaan sa paglilingkod sa
+        templo ng Dios.  '
+      comments: []
+    - title: 
+      content: 'Sa mga Levita: si Shemaya na anak ni Hashub (si Hashub ay anak ni
+        Azrikam; si Azrikam ay anak ni Hashabia na mula sa angkan ni Merari), '
+      comments: []
+    - title: 
+      content: 'si Bakbakar, si Heres, si Galal, si Matania na anak ni Mica (si Mica
+        ay anak ni Zicri; si Zicri ay anak ni Asaf), '
+      comments: []
+    - title: 
+      content: 'si Obadias na anak ni Shemaya (si Shemaya ay anak ni Galal; si Galal
+        ay anak ni Jedutun), at si Berekia na anak ni Asa at apo ni Elkana, na tumira
+        sa baryo ng mga Netofatno.  '
+      comments: []
+    - title: 
+      content: 'Ang mga guwardya ng pintuan: sina Shalum, Akub, Talmon, Ahiman, at
+        ang kanilang mga kamag-anak.Si Shalum ang pinuno nila.  '
+      comments: []
+    - title: 
+      content: 'Hanggang ngayon, sila pa rin ang guwardya ng Pintuan ng Hari sa bandang
+        silangan ng lungsod. Sila noon ang mga guwardya ng pintuang papasok sa kampo
+        ng mga Levita.  '
+      comments: []
+    - title: 
+      content: 'Si Shalum ay anak ni Kore at apo ni Ebiasaf,[[COMMENT(0)]] na mula
+        sa pamilya ni Kora. Si Shalum at ang kanyang mga kamag-anak na mula sa angkan
+        ni Kora ang pinagkatiwalaan sa pagbabantay ng pintuan ng Tolda katulad ng
+        kanilang mga ninuno na pinagkatiwalaan sa pagbabantay ng pintuan ng bahay
+        ng <smallcaps>Panginoon</smallcaps>.  '
+      comments:
+      - number: '9:19 '
+        content: '<b>: </b>o, <b>Abiasaf.</b><b>: </b>sa literal, <b>kampo.</b>'
+    - title: 
+      content: 'Si Finehas na anak ni Eleazar ang namamahala noon sa mga guwardya
+        ng pintuan, at sinamahan siya ng <smallcaps>Panginoon</smallcaps>.  '
+      comments: []
+    - title: 
+      content: 'Si Zacarias na anak ni Meshelemia ay guwardya rin ng pintuan ng Toldang
+        Tipanan.  '
+      comments: []
+    - title: 
+      content: 'Ang mga guwardya ng pintuan ay 212 lahat, at itinala sila ayon sa
+        talaan ng mga angkan nila sa kanilang bayan. Ang nagbigay ng tungkulin sa
+        kanilang mga ninuno bilang mga guwardya ng pintuan (dahil maaasahan sila)
+        ay sina David at Propeta Samuel. '
+      comments: []
+    - title: 
+      content: "Sila at ang kanilang mga angkan ang pinagkakatiwalaang magbantay
+        sa mga pintuan ng bahay ng <smallcaps>Panginoon</smallcaps> \u202F\u2013\u202Fna
+        tinatawag ding Tolda. "
+      comments: []
+    - title: 
+      content: 'Nagbabantay sila sa apat na sulok: sa silangan, kanluran, hilaga
+        at timog. '
+      comments: []
+    - title: 
+      content: 'Kung minsan ang mga kamag-anak nilang nakatira sa mga bayan ang pumapalit
+        sa kanila na magbantay sa loob ng pitong araw. '
+      comments: []
+    - title: 
+      content: 'Pero ang apat na pinuno ng mga guwardya ng pintuan, na mula sa mga
+        Levita, ang siyang responsable sa mga kwarto at mga bodega ng templo. '
+      comments: []
+    - title: 
+      content: 'Nagpupuyat sila sa pagbabantay sa paligid ng templo dahil kailangan
+        nila itong bantayan at sila ang tagabukas ng pinto tuwing umaga.  '
+      comments: []
+    - title: 
+      content: "Ang iba sa kanila\u02BCy pinagkatiwalaan sa pag-aasikaso ng mga gamit
+        sa pagsamba. Binibilang nila ito bago at pagkatapos gamitin. "
+      comments: []
+    - title: 
+      content: "Ang iba\u02BCy pinagkatiwalaan sa pag-aasikaso ng iba pang mga gamit
+        sa templo gaya ng harina, katas ng ubas, langis, insenso at mga pampalasa. "
+      comments: []
+    - title: 
+      content: 'Ngunit katungkulan ng mga pari ang pagtitimpla ng mga pampalasa. '
+      comments: []
+    - title: 
+      content: 'Si Matitia na Levita, at panganay na anak ni Shalum na mula sa angkan
+        ni Kora, ang pinagkatiwalaan sa pagluluto ng tinapay para ihandog. '
+      comments: []
+    - title: 
+      content: 'Ang ibang angkan ni Kohat ang pinagkatiwalaan sa paghahanda at paglalagay
+        ng mga tinapay sa mesa tuwing Araw ng Pamamahinga. '
+      comments: []
+    - title: 
+      content: 'Ang mga musikero sa templo na mga pinuno rin ng mga pamilyang Levita
+        ay doon na rin tumira sa mga silid sa templo. At wala na silang iba pang
+        gawain, dahil ginagawa nila ito araw at gabi. '
+      comments: []
+    - title: Ang Angkan ni Saul(1 Cro. 8:29-38)
+      content: 'Silang lahat ang pinuno ng mga pamilyang Levita, nailista sila sa
+        talaan ng kanilang lahi. Tumira sila sa Jerusalem.  '
+      comments: []
+    - title: 
+      content: 'Si Jeyel na ama ni Gibeon ay tumira sa Gibeon. Ang pangalan ng asawa
+        niya ay Maaca. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak niyang lalaki mula sa panganay hanggang sa pinakabata
+        ay sina Abdon, Zur, Kish, Baal, Ner, Nadab, '
+      comments: []
+    - title: 
+      content: 'Gedor, Ahio, Zacarias at Miklot '
+      comments: []
+    - title: 
+      content: '(na ama ni Shimeam). Tumira sila malapit sa mga kamag-anak nila sa
+        Jerusalem. '
+      comments: []
+    - title: 
+      content: 'Si Ner ang ama ni Kish, si Kish ang ama ni Saul, at si Saul ang ama
+        nina Jonatan, Malki Shua, Abinadab at Eshbaal. '
+      comments: []
+    - title: 
+      content: 'Ang anak ni Jonatan ay si Merib Baal[[COMMENT(0)]] na ama ni Micas. '
+      comments:
+      - number: '9:40 '
+        content: '<b>: </b>siya rin si Mefiboset.'
+    - title: 
+      content: 'Ang mga anak na lalaki ni Micas ay sina Piton, Melec, Tarea at Ahaz.[[COMMENT(0)]]  '
+      comments:
+      - number: '9:41 '
+        content: '<b>: </b>Wala ito sa tekstong Hebreo, pero makikita sa tekstong
+          Syriac at sa Latin Vulgate. Tingnan din sa 8:35.'
+    - title: 
+      content: 'Si Ahaz ang ama ni Jada,[[COMMENT(0)]] at si Jada ang ama nina Alemet,
+        Azmavet at Zimri. Si Zimri ang ama ni Moza, '
+      comments:
+      - number: '9:42 '
+        content: '<b>: </b>o, <b>Jara.</b>'
+    - title: 
+      content: 'at si Moza ang ama ni Binea. Ang anak ni Binea ay si Refaya, ang
+        anak ni Refaya ay si Eleasa, at ang anak ni Eleasa ay si Azel. '
+      comments: []
+  - verses:
+    - title: Pinatay ni Saul ang Sarili(1 Sam. 31:1-13)
+      content: "  Nakipaglaban ang mga Filisteo sa mga Israelita sa Bundok ng Gilboa.
+        Maraming namatay sa mga Israelita, at ang iba sa kanila\u02BCy nagsitakas. "
+      comments: []
+    - title: 
+      content: 'Hinabol ng mga Filisteo si Saul at ang mga anak niyang lalaki, at
+        pinatay nila ang mga anak niyang sina Jonatan, Abinadab at Malki Shua. '
+      comments: []
+    - title: 
+      content: 'Matindi ang labanan nina Saul at ng mga Filisteo. Tinamaan siya ng
+        pana at malubhang nasugatan. '
+      comments: []
+    - title: 
+      content: "Sinabi ni Saul sa tagapagdala ng kanyang armas, \u201CBunutin mo
+        ang iyong espada at patayin ako, dahil kung hindi, silang mga hindi nakakakilala
+        sa Dios[[COMMENT(0)]] ang papatay sa akin, at pagtatawanan pa nila ako.\u201D
+        Pero natakot ang tagapagdala niya ng armas na patayin siya, kaya kinuha ni
+        Saul ang sarili niyang espada, at sinaksak ang sarili.  "
+      comments:
+      - number: '10:4 '
+        content: '<b>: </b>sa literal, <b>hindi tuli.</b>'
+    - title: 
+      content: 'Nang makita ng tagapagdala ng armas na patay na si Saul, sinaksak
+        din niya ang kanyang sarili at namatay siya. '
+      comments: []
+    - title: 
+      content: 'Kaya namatay si Saul, ang tatlo niyang anak na lalaki, at ang lahat
+        ng pamilya niya.  '
+      comments: []
+    - title: 
+      content: 'Nang panahong iyon, may mga Israelitang nakatira sa lambak ng Jezreel.
+        Nang makita nilang nagsitakas ang mga sundalo ng Israel at patay na si Saul
+        pati ang mga anak niya, iniwan nila ang mga bayan nila at nagsitakas din.
+        Kaya pinasok ng mga Filisteo ang mga bayan at tinirhan nila ang mga ito.  '
+      comments: []
+    - title: 
+      content: 'Kinabukasan, nang pumunta ang mga Filisteo sa Bundok ng Gilboa para
+        kunin ang mahahalagang bagay sa mga namatay na sundalo, nakita nila ang bangkay
+        ni Saul at ng kanyang mga anak. '
+      comments: []
+    - title: 
+      content: 'Kinuha nila ang mga armas ni Saul at pinutol ang ulo nito. Pagkatapos,
+        nagsugo sila ng mga mensahero sa buong lupain ng Filisteo para ibalita sa
+        kanilang mga dios-diosan at mga kababayan na patay na si Saul. '
+      comments: []
+    - title: 
+      content: 'Inilagay nila ang armas ni Saul sa templo ng kanilang mga dios, at
+        isinabit ang ulo niya sa templo ng dios nilang si Dagon.  '
+      comments: []
+    - title: 
+      content: 'Nabalitaan ng mga taga-Jabes Gilead ang lahat ng ginawa ng mga Filisteo
+        kay Saul. '
+      comments: []
+    - title: 
+      content: 'Kaya lumakad ang lahat ng kanilang matatapang na tao at kinuha ang
+        bangkay ni Saul at ng kanyang mga anak, at dinala nila ito sa Jabes. Pagkatapos,
+        inilibing nila ang mga bangkay sa ilalim ng malaking punongkahoy sa Jabes,
+        at nag-ayuno sila ng pitong araw.  '
+      comments: []
+    - title: 
+      content: 'Namatay si Saul dahil hindi siya naging tapat sa <smallcaps>Panginoon</smallcaps>.
+        Hindi niya tinupad ang utos ng <smallcaps>Panginoon</smallcaps>, at dumulog
+        pa siya sa mga espiritista '
+      comments: []
+  - verses:
+    - title: Naging Hari si David sa Israel(2 Sam. 5:1-10)
+      content: "  Pumunta ang lahat ng Israelita kay David sa Hebron at sinabi, \u201CMga
+        kamag-anak mo kami. "
+      comments: []
+    - title: 
+      content: "Mula pa noon, kahit nang si Saul pa ang aming hari, ikaw na ang namumuno
+        sa mga Israelita sa pakikipaglaban. At sinabi sa iyo ng <smallcaps>Panginoon</smallcaps>
+        na iyong Dios, \u2018Aalagaan mo ang mga mamamayan kong Israelita, tulad
+        ng isang pastol ng mga tupa. Ikaw ang mamumuno sa kanila.\u2019\u2009\u201D "
+      comments: []
+    - title: 
+      content: 'Kaya roon sa Hebron, gumawa si David ng kasunduan sa mga tagapamahala
+        ng Israel sa harap ng <smallcaps>Panginoon</smallcaps>, at pinahiran nila
+        ng langis ang ulo ni David bilang pagkilala na siya na ang hari ng Israel,
+        ayon sa ipinangako ng <smallcaps>Panginoon</smallcaps> sa pamamagitan ni
+        Samuel.  '
+      comments: []
+    - title: 
+      content: '  Isang araw, pumunta si David at lahat ng mga Israelita sa Jerusalem
+        (na dating Jebus) para lusubin ito. Ang mga Jebuseo na nakatira roon '
+      comments: []
+    - title: 
+      content: "ay nagsabi kay David, \u201CHindi kayo makakapasok dito.\u201D Pero
+        naagaw nina David ang matatag na kuta ng Zion,[[COMMENT(0)]] na sa bandang
+        huli\u02BCy tinawag na Lungsod ni David.  "
+      comments:
+      - number: '11:5 '
+        content: '<b>: </b>Ito ang unang tawag sa Jerusalem.'
+    - title: 
+      content: "Sinabi ni David, \u201CAng sinumang manguna sa paglusob sa mga Jebuseo
+        ang magiging kumander ng mga sundalo.\u201D Si Joab na anak ni Zeruya ang
+        nanguna sa paglusob kaya siya ang naging kumander.  "
+      comments: []
+    - title: 
+      content: 'Pagkatapos maagaw ni David ang matatag na kutang iyon, doon na siya
+        tumira. At tinawag niya itong Lungsod ni David. '
+      comments: []
+    - title: 
+      content: 'Pinadagdagan niya ang mga pader sa paligid mula sa mababang parte
+        ng lungsod. Si Joab ang namamahala sa pag-aayos ng ibang bahagi ng lungsod. '
+      comments: []
+    - title: Ang Matatapang na Tauhan ni David(2 Sam. 23:8-39)
+      content: 'Naging makapangyarihan si David, dahil tinutulungan siya ng <smallcaps>Panginoong</smallcaps>
+        Makapangyarihan.  '
+      comments: []
+    - title: 
+      content: 'Ito ang mga pinuno ng matatapang na tauhan ni David. Sila at ang
+        lahat ng Israelita ay sumuporta sa paghahari ni David ayon sa ipinangako
+        ng <smallcaps>Panginoon</smallcaps> tungkol sa Israel. '
+      comments: []
+    - title: 
+      content: 'Si Jashobeam na Hacmoneo, ang nangunguna sa tatlo[[COMMENT(0)]] na
+        matatapang na tauhan ni David. Sa isang labanan lang, nakapatay siya ng 300
+        tao sa pamamagitan ng sibat niya.  '
+      comments:
+      - number: '11:11 '
+        content: '<b>: </b>Ito ang nasa ibang mga teksto ng Septuagint (tingnan din
+          sa 2 Sam. 23:8). Sa Hebreo, <b>30.</b>'
+    - title: 
+      content: 'Ang sumunod sa kanya ay si Eleazar na anak ni Dodai[[COMMENT(0)]]
+        na mula sa angkan ni Ahoa. Isa rin siya sa tatlo na matatapang na tauhan
+        ni David. Isa siya sa mga sumama kay David nang nakipaglaban sila sa mga
+        Filisteo sa Pas Damim. Doon sila naglaban sa taniman ng sebada. Tumakas ang
+        mga Israelita pero sina Eleazar at David ay nanatili sa gitna ng taniman,
+        at pinatay nila ang mga Filisteo. Pinagtagumpay sila ng <smallcaps>Panginoon</smallcaps>.  '
+      comments:
+      - number: '11:12 '
+        content: '<b>: </b>o, <b>Dodo.</b>'
+    - title: 
+      content: 'Isang araw, pumunta kay David ang tatlo niyang tauhan doon sa kweba
+        ng Adulam. Ang tatlong ito ay kabilang sa 30 matatapang na mga tauhan ni
+        David. Nagkakampo noon ang mga Filisteo sa Lambak ng Refaim, '
+      comments: []
+    - title: 
+      content: 'at naagaw nila ang Betlehem. Habang naroon si David sa isang matatag
+        na kublihan, '
+      comments: []
+    - title: 
+      content: "nauhaw siya. Sinabi niya, \u201CMabuti sana kung may kukuha sa akin
+        ng tubig na maiinom doon sa balon malapit sa pintuang bayan ng Betlehem.\u201D "
+      comments: []
+    - title: 
+      content: 'Kaya palihim na pumasok ang tatlong matatapang na iyon sa kampo ng
+        mga Filisteo, malapit sa pintuang bayan ng Betlehem. Kumuha sila ng tubig
+        sa balon at dinala ito kay David. Pero hindi ito ininom ni David, sa halip
+        ibinuhos niya ito bilang handog sa <smallcaps>Panginoon</smallcaps>. '
+      comments: []
+    - title: 
+      content: "Sinabi niya, \u201CO Dios ko, hindi ko po ito maiinom dahil kasinghalaga
+        ito ng dugo ng mga taong nagtaya ng kanilang buhay sa pagkuha nito.\u201D
+        Kaya hindi ito ininom ni David.Iyon nga ang mga ginawa ng tatlong matatapang
+        na tauhan ni David.  "
+      comments: []
+    - title: 
+      content: 'Si Abishai na kapatid ni Joab ang pinuno ng 30[[COMMENT(0)]]  matatapang
+        na tauhan ni David. Nakapatay siya ng 300 Filisteo sa pamamagitan ng sibat
+        niya. Kaya naging tanyag siya gaya ng tatlong matatapang na tauhan, '
+      comments:
+      - number: '11:20 '
+        content: '<b>: </b>Ito ang nasa ibang mga tekstong Hebreo at Syriac, ngunit
+          sa karamihan na teksto, <b>tatlo.</b>'
+    - title: 
+      content: 'pero hindi siya kabilang sa kanila. At dahil siya ang pinakatanyag
+        sa 30[[COMMENT(0)]] niyang kasama, siya ang naging kumander nila.  '
+      comments:
+      - number: '11:21 '
+        content: '<b>: </b>sa Hebreo, <b>tatlo. </b>Tingnan sa talatang 25.'
+    - title: 
+      content: 'May isa pang matapang na tao na ang pangalan ay Benaya. Taga-Kabzeel
+        siya, at ang ama niya ay si Jehoyada. Marami siyang kabayanihang ginawa,
+        kabilang na rito ang pagpatay sa dalawang pinakamahuhusay na sundalo ng Moab.
+        Minsan, kahit umuulan ng yelo, bumaba siya sa pinagtataguan ng leon at pinatay
+        ito. '
+      comments: []
+    - title: 
+      content: "Bukod dito, pinatay niya ang isang Egipciong may taas na pito\u02BCt
+        kalahating talampakan. Ang armas ng Egipcio ay sibat na mabigat at makapal,[[COMMENT(0)]]
+        pero ang armas niya\u02BCy isang pamalo lang. Inagaw niya ang sibat sa Egipcio
+        at ito rin ang ipinampatay niya rito. "
+      comments:
+      - number: '11:23 '
+        content: "<b>: </b>sa literal, <b>gaya ng panghabi ng manghahabi </b>(sa
+          Ingles, <b>weaver\u02BCs rod</b>)."
+    - title: 
+      content: 'Ito ang mga ginawa ni Benaya na anak ni Jehoyada. Naging tanyag din
+        siya gaya ng tatlong matatapang na tao, '
+      comments: []
+    - title: 
+      content: 'pero hindi siya kabilang sa kanila. At dahil siya ang pinakatanyag
+        sa kanyang 30 kasama, ginawa siyang pinuno ni David ng kanyang mga personal
+        na tagapagbantay.  '
+      comments: []
+    - title: 
+      content: 'Ito ang matatapang na kawal:si Asahel na kapatid ni Joab,si Elhanan
+        na anak ni Dodo na taga-Betlehem,  '
+      comments: []
+    - title: 
+      content: 'si Shamot na taga-Haror,[[COMMENT(0)]]si Helez na taga-Pelon,  '
+      comments:
+      - number: '11:27 '
+        content: '<b>: </b>o, <b>Shama na taga-Harod.</b>'
+    - title: 
+      content: 'si Ira na anak ni Ikkes na taga-Tekoa,si Abiezer na taga-Anatot,  '
+      comments: []
+    - title: 
+      content: 'si Sibecai na taga-Husha,si Ilai[[COMMENT(0)]] na taga-Ahoa,  '
+      comments:
+      - number: '11:29 '
+        content: '<b>: </b>o, <b>Zalmon.</b>'
+    - title: 
+      content: 'si Maharai na taga-Netofa,si Heled[[COMMENT(0)]] na anak ni Baana
+        na taga-Netofa,  '
+      comments:
+      - number: '11:30 '
+        content: '<b>: </b>o, <b>Heleb.</b>'
+    - title: 
+      content: 'si Itai na anak ni Ribai na taga-Gibea, na sakop ng Benjamin,si Benaya
+        na taga-Piraton,  '
+      comments: []
+    - title: 
+      content: 'si Hurai[[COMMENT(0)]] na nakatira malapit sa mga ilog ng Gaas,si
+        Abiel na taga-Arba,  '
+      comments:
+      - number: '11:32 '
+        content: '<b>: </b>o, <b>Hudai.</b><b>: </b>o, <b>Abialbon.</b>'
+    - title: 
+      content: 'si Azmavet na taga-Baharum,[[COMMENT(0)]]si Eliaba na taga-Shaalbon,  '
+      comments:
+      - number: '11:33 '
+        content: '<b>: </b>o, <b>Bahurim.</b>'
+    - title: 
+      content: 'ang mga anak ni Hashem[[COMMENT(0)]] na taga-Gizon,si Jonatan na
+        anak ni Shagee na taga-Harar,  '
+      comments:
+      - number: '11:34 '
+        content: '<b>: </b>o, <b>Jasen.</b><b>: </b>o, <b>Sama.</b>'
+    - title: 
+      content: 'si Ahiam na anak ni Sacar[[COMMENT(0)]] na taga-Harar,si Elifal na
+        anak ni Ur,  '
+      comments:
+      - number: '11:35 '
+        content: '<b>: </b>o, <b>Sharar.</b>'
+    - title: 
+      content: 'si Hefer na taga-Mekerat,si Ahia na taga-Pelon,  '
+      comments: []
+    - title: 
+      content: 'si Hezro na taga-Carmel,si Naarai[[COMMENT(0)]] na anak ni Ezbai,  '
+      comments:
+      - number: '11:37 '
+        content: '<b>: </b>o, <b>Paarai.</b>'
+    - title: 
+      content: 'si Joel na kapatid ni Natan,si Mibhar na anak ni Hagri,  '
+      comments: []
+    - title: 
+      content: 'si Zelek na taga-Ammon,si Naharai na taga-Berot, na tagapagdala ng
+        armas ni Joab na anak ni Zeruya,  '
+      comments: []
+    - title: 
+      content: 'sina Ira at Gareb na mga taga-Jatir,[[COMMENT(0)]]  '
+      comments:
+      - number: '11:40 '
+        content: '<b>: </b>o, <b>Angkan ni Itra.</b>'
+    - title: 
+      content: 'si Uria na Heteo,si Zabad na anak ni Alai,  '
+      comments: []
+    - title: 
+      content: 'si Adina na anak ni Shiza na isang pinuno sa lahi ni Reuben kasama
+        ng kanyang 30 tauhan,  '
+      comments: []
+    - title: 
+      content: 'si Hanan na anak ni Maaca,si Joshafat na taga-Mitna,  '
+      comments: []
+    - title: 
+      content: 'si Uzia na taga-Ashterot,sina Shama at Jeyel na mga anak ni Hotam
+        na taga-Aroer,  '
+      comments: []
+    - title: 
+      content: 'si Jediael na anak ni Shimri, at ang kapatid niyang si Joha na taga-Tiz,  '
+      comments: []
+    - title: 
+      content: 'si Eliel, na taga-Mahav,sina Jeribai at Josavia na mga anak ni Elnaam,si
+        Itma na taga-Moab,  '
+      comments: []
+  - verses:
+    - title: Ang mga Tao na Sumama kay David at ang Kanyang mga Sundalo
+      content: "  Ito ang mga tao na pumunta kay David doon sa Ziklag nang siya\u02BCy
+        nagtatago kay Saul na anak ni Kish. Kasama sila sa mga tumulong kay David
+        sa labanan. "
+      comments: []
+    - title: 
+      content: 'Armado sila ng mga pana at mahuhusay silang pumana at manirador,
+        kanan o kaliwang kamay man. Mga kamag-anak sila ni Saul mula sa lahi ni Benjamin. '
+      comments: []
+    - title: 
+      content: 'Pinamumunuan sila nina Ahiezer at Joash na mga anak ni Shemaa na
+        taga-Gibea. Ito ang mga pangalan nila:sina Jeziel at Pelet na mga anak ni
+        Azmavet,sina Beraca at Jehu na mga taga-Anatot,  '
+      comments: []
+    - title: 
+      content: 'si Ishmaya na taga-Gibeon, na isa sa mga tanyag na sundalo at isa
+        rin sa matatapang na pinuno ng 30 matatapang na tao,sina Jeremias, Jahaziel,
+        Johanan, at Jozabad na taga-Gedera,  '
+      comments: []
+    - title: 
+      content: 'sina Eluzai, Jerimot, Bealia, Shemaria, at Shefatia na taga-Haruf,  '
+      comments: []
+    - title: 
+      content: 'sina Elkana, Ishia, Azarel, Joezer, at Jashobeam na mga angkan ni
+        Kora,  '
+      comments: []
+    - title: 
+      content: 'sina Joela at Zebadia na mga anak ni Jeroham na taga-Gedor.  '
+      comments: []
+    - title: 
+      content: 'May mga tao ring mula sa lahi ni Gad ang sumama kay David doon sa
+        matatag na kuta na pinagtataguan niya sa ilang. Matatapang silang sundalo
+        at mahuhusay gumamit ng mga pananggalang at sibat. Kasintapang sila ng mga
+        leon, at kasimbilis ng usa sa kabundukan:  '
+      comments: []
+    - title: 
+      content: 'si Ezer ang pinuno nila,si Obadias ang pangalawa,si Eliab ang pangatlo,  '
+      comments: []
+    - title: 
+      content: 'si Mishmana ang pang-apat,si Jeremias ang panglima,  '
+      comments: []
+    - title: 
+      content: 'si Atai ang pang-anim,si Eliel ang pampito,  '
+      comments: []
+    - title: 
+      content: 'si Johanan ang pangwalo,si Elzabad ang pangsiyam,  '
+      comments: []
+    - title: 
+      content: 'si Jeremias ang pangsampu,at si Macbanai ang pang-11.  '
+      comments: []
+    - title: 
+      content: 'Sila ang lahi ni Gad na mga kumander ng mga sundalo. Ang pinakamahina
+        sa kanila ay makakapamahala ng 100 sundalo, at ang pinakamalakas ay makakapamahala
+        ng 1,000 sundalo. '
+      comments: []
+    - title: 
+      content: 'Tinawid nila ang Ilog ng Jordan nang unang buwan ng taon, ang panahong
+        umaapaw ang tubig nito, at itinaboy nila ang lahat ng nakatira sa mga lambak
+        ng silangan at kanluran ng ilog.  '
+      comments: []
+    - title: 
+      content: 'May mga tao ring nagmula sa mga lahi nina Benjamin at Juda na pumunta
+        kay David doon sa pinagkukutaan niya. '
+      comments: []
+    - title: 
+      content: "Lumabas si David para salubungin sila at sinabi, \u201CKung pumunta
+        kayo rito para tumulong sa akin bilang kaibigan, tinatanggap ko kayo na sumama
+        sa amin. Pero kung pumunta kayo rito para ibigay ako sa aking mga kalaban
+        kahit wala akong kasalanan, sana\u02BCy makita ito ng Dios ng ating mga ninuno
+        at parusahan niya kayo.\u201D  "
+      comments: []
+    - title: 
+      content: "Pagkatapos, pinuspos ng Espiritu si Amasai na kalaunan ay naging
+        pinuno ng 30 matatapang na sundalo, at sinabi niya,\u201CKami po ay sa inyo,
+        O David na anak ni Jesse! Magtagumpay sana kayo at ang mga tumutulong sa
+        inyo, dahil ang Dios ninyo ang tumutulong sa inyo.\u201DKaya tinanggap sila
+        ni David at ginawang opisyal ng mga sundalo niya.  "
+      comments: []
+    - title: 
+      content: 'May mga tao rin na mula sa lahi ni Manase ang sumama kay David nang
+        pumunta siya sa mga Filisteo para makipaglaban kay Saul. Pero hindi pumayag
+        ang mga Filisteo na sumama si David at ang mga tauhan niya, dahil iniisip
+        nila na baka muling pumanig si David sa amo niyang si Saul. Kaya pagkatapos
+        nilang mag-usap, pinabalik nila si David sa Ziklag.  '
+      comments: []
+    - title: 
+      content: "Ito ang mga tao na mula sa lahi ni Manase na sumama kay David sa
+        Ziklag: sina Adna, Jozabad, Jediael, Micael, Jozabad, Elihu at Ziletai. Bawat
+        isa sa kanila\u02BCy pinuno ng 1,000 sundalo sa lahi ni Manase. "
+      comments: []
+    - title: 
+      content: 'Tumulong sila kay David sa pakikipaglaban sa mga lumulusob sa kanila,
+        dahil matatapang silang mga mandirigma. Kaya nga naging pinuno sila ng mga
+        sundalo ni David. '
+      comments: []
+    - title: 
+      content: 'Sa bawat araw, may mga tao na pumupunta kay David para tumulong,
+        hanggang sa dumami at naging matibay ang kanyang mga sundalo.[[COMMENT(0)]] 
+        Ito ang bilang ng mga armadong sundalo na pumunta kay David sa Hebron upang
+        tumulong sa kanya na maagaw ang kaharian ni Saul, ayon sa ipinangako ng <smallcaps>Panginoon</smallcaps>:Mula
+        sa lahi ni Juda: 6,800 sundalo na may mga dalang sibat at pana.  '
+      comments:
+      - number: '12:22 '
+        content: '<b>: </b>o, <b>hanggang sa dumami ang kanyang mga sundalo katulad
+          ng mga sundalo ng Dios.</b>'
+    - title: 
+      content: 'Mula sa lahi ni Simeon: 7,100 mahuhusay na sundalo.  '
+      comments: []
+    - title: 
+      content: 'Mula sa lahi ni Levi: 4,600 sundalo, '
+      comments: []
+    - title: 
+      content: 'kabilang na si Jehoyada na pinuno ng pamilya ni Aaron at ang kanyang
+        3,700 tauhan, '
+      comments: []
+    - title: 
+      content: 'at si Zadok na isang matapang at kabataang mandirigma at ang 22 opisyal
+        mula sa kanyang pamilya.  '
+      comments: []
+    - title: 
+      content: 'Mula sa lahi ni Benjamin na mga kamag-anak ni Saul: 3,000 sundalo.
+        Karamihan sa lahi ni Benjamin ay nanatiling tapat kay Saul.  '
+      comments: []
+    - title: 
+      content: 'Mula sa lahi ni Efraim: 20,800 matatapang na sundalo at tanyag sa
+        pamilya nila.  '
+      comments: []
+    - title: 
+      content: 'Mula sa kalahating lahi ni Manase: 18,000 sundalo. Ipinadala sila
+        para tumulong sa pagluklok kay David na maging hari.  '
+      comments: []
+    - title: 
+      content: 'Mula sa lahi ni Isacar: 200 pinuno kasama ang mga kamag-anak na pinamamahalaan
+        nila. Sila ang nakakaalam kung ano ang dapat gawin ng Israel at kung kailan
+        ito gagawin.  '
+      comments: []
+    - title: 
+      content: "Mula sa lahi ni Zebulun: 50,000 mahuhusay na sundalo na armado ng
+        iba\u02BCt ibang armas. Handang-handa silang tumulong at mamatay para kay
+        David.  "
+      comments: []
+    - title: 
+      content: 'Mula sa lahi ni Naftali: 1,000 opisyal at 37,000 sundalo na may dalang
+        mga pananggalang at sibat.  '
+      comments: []
+    - title: 
+      content: 'Mula sa lahi ni Dan: 28,600 sundalo na handa sa labanan.  '
+      comments: []
+    - title: 
+      content: 'Mula sa lahi ni Asher: 40,000 mahuhusay na sundalo na handa sa labanan.  '
+      comments: []
+    - title: 
+      content: "At mula sa lahi sa silangan ng Ilog ng Jordan, ang lahi ni Reuben,
+        Gad at kalahating lahi ni Manase: 120,000 sundalo na armado ng iba\u02BCt
+        ibang uri ng armas.  "
+      comments: []
+    - title: 
+      content: 'Silang lahat ang sundalo na nagprisinta sa pakikipaglaban. Pumunta
+        sila sa Hebron at nagkaisa silang gawing hari si David sa buong Israel. Sa
+        katunayan, halos lahat ng Israelita ay gustong maging hari si David. '
+      comments: []
+    - title: 
+      content: 'Nanatili sila roon ng tatlong araw kasama si David na nagsisikain
+        at nag-iinuman dahil pinadalhan sila ng mga kababayan nila ng pagkain. '
+      comments: []
+  - verses:
+    - title: Ang Pagkuha ng Kahon ng Kasunduan(2 Sam. 6:1-11)
+      content: '  Nakipag-usap si David sa kanyang mga opisyal at sa mga kumander
+        ng libu-libo at daan-daang sundalo. '
+      comments: []
+    - title: 
+      content: "Pagkatapos, sinabi niya sa lahat ng Israelitang naroon, \u201CKung
+        gusto ninyo at kung kalooban ng <smallcaps>Panginoon</smallcaps> na ating
+        Dios, magpapadala tayo ng mensahe sa lahat ng kababayan natin sa buong Israel,
+        pati na sa mga pari at mga Levita na kasama nila sa mga bayan at pastulan.
+        Papuntahin natin sila rito para makiisa sa atin. "
+      comments: []
+    - title: 
+      content: "Ito na ang panahon para kunin natin ang Kahon ng ating Dios, dahil
+        hindi natin ito pinahalagahan nang si Saul pa ang hari.\u201D "
+      comments: []
+    - title: 
+      content: 'Pumayag ang buong kapulungan dahil nakita nilang iyon ang tamang
+        gawin.  '
+      comments: []
+    - title: 
+      content: 'Kaya tinipon ni David ang lahat ng mga Israelita, mula sa Ilog ng
+        Shihor sa Egipto hanggang sa Lebo Hamat,[[COMMENT(0)]] para kunin ang Kahon
+        ng Dios sa Kiriat Jearim. '
+      comments:
+      - number: '13:5 '
+        content: '<b>: </b>o, <b>Paakyat ng Hamat.</b><b>: </b>Ito ang Kahon ng Kasunduan.'
+    - title: 
+      content: 'Pumunta si David at lahat ng kasama niyang mga Israelita sa Baala
+        na nasa Juda (na siya ring Kiriat Jearim) para kunin ang Kahon ng <smallcaps>Panginoong</smallcaps>
+        Dios, kung saan siya nananahan.[[COMMENT(0)]] Nananahan ang <smallcaps>Panginoon</smallcaps>
+        sa gitna ng mga kerubin na nasa ibabaw ng Kahon. '
+      comments:
+      - number: '13:6 '
+        content: '<b>: </b>sa literal, <b>saan tinatawag ang kanyang pangalan.</b>'
+    - title: 
+      content: 'Kinuha nila ang Kahon ng Dios sa bahay ni Abinadab at ikinarga sa
+        bagong kariton. Sina Uza at Ahio ang umaalalay sa kariton. '
+      comments: []
+    - title: 
+      content: 'Buong lakas na nagdiwang si David at lahat ng mga Israelita sa presensya
+        ng Dios. Umawit sila at tumugtog ng mga alpa, lira, tamburin, pompyang at
+        trumpeta.  '
+      comments: []
+    - title: 
+      content: 'Nang dumating sila sa giikan ni Kidon,[[COMMENT(0)]] hinawakan ni
+        Uza ang Kahon, dahil nadulas ang mga baka. '
+      comments:
+      - number: '13:9 '
+        content: '<b>: </b>o, <b>Nacon.</b>'
+    - title: 
+      content: 'Nagalit nang matindi ang <smallcaps>Panginoon</smallcaps> kay Uza
+        dahil hinawakan niya ang Kahon. Kaya namatay siya roon sa presensya ng Dios. '
+      comments: []
+    - title: 
+      content: 'Nagalit si David dahil biglang pinarusahan ng <smallcaps>Panginoon</smallcaps>
+        si Uza. Ito ang dahilan kaya hanggang ngayon ang lugar na iyon ay tinatawag
+        na Perez Uza.[[COMMENT(0)]]  '
+      comments:
+      - number: '13:11 '
+        content: '<b>: </b>Ang ibig sabihin, <b>biglang pagparusa kay Uza.</b>'
+    - title: 
+      content: "Nang araw na iyon, natakot si David sa Dios at sinabi niya, \u201CPaano
+        madadala sa lungsod ko ang Kahon ng Dios?\u201D "
+      comments: []
+    - title: 
+      content: 'Kaya nagpasya siyang huwag na lang dalhin ang Kahon sa kanyang lungsod.[[COMMENT(0)]]
+        Sa halip, iniwan niya ito sa bahay ni Obed Edom na taga-Gat. '
+      comments:
+      - number: '13:13 '
+        content: '<b>: </b>sa Hebreo, <b>Lungsod ni David.</b>'
+  - verses:
+    - title: Ang Pamilya ni David(2 Sam. 5:11-16)
+      content: '  Samantala, nagsugo ng mga mensahero si Haring Hiram ng Tyre kay
+        David kasama ng mga karpintero at kantero. Nagpadala rin siya ng mga trosong
+        sedro para maipagpatayo ng palasyo si David. '
+      comments: []
+    - title: 
+      content: 'At dito nalaman ni David na ang <smallcaps>Panginoon</smallcaps>
+        ang nagluklok sa kanya bilang hari at nagpalago ng kaharian niya para sa
+        mga mamamayan niyang Israelita.  '
+      comments: []
+    - title: 
+      content: 'Doon sa Jerusalem, marami pang naging asawa si David, at nadagdagan
+        pa ang mga anak niya. '
+      comments: []
+    - title: 
+      content: 'Ito ang mga anak niya na isinilang doon: Shamua,[[COMMENT(0)]] Shobab,
+        Natan, Solomon, '
+      comments:
+      - number: '14:4 '
+        content: '<b>: </b>o, <b>Shimea.</b>'
+    - title: 
+      content: 'Ibhar, Elishua, Elpelet, '
+      comments: []
+    - title: 
+      content: 'Noga, Nefeg, Jafia, '
+      comments: []
+    - title: Tinalo ni David ang mga Filisteo(2 Sam. 5:17-25)
+      content: 'Elishama, Beeliada,[[COMMENT(0)]] at Elifelet.  '
+      comments:
+      - number: '14:7 '
+        content: '<b>: </b>o, <b>Eliada.</b>'
+    - title: 
+      content: 'Nang mabalitaan ng mga Filisteo na si David ang piniling hari sa
+        buong Israel, tinipon nila ang lahat ng sundalo nila para hulihin siya. Pero
+        nabalitaan iyon ni David, at sinalubong niya sila. '
+      comments: []
+    - title: 
+      content: 'Nang lusubin ng mga Filisteo ang Lambak ng Refaim, '
+      comments: []
+    - title: 
+      content: "nagtanong si David sa Dios, \u201CSasalakayin po ba namin ang mga
+        Filisteo? Matatalo po ba namin sila?\u201D Sumagot ang <smallcaps>Panginoon</smallcaps>,
+        \u201COo, lumakad kayo, dahil matatalo ninyo sila.\u201D "
+      comments: []
+    - title: 
+      content: "Kaya pumunta si David at ang mga tauhan niya sa Baal Perazim, at
+        tinalo nila roon ang mga Filisteo. Sinabi ni David, \u201CNilipol ng Dios
+        ang mga kalaban ko na parang dinaanan ng rumaragasang baha, at ginamit niya
+        ako para lipulin sila.\u201D Kaya tinawag na Baal Perazim[[COMMENT(0)]]<smallcaps>
+        ang lugar na iyon.</smallcaps>  "
+      comments:
+      - number: '14:11 '
+        content: '<b>: </b>Ang ibig sabihin, <b>ang <span class="ChapterContent_nd__ECPAf">Panginoon</span>
+          ang lumusob.</b>'
+    - title: 
+      content: 'Naiwan ng mga Filisteo ang mga dios-diosan nila roon, at nag-utos
+        si David na sunugin ang mga ito.  '
+      comments: []
+    - title: 
+      content: 'Muling nilusob ng mga Filisteo ang Lambak ng Refaim. '
+      comments: []
+    - title: 
+      content: "Kaya muling nagtanong si David sa Dios, at sumagot ang Dios sa kanya,
+        \u201CHuwag n\u02BCyo agad silang salakayin, palibutan n\u02BCyo muna, at
+        saka n\u02BCyo sila salakayin malapit sa puno ng balsamo. "
+      comments: []
+    - title: 
+      content: "Kapag narinig ninyo na parang may nagmamartsang mga sundalo sa itaas
+        ng puno ng balsamo, sumalakay kayo agad dahil iyon ang palatandaan na pinangungunahan
+        ko kayo sa pagsalakay sa mga Filisteo.\u201D "
+      comments: []
+    - title: 
+      content: 'Kaya sinunod ni David ang iniutos sa kanya ng Dios, at pinatay nila
+        ang mga Filisteo mula sa Gibeon hanggang sa Gezer.  '
+      comments: []
+  - verses:
+    - title: Ang Paghahanda sa Pagkuha ng Kahon ng Kasunduan
+      content: '  Nagpatayo si David ng mga gusali sa kanyang lungsod[[COMMENT(0)]]
+        para sa sarili niya. Nagpagawa rin siya ng tolda para sa Kahon ng Dios, at
+        inilagay niya ito nang maayos sa lugar na kanyang inihanda para rito. '
+      comments:
+      - number: '15:1 '
+        content: '<b>: </b>sa Hebreo, <b>Lungsod ni David.</b>'
+    - title: 
+      content: "Pagkatapos, sinabi ni David, \u201CWalang ibang tagabuhat ng Kahon
+        ng Dios maliban sa mga Levita, dahil sila ang pinili ng <smallcaps>Panginoon</smallcaps>
+        na magbuhat ng Kahon ng <smallcaps>Panginoon</smallcaps> at maglingkod sa
+        presensya niya magpakailanman.\u201D "
+      comments: []
+    - title: 
+      content: 'Tinipon ni David ang lahat ng mga Israelita sa Jerusalem na magdadala
+        ng Kahon ng <smallcaps>Panginoon</smallcaps> sa lugar na inihanda niya para
+        rito. '
+      comments: []
+    - title: 
+      content: 'Ipinatawag din niya ang mga pari[[COMMENT(0)]] at mga Levita, na
+        ang mga bilang ay ito:  '
+      comments:
+      - number: '15:4 '
+        content: '<b>: </b>sa literal, <b>mga angkan ni Aaron.</b>'
+    - title: 
+      content: 'Mula sa mga angkan ni Kohat, 120, at pinamumunuan sila ni Uriel.  '
+      comments: []
+    - title: 
+      content: 'Mula sa mga angkan ni Merari, 220, at pinamumunuan sila ni Asaya.  '
+      comments: []
+    - title: 
+      content: 'Mula sa mga angkan ni Gershon,[[COMMENT(0)]] 130, at pinamumunuan
+        sila ni Joel.  '
+      comments:
+      - number: '15:7 '
+        content: '<b>: </b>o, <b>Gershom.</b>'
+    - title: 
+      content: 'Mula sa angkan ni Elizafan, 200, at pinamumunuan sila ni Shemaya.  '
+      comments: []
+    - title: 
+      content: 'Mula sa mga angkan ni Hebron, 80, at pinamumunuan sila ni Eliel.  '
+      comments: []
+    - title: 
+      content: 'Mula sa mga angkan ni Uziel, 112, at pinamumunuan sila ni Aminadab.  '
+      comments: []
+    - title: 
+      content: 'Pagkatapos, ipinatawag ni David ang mga paring sina Zadok at Abiatar
+        at ang mga Levitang sina Uriel, Asaya, Joel, Shemaya, Eliel at Aminadab. '
+      comments: []
+    - title: 
+      content: "Sinabi niya sa kanila, \u201CKayo ang mga pinuno ng mga pamilyang
+        Levita. Linisin n\u02BCyo ang inyong mga sarili[[COMMENT(0)]] at ganoon din
+        ang mga kapwa n\u02BCyo Levita, para madala ninyo ang Kahon ng <smallcaps>Panginoon</smallcaps>,
+        ang Dios ng Israel, sa lugar na inihanda ko para rito. "
+      comments:
+      - number: '15:12 '
+        content: "<b>: </b>Ang ibig sabihin, <b>sundin n\u02BCyo ang seremonya ng
+          paglilinis. </b>Ganito rin sa talatang 14."
+    - title: 
+      content: "Dahil noong una hindi kayo ang nagdala ng Kahon ng Kasunduan. Pinarusahan
+        tayo ng <smallcaps>Panginoon</smallcaps> na ating Dios dahil hindi tayo nagtanong
+        sa kanya kung paano ito dadalhin sa tamang paraan.\u201D  "
+      comments: []
+    - title: 
+      content: 'Kaya nilinis ng mga pari at mga Levita ang kanilang sarili para madala
+        nila ang Kahon ng <smallcaps>Panginoon</smallcaps>, ang Dios ng Israel. '
+      comments: []
+    - title: 
+      content: 'Pinagtulungang pasanin ng mga Levita ang Kahon ng Dios sa pamamagitan
+        ng tukod, ayon sa iniutos ng <smallcaps>Panginoon</smallcaps> kay Moises.  '
+      comments: []
+    - title: 
+      content: 'Inutusan ni David ang mga pinuno ng mga Levita na pumili ng mang-aawit
+        mula sa kapwa nila Levita, sa pag-awit ng masasayang awitin na tinugtugan
+        ng mga lira, alpa at pompyang. '
+      comments: []
+    - title: 
+      content: 'Kaya pinili ng mga Levita si Heman na anak ni Joel, si Asaf na anak
+        ni Berekia, at si Etan na anak ni Kusaya na mula sa angkan ni Merari. '
+      comments: []
+    - title: 
+      content: 'Ang piniling tutulong sa kanila ay ang mga kamag-anak nilang sina
+        Zacarias, Jaaziel, Shemiramot, Jehiel, Uni, Eliab, Benaya, Maaseya, Matitia,
+        Elifelehu, Mikneya, at ang mga guwardya ng pintuan ng Tolda na sina Obed
+        Edom at Jeyel. '
+      comments: []
+    - title: 
+      content: 'Ang pinagkatiwalaang tumugtog ng mga tansong pompyang ay sina Heman,
+        Asaf at Etan. '
+      comments: []
+    - title: 
+      content: 'Ang pinagkatiwalaang tumugtog ng mga lira sa mataas na tono ay sina
+        Zacarias, Aziel, Shemiramot, Jehiel, Uni, Eliab, Maaseya at Benaya. '
+      comments: []
+    - title: 
+      content: 'Ang pinagkatiwalaang tumugtog ng mga alpa sa mababang tono ay sina
+        Matitia, Elifelehu, Mikneya, Obed Edom, Jeyel at Azazia. '
+      comments: []
+    - title: 
+      content: 'Ang pinagkatiwalaang manguna sa pag-awit ay ang pinuno ng mga Levita
+        na si Kenania, dahil mahusay siyang umawit. '
+      comments: []
+    - title: 
+      content: 'Ang pinagkatiwalaang magbantay ng Kahon ng Kasunduan ay sina Berekia
+        at Elkana. '
+      comments: []
+    - title: Dinala ang Kahon ng Kasunduan sa Jerusalem(2 Sam. 6:12-22)
+      content: 'Ang pinagkatiwalaang magpatunog ng trumpeta sa harapan ng Kahon ng
+        Dios ay ang mga pari na sina Shebania, Joshafat, Netanel, Amasai, Zacarias,
+        Benaya at Eliezer. Sina Obed Edom at Jehia ay mga tagapagbantay din sa Kahon
+        ng Kasunduan.  '
+      comments: []
+    - title: 
+      content: 'Kaya masayang pumunta si David, ang mga tagapamahala ng Israel, at
+        ang mga pinuno ng libu-libong sundalo sa bahay ni Obed Edom para kunin ang
+        Kahon ng Kasunduan ng <smallcaps>Panginoon</smallcaps>. '
+      comments: []
+    - title: 
+      content: 'At dahil tinulungan ng Dios ang mga Levita nang dalhin nila ang Kahon
+        ng Kasunduan ng <smallcaps>Panginoon</smallcaps>, naghandog sila ng pitong
+        batang toro at pitong tupa. '
+      comments: []
+    - title: 
+      content: 'Nagsuot si David ng damit na gawa sa telang linen pati ang lahat
+        ng Levitang bumubuhat ng Kahon ng Kasunduan, ang mga mang-aawit, at si Kenania
+        na siyang pinagkatiwalaang manguna sa pag-awit. Nagsuot din si David ng espesyal
+        na damit[[COMMENT(0)]] na gawa sa telang linen. '
+      comments:
+      - number: '15:27 '
+        content: "<b>: </b>sa Hebreo, <b>\u201Cefod.\u201D</b>"
+    - title: 
+      content: 'At dinala ng lahat ng mga Israelita ang Kahon ng Kasunduan ng <smallcaps>Panginoon</smallcaps>
+        nang may kagalakan. Pinatunog nila ang mga tambuli, trumpeta at pompyang;
+        at pinatugtog ang mga lira at mga alpa.  '
+      comments: []
+  - verses:
+    - title: 
+      content: '  Inilagay nila ang Kahon ng Dios sa loob ng toldang itinayo ni David
+        para rito. Pagkatapos, nag-alay sila sa <smallcaps>Panginoon</smallcaps>
+        ng mga handog na sinusunog at mga handog para sa mabuting relasyon.[[COMMENT(0)]]  '
+      comments:
+      - number: '16:1 '
+        content: '<b>: </b>Tingnan sa Talaan ng mga Salita sa likod.'
+    - title: 
+      content: 'Pagkatapos nilang maghandog nina David, binasbasan niya ang mga tao
+        sa pangalan ng <smallcaps>Panginoon</smallcaps>. '
+      comments: []
+    - title: 
+      content: 'Binigyan niya ng tinapay, karne,[[COMMENT(0)]] at pasas ang bawat
+        isang Israelita, lalaki man o babae.  '
+      comments:
+      - number: '16:3 '
+        content: '<b>: </b>Ito ang nasa tekstong Syriac. Sa Hebreo, hindi malinaw
+          ang ibig sabihin nito.'
+    - title: 
+      content: 'Pumili si David ng mga Levita na maglilingkod sa harap ng Kahon ng
+        <smallcaps>Panginoon</smallcaps> para manalangin, magpasalamat at magpuri
+        sa <smallcaps>Panginoon</smallcaps>, ang Dios ng Israel. '
+      comments: []
+    - title: 
+      content: 'Si Asaf ang nanguna sa kanila at siya ang nagpapatunog ng mga pompyang.
+        Sumunod sa kanya ay sina Zacarias, Jeyel, Shemiramot, Jehiel, Matitia, Eliab,
+        Benaya, Obed Edom at Jeyel. Sila ang mga tagatugtog ng lira at alpa. '
+      comments: []
+    - title: Ang Awit ng Pasasalamat ni David(Salmo 105:1-15; 96:1-13; 106:1, 47-48)
+      content: 'Ang mga pari na sina Benaya at Jahaziel ang palaging nagpapatunog
+        ng mga trumpeta sa harapan ng Kahon ng Kasunduan ng Dios.  '
+      comments: []
+    - title: 
+      content: 'Nang araw na iyon, sa unang pagkakataon ay ibinigay ni David kay
+        Asaf at sa mga kapwa niya Levita ang awit na ito ng pasasalamat sa <smallcaps>Panginoon</smallcaps>:  '
+      comments: []
+    - title: 
+      content: "Pasalamatan n\u02BCyo ang <smallcaps>Panginoon</smallcaps>. Sambahin
+        n\u02BCyo siya!Ihayag sa mga tao ang kanyang mga ginawa.  "
+      comments: []
+    - title: 
+      content: "Awitan n\u02BCyo siya ng mga papuri;ihayag ang lahat ng kamangha-mangha
+        niyang mga gawa.  "
+      comments: []
+    - title: 
+      content: "Purihin n\u02BCyo ang kanyang banal na pangalan.Magalak kayo, kayong
+        mga lumalapit sa <smallcaps>Panginoon</smallcaps>.  "
+      comments: []
+    - title: 
+      content: 'Magtiwala kayo sa <smallcaps>Panginoon</smallcaps>,at sa kanyang
+        kalakasan.Palagi kayong dumulog sa kanya.  Kayong mga pinili ng Dios na mga
+        lahi ni Jacob na lingkod ng Dios, alalahanin ninyo ang kahanga-hanga niyang
+        mga gawa, mga himala, at ang kanyang mga paghatol.  '
+      comments: []
+    - title: 
+      content: 'Siya ang <smallcaps>Panginoon</smallcaps> na ating Dios,at siya ang
+        namamahala sa buong mundo.  '
+      comments: []
+    - title: 
+      content: 'Hindi niya kinakalimutan ang kanyang kasunduan at pangako sa libu-libong
+        henerasyon.  '
+      comments: []
+    - title: 
+      content: 'Ang kasunduang ito ay ginawa niya kay Abraham,at ipinangako niya
+        kay Isaac.  '
+      comments: []
+    - title: 
+      content: 'Ipinagpatuloy niya ang kasunduang ito kay Jacob,[[COMMENT(0)]]at
+        magpapatuloy ito magpakailanman.  '
+      comments:
+      - number: '16:17 '
+        content: '<b>: </b>sa literal, <b>Israel.</b>'
+    - title: 
+      content: "Sinabi niya sa bawat isa sa kanila,\u201CIbibigay ko sa inyo ang
+        lupain ng Canaan,ipamamana ko ito sa inyo at sa inyong mga angkan.\u201D[[COMMENT(0)]]  "
+      comments:
+      - number: '16:18 '
+        content: '<b>: </b>sa Hebreo, <b>mana ninyo.</b>'
+    - title: 
+      content: 'Noon iilan pa lang ang mga mamamayan ng Dios,at mga dayuhan pa lang
+        sila sa lupain ng Canaan.  '
+      comments: []
+    - title: 
+      content: 'Nagpalipat-lipat sila sa mga bansa at mga kaharian.  '
+      comments: []
+    - title: 
+      content: 'Ngunit hindi pinahintulutan ng Dios na apihin sila.Para maproteksyunan
+        sila, sinaway niya ang mga hari na kumakalaban sa kanila.  '
+      comments: []
+    - title: 
+      content: "  Sinabi niya,\u201CHuwag ninyong galawin ang hinirang kong mga lingkod,huwag
+        ninyong saktan ang aking mga propeta.\u201D  "
+      comments: []
+    - title: 
+      content: 'Kayong mga tao sa buong mundo, umawit kayo sa <smallcaps>Panginoon</smallcaps>.Ipahayag
+        ninyo sa bawat araw ang tungkol sa pagliligtas niya sa atin.  '
+      comments: []
+    - title: 
+      content: 'Ipahayag ninyo sa lahat ng tao sa mga bansa ang kanyang kapangyarihan
+        at kahanga-hangang mga gawa.  '
+      comments: []
+    - title: 
+      content: 'Dahil dakila ang <smallcaps>Panginoon</smallcaps> at karapat-dapat
+        papurihan.Dapat siyang katakutan ng higit kaysa sa lahat ng mga dios,  '
+      comments: []
+    - title: 
+      content: 'dahil ang lahat ng dios ng ibang mga bansa ay ginawa lang nila para
+        sambahin,ngunit ang <smallcaps>Panginoon</smallcaps> ang lumikha ng langit.  '
+      comments: []
+    - title: 
+      content: 'Nasa kanya ang kaluwalhatian at karangalan;ang kalakasan at kagalakan
+        ay nasa kanyang tahanan.  '
+      comments: []
+    - title: 
+      content: 'Purihin ninyo ang <smallcaps>Panginoon</smallcaps>,kayong lahat ng
+        tao sa mundo.Purihin ninyo ang kanyang kaluwalhatian at kapangyarihan.  '
+      comments: []
+    - title: 
+      content: 'Ibigay ninyo sa <smallcaps>Panginoon</smallcaps> ang mga papuring
+        nararapat sa kanya.Magdala kayo ng mga handog at pumunta sa kanyang presensya.Sambahin
+        ninyo ang <smallcaps>Panginoon</smallcaps> sa kagandahan ng kanyang kabanalan.  '
+      comments: []
+    - title: 
+      content: 'Matakot kayo sa kanya, kayong lahat ng nasa sanlibutan.Matatag niyang
+        itinayo ang mundo at hindi ito mauuga.  '
+      comments: []
+    - title: 
+      content: "Magalak ang buong kalangitan at mundo;ipahayag sa mga bansa, \u201CNaghahari
+        ang <smallcaps>Panginoon</smallcaps>.\u201D  "
+      comments: []
+    - title: 
+      content: 'Magalak din ang mga karagatan, bukirin at ang lahat ng nasa kanila.  '
+      comments: []
+    - title: 
+      content: 'At ang mga puno sa gubat ay aawit sa tuwa sa presensya ng <smallcaps>Panginoon</smallcaps>.Dahil
+        darating siya upang hatulan ang mga tao sa mundo.  '
+      comments: []
+    - title: 
+      content: "Magpasalamat kayo sa <smallcaps>Panginoon</smallcaps> dahil siya\u02BCy
+        mabuti;ang kanyang pag-ibig ay walang hanggan.  "
+      comments: []
+    - title: 
+      content: "Manalangin kayo, \u201CIligtas n\u02BCyo kami, O Dios na aming Tagapagligtas;palayain
+        n\u02BCyo po kami sa mga bansa at muli kaming tipunin sa aming lupain,upang
+        makapagpasalamat at makapagbigay kami ng papuri sa inyong kabanalan.\u201D[[COMMENT(0)]]  "
+      comments:
+      - number: '16:35 '
+        content: '<b>: </b>sa literal, <b>banal na pangalan.</b>'
+    - title: 
+      content: "Purihin ang <smallcaps>Panginoon</smallcaps>, ang Dios ng Israel,
+        magpakailanman.At ang lahat ay magsabing, \u201CAmen!\u201D Purihin ninyo
+        ang <smallcaps>Panginoon</smallcaps>!  "
+      comments: []
+    - title: 
+      content: 'Ipinagkatiwala ni David kay Asaf at sa kapwa nito Levita ang palaging
+        paglilingkod sa harap ng Kahon ng Kasunduan ng <smallcaps>Panginoon</smallcaps>,
+        ayon sa kailangang gawin sa bawat araw. '
+      comments: []
+    - title: 
+      content: 'Kabilang sa grupong ito ay si Obed Edom na anak ni Jedutun, si Hosa,
+        at ang 68 pang Levita, na mga guwardya ng Tolda.  '
+      comments: []
+    - title: 
+      content: 'Ipinagkatiwala ni David sa pari na si Zadok at sa kanyang mga kapwa
+        pari ang Tolda ng <smallcaps>Panginoon</smallcaps> doon sa mataas na lugar
+        sa Gibeon. '
+      comments: []
+    - title: 
+      content: 'Sila ang palaging nag-aalay ng mga handog na sinusunog sa altar,
+        araw at gabi, ayon sa lahat ng nakasulat sa Kautusan ng <smallcaps>Panginoon</smallcaps>
+        na ibinigay niya sa Israel. '
+      comments: []
+    - title: 
+      content: 'Kasama rin nila sina Heman, Jedutun, at ang iba pang mga pinili sa
+        pag-awit ng pagpapasalamat sa <smallcaps>Panginoon</smallcaps> dahil sa pag-ibig
+        niyang walang hanggan. '
+      comments: []
+    - title: 
+      content: 'Tungkulin nina Heman at Jedutun ang pagpapatunog ng mga trumpeta,
+        pompyang at ng iba pang mga instrumento na ginagamit sa pag-awit ng mga awitin
+        para sa <smallcaps>Panginoon</smallcaps>. Ang mga anak ni Jedutun ang pinagkatiwalaan
+        na magbantay sa pintuan.  '
+      comments: []
+  - verses:
+    - title: Ang Pangako ng Dios kay David(2 Sam. 7:1-17)
+      content: "  Nang nakatira na si David sa kanyang palasyo, sinabi niya kay Natan
+        na propeta. \u201CNarito ako, nakatira sa magandang palasyo na gawa sa kahoy
+        na sedro, pero ang Kahon ng <smallcaps>Panginoon</smallcaps> ay nasa tolda
+        lang.\u201D "
+      comments: []
+    - title: 
+      content: "Sumagot si Natan kay David, \u201CGawin mo ang gusto mong gawin dahil
+        ang <smallcaps>Panginoon</smallcaps> ay sumasaiyo.\u201D  "
+      comments: []
+    - title: 
+      content: 'Pero nang gabing iyon sinabi ng Dios kay Natan, '
+      comments: []
+    - title: 
+      content: "\u201CLumakad ka, at sabihin mo sa lingkod kong si David na ito ang
+        sinabi ko: \u2018Hindi ikaw ang magpapatayo ng templo na aking titirhan. "
+      comments: []
+    - title: 
+      content: 'Hindi pa ako nakakatira sa templo mula noong inilabas ko ang mga
+        Israelita sa Egipto hanggang ngayon. Palipat-lipat ang tinitirhan kong tolda. '
+      comments: []
+    - title: 
+      content: "Sa aking paglipat-lipat kasama ng mga mamamayan kong Israelita, hindi
+        ako nagreklamo sa mga pinunong inutusan kong mag-alaga sa kanila, kung bakit
+        hindi nila ako ipinagpapatayo ng templong gawa sa kahoy na sedro.\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CSabihin mo pa kay David na ako, ang <smallcaps>Panginoong</smallcaps>
+        Makapangyarihan, ay nagsasabi, \u2018Tagapagbantay ka noon ng mga tupa, pero
+        pinili kita para mamuno sa mga mamamayan kong Israelita. "
+      comments: []
+    - title: 
+      content: 'Sinasamahan kita kahit saan ka magpunta, at nilipol ko ang lahat
+        ng mga kalaban mo. Ngayon, gagawin kitang tanyag katulad ng ibang mga tanyag
+        na tao sa mundo. '
+      comments: []
+    - title: 
+      content: 'Binigyan ko ng sariling lupain ang mga mamamayan kong Israelita,
+        para may sarili silang tirahan at wala nang gagambala sa kanila. Hindi na
+        sila aapihin ng masasamang tao gaya nang dati, '
+      comments: []
+    - title: 
+      content: 'mula nang maglagay ako ng mga pinuno sa mga mamamayan kong Israelita.
+        Tatalunin ko rin ang lahat ng kalaban mo. Ako, ang <smallcaps>Panginoon</smallcaps>,
+        ay nagsasabi sa iyo na patuloy na manggagaling sa iyong angkan ang magiging
+        hari ng Israel. '
+      comments: []
+    - title: 
+      content: 'Kapag namatay ka na at ilibing kasama ng mga ninuno mo, ipapalit
+        ko sa iyo ang isa sa mga anak mo, at patatagin ko ang kaharian niya. '
+      comments: []
+    - title: 
+      content: 'Siya ang magpapatayo ng templo para sa akin, at titiyakin ko na ang
+        kanyang angkan ang maghahari magpakailanman. '
+      comments: []
+    - title: 
+      content: 'Kikilalanin niya akong ama at kikilalanin ko siyang anak. Mananatili
+        ang pag-ibig ko sa kanya hindi gaya ng ginawa ko kay Saul na pinalitan mong
+        hari. '
+      comments: []
+    - title: 
+      content: "Pamamahalain ko siya sa aking mga mamamayan at kaharian, at ang kanyang
+        angkan ang maghahari magpakailanman.\u2019\u2009\u201D  "
+      comments: []
+    - title: Ang Panalangin ni David(2 Sam. 7:18-29)
+      content: 'Isinalaysay ni Natan kay David ang lahat ng ipinahayag ng Dios sa
+        kanya.  '
+      comments: []
+    - title: 
+      content: "Pagkatapos, pumasok si Haring David sa tolda kung saan naroon ang
+        Kahon ng Kasunduan. Umupo siya roon sa presensya ng <smallcaps>Panginoon</smallcaps>
+        at nanalangin, \u201C<smallcaps>Panginoong</smallcaps> Dios, sino po ba ako
+        at ang sambahayan ko para pagpalain n\u02BCyo nang ganito? "
+      comments: []
+    - title: 
+      content: "Ngayon, O Dios, may pangako pa kayo tungkol sa kinabukasan ng sambahayan
+        ko. Itinuring n\u02BCyo ako na parang pinakadakilang tao. O <smallcaps>Panginoong</smallcaps>
+        Dios, "
+      comments: []
+    - title: 
+      content: "ano pa po ba ang masasabi ko sa pagpaparangal ninyo sa akin? Sapagkat
+        nakikilala n\u02BCyo kung sino talaga ako na inyong lingkod. "
+      comments: []
+    - title: 
+      content: "O <smallcaps>Panginoon</smallcaps>, dahil po sa akin na inyong lingkod
+        at ayon na rin sa inyong kalooban, ginawa n\u02BCyo ang mga dakilang bagay
+        na ito at inihayag ito sa akin. "
+      comments: []
+    - title: 
+      content: '<smallcaps>Panginoon</smallcaps>, wala po kayong katulad. Walang
+        ibang Dios maliban sa inyo at wala rin kaming ibang alam na dios na gaya
+        ninyo. '
+      comments: []
+    - title: 
+      content: "At wala ring ibang tao na tulad ng inyong mga mamamayang Israelita.
+        Ang bansang ito lamang sa mundo ang inyong pinalaya mula sa pagkaalipin para
+        maging mamamayan ninyo. Naging tanyag ang pangalan n\u02BCyo dahil sa kadakilaan
+        at kamangha-manghang ginawa n\u02BCyo nang itinaboy n\u02BCyo ang mga bansa
+        sa pamamagitan ng inyong mga mamamayan na inilabas n\u02BCyo sa Egipto. "
+      comments: []
+    - title: 
+      content: "Ginawa n\u02BCyong sariling mamamayan ang mga Israelita magpakailanman,
+        at kayo, <smallcaps>Panginoon</smallcaps>, ang kanilang naging Dios.  \u201CAt
+        ngayon, <smallcaps>Panginoon</smallcaps>, tuparin po ninyo ang ipinangako
+        n\u02BCyo sa akin na inyong lingkod at sa aking pamilya, para maging tanyag
+        kayo magpakailanman. At sasabihin ng mga tao, \u2018Ang <smallcaps>Panginoong</smallcaps>
+        Makapangyarihan ang Dios ng Israel!\u2019 At ang pamilya ko\u02BCy magpapatuloy
+        sa paglilingkod sa inyong presensya magpakailanman. "
+      comments: []
+    - title: 
+      content: 'Malakas po ang loob ko na manalangin sa inyo nang ganito aking Dios,
+        dahil ipinahayag ninyo sa akin na inyong lingkod na magpapatuloy ang aking
+        paghahari sa pamamagitan ng aking angkan.  '
+      comments: []
+    - title: 
+      content: "\u201C<smallcaps>Panginoon</smallcaps>, tunay ngang kayo ang Dios!
+        Ipinangako n\u02BCyo po sa inyong lingkod ang mga magagandang bagay na ito. "
+      comments: []
+  - verses:
+    - title: Ang Mga Pagtatagumpay ni David(2 Sam. 8:1-18)
+      content: '  Kinalaunan, natalo at sinakop ni David ang mga Filisteo. Inagaw
+        niya sa kanila ang Gat at ang mga baryo sa paligid nito. '
+      comments: []
+    - title: 
+      content: 'Natalo rin ni David ang mga Moabita, at sinakop niya sila at nagbayad
+        sila ng buwis sa kanya. '
+      comments: []
+    - title: 
+      content: 'Nakipaglaban din si David kay Haring Hadadezer ng Zoba, hanggang
+        doon sa Hamat, noong naglakbay si Hadadezer sa pagsakop sa mga lupaing malapit
+        sa Ilog ng Eufrates. '
+      comments: []
+    - title: 
+      content: 'Naagaw nina David ang 1,000 niyang karwahe, 7,000 mangangarwahe,
+        at 20,000 sundalo. Pinilayan nina David ang mga kabayo na humihila ng mga
+        karwahe maliban lang sa 100 na itinira nila para gamitin. '
+      comments: []
+    - title: 
+      content: 'Nang dumating ang mga Arameo[[COMMENT(0)]] mula sa Damascus para
+        tulungan si Hadadezer, pinatay nila David ang 22,000 sa mga ito. '
+      comments:
+      - number: '18:5 '
+        content: '<b>: </b>o, <b>taga-Syria.</b>'
+    - title: 
+      content: 'Nagpatayo agad si David ng mga kampo sa Damascus, ang lugar ng mga
+        Arameo. At naging sakop niya ang mga ito, at nagbayad sila ng buwis sa kanya.
+        Pinagtagumpay ng <smallcaps>Panginoon</smallcaps> si David kahit saang labanan
+        siya magpunta. '
+      comments: []
+    - title: 
+      content: 'Kinuha ni David ang mga gintong kalasag ng mga opisyal ni Hadadezer,
+        at dinala ang mga ito sa Jerusalem. '
+      comments: []
+    - title: 
+      content: 'Kinuha rin niya ang maraming tanso sa Teba[[COMMENT(0)]] at Cun,
+        mga bayang sakop ni Hadadezer. Kinalaunan, ang mga tansong ito ang ginamit
+        ni Solomon sa pagpapagawa ng malaking sisidlan ng tubig na parang kawa na
+        tinatawag na Dagat, mga haligi, at ng mga kagamitang tanso para gamitin sa
+        templo.  '
+      comments:
+      - number: '18:8 '
+        content: '<b>: </b>o, <b>Tiblat.</b>'
+    - title: 
+      content: 'Nang mabalitaan ni Haring Tou,[[COMMENT(0)]] ng Hamat na tinalo ni
+        David ang buong sundalo ni Haring Hadadezer ng Zoba, '
+      comments:
+      - number: '18:9 '
+        content: '<b>: </b>o, <b>Toi.</b>'
+    - title: 
+      content: 'pinapunta niya ang anak niyang si Hadoram[[COMMENT(0)]] kay Haring
+        David para kamustahin at batiin sa pagkakapanalo niya kay Hadadezer. (Noon
+        pa man ay magkalaban na sina Tou at Hadadezer.) Nagdala si Hadoram ng mga
+        regalong gawa sa ginto, pilak, at tanso. '
+      comments:
+      - number: '18:10 '
+        content: '<b>: </b>o, <b>Joram.</b>'
+    - title: 
+      content: "Inihandog ito ni Haring David sa <smallcaps>Panginoon</smallcaps>,
+        gaya ng ginawa niya sa mga pilak at ginto na naagaw niya mula sa mga sumusunod
+        na bansa\u2009\u2013\u2009ang Edom, Moab, Ammon, Filistia at Amalek.  "
+      comments: []
+    - title: 
+      content: 'Si Abishai na anak ni Zeruya ay nakapatay ng 18,000 Edomita sa Lambak
+        ng Asin. '
+      comments: []
+    - title: Ang mga Opisyal ni David
+      content: 'Naglagay si David ng mga kampo sa Edom at naging sakop niya ang lahat
+        ng Edomita. Pinagtagumpay ng <smallcaps>Panginoon</smallcaps> si David saan
+        man siya pumunta para makipaglaban.  '
+      comments: []
+    - title: 
+      content: 'Naghari si David sa buong Israel, na gumagawa ng matuwid at tama
+        para sa lahat ng mamamayan niya. '
+      comments: []
+    - title: 
+      content: 'Si Joab na anak ni Zeruya ang namumuno sa mga sundalo niya. Si Jehoshafat
+        na anak ni Ahilud ang namamahala ng mga kasulatan ng kaharian. '
+      comments: []
+    - title: 
+      content: 'Sina Zadok na anak ni Ahitub at si Ahimelec[[COMMENT(0)]] na anak
+        ni Abiatar ang mga pari. Ang kalihim ay si Shavsa.  '
+      comments:
+      - number: '18:16 '
+        content: '<b>: </b>Ganito sa mga tekstong Syriac at sa Latin Vulgate, pero
+          sa ibang mga tekstong Hebreo, <b>Abimelec.</b><b>: </b>o, <b>Seraya.</b>'
+  - verses:
+    - title: Ang Digmaan laban sa mga Ammonita at Arameo(2 Sam. 10:1-19)
+      content: '  Makalipas ang ilang panahon, namatay si Nahash, na hari ng mga
+        Ammonita. At ang anak niya na si Hanun ang pumalit sa kanya bilang hari. '
+      comments: []
+    - title: 
+      content: "Sinabi ni David, \u201CPakikitaan ko ng kabutihan si Hanun dahil
+        naging mabuti ang ama niya sa akin.\u201D Kaya nagpadala si David ng mga
+        opisyal para ipakita ang pakikiramay niya kay Hanun sa pagkamatay ng ama
+        nito.Pero pagdating ng mga opisyal ni David sa lupain ng mga Ammonita, "
+      comments: []
+    - title: 
+      content: "sinabi ng mga opisyal ng mga Ammonita sa kanilang hari, \u201CIniisip
+        n\u02BCyo ba na pinaparangalan ni David ang inyong ama sa pamamagitan ng
+        pagpapadala ng mga tauhan para makiramay sa kalungkutan ninyo? Hindi! Ipinadala
+        niya ang mga taong iyan para magmanman sa lupain natin at wasakin ito.\u201D "
+      comments: []
+    - title: 
+      content: 'Kaya ipinadakip ni Hanun ang mga tauhan ni David, inahit ang balbas
+        nila at ginupit ang kanilang mga damit mula baywang pababa at pagkatapos
+        ay pinauwi sila.  '
+      comments: []
+    - title: 
+      content: 'Sa ganoong kalagayan, nahihiya silang umuwi dahil sa kanilang itsura.
+        At nang mabalitaan ni David ang nangyari, nagsugo siya ng mga mensahero para
+        sabihin sa mga opisyal niya na manatili muna sila sa Jerico hanggang sa tumubo
+        na ang mga balbas nila. Pagkatapos, maaari na silang umuwi.  '
+      comments: []
+    - title: 
+      content: 'Napag-isip-isip ng mga Ammonita na ginalit nila si David. Kaya nagbayad
+        sila ng 35 toneladang pilak para umupa ng mga karwahe at mga mangangarwahe
+        mula sa Aram Naharaim,[[COMMENT(0)]] Aram Maaca at Zoba.  '
+      comments:
+      - number: '19:6 '
+        content: '<b>: </b>Isang lugar sa Mesopotamia.'
+    - title: 
+      content: 'Ang bilang ng mga karwahe at mga mangangarwahe ay 32,000. Sumama
+        rin sa kanila ang hari ng Maaca at ang mga sundalo nito. Nagkampo sila malapit
+        sa Medeba. At naghanda rin ang mga Ammonita at lumabas sa bayan nila para
+        makipaglaban. '
+      comments: []
+    - title: 
+      content: 'Nang mabalitaan ito ni David, isinugo niya si Joab at ang lahat ng
+        matatapang na sundalo sa pakikipaglaban. '
+      comments: []
+    - title: 
+      content: 'Pumwesto ang mga Ammonita sa pakikipaglaban sa may pintuan ng kanilang
+        lungsod, habang ang mga hari na sumama sa kanila ay pumwesto sa kapatagan.  '
+      comments: []
+    - title: 
+      content: 'Nang makita ni Joab na may mga kalaban sa harap nila at likuran,
+        pumili siya ng pinakamahuhusay na sundalo ng Israel, at pinamunuan niya ang
+        mga ito sa pakikipaglaban sa mga Arameo. '
+      comments: []
+    - title: 
+      content: 'Si Abishai naman na kanyang kapatid ang pinamuno niya sa mga natitirang
+        sundalo sa pakikipaglaban sa mga Ammonita. '
+      comments: []
+    - title: 
+      content: "Sinabi ni Joab kay Abishai, \u201CKung makikita mo na parang matatalo
+        kami ng mga Arameo, tulungan ninyo kami, pero kung kayo naman ang parang
+        matatalo ng mga Ammonita, tutulungan namin kayo. "
+      comments: []
+    - title: 
+      content: "Magpakatatag tayo at buong tapang na makipaglaban para sa ating mga
+        mamamayan at mga lungsod ng ating Dios. Gagawin ng <smallcaps>Panginoon</smallcaps>
+        kung ano ang mabuti para sa kanya.\u201D  "
+      comments: []
+    - title: 
+      content: 'Sumalakay sina Joab at ang mga tauhan niya sa mga Arameo, at nagsitakas
+        ang mga Arameo sa kanila. '
+      comments: []
+    - title: 
+      content: 'Nang makita ng mga Ammonita na tumatakas ang mga Arameo, tumakas
+        din sila palayo kay Abishai na kapatid ni Joab, at pumasok sa lungsod nila.
+        Kaya umuwi sina Joab sa Jerusalem.  '
+      comments: []
+    - title: 
+      content: 'Nang mapansin ng mga Arameo na natatalo sila ng mga Israelita, nagsugo
+        sila ng mga mensahero sa mga kasama nilang mga Arameo na nasa kabilang Ilog
+        ng Eufrates para tulungan sila. Ang grupong ito ay pinamumunuan ni Shofac[[COMMENT(0)]]
+        na kumander ng mga sundalo ni Hadadezer.  '
+      comments:
+      - number: '19:16 '
+        content: '<b>: </b>o, <b>Shobac.</b>'
+    - title: 
+      content: 'Nang malaman ito ni David, tinipon niya ang lahat ng sundalo ng Israel
+        sa pakikipaglaban. Pagkatapos, tumawid sila sa Ilog ng Jordan at pumwesto
+        na nakaharap sa mga Arameo, at naglaban sila. '
+      comments: []
+    - title: 
+      content: 'Pero nagsitakas ang mga Arameo sa mga Israelita. Nakapatay sina David
+        ng 7,000 mangangarwahe at 40,000 sundalo na lumalakad lang. Napatay din nila
+        si Shofac, ang kumander ng mga sundalo. '
+      comments: []
+  - verses:
+    - title: Inagaw ni David ang Rabba(2 Sam. 12:26-31)
+      content: '  Nang panahong pumupunta ang mga hari sa digmaan para makipaglaban,
+        hindi sumama si David at nagpaiwan siya sa Jerusalem. Si Joab ang nanguna
+        sa mga sundalo sa pakikipaglaban. Winasak nila ang lupain ng mga Ammonita
+        at pinalibutan ang Rabba hanggang sa malipol ito. '
+      comments: []
+    - title: 
+      content: 'Pumunta si David sa Rabba at kinuha ang gintong korona sa ulo ng
+        hari ng mga Ammonita,[[COMMENT(0)]] at inilagay niya ito sa kanyang ulo.
+        Ang bigat ng korona na may mamahaling bato ay 35 kilo. Marami pang bagay
+        ang nasamsam ni David sa lungsod na iyon. '
+      comments:
+      - number: '20:2 '
+        content: '<b>: </b>o, <b>Milcom. </b>Si Milcom ay dios ng mga Ammonita.'
+    - title: Ang Digmaan Laban sa mga Filisteo(2 Sam. 21:15-22)
+      content: 'Ginawa niyang alipin ang mga mamamayan doon at pinagtrabaho, gamit
+        ang lagare, piko, at palakol. Ito ang ginawa ni David sa mga naninirahan
+        sa lahat ng bayan ng mga Ammonita. Pagkatapos, umuwi si David at ang lahat
+        ng sundalo niya sa Jerusalem.  '
+      comments: []
+    - title: 
+      content: 'Makalipas ang ilang panahon, muling naglaban ang mga Filisteo at
+        mga Israelita, nangyari ito sa Gezer. Sa labanang ito, pinatay ni Sibecai
+        na taga-Husha si Sipai,[[COMMENT(0)]] na isa sa mga angkan ng Rafa. At natalo
+        ang mga Filisteo. '
+      comments:
+      - number: '20:4 '
+        content: '<b>: </b>o, <b>Saf.</b><b>: </b>o, <b>Refaimeo. </b>Maaaring ang
+          matatangkad na tao na naninirahan sa Canaan bago dumating ang mga Israelita.
+          Tingnan sa Deu. 2:10-11.'
+    - title: 
+      content: 'Sa isa pa nilang labanan, pinatay ni Elhanan na anak ni Jair si Lami
+        na kapatid ni Goliat na taga-Gat. Ang sibat ni Lami ay makapal at mabigat.[[COMMENT(0)]]  '
+      comments:
+      - number: '20:5 '
+        content: "<b>: </b>sa literal, <b>gaya ng panghabi ng manghahabi. </b>Sa
+          Ingles, <b>weaver\u02BCs rod.</b>"
+    - title: 
+      content: 'Muli pang naglaban ang mga Filisteo at mga Israelita, nangyari ito
+        sa Gat. Sa labanang ito, may isang tao na sobrang laki, may tig-aanim na
+        daliri sa mga kamay at paa niya. Isa rin siya sa mga angkan ng mga Rafa. '
+      comments: []
+    - title: 
+      content: 'Nang kutyain niya ang mga Israelita, pinatay siya ni Jonatan na anak
+        ng kapatid ni David na si Shimea. '
+      comments: []
+  - verses:
+    - title: Ipinasensus ni David ang Kanyang mga Sundalo(2 Sam. 24:1-25)
+      content: '  Inatake ni Satanas[[COMMENT(0)]] ang Israel, kaya inudyukan niya
+        si David na ipasensus ang mga Israelita. '
+      comments:
+      - number: '21:1 '
+        content: <b>ni Satanas </b>o, <b>ng kaaway.</b>
+    - title: 
+      content: "Kaya sinabi ni David kay Joab at sa mga kumander ng mga sundalo,
+        \u201CLumakad kayo at isensus ang mga Israelita mula sa Beersheba hanggang
+        sa Dan.[[COMMENT(0)]] Pagkatapos, bumalik kayo rito para malaman ko kung
+        ilan silang lahat.\u201D  "
+      comments:
+      - number: '21:2 '
+        content: '<b>: </b>Ibig sabihin, <b>sa buong bansa ng Israel.</b>'
+    - title: 
+      content: "Pero sumagot si Joab, \u201CParamihin sana ng <smallcaps>Panginoon</smallcaps>
+        ng 100 ulit ang inyong mga mamamayan. Ngunit, Mahal na Hari, bakit gusto
+        n\u02BCyong gawin ang bagay na ito? Hindi po ba mga sakop n\u02BCyo naman
+        sila? Bakit idadamay n\u02BCyo sila sa gagawin ninyong kasalanan?\u201D  "
+      comments: []
+    - title: 
+      content: 'Pero nagpumilit si David, kaya nilibot ni Joab ang buong Israel at
+        bumalik agad sa Jerusalem. '
+      comments: []
+    - title: 
+      content: 'Sinabi niya kay David ang bilang ng mga lalaki na may kakayahang
+        makipaglaban: 1,100,000 sa Israel at 470,000 sa Juda. '
+      comments: []
+    - title: 
+      content: 'Pero hindi isinama ni Joab sa pagbilang ang mga lahi nina Levi at
+        Benjamin dahil nainis siya sa utos ng hari. '
+      comments: []
+    - title: 
+      content: 'Hindi rin natuwa ang Dios sa utos na ito ni David, kaya pinarusahan
+        niya ang Israel. '
+      comments: []
+    - title: 
+      content: "Pagkatapos, sinabi ni David sa Dios, \u201CNapakalaking kasalanan
+        po itong nagawa ko. Kaya nakikiusap ako sa inyo, <smallcaps>Panginoon</smallcaps>,
+        na patawarin n\u02BCyo ako na inyong lingkod sa aking kasalanan, dahil isa
+        pong kamangmangan ang ginawa ko.\u201D  "
+      comments: []
+    - title: 
+      content: 'Sinabi ng <smallcaps>Panginoon</smallcaps> kay Gad na propeta ni
+        David, '
+      comments: []
+    - title: 
+      content: "\u201CPumunta ka kay David at papiliin mo siya kung alin sa tatlong
+        parusa ang gusto niyang gawin ko sa kanya.\u201D "
+      comments: []
+    - title: 
+      content: "Kaya pumunta si Gad kay David at sinabi sa kanya, \u201CAlin sa tatlong
+        ito ang gusto mo: "
+      comments: []
+    - title: 
+      content: "tatlong taong taggutom, tatlong buwang paglipol sa inyo ng mga kalaban
+        ninyo o tatlong araw na salot mula sa <smallcaps>Panginoon</smallcaps> sa
+        pamamagitan ng pagwasak ng anghel ng <smallcaps>Panginoon</smallcaps> sa
+        buong lupain ng Israel. Magpasya ka at sabihin mo sa akin kung ano ang isasagot
+        ko sa <smallcaps>Panginoon</smallcaps> na nagpadala sa akin.\u201D  "
+      comments: []
+    - title: 
+      content: "Sumagot si David kay Gad, \u201CNahihirapan akong pumili. Mabuti
+        pang ang <smallcaps>Panginoon</smallcaps> na lang ang magparusa sa akin kaysa
+        sa mga kamay ng tao, dahil napakamaawain ng <smallcaps>Panginoon</smallcaps>.\u201D "
+      comments: []
+    - title: 
+      content: 'Kaya nagpadala ang <smallcaps>Panginoon</smallcaps> ng salot sa Israel,
+        at 70,000 Israelita ang namatay. '
+      comments: []
+    - title: 
+      content: "At habang winawasak ng anghel ang Jerusalem, naawa[[COMMENT(0)]]
+        ang <smallcaps>Panginoon</smallcaps> sa mga tao. Kaya sinabi niya sa anghel
+        na lumilipol sa mga tao, \u201CTama na! Huwag mo na silang parusahan.\u201D
+        Nang oras na iyon, nakatayo ang anghel ng <smallcaps>Panginoon</smallcaps>
+        sa may giikan ni Arauna na Jebuseo.  "
+      comments:
+      - number: '21:15 '
+        content: '<b>: </b>o, <b>nagbago ng isip.</b><b>: </b>o, <b>Ornan.</b>'
+    - title: 
+      content: 'Tumingala si David at nakita niya ang anghel ng <smallcaps>Panginoon</smallcaps>
+        na nakatayo sa himpapawid, sa kalagitnaan ng langit at lupa. May hawak itong
+        espada na nakaturo sa Jerusalem. Pagkatapos, nagpatirapa si David at ang
+        mga tagapamahala ng Israel, na nakasuot ng sako bilang pagpapakita ng kanilang
+        pagdadalamhati. '
+      comments: []
+    - title: 
+      content: "Sinabi ni David sa Dios, \u201CAko po ang nag-utos na bilangin ang
+        mga lalaki na may kakayahang makipaglaban. Ako lang po ang nagkasala. Ang
+        mga taong ito ay inosente gaya ng mga tupa. Wala silang nagawang kasalanan.
+        O <smallcaps>Panginoon</smallcaps> na aking Dios, ako na lang po at ang aking
+        pamilya ang parusahan ninyo. Huwag n\u02BCyo pong pahirapan ang inyong mga
+        mamamayan sa salot na ito.\u201D  "
+      comments: []
+    - title: 
+      content: 'Pagkatapos, inutusan ng anghel ng <smallcaps>Panginoon</smallcaps>
+        si Gad na sabihin kay David na pumunta siya sa giikan ni Arauna na Jebuseo,
+        at gumawa roon ng altar para sa <smallcaps>Panginoon</smallcaps>. '
+      comments: []
+    - title: 
+      content: 'Kaya pumunta si David ayon sa utos ng <smallcaps>Panginoon</smallcaps>
+        sa pamamagitan ni Gad.  '
+      comments: []
+    - title: 
+      content: 'Nang panahong iyon, gumigiik ng trigo si Arauna at ang apat niyang
+        anak na lalaki. Nang makita nila ang anghel ng <smallcaps>Panginoon</smallcaps>,
+        tumakbo ang apat na anak ni Arauna at nagtago. '
+      comments: []
+    - title: 
+      content: 'Pagkatapos, nakita ni Arauna na paparating si David. Kaya umalis
+        siya sa giikan at lumuhod sa harapan ni David bilang paggalang sa kanya. '
+      comments: []
+    - title: 
+      content: "Sinabi ni David sa kanya, \u201CIpagbili mo sa akin ang giikan mo
+        para makapagpatayo ako ng altar para sa <smallcaps>Panginoon</smallcaps>,
+        para huminto na ang salot sa mga tao. Babayaran kita kung magkano ang halaga
+        nito.\u201D  "
+      comments: []
+    - title: 
+      content: "Sinabi ni Arauna kay David, \u201CSige po Mahal na Hari, kunin ninyo.
+        Gawin n\u02BCyo kung ano ang gusto ninyo. Bibigyan ko pa po kayo ng baka
+        para ialay bilang handog na sinusunog, mga tabla na ginagamit sa paggiik
+        para ipanggatong at trigo para ihandog bilang pagpaparangal sa <smallcaps>Panginoon</smallcaps>.
+        Ibibigay ko po itong lahat sa inyo.\u201D  "
+      comments: []
+    - title: 
+      content: "Pero sumagot si Haring David kay Arauna, \u201CHindi ko ito tatanggapin
+        ng libre. Babayaran kita kung magkano ang halaga nito. Hindi ko magagawang
+        kunin ito sa iyo at ihandog sa <smallcaps>Panginoon</smallcaps>. Hindi ako
+        mag-aalay ng handog na sinusunog na walang halaga sa akin.\u201D "
+      comments: []
+    - title: 
+      content: 'Kaya binayaran ni David si Arauna ng 600 pirasong[[COMMENT(0)]] ginto
+        para sa lupain na iyon. '
+      comments:
+      - number: '21:25 '
+        content: '<b>: </b>o, <b>mga pitong kilo.</b>'
+    - title: 
+      content: 'Pagkatapos, gumawa siya roon ng altar para sa <smallcaps>Panginoon</smallcaps>
+        at nag-alay ng mga handog na sinusunog at ng mga handog para sa mabuting
+        relasyon.[[COMMENT(0)]] At sinagot siya ng <smallcaps>Panginoon</smallcaps>
+        sa pamamagitan ng pagpapadala ng apoy mula sa langit para sunugin ang mga
+        handog sa altar. '
+      comments:
+      - number: '21:26 '
+        content: '<b>: </b>Tingnan sa Talaan ng mga Salita sa likod.'
+    - title: 
+      content: 'Pagkatapos, sinabi ng <smallcaps>Panginoon</smallcaps> sa anghel
+        na ibalik na ang espada niya sa lalagyan nito.  '
+      comments: []
+    - title: 
+      content: 'Nang makita ni David na sinagot ng <smallcaps>Panginoon</smallcaps>
+        ang kanyang dalangin, nag-alay pa siya ng handog doon sa giikan ni Arauna
+        na Jebuseo. '
+      comments: []
+    - title: 
+      content: 'Nang panahong iyon, ang Tolda ng <smallcaps>Panginoon</smallcaps>
+        at ang altar para sa mga handog na sinusunog na ipinagawa ni Moises sa ilang
+        ay nasa mataas na lugar sa Gibeon. '
+      comments: []
+  - verses:
+    - title: Ang Paghahanda para sa Pagpapatayo ng Templo
+      content: "  Pagkatapos, sinabi ni David, \u201CDito sa lugar na ito itatayo
+        ang templo ng <smallcaps>Panginoong</smallcaps> Dios at ang altar para sa
+        mga handog na sinusunog ng Israel.\u201D  "
+      comments: []
+    - title: 
+      content: 'Nag-utos si David na tipunin ang mga dayuhang naninirahan sa Israel.
+        Pumili siya sa kanila ng mga tagatabas ng bato para sa templo ng Dios. '
+      comments: []
+    - title: 
+      content: 'Nagbigay si David ng napakaraming bakal para gawing mga pako at bisagra
+        para sa mga pintuan, at maraming tanso na hindi na matimbang sa sobrang bigat. '
+      comments: []
+    - title: 
+      content: 'Naghanda rin siya ng napakaraming kahoy na sedro na dinala sa kanya
+        ng mga Sidoneo at Tyreo. '
+      comments: []
+    - title: 
+      content: "Sinabi ni David, \u201CBata pa ang anak kong si Solomon at wala pa
+        siyang karanasan. Kailangang ang templo ng <smallcaps>Panginoon</smallcaps>
+        na itatayo ay napakaganda at magiging tanyag sa buong mundo. Kaya paghahandaan
+        ko ito ngayon pa lang.\u201D Kaya lubusan ang paghahandang ginawa ni David
+        bago siya mamatay.  "
+      comments: []
+    - title: 
+      content: 'Pagkatapos, ipinatawag ni David ang anak niyang si Solomon at inutusang
+        ipatayo ang templo para sa <smallcaps>Panginoon</smallcaps>, ang Dios ng
+        Israel. '
+      comments: []
+    - title: 
+      content: "Sinabi ni David kay Solomon, \u201CAnak, gusto ko sanang magpatayo
+        ng templo para sa karangalan ng pangalan ng <smallcaps>Panginoon</smallcaps>
+        na aking Dios. "
+      comments: []
+    - title: 
+      content: "Pero ito ang sinabi niya sa akin: \u2018Sa dami ng labanang napagdaanan
+        mo, maraming tao ang napatay mo, kaya hindi kita papayagang magpatayo ng
+        templo para sa karangalan ng aking pangalan. "
+      comments: []
+    - title: 
+      content: 'Ngunit bibigyan kita ng anak na lalaki na maghahari nang may kapayapaan
+        dahil hindi siya gagambalain ng lahat ng kanyang kalaban sa paligid. Ang
+        magiging pangalan niya ay Solomon,[[COMMENT(0)]] at bibigyan ko ng kapayapaan
+        ang Israel sa kanyang paghahari. '
+      comments:
+      - number: '22:9 '
+        content: "<b>: </b>Ang pangalang ito\u02BCy posibleng galing sa salitang
+          Hebreo na \u201Cshalom\u201D na ang ibig sabihin ay \u201Ckapayapaan.\u201D"
+    - title: 
+      content: "Siya ang magpapatayo ng templo para sa karangalan ng aking pangalan.
+        Ituturing ko siyang anak at ako\u02BCy magiging kanyang ama. Maghahari ang
+        mga angkan niya sa Israel magpakailanman.\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CKaya anak, gabayan ka sana ng <smallcaps>Panginoon</smallcaps>
+        at magtagumpay ka sa pagpapatayo mo ng templo ng <smallcaps>Panginoon</smallcaps>
+        na iyong Dios, ayon sa sinabi niya na gawin mo. "
+      comments: []
+    - title: 
+      content: 'Bigyan ka sana ng <smallcaps>Panginoon</smallcaps> na iyong Dios
+        ng karunungan at pang-unawa para matupad mo ang kautusan niya sa panahon
+        na pamamahalain ka niya sa buong Israel. '
+      comments: []
+    - title: 
+      content: "At kung matupad mo nang mabuti ang mga utos at mga tuntunin na ibinigay
+        niya sa Israel sa pamamagitan ni Moises, magiging matagumpay ka. Kaya magpakatatag
+        ka at magpakatapang. Huwag kang matakot o kaya\u02BCy manlupaypay. "
+      comments: []
+    - title: 
+      content: "Pinaghirapan kong mabuti ang paghahanda ng mga materyales para sa
+        pagpapatayo ng templo ng <smallcaps>Panginoon</smallcaps> \u202F\u2013\u202F3,500
+        toneladang ginto, 35,500 toneladang pilak, at maraming tanso at mga bakal
+        na hindi na matimbang sa sobrang bigat. Naghanda rin ako ng mga kahoy at
+        mga bato, pero kailangan mo pa rin itong dagdagan. "
+      comments: []
+    - title: 
+      content: 'Marami kang manggagawa: mga tagatabas ng bato, mga mason, mga karpintero
+        at mga taong may kakayahan sa anumang gawaing '
+      comments: []
+    - title: 
+      content: "ginto, pilak, tanso at bakal. Ngayon, simulan mo na ang pagpapagawa,
+        at gabayan ka sana ng <smallcaps>Panginoon</smallcaps>.\u201D  "
+      comments: []
+    - title: 
+      content: 'Pagkatapos, inutusan ni David ang lahat ng pinuno ng Israel para
+        tulungan ang anak niyang si Solomon. '
+      comments: []
+    - title: 
+      content: "Sinabi niya sa kanila, \u201CKasama n\u02BCyo ang <smallcaps>Panginoon</smallcaps>
+        na inyong Dios at binigyan niya kayo ng kapayapaan sa mga kalaban ninyo sa
+        paligid. Sapagkat ipinagkatiwala niya sa akin ang lahat ng naninirahan sa
+        lupaing ito, at ngayon ay sa <smallcaps>Panginoon</smallcaps> na at tayong
+        mga mamamayan niya ang may sakop sa mga ito. "
+      comments: []
+  - verses:
+    - title: Ang Gawain ng mga Levita
+      content: '  Nang matandang-matanda na si David, ginawa niyang hari ng Israel
+        ang anak niyang si Solomon. '
+      comments: []
+    - title: 
+      content: 'Ipinatipon niya ang lahat ng pinuno ng Israel, pati ang mga pari
+        at mga Levita. '
+      comments: []
+    - title: 
+      content: "Binilang ang mga Levita na nasa edad 30 pataas, at ang bilang nila\u02BCy
+        38,000. "
+      comments: []
+    - title: 
+      content: "Sinabi ni David, \u201CAng 24,000 sa kanila ay mamamahala ng mga
+        gawain sa templo ng <smallcaps>Panginoon</smallcaps>, ang 6,000 ay maglilingkod
+        bilang mga opisyal at mga hukom, "
+      comments: []
+    - title: 
+      content: "ang 4,000 ay maglilingkod bilang mga guwardya ng mga pintuan ng templo,
+        at ang 4,000 ay magpupuri sa <smallcaps>Panginoon</smallcaps> sa pamamagitan
+        ng mga instrumentong ipinagawa ko para sa gawaing ito.\u201D "
+      comments: []
+    - title: Ang mga Angkan ni Gershon
+      content: 'Hinati ni David sa tatlong grupo ang mga Levita, ayon sa mga pamilya
+        ng mga anak ni Levi na sina Gershon, Kohat at Merari.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak ni Gershon ay sina Ladan[[COMMENT(0)]] at Shimei. '
+      comments:
+      - number: '23:7 '
+        content: '<b>: </b>o, <b>Libni.</b>'
+    - title: 
+      content: 'Tatlo ang anak ni Ladan: si Jehiel, ang pinakapinuno ng kanilang
+        pamilya,[[COMMENT(0)]] si Zetam at si Joel. '
+      comments:
+      - number: '23:8 '
+        content: '<b>: </b>o, <b>panganay.</b>'
+    - title: Ang mga Angkan ni Kohat
+      content: 'Sila ang mga pinuno ng mga pamilya ni Ladan.Si Shimei ay may tatlo
+        ring anak na lalaki na sina Shelomot, Haziel at Haran. Nagkaroon pa ng apat
+        na anak na lalaki si Shimei: ang pinakapinuno ng kanilang pamilya ay si Jahat,
+        ang pangalawa ay si Zina,[[COMMENT(0)]] at sumunod sina Jeush at Beria. Kakaunti
+        lang ang mga anak ni Jeush at Beria, kaya binilang sila na isang pamilya
+        lang.  '
+      comments:
+      - number: '23:10-11 '
+        content: '<b>: </b>o, <b>Ziza.</b>'
+    - title: 
+      content: 'Si Kohat ay may apat na anak na lalaki na sina Amram, Izar, Hebron
+        at Uziel. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Amram ay sina Aaron at Moises. Ibinukod
+        si Aaron at ang kanyang mga angkan para sa pagtatalaga ng mga pinakabanal
+        na bagay, sa pag-aalay ng mga handog sa <smallcaps>Panginoon</smallcaps>,
+        sa paglilingkod sa kanya at sa pagbabasbas sa pamamagitan ng pangalan ng
+        <smallcaps>Panginoon</smallcaps>. Ito ang magiging tungkulin nila magpakailanman. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Moises na lingkod ng Dios ay kabilang sa
+        mga Levita. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak niyang lalaki ay sina Gershom at Eliezer. '
+      comments: []
+    - title: 
+      content: 'Ang isa sa mga anak na lalaki ni Gershom ay si Shebuel na pinakapinuno
+        ng kanilang pamilya. '
+      comments: []
+    - title: 
+      content: 'Si Eliezer ay may kaisa-isang anak na lalaki, si Rehabia na pinakapinuno
+        rin ng kanilang pamilya. Marami ang mga angkan ni Rehabia.  '
+      comments: []
+    - title: 
+      content: 'Ang isa sa mga anak na lalaki ni Izar ay si Shelomit na pinakapinuno
+        ng kanilang pamilya.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Hebron ay sina Jeria na pinakapinuno ng
+        kanilang pamilya, si Amaria ang ikalawa, si Jahaziel ang ikatlo, at si Jekameam
+        ang ikaapat.  '
+      comments: []
+    - title: Ang mga Angkan ni Merari
+      content: 'Ang mga anak na lalaki ni Uziel ay sina Micas na pinakapinuno ng
+        kanilang pamilya, at Ishia ang pangalawa.  '
+      comments: []
+    - title: 
+      content: 'Ang mga anak na lalaki ni Merari ay sina Mahli at Mushi. Ang mga
+        anak na lalaki ni Mahli ay sina Eleazar at Kish. '
+      comments: []
+    - title: 
+      content: "Namatay si Eleazar na walang anak na lalaki kundi puro babae. Sila\u02BCy
+        napangasawa ng kanilang mga pinsan na mga anak ni Kish.  "
+      comments: []
+    - title: 
+      content: 'Si Mushi ay may tatlong anak na lalaki na sina Mahli, Eder at Jeremot.  '
+      comments: []
+    - title: 
+      content: "Sila ang lahi ni Levi ayon sa mga pinuno ng kanilang mga pamilya.
+        Nakatala ang kani-kanilang mga pangalan. Ang bawat isa sa kanila ay dapat
+        nasa edad na 20 pataas para makapaglingkod sa templo ng <smallcaps>Panginoon</smallcaps>.
+        Sinabi ni David, \u201CBinigyan tayo ng <smallcaps>Panginoon</smallcaps>,
+        ang Dios ng Israel, ng kapayapaan at maninirahan siya sa Jerusalem magpakailanman.
+        Hindi na kailangang dalhin ng mga Levita ang Tolda at ang mga kagamitan nito.\u201D  "
+      comments: []
+    - title: 
+      content: 'Ayon sa huling utos ni David, ang lahat ng Levita na nasa edad 20
+        pataas ay itinala para maglingkod. '
+      comments: []
+    - title: 
+      content: 'Ang tungkulin ng mga Levita ay ang pagtulong sa mga pari, na mga
+        angkan ni Aaron sa paglilingkod sa templo ng <smallcaps>Panginoon</smallcaps>.
+        Sila ang mangangalaga ng bakuran ng templo at ng mga kwarto sa gilid nito.
+        Sila rin ang tutulong sa mga seremonya ng paglilinis at ng iba pang gawain
+        sa templo ng Dios. '
+      comments: []
+    - title: 
+      content: 'Sila rin ang pinagkatiwalaan sa banal na tinapay na inilalagay sa
+        mesa, sa harina para sa mga handog ng pagpaparangal sa <smallcaps>Panginoon</smallcaps>,
+        sa tinapay na walang pampaalsa, at sa iba pang niluluto at minamasa. Sila
+        rin ang pinagkatiwalaan sa pagtitimbang at sa pagtatakal ng lahat ng handog. '
+      comments: []
+    - title: 
+      content: 'Tungkulin din nila ang tumayo tuwing umaga at gabi sa templo para
+        magpasalamat at magpuri sa <smallcaps>Panginoon</smallcaps>. '
+      comments: []
+    - title: 
+      content: 'Tutulong din sila sa pag-aalay ng mga handog na sinusunog sa <smallcaps>Panginoon</smallcaps>
+        tuwing Araw ng Pamamahinga, tuwing Pista ng Pagsisimula ng Buwan,[[COMMENT(0)]]
+        at sa iba pang mga pista. May mga sinusunod silang tuntunin kung ilang mga
+        Levita ang gagawa ng gawaing ito at kung paano nila ito gagawin.  '
+      comments:
+      - number: '23:31 '
+        content: '<b>: </b>Tingnan sa Talaan ng mga Salita sa likod.'
+  - verses:
+    - title: Ang Gawain ng mga Pari
+      content: '  Ito ang mga grupo ng mga angkan ni Aaron:Ang mga anak na lalaki
+        ni Aaron ay sina Nadab, Abihu, Eleazar at Itamar. '
+      comments: []
+    - title: 
+      content: 'Pero unang namatay sina Nadab at Abihu sa kanilang ama, at wala silang
+        anak, kaya sina Eleazar at Itamar ang naglingkod bilang mga pari. '
+      comments: []
+    - title: 
+      content: 'Sa tulong nina Zadok na mula sa angkan ni Eleazar, at Ahimelec na
+        mula sa angkan ni Itamar, pinagbukod-bukod ni Haring David ang angkan ni
+        Aaron ayon sa kanilang tungkulin. '
+      comments: []
+    - title: 
+      content: 'Ang angkan ni Eleazar ay hinati sa 16 na grupo at ang angkan ni Itamar
+        sa walong grupo, dahil mas marami ang mga pinuno sa pamilya ng angkan ni
+        Eleazar. '
+      comments: []
+    - title: 
+      content: 'Ang lahat ng gawain ay hinati sa mga grupo sa pamamagitan ng palabunutan,
+        kaya may mga opisyal ng templo na naglilingkod sa Dios mula sa mga angkan
+        ni Eleazar at mula sa mga angkan ni Itamar.  '
+      comments: []
+    - title: 
+      content: 'Si Shemaya na anak ni Netanel na Levita ang kalihim. Itinala niya
+        ang pangalan ng mga pari sa harap ng hari at ng mga opisyal na sina Zadok
+        na pari, Ahimelec na anak ni Abiatar, at ng mga pinuno ng mga pamilya ng
+        mga pari at ng mga Levita. Salitan sa pagbunot ang angkan nina Eleazar at
+        Itamar.  '
+      comments: []
+    - title: 
+      content: 'Ang unang nabunot ay si Jehoyarib,ang ikalawa ay si Jedaya,  '
+      comments: []
+    - title: 
+      content: 'ang ikatlo ay si Harim,ang ikaapat ay si Seorim,  '
+      comments: []
+    - title: 
+      content: 'ang ikalima ay si Malkia,ang ikaanim ay si Mijamin,  '
+      comments: []
+    - title: 
+      content: 'ang ikapito ay si Hakoz,ang ikawalo ay si Abijah,  '
+      comments: []
+    - title: 
+      content: 'ang ikasiyam ay si Jeshua,ang ikasampu ay si Shecania,  '
+      comments: []
+    - title: 
+      content: 'ang ika-11 ay si Eliashib,ang ika-12 ay si Jakim,  '
+      comments: []
+    - title: 
+      content: 'ang ika-13 ay si Huppa,ang ika-14 ay si Jeshebeab,  '
+      comments: []
+    - title: 
+      content: 'ang ika-15 ay si Bilga,ang ika-16 ay si Imer,  '
+      comments: []
+    - title: 
+      content: 'ang ika-17 ay si Hezir,ang ika-18 ay si Hapizez,  '
+      comments: []
+    - title: 
+      content: 'ang ika-19 ay si Petahia,ang ika-20 ay si Jehezkel,  '
+      comments: []
+    - title: 
+      content: 'ang ika-21 ay si Jakin,ang ika-22 ay si Gamul,  '
+      comments: []
+    - title: 
+      content: 'ang ika-23 ay si Delaya,at ang ika-24 ay si Maazia.  '
+      comments: []
+    - title: Ang mga Pinuno ng mga Pamilya ng mga Levita
+      content: 'Ginawa nila ang kanilang mga tungkulin sa templo ng <smallcaps>Panginoon</smallcaps>
+        ayon sa tuntunin na ibinigay ng ninuno nilang si Aaron mula sa <smallcaps>Panginoon</smallcaps>,
+        ang Dios ng Israel.  '
+      comments: []
+    - title: 
+      content: 'Ito ang mga pinuno ng mga pamilya ng iba pang lahi ni Levi:Mula sa
+        angkan ni Amram: si Shubael.Mula sa angkan ni Shubael: si Jedeya.  '
+      comments: []
+    - title: 
+      content: 'Mula sa angkan ni Rehabia: si Ishia, ang pinakapinuno ng kanilang
+        pamilya.  '
+      comments: []
+    - title: 
+      content: 'Mula sa angkan ni Izar: si Shelomot.Mula sa angkan ni Shelomot: si
+        Jahat.  '
+      comments: []
+    - title: 
+      content: 'Mula sa angkan ni Hebron: si Jeria ang pinakapinuno ng kanilang pamilya,
+        si Amaria ang ikalawa, si Jahaziel ang ikatlo at si Jekameam ang ikaapat.  '
+      comments: []
+    - title: 
+      content: 'Mula sa angkan ni Uziel: si Micas.Mula sa angkan ni Micas: si Shamir.  '
+      comments: []
+    - title: 
+      content: 'Mula sa angkan ni Ishia na kapatid na lalaki ni Micas: si Zacarias.  '
+      comments: []
+    - title: 
+      content: 'Mula sa angkan ni Merari: sina Mahli at Mushi.Mula sa angkan ni Jaazia:
+        si Beno.  '
+      comments: []
+    - title: 
+      content: 'Mula sa angkan ni Merari sa pamamagitan ni Jaazia: sina Beno, Shoham,
+        Zacur at Ibri.  '
+      comments: []
+    - title: 
+      content: 'Mula sa angkan ni Mahli: si Eleazar, na walang mga anak na lalaki.  '
+      comments: []
+    - title: 
+      content: 'Mula sa angkan ni Kish: si Jerameel.  '
+      comments: []
+    - title: 
+      content: 'Mula sa angkan ni Mushi: sina Mahli, Eder at Jerimot.Iyon ang mga
+        Levita ayon sa kanilang mga pamilya. '
+      comments: []
+  - verses:
+    - title: Ang mga Musikero
+      content: '  Pumili si David at ang mga kumander ng mga sundalo mula sa mga
+        anak ni Asaf, Heman at Jedutun para ipahayag ang mensahe ng Dios na tinutugtugan
+        ng mga alpa, lira at pompyang. Ito ang talaan ng mga pangalan nila at gawain:  '
+      comments: []
+    - title: 
+      content: 'Mula sa mga anak na lalaki ni Asaf: sina Zacur, Jose, Netania at
+        Asarela. Naglingkod sila sa ilalim ng pamamahala ng kanilang ama. Si Asaf
+        ang nagpapahayag ng mensahe ng Dios kung ipinag-uutos ito ng hari.  '
+      comments: []
+    - title: 
+      content: "Mula sa mga anak na lalaki ni Jedutun: sina Gedalia, Zeri, Jeshaya,
+        Shimei,[[COMMENT(0)]] Hashabia at Matitia\u2009\u2013\u2009anim silang lahat.
+        Naglingkod din sila sa ilalim ng pamamahala ng ama nilang si Jedutun, na
+        nagpahayag ng mensahe ng Dios na tinutugtugan ng alpa, na may pasasalamat
+        at papuri sa <smallcaps>Panginoon</smallcaps>.  "
+      comments:
+      - number: '25:3 '
+        content: '<b>: </b>Wala ito sa karamihang tekstong Hebreo, ngunit makikita
+          ito sa isang tekstong Hebreo at sa iilang tekstong Septuagint.'
+    - title: 
+      content: 'Mula sa mga anak na lalaki ni Heman: sina Bukia, Matania, Uziel,
+        Shebuel,[[COMMENT(0)]] Jerimot, Hanania, Hanani, Eliata, Giddalti, Romamti
+        Ezer, Joshbekasha, Malloti, Hotir at Mahaziot. '
+      comments:
+      - number: '25:4 '
+        content: '<b>: </b>o, <b>Shubael.</b>'
+    - title: 
+      content: 'Silang lahat ang anak ni Heman na propeta ng hari. Pinarangalan siya
+        ng Dios sa pamamagitan ng pagbibigay sa kanya ng 14 na anak na lalaki at
+        tatlong anak na babae, ayon sa ipinangako ng Dios sa kanya.  '
+      comments: []
+    - title: 
+      content: 'Ang lahat ng lalaking ito ay pinamahalaan ng kanilang ama sa pagtugtog
+        nila ng mga pompyang, lira at alpa bilang paglilingkod sa bahay ng Dios.
+        Sina Asaf, Jedutun at Heman ay nasa ilalim ng pamamahala ng hari. '
+      comments: []
+    - title: 
+      content: 'Sila at ang mga kamag-anak nila, na 288 lahat ay mahuhusay na musikero
+        para sa <smallcaps>Panginoon</smallcaps>. '
+      comments: []
+    - title: 
+      content: 'Nagpalabunutan sila para malaman ang kanya-kanyang tungkulin, bata
+        man o matanda, guro man o mag-aaral.  '
+      comments: []
+    - title: 
+      content: "Ang unang nabunot sa pamilya ni Asaf ay si Jose at ang mga anak niyang
+        lalaki at mga kamag-anak[[COMMENT(0)]] \u202F\u2013 12 sila.Ang ikalawa ay
+        si Gedalia at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013 12
+        sila.  "
+      comments:
+      - number: '25:9 '
+        content: '<b>: </b>Wala ito sa Hebreo, pero makikita sa Septuagint.'
+    - title: 
+      content: "Ang ikatlo ay si Zacur at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ikaapat ay si Izri[[COMMENT(0)]] at ang mga anak niyang lalaki
+        at mga kamag-anak\u202F\u2013 12 sila.  "
+      comments:
+      - number: '25:11 '
+        content: '<b>: </b>o, <b>Zeri.</b>'
+    - title: 
+      content: "Ang ikalima ay si Netania at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ikaanim ay si Bukia at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ikapito ay si Jesarela[[COMMENT(0)]] at ang mga anak niyang lalaki
+        at mga kamag-anak\u202F\u2013 12 sila.  "
+      comments:
+      - number: '25:14 '
+        content: '<b>: </b>o, <b>Azarela.</b>'
+    - title: 
+      content: "Ang ikawalo ay si Jeshaya at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ikasiyam ay si Matania at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ikasampu ay si Shimei at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ika-11 ay si Azarel[[COMMENT(0)]] at ang mga anak niyang lalaki
+        at mga kamag-anak\u202F\u2013 12 sila.  "
+      comments:
+      - number: '25:18 '
+        content: '<b>: </b>o, <b>Uziel.</b>'
+    - title: 
+      content: "Ang ika-12 ay si Hashabia at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ika-13 ay si Shebuel[[COMMENT(0)]] at ang mga anak niyang lalaki
+        at mga kamag-anak\u202F\u2013 12 sila.  "
+      comments:
+      - number: '25:20 '
+        content: '<b>: </b>o, <b>Shubael.</b>'
+    - title: 
+      content: "Ang ika-14 ay si Matitia at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ika-15 ay si Jerimot[[COMMENT(0)]] at ang mga anak niyang lalaki
+        at mga kamag-anak\u202F\u2013 12 sila.  "
+      comments:
+      - number: '25:22 '
+        content: '<b>: </b>o, <b>Jeremot.</b>'
+    - title: 
+      content: "Ang ika-16 ay si Hanania at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ika-17 ay si Joshbekasha at ang mga anak niyang lalaki at mga
+        kamag-anak\u202F\u2013 12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ika-18 ay si Hanani at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ika-19 ay si Malloti at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ika-20 ay si Eliata at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ika-21 ay si Hotir at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ika-22 ay si Gedalti at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+    - title: 
+      content: "Ang ika-23 ay si Mahaziot at ang mga anak niyang lalaki at mga kamag-anak\u202F\u2013
+        12 sila.  "
+      comments: []
+  - verses:
+    - title: Ang mga Guwardya ng Pintuan ng Templo
+      content: '  Ito ang mga grupo ng mga guwardya ng mga pintuan ng templo:Mula
+        sa pamilya ni Kora, si Meshelemia na anak ni Kore na miyembro ng pamilya
+        ni Asaf, '
+      comments: []
+    - title: 
+      content: 'at ang pito niyang anak na lalaki: si Zacarias ang panganay, at ang
+        kasunod ay sina Jediael, Zebadia, Jatniel, '
+      comments: []
+    - title: 
+      content: 'Elam, Jehohanan at Eliehoenai.  '
+      comments: []
+    - title: 
+      content: '  Kasama rin si Obed Edom at ang walo niyang anak na lalaki: si Shemaya
+        ang panganay, at ang kasunod ay sina Jehozabad, Joa, Sacar, Netanel, '
+      comments: []
+    - title: 
+      content: "Amiel, Isacar at Peuletai. Pinagpala ng Dios si Obed Edom. Ang panganay
+        na anak ni Obed Edom na si Shemaya ay may mga anak na lalaki na may kakayahan
+        at mga pinuno ng kanilang mga pamilya. Sila\u02BCy sina Otni, Refael Obed
+        at Elzabad. Ang kanilang kamag-anak na sina Elihu at Semakia ay may mga kakayahan
+        din.  "
+      comments: []
+    - title: 
+      content: 'Lahat sila ay mula sa angkan ni Obed Edom. Sila at ang kanilang mga
+        anak at kamag-anak ay 62 lahat. Mahuhusay sila at may kakayahan sa paggawa.  '
+      comments: []
+    - title: 
+      content: 'Ang 18 anak at mga kamag-anak ni Meshelemia ay may mga kakayahan
+        din.  '
+      comments: []
+    - title: 
+      content: 'Si Hosa na mula sa pamilya ni Merari ay may mga anak din. Ginawa
+        niyang pinuno ng kanilang pamilya si Shimri kahit hindi siya ang panganay
+        na anak. '
+      comments: []
+    - title: 
+      content: 'Ang sumunod kay Shimri ay sina Hilkia, Tabalia at Zacarias. 13 lahat
+        ang anak at mga kamag-anak ni Hosa na mga tagapagbantay sa pintuan ng templo.  '
+      comments: []
+    - title: 
+      content: 'Iginrupo ang mga guwardya ng mga pintuan ng templo ayon sa pinuno
+        ng kanilang pamilya, at may mga tungkulin sila sa paglilingkod sa templo
+        ng <smallcaps>Panginoon</smallcaps>, katulad ng kasama nilang mga Levita. '
+      comments: []
+    - title: 
+      content: 'Nagpalabunutan sila kung aling pinto ang babantayan ng mga pamilya
+        nila, bata man o matanda. '
+      comments: []
+    - title: 
+      content: 'Ang pintuan sa gawing silangan ang nabunot ni Shelemia,[[COMMENT(0)]]
+        at ang pintuan sa gawing hilaga ang nabunot ng anak niyang mahusay magpayo
+        na si Zacarias '
+      comments:
+      - number: '26:14 '
+        content: '<b>: </b>o, <b>Meshelemia.</b>'
+    - title: 
+      content: 'Ang pintuan sa gawing timog ang nabunot ni Obed Edom, at sa mga anak
+        niyang lalaki ipinagkatiwala ang mga bodega. '
+      comments: []
+    - title: 
+      content: "Ang pintuan sa gawing kanluran at ang pintuan paakyat sa templo[[COMMENT(0)]]
+        ang nabunot ni Shupim at Hosa.Bawat isa sa kanila\u02BCy may takdang oras
+        ng pagbabantay: "
+      comments:
+      - number: '26:16 '
+        content: '<b>: </b>sa Hebreo, <b>Pintuan na Shaleket na daanan sa ibabaw.</b>'
+    - title: 
+      content: 'Sa gawing silangan, anim na guwardya ang nagbabantay araw-araw, sa
+        gawing hilaga ay apat, sa gawing timog ay apat din, at sa bawat bodega ay
+        tig-dadalawa. '
+      comments: []
+    - title: 
+      content: 'Sa gawing kanluran, apat ang nagbabantay, sa daanan paakyat sa templo
+        ay apat din, at sa bakuran ng templo ay dalawa.  '
+      comments: []
+    - title: Ang mga Ingat-yaman at ang Iba pang mga Opisyal
+      content: 'Iyon ang mga grupo ng mga guwardya ng mga pintuan ng templo na angkan
+        nina Kora at Merari.  '
+      comments: []
+    - title: 
+      content: 'Ang ibang mga Levita[[COMMENT(0)]] na pinamumunuan ni Ahia ang katiwala
+        sa mga bodega ng templo ng Dios, kabilang na ang mga bodega ng mga inihandog
+        sa Dios.  '
+      comments:
+      - number: '26:20 '
+        content: '<b>: </b>Ito ang nasa Septuagint. Sa Hebreo, <b>Ang Levita, si
+          Ahia.</b>'
+    - title: 
+      content: 'Si Ladan ay mula sa angkan ni Gershon at ama ni Jehieli. Ang ilan
+        sa mga miyembro ng kanyang pamilya ay mga pinuno rin ng kanyang mga angkan. '
+      comments: []
+    - title: 
+      content: 'Ang mga anak ni Jehieli na sina Zetam at Joel ang katiwala ng mga
+        bodega ng templo ng <smallcaps>Panginoon</smallcaps>.  '
+      comments: []
+    - title: 
+      content: '  Ito ang mga pinuno mula sa angkan ni Amram, Izar, Hebron at Uziel: 
+        Mula sa angkan ni Amram:  '
+      comments: []
+    - title: 
+      content: 'si Shebuel,[[COMMENT(0)]] na mula rin sa angkan ni Gershom, na anak
+        ni Moises, ang punong opisyal sa mga bodega ng templo. '
+      comments:
+      - number: '26:24 '
+        content: '<b>: </b>o, <b>Shubael.</b>'
+    - title: 
+      content: 'Ang mga kamag-anak niya sa angkan ni Eliezer ay sina Rehabia, Jeshaya,
+        Joram, Zicri at Shelomit.[[COMMENT(0)]]  '
+      comments:
+      - number: '26:25 '
+        content: '<b>: </b>o, <b>Shelomot.</b>'
+    - title: 
+      content: 'Si Shelomit at ang kanyang mga kamag-anak ang katiwala sa mga bodega
+        ng mga handog na inialay ni Haring David, ng mga pinuno ng mga pamilya, ng
+        mga kumander ng libu-libo at ng daan-daang sundalo, at ng iba pang mga pinuno. '
+      comments: []
+    - title: 
+      content: 'Inihandog nila ang ibang nasamsam nila sa labanan para gamitin sa
+        templo ng <smallcaps>Panginoon</smallcaps>. '
+      comments: []
+    - title: 
+      content: 'Si Shelomit din at ang kanyang mga kamag-anak ang nangalaga sa lahat
+        ng mga inihandog ni Samuel na propeta, ni Saul na anak ni Kish, ni Abner
+        na anak ni Ner, at ni Joab na anak ni Zeruya. Ang iba pang mga inihandog
+        ay ipinamahala din nila.  '
+      comments: []
+    - title: 
+      content: 'Mula sa mga angkan ni Izar: si Kenania at ang mga anak niyang lalaki,
+        na siyang nangangasiwa at mga hukom sa buong Israel. Hindi sila naglilingkod
+        sa loob ng templo.  '
+      comments: []
+    - title: 
+      content: 'Mula sa angkan ni Hebron: si Hashabia at ang 1,700 kamag-anak niya
+        na may mga kakayahan. Pinagkatiwalaan sila na mamahala ng mga lupain sa gawing
+        kanluran ng Ilog ng Jordan. Sila ang nangangasiwa ng mga gawain ng <smallcaps>Panginoon</smallcaps>
+        at ng hari sa lugar na iyon. '
+      comments: []
+    - title: 
+      content: 'Si Jeria ang pinuno ng angkan ni Hebron ayon sa talaan ng kanilang
+        mga pamilya. Nang ika-40 taon ng paghahari ni David, siniyasat ang mga talaan,
+        at natuklasan na may angkan si Hebron sa Jazer na sakop ng Gilead, at may
+        mga kakayahan sila. '
+      comments: []
+  - verses:
+    - title: Ang mga Opisyal ng mga Sundalo
+      content: '  Ito ang listahan ng mga pinuno, mga kumander, at mga opisyal ng
+        mga Israelita na naglilingkod sa hari bilang tagapangasiwa sa grupo ng mga
+        sundalong naglilingkod ng isang buwan sa bawat taon. Ang bawat grupo ay may
+        24,000 sundalo.  '
+      comments: []
+    - title: 
+      content: 'Si Jashobeam na anak ni Zabdiel ang kumander ng mga sundalo sa unang
+        buwan. May 24,000 sundalo sa grupo niya. '
+      comments: []
+    - title: 
+      content: 'Mula siya sa angkan ni Perez at pinuno ng lahat ng opisyal ng mga
+        sundalo tuwing unang buwan.  '
+      comments: []
+    - title: 
+      content: 'Si Dodai na mula sa angkan ni Ahoa ang kumander ng mga sundalo sa
+        ikalawang buwan. May 24,000 siyang sundalo. Si Miklot ang pinakamataas na
+        opisyal sa grupo niya.  '
+      comments: []
+    - title: 
+      content: 'Si Benaya na anak ng paring si Jehoyada, ang kumander ng mga sundalo
+        sa ikatlong buwan. May 24,000 siyang sundalo sa kanyang grupo. '
+      comments: []
+    - title: 
+      content: 'Siya ang Benaya na matapang na pinuno ng 30 matatapang na tauhan
+        ni David. Ang anak niyang si Amizabad ang pinakamataas na opisyal sa grupo
+        niya.  '
+      comments: []
+    - title: 
+      content: 'Si Asahel na kapatid ni Joab ang kumander ng sundalo sa ikaapat na
+        buwan. Ang anak niyang si Zebadia ang pumalit sa kanya. May 24,000 sundalo
+        sa grupo niya.  '
+      comments: []
+    - title: 
+      content: 'Si Shamut[[COMMENT(0)]] na mula sa angkan ni Izra ang kumander sa
+        ikalimang buwan. May 24,000 sundalo sa grupo niya.  '
+      comments:
+      - number: '27:8 '
+        content: '<b>: </b>o, <b>Shama.</b>'
+    - title: 
+      content: 'Si Ira na anak ni Ikkes na mula sa Tekoa ang kumander ng mga sundalo
+        sa ikaanim na buwan. May 24,000 sundalo sa grupo niya.  '
+      comments: []
+    - title: 
+      content: 'Si Helez na taga-Pelon na lahi ni Efraim ang kumander ng mga sundalo
+        sa ikapitong buwan. May 24,000 sundalo sa grupo niya.  '
+      comments: []
+    - title: 
+      content: 'Si Sibecai na taga-Husha na mula sa angkan ni Zera ang kumander ng
+        mga sundalo sa ikawalong buwan. May 24,000 sundalo sa grupo niya.  '
+      comments: []
+    - title: 
+      content: 'Si Abiezer na taga-Anatot na mula sa lahi ni Benjamin ang kumander
+        sa ikasiyam na buwan. May 24,000 sundalo sa grupo niya.  '
+      comments: []
+    - title: 
+      content: 'Si Maharai na taga-Netofa na mula sa angkan ni Zera ang kumander
+        ng mga sundalo sa ikasampung buwan. May 24,000 sundalo sa grupo niya.  '
+      comments: []
+    - title: 
+      content: 'Si Benaya na taga-Piraton na mula sa lahi ni Efraim ang kumander
+        ng mga sundalo sa ika-11 buwan. May 24,000 sundalo sa grupo niya.  '
+      comments: []
+    - title: Ang mga Pinuno ng mga Angkan ng Israel
+      content: 'Si Heldai[[COMMENT(0)]] na taga-Netofa na mula sa angkan ni Otniel
+        ang kumander ng mga sundalo sa ika-12 buwan. May 24,000 sundalo sa grupo
+        niya.  '
+      comments:
+      - number: '27:15 '
+        content: '<b>: </b>o, <b>Heled.</b>'
+    - title: 
+      content: 'Ito ang mga opisyal ng lahi ng Israel:Sa lahi ni Reuben: si Eliezer
+        na anak ni Zicri.Sa lahi ni Simeon: si Shefatia na anak ni Maaca.  '
+      comments: []
+    - title: 
+      content: 'Sa lahi ni Levi: si Hashabia na anak ni Kemuel.Sa angkan ni Aaron:
+        si Zadok.  '
+      comments: []
+    - title: 
+      content: 'Sa lahi ni Juda: si Elihu na kapatid ni David.Sa lahi ni Isacar:
+        si Omri na anak ni Micael.  '
+      comments: []
+    - title: 
+      content: 'Sa lahi ni Zebulun: si Ishmaya na anak ni Obadias.Sa lahi ni Naftali:
+        si Jeremot na anak ni Azriel.  '
+      comments: []
+    - title: 
+      content: 'Sa lahi ni Efraim: si Hoshea na anak ni Azazia.Sa kalahating lahi
+        ni Manase: si Joel na anak ni Pedaya.  '
+      comments: []
+    - title: 
+      content: 'Sa kalahati pang lahi ni Manase sa Gilead: si Iddo na anak ni Zacarias.Sa
+        lahi ni Benjamin: si Jaasiel na anak ni Abner.  '
+      comments: []
+    - title: 
+      content: 'Sa lahi ni Dan: si Azarel na anak ni Jeroham.Sila ang mga opisyal
+        ng mga lahi ng Israel.  '
+      comments: []
+    - title: 
+      content: 'Nang sinensus ni David ang mga tao, hindi niya isinama ang mga tao
+        na wala pa sa edad na 20, dahil nangako ang <smallcaps>Panginoon</smallcaps>
+        na pararamihin niya ang mga Israelita gaya ng mga bituin sa langit. '
+      comments: []
+    - title: Ang mga Opisyal sa Kaharian
+      content: 'Inumpisahan ni Joab na anak ni Zeruya ang pagsesensus sa mga tao
+        pero hindi niya ito natapos dahil nagalit ang Dios sa pagsesensus na ito.
+        Kaya ang kabuuang bilang ng mga Israelita ay hindi naitala sa listahan ni
+        Haring David.  '
+      comments: []
+    - title: 
+      content: 'Si Azmavet na anak ni Adiel ang namamahala sa mga bodega sa palasyo
+        ng hari.Si Jonatan na anak ni Uzia ang namamahala sa mga bodega sa mga distrito,
+        bayan, baryo at sa mga tore.  '
+      comments: []
+    - title: 
+      content: 'Si Ezri na anak ni Kelub ang namamahala sa mga nagtatrabaho sa bukid
+        ng hari.  '
+      comments: []
+    - title: 
+      content: 'Si Shimei na taga-Rama ang namamahala sa mga ubasan ng hari.Si Zabdi
+        na taga-Sefam ang namamahala ng mga produkto nito, ang bunga ng ubas at alak
+        ng hari.  '
+      comments: []
+    - title: 
+      content: 'Si Baal Hanan na taga-Geder ang namamahala ng mga puno ng olibo at
+        sikomoro sa mga kaburulan sa kanluran.[[COMMENT(0)]]Si Joash ang namamahala
+        sa mga bodega ng langis ng olibo.  '
+      comments:
+      - number: '27:28 '
+        content: '<b>: </b>sa Hebreo, <b>Shefela.</b>'
+    - title: 
+      content: 'Si Sitrai na taga-Sharon ang namamahala ng mga kawan ng hayop na
+        pinapastol sa Sharon.Si Shafat na anak ni Adlai ang namamahala ng mga kawan
+        ng hayop sa mga lambak.  '
+      comments: []
+    - title: 
+      content: 'Si Obil na Ishmaelita ang namamahala ng mga kamelyo.Si Jedaya na
+        taga-Meronot ang namamahala ng mga asno.  '
+      comments: []
+    - title: 
+      content: 'Si Jaziz na Hagreo ang namamahala ng mga tupa.Silang lahat ang mga
+        opisyal na namamahala sa mga ari-arian ni Haring David.  '
+      comments: []
+    - title: 
+      content: 'Si Jonatan na tiyuhin ni Haring David ang tagapayo niya. Isa siyang
+        matalinong tao at manunulat. Si Jehiel na anak ni Hacmoni ang guro ng mga
+        anak ng hari. '
+      comments: []
+    - title: 
+      content: 'Si Ahitofel ang isa pang tagapayo ng hari. Ang Arkeo na si Hushai
+        ay malapit na kaibigan ng hari. '
+      comments: []
+  - verses:
+    - title: Ang Plano ni David para sa Templo
+      content: '  Ipinatawag ni Haring David sa Jerusalem ang lahat ng opisyal ng
+        Israel: Ang mga opisyal ng mga lahi, ang mga kumander ng bawat grupo ng mga
+        sundalo na naglilingkod sa hari, ang iba pang mga kumander ng libu-libo at
+        daan-daang sundalo, ang mga opisyal na namamahala sa lahat ng ari-arian at
+        mga hayop ng hari at ng kanyang mga anak, ang mga opisyal ng palasyo, ang
+        mga makapangyarihang tao, at ang lahat ng mahuhusay na sundalo.  '
+      comments: []
+    - title: 
+      content: "  Nang nagtitipon na sila, tumayo si David at sinabi, \u201CMakinig
+        kayo, aking mga kapatid at tauhan. Gusto ko sanang magpatayo ng templo para
+        paglagyan ng Kahon ng Kasunduan ng <smallcaps>Panginoon</smallcaps> na ating
+        Dios, upang magkaroon ng tungtungan ang kanyang mga paa. At nakapagplano
+        na ako para sa pagpapatayo nito. "
+      comments: []
+    - title: 
+      content: "Pero sinabi ng Dios sa akin, \u2018Hindi ikaw ang magpapatayo ng
+        templo para sa karangalan ng aking pangalan dahil isa kang sundalo at marami
+        kang napatay.\u2019 "
+      comments: []
+    - title: 
+      content: 'Ngunit sa kabila nito, pinili ako ng <smallcaps>Panginoon</smallcaps>,
+        ang Dios ng Israel, mula sa aming pamilya na maging hari ng Israel magpakailanman.
+        Pinili niya ang lahi ni Juda bilang pinuno ng mga lahi. At mula sa lahing
+        ito, pinili niya ang aking pamilya, at mula sa aking pamilya ikinalugod niya
+        ang pagpili sa akin bilang hari ng buong Israel. '
+      comments: []
+    - title: 
+      content: 'Binigyan niya ako ng maraming anak na lalaki, at mula sa kanila,
+        pinili niya si Solomon na maghari sa kanyang kaharian, ang Israel. '
+      comments: []
+    - title: 
+      content: "Sinabi niya sa akin, \u2018Ang iyong anak na si Solomon ang magpapatayo
+        ng aking templo, at ng mga bakuran nito. Sapagkat pinili ko siya na maging
+        aking anak, at ako\u02BCy magiging kanyang ama. "
+      comments: []
+    - title: 
+      content: "At kung patuloy siyang susunod sa mga utos ko at tuntunin gaya ng
+        ginagawa niya ngayon, paghahariin ko ang kanyang angkan magpakailanman.\u2019  "
+      comments: []
+    - title: 
+      content: "\u201CKaya ngayon, inuutusan ko kayo sa harap ng lahat ng Israelita,
+        ang mga mamamayan ng <smallcaps>Panginoon</smallcaps>, at sa presensya ng
+        ating Dios, na maingat n\u02BCyong sundin ang lahat ng utos ng <smallcaps>Panginoon</smallcaps>
+        na inyong Dios. Kung gagawin n\u02BCyo ito, patuloy na kayo ang magmamay-ari
+        ng magandang lupaing ito, at ipamamana ninyo ito sa inyong mga angkan magpakailanman.  "
+      comments: []
+    - title: 
+      content: "\u201CAt ikaw, Solomon na anak ko, kilalanin mo at paglingkuran ang
+        Dios ng iyong ama nang buong puso mo at isip, dahil nakikita ng <smallcaps>Panginoon</smallcaps>
+        ang bawat puso ng tao at nalalaman niya ang ating layunin at pag-iisip. Kung
+        dudulog ka sa kanya, tutulungan ka niya, pero kung tatalikod ka sa kanya,
+        itatakwil ka niya magpakailanman. "
+      comments: []
+    - title: 
+      content: "Kaya pag-isipan mo itong mabuti. Pinili ka ng <smallcaps>Panginoon</smallcaps>
+        para ipatayo ang templo para roon siya sambahin. Magpakatatag ka, at gawin
+        mo ang gawaing ito.\u201D  "
+      comments: []
+    - title: 
+      content: 'Pagkatapos, ibinigay ni David kay Solomon ang lahat ng plano sa pagpapatayo
+        ng templo at ng mga balkonahe nito, mga gusali, mga bodega, mga silid sa
+        itaas, mga silid sa loob, at ang Pinakabanal na Lugar na kung saan pinapatawad
+        ang mga kasalanan ng mga tao. '
+      comments: []
+    - title: 
+      content: 'Ibinigay niya ang lahat ng plano na itinuro sa kanya ng Espiritu[[COMMENT(0)]]
+        para sa pagpapatayo ng mga bakuran ng templo ng <smallcaps>Panginoon</smallcaps>,
+        sa lahat ng silid sa paligid nito, sa mga bodega ng templo ng Dios, kasama
+        na ang mga bodega para sa mga bagay na inihandog. '
+      comments:
+      - number: '28:12 '
+        content: '<b>: </b>o, <b>na kanyang napag-isipan.</b>'
+    - title: 
+      content: 'Tinuruan din niya si Solomon kung paano igugrupo ang mga pari at
+        mga Levita, at ang lahat ng gawain sa paglilingkod sa templo ng <smallcaps>Panginoon</smallcaps>,
+        ganoon din ang lahat ng mga gagamitin sa paglilingkod. '
+      comments: []
+    - title: 
+      content: 'Itinuro rin niya kung gaano karaming pilak at ginto ang gagamitin
+        sa paggawa ng mga gamit na ito: '
+      comments: []
+    - title: 
+      content: 'sa mga ilawang ginto at mga lagayan nito; sa mga ilawang pilak at
+        mga lagayan nito; '
+      comments: []
+    - title: 
+      content: 'sa mga mesang ginto kung saan ilalagay ang tinapay na inihahandog
+        sa Dios; sa mesang pilak; '
+      comments: []
+    - title: 
+      content: 'sa mga malaking gintong tinidor; sa mga mangkok at mga pitsel; sa
+        mga platong ginto at pilak; '
+      comments: []
+    - title: 
+      content: 'at sa gintong altar na pagsusunugan ng insenso. Tinuruan din ni David
+        si Solomon kung paano gawin ang gintong kerubin na nakalukob ang mga pakpak
+        sa itaas ng Kahon ng Kasunduan ng <smallcaps>Panginoon</smallcaps>.  '
+      comments: []
+    - title: 
+      content: "  Sinabi ni Haring David, \u201CAng mga planong ito ay isinulat ayon
+        sa gabay ng <smallcaps>Panginoon</smallcaps>, at tinuruan niya ako kung paano
+        gawin ang lahat ng ito.\u201D  "
+      comments: []
+    - title: 
+      content: "Sinabi rin ni David sa anak niyang si Solomon, \u201CMagpakatatag
+        ka at magpakatapang. Simulan mo na ang pagpapagawa. Huwag kang matakot o
+        manlupaypay, dahil ang <smallcaps>Panginoong</smallcaps> Dios, ang aking
+        Dios ay kasama mo. Hindi ka niya iiwan o pababayaan hanggang sa matapos ang
+        lahat ng gawain para sa templo ng <smallcaps>Panginoon</smallcaps>. "
+      comments: []
+  - verses:
+    - title: Ang mga Regalo sa Pagpapatayo ng Templo
+      content: "  Pagkatapos, sinabi ni Haring David sa lahat ng mamamayan ng Israel,
+        \u201CAng anak kong si Solomon na pinili ng Dios ay bata pa at wala pang
+        karanasan. Malaki ang gawain na ito, dahil ang ipapatayong gusali ay hindi
+        para sa tao kundi para sa <smallcaps>Panginoong</smallcaps> Dios. "
+      comments: []
+    - title: 
+      content: "Ginawa ko ang lahat para maihanda ang mga materyales para sa templo
+        ng aking Dios\u2009\u2013\u2009maraming ginto, pilak, tanso, bakal, kahoy,
+        mamahaling bato na onix, at iba pang mamahaling hiyas at mga batong may iba\u02BCt
+        ibang kulay, at marami ring marmol. "
+      comments: []
+    - title: 
+      content: 'At dahil sa kagustuhan kong maitayo ang templo ng aking Dios, ibibigay
+        ko pati ang personal kong mga ginto at pilak, bukod pa ang mga materyales
+        na naipon ko para sa banal na templo. '
+      comments: []
+    - title: 
+      content: 'Ang ibibigay ko ay 100 toneladang ginto mula sa Ofir, at 250 toneladang
+        pilak. Ito ay gagamiting pangtapal sa mga dingding ng templo, '
+      comments: []
+    - title: 
+      content: "at para naman sa lahat ng mga kagamitan na gagawin ng mga platero.
+        Ngayon, sino ang gustong magbigay para sa <smallcaps>Panginoon</smallcaps>?\u201D  "
+      comments: []
+    - title: 
+      content: 'Pagkatapos, kusang-loob na nagbigay ang mga pinuno ng mga pamilya,
+        mga pinuno ng mga lahi ng Israel, mga kumander ng libu-libo at daan-daang
+        sundalo, at ang mga opisyal na itinalaga sa pamamahala ng mga ari-arian ng
+        hari. '
+      comments: []
+    - title: 
+      content: 'Nagbigay sila para sa pagpapagawa ng templo ng Dios ng 175 toneladang
+        ginto, 10,000 perang ginto, 350 toneladang pilak, 630 toneladang tanso, at
+        3,500 toneladang bakal. '
+      comments: []
+    - title: 
+      content: 'May mga nagbigay din ng mga mamahaling bato, at itinabi ito sa bodega
+        ng templo ng <smallcaps>Panginoon</smallcaps> na pinamamahalaan ni Jehiel
+        na mula sa angkan ni Gershon. '
+      comments: []
+    - title: Ang Panalangin ni David
+      content: 'Nagalak ang mga tao sa mga pinuno nila dahil kusang-loob at taos-puso
+        silang nagbigay para sa <smallcaps>Panginoon</smallcaps>. Labis din ang kagalakan
+        ni Haring David.  '
+      comments: []
+    - title: 
+      content: "Pinuri ni David ang <smallcaps>Panginoon</smallcaps> sa harap ng
+        mga tao. Sinabi niya,\u201CO <smallcaps>Panginoon</smallcaps>, Dios ng aming
+        ninuno na si Jacob,[[COMMENT(0)]] sa inyo ang kapurihan magpakailanman! "
+      comments:
+      - number: '29:10 '
+        content: '<b>: </b>sa Hebreo, <b>Israel. </b>Ganito rin sa talatang 18.'
+    - title: 
+      content: 'Makapangyarihan kayo, kagalang-galang, dakila, at kapuri-puri! Sapagkat
+        sa inyo ang lahat ng bagay na nasa langit at nasa lupa. Kayo ang hari, O
+        <smallcaps>Panginoon</smallcaps>, at higit kayo sa lahat! '
+      comments: []
+    - title: 
+      content: 'Sa inyo nagmumula ang kayamanan at karangalan. Kayo ang namamahala
+        sa lahat ng bagay. Makapangyarihan kayo, at kayo ang nagpapalakas at nagbibigay
+        kapangyarihan sa sinuman.  '
+      comments: []
+    - title: 
+      content: "\u201CNgayon, O aming Dios, pinasasalamatan namin kayo at pinupuri
+        ang inyong kagalang-galang na pangalan. "
+      comments: []
+    - title: 
+      content: "Pero sino po ba ako at ang aking mga mamamayan na makapagbibigay
+        kami ng nag-uumapaw na kaloob gaya nito? Lahat ng bagay ay nagmula sa inyo,
+        at ibinabalik lamang namin sa inyo ang ibinigay n\u02BCyo sa amin. "
+      comments: []
+    - title: 
+      content: "Nalalaman n\u02BCyo, O <smallcaps>Panginoon</smallcaps>, na pansamantala
+        lang kami rito sa mundo gaya ng aming mga ninuno. Ang buhay namin ay gaya
+        ng anino na hindi nananatili.  "
+      comments: []
+    - title: 
+      content: "\u201CO <smallcaps>Panginoon</smallcaps> naming Dios, ang lahat ng
+        ibinigay namin sa pagpapatayo ng templo para sa karangalan ng inyong banal
+        na pangalan ay nagmula rin sa inyo. Pagmamay-ari n\u02BCyo ang lahat ng ito! "
+      comments: []
+    - title: 
+      content: "O aking Dios, alam ko pong sinasaliksik n\u02BCyo ang aming puso
+        at nasisiyahan kayo kapag nakikita n\u02BCyong tapat ito. Kaya tapat at kusang-loob
+        ang pagbibigay ko sa inyo ng mga bagay na ito. At nagagalak po ako dahil
+        nakita kong kahit ang mga mamamayan ninyong narito ay kusang-loob na nagbigay.  "
+      comments: []
+    - title: 
+      content: "\u201CO <smallcaps>Panginoon</smallcaps>, ang Dios ng aming mga ninuno
+        na sina Abraham, Isaac at Jacob, palagi n\u02BCyo po sanang ilagay sa puso
+        ng mga mamamayan ninyo ang naising ito at tulungan n\u02BCyo po sila na maging
+        tapat sa inyo. "
+      comments: []
+    - title: 
+      content: "Tulungan n\u02BCyo rin po ang anak kong si Solomon na lalong maging
+        tapat sa pagsunod sa inyong mga utos, katuruan at mga tuntunin, at sa paggawa
+        ng lahat ng ipinatutupad ninyo tungkol sa pagpapatayo ng templo na aking
+        inihanda.\u201D  "
+      comments: []
+    - title: Kinilala si Solomon Bilang Hari
+      content: "Pagkatapos, sinabi ni David sa lahat ng tao, \u201CPurihin n\u02BCyo
+        ang <smallcaps>Panginoon</smallcaps> na inyong Dios.\u201D Kaya pinuri nila
+        ang <smallcaps>Panginoon</smallcaps>, ang Dios ng kanilang mga ninuno. Yumukod
+        sila at nagpatirapa bilang pagpaparangal sa <smallcaps>Panginoon</smallcaps>
+        at sa kanilang hari.  "
+      comments: []
+    - title: 
+      content: 'Nang sumunod na araw, nag-alay sila sa <smallcaps>Panginoon</smallcaps>
+        ng mga handog na sinusunog: 1,000 toro, 1,000 lalaking tupa at 1,000 batang
+        tupa. Nag-alay din sila ng mga handog na inumin at iba pang mga handog para
+        sa mga Israelita. '
+      comments: []
+    - title: 
+      content: 'Masaya silang nagkainan at nag-inuman sa presensya ng <smallcaps>Panginoon</smallcaps>
+        nang araw na iyon.Muli, idineklara nilang hari si Solomon na anak ni David.
+        Pinahiran si Solomon ng langis sa presensya ng <smallcaps>Panginoon</smallcaps>
+        bilang hari, at pinahiran din ng langis si Zadok bilang pari. '
+      comments: []
+    - title: 
+      content: 'Kaya umupo si Solomon sa trono ng <smallcaps>Panginoon</smallcaps>
+        bilang hari, kapalit ng ama niyang si David. Naging maunlad si Solomon, at
+        sumunod sa kanya ang buong Israel. '
+      comments: []
+    - title: 
+      content: 'Nangako ang lahat ng opisyal, ang mga makapangyarihang tao, at ang
+        lahat ng anak na lalaki ni Haring David na magpapasakop sila kay Haring Solomon. '
+      comments: []
+    - title: Ang Pagkamatay ni David
+      content: "Niloob ng <smallcaps>Panginoon</smallcaps> na maging tanyag si Solomon
+        sa buong Israel at binigyan ng karangalang hindi nakamit ng ibang hari sa
+        Israel.  Naghari si David na anak ni Jesse sa buong Israel sa loob ng 40
+        taon\u2009\u2013\u20097 taon sa Hebron at 33 taon sa Jerusalem. "
+      comments: []
+    - title: 
+      content: 'Nabuhay siya nang matagal, mayaman at marangal. Namatay siya nang
+        matandang-matanda na at ang anak niyang si Solomon ang pumalit sa kanya bilang
+        hari. '
+      comments: []
+    - title: 
+      content: 'Ang kasaysayan tungkol sa paghahari ni Haring David, mula sa simula
+        hanggang katapusan ay nakasulat sa mga aklat ng mga propeta na sina Samuel,
+        Natan at Gad. '
+      comments: []

@@ -1,0 +1,526 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: SNG
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Song of Songs
+  fancyName: 
+  nickname: sng
+  version: {fileID: 11400000, guid: fc06489f21c1c3c43a353b052ba682a3, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - title: Babae
+      content: '  Ang pinakamagandang awit ni Solomon.[[COMMENT(0)]]  '
+      comments:
+      - number: '1:1 '
+        content: '<b>: </b>o, <b>para kay Solomon; </b>o, <b>tungkol kay Solomon.</b>'
+    - title: 
+      content: 'Paliguan mo ako ng iyong mga halik. Pagkat mas matamis pa kaysa katas
+        ng ubas ang iyong pag-ibig. '
+      comments: []
+    - title: 
+      content: "Kay sarap amuyin ng iyong pabango, at ang ganda ng pangalan mo, kaya
+        hindi kataka-takang mga dalaga\u02BCy napapaibig sa iyo. "
+      comments: []
+    - title: Mga Babae ng JerusalemBabae
+      content: 'Sige na, O aking hari, dalhin mo ako sa iyong silid.Sa piling mo,[[COMMENT(0)]]
+        kami ay maligaya. Mas gusto pa namin ang pag-ibig mo kaysa anumang inumin.Tama
+        lang na umibig sila sa iyo! '
+      comments:
+      - number: '1:4 '
+        content: '<b>: </b>Ang ibig sabihin, <b>sa piling ng lalaki.</b>'
+    - title: 
+      content: 'O mga babaeng taga-Jerusalem, maitim nga ako gaya ng mga tolda sa
+        Kedar, pero maganda naman tulad ng kurtina sa palasyo ni Solomon. '
+      comments: []
+    - title: 
+      content: "Huwag ninyo akong hamakin[[COMMENT(0)]] dahil sa kulay ng aking balat.
+        Maitim nga pagkat nabibilad sa init ng araw. Nagalit sa akin ang mga kapatid
+        kong lalaki, at doon sa ubasan ako\u02BCy pinagtrabaho nila. Dahil dito\u02BCy
+        napabayaan ko ang sarili ko.  "
+      comments:
+      - number: '1:6 '
+        content: '<b>: </b>o, <b>tingnan.</b><b>: </b>sa literal, <b>ang sarili kong
+          ubasan.</b>'
+    - title: Lalaki
+      content: "Mahal, sabihin mo sa akin kung saan ka nagpapastol ng iyong mga tupa.
+        Saan mo sila pinagpapahinga tuwing tanghali? Sabihin mo sa akin para hindi
+        na ako maghanap pa sa iyo doon sa iyong mga kaibigan na nagpapastol din ng
+        tupa. Dahil baka ako\u02BCy mapagkamalan na isang babaeng bayaran.  "
+      comments: []
+    - title: 
+      content: "Kung hindi mo alam, O babaeng ubod ng ganda, sundan ang bakas ng
+        aking mga tupa. Papunta ito sa tolda ng mga pastol, at mga kambing mo\u02BCy
+        doon mo na rin ipastol. "
+      comments: []
+    - title: 
+      content: "O irog ko, tulad mo\u02BCy isang babaeng kabayo na nagustuhan ng
+        lalaking kabayo na humihila ng karwahe ng hari ng Egipto.[[COMMENT(0)]]  "
+      comments:
+      - number: '1:9 '
+        content: '<b>: </b>sa Hebreo, <b>Faraon.</b>'
+    - title: 
+      content: 'Napakaganda ng iyong mga pisngi, na lalong pinaganda ng mga hiyas.
+        O anong ganda rin ng leeg mong sinuotan ng kwintas. '
+      comments: []
+    - title: Babae
+      content: "Ika\u02BCy igagawa namin ng alahas na yari sa mga ginto at pilak.  "
+      comments: []
+    - title: 
+      content: "Habang ang hari\u02BCy nasa kanyang mesa, pabango ko\u02BCy humahalimuyak. "
+      comments: []
+    - title: 
+      content: 'Parang samyo ng mira ang bango ng aking iniibig, habang sa aking
+        dibdib siya ay nakahilig. '
+      comments: []
+    - title: Lalaki
+      content: "Ang mahal ko\u02BCy tulad ng kumpol ng mga bulaklak na henna, na
+        namumulaklak doon sa ubasan ng En Gedi.[[COMMENT(0)]]  "
+      comments:
+      - number: '1:14 '
+        content: '<b>: </b>Isang lugar sa disyerto kung saan may tubig at halaman.
+          Sa Ingles, <b>oasis.</b>'
+    - title: Babae
+      content: "Napakaganda mo, aking giliw. Mga mata mo\u02BCy kasing pungay ng
+        mga mata ng kalapati.  "
+      comments: []
+    - title: 
+      content: 'Kay kisig mo, mahal ko. Napakaganda mong pagmasdan habang tayo ay
+        nakahiga sa mga damo, '
+      comments: []
+  - verses:
+    - title: BabaeLalaki
+      content: "  Ako\u02BCy isang bulaklak lamang ng Sharon, isang liryo[[COMMENT(0)]]
+        sa lambak.  "
+      comments:
+      - number: '2:1 '
+        content: "<b>: </b>sa Ingles, <b>\u201Clily.\u201D</b>"
+    - title: Babae
+      content: "Kung ihahambing sa ibang kababaihan, ang irog ko\u02BCy tulad ng
+        liryo sa gitna ng matinik na halamanan.  "
+      comments: []
+    - title: 
+      content: "Kung ihahambing naman sa ibang kabinataan, ang mahal ko\u02BCy tulad
+        ng puno ng mansanas sa gitna ng mga puno roon sa kagubatan. Ako ay nanabik
+        na maupo sa lilim niya, at tikman ang matamis niyang bunga. "
+      comments: []
+    - title: 
+      content: 'Dinala niya ako sa isang handaan para ipakita sa lahat na ako ay
+        kanyang minamahal. '
+      comments: []
+    - title: 
+      content: "Pakainin ninyo ako ng pasas at mansanas para ako\u02BCy muling lumakas,
+        sapagkat nanghina ako dahil sa pag-ibig. "
+      comments: []
+    - title: 
+      content: "Ulo ko\u02BCy nakaunan sa kaliwa niyang bisig at ang kanang kamay
+        naman niya ay nakayakap sa akin.  "
+      comments: []
+    - title: 
+      content: "Kaya kayong mga dalaga ng Jerusalem, mangako kayo sa pamamagitan
+        ng mga batang usa at gasela, na hindi ninyo hahayaang ang pag-ibig ay umusbong
+        hangga\u02BCt hindi pa dumarating ang tamang panahon.  "
+      comments: []
+    - title: 
+      content: 'Ayan na! Naririnig ko nang paparating ang aking mahal. Dumarating
+        siyang patalon-talon na parang usa sa mga bundok at burol. '
+      comments: []
+    - title: 
+      content: "Tingnan ninyo, nariyan na siya na nakatayo sa may pader, at sa bintana
+        ako\u02BCy sinisilip. "
+      comments: []
+    - title: 
+      content: "Sinabi niya sa akin, \u201CHalika na irog kong maganda at sa akin
+        ay sumama ka. "
+      comments: []
+    - title: 
+      content: 'Tapos na ang panahon ng taglamig at tag-ulan. '
+      comments: []
+    - title: 
+      content: 'Namumukadkad na ang mga bulaklak sa parang, panahon na ng pag-aawitan
+        at maririnig na rin ang huni ng mga kalapati sa kabukiran. '
+      comments: []
+    - title: Lalaki
+      content: "Ang mga bunga ng igos ay hinog na[[COMMENT(0)]] at humahalimuyak
+        ang bulaklak ng mga ubas. Halika na irog kong maganda, sa akin ay sumama
+        ka na.\u201D  "
+      comments:
+      - number: '2:13 '
+        content: '<b>: </b>o, <b>Ang mga puno ng igos ay namumunga na.</b>'
+    - title: Mga Babae ng Jerusalem
+      content: "Katulad mo\u02BCy kalapating nagtatago sa bitak ng malaking bato.
+        Ipakita mo sa akin ang magandang mukha mo at iparinig din ang maamo mong
+        tinig.  "
+      comments: []
+    - title: Babae
+      content: 'Bilis! Hulihin ang mga asong-gubat[[COMMENT(0)]] na sumisira ng aming
+        mga ubasang namumulaklak.  '
+      comments:
+      - number: '2:15 '
+        content: '<b>: </b>sa Ingles, <b>fox.</b>'
+    - title: 
+      content: 'Akin lang ang mahal ko, at ako naman ay kanya lang. Nagpapastol siya
+        sa gitna ng mga liryo. '
+      comments: []
+  - verses:
+    - title: 
+      content: "  Sa gabi, habang ako\u02BCy nakahiga, nananabik ako sa aking minamahal.
+        Hinahanap-hanap ko siya, subalit hindi makita. "
+      comments: []
+    - title: 
+      content: "Kaya bumangon ako\u02BCt nilibot ang lungsod, mga lansangan, at mga
+        liwasan. Hinanap ko ang aking mahal, pero hindi ko siya makita. "
+      comments: []
+    - title: 
+      content: "Nakita ako ng mga guwardya na naglilibot sa lungsod. Tinanong ko
+        sila, \u201CNakita ba ninyo ang mahal ko?\u201D  "
+      comments: []
+    - title: 
+      content: 'Hindi pa man ako nakakalayo sa kanila, nakita ko ang mahal ko. Hinawakan
+        ko siya ng buong higpit at hindi binitiwan hanggang nadala ko siya sa bahay
+        ng aking ina, doon sa silid kung saan ako nabuo. '
+      comments: []
+    - title: Mga Babae ng Jerusalem
+      content: "Kayong mga dalaga ng Jerusalem, mangako kayo sa pamamagitan ng mga
+        batang usa at gasela, na hindi ninyo hahayaang ang pag-ibig ay umusbong hangga\u02BCt
+        hindi pa dumarating ang tamang panahon.  "
+      comments: []
+    - title: 
+      content: 'Sino kaya itong dumarating mula sa ilang na tila makapal na usok
+        na amoy mira at insensong itinitinda ng mangangalakal? '
+      comments: []
+    - title: 
+      content: 'Tingnan ninyo! Iyan ang karwahe ni Solomon na napapalibutan ng 60
+        pinakamagagaling na kawal ng Israel. '
+      comments: []
+    - title: 
+      content: "Lahat sila\u02BCy mayroong espada at bihasa sa pakikipaglaban. Laging
+        handa kahit sa gabi man sumalakay. "
+      comments: []
+    - title: 
+      content: 'Ang karwaheng iyon na ipinagawa ni Haring Solomon ay yari sa kahoy
+        na galing sa Lebanon. '
+      comments: []
+    - title: Babae
+      content: 'Nababalot sa pilak ang haligi nito at palamuting ginto ang tumatakip
+        dito. Ang kutson ng upuan ay binalot sa telang kulay ube at mga babaeng taga-Jerusalem
+        ang nagpaganda ng loob ng karwahe.  '
+      comments: []
+  - verses:
+    - title: Lalaki
+      content: "  Napakaganda mo, O irog ko. Ang mga mata mong natatakpan ng belo
+        ay parang mga mata ng kalapati. Ang buhok mo\u02BCy parang kawan ng kambing
+        na pababa sa Bundok ng Gilead. "
+      comments: []
+    - title: 
+      content: "Ang mga ngipin mo\u02BCy kasimputi ng tupang bagong gupit at pinaliguan.
+        Buong-buo at maganda ang pagkakahanay. "
+      comments: []
+    - title: 
+      content: "Ang mga labi mo\u02BCy parang pulang laso, tunay ngang napakaganda.
+        Ang mga pisngi mong natatakpan ng belo\u02BCy mamula-mula na parang bunga
+        ng pomegranata. "
+      comments: []
+    - title: 
+      content: "Ang leeg mo\u02BCy kasingganda ng tore ni David. Napapalamutian ng
+        kwintas na tila isang libong kalasag ng mga kawal. "
+      comments: []
+    - title: 
+      content: "Ang dibdib mo\u02BCy kasing tikas ng tindig ng kambal na batang usa
+        na nanginginain sa gitna ng mga liryo. "
+      comments: []
+    - title: 
+      content: 'Bago magbukang-liwayway at bago mawala ang dilim, mananatili ako
+        sa dibdib mong tila mga bundok na pinabango ng mira at insenso. '
+      comments: []
+    - title: 
+      content: "O irog ko, ang lahat sa iyo\u02BCy maganda. Walang maipipintas sa
+        iyo.  "
+      comments: []
+    - title: 
+      content: 'O aking magiging kabiyak, sumama ka sa akin mula sa Lebanon. Bumaba
+        tayo mula sa tuktok ng mga bundok ng Amana, Senir at Hermon, na tinitirhan
+        ng mga leopardo at leon. '
+      comments: []
+    - title: 
+      content: 'O irog ko na aking magiging kabiyak, sa isang sulyap mo lamang at
+        sa pang-akit ng iyong kwintas na napapalamutian ng iisang bato ay nabihag
+        mo na ang aking puso. '
+      comments: []
+    - title: 
+      content: "Ang pag-ibig mo aking irog ay walang kasingtamis. O aking magiging
+        kabiyak, higit pa ito kaysa sa masarap na inumin. Ang samyo ng iyong pabango\u02BCy
+        mas mabango kaysa sa lahat ng pabango. "
+      comments: []
+    - title: 
+      content: "Ang mga labi mo, aking magiging kabiyak ay kasintamis ng pulot. Ang
+        dila mo\u02BCy tila may gatas at pulot. At ang damit mo\u02BCy kasimbango
+        ng mga puno ng sedro sa Lebanon. "
+      comments: []
+    - title: 
+      content: 'O irog ko, aking magiging kabiyak, tulad ka ng isang halamanan na
+        may bukal at nababakuran. '
+      comments: []
+    - title: 
+      content: "Ang mga puno\u02BCy namumunga ng pomegranata at iba pang mga piling
+        bunga. Sagana ito sa halamang henna, nardo, "
+      comments: []
+    - title: 
+      content: "safron, kalamo at sinamon, maging ng iba\u02BCt ibang klase ng insenso,
+        mira, aloe at iba pang mamahaling pabango. "
+      comments: []
+    - title: Babae
+      content: 'Tulad ka ng isang hardin na may bukal na umaagos mula sa mga kabundukan
+        ng Lebanon.  '
+      comments: []
+  - verses:
+    - title: LalakiMga Babae ng JerusalemBabae
+      content: '  Nasa hardin ako ngayon, aking irog na magiging kabiyak ko. Nanguha
+        ako ng mira at mga pabango. Kinain ko ang aking pulot at ininom ang aking
+        alak at gatas.Kayong mga nagmamahalan, kumain kayo at uminom.  '
+      comments: []
+    - title: 
+      content: "Habang ako\u02BCy natutulog, nanaginip ako. Narinig kong kumakatok
+        ang mahal ko. Ang sabi niya, \u201CPapasukin mo ako, irog ko. Basang-basa
+        na ng hamog ang ulo ko.\u201D "
+      comments: []
+    - title: 
+      content: "Pero sinabi ko, \u201CHinubad ko na ang aking damit, isusuot ko pa
+        ba itong muli? Hinugasan ko na ang aking mga paa, dudumihan ko pa ba itong
+        muli?\u201D "
+      comments: []
+    - title: 
+      content: 'Nang hawakan ng aking mahal ang susian ng pinto, biglang tumibok
+        ng mabilis ang aking puso. '
+      comments: []
+    - title: 
+      content: "Bumangon ako upang siya\u02BCy papasukin. At nang hawakan ko ang
+        susian ng pinto tumulo ang mira sa kamay ko. "
+      comments: []
+    - title: 
+      content: 'Binuksan ko ang pinto para sa aking mahal, pero wala na siya. Hinanap
+        ko siya, pero hindi ko siya makita. Tinawag ko siya, pero walang sumagot. '
+      comments: []
+    - title: 
+      content: "Nakita ako ng mga guwardya na naglilibot sa lungsod. Pinalo nila
+        ako, at ako\u02BCy nasugatan. Kinuha[[COMMENT(0)]] pa nila ang aking damit. "
+      comments:
+      - number: '5:7 '
+        content: '<b>: </b>o, <b>pinunit.</b>'
+    - title: Mga Babae ng Jerusalem
+      content: 'Kayong mga babae ng Jerusalem, mangako kayo sa akin! Kapag nakita
+        ninyo ang aking mahal, sabihin ninyo sa kanyang nanghihina ako dahil sa pag-ibig.  '
+      comments: []
+    - title: Babae
+      content: "O babaeng pinakamaganda, ano bang mayroon sa iyong minamahal na wala
+        sa iba, at kami ay iyong pinasusumpa pa? Siya ba\u02BCy talagang nakakahigit
+        sa iba?  "
+      comments: []
+    - title: 
+      content: 'Ang aking mahal ay makisig at mamula-mula ang kutis. Nag-iisa lamang
+        siya sa sampung libong lalaki. '
+      comments: []
+    - title: 
+      content: "Mas mahal pa sa ginto ang kanyang ulo. Buhok niya\u02BCy medyo kulot
+        at kasing-itim ng uwak. "
+      comments: []
+    - title: 
+      content: "Mga mata niya\u02BCy napakagandang pagmasdan, tulad ng mamahaling
+        hiyas at tulad ng mata ng mga kalapati, na kasingputi ng gatas, sa tabi ng
+        batis. "
+      comments: []
+    - title: 
+      content: "Mga pisngi niya\u02BCy kasimbango ng harding puno ng halamang ginagawang
+        pabango. At ang mga labi niya\u02BCy parang mga liryo na dinadaluyan ng mira. "
+      comments: []
+    - title: 
+      content: "Mga bisig niya\u02BCy tila mahahabang bareta ng ginto na napapalamutian
+        ng mamahaling bato. Katawa\u02BCy tila pangil ng elepante, makinang at napapalamutian
+        ng mga batong safiro. "
+      comments: []
+    - title: 
+      content: "Mga paa niya\u02BCy tulad ng mga haliging marmol na nakatayo sa pundasyong
+        ginto. Napakaganda niyang pagmasdan, tulad ng mga puno ng sedro sa Lebanon. "
+      comments: []
+  - verses:
+    - title: Mga Babae ng JerusalemBabae
+      content: '  O babaeng pinakamaganda, nasaan na ang iyong mahal? Saan siya nagpunta
+        upang matulungan ka naming hanapin siya?  '
+      comments: []
+    - title: 
+      content: 'Ang aking mahal ay nagpunta sa hardin niyang puno ng halamang ginagawang
+        pabango, upang magpastol doon at kumuha ng mga liryo. '
+      comments: []
+    - title: Lalaki
+      content: "Ako\u02BCy sa aking mahal, at ang mahal ko naman ay sa akin lang.
+        Nagpapastol siya sa gitna ng mga liryo.  "
+      comments: []
+    - title: 
+      content: 'O napakaganda mo, irog ko. Kasingganda ka ng lungsod ng Tirza at
+        kabigha-bighani gaya ng Jerusalem. Kamangha-mangha ka gaya ng mga kawal na
+        may dalang mga bandila. '
+      comments: []
+    - title: 
+      content: "Huwag mo akong titigan dahil hindi ko ito matagalan. Ang buhok mo\u02BCy
+        parang kawan ng kambing na pababa sa Bundok ng Gilead. "
+      comments: []
+    - title: 
+      content: "Ang mga ngipin mo\u02BCy kasimputi ng tupang bagong paligo. Buong-buo
+        at maganda ang pagkakahanay nito. "
+      comments: []
+    - title: 
+      content: 'Mamula-mula ang noo mong natatakpan ng belo, tulad ng bunga ng pomegranata.  '
+      comments: []
+    - title: 
+      content: "Kahit na ako\u02BCy may 60 asawang reyna, 80 asawang alipin, at hindi
+        mabilang na mga dalaga, "
+      comments: []
+    - title: 
+      content: 'nag-iisa lang ang aking sinisinta. Tunay na maganda at walang kapintasan.
+        Ang tanging anak na babae ng kanyang ina at pinakapaborito pa. Ang mga babaeng
+        nakakakita sa kanya ay hindi mapigilang purihin siya. Kahit na ang mga asawang
+        reyna at asawang alipin ay humahanga sa kanya. '
+      comments: []
+    - title: 
+      content: "Ang sabi nila, \u201CSino ba ito na kapag tiningnan ay parang bukang-liwayway
+        ang kagandahan? Kasingganda siya ng buwan, nakakasilaw na parang araw at
+        nakakamangha tulad ng mga bituin.\u201D[[COMMENT(0)]]  "
+      comments:
+      - number: '6:10 '
+        content: '<b>: </b>o, <b>mga kawal na may dalang mga bandila.</b>'
+    - title: 
+      content: 'Pumunta ako sa taniman ng almendro para tingnan ang mga bagong tanim
+        na sumibol sa may lambak, at para tingnan na rin kung umuusbong na ang mga
+        ubas at kung ang mga pomegranata ay namumulaklak na. '
+      comments: []
+    - title: Mga Babae ng Jerusalem
+      content: "Hindi ko namalayan, ako pala\u02BCy nandoon na sa maharlikang higaan
+        kasama ang aking mahal.  "
+      comments: []
+  - verses:
+    - title: 
+      content: "  O maharlikang babae, napakaganda ng mga paa mong may sandalyas.
+        Hugis ng iyong mga hita\u02BCy parang mga alahas na gawa ng bihasa. "
+      comments: []
+    - title: 
+      content: "Ang pusod mo\u02BCy kasimbilog ng tasang laging puno ng masarap na
+        alak. Ang baywang mo\u02BCy parang ibinigkis na trigong napapaligiran ng
+        mga liryo. "
+      comments: []
+    - title: 
+      content: "Ang dibdib mo\u02BCy tila kambal na batang usa. "
+      comments: []
+    - title: 
+      content: "Ang leeg mo\u02BCy parang toreng gawa sa pangil ng elepante. Ang
+        mga mata mo\u02BCy kasinglinaw ng batis sa Heshbon, malapit sa pintuang bayan
+        ng Bet Rabim. Ang ilong mo\u02BCy kasingganda ng tore ng Lebanon na nakaharap
+        sa Damasco. "
+      comments: []
+    - title: 
+      content: "Ang ulo mo\u02BCy kasingganda ng Bundok ng Carmel. Ang buhok mo\u02BCy
+        kasingkintab ng mga maharlikang kasuotan at ang hari\u02BCy nabihag sa kagandahan
+        nito.  "
+      comments: []
+    - title: 
+      content: 'O napakaganda mo, aking sinta, umaapaw ka sa kariktan. '
+      comments: []
+    - title: 
+      content: "Ang tindig mo\u02BCy parang puno ng palma at ang dibdib mo\u02BCy
+        parang mga bunga nito. "
+      comments: []
+    - title: 
+      content: "At aking sinabi, \u201CAakyat ako sa palma at hahawak sa kanyang
+        mga bunga.\u201D Ang iyong dibdib ay parang katulad ng kumpol ng ubas, at
+        ang samyo ng iyong hininga\u02BCy parang mansanas. "
+      comments: []
+    - title: Babae
+      content: "Ang halik mo\u02BCy kasingtamis ng pinakamasarap na alak. Ang alak
+        na ito\u02BCy dahan-dahang dumadaloy mula sa labi ng aking minamahal.  "
+      comments: []
+    - title: 
+      content: 'Ako ay sa kanya lang, at ako lamang ang kanyang inaasam. '
+      comments: []
+    - title: 
+      content: 'Halika mahal ko, pumunta tayo sa bukid at doon magpalipas ng gabi,
+        sa tabi ng mga bulaklak ng henna.[[COMMENT(0)]]  '
+      comments:
+      - number: '7:11 '
+        content: '<b>: </b>o, <b>mga baryo.</b>'
+    - title: 
+      content: 'Maaga tayong gumising at ating tingnan kung namulaklak at namunga
+        na ang ubasan. Tingnan din natin kung namumukadkad na ang mga pomegranata.
+        At doon, ipadarama ko sa iyo ang aking pagmamahal. '
+      comments: []
+  - verses:
+    - title: 
+      content: '  Kung naging kapatid lamang sana kita, na pinasuso ng aking ina,
+        hahalikan kita saanman tayo magkita, at hindi nila ako pag-iisipan ng masama. '
+      comments: []
+    - title: 
+      content: 'Dadalhin kita sa bahay ng aking ina, at doon ay tuturuan mo ako ng
+        tungkol sa pag-ibig. Paiinumin kita ng mabangong alak na mula sa katas ng
+        aking mga pomegranata. '
+      comments: []
+    - title: 
+      content: "Ulo ko\u02BCy nakaunan sa kaliwa mong bisig at ang kanang kamay mo
+        naman ay nakayakap sa akin.  "
+      comments: []
+    - title: Mga Babae ng Jerusalem
+      content: "Kayong mga babae ng Jerusalem, mangako kayo na hindi ninyo hahayaan
+        na ang pag-ibig ay umusbong hangga\u02BCt hindi pa dumarating ang tamang
+        panahon.  "
+      comments: []
+    - title: Babae
+      content: 'Sino kaya itong dumarating mula sa ilang na nakahilig sa kanyang
+        minamahal?Ginising ko ang iyong damdamin, doon sa ilalim ng puno ng mansanas,
+        kung saan ka isinilang. '
+      comments: []
+    - title: 
+      content: 'Iukit mo ang pangalan ko sa puso mo para patunayan na ako lamang
+        ang mahal mo. At ako lamang ang yayakapin ng mga bisig mo. Makapangyarihan
+        ang pag-ibig gaya ng kamatayan; maging ang pagnanasa ay hindi mapipigilan.
+        Ang pag-ibig ay parang lumiliyab at lumalagablab na apoy. '
+      comments: []
+    - title: Ang mga Kapatid na Lalaki ng Babae
+      content: 'Kahit laksa-laksang tubig, hindi ito mapipigilan. Sinumang magtangkang
+        bilhin ito kahit ng lahat niyang yaman ay baka malagay lamang sa kahihiyan.  '
+      comments: []
+    - title: 
+      content: 'May kapatid kaming dalagita, at ang kanyang dibdib ay hindi pa nababakas.
+        Anong gagawin namin sa araw na may manligaw na sa kanya? '
+      comments: []
+    - title: Babae
+      content: 'Birhen man siya o hindi, iingatan namin siya.[[COMMENT(0)]]  '
+      comments:
+      - number: '8:9 '
+        content: "sa literal, <b>Kung pader man siya, patatayuan namin ito ng mga
+          toreng pilak. Kung siya nama\u02BCy pintuan, igagawa namin siya ng trangka
+          na yari sa kahoy na sedro.</b>"
+    - title: 
+      content: "Ako\u02BCy birhen nga, at ang dibdib ko\u02BCy parang mga tore. Kaya
+        nga ang aking mahal ay lubos na nasisiyahan sa akin.  "
+      comments: []
+    - title: 
+      content: "May ubasan si Solomon sa Baal Hamon na kanyang pinauupahan sa mga
+        magsasaka roon. Bawat isa sa kanila\u02BCy nagbibigay sa kanya ng 1,000 piraso
+        ng pilak bilang parte niya sa ubasan. "
+      comments: []
+    - title: Lalaki
+      content: 'Ikaw ang bahala Solomon, kung ang parte mo ay 1,000 piraso ng pilak
+        at ang parte ng mga magsasaka ay 200 piraso ng pilak. Pero ako na ang bahala
+        sa sarili kong ubasan.  '
+      comments: []
+    - title: Babae
+      content: 'O irog kong namamasyal sa hardin, mabuti pa ang mga kaibigan mo,
+        naririnig nila ang iyong tinig. Iparinig mo rin ito sa akin.  '
+      comments: []

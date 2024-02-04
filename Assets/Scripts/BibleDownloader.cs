@@ -8,18 +8,16 @@ using UnityEngine.Networking;
 public class BibleDownloader : MonoBehaviour
 {
 	public Book[] books;
+	public Book[] booksArrangeCopy;
+	public List<Book> arrangedBooks = new List<Book>();
 	
 	public string urlPre;
-	// public string urlBook;
 	public string urlPost;
 	public string htmlStartRead;
 	
-	[EnumData(typeof(InfoType))]
-	public string[] tags; // GenericPropertyJSON:{"name":"tags","type":-1,"arraySize":6,"arrayType":"string","children":[{"name":"Array","type":-1,"arraySize":6,"arrayType":"string","children":[{"name":"size","type":12,"val":6},{"name":"data","type":3,"val":"<span class=\"ChapterContent_heading__xBDcs\">"},{"name":"data","type":3,"val":"<span class=\"ChapterContent_label__R2PLt\">"},{"name":"data","type":3,"val":"<span class=\"ChapterContent_content__RrUqA\">"},{"name":"data","type":3,"val":"<span class=\"ChapterContent_fr__0KsID\">"},{"name":"data","type":3,"val":"<span class=\"ft\">"},{"name":"data","type":3,"val":"<span class=\"ChapterContent_fqa__Xa2yn\">"}]}]}
-	public string lordTag; // <span class="ChapterContent_nd__ECPAf"><span class="ChapterContent_content__RrUqA">
-	
-	
+	[Space]
 	public Book currentBook;
+	public BibleExtractor extractor;
 	
 	[Range(0,1)]
 	public float bookProgress, allProgress;
@@ -37,7 +35,7 @@ public class BibleDownloader : MonoBehaviour
 		}
 		
 		float duration = Time.time - startTime;
-		Debug.Log($"<b>EXIT! duration: <color=yellow>'{duration}'</color></b>");
+		Debug.Log($"<b>EXIT! duration: <color=green>'{duration} seconds'</color></b>");
 	}
 	
 	IEnumerator Download(Book book)
@@ -58,13 +56,19 @@ public class BibleDownloader : MonoBehaviour
 			yield return null;
 			
 			// Debug.Log($"{i} / {numberOfChapters}");
+			extractor.text = html;
+			extractor.Extract();
 			
-			book.chapters[i] = Extract(html);
+			yield return null;
+			
+			var chapter = new Chapter(){ verses = extractor.verses.ToArray() };
+			book.chapters[i] = chapter;
+			
 			bookProgress = (float) i / (float) (numberOfChapters - 1);
 		}
 		
 		float duration = Time.time - startTime;
-		Debug.Log($"Done: {book.name}. duration: '{duration}'");
+		Debug.Log($"Done: <b><color=cyan>{book.name}</color></b>. duration: <color=yellow>'{duration} seconds'</color>");
 		
 		#if UNITY_EDITOR
 		UnityEditor.EditorUtility.SetDirty(book);
@@ -87,7 +91,16 @@ public class BibleDownloader : MonoBehaviour
 		}
 	}
 	
-	Chapter Extract(string html)
+	#if UNITY_EDITOR
+	[ContextMenu("Extract All Data to JSON")]
+	void ExtractAllJson()
+	{
+		foreach(var book in books)
+			book.ToJson();
+	}
+	#endif
+	
+	/* Chapter Extract(string html)
 	{
 		var infos = new List<Info>();
 		var verses = new List<Verse>();
@@ -288,5 +301,18 @@ public class BibleDownloader : MonoBehaviour
 		}
 		
 		return new Chapter(){ verses = verses.ToArray() };
+	} */
+	
+	[ContextMenu("Arrange Books")]
+	void ArrangeBooks()
+	{
+		arrangedBooks.Clear();
+		
+		foreach(var book in booksArrangeCopy)
+		{
+			var target = Array.Find(books, b => b.name == book.name);
+			
+			arrangedBooks.Add(target);
+		}
 	}
 }

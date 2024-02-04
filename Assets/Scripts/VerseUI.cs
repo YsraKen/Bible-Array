@@ -83,10 +83,10 @@ public class VerseUI : MonoBehaviour, IPointerClickHandler
 			
 			var comment = _comments[linkIndex];
 			string title = comment.number;
-			string msg = "";
+			string msg = comment.content;
 			
-			foreach(var content in comment.contents)
-				msg += $"{content.ft} <i><b>{content.body}</b></i>";
+			// foreach(var content in comment.contents)
+				// msg += $"{content.ft} <i><b>{content.body}</b></i>";
 			
 			BibleUI.ShowPopup(title, msg, position);
 			

@@ -1,0 +1,248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: NAM
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Nahum
+  fancyName: 
+  nickname: nam
+  version: {fileID: 11400000, guid: fc06489f21c1c3c43a353b052ba682a3, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - title: Ang Galit ng <smallcaps>Panginoon</smallcaps> sa Nineve
+      content: "  Ang mensahe ng aklat na ito ay tungkol sa Nineve.[[COMMENT(0)]]
+        Ito\u02BCy ipinahayag ng <smallcaps>Panginoon</smallcaps> kay Nahum na taga-Elkosh.  "
+      comments:
+      - number: '1:1 '
+        content: '<b>: </b>Ito ang kabisera ng Asiria at kumakatawan sa buong bansa
+          ng Asiria.'
+    - title: 
+      content: Ayaw ng <smallcaps>Panginoong</smallcaps> Dios na sumamba ang mga
+        tao sa ibang mga dios.[[COMMENT(0)]]<smallcaps> Galit siya sa kanyang mga
+        kaaway at pinaghihigantihan niya sila. </smallcaps>
+      comments:
+      - number: '1:2 '
+        content: '<b>: </b>sa literal, <b>Ang <span class="ChapterContent_nd__ECPAf">Panginoon</span>
+          ay mapanibughuing Dios.</b>'
+    - title: 
+      content: 'Ang <smallcaps>Panginoon</smallcaps> ay hindi madaling magalit, ngunit
+        dakila ang kanyang kapangyarihan at tiyak na parurusahan niya ang nagkasala.
+        Kapag dumadaan siya, umuugong ang hangin at bumabagyo. Ang mga ulap ay parang
+        alikabok sa kanyang mga paa. '
+      comments: []
+    - title: 
+      content: "Sa utos lamang niya\u02BCy natutuyo ang mga dagat at mga ilog. Nalalanta
+        ang mga tanim sa Bashan, sa Bundok ng Carmel at sa Lebanon. "
+      comments: []
+    - title: 
+      content: 'Nayayanig ang mundo sa kanyang presensya, pati na ang mga bundok
+        at mga burol, at ang mga tao sa mundo ay nanginginig. '
+      comments: []
+    - title: 
+      content: 'Sino ang makakatagal sa matinding galit ng <smallcaps>Panginoon</smallcaps>?
+        Kapag siya ay nagalit, para siyang bumubuga ng apoy, at ang mga bato ay nabibiyak
+        sa harap niya.  '
+      comments: []
+    - title: 
+      content: 'Ang <smallcaps>Panginoon</smallcaps> ay mabuti; matibay siyang kanlungan
+        sa oras ng kagipitan, at inaalagaan niya ang nananalig sa kanya. '
+      comments: []
+    - title: 
+      content: 'Para siyang rumaragasang baha na lubusang pupuksain ang kanyang mga
+        kaaway. Tutugisin niya sila hanggang sa mamatay.[[COMMENT(0)]]  '
+      comments:
+      - number: '1:8 '
+        content: '<b>: </b>sa literal, <b>hanggang sa kailaliman; </b>ang ibig sabihin,
+          ang lugar ng mga patay.'
+    - title: 
+      content: 'Mga taga-Asiria, kung ano man ang masamang binabalak ninyo laban
+        sa mga mamamayan ng  <smallcaps>Panginoon</smallcaps>, wawakasan iyan ng
+        <smallcaps>Panginoon</smallcaps> at hindi na mauulit pa. '
+      comments: []
+    - title: 
+      content: 'Para kayong mga lasing na nakapulupot sa matinik na halaman. Lilipulin
+        kayo na parang natutupok na dayami. '
+      comments: []
+    - title: 
+      content: 'Ang isa sa inyong mga pinuno ay nagbalak ng masama laban sa mga mamamayan
+        ng  <smallcaps>Panginoon</smallcaps>. Masama ang kanyang ipinapayo.  '
+      comments: []
+    - title: 
+      content: "Ito ang sinasabi ng <smallcaps>Panginoon</smallcaps>  sa mga taga-Juda:
+        \u201CKahit na malakas at marami ang kalaban ninyong taga-Asiria, lilipulin
+        ko sila hanggang sa mawala. Kahit na pinarusahan ko kayo, hindi ko na iyon
+        uulitin pang muli. "
+      comments: []
+    - title: 
+      content: "Sapagkat palalayain ko na kayo ngayon mula sa kapangyarihan ng mga
+        taga-Asiria.\u201D  "
+      comments: []
+    - title: 
+      content: "Ito naman ang sinasabi ng <smallcaps>Panginoon</smallcaps> sa mga
+        taga-Asiria: \u201CMawawala ang lahi ninyo at wawasakin ko ang mga rebulto
+        ninyong kahoy o metal sa templo ng inyong mga dios-diosan. Ihahanda ko na
+        ang inyong mga libingan dahil hindi na kayo dapat mabuhay.\u201D  "
+      comments: []
+  - verses:
+    - title: Ang Pagkawasak ng Nineve
+      content: '  Mga taga-Nineve, sinasalakay na kayo ng inyong mga kalaban na magpapangalat
+        sa inyo. Kaya guwardyahan ninyo ang pader ng inyong lungsod at bantayan ang
+        mga daan. Tipunin ninyo ang inyong mga sundalo at humanda kayo sa digmaan. '
+      comments: []
+    - title: 
+      content: 'Kahit na nilipol ninyo ang Israel at Juda[[COMMENT(0)]] na parang
+        mga tanim na ubas na pinatay, ibabalik ng <smallcaps>Panginoon</smallcaps>
+        ang kanilang kapangyarihan.  '
+      comments:
+      - number: '2:2 '
+        content: '<b>: </b>sa Hebreo, <b>Jacob at Israel.</b><b>: </b>o, <b>at nawala
+          ang kanilang mga awit.</b>'
+    - title: 
+      content: 'Pula ang kalasag at damit ng mga sundalo ng inyong kalaban. At sa
+        oras ng kanilang pagsalakay kumikislap ang metal ng kanilang mga karwahe
+        at nagtatatakbo ang kanilang mga kabayo.[[COMMENT(0)]]  '
+      comments:
+      - number: '2:3 '
+        content: '<b>: </b>Ito ang nasa Septuagint at sa Syriac. Sa Hebreo, <b>iwinawagayway
+          nila ang kanilang mga (sibat na gawa sa) kahoy na sipres.</b>'
+    - title: 
+      content: "Humahagibis ang kanilang mga karwahe sa mga lansangan, paroo\u02BCt
+        parito na sumusugod sa mga plasa. Nagliliwanag ang mga ito na parang sulo,
+        at kumikislap na parang kidlat. "
+      comments: []
+    - title: 
+      content: 'Inuutusan ng hari ang mga opisyal ng mga kawal. Nagkakandarapa sila
+        papunta sa mga pader para maglagay ng mga pananggalang para sa mga sundalong
+        wawasak ng pader. '
+      comments: []
+    - title: 
+      content: 'Mabubuksan ang mga pintuan ng inyong lungsod sa bandang ilog at magigiba
+        ang palasyo. '
+      comments: []
+    - title: 
+      content: 'Naipahayag na, na bibihagin kayo[[COMMENT(0)]] at dadalhin sa ibang
+        bayan. Uungol ang inyong mga utusang babae na parang kalapati habang dinadagukan
+        nila ang kanilang dibdib dahil sa kalungkutan. '
+      comments:
+      - number: '2:7 '
+        content: '<b>: </b>sa literal, <b>huhubaran kayo.</b>'
+    - title: 
+      content: 'Ang mga taong tumatakas mula sa Nineve ay parang tubig na umagos
+        mula sa nawasak na imbakan ng tubig. Ang mga tumatakas ay pinapabalik ng
+        kanilang mga kasama pero wala ni isa mang bumalik.  '
+      comments: []
+    - title: 
+      content: '  Kayong mga sumasalakay sa Nineve, kunin ninyo ang mga pilak at
+        ginto ng lungsod na ito dahil puno ito ng kayamanan. '
+      comments: []
+    - title: 
+      content: 'Malilipol, mawawasak at magiging mapanglaw na ang Nineve! Kaya natatakot
+        ang mga mamamayan nito, nanghihina ang buong katawan nila, nanginginig ang
+        kanilang mga tuhod, at namumutla silang lahat. Ang Nineve ay parang yungib
+        na tinitirhan ng mag-asawang leon at ng mga anak nito. Walang pwedeng manakit
+        sa kanila sa yungib. Pinapatay at nilalapa ng lalaking leon ang kanyang biktima
+        at ibinibigay sa kanyang asawa at mga anak. Pinupuno niya ang kanyang yungib
+        ng karne ng kanyang mga biktima.[[COMMENT(0)]] Pero ngayon, ang Nineve ay
+        wawasakin na. '
+      comments:
+      - number: '2:11-12 '
+        content: Ang ibig sabihin nito ay nag-iisip ang mga taga-Nineve na walang
+          gagalaw sa kanila. Sinasalakay nila ang ibang mga bansa, sinasamsam ang
+          mga ari-arian nito at dinadala sa kanilang lugar para ang kanilang mga
+          mamamayan ay makinabang.
+  - verses:
+    - title: Kahabag-habag ang Nineve
+      content: '  Kahabag-habag ang lungsod ng Nineve. Ito ay puno ng kasakiman at
+        kasinungalingan, lungsod ng mamamatay-tao at hindi nauubusan ng mabibiktima. '
+      comments: []
+    - title: 
+      content: 'Sasalakayin sila ng mga kalaban nila. Maririnig nila ang paghagupit
+        ng latigo, ang ingay ng mga gulong ng mga karwahe, ang yabag ng paa ng mga
+        kabayo, at ang rumaragasang mga karwahe. '
+      comments: []
+    - title: 
+      content: 'Makikita nila ang sumusugod na mga mangangabayo, ang kumikinang na
+        mga espada at mga sibat, at ang nakabunton na mga patay na di-mabilang. Matitisod
+        sa mga bangkay ang mga sundalo. '
+      comments: []
+    - title: 
+      content: 'Mangyayari ito sa Nineve dahil para siyang babaeng bayaran na paulit-ulit
+        na ibinenta ang katawan. Nang-aakit siya at nanggagayuma, kaya naeengganyo
+        niya ang mga bansa na magpasakop sa kanya.  '
+      comments: []
+    - title: 
+      content: "Sinabi ng <smallcaps>Panginoong</smallcaps> Makapangyarihan, \u201CMga
+        taga-Nineve, makinig kayo! Kalaban ko kayo! Kaya hihiyain ko kayo sa harap
+        ng mga bansa at mga kaharian. Maihahalintulad kayo sa isang babaeng itinaas
+        ang damit hanggang ulo at nakita ang kahubaran. Kasusuklaman ko kayo tulad
+        ng isang taong hinagisan ng basura, kaya ang lahat ng makakakita sa inyo
+        ay mandidiri at iiwas sa inyo. Sasabihin nila, \u2018Giba na ang Nineve.
+        Walang iiyak o aaliw sa kanya.\u2019\u2009\u201D  "
+      comments: []
+    - title: 
+      content: 'Higit bang mabuti ang Nineve kaysa sa lungsod ng Tebes na malapit
+        sa Ilog ng Nilo? Ang ilog na ito ang pinakapader ng Tebes na nagsisilbing
+        proteksyon nito. '
+      comments: []
+    - title: 
+      content: "Ang Etiopia[[COMMENT(0)]] at ang buong Egipto ang pinanggagalingan
+        ng lakas ng Tebes, at ang akala niya\u02BCy mananatili ito magpakailanman.
+        Ang Put at ang Libya ay mga bansang kakampi rin niya. "
+      comments:
+      - number: '3:9 '
+        content: '<b>: </b>sa Hebreo, <b>Cush.</b>'
+    - title: 
+      content: 'Ganoon pa man, naging bihag pa rin ang kanyang mga mamamayan at dinala
+        sa ibang lugar. Ang kanilang mga anak ay pinagdudurog sa mga lansangan. Ginapos
+        ng kadena ang kanilang mga tanyag na mamamayan at pinaghiwa-hiwalay para
+        gawing alipin sa pamamagitan ng palabunutan. '
+      comments: []
+    - title: 
+      content: 'Kayo rin na mga taga-Nineve, magiging pareho kayo sa lasing na hindi
+        alam kung ano ang nangyayari. Sasalakayin din kayo ng inyong mga kalaban
+        at maghahanap kayo ng inyong matataguan na hindi kayo mahuhuli. '
+      comments: []
+    - title: 
+      content: 'Ang lahat ng inyong mga napapaderang lungsod ay magiging parang mga
+        puno ng igos na ang unang bunga ay hinog na; at kapag inuga ang puno, malalaglag
+        ang mga bunga at maaari nang kainin. '
+      comments: []
+    - title: 
+      content: "Tingnan ninyo ang inyong mga kawal\u2009\u2013\u2009para silang mga
+        babae! Ang tarangkahan ng pintuan ng inyong lungsod ay masusunog, kaya madali
+        na itong mapapasok ng inyong mga kalaban.  "
+      comments: []
+    - title: 
+      content: '  Humanda na kayo sa pagdating ng inyong kalaban. Mag-ipon na kayo
+        ng tubig. Patibayin ninyo ang mga pader sa palibot ng inyong lungsod. Gumawa
+        kayo ng mga tisa at ayusin ninyo ang mga pader na ito. '
+      comments: []
+    - title: 
+      content: 'Pero mamamatay kayo sa inyong kinaroroonan sa pamamagitan ng apoy
+        at espada. Para kayong halamanang sinalakay ng mga balang.Dumami kayo na
+        parang balang! '
+      comments: []
+    - title: 
+      content: 'Pinarami ninyo ang inyong mga mangangalakal na higit pa sa mga bituin
+        sa langit. Pero magiging tulad sila ng mga balang na pagkatapos na maubos
+        ang mga tanim ay lumipad nang palayo. '
+      comments: []
+    - title: 
+      content: 'Ang inyong mga tagapagbantay at mga opisyal ay kasindami ng mga balang
+        na nakadapo sa mga pader kapag malamig ang panahon. Pero pagsikat ng araw
+        ay nagliliparan at walang nakakaalam kung saan sila pumunta. '
+      comments: []
+    - title: 
+      content: 'Hari ng Asiria, mamamatay ang iyong mga pinuno. Mangangalat sa kabundukan
+        ang iyong mga mamamayan, at wala nang magtitipon sa kanila. '
+      comments: []

@@ -1,0 +1,3494 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: PRO
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Proverbs
+  fancyName: 
+  nickname: pro
+  version: {fileID: 11400000, guid: 51ee3e37f5ded7941ab6216610f6fc67, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - title: The Purpose of Proverbs
+      content: "  These are the proverbs of Solomon, David\u2019s son, king of Israel.  "
+      comments: []
+    - title: 
+      content: 'Their purpose is to teach people wisdom and discipline,to help them
+        understand the insights of the wise.  '
+      comments: []
+    - title: 
+      content: 'Their purpose is to teach people to live disciplined and successful
+        lives,to help them do what is right, just, and fair.  '
+      comments: []
+    - title: 
+      content: 'These proverbs will give insight to the simple,knowledge and discernment
+        to the young.  '
+      comments: []
+    - title: 
+      content: 'Let the wise listen to these proverbs and become even wiser.Let those
+        with understanding receive guidance  '
+      comments: []
+    - title: 
+      content: 'by exploring the meaning in these proverbs and parables,the words
+        of the wise and their riddles.  '
+      comments: []
+    - title: "A Father\u2019s Exhortation: Acquire Wisdom"
+      content: 'Fear of the <smallcaps>Lord</smallcaps> is the foundation of true
+        knowledge,but fools despise wisdom and discipline.  '
+      comments: []
+    - title: 
+      content: "My child,[[COMMENT(0)]] listen when your father corrects you.Don\u2019t
+        neglect your mother\u2019s instruction.  "
+      comments:
+      - number: '1:8 '
+        content: Hebrew <b>My son; </b>also in 1:10, 15.
+    - title: 
+      content: 'What you learn from them will crown you with graceand be a chain
+        of honor around your neck.  '
+      comments: []
+    - title: 
+      content: 'My child, if sinners entice you,turn your back on them!  '
+      comments: []
+    - title: 
+      content: "They may say, \u201CCome and join us.Let\u2019s hide and kill someone!Just
+        for fun, let\u2019s ambush the innocent!  "
+      comments: []
+    - title: 
+      content: "Let\u2019s swallow them alive, like the grave[[COMMENT(0)]];let\u2019s
+        swallow them whole, like those who go down to the pit of death.  "
+      comments:
+      - number: '1:12 '
+        content: Hebrew <b>like Sheol.</b>
+    - title: 
+      content: "Think of the great things we\u2019ll get!We\u2019ll fill our houses
+        with all the stuff we take.  "
+      comments: []
+    - title: 
+      content: "Come, throw in your lot with us;we\u2019ll all share the loot.\u201D  "
+      comments: []
+    - title: 
+      content: "My child, don\u2019t go along with them!Stay far away from their
+        paths.  "
+      comments: []
+    - title: 
+      content: 'They rush to commit evil deeds.They hurry to commit murder.  '
+      comments: []
+    - title: 
+      content: 'If a bird sees a trap being set,it knows to stay away.  '
+      comments: []
+    - title: 
+      content: 'But these people set an ambush for themselves;they are trying to
+        get themselves killed.  '
+      comments: []
+    - title: Wisdom Shouts in the Streets
+      content: 'Such is the fate of all who are greedy for money;it robs them of
+        life.  '
+      comments: []
+    - title: 
+      content: 'Wisdom shouts in the streets.She cries out in the public square.  '
+      comments: []
+    - title: 
+      content: 'She calls to the crowds along the main street,to those gathered in
+        front of the city gate:  '
+      comments: []
+    - title: 
+      content: "\u201CHow long, you simpletons,will you insist on being simpleminded?How
+        long will you mockers relish your mocking?How long will you fools hate knowledge?  "
+      comments: []
+    - title: 
+      content: "Come and listen to my counsel.I\u2019ll share my heart with youand
+        make you wise.  "
+      comments: []
+    - title: 
+      content: "\u201CI called you so often, but you wouldn\u2019t come.I reached
+        out to you, but you paid no attention.  "
+      comments: []
+    - title: 
+      content: 'You ignored my adviceand rejected the correction I offered.  '
+      comments: []
+    - title: 
+      content: "So I will laugh when you are in trouble!I will mock you when disaster
+        overtakes you\u2014  "
+      comments: []
+    - title: 
+      content: 'when calamity overtakes you like a storm,when disaster engulfs you
+        like a cyclone,and anguish and distress overwhelm you.  '
+      comments: []
+    - title: 
+      content: "\u201CWhen they cry for help, I will not answer.Though they anxiously
+        search for me, they will not find me.  "
+      comments: []
+    - title: 
+      content: 'For they hated knowledgeand chose not to fear the <smallcaps>Lord</smallcaps>.  '
+      comments: []
+    - title: 
+      content: 'They rejected my adviceand paid no attention when I corrected them.  '
+      comments: []
+    - title: 
+      content: 'Therefore, they must eat the bitter fruit of living their own way,choking
+        on their own schemes.  '
+      comments: []
+    - title: 
+      content: "For simpletons turn away from me\u2014to death.Fools are destroyed
+        by their own complacency.  "
+      comments: []
+  - verses:
+    - title: The Benefits of Wisdom
+      content: '  My child,[[COMMENT(0)]] listen to what I say,and treasure my commands.  '
+      comments:
+      - number: '2:1 '
+        content: Hebrew <b>My son.</b>
+    - title: 
+      content: 'Tune your ears to wisdom,and concentrate on understanding.  '
+      comments: []
+    - title: 
+      content: 'Cry out for insight,and ask for understanding.  '
+      comments: []
+    - title: 
+      content: 'Search for them as you would for silver;seek them like hidden treasures.  '
+      comments: []
+    - title: 
+      content: 'Then you will understand what it means to fear the <smallcaps>Lord</smallcaps>,and
+        you will gain knowledge of God.  '
+      comments: []
+    - title: 
+      content: 'For the <smallcaps>Lord</smallcaps> grants wisdom!From his mouth
+        come knowledge and understanding.  '
+      comments: []
+    - title: 
+      content: 'He grants a treasure of common sense to the honest.He is a shield
+        to those who walk with integrity.  '
+      comments: []
+    - title: 
+      content: 'He guards the paths of the justand protects those who are faithful
+        to him.  '
+      comments: []
+    - title: 
+      content: 'Then you will understand what is right, just, and fair,and you will
+        find the right way to go.  '
+      comments: []
+    - title: 
+      content: 'For wisdom will enter your heart,and knowledge will fill you with
+        joy.  '
+      comments: []
+    - title: 
+      content: 'Wise choices will watch over you.Understanding will keep you safe.  '
+      comments: []
+    - title: 
+      content: 'Wisdom will save you from evil people,from those whose words are
+        twisted.  '
+      comments: []
+    - title: 
+      content: 'These men turn from the right wayto walk down dark paths.  '
+      comments: []
+    - title: 
+      content: 'They take pleasure in doing wrong,and they enjoy the twisted ways
+        of evil.  '
+      comments: []
+    - title: 
+      content: 'Their actions are crooked,and their ways are wrong.  '
+      comments: []
+    - title: 
+      content: 'Wisdom will save you from the immoral woman,from the seductive words
+        of the promiscuous woman.  '
+      comments: []
+    - title: 
+      content: 'She has abandoned her husbandand ignores the covenant she made before
+        God.  '
+      comments: []
+    - title: 
+      content: 'Entering her house leads to death;it is the road to the grave.[[COMMENT(0)]]  '
+      comments:
+      - number: '2:18 '
+        content: Hebrew <b>to the spirits of the dead.</b>
+    - title: 
+      content: 'The man who visits her is doomed.He will never reach the paths of
+        life.  '
+      comments: []
+    - title: 
+      content: 'So follow the steps of the good,and stay on the paths of the righteous.  '
+      comments: []
+    - title: 
+      content: 'For only the godly will live in the land,and those with integrity
+        will remain in it.  '
+      comments: []
+  - verses:
+    - title: Trusting in the <smallcaps>Lord</smallcaps>
+      content: '  My child,[[COMMENT(0)]] never forget the things I have taught you.Store
+        my commands in your heart.  '
+      comments:
+      - number: '3:1 '
+        content: Hebrew <b>My son; </b>also in 3:11, 21.
+    - title: 
+      content: 'If you do this, you will live many years,and your life will be satisfying.  '
+      comments: []
+    - title: 
+      content: 'Never let loyalty and kindness leave you!Tie them around your neck
+        as a reminder.Write them deep within your heart.  '
+      comments: []
+    - title: 
+      content: 'Then you will find favor with both God and people,and you will earn
+        a good reputation.  '
+      comments: []
+    - title: 
+      content: 'Trust in the <smallcaps>Lord</smallcaps> with all your heart;do not
+        depend on your own understanding.  '
+      comments: []
+    - title: 
+      content: 'Seek his will in all you do,and he will show you which path to take.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t be impressed with your own wisdom.Instead, fear the <smallcaps>Lord</smallcaps>
+        and turn away from evil.  "
+      comments: []
+    - title: 
+      content: 'Then you will have healing for your bodyand strength for your bones.  '
+      comments: []
+    - title: 
+      content: 'Honor the <smallcaps>Lord</smallcaps> with your wealthand with the
+        best part of everything you produce.  '
+      comments: []
+    - title: 
+      content: 'Then he will fill your barns with grain,and your vats will overflow
+        with good wine.  '
+      comments: []
+    - title: 
+      content: "My child, don\u2019t reject the <smallcaps>Lord</smallcaps>\u2019s
+        discipline,and don\u2019t be upset when he corrects you.  "
+      comments: []
+    - title: 
+      content: 'For the <smallcaps>Lord</smallcaps> corrects those he loves,just
+        as a father corrects a child in whom he delights.[[COMMENT(0)]]  '
+      comments:
+      - number: '3:12 '
+        content: Greek version reads <b>loves, / and he punishes those he accepts
+          as his children. </b>Compare Heb 12:6.
+    - title: 
+      content: 'Joyful is the person who finds wisdom,the one who gains understanding.  '
+      comments: []
+    - title: 
+      content: 'For wisdom is more profitable than silver,and her wages are better
+        than gold.  '
+      comments: []
+    - title: 
+      content: 'Wisdom is more precious than rubies;nothing you desire can compare
+        with her.  '
+      comments: []
+    - title: 
+      content: 'She offers you long life in her right hand,and riches and honor in
+        her left.  '
+      comments: []
+    - title: 
+      content: 'She will guide you down delightful paths;all her ways are satisfying.  '
+      comments: []
+    - title: 
+      content: 'Wisdom is a tree of life to those who embrace her;happy are those
+        who hold her tightly.  '
+      comments: []
+    - title: 
+      content: 'By wisdom the <smallcaps>Lord</smallcaps> founded the earth;by understanding
+        he created the heavens.  '
+      comments: []
+    - title: 
+      content: 'By his knowledge the deep fountains of the earth burst forth,and
+        the dew settles beneath the night sky.  '
+      comments: []
+    - title: 
+      content: "My child, don\u2019t lose sight of common sense and discernment.Hang
+        on to them,  "
+      comments: []
+    - title: 
+      content: 'for they will refresh your soul.They are like jewels on a necklace.  '
+      comments: []
+    - title: 
+      content: 'They keep you safe on your way,and your feet will not stumble.  '
+      comments: []
+    - title: 
+      content: 'You can go to bed without fear;you will lie down and sleep soundly.  '
+      comments: []
+    - title: 
+      content: 'You need not be afraid of sudden disasteror the destruction that
+        comes upon the wicked,  '
+      comments: []
+    - title: 
+      content: 'for the <smallcaps>Lord</smallcaps> is your security.He will keep
+        your foot from being caught in a trap.  '
+      comments: []
+    - title: 
+      content: "Do not withhold good from those who deserve itwhen it\u2019s in your
+        power to help them.  "
+      comments: []
+    - title: 
+      content: "If you can help your neighbor now, don\u2019t say,\u201CCome back
+        tomorrow, and then I\u2019ll help you.\u201D  "
+      comments: []
+    - title: 
+      content: "Don\u2019t plot harm against your neighbor,for those who live nearby
+        trust you.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t pick a fight without reason,when no one has done you harm.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t envy violent peopleor copy their ways.  "
+      comments: []
+    - title: 
+      content: 'Such wicked people are detestable to the <smallcaps>Lord</smallcaps>,but
+        he offers his friendship to the godly.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> curses the house of the wicked,but
+        he blesses the home of the upright.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> mocks the mockersbut is gracious
+        to the humble.[[COMMENT(0)]]<smallcaps>Compare Jas 4:6; 1 Pet 5:5.</smallcaps>  '
+      comments:
+      - number: '3:34 '
+        content: Greek version reads <b>The <span class="ChapterContent_nd__ECPAf">Lord</span>
+          opposes the proud / but gives grace to the humble. </b>
+  - verses:
+    - title: "A Father\u2019s Wise Advice"
+      content: '  My children,[[COMMENT(0)]] listen when your father corrects you.Pay
+        attention and learn good judgment,  '
+      comments:
+      - number: '4:1 '
+        content: Hebrew <b>My sons.</b>
+    - title: 
+      content: "for I am giving you good guidance.Don\u2019t turn away from my instructions.  "
+      comments: []
+    - title: 
+      content: "For I, too, was once my father\u2019s son,tenderly loved as my mother\u2019s
+        only child.  "
+      comments: []
+    - title: 
+      content: "My father taught me,\u201CTake my words to heart.Follow my commands,
+        and you will live.  "
+      comments: []
+    - title: 
+      content: "Get wisdom; develop good judgment.Don\u2019t forget my words or turn
+        away from them.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t turn your back on wisdom, for she will protect you.Love
+        her, and she will guard you.  "
+      comments: []
+    - title: 
+      content: 'Getting wisdom is the wisest thing you can do!And whatever else you
+        do, develop good judgment.  '
+      comments: []
+    - title: 
+      content: 'If you prize wisdom, she will make you great.Embrace her, and she
+        will honor you.  '
+      comments: []
+    - title: 
+      content: "She will place a lovely wreath on your head;she will present you
+        with a beautiful crown.\u201D  "
+      comments: []
+    - title: 
+      content: 'My child,[[COMMENT(0)]] listen to me and do as I say,and you will
+        have a long, good life.  '
+      comments:
+      - number: '4:10 '
+        content: Hebrew <b>My son; </b>also in 4:20.
+    - title: 
+      content: "I will teach you wisdom\u2019s waysand lead you in straight paths.  "
+      comments: []
+    - title: 
+      content: "When you walk, you won\u2019t be held back;when you run, you won\u2019t
+        stumble.  "
+      comments: []
+    - title: 
+      content: "Take hold of my instructions; don\u2019t let them go.Guard them,
+        for they are the key to life.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t do as the wicked do,and don\u2019t follow the path of
+        evildoers.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t even think about it; don\u2019t go that way.Turn away
+        and keep moving.  "
+      comments: []
+    - title: 
+      content: "For evil people can\u2019t sleep until they\u2019ve done their evil
+        deed for the day.They can\u2019t rest until they\u2019ve caused someone to
+        stumble.  "
+      comments: []
+    - title: 
+      content: 'They eat the food of wickednessand drink the wine of violence!  '
+      comments: []
+    - title: 
+      content: 'The way of the righteous is like the first gleam of dawn,which shines
+        ever brighter until the full light of day.  '
+      comments: []
+    - title: 
+      content: 'But the way of the wicked is like total darkness.They have no idea
+        what they are stumbling over.  '
+      comments: []
+    - title: 
+      content: 'My child, pay attention to what I say.Listen carefully to my words.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t lose sight of them.Let them penetrate deep into your heart,  "
+      comments: []
+    - title: 
+      content: 'for they bring life to those who find them,and healing to their whole
+        body.  '
+      comments: []
+    - title: 
+      content: 'Guard your heart above all else,for it determines the course of your
+        life.  '
+      comments: []
+    - title: 
+      content: 'Avoid all perverse talk;stay away from corrupt speech.  '
+      comments: []
+    - title: 
+      content: 'Look straight ahead,and fix your eyes on what lies before you.  '
+      comments: []
+    - title: 
+      content: 'Mark out a straight path for your feet;stay on the safe path.  '
+      comments: []
+  - verses:
+    - title: Avoid Immoral Women
+      content: '  My son, pay attention to my wisdom;listen carefully to my wise
+        counsel.  '
+      comments: []
+    - title: 
+      content: "Then you will show discernment,and your lips will express what you\u2019ve
+        learned.  "
+      comments: []
+    - title: 
+      content: 'For the lips of an immoral woman are as sweet as honey,and her mouth
+        is smoother than oil.  '
+      comments: []
+    - title: 
+      content: 'But in the end she is as bitter as poison,as dangerous as a double-edged
+        sword.  '
+      comments: []
+    - title: 
+      content: 'Her feet go down to death;her steps lead straight to the grave.[[COMMENT(0)]]  '
+      comments:
+      - number: '5:5 '
+        content: Hebrew <b>to Sheol.</b>
+    - title: 
+      content: "For she cares nothing about the path to life.She staggers down a
+        crooked trail and doesn\u2019t realize it.  "
+      comments: []
+    - title: 
+      content: 'So now, my sons, listen to me.Never stray from what I am about to
+        say:  '
+      comments: []
+    - title: 
+      content: "Stay away from her!Don\u2019t go near the door of her house!  "
+      comments: []
+    - title: 
+      content: 'If you do, you will lose your honorand will lose to merciless people
+        all you have achieved.  '
+      comments: []
+    - title: 
+      content: 'Strangers will consume your wealth,and someone else will enjoy the
+        fruit of your labor.  '
+      comments: []
+    - title: 
+      content: 'In the end you will groan in anguishwhen disease consumes your body.  '
+      comments: []
+    - title: 
+      content: "You will say, \u201CHow I hated discipline!If only I had not ignored
+        all the warnings!  "
+      comments: []
+    - title: 
+      content: "Oh, why didn\u2019t I listen to my teachers?Why didn\u2019t I pay
+        attention to my instructors?  "
+      comments: []
+    - title: 
+      content: "I have come to the brink of utter ruin,and now I must face public
+        disgrace.\u201D  "
+      comments: []
+    - title: 
+      content: "Drink water from your own well\u2014share your love only with your
+        wife.[[COMMENT(0)]]  "
+      comments:
+      - number: '5:15 '
+        content: Hebrew <b>Drink water from your own cistern, / flowing water from
+          your own well.</b>
+    - title: 
+      content: 'Why spill the water of your springs in the streets,having sex with
+        just anyone?[[COMMENT(0)]]  '
+      comments:
+      - number: '5:16 '
+        content: Hebrew <b>Why spill your springs in the streets, / your streams
+          in the city squares?</b>
+    - title: 
+      content: 'You should reserve it for yourselves.Never share it with strangers.  '
+      comments: []
+    - title: 
+      content: 'Let your wife be a fountain of blessing for you.Rejoice in the wife
+        of your youth.  '
+      comments: []
+    - title: 
+      content: 'She is a loving deer, a graceful doe.Let her breasts satisfy you
+        always.May you always be captivated by her love.  '
+      comments: []
+    - title: 
+      content: 'Why be captivated, my son, by an immoral woman,or fondle the breasts
+        of a promiscuous woman?  '
+      comments: []
+    - title: 
+      content: 'For the <smallcaps>Lord</smallcaps> sees clearly what a man does,examining
+        every path he takes.  '
+      comments: []
+    - title: 
+      content: 'An evil man is held captive by his own sins;they are ropes that catch
+        and hold him.  '
+      comments: []
+  - verses:
+    - title: Lessons for Daily Life
+      content: "  My child,[[COMMENT(0)]] if you have put up security for a friend\u2019s
+        debtor agreed to guarantee the debt of a stranger\u2014  "
+      comments:
+      - number: '6:1 '
+        content: Hebrew <b>My son.</b>
+    - title: 
+      content: "if you have trapped yourself by your agreementand are caught by what
+        you said\u2014  "
+      comments: []
+    - title: 
+      content: "follow my advice and save yourself,for you have placed yourself at
+        your friend\u2019s mercy.Now swallow your pride;go and beg to have your name
+        erased.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t put it off; do it now!Don\u2019t rest until you do.  "
+      comments: []
+    - title: 
+      content: 'Save yourself like a gazelle escaping from a hunter,like a bird fleeing
+        from a net.  '
+      comments: []
+    - title: 
+      content: 'Take a lesson from the ants, you lazybones.Learn from their ways
+        and become wise!  '
+      comments: []
+    - title: 
+      content: 'Though they have no princeor governor or ruler to make them work,  '
+      comments: []
+    - title: 
+      content: 'they labor hard all summer,gathering food for the winter.  '
+      comments: []
+    - title: 
+      content: 'But you, lazybones, how long will you sleep?When will you wake up?  '
+      comments: []
+    - title: 
+      content: "A little extra sleep, a little more slumber,a little folding of the
+        hands to rest\u2014  "
+      comments: []
+    - title: 
+      content: 'then poverty will pounce on you like a bandit;scarcity will attack
+        you like an armed robber.  '
+      comments: []
+    - title: 
+      content: 'What are worthless and wicked people like?They are constant liars,  '
+      comments: []
+    - title: 
+      content: 'signaling their deceit with a wink of the eye,a nudge of the foot,
+        or the wiggle of fingers.  '
+      comments: []
+    - title: 
+      content: 'Their perverted hearts plot evil,and they constantly stir up trouble.  '
+      comments: []
+    - title: 
+      content: 'But they will be destroyed suddenly,broken in an instant beyond all
+        hope of healing.  '
+      comments: []
+    - title: 
+      content: "There are six things the <smallcaps>Lord</smallcaps> hates\u2014no,
+        seven things he detests:  "
+      comments: []
+    - title: 
+      content: 'haughty eyes,a lying tongue,hands that kill the innocent,  '
+      comments: []
+    - title: 
+      content: 'a heart that plots evil,feet that race to do wrong,  '
+      comments: []
+    - title: 
+      content: 'a false witness who pours out lies,a person who sows discord in a
+        family.  '
+      comments: []
+    - title: 
+      content: "My son, obey your father\u2019s commands,and don\u2019t neglect your
+        mother\u2019s instruction.  "
+      comments: []
+    - title: 
+      content: 'Keep their words always in your heart.Tie them around your neck.  '
+      comments: []
+    - title: 
+      content: 'When you walk, their counsel will lead you.When you sleep, they will
+        protect you.When you wake up, they will advise you.  '
+      comments: []
+    - title: 
+      content: 'For their command is a lampand their instruction a light;their corrective
+        disciplineis the way to life.  '
+      comments: []
+    - title: 
+      content: 'It will keep you from the immoral woman,from the smooth tongue of
+        a promiscuous woman.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t lust for her beauty.Don\u2019t let her coy glances seduce
+        you.  "
+      comments: []
+    - title: 
+      content: "For a prostitute will bring you to poverty,[[COMMENT(0)]]but sleeping
+        with another man\u2019s wife will cost you your life.  "
+      comments:
+      - number: '6:26 '
+        content: Hebrew <b>to a loaf of bread.</b>
+    - title: 
+      content: 'Can a man scoop a flame into his lapand not have his clothes catch
+        on fire?  '
+      comments: []
+    - title: 
+      content: 'Can he walk on hot coalsand not blister his feet?  '
+      comments: []
+    - title: 
+      content: "So it is with the man who sleeps with another man\u2019s wife.He
+        who embraces her will not go unpunished.  "
+      comments: []
+    - title: 
+      content: 'Excuses might be found for a thiefwho steals because he is starving.  '
+      comments: []
+    - title: 
+      content: 'But if he is caught, he must pay back seven times what he stole,even
+        if he has to sell everything in his house.  '
+      comments: []
+    - title: 
+      content: 'But the man who commits adultery is an utter fool,for he destroys
+        himself.  '
+      comments: []
+    - title: 
+      content: 'He will be wounded and disgraced.His shame will never be erased.  '
+      comments: []
+    - title: 
+      content: "For the woman\u2019s jealous husband will be furious,and he will
+        show no mercy when he takes revenge.  "
+      comments: []
+  - verses:
+    - title: Another Warning about Immoral Women
+      content: '  Follow my advice, my son;always treasure my commands.  '
+      comments: []
+    - title: 
+      content: 'Obey my commands and live!Guard my instructions as you guard your
+        own eyes.[[COMMENT(0)]]  '
+      comments:
+      - number: '7:2 '
+        content: Hebrew <b>as the pupil of your eye.</b>
+    - title: 
+      content: 'Tie them on your fingers as a reminder.Write them deep within your
+        heart.  '
+      comments: []
+    - title: 
+      content: 'Love wisdom like a sister;make insight a beloved member of your family.  '
+      comments: []
+    - title: 
+      content: 'Let them protect you from an affair with an immoral woman,from listening
+        to the flattery of a promiscuous woman.  '
+      comments: []
+    - title: 
+      content: 'While I was at the window of my house,looking through the curtain,  '
+      comments: []
+    - title: 
+      content: 'I saw some naive young men,and one in particular who lacked common
+        sense.  '
+      comments: []
+    - title: 
+      content: 'He was crossing the street near the house of an immoral woman,strolling
+        down the path by her house.  '
+      comments: []
+    - title: 
+      content: 'It was at twilight, in the evening,as deep darkness fell.  '
+      comments: []
+    - title: 
+      content: 'The woman approached him,seductively dressed and sly of heart.  '
+      comments: []
+    - title: 
+      content: 'She was the brash, rebellious type,never content to stay at home.  '
+      comments: []
+    - title: 
+      content: 'She is often in the streets and markets,soliciting at every corner.  '
+      comments: []
+    - title: 
+      content: 'She threw her arms around him and kissed him,and with a brazen look
+        she said,  '
+      comments: []
+    - title: 
+      content: "\u201CI\u2019ve just made my peace offeringsand fulfilled my vows.  "
+      comments: []
+    - title: 
+      content: "You\u2019re the one I was looking for!I came out to find you, and
+        here you are!  "
+      comments: []
+    - title: 
+      content: 'My bed is spread with beautiful blankets,with colored sheets of Egyptian
+        linen.  '
+      comments: []
+    - title: 
+      content: "I\u2019ve perfumed my bedwith myrrh, aloes, and cinnamon.  "
+      comments: []
+    - title: 
+      content: "Come, let\u2019s drink our fill of love until morning.Let\u2019s
+        enjoy each other\u2019s caresses,  "
+      comments: []
+    - title: 
+      content: "for my husband is not home.He\u2019s away on a long trip.  "
+      comments: []
+    - title: 
+      content: "He has taken a wallet full of money with himand won\u2019t return
+        until later this month.[[COMMENT(0)]]\u201D  "
+      comments:
+      - number: '7:20 '
+        content: Hebrew <b>until the moon is full.</b>
+    - title: 
+      content: 'So she seduced him with her pretty speechand enticed him with her
+        flattery.  '
+      comments: []
+    - title: 
+      content: 'He followed her at once,like an ox going to the slaughter.He was
+        like a stag caught in a trap,[[COMMENT(0)]]  '
+      comments:
+      - number: '7:22 '
+        content: As in Greek and Syriac versions; Hebrew reads <b>slaughter, as shackles
+          are for the discipline of a fool.</b>
+    - title: 
+      content: 'awaiting the arrow that would pierce its heart.He was like a bird
+        flying into a snare,little knowing it would cost him his life.  '
+      comments: []
+    - title: 
+      content: 'So listen to me, my sons,and pay attention to my words.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t let your hearts stray away toward her.Don\u2019t wander
+        down her wayward path.  "
+      comments: []
+    - title: 
+      content: 'For she has been the ruin of many;many men have been her victims.  '
+      comments: []
+  - verses:
+    - title: Wisdom Calls for a Hearing
+      content: '  Listen as Wisdom calls out!Hear as understanding raises her voice!  '
+      comments: []
+    - title: 
+      content: 'On the hilltop along the road,she takes her stand at the crossroads.  '
+      comments: []
+    - title: 
+      content: 'By the gates at the entrance to the town,on the road leading in,
+        she cries aloud,  '
+      comments: []
+    - title: 
+      content: "\u201CI call to you, to all of you!I raise my voice to all people.  "
+      comments: []
+    - title: 
+      content: 'You simple people, use good judgment.You foolish people, show some
+        understanding.  '
+      comments: []
+    - title: 
+      content: 'Listen to me! For I have important things to tell you.Everything
+        I say is right,  '
+      comments: []
+    - title: 
+      content: 'for I speak the truthand detest every kind of deception.  '
+      comments: []
+    - title: 
+      content: 'My advice is wholesome.There is nothing devious or crooked in it.  '
+      comments: []
+    - title: 
+      content: 'My words are plain to anyone with understanding,clear to those with
+        knowledge.  '
+      comments: []
+    - title: 
+      content: 'Choose my instruction rather than silver,and knowledge rather than
+        pure gold.  '
+      comments: []
+    - title: 
+      content: 'For wisdom is far more valuable than rubies.Nothing you desire can
+        compare with it.  '
+      comments: []
+    - title: 
+      content: "\u201CI, Wisdom, live together with good judgment.I know where to
+        discover knowledge and discernment.  "
+      comments: []
+    - title: 
+      content: 'All who fear the <smallcaps>Lord</smallcaps> will hate evil.Therefore,
+        I hate pride and arrogance,corruption and perverse speech.  '
+      comments: []
+    - title: 
+      content: 'Common sense and success belong to me.Insight and strength are mine.  '
+      comments: []
+    - title: 
+      content: 'Because of me, kings reign,and rulers make just decrees.  '
+      comments: []
+    - title: 
+      content: 'Rulers lead with my help,and nobles make righteous judgments.[[COMMENT(0)]]  '
+      comments:
+      - number: '8:16 '
+        content: Some Hebrew manuscripts and Greek version read <b>and nobles are
+          judges over the earth.</b>
+    - title: 
+      content: "\u201CI love all who love me.Those who search will surely find me.  "
+      comments: []
+    - title: 
+      content: 'I have riches and honor,as well as enduring wealth and justice.  '
+      comments: []
+    - title: 
+      content: 'My gifts are better than gold, even the purest gold,my wages better
+        than sterling silver!  '
+      comments: []
+    - title: 
+      content: 'I walk in righteousness,in paths of justice.  '
+      comments: []
+    - title: 
+      content: 'Those who love me inherit wealth.I will fill their treasuries.  '
+      comments: []
+    - title: 
+      content: "\u201CThe <smallcaps>Lord</smallcaps> formed me from the beginning,before
+        he created anything else.  "
+      comments: []
+    - title: 
+      content: 'I was appointed in ages past,at the very first, before the earth
+        began.  '
+      comments: []
+    - title: 
+      content: 'I was born before the oceans were created,before the springs bubbled
+        forth their waters.  '
+      comments: []
+    - title: 
+      content: "Before the mountains were formed,before the hills, I was born\u2014  "
+      comments: []
+    - title: 
+      content: 'before he had made the earth and fieldsand the first handfuls of
+        soil.  '
+      comments: []
+    - title: 
+      content: 'I was there when he established the heavens,when he drew the horizon
+        on the oceans.  '
+      comments: []
+    - title: 
+      content: 'I was there when he set the clouds above,when he established springs
+        deep in the earth.  '
+      comments: []
+    - title: 
+      content: "I was there when he set the limits of the seas,so they would not
+        spread beyond their boundaries.And when he marked off the earth\u2019s foundations,  "
+      comments: []
+    - title: 
+      content: 'I was the architect at his side.I was his constant delight,rejoicing
+        always in his presence.  '
+      comments: []
+    - title: 
+      content: 'And how happy I was with the world he created;how I rejoiced with
+        the human family!  '
+      comments: []
+    - title: 
+      content: "\u201CAnd so, my children,[[COMMENT(0)]] listen to me,for all who
+        follow my ways are joyful.  "
+      comments:
+      - number: '8:32 '
+        content: Hebrew <b>my sons.</b>
+    - title: 
+      content: "Listen to my instruction and be wise.Don\u2019t ignore it.  "
+      comments: []
+    - title: 
+      content: 'Joyful are those who listen to me,watching for me daily at my gates,waiting
+        for me outside my home!  '
+      comments: []
+    - title: 
+      content: 'For whoever finds me finds lifeand receives favor from the <smallcaps>Lord</smallcaps>.  '
+      comments: []
+  - verses:
+    - title: 
+      content: '  Wisdom has built her house;she has carved its seven columns.  '
+      comments: []
+    - title: 
+      content: 'She has prepared a great banquet,mixed the wines, and set the table.  '
+      comments: []
+    - title: 
+      content: 'She has sent her servants to invite everyone to come.She calls out
+        from the heights overlooking the city.  '
+      comments: []
+    - title: 
+      content: "\u201CCome in with me,\u201D she urges the simple.To those who lack
+        good judgment, she says,  "
+      comments: []
+    - title: 
+      content: "\u201CCome, eat my food,and drink the wine I have mixed.  "
+      comments: []
+    - title: 
+      content: "Leave your simple ways behind, and begin to live;learn to use good
+        judgment.\u201D  "
+      comments: []
+    - title: 
+      content: 'Anyone who rebukes a mocker will get an insult in return.Anyone who
+        corrects the wicked will get hurt.  '
+      comments: []
+    - title: 
+      content: "So don\u2019t bother correcting mockers;they will only hate you.But
+        correct the wise,and they will love you.  "
+      comments: []
+    - title: 
+      content: 'Instruct the wise,and they will be even wiser.Teach the righteous,and
+        they will learn even more.  '
+      comments: []
+    - title: 
+      content: 'Fear of the <smallcaps>Lord</smallcaps> is the foundation of wisdom.Knowledge
+        of the Holy One results in good judgment.  '
+      comments: []
+    - title: 
+      content: 'Wisdom will multiply your daysand add years to your life.  '
+      comments: []
+    - title: Folly Calls for a Hearing
+      content: 'If you become wise, you will be the one to benefit.If you scorn wisdom,
+        you will be the one to suffer.  '
+      comments: []
+    - title: 
+      content: "The woman named Folly is brash.She is ignorant and doesn\u2019t know
+        it.  "
+      comments: []
+    - title: 
+      content: 'She sits in her doorwayon the heights overlooking the city.  '
+      comments: []
+    - title: 
+      content: 'She calls out to men going bywho are minding their own business.  '
+      comments: []
+    - title: 
+      content: "\u201CCome in with me,\u201D she urges the simple.To those who lack
+        good judgment, she says,  "
+      comments: []
+    - title: 
+      content: "\u201CStolen water is refreshing;food eaten in secret tastes the
+        best!\u201D  "
+      comments: []
+  - verses:
+    - title: The Proverbs of Solomon
+      content: '  The proverbs of Solomon:A wise child[[COMMENT(0)]] brings joy to
+        a father;a foolish child brings grief to a mother.  '
+      comments:
+      - number: '10:1 '
+        content: Hebrew <b>son; </b>also in 10:1b.
+    - title: 
+      content: 'Tainted wealth has no lasting value,but right living can save your
+        life.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> will not let the godly go hungry,but
+        he refuses to satisfy the craving of the wicked.  '
+      comments: []
+    - title: 
+      content: 'Lazy people are soon poor;hard workers get rich.  '
+      comments: []
+    - title: 
+      content: 'A wise youth harvests in the summer,but one who sleeps during harvest
+        is a disgrace.  '
+      comments: []
+    - title: 
+      content: 'The godly are showered with blessings;the words of the wicked conceal
+        violent intentions.  '
+      comments: []
+    - title: 
+      content: 'We have happy memories of the godly,but the name of a wicked person
+        rots away.  '
+      comments: []
+    - title: 
+      content: 'The wise are glad to be instructed,but babbling fools fall flat on
+        their faces.  '
+      comments: []
+    - title: 
+      content: 'People with integrity walk safely,but those who follow crooked paths
+        will be exposed.  '
+      comments: []
+    - title: 
+      content: 'People who wink at wrong cause trouble,but a bold reproof promotes
+        peace.[[COMMENT(0)]]  '
+      comments:
+      - number: '10:10 '
+        content: As in Greek version; Hebrew reads <b>but babbling fools fall flat
+          on their faces.</b>
+    - title: 
+      content: 'The words of the godly are a life-giving fountain;the words of the
+        wicked conceal violent intentions.  '
+      comments: []
+    - title: 
+      content: 'Hatred stirs up quarrels,but love makes up for all offenses.  '
+      comments: []
+    - title: 
+      content: 'Wise words come from the lips of people with understanding,but those
+        lacking sense will be beaten with a rod.  '
+      comments: []
+    - title: 
+      content: 'Wise people treasure knowledge,but the babbling of a fool invites
+        disaster.  '
+      comments: []
+    - title: 
+      content: 'The wealth of the rich is their fortress;the poverty of the poor
+        is their destruction.  '
+      comments: []
+    - title: 
+      content: 'The earnings of the godly enhance their lives,but evil people squander
+        their money on sin.  '
+      comments: []
+    - title: 
+      content: 'People who accept discipline are on the pathway to life,but those
+        who ignore correction will go astray.  '
+      comments: []
+    - title: 
+      content: 'Hiding hatred makes you a liar;slandering others makes you a fool.  '
+      comments: []
+    - title: 
+      content: 'Too much talk leads to sin.Be sensible and keep your mouth shut.  '
+      comments: []
+    - title: 
+      content: 'The words of the godly are like sterling silver;the heart of a fool
+        is worthless.  '
+      comments: []
+    - title: 
+      content: 'The words of the godly encourage many,but fools are destroyed by
+        their lack of common sense.  '
+      comments: []
+    - title: 
+      content: 'The blessing of the <smallcaps>Lord</smallcaps> makes a person rich,and
+        he adds no sorrow with it.  '
+      comments: []
+    - title: 
+      content: 'Doing wrong is fun for a fool,but living wisely brings pleasure to
+        the sensible.  '
+      comments: []
+    - title: 
+      content: 'The fears of the wicked will be fulfilled;the hopes of the godly
+        will be granted.  '
+      comments: []
+    - title: 
+      content: 'When the storms of life come, the wicked are whirled away,but the
+        godly have a lasting foundation.  '
+      comments: []
+    - title: 
+      content: 'Lazy people irritate their employers,like vinegar to the teeth or
+        smoke in the eyes.  '
+      comments: []
+    - title: 
+      content: "Fear of the <smallcaps>Lord</smallcaps> lengthens one\u2019s life,but
+        the years of the wicked are cut short.  "
+      comments: []
+    - title: 
+      content: 'The hopes of the godly result in happiness,but the expectations of
+        the wicked come to nothing.  '
+      comments: []
+    - title: 
+      content: 'The way of the <smallcaps>Lord</smallcaps> is a stronghold to those
+        with integrity,but it destroys the wicked.  '
+      comments: []
+    - title: 
+      content: 'The godly will never be disturbed,but the wicked will be removed
+        from the land.  '
+      comments: []
+    - title: 
+      content: 'The mouth of the godly person gives wise advice,but the tongue that
+        deceives will be cut off.  '
+      comments: []
+  - verses:
+    - title: 
+      content: '  The <smallcaps>Lord</smallcaps> detests the use of dishonest scales,but
+        he delights in accurate weights.  '
+      comments: []
+    - title: 
+      content: 'Pride leads to disgrace,but with humility comes wisdom.  '
+      comments: []
+    - title: 
+      content: 'Honesty guides good people;dishonesty destroys treacherous people.  '
+      comments: []
+    - title: 
+      content: "Riches won\u2019t help on the day of judgment,but right living can
+        save you from death.  "
+      comments: []
+    - title: 
+      content: 'The godly are directed by honesty;the wicked fall beneath their load
+        of sin.  '
+      comments: []
+    - title: 
+      content: 'The godliness of good people rescues them;the ambition of treacherous
+        people traps them.  '
+      comments: []
+    - title: 
+      content: 'When the wicked die, their hopes die with them,for they rely on their
+        own feeble strength.  '
+      comments: []
+    - title: 
+      content: 'The godly are rescued from trouble,and it falls on the wicked instead.  '
+      comments: []
+    - title: 
+      content: 'With their words, the godless destroy their friends,but knowledge
+        will rescue the righteous.  '
+      comments: []
+    - title: 
+      content: 'The whole city celebrates when the godly succeed;they shout for joy
+        when the wicked die.  '
+      comments: []
+    - title: 
+      content: 'Upright citizens are good for a city and make it prosper,but the
+        talk of the wicked tears it apart.  '
+      comments: []
+    - title: 
+      content: "It is foolish to belittle one\u2019s neighbor;a sensible person keeps
+        quiet.  "
+      comments: []
+    - title: 
+      content: 'A gossip goes around telling secrets,but those who are trustworthy
+        can keep a confidence.  '
+      comments: []
+    - title: 
+      content: 'Without wise leadership, a nation falls;there is safety in having
+        many advisers.  '
+      comments: []
+    - title: 
+      content: "There\u2019s danger in putting up security for a stranger\u2019s
+        debt;it\u2019s safer not to guarantee another person\u2019s debt.  "
+      comments: []
+    - title: 
+      content: 'A gracious woman gains respect,but ruthless men gain only wealth.  '
+      comments: []
+    - title: 
+      content: 'Your kindness will reward you,but your cruelty will destroy you.  '
+      comments: []
+    - title: 
+      content: 'Evil people get rich for the moment,but the reward of the godly will
+        last.  '
+      comments: []
+    - title: 
+      content: 'Godly people find life;evil people find death.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> detests people with crooked hearts,but
+        he delights in those with integrity.  '
+      comments: []
+    - title: 
+      content: 'Evil people will surely be punished,but the children of the godly
+        will go free.  '
+      comments: []
+    - title: 
+      content: "A beautiful woman who lacks discretionis like a gold ring in a pig\u2019s
+        snout.  "
+      comments: []
+    - title: 
+      content: 'The godly can look forward to a reward,while the wicked can expect
+        only judgment.  '
+      comments: []
+    - title: 
+      content: 'Give freely and become more wealthy;be stingy and lose everything.  '
+      comments: []
+    - title: 
+      content: 'The generous will prosper;those who refresh others will themselves
+        be refreshed.  '
+      comments: []
+    - title: 
+      content: 'People curse those who hoard their grain,but they bless the one who
+        sells in time of need.  '
+      comments: []
+    - title: 
+      content: 'If you search for good, you will find favor;but if you search for
+        evil, it will find you!  '
+      comments: []
+    - title: 
+      content: 'Trust in your money and down you go!But the godly flourish like leaves
+        in spring.  '
+      comments: []
+    - title: 
+      content: 'Those who bring trouble on their families inherit the wind.The fool
+        will be a servant to the wise.  '
+      comments: []
+    - title: 
+      content: 'The seeds of good deeds become a tree of life;a wise person wins
+        friends.[[COMMENT(0)]]  '
+      comments:
+      - number: '11:30 '
+        content: Or <b>and those who win souls are wise.</b>
+  - verses:
+    - title: 
+      content: '  To learn, you must love discipline;it is stupid to hate correction.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> approves of those who are good,but
+        he condemns those who plan wickedness.  '
+      comments: []
+    - title: 
+      content: 'Wickedness never brings stability,but the godly have deep roots.  '
+      comments: []
+    - title: 
+      content: 'A worthy wife is a crown for her husband,but a disgraceful woman
+        is like cancer in his bones.  '
+      comments: []
+    - title: 
+      content: 'The plans of the godly are just;the advice of the wicked is treacherous.  '
+      comments: []
+    - title: 
+      content: 'The words of the wicked are like a murderous ambush,but the words
+        of the godly save lives.  '
+      comments: []
+    - title: 
+      content: 'The wicked die and disappear,but the family of the godly stands firm.  '
+      comments: []
+    - title: 
+      content: 'A sensible person wins admiration,but a warped mind is despised.  '
+      comments: []
+    - title: 
+      content: 'Better to be an ordinary person with a servantthan to be self-important
+        but have no food.  '
+      comments: []
+    - title: 
+      content: 'The godly care for their animals,but the wicked are always cruel.  '
+      comments: []
+    - title: 
+      content: 'A hard worker has plenty of food,but a person who chases fantasies
+        has no sense.  '
+      comments: []
+    - title: 
+      content: "Thieves are jealous of each other\u2019s loot,but the godly are well
+        rooted and bear their own fruit.  "
+      comments: []
+    - title: 
+      content: 'The wicked are trapped by their own words,but the godly escape such
+        trouble.  '
+      comments: []
+    - title: 
+      content: 'Wise words bring many benefits,and hard work brings rewards.  '
+      comments: []
+    - title: 
+      content: 'Fools think their own way is right,but the wise listen to others.  '
+      comments: []
+    - title: 
+      content: 'A fool is quick-tempered,but a wise person stays calm when insulted.  '
+      comments: []
+    - title: 
+      content: 'An honest witness tells the truth;a false witness tells lies.  '
+      comments: []
+    - title: 
+      content: 'Some people make cutting remarks,but the words of the wise bring
+        healing.  '
+      comments: []
+    - title: 
+      content: 'Truthful words stand the test of time,but lies are soon exposed.  '
+      comments: []
+    - title: 
+      content: 'Deceit fills hearts that are plotting evil;joy fills hearts that
+        are planning peace!  '
+      comments: []
+    - title: 
+      content: 'No harm comes to the godly,but the wicked have their fill of trouble.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> detests lying lips,but he delights
+        in those who tell the truth.  '
+      comments: []
+    - title: 
+      content: "The wise don\u2019t make a show of their knowledge,but fools broadcast
+        their foolishness.  "
+      comments: []
+    - title: 
+      content: 'Work hard and become a leader;be lazy and become a slave.  '
+      comments: []
+    - title: 
+      content: 'Worry weighs a person down;an encouraging word cheers a person up.  '
+      comments: []
+    - title: 
+      content: 'The godly give good advice to their friends;[[COMMENT(0)]]the wicked
+        lead them astray.  '
+      comments:
+      - number: '12:26 '
+        content: Or <b>The godly are cautious in friendship; </b>or <b>The godly
+          are freed from evil. </b>The meaning of the Hebrew is uncertain.
+    - title: 
+      content: "Lazy people don\u2019t even cook the game they catch,but the diligent
+        make use of everything they find.  "
+      comments: []
+  - verses:
+    - title: 
+      content: "  A wise child accepts a parent\u2019s discipline;[[COMMENT(0)]]a
+        mocker refuses to listen to correction.  "
+      comments:
+      - number: '13:1 '
+        content: "Hebrew <b>A wise son accepts his father\u2019s discipline.</b>"
+    - title: 
+      content: 'Wise words will win you a good meal,but treacherous people have an
+        appetite for violence.  '
+      comments: []
+    - title: 
+      content: 'Those who control their tongue will have a long life;opening your
+        mouth can ruin everything.  '
+      comments: []
+    - title: 
+      content: 'Lazy people want much but get little,but those who work hard will
+        prosper.  '
+      comments: []
+    - title: 
+      content: 'The godly hate lies;the wicked cause shame and disgrace.  '
+      comments: []
+    - title: 
+      content: 'Godliness guards the path of the blameless,but the evil are misled
+        by sin.  '
+      comments: []
+    - title: 
+      content: 'Some who are poor pretend to be rich;others who are rich pretend
+        to be poor.  '
+      comments: []
+    - title: 
+      content: "The rich can pay a ransom for their lives,but the poor won\u2019t
+        even get threatened.  "
+      comments: []
+    - title: 
+      content: 'The life of the godly is full of light and joy,but the light of the
+        wicked will be snuffed out.  '
+      comments: []
+    - title: 
+      content: 'Pride leads to conflict;those who take advice are wise.  '
+      comments: []
+    - title: 
+      content: 'Wealth from get-rich-quick schemes quickly disappears;wealth from
+        hard work grows over time.  '
+      comments: []
+    - title: 
+      content: 'Hope deferred makes the heart sick,but a dream fulfilled is a tree
+        of life.  '
+      comments: []
+    - title: 
+      content: 'People who despise advice are asking for trouble;those who respect
+        a command will succeed.  '
+      comments: []
+    - title: 
+      content: 'The instruction of the wise is like a life-giving fountain;those
+        who accept it avoid the snares of death.  '
+      comments: []
+    - title: 
+      content: 'A person with good sense is respected;a treacherous person is headed
+        for destruction.[[COMMENT(0)]]  '
+      comments:
+      - number: '13:15 '
+        content: As in Greek version; Hebrew reads <b>the way of the treacherous
+          is lasting.</b>
+    - title: 
+      content: "Wise people think before they act;fools don\u2019t\u2014and even
+        brag about their foolishness.  "
+      comments: []
+    - title: 
+      content: 'An unreliable messenger stumbles into trouble,but a reliable messenger
+        brings healing.  '
+      comments: []
+    - title: 
+      content: 'If you ignore criticism, you will end in poverty and disgrace;if
+        you accept correction, you will be honored.  '
+      comments: []
+    - title: 
+      content: 'It is pleasant to see dreams come true,but fools refuse to turn from
+        evil to attain them.  '
+      comments: []
+    - title: 
+      content: 'Walk with the wise and become wise;associate with fools and get in
+        trouble.  '
+      comments: []
+    - title: 
+      content: 'Trouble chases sinners,while blessings reward the righteous.  '
+      comments: []
+    - title: 
+      content: "Good people leave an inheritance to their grandchildren,but the sinner\u2019s
+        wealth passes to the godly.  "
+      comments: []
+    - title: 
+      content: "A poor person\u2019s farm may produce much food,but injustice sweeps
+        it all away.  "
+      comments: []
+    - title: 
+      content: 'Those who spare the rod of discipline hate their children.Those who
+        love their children care enough to discipline them.  '
+      comments: []
+  - verses:
+    - title: 
+      content: '  A wise woman builds her home,but a foolish woman tears it down
+        with her own hands.  '
+      comments: []
+    - title: 
+      content: 'Those who follow the right path fear the <smallcaps>Lord</smallcaps>;those
+        who take the wrong path despise him.  '
+      comments: []
+    - title: 
+      content: "A fool\u2019s proud talk becomes a rod that beats him,but the words
+        of the wise keep them safe.  "
+      comments: []
+    - title: 
+      content: 'Without oxen a stable stays clean,but you need a strong ox for a
+        large harvest.  '
+      comments: []
+    - title: 
+      content: 'An honest witness does not lie;a false witness breathes lies.  '
+      comments: []
+    - title: 
+      content: 'A mocker seeks wisdom and never finds it,but knowledge comes easily
+        to those with understanding.  '
+      comments: []
+    - title: 
+      content: "Stay away from fools,for you won\u2019t find knowledge on their lips.  "
+      comments: []
+    - title: 
+      content: 'The prudent understand where they are going,but fools deceive themselves.  '
+      comments: []
+    - title: 
+      content: 'Fools make fun of guilt,but the godly acknowledge it and seek reconciliation.  '
+      comments: []
+    - title: 
+      content: 'Each heart knows its own bitterness,and no one else can fully share
+        its joy.  '
+      comments: []
+    - title: 
+      content: 'The house of the wicked will be destroyed,but the tent of the godly
+        will flourish.  '
+      comments: []
+    - title: 
+      content: 'There is a path before each person that seems right,but it ends in
+        death.  '
+      comments: []
+    - title: 
+      content: 'Laughter can conceal a heavy heart,but when the laughter ends, the
+        grief remains.  '
+      comments: []
+    - title: 
+      content: 'Backsliders get what they deserve;good people receive their reward.  '
+      comments: []
+    - title: 
+      content: "Only simpletons believe everything they\u2019re told!The prudent
+        carefully consider their steps.  "
+      comments: []
+    - title: 
+      content: 'The wise are cautious[[COMMENT(0)]] and avoid danger;fools plunge
+        ahead with reckless confidence.  '
+      comments:
+      - number: '14:16 '
+        content: Hebrew <b>The wise fear.</b>
+    - title: 
+      content: 'Short-tempered people do foolish things,and schemers are hated.  '
+      comments: []
+    - title: 
+      content: 'Simpletons are clothed with foolishness,[[COMMENT(0)]]but the prudent
+        are crowned with knowledge.  '
+      comments:
+      - number: '14:18 '
+        content: Or <b>inherit foolishness.</b>
+    - title: 
+      content: 'Evil people will bow before good people;the wicked will bow at the
+        gates of the godly.  '
+      comments: []
+    - title: 
+      content: "The poor are despised even by their neighbors,while the rich have
+        many \u201Cfriends.\u201D  "
+      comments: []
+    - title: 
+      content: "It is a sin to belittle one\u2019s neighbor;blessed are those who
+        help the poor.  "
+      comments: []
+    - title: 
+      content: 'If you plan to do evil, you will be lost;if you plan to do good,
+        you will receive unfailing love and faithfulness.  '
+      comments: []
+    - title: 
+      content: 'Work brings profit,but mere talk leads to poverty!  '
+      comments: []
+    - title: 
+      content: 'Wealth is a crown for the wise;the effort of fools yields only foolishness.  '
+      comments: []
+    - title: 
+      content: 'A truthful witness saves lives,but a false witness is a traitor.  '
+      comments: []
+    - title: 
+      content: 'Those who fear the <smallcaps>Lord</smallcaps> are secure;he will
+        be a refuge for their children.  '
+      comments: []
+    - title: 
+      content: 'Fear of the <smallcaps>Lord</smallcaps> is a life-giving fountain;it
+        offers escape from the snares of death.  '
+      comments: []
+    - title: 
+      content: "A growing population is a king\u2019s glory;a prince without subjects
+        has nothing.  "
+      comments: []
+    - title: 
+      content: 'People with understanding control their anger;a hot temper shows
+        great foolishness.  '
+      comments: []
+    - title: 
+      content: 'A peaceful heart leads to a healthy body;jealousy is like cancer
+        in the bones.  '
+      comments: []
+    - title: 
+      content: 'Those who oppress the poor insult their Maker,but helping the poor
+        honors him.  '
+      comments: []
+    - title: 
+      content: 'The wicked are crushed by disaster,but the godly have a refuge when
+        they die.  '
+      comments: []
+    - title: 
+      content: 'Wisdom is enshrined in an understanding heart;wisdom is not[[COMMENT(0)]]
+        found among fools.  '
+      comments:
+      - number: '14:33 '
+        content: As in Greek and Syriac versions; Hebrew lacks <b>not.</b>
+    - title: 
+      content: 'Godliness makes a nation great,but sin is a disgrace to any people.  '
+      comments: []
+  - verses:
+    - title: 
+      content: '  A gentle answer deflects anger,but harsh words make tempers flare.  '
+      comments: []
+    - title: 
+      content: 'The tongue of the wise makes knowledge appealing,but the mouth of
+        a fool belches out foolishness.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> is watching everywhere,keeping his
+        eye on both the evil and the good.  '
+      comments: []
+    - title: 
+      content: 'Gentle words are a tree of life;a deceitful tongue crushes the spirit.  '
+      comments: []
+    - title: 
+      content: "Only a fool despises a parent\u2019s[[COMMENT(0)]] discipline;whoever
+        learns from correction is wise.  "
+      comments:
+      - number: '15:5 '
+        content: "Hebrew <b>father\u2019s.</b>"
+    - title: 
+      content: 'There is treasure in the house of the godly,but the earnings of the
+        wicked bring trouble.  '
+      comments: []
+    - title: 
+      content: 'The lips of the wise give good advice;the heart of a fool has none
+        to give.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> detests the sacrifice of the wicked,but
+        he delights in the prayers of the upright.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> detests the way of the wicked,but
+        he loves those who pursue godliness.  '
+      comments: []
+    - title: 
+      content: 'Whoever abandons the right path will be severely disciplined;whoever
+        hates correction will die.  '
+      comments: []
+    - title: 
+      content: 'Even Death and Destruction[[COMMENT(0)]] hold no secrets from the
+        <smallcaps>Lord</smallcaps>.How much more does he know the human heart!  '
+      comments:
+      - number: '15:11 '
+        content: Hebrew <b>Sheol and Abaddon.</b>
+    - title: 
+      content: 'Mockers hate to be corrected,so they stay away from the wise.  '
+      comments: []
+    - title: 
+      content: 'A glad heart makes a happy face;a broken heart crushes the spirit.  '
+      comments: []
+    - title: 
+      content: 'A wise person is hungry for knowledge,while the fool feeds on trash.  '
+      comments: []
+    - title: 
+      content: 'For the despondent, every day brings trouble;for the happy heart,
+        life is a continual feast.  '
+      comments: []
+    - title: 
+      content: 'Better to have little, with fear for the <smallcaps>Lord</smallcaps>,than
+        to have great treasure and inner turmoil.  '
+      comments: []
+    - title: 
+      content: 'A bowl of vegetables with someone you loveis better than steak with
+        someone you hate.  '
+      comments: []
+    - title: 
+      content: 'A hot-tempered person starts fights;a cool-tempered person stops
+        them.  '
+      comments: []
+    - title: 
+      content: "A lazy person\u2019s way is blocked with briers,but the path of the
+        upright is an open highway.  "
+      comments: []
+    - title: 
+      content: 'Sensible children bring joy to their father;foolish children despise
+        their mother.  '
+      comments: []
+    - title: 
+      content: 'Foolishness brings joy to those with no sense;a sensible person stays
+        on the right path.  '
+      comments: []
+    - title: 
+      content: 'Plans go wrong for lack of advice;many advisers bring success.  '
+      comments: []
+    - title: 
+      content: 'Everyone enjoys a fitting reply;it is wonderful to say the right
+        thing at the right time!  '
+      comments: []
+    - title: 
+      content: 'The path of life leads upward for the wise;they leave the grave[[COMMENT(0)]]
+        behind.  '
+      comments:
+      - number: '15:24 '
+        content: Hebrew <b>Sheol.</b>
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> tears down the house of the proud,but
+        he protects the property of widows.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> detests evil plans,but he delights
+        in pure words.  '
+      comments: []
+    - title: 
+      content: 'Greed brings grief to the whole family,but those who hate bribes
+        will live.  '
+      comments: []
+    - title: 
+      content: 'The heart of the godly thinks carefully before speaking;the mouth
+        of the wicked overflows with evil words.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> is far from the wicked,but he hears
+        the prayers of the righteous.  '
+      comments: []
+    - title: 
+      content: 'A cheerful look brings joy to the heart;good news makes for good
+        health.  '
+      comments: []
+    - title: 
+      content: 'If you listen to constructive criticism,you will be at home among
+        the wise.  '
+      comments: []
+    - title: 
+      content: 'If you reject discipline, you only harm yourself;but if you listen
+        to correction, you grow in understanding.  '
+      comments: []
+  - verses:
+    - title: 
+      content: '  We can make our own plans,but the <smallcaps>Lord</smallcaps> gives
+        the right answer.  '
+      comments: []
+    - title: 
+      content: 'People may be pure in their own eyes,but the <smallcaps>Lord</smallcaps>
+        examines their motives.  '
+      comments: []
+    - title: 
+      content: 'Commit your actions to the <smallcaps>Lord</smallcaps>,and your plans
+        will succeed.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> has made everything for his own purposes,even
+        the wicked for a day of disaster.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> detests the proud;they will surely
+        be punished.  '
+      comments: []
+    - title: 
+      content: 'Unfailing love and faithfulness make atonement for sin.By fearing
+        the <smallcaps>Lord</smallcaps>, people avoid evil.  '
+      comments: []
+    - title: 
+      content: "When people\u2019s lives please the <smallcaps>Lord</smallcaps>,even
+        their enemies are at peace with them.  "
+      comments: []
+    - title: 
+      content: 'Better to have little, with godliness,than to be rich and dishonest.  '
+      comments: []
+    - title: 
+      content: 'We can make our plans,but the <smallcaps>Lord</smallcaps> determines
+        our steps.  '
+      comments: []
+    - title: 
+      content: 'The king speaks with divine wisdom;he must never judge unfairly.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> demands accurate scales and balances;he
+        sets the standards for fairness.  '
+      comments: []
+    - title: 
+      content: 'A king detests wrongdoing,for his rule is built on justice.  '
+      comments: []
+    - title: 
+      content: 'The king is pleased with words from righteous lips;he loves those
+        who speak honestly.  '
+      comments: []
+    - title: 
+      content: 'The anger of the king is a deadly threat;the wise will try to appease
+        it.  '
+      comments: []
+    - title: 
+      content: 'When the king smiles, there is life;his favor refreshes like a spring
+        rain.  '
+      comments: []
+    - title: 
+      content: 'How much better to get wisdom than gold,and good judgment than silver!  '
+      comments: []
+    - title: 
+      content: 'The path of the virtuous leads away from evil;whoever follows that
+        path is safe.  '
+      comments: []
+    - title: 
+      content: 'Pride goes before destruction,and haughtiness before a fall.  '
+      comments: []
+    - title: 
+      content: 'Better to live humbly with the poorthan to share plunder with the
+        proud.  '
+      comments: []
+    - title: 
+      content: 'Those who listen to instruction will prosper;those who trust the
+        <smallcaps>Lord</smallcaps> will be joyful.  '
+      comments: []
+    - title: 
+      content: 'The wise are known for their understanding,and pleasant words are
+        persuasive.  '
+      comments: []
+    - title: 
+      content: 'Discretion is a life-giving fountain to those who possess it,but
+        discipline is wasted on fools.  '
+      comments: []
+    - title: 
+      content: 'From a wise mind comes wise speech;the words of the wise are persuasive.  '
+      comments: []
+    - title: 
+      content: "Kind words are like honey\u2014sweet to the soul and healthy for
+        the body.  "
+      comments: []
+    - title: 
+      content: 'There is a path before each person that seems right,but it ends in
+        death.  '
+      comments: []
+    - title: 
+      content: 'It is good for workers to have an appetite;an empty stomach drives
+        them on.  '
+      comments: []
+    - title: 
+      content: 'Scoundrels create trouble;their words are a destructive blaze.  '
+      comments: []
+    - title: 
+      content: 'A troublemaker plants seeds of strife;gossip separates the best of
+        friends.  '
+      comments: []
+    - title: 
+      content: 'Violent people mislead their companions,leading them down a harmful
+        path.  '
+      comments: []
+    - title: 
+      content: 'With narrowed eyes, people plot evil;with a smirk, they plan their
+        mischief.  '
+      comments: []
+    - title: 
+      content: 'Gray hair is a crown of glory;it is gained by living a godly life.  '
+      comments: []
+    - title: 
+      content: 'Better to be patient than powerful;better to have self-control than
+        to conquer a city.  '
+      comments: []
+  - verses:
+    - title: 
+      content: "  Better a dry crust eaten in peacethan a house filled with feasting\u2014and
+        conflict.  "
+      comments: []
+    - title: 
+      content: "A wise servant will rule over the master\u2019s disgraceful sonand
+        will share the inheritance of the master\u2019s children.  "
+      comments: []
+    - title: 
+      content: 'Fire tests the purity of silver and gold,but the <smallcaps>Lord</smallcaps>
+        tests the heart.  '
+      comments: []
+    - title: 
+      content: 'Wrongdoers eagerly listen to gossip;liars pay close attention to
+        slander.  '
+      comments: []
+    - title: 
+      content: 'Those who mock the poor insult their Maker;those who rejoice at the
+        misfortune of others will be punished.  '
+      comments: []
+    - title: 
+      content: 'Grandchildren are the crowning glory of the aged;parents[[COMMENT(0)]]
+        are the pride of their children.  '
+      comments:
+      - number: '17:6 '
+        content: Hebrew <b>fathers.</b>
+    - title: 
+      content: 'Eloquent words are not fitting for a fool;even less are lies fitting
+        for a ruler.  '
+      comments: []
+    - title: 
+      content: 'A bribe is like a lucky charm;whoever gives one will prosper!  '
+      comments: []
+    - title: 
+      content: 'Love prospers when a fault is forgiven,but dwelling on it separates
+        close friends.  '
+      comments: []
+    - title: 
+      content: 'A single rebuke does more for a person of understandingthan a hundred
+        lashes on the back of a fool.  '
+      comments: []
+    - title: 
+      content: 'Evil people are eager for rebellion,but they will be severely punished.  '
+      comments: []
+    - title: 
+      content: 'It is safer to meet a bear robbed of her cubsthan to confront a fool
+        caught in foolishness.  '
+      comments: []
+    - title: 
+      content: 'If you repay good with evil,evil will never leave your house.  '
+      comments: []
+    - title: 
+      content: 'Starting a quarrel is like opening a floodgate,so stop before a dispute
+        breaks out.  '
+      comments: []
+    - title: 
+      content: "Acquitting the guilty and condemning the innocent\u2014both are detestable
+        to the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - title: 
+      content: 'It is senseless to pay to educate a fool,since he has no heart for
+        learning.  '
+      comments: []
+    - title: 
+      content: 'A friend is always loyal,and a brother is born to help in time of
+        need.  '
+      comments: []
+    - title: 
+      content: "It\u2019s poor judgment to guarantee another person\u2019s debtor
+        put up security for a friend.  "
+      comments: []
+    - title: 
+      content: 'Anyone who loves to quarrel loves sin;anyone who trusts in high walls
+        invites disaster.  '
+      comments: []
+    - title: 
+      content: 'The crooked heart will not prosper;the lying tongue tumbles into
+        trouble.  '
+      comments: []
+    - title: 
+      content: 'It is painful to be the parent of a fool;there is no joy for the
+        father of a rebel.  '
+      comments: []
+    - title: 
+      content: "A cheerful heart is good medicine,but a broken spirit saps a person\u2019s
+        strength.  "
+      comments: []
+    - title: 
+      content: 'The wicked take secret bribesto pervert the course of justice.  '
+      comments: []
+    - title: 
+      content: "Sensible people keep their eyes glued on wisdom,but a fool\u2019s
+        eyes wander to the ends of the earth.  "
+      comments: []
+    - title: 
+      content: 'Foolish children[[COMMENT(0)]] bring grief to their fatherand bitterness
+        to the one who gave them birth.  '
+      comments:
+      - number: '17:25 '
+        content: Hebrew <b>A foolish son.</b>
+    - title: 
+      content: 'It is wrong to punish the godly for being goodor to flog leaders
+        for being honest.  '
+      comments: []
+    - title: 
+      content: 'A truly wise person uses few words;a person with understanding is
+        even-tempered.  '
+      comments: []
+  - verses:
+    - title: 
+      content: '  Unfriendly people care only about themselves;they lash out at common
+        sense.  '
+      comments: []
+    - title: 
+      content: 'Fools have no interest in understanding;they only want to air their
+        own opinions.  '
+      comments: []
+    - title: 
+      content: 'Doing wrong leads to disgrace,and scandalous behavior brings contempt.  '
+      comments: []
+    - title: 
+      content: 'Wise words are like deep waters;wisdom flows from the wise like a
+        bubbling brook.  '
+      comments: []
+    - title: 
+      content: 'It is not right to acquit the guiltyor deny justice to the innocent.  '
+      comments: []
+    - title: 
+      content: "Fools\u2019 words get them into constant quarrels;they are asking
+        for a beating.  "
+      comments: []
+    - title: 
+      content: 'The mouths of fools are their ruin;they trap themselves with their
+        lips.  '
+      comments: []
+    - title: 
+      content: "Rumors are dainty morselsthat sink deep into one\u2019s heart.  "
+      comments: []
+    - title: 
+      content: 'A lazy person is as bad assomeone who destroys things.  '
+      comments: []
+    - title: 
+      content: 'The name of the <smallcaps>Lord</smallcaps> is a strong fortress;the
+        godly run to him and are safe.  '
+      comments: []
+    - title: 
+      content: 'The rich think of their wealth as a strong defense;they imagine it
+        to be a high wall of safety.  '
+      comments: []
+    - title: 
+      content: 'Haughtiness goes before destruction;humility precedes honor.  '
+      comments: []
+    - title: 
+      content: 'Spouting off before listening to the factsis both shameful and foolish.  '
+      comments: []
+    - title: 
+      content: 'The human spirit can endure a sick body,but who can bear a crushed
+        spirit?  '
+      comments: []
+    - title: 
+      content: 'Intelligent people are always ready to learn.Their ears are open
+        for knowledge.  '
+      comments: []
+    - title: 
+      content: 'Giving a gift can open doors;it gives access to important people!  '
+      comments: []
+    - title: 
+      content: "The first to speak in court sounds right\u2014until the cross-examination
+        begins.  "
+      comments: []
+    - title: 
+      content: 'Flipping a coin[[COMMENT(0)]] can end arguments;it settles disputes
+        between powerful opponents.  '
+      comments:
+      - number: '18:18 '
+        content: Hebrew <b>Casting lots.</b>
+    - title: 
+      content: 'An offended friend is harder to win back than a fortified city.Arguments
+        separate friends like a gate locked with bars.  '
+      comments: []
+    - title: 
+      content: 'Wise words satisfy like a good meal;the right words bring satisfaction.  '
+      comments: []
+    - title: 
+      content: 'The tongue can bring death or life;those who love to talk will reap
+        the consequences.  '
+      comments: []
+    - title: 
+      content: 'The man who finds a wife finds a treasure,and he receives favor from
+        the <smallcaps>Lord</smallcaps>.  '
+      comments: []
+    - title: 
+      content: 'The poor plead for mercy;the rich answer with insults.  '
+      comments: []
+  - verses:
+    - title: 
+      content: '  Better to be poor and honestthan to be dishonest and a fool.  '
+      comments: []
+    - title: 
+      content: 'Enthusiasm without knowledge is no good;haste makes mistakes.  '
+      comments: []
+    - title: 
+      content: 'People ruin their lives by their own foolishnessand then are angry
+        at the <smallcaps>Lord</smallcaps>.  '
+      comments: []
+    - title: 
+      content: "Wealth makes many \u201Cfriends\u201D;poverty drives them all away.  "
+      comments: []
+    - title: 
+      content: 'A false witness will not go unpunished,nor will a liar escape.  '
+      comments: []
+    - title: 
+      content: 'Many seek favors from a ruler;everyone is the friend of a person
+        who gives gifts!  '
+      comments: []
+    - title: 
+      content: 'The relatives of the poor despise them;how much more will their friends
+        avoid them!Though the poor plead with them,their friends are gone.  '
+      comments: []
+    - title: 
+      content: 'To acquire wisdom is to love yourself;people who cherish understanding
+        will prosper.  '
+      comments: []
+    - title: 
+      content: 'A false witness will not go unpunished,and a liar will be destroyed.  '
+      comments: []
+    - title: 
+      content: "It isn\u2019t right for a fool to live in luxuryor for a slave to
+        rule over princes!  "
+      comments: []
+    - title: 
+      content: 'Sensible people control their temper;they earn respect by overlooking
+        wrongs.  '
+      comments: []
+    - title: 
+      content: "The king\u2019s anger is like a lion\u2019s roar,but his favor is
+        like dew on the grass.  "
+      comments: []
+    - title: 
+      content: 'A foolish child[[COMMENT(0)]] is a calamity to a father;a quarrelsome
+        wife is as annoying as constant dripping.  '
+      comments:
+      - number: '19:13 '
+        content: Hebrew <b>son; </b>also in 19:27.
+    - title: 
+      content: 'Fathers can give their sons an inheritance of houses and wealth,but
+        only the <smallcaps>Lord</smallcaps> can give an understanding wife.  '
+      comments: []
+    - title: 
+      content: 'Lazy people sleep soundly,but idleness leaves them hungry.  '
+      comments: []
+    - title: 
+      content: 'Keep the commandments and keep your life;despising them leads to
+        death.  '
+      comments: []
+    - title: 
+      content: "If you help the poor, you are lending to the <smallcaps>Lord</smallcaps>\u2014and
+        he will repay you!  "
+      comments: []
+    - title: 
+      content: 'Discipline your children while there is hope.Otherwise you will ruin
+        their lives.  '
+      comments: []
+    - title: 
+      content: 'Hot-tempered people must pay the penalty.If you rescue them once,
+        you will have to do it again.  '
+      comments: []
+    - title: 
+      content: 'Get all the advice and instruction you can,so you will be wise the
+        rest of your life.  '
+      comments: []
+    - title: 
+      content: "You can make many plans,but the <smallcaps>Lord</smallcaps>\u2019s
+        purpose will prevail.  "
+      comments: []
+    - title: 
+      content: 'Loyalty makes a person attractive.It is better to be poor than dishonest.  '
+      comments: []
+    - title: 
+      content: 'Fear of the <smallcaps>Lord</smallcaps> leads to life,bringing security
+        and protection from harm.  '
+      comments: []
+    - title: 
+      content: "Lazy people take food in their handbut don\u2019t even lift it to
+        their mouth.  "
+      comments: []
+    - title: 
+      content: 'If you punish a mocker, the simpleminded will learn a lesson;if you
+        correct the wise, they will be all the wiser.  '
+      comments: []
+    - title: 
+      content: 'Children who mistreat their father or chase away their motherare
+        an embarrassment and a public disgrace.  '
+      comments: []
+    - title: 
+      content: 'If you stop listening to instruction, my child,you will turn your
+        back on knowledge.  '
+      comments: []
+    - title: 
+      content: 'A corrupt witness makes a mockery of justice;the mouth of the wicked
+        gulps down evil.  '
+      comments: []
+  - verses:
+    - title: 
+      content: '  Wine produces mockers; alcohol leads to brawls.Those led astray
+        by drink cannot be wise.  '
+      comments: []
+    - title: 
+      content: "The king\u2019s fury is like a lion\u2019s roar;to rouse his anger
+        is to risk your life.  "
+      comments: []
+    - title: 
+      content: 'Avoiding a fight is a mark of honor;only fools insist on quarreling.  '
+      comments: []
+    - title: 
+      content: 'Those too lazy to plow in the right seasonwill have no food at the
+        harvest.  '
+      comments: []
+    - title: 
+      content: 'Though good advice lies deep within the heart,a person with understanding
+        will draw it out.  '
+      comments: []
+    - title: 
+      content: 'Many will say they are loyal friends,but who can find one who is
+        truly reliable?  '
+      comments: []
+    - title: 
+      content: 'The godly walk with integrity;blessed are their children who follow
+        them.  '
+      comments: []
+    - title: 
+      content: 'When a king sits in judgment, he weighs all the evidence,distinguishing
+        the bad from the good.  '
+      comments: []
+    - title: 
+      content: "Who can say, \u201CI have cleansed my heart;I am pure and free from
+        sin\u201D?  "
+      comments: []
+    - title: 
+      content: "False weights and unequal measures[[COMMENT(0)]]\u2014the <smallcaps>Lord</smallcaps>
+        detests double standards of every kind.  "
+      comments:
+      - number: '20:10 '
+        content: Hebrew <b>A stone and a stone, an ephah and an ephah.</b>
+    - title: 
+      content: 'Even children are known by the way they act,whether their conduct
+        is pure, and whether it is right.  '
+      comments: []
+    - title: 
+      content: "Ears to hear and eyes to see\u2014both are gifts from the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - title: 
+      content: 'If you love sleep, you will end in poverty.Keep your eyes open, and
+        there will be plenty to eat!  '
+      comments: []
+    - title: 
+      content: "The buyer haggles over the price, saying, \u201CIt\u2019s worthless,\u201Dthen
+        brags about getting a bargain!  "
+      comments: []
+    - title: 
+      content: 'Wise words are more valuablethan much gold and many rubies.  '
+      comments: []
+    - title: 
+      content: "Get security from someone who guarantees a stranger\u2019s debt.Get
+        a deposit if he does it for foreigners.[[COMMENT(0)]]  "
+      comments:
+      - number: '20:16 '
+        content: An alternate reading in the Masoretic Text is <b>for a promiscuous
+          woman.</b>
+    - title: 
+      content: 'Stolen bread tastes sweet,but it turns to gravel in the mouth.  '
+      comments: []
+    - title: 
+      content: "Plans succeed through good counsel;don\u2019t go to war without wise
+        advice.  "
+      comments: []
+    - title: 
+      content: "A gossip goes around telling secrets,so don\u2019t hang around with
+        chatterers.  "
+      comments: []
+    - title: 
+      content: 'If you insult your father or mother,your light will be snuffed out
+        in total darkness.  '
+      comments: []
+    - title: 
+      content: 'An inheritance obtained too early in lifeis not a blessing in the
+        end.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t say, \u201CI will get even for this wrong.\u201DWait for
+        the <smallcaps>Lord</smallcaps> to handle the matter.  "
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> detests double standards;he is not
+        pleased by dishonest scales.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> directs our steps,so why try to understand
+        everything along the way?  '
+      comments: []
+    - title: 
+      content: "Don\u2019t trap yourself by making a rash promise to Godand only
+        later counting the cost.  "
+      comments: []
+    - title: 
+      content: 'A wise king scatters the wicked like wheat,then runs his threshing
+        wheel over them.  '
+      comments: []
+    - title: 
+      content: "The <smallcaps>Lord</smallcaps>\u2019s light penetrates the human
+        spirit,[[COMMENT(0)]]<smallcaps>exposing every hidden motive.</smallcaps>  "
+      comments:
+      - number: '20:27 '
+        content: "Or <b>The human spirit is the <span class=\"ChapterContent_nd__ECPAf\">Lord</span>\u2019s
+          light.</b>"
+    - title: 
+      content: 'Unfailing love and faithfulness protect the king;his throne is made
+        secure through love.  '
+      comments: []
+    - title: 
+      content: 'The glory of the young is their strength;the gray hair of experience
+        is the splendor of the old.  '
+      comments: []
+  - verses:
+    - title: 
+      content: "  The king\u2019s heart is like a stream of water directed by the
+        <smallcaps>Lord</smallcaps>;he guides it wherever he pleases.  "
+      comments: []
+    - title: 
+      content: 'People may be right in their own eyes,but the <smallcaps>Lord</smallcaps>
+        examines their heart.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> is more pleased when we do what is
+        right and justthan when we offer him sacrifices.  '
+      comments: []
+    - title: 
+      content: 'Haughty eyes, a proud heart,and evil actions are all sin.  '
+      comments: []
+    - title: 
+      content: 'Good planning and hard work lead to prosperity,but hasty shortcuts
+        lead to poverty.  '
+      comments: []
+    - title: 
+      content: 'Wealth created by a lying tongueis a vanishing mist and a deadly
+        trap.[[COMMENT(0)]]  '
+      comments:
+      - number: '21:6 '
+        content: As in Greek version; Hebrew reads <b>mist for those who seek death.</b>
+    - title: 
+      content: 'The violence of the wicked sweeps them away,because they refuse to
+        do what is just.  '
+      comments: []
+    - title: 
+      content: 'The guilty walk a crooked path;the innocent travel a straight road.  '
+      comments: []
+    - title: 
+      content: "It\u2019s better to live alone in the corner of an atticthan with
+        a quarrelsome wife in a lovely home.  "
+      comments: []
+    - title: 
+      content: 'Evil people desire evil;their neighbors get no mercy from them.  '
+      comments: []
+    - title: 
+      content: 'If you punish a mocker, the simpleminded become wise;if you instruct
+        the wise, they will be all the wiser.  '
+      comments: []
+    - title: 
+      content: 'The Righteous One[[COMMENT(0)]] knows what is going on in the homes
+        of the wicked;he will bring disaster on them.  '
+      comments:
+      - number: '21:12 '
+        content: Or <b>The righteous man.</b>
+    - title: 
+      content: 'Those who shut their ears to the cries of the poorwill be ignored
+        in their own time of need.  '
+      comments: []
+    - title: 
+      content: 'A secret gift calms anger;a bribe under the table pacifies fury.  '
+      comments: []
+    - title: 
+      content: 'Justice is a joy to the godly,but it terrifies evildoers.  '
+      comments: []
+    - title: 
+      content: 'The person who strays from common sensewill end up in the company
+        of the dead.  '
+      comments: []
+    - title: 
+      content: 'Those who love pleasure become poor;those who love wine and luxury
+        will never be rich.  '
+      comments: []
+    - title: 
+      content: 'The wicked are punished in place of the godly,and traitors in place
+        of the honest.  '
+      comments: []
+    - title: 
+      content: "It\u2019s better to live alone in the desertthan with a quarrelsome,
+        complaining wife.  "
+      comments: []
+    - title: 
+      content: 'The wise have wealth and luxury,but fools spend whatever they get.  '
+      comments: []
+    - title: 
+      content: 'Whoever pursues righteousness and unfailing lovewill find life, righteousness,
+        and honor.  '
+      comments: []
+    - title: 
+      content: 'The wise conquer the city of the strongand level the fortress in
+        which they trust.  '
+      comments: []
+    - title: 
+      content: 'Watch your tongue and keep your mouth shut,and you will stay out
+        of trouble.  '
+      comments: []
+    - title: 
+      content: 'Mockers are proud and haughty;they act with boundless arrogance.  '
+      comments: []
+    - title: 
+      content: 'Despite their desires, the lazy will come to ruin,for their hands
+        refuse to work.  '
+      comments: []
+    - title: 
+      content: 'Some people are always greedy for more,but the godly love to give!  '
+      comments: []
+    - title: 
+      content: 'The sacrifice of an evil person is detestable,especially when it
+        is offered with wrong motives.  '
+      comments: []
+    - title: 
+      content: 'A false witness will be cut off,but a credible witness will be allowed
+        to speak.  '
+      comments: []
+    - title: 
+      content: 'The wicked bluff their way through,but the virtuous think before
+        they act.  '
+      comments: []
+    - title: 
+      content: 'No human wisdom or understanding or plancan stand against the <smallcaps>Lord</smallcaps>.  '
+      comments: []
+  - verses:
+    - title: 
+      content: '  Choose a good reputation over great riches;being held in high esteem
+        is better than silver or gold.  '
+      comments: []
+    - title: 
+      content: 'The rich and poor have this in common:The <smallcaps>Lord</smallcaps>
+        made them both.  '
+      comments: []
+    - title: 
+      content: 'A prudent person foresees danger and takes precautions.The simpleton
+        goes blindly on and suffers the consequences.  '
+      comments: []
+    - title: 
+      content: 'True humility and fear of the <smallcaps>Lord</smallcaps>lead to
+        riches, honor, and long life.  '
+      comments: []
+    - title: 
+      content: 'Corrupt people walk a thorny, treacherous road;whoever values life
+        will avoid it.  '
+      comments: []
+    - title: 
+      content: 'Direct your children onto the right path,and when they are older,
+        they will not leave it.  '
+      comments: []
+    - title: 
+      content: 'Just as the rich rule the poor,so the borrower is servant to the
+        lender.  '
+      comments: []
+    - title: 
+      content: 'Those who plant injustice will harvest disaster,and their reign of
+        terror will come to an end.[[COMMENT(0)]]  '
+      comments:
+      - number: '22:8 '
+        content: 'The Greek version includes an additional proverb: <b>God blesses
+          a man who gives cheerfully, / but his worthless deeds will come to an end.
+          </b>Compare 2 Cor 9:7.'
+    - title: 
+      content: 'Blessed are those who are generous,because they feed the poor.  '
+      comments: []
+    - title: 
+      content: 'Throw out the mocker, and fighting goes, too.Quarrels and insults
+        will disappear.  '
+      comments: []
+    - title: 
+      content: 'Whoever loves a pure heart and gracious speechwill have the king
+        as a friend.  '
+      comments: []
+    - title: 
+      content: 'The <smallcaps>Lord</smallcaps> preserves those with knowledge,but
+        he ruins the plans of the treacherous.  '
+      comments: []
+    - title: 
+      content: "The lazy person claims, \u201CThere\u2019s a lion out there!If I
+        go outside, I might be killed!\u201D  "
+      comments: []
+    - title: 
+      content: 'The mouth of an immoral woman is a dangerous trap;those who make
+        the <smallcaps>Lord</smallcaps> angry will fall into it.  '
+      comments: []
+    - title: 
+      content: "A youngster\u2019s heart is filled with foolishness,but physical
+        discipline will drive it far away.  "
+      comments: []
+    - title: Sayings of the Wise
+      content: 'A person who gets ahead by oppressing the pooror by showering gifts
+        on the rich will end in poverty.  '
+      comments: []
+    - title: 
+      content: 'Listen to the words of the wise;apply your heart to my instruction.  '
+      comments: []
+    - title: 
+      content: 'For it is good to keep these sayings in your heartand always ready
+        on your lips.  '
+      comments: []
+    - title: 
+      content: "I am teaching you today\u2014yes, you\u2014so you will trust in the
+        <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - title: 
+      content: 'I have written thirty sayings[[COMMENT(0)]] for you,filled with advice
+        and knowledge.  '
+      comments:
+      - number: '22:20 '
+        content: Or <b>excellent sayings; </b>the meaning of the Hebrew is uncertain.
+    - title: 
+      content: 'In this way, you may know the truthand take an accurate report to
+        those who sent you.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t rob the poor just because you can,or exploit the needy
+        in court.  "
+      comments: []
+    - title: 
+      content: 'For the <smallcaps>Lord</smallcaps> is their defender.He will ruin
+        anyone who ruins them.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t befriend angry peopleor associate with hot-tempered people,  "
+      comments: []
+    - title: 
+      content: 'or you will learn to be like themand endanger your soul.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t agree to guarantee another person\u2019s debtor put up
+        security for someone else.  "
+      comments: []
+    - title: 
+      content: "If you can\u2019t pay it,even your bed will be snatched from under
+        you.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t cheat your neighbor by moving the ancient boundary markersset
+        up by previous generations.  "
+      comments: []
+  - verses:
+    - title: 
+      content: '  While dining with a ruler,pay attention to what is put before you.  '
+      comments: []
+    - title: 
+      content: 'If you are a big eater,put a knife to your throat;  '
+      comments: []
+    - title: 
+      content: "don\u2019t desire all the delicacies,for he might be trying to trick
+        you.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t wear yourself out trying to get rich.Be wise enough to
+        know when to quit.  "
+      comments: []
+    - title: 
+      content: 'In the blink of an eye wealth disappears,for it will sprout wingsand
+        fly away like an eagle.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t eat with people who are stingy;don\u2019t desire their
+        delicacies.  "
+      comments: []
+    - title: 
+      content: "They are always thinking about how much it costs.[[COMMENT(0)]]\u201CEat
+        and drink,\u201D they say, but they don\u2019t mean it.  "
+      comments:
+      - number: '23:7 '
+        content: The meaning of the Hebrew is uncertain.
+    - title: 
+      content: "You will throw up what little you\u2019ve eaten,and your compliments
+        will be wasted.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t waste your breath on fools,for they will despise the wisest
+        advice.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t cheat your neighbor by moving the ancient boundary markers;don\u2019t
+        take the land of defenseless orphans.  "
+      comments: []
+    - title: 
+      content: 'For their Redeemer[[COMMENT(0)]] is strong;he himself will bring
+        their charges against you.  '
+      comments:
+      - number: '23:11 '
+        content: Or <b>redeemer.</b>
+    - title: 
+      content: 'Commit yourself to instruction;listen carefully to words of knowledge.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t fail to discipline your children.The rod of punishment
+        won\u2019t kill them.  "
+      comments: []
+    - title: 
+      content: 'Physical disciplinemay well save them from death.[[COMMENT(0)]]  '
+      comments:
+      - number: '23:14 '
+        content: Hebrew <b>from Sheol.</b>
+    - title: 
+      content: 'My child,[[COMMENT(0)]] if your heart is wise,my own heart will rejoice!  '
+      comments:
+      - number: '23:15 '
+        content: Hebrew <b>My son; </b>also in 23:19.
+    - title: 
+      content: 'Everything in me will celebratewhen you speak what is right.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t envy sinners,but always continue to fear the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - title: 
+      content: 'You will be rewarded for this;your hope will not be disappointed.  '
+      comments: []
+    - title: 
+      content: 'My child, listen and be wise:Keep your heart on the right course.  '
+      comments: []
+    - title: 
+      content: 'Do not carouse with drunkardsor feast with gluttons,  '
+      comments: []
+    - title: 
+      content: 'for they are on their way to poverty,and too much sleep clothes them
+        in rags.  '
+      comments: []
+    - title: 
+      content: "Listen to your father, who gave you life,and don\u2019t despise your
+        mother when she is old.  "
+      comments: []
+    - title: 
+      content: 'Get the truth and never sell it;also get wisdom, discipline, and
+        good judgment.  '
+      comments: []
+    - title: 
+      content: 'The father of godly children has cause for joy.What a pleasure to
+        have children who are wise.[[COMMENT(0)]]  '
+      comments:
+      - number: '23:24 '
+        content: Hebrew <b>to have a wise son.</b>
+    - title: 
+      content: 'So give your father and mother joy!May she who gave you birth be
+        happy.  '
+      comments: []
+    - title: 
+      content: 'O my son, give me your heart.May your eyes take delight in following
+        my ways.  '
+      comments: []
+    - title: 
+      content: 'A prostitute is a dangerous trap;a promiscuous woman is as dangerous
+        as falling into a narrow well.  '
+      comments: []
+    - title: 
+      content: 'She hides and waits like a robber,eager to make more men unfaithful.  '
+      comments: []
+    - title: 
+      content: 'Who has anguish? Who has sorrow?Who is always fighting? Who is always
+        complaining?Who has unnecessary bruises? Who has bloodshot eyes?  '
+      comments: []
+    - title: 
+      content: 'It is the one who spends long hours in the taverns,trying out new
+        drinks.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t gaze at the wine, seeing how red it is,how it sparkles
+        in the cup, how smoothly it goes down.  "
+      comments: []
+    - title: 
+      content: 'For in the end it bites like a poisonous snake;it stings like a viper.  '
+      comments: []
+    - title: 
+      content: 'You will see hallucinations,and you will say crazy things.  '
+      comments: []
+    - title: 
+      content: 'You will stagger like a sailor tossed at sea,clinging to a swaying
+        mast.  '
+      comments: []
+  - verses:
+    - title: 
+      content: "  Don\u2019t envy evil peopleor desire their company.  "
+      comments: []
+    - title: 
+      content: 'For their hearts plot violence,and their words always stir up trouble.  '
+      comments: []
+    - title: 
+      content: 'A house is built by wisdomand becomes strong through good sense.  '
+      comments: []
+    - title: 
+      content: 'Through knowledge its rooms are filledwith all sorts of precious
+        riches and valuables.  '
+      comments: []
+    - title: 
+      content: 'The wise are mightier than the strong,[[COMMENT(0)]]and those with
+        knowledge grow stronger and stronger.  '
+      comments:
+      - number: '24:5 '
+        content: As in Greek version; Hebrew reads <b>A wise man is strength.</b>
+    - title: 
+      content: "So don\u2019t go to war without wise guidance;victory depends on
+        having many advisers.  "
+      comments: []
+    - title: 
+      content: 'Wisdom is too lofty for fools.Among leaders at the city gate, they
+        have nothing to say.  '
+      comments: []
+    - title: 
+      content: 'A person who plans evilwill get a reputation as a troublemaker.  '
+      comments: []
+    - title: 
+      content: 'The schemes of a fool are sinful;everyone detests a mocker.  '
+      comments: []
+    - title: 
+      content: 'If you fail under pressure,your strength is too small.  '
+      comments: []
+    - title: 
+      content: 'Rescue those who are unjustly sentenced to die;save them as they
+        stagger to their death.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t excuse yourself by saying, \u201CLook, we didn\u2019t
+        know.\u201DFor God understands all hearts, and he sees you.He who guards
+        your soul knows you knew.He will repay all people as their actions deserve.  "
+      comments: []
+    - title: 
+      content: 'My child,[[COMMENT(0)]] eat honey, for it is good,and the honeycomb
+        is sweet to the taste.  '
+      comments:
+      - number: '24:13 '
+        content: Hebrew <b>My son; </b>also in 24:21.
+    - title: 
+      content: 'In the same way, wisdom is sweet to your soul.If you find it, you
+        will have a bright future,and your hopes will not be cut short.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t wait in ambush at the home of the godly,and don\u2019t
+        raid the house where the godly live.  "
+      comments: []
+    - title: 
+      content: 'The godly may trip seven times, but they will get up again.But one
+        disaster is enough to overthrow the wicked.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t rejoice when your enemies fall;don\u2019t be happy when
+        they stumble.  "
+      comments: []
+    - title: 
+      content: 'For the <smallcaps>Lord</smallcaps> will be displeased with youand
+        will turn his anger away from them.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t fret because of evildoers;don\u2019t envy the wicked.  "
+      comments: []
+    - title: 
+      content: 'For evil people have no future;the light of the wicked will be snuffed
+        out.  '
+      comments: []
+    - title: 
+      content: "My child, fear the <smallcaps>Lord</smallcaps> and the king.Don\u2019t
+        associate with rebels,  "
+      comments: []
+    - title: More Sayings of the Wise
+      content: 'for disaster will hit them suddenly.Who knows what punishment will
+        comefrom the <smallcaps>Lord</smallcaps> and the king?  '
+      comments: []
+    - title: 
+      content: 'Here are some further sayings of the wise:It is wrong to show favoritism
+        when passing judgment.  '
+      comments: []
+    - title: 
+      content: "A judge who says to the wicked, \u201CYou are innocent,\u201Dwill
+        be cursed by many people and denounced by the nations.  "
+      comments: []
+    - title: 
+      content: 'But it will go well for those who convict the guilty;rich blessings
+        will be showered on them.  '
+      comments: []
+    - title: 
+      content: 'An honest answeris like a kiss of friendship.  '
+      comments: []
+    - title: 
+      content: 'Do your planning and prepare your fieldsbefore building your house.  '
+      comments: []
+    - title: 
+      content: "Don\u2019t testify against your neighbors without cause;don\u2019t
+        lie about them.  "
+      comments: []
+    - title: 
+      content: "And don\u2019t say, \u201CNow I can pay them back for what they\u2019ve
+        done to me!I\u2019ll get even with them!\u201D  "
+      comments: []
+    - title: 
+      content: 'I walked by the field of a lazy person,the vineyard of one with no
+        common sense.  '
+      comments: []
+    - title: 
+      content: 'I saw that it was overgrown with nettles.It was covered with weeds,and
+        its walls were broken down.  '
+      comments: []
+    - title: 
+      content: 'Then, as I looked and thought about it,I learned this lesson:  '
+      comments: []
+    - title: 
+      content: "A little extra sleep, a little more slumber,a little folding of the
+        hands to rest\u2014  "
+      comments: []
+  - verses:
+    - title: More Proverbs of Solomon
+      content: '  These are more proverbs of Solomon, collected by the advisers of
+        King Hezekiah of Judah.  '
+      comments: []
+    - title: 
+      content: "It is God\u2019s privilege to conceal thingsand the king\u2019s privilege
+        to discover them.  "
+      comments: []
+    - title: 
+      content: "No one can comprehend the height of heaven, the depth of the earth,or
+        all that goes on in the king\u2019s mind!  "
+      comments: []
+    - title: 
+      content: 'Remove the impurities from silver,and the sterling will be ready
+        for the silversmith.  '
+      comments: []
+    - title: 
+      content: "Remove the wicked from the king\u2019s court,and his reign will be
+        made secure by justice.  "
+      comments: []
+    - title: 
+      content: "Don\u2019t demand an audience with the kingor push for a place among
+        the great.  "
+      comments: []
+    - title: 
+      content: "It\u2019s better to wait for an invitation to the head tablethan
+        to be sent away in public disgrace.Just because you\u2019ve seen something,  "
+      comments: []
+    - title: 
+      content: "don\u2019t be in a hurry to go to court.For what will you do in the
+        endif your neighbor deals you a shameful defeat?  "
+      comments: []
+    - title: 
+      content: "When arguing with your neighbor,don\u2019t betray another person\u2019s
+        secret.  "
+      comments: []
+    - title: 
+      content: 'Others may accuse you of gossip,and you will never regain your good
+        reputation.  '
+      comments: []
+    - title: 
+      content: 'Timely advice is lovely,like golden apples in a silver basket.  '
+      comments: []
+    - title: 
+      content: 'To one who listens, valid criticismis like a gold earring or other
+        gold jewelry.  '
+      comments: []
+    - title: 
+      content: 'Trustworthy messengers refresh like snow in summer.They revive the
+        spirit of their employer.  '
+      comments: []
+    - title: 
+      content: "A person who promises a gift but doesn\u2019t give itis like clouds
+        and wind that bring no rain.  "
+      comments: []
+    - title: 
+      content: 'Patience can persuade a prince,and soft speech can break bones.  '
+      comments: []
+    - title: 
+      content: "Do you like honey?Don\u2019t eat too much, or it will make you sick!  "
+      comments: []
+    - title: 
+      content: "Don\u2019t visit your neighbors too often,or you will wear out your
+        welcome.  "
+      comments: []
+    - title: 
+      content: 'Telling lies about othersis as harmful as hitting them with an ax,wounding
+        them with a sword,or shooting them with a sharp arrow.  '
+      comments: []
+    - title: 
+      content: 'Putting confidence in an unreliable person in times of troubleis
+        like chewing with a broken tooth or walking on a lame foot.  '
+      comments: []
+    - title: 
+      content: "Singing cheerful songs to a person with a heavy heartis like taking
+        someone\u2019s coat in cold weatheror pouring vinegar in a wound.[[COMMENT(0)]]  "
+      comments:
+      - number: '25:20 '
+        content: As in Greek version; Hebrew reads <b>pouring vinegar on soda.</b>
+    - title: 
+      content: 'If your enemies are hungry, give them food to eat.If they are thirsty,
+        give them water to drink.  '
+      comments: []
+    - title: 
+      content: 'You will heap burning coals of shame on their heads,and the <smallcaps>Lord</smallcaps>
+        will reward you.  '
+      comments: []
+    - title: 
+      content: 'As surely as a north wind brings rain,so a gossiping tongue causes
+        anger!  '
+      comments: []
+    - title: 
+      content: "It\u2019s better to live alone in the corner of an atticthan with
+        a quarrelsome wife in a lovely home.  "
+      comments: []
+    - title: 
+      content: 'Good news from far awayis like cold water to the thirsty.  '
+      comments: []
+    - title: 
+      content: "If the godly give in to the wicked,it\u2019s like polluting a fountain
+        or muddying a spring.  "
+      comments: []
+    - title: 
+      content: "It\u2019s not good to eat too much honey,and it\u2019s not good to
+        seek honors for yourself.  "
+      comments: []
+  - verses:
+    - title: 
+      content: '  Honor is no more associated with foolsthan snow with summer or
+        rain with harvest.  '
+      comments: []
+    - title: 
+      content: 'Like a fluttering sparrow or a darting swallow,an undeserved curse
+        will not land on its intended victim.  '
+      comments: []
+    - title: 
+      content: 'Guide a horse with a whip, a donkey with a bridle,and a fool with
+        a rod to his back!  '
+      comments: []
+    - title: 
+      content: "Don\u2019t answer the foolish arguments of fools,or you will become
+        as foolish as they are.  "
+      comments: []
+    - title: 
+      content: 'Be sure to answer the foolish arguments of fools,or they will become
+        wise in their own estimation.  '
+      comments: []
+    - title: 
+      content: "Trusting a fool to convey a messageis like cutting off one\u2019s
+        feet or drinking poison!  "
+      comments: []
+    - title: 
+      content: 'A proverb in the mouth of a foolis as useless as a paralyzed leg.  '
+      comments: []
+    - title: 
+      content: 'Honoring a foolis as foolish as tying a stone to a slingshot.  '
+      comments: []
+    - title: 
+      content: 'A proverb in the mouth of a foolis like a thorny branch brandished
+        by a drunk.  '
+      comments: []
+    - title: 
+      content: 'An employer who hires a fool or a bystanderis like an archer who
+        shoots at random.  '
+      comments: []
+    - title: 
+      content: 'As a dog returns to its vomit,so a fool repeats his foolishness.  '
+      comments: []
+    - title: 
+      content: 'There is more hope for foolsthan for people who think they are wise.  '
+      comments: []
+    - title: 
+      content: "The lazy person claims, \u201CThere\u2019s a lion on the road!Yes,
+        I\u2019m sure there\u2019s a lion out there!\u201D  "
+      comments: []
+    - title: 
+      content: 'As a door swings back and forth on its hinges,so the lazy person
+        turns over in bed.  '
+      comments: []
+    - title: 
+      content: "Lazy people take food in their handbut don\u2019t even lift it to
+        their mouth.  "
+      comments: []
+    - title: 
+      content: 'Lazy people consider themselves smarterthan seven wise counselors.  '
+      comments: []
+    - title: 
+      content: "Interfering in someone else\u2019s argumentis as foolish as yanking
+        a dog\u2019s ears.  "
+      comments: []
+    - title: 
+      content: 'Just as damagingas a madman shooting a deadly weapon  '
+      comments: []
+    - title: 
+      content: "is someone who lies to a friendand then says, \u201CI was only joking.\u201D  "
+      comments: []
+    - title: 
+      content: 'Fire goes out without wood,and quarrels disappear when gossip stops.  '
+      comments: []
+    - title: 
+      content: 'A quarrelsome person starts fightsas easily as hot embers light charcoal
+        or fire lights wood.  '
+      comments: []
+    - title: 
+      content: "Rumors are dainty morselsthat sink deep into one\u2019s heart.  "
+      comments: []
+    - title: 
+      content: 'Smooth[[COMMENT(0)]] words may hide a wicked heart,just as a pretty
+        glaze covers a clay pot.  '
+      comments:
+      - number: '26:23 '
+        content: As in Greek version; Hebrew reads <b>Burning.</b>
+    - title: 
+      content: "People may cover their hatred with pleasant words,but they\u2019re
+        deceiving you.  "
+      comments: []
+    - title: 
+      content: "They pretend to be kind, but don\u2019t believe them.Their hearts
+        are full of many evils.[[COMMENT(0)]]  "
+      comments:
+      - number: '26:25 '
+        content: Hebrew <b>seven evils.</b>
+    - title: 
+      content: 'While their hatred may be concealed by trickery,their wrongdoing
+        will be exposed in public.  '
+      comments: []
+    - title: 
+      content: 'If you set a trap for others,you will get caught in it yourself.If
+        you roll a boulder down on others,it will crush you instead.  '
+      comments: []
+  - verses:
+    - title: 
+      content: "  Don\u2019t brag about tomorrow,since you don\u2019t know what the
+        day will bring.  "
+      comments: []
+    - title: 
+      content: "Let someone else praise you, not your own mouth\u2014a stranger,
+        not your own lips.  "
+      comments: []
+    - title: 
+      content: 'A stone is heavy and sand is weighty,but the resentment caused by
+        a fool is even heavier.  '
+      comments: []
+    - title: 
+      content: 'Anger is cruel, and wrath is like a flood,but jealousy is even more
+        dangerous.  '
+      comments: []
+    - title: 
+      content: 'An open rebukeis better than hidden love!  '
+      comments: []
+    - title: 
+      content: 'Wounds from a sincere friendare better than many kisses from an enemy.  '
+      comments: []
+    - title: 
+      content: 'A person who is full refuses honey,but even bitter food tastes sweet
+        to the hungry.  '
+      comments: []
+    - title: 
+      content: 'A person who strays from homeis like a bird that strays from its
+        nest.  '
+      comments: []
+    - title: 
+      content: 'The heartfelt counsel of a friendis as sweet as perfume and incense.  '
+      comments: []
+    - title: 
+      content: "Never abandon a friend\u2014either yours or your father\u2019s.When
+        disaster strikes, you won\u2019t have to ask your brother for assistance.It\u2019s
+        better to go to a neighbor than to a brother who lives far away.  "
+      comments: []
+    - title: 
+      content: 'Be wise, my child,[[COMMENT(0)]] and make my heart glad.Then I will
+        be able to answer my critics.  '
+      comments:
+      - number: '27:11 '
+        content: Hebrew <b>my son.</b>
+    - title: 
+      content: 'A prudent person foresees danger and takes precautions.The simpleton
+        goes blindly on and suffers the consequences.  '
+      comments: []
+    - title: 
+      content: "Get security from someone who guarantees a stranger\u2019s debt.Get
+        a deposit if he does it for foreigners.[[COMMENT(0)]]  "
+      comments:
+      - number: '27:13 '
+        content: As in Greek and Latin versions (see also 20:16); Hebrew reads <b>for
+          a promiscuous woman.</b>
+    - title: 
+      content: 'A loud and cheerful greeting early in the morningwill be taken as
+        a curse!  '
+      comments: []
+    - title: 
+      content: 'A quarrelsome wife is as annoyingas constant dripping on a rainy
+        day.  '
+      comments: []
+    - title: 
+      content: 'Stopping her complaints is like trying to stop the windor trying
+        to hold something with greased hands.  '
+      comments: []
+    - title: 
+      content: 'As iron sharpens iron,so a friend sharpens a friend.  '
+      comments: []
+    - title: 
+      content: "As workers who tend a fig tree are allowed to eat the fruit,so workers
+        who protect their employer\u2019s interests will be rewarded.  "
+      comments: []
+    - title: 
+      content: 'As a face is reflected in water,so the heart reflects the real person.  '
+      comments: []
+    - title: 
+      content: 'Just as Death and Destruction[[COMMENT(0)]] are never satisfied,so
+        human desire is never satisfied.  '
+      comments:
+      - number: '27:20 '
+        content: Hebrew <b>Sheol and Abaddon.</b>
+    - title: 
+      content: 'Fire tests the purity of silver and gold,but a person is tested by
+        being praised.[[COMMENT(0)]]  '
+      comments:
+      - number: '27:21 '
+        content: Or <b>by flattery.</b>
+    - title: 
+      content: 'You cannot separate fools from their foolishness,even though you
+        grind them like grain with mortar and pestle.  '
+      comments: []
+    - title: 
+      content: 'Know the state of your flocks,and put your heart into caring for
+        your herds,  '
+      comments: []
+    - title: 
+      content: "for riches don\u2019t last forever,and the crown might not be passed
+        to the next generation.  "
+      comments: []
+    - title: 
+      content: 'After the hay is harvested and the new crop appearsand the mountain
+        grasses are gathered in,  '
+      comments: []
+    - title: 
+      content: 'your sheep will provide wool for clothing,and your goats will provide
+        the price of a field.  '
+      comments: []
+  - verses:
+    - title: 
+      content: '  The wicked run away when no one is chasing them,but the godly are
+        as bold as lions.  '
+      comments: []
+    - title: 
+      content: 'When there is moral rot within a nation, its government topples easily.But
+        wise and knowledgeable leaders bring stability.  '
+      comments: []
+    - title: 
+      content: 'A poor person who oppresses the pooris like a pounding rain that
+        destroys the crops.  '
+      comments: []
+    - title: 
+      content: 'To reject the law is to praise the wicked;to obey the law is to fight
+        them.  '
+      comments: []
+    - title: 
+      content: "Evil people don\u2019t understand justice,but those who follow the
+        <smallcaps>Lord</smallcaps> understand completely.  "
+      comments: []
+    - title: 
+      content: 'Better to be poor and honestthan to be dishonest and rich.  '
+      comments: []
+    - title: 
+      content: 'Young people who obey the law are wise;those with wild friends bring
+        shame to their parents.[[COMMENT(0)]]  '
+      comments:
+      - number: '28:7 '
+        content: Hebrew <b>their father.</b>
+    - title: 
+      content: 'Income from charging high interest rateswill end up in the pocket
+        of someone who is kind to the poor.  '
+      comments: []
+    - title: 
+      content: 'God detests the prayersof a person who ignores the law.  '
+      comments: []
+    - title: 
+      content: 'Those who lead good people along an evil pathwill fall into their
+        own trap,but the honest will inherit good things.  '
+      comments: []
+    - title: 
+      content: 'Rich people may think they are wise,but a poor person with discernment
+        can see right through them.  '
+      comments: []
+    - title: 
+      content: 'When the godly succeed, everyone is glad.When the wicked take charge,
+        people go into hiding.  '
+      comments: []
+    - title: 
+      content: 'People who conceal their sins will not prosper,but if they confess
+        and turn from them, they will receive mercy.  '
+      comments: []
+    - title: 
+      content: 'Blessed are those who fear to do wrong,[[COMMENT(0)]]<smallcaps>Hebrew
+        reads </smallcaps>but the stubborn are headed for serious trouble.  '
+      comments:
+      - number: '28:14 '
+        content: Or <b>those who fear the <span class="ChapterContent_nd__ECPAf">Lord</span>;
+          </b><b>those who fear.</b>
+    - title: 
+      content: 'A wicked ruler is as dangerous to the pooras a roaring lion or an
+        attacking bear.  '
+      comments: []
+    - title: 
+      content: 'A ruler with no understanding will oppress his people,but one who
+        hates corruption will have a long life.  '
+      comments: []
+    - title: 
+      content: "A murderer\u2019s tormented conscience will drive him into the grave.Don\u2019t
+        protect him!  "
+      comments: []
+    - title: 
+      content: 'The blameless will be rescued from harm,but the crooked will be suddenly
+        destroyed.  '
+      comments: []
+    - title: 
+      content: 'A hard worker has plenty of food,but a person who chases fantasies
+        ends up in poverty.  '
+      comments: []
+    - title: 
+      content: 'The trustworthy person will get a rich reward,but a person who wants
+        quick riches will get into trouble.  '
+      comments: []
+    - title: 
+      content: 'Showing partiality is never good,yet some will do wrong for a mere
+        piece of bread.  '
+      comments: []
+    - title: 
+      content: "Greedy people try to get rich quickbut don\u2019t realize they\u2019re
+        headed for poverty.  "
+      comments: []
+    - title: 
+      content: 'In the end, people appreciate honest criticismfar more than flattery.  '
+      comments: []
+    - title: 
+      content: "Anyone who steals from his father and motherand says, \u201CWhat\u2019s
+        wrong with that?\u201Dis no better than a murderer.  "
+      comments: []
+    - title: 
+      content: 'Greed causes fighting;trusting the <smallcaps>Lord</smallcaps> leads
+        to prosperity.  '
+      comments: []
+    - title: 
+      content: 'Those who trust their own insight are foolish,but anyone who walks
+        in wisdom is safe.  '
+      comments: []
+    - title: 
+      content: 'Whoever gives to the poor will lack nothing,but those who close their
+        eyes to poverty will be cursed.  '
+      comments: []
+  - verses:
+    - title: 
+      content: '  Whoever stubbornly refuses to accept criticismwill suddenly be
+        destroyed beyond recovery.  '
+      comments: []
+    - title: 
+      content: 'When the godly are in authority, the people rejoice.But when the
+        wicked are in power, they groan.  '
+      comments: []
+    - title: 
+      content: 'The man who loves wisdom brings joy to his father,but if he hangs
+        around with prostitutes, his wealth is wasted.  '
+      comments: []
+    - title: 
+      content: 'A just king gives stability to his nation,but one who demands bribes
+        destroys it.  '
+      comments: []
+    - title: 
+      content: 'To flatter friendsis to lay a trap for their feet.  '
+      comments: []
+    - title: 
+      content: 'Evil people are trapped by sin,but the righteous escape, shouting
+        for joy.  '
+      comments: []
+    - title: 
+      content: "The godly care about the rights of the poor;the wicked don\u2019t
+        care at all.  "
+      comments: []
+    - title: 
+      content: 'Mockers can get a whole town agitated,but the wise will calm anger.  '
+      comments: []
+    - title: 
+      content: 'If a wise person takes a fool to court,there will be ranting and
+        ridicule but no satisfaction.  '
+      comments: []
+    - title: 
+      content: 'The bloodthirsty hate blameless people,but the upright seek to help
+        them.[[COMMENT(0)]]  '
+      comments:
+      - number: '29:10 '
+        content: Or <b>The bloodthirsty hate blameless people, / and they seek to
+          kill the upright; </b>Hebrew reads <b>The bloodthirsty hate blameless people;
+          / as for the upright, they seek their life.</b>
+    - title: 
+      content: 'Fools vent their anger,but the wise quietly hold it back.  '
+      comments: []
+    - title: 
+      content: 'If a ruler pays attention to liars,all his advisers will be wicked.  '
+      comments: []
+    - title: 
+      content: "The poor and the oppressor have this in common\u2014the <smallcaps>Lord</smallcaps>
+        gives sight to the eyes of both.  "
+      comments: []
+    - title: 
+      content: 'If a king judges the poor fairly,his throne will last forever.  '
+      comments: []
+    - title: 
+      content: 'To discipline a child produces wisdom,but a mother is disgraced by
+        an undisciplined child.  '
+      comments: []
+    - title: 
+      content: 'When the wicked are in authority, sin flourishes,but the godly will
+        live to see their downfall.  '
+      comments: []
+    - title: 
+      content: 'Discipline your children, and they will give you peace of mindand
+        will make your heart glad.  '
+      comments: []
+    - title: 
+      content: 'When people do not accept divine guidance, they run wild.But whoever
+        obeys the law is joyful.  '
+      comments: []
+    - title: 
+      content: 'Words alone will not discipline a servant;the words may be understood,
+        but they are not heeded.  '
+      comments: []
+    - title: 
+      content: 'There is more hope for a foolthan for someone who speaks without
+        thinking.  '
+      comments: []
+    - title: 
+      content: 'A servant pampered from childhoodwill become a rebel.  '
+      comments: []
+    - title: 
+      content: 'An angry person starts fights;a hot-tempered person commits all kinds
+        of sin.  '
+      comments: []
+    - title: 
+      content: 'Pride ends in humiliation,while humility brings honor.  '
+      comments: []
+    - title: 
+      content: 'If you assist a thief, you only hurt yourself.You are sworn to tell
+        the truth, but you dare not testify.  '
+      comments: []
+    - title: 
+      content: 'Fearing people is a dangerous trap,but trusting the <smallcaps>Lord</smallcaps>
+        means safety.  '
+      comments: []
+    - title: 
+      content: "Many seek the ruler\u2019s favor,but justice comes from the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+  - verses:
+    - title: The Sayings of Agur
+      content: '  The sayings of Agur son of Jakeh contain this message.[[COMMENT(0)]]I
+        am weary, O God;I am weary and worn out, O God.[[COMMENT(1)]]  '
+      comments:
+      - number: '30:1a '
+        content: Or <b>son of Jakeh from Massa; </b>or <b>son of Jakeh, an oracle.</b>
+      - number: '30:1b '
+        content: The Hebrew can also be translated <b>The man declares this to Ithiel,
+          / to Ithiel and to Ucal.</b>
+    - title: 
+      content: 'I am too stupid to be human,and I lack common sense.  '
+      comments: []
+    - title: 
+      content: 'I have not mastered human wisdom,nor do I know the Holy One.  '
+      comments: []
+    - title: 
+      content: "Who but God goes up to heaven and comes back down?Who holds the wind
+        in his fists?Who wraps up the oceans in his cloak?Who has created the whole
+        wide world?What is his name\u2014and his son\u2019s name?Tell me if you know!  "
+      comments: []
+    - title: 
+      content: 'Every word of God proves true.He is a shield to all who come to him
+        for protection.  '
+      comments: []
+    - title: 
+      content: 'Do not add to his words,or he may rebuke you and expose you as a
+        liar.  '
+      comments: []
+    - title: 
+      content: 'O God, I beg two favors from you;let me have them before I die.  '
+      comments: []
+    - title: 
+      content: 'First, help me never to tell a lie.Second, give me neither poverty
+        nor riches!Give me just enough to satisfy my needs.  '
+      comments: []
+    - title: 
+      content: "For if I grow rich, I may deny you and say, \u201CWho is the <smallcaps>Lord</smallcaps>?\u201DAnd
+        if I am too poor, I may steal and thus insult God\u2019s holy name.  "
+      comments: []
+    - title: 
+      content: 'Never slander a worker to the employer,or the person will curse you,
+        and you will pay for it.  '
+      comments: []
+    - title: 
+      content: 'Some people curse their fatherand do not thank their mother.  '
+      comments: []
+    - title: 
+      content: 'They are pure in their own eyes,but they are filthy and unwashed.  '
+      comments: []
+    - title: 
+      content: 'They look proudly around,casting disdainful glances.  '
+      comments: []
+    - title: 
+      content: 'They have teeth like swordsand fangs like knives.They devour the
+        poor from the earthand the needy from among humanity.  '
+      comments: []
+    - title: 
+      content: "The leech has two suckersthat cry out, \u201CMore, more!\u201D[[COMMENT(0)]]There
+        are three things that are never satisfied\u2014no, four that never say, \u201CEnough!\u201D:  "
+      comments:
+      - number: '30:15 '
+        content: "Hebrew <b>two daughters who cry out, \u201CGive, give!\u201D</b>"
+    - title: 
+      content: 'the grave,[[COMMENT(0)]]the barren womb,the thirsty desert,the blazing
+        fire.  '
+      comments:
+      - number: '30:16 '
+        content: Hebrew <b>Sheol.</b>
+    - title: 
+      content: "The eye that mocks a fatherand despises a mother\u2019s instructionswill
+        be plucked out by ravens of the valleyand eaten by vultures.  "
+      comments: []
+    - title: 
+      content: "There are three things that amaze me\u2014no, four things that I
+        don\u2019t understand:  "
+      comments: []
+    - title: 
+      content: 'how an eagle glides through the sky,how a snake slithers on a rock,how
+        a ship navigates the ocean,how a man loves a woman.  '
+      comments: []
+    - title: 
+      content: "An adulterous woman consumes a man,then wipes her mouth and says,
+        \u201CWhat\u2019s wrong with that?\u201D  "
+      comments: []
+    - title: 
+      content: "There are three things that make the earth tremble\u2014no, four
+        it cannot endure:  "
+      comments: []
+    - title: 
+      content: 'a slave who becomes a king,an overbearing fool who prospers,  '
+      comments: []
+    - title: 
+      content: 'a bitter woman who finally gets a husband,a servant girl who supplants
+        her mistress.  '
+      comments: []
+    - title: 
+      content: 'There are four things on earth that are small but unusually wise:  '
+      comments: []
+    - title: 
+      content: "Ants\u2014they aren\u2019t strong,but they store up food all summer.  "
+      comments: []
+    - title: 
+      content: "Hyraxes[[COMMENT(0)]]\u2014they aren\u2019t powerful,but they make
+        their homes among the rocks.  "
+      comments:
+      - number: '30:26 '
+        content: Or <b>Coneys, </b>or <b>Rock badgers.</b>
+    - title: 
+      content: "Locusts\u2014they have no king,but they march in formation.  "
+      comments: []
+    - title: 
+      content: "Lizards\u2014they are easy to catch,but they are found even in kings\u2019
+        palaces.  "
+      comments: []
+    - title: 
+      content: "There are three things that walk with stately stride\u2014no, four
+        that strut about:  "
+      comments: []
+    - title: 
+      content: "the lion, king of animals, who won\u2019t turn aside for anything,  "
+      comments: []
+    - title: 
+      content: 'the strutting rooster,the male goat,a king as he leads his army.  '
+      comments: []
+    - title: 
+      content: 'If you have been a fool by being proud or plotting evil,cover your
+        mouth in shame.  '
+      comments: []
+  - verses:
+    - title: The Sayings of King Lemuel
+      content: '  The sayings of King Lemuel contain this message,[[COMMENT(0)]]
+        which his mother taught him.  '
+      comments:
+      - number: '31:1 '
+        content: 'Or <b>of Lemuel, king of Massa; </b>or <b>of King Lemuel, an oracle.</b>  '
+    - title: 
+      content: 'O my son, O son of my womb,O son of my vows,  '
+      comments: []
+    - title: 
+      content: 'do not waste your strength on women,on those who ruin kings.  '
+      comments: []
+    - title: 
+      content: 'It is not for kings, O Lemuel, to guzzle wine.Rulers should not crave
+        alcohol.  '
+      comments: []
+    - title: 
+      content: 'For if they drink, they may forget the lawand not give justice to
+        the oppressed.  '
+      comments: []
+    - title: 
+      content: 'Alcohol is for the dying,and wine for those in bitter distress.  '
+      comments: []
+    - title: 
+      content: 'Let them drink to forget their povertyand remember their troubles
+        no more.  '
+      comments: []
+    - title: 
+      content: 'Speak up for those who cannot speak for themselves;ensure justice
+        for those being crushed.  '
+      comments: []
+    - title: A Wife of Noble Character
+      content: 'Yes, speak up for the poor and helpless,and see that they get justice.  '
+      comments: []
+    - title: 
+      content: '  [[COMMENT(0)]]Who can find a virtuous and capable wife?She is more
+        precious than rubies.  '
+      comments:
+      - number: '31:10 '
+        content: '  Verses 10-31 comprise a Hebrew acrostic poem; each verse begins
+          with a successive letter of the Hebrew alphabet.  '
+    - title: 
+      content: 'Her husband can trust her,and she will greatly enrich his life.  '
+      comments: []
+    - title: 
+      content: 'She brings him good, not harm,all the days of her life.  '
+      comments: []
+    - title: 
+      content: 'She finds wool and flaxand busily spins it.  '
+      comments: []
+    - title: 
+      content: "She is like a merchant\u2019s ship,bringing her food from afar.  "
+      comments: []
+    - title: 
+      content: "She gets up before dawn to prepare breakfast for her householdand
+        plan the day\u2019s work for her servant girls.  "
+      comments: []
+    - title: 
+      content: 'She goes to inspect a field and buys it;with her earnings she plants
+        a vineyard.  '
+      comments: []
+    - title: 
+      content: 'She is energetic and strong,a hard worker.  '
+      comments: []
+    - title: 
+      content: 'She makes sure her dealings are profitable;her lamp burns late into
+        the night.  '
+      comments: []
+    - title: 
+      content: 'Her hands are busy spinning thread,her fingers twisting fiber.  '
+      comments: []
+    - title: 
+      content: 'She extends a helping hand to the poorand opens her arms to the needy.  '
+      comments: []
+    - title: 
+      content: 'She has no fear of winter for her household,for everyone has warm[[COMMENT(0)]]
+        clothes.  '
+      comments:
+      - number: '31:21 '
+        content: As in Greek and Latin versions; Hebrew reads <b>scarlet.</b>
+    - title: 
+      content: 'She makes her own bedspreads.She dresses in fine linen and purple
+        gowns.  '
+      comments: []
+    - title: 
+      content: 'Her husband is well known at the city gates,where he sits with the
+        other civic leaders.  '
+      comments: []
+    - title: 
+      content: 'She makes belted linen garmentsand sashes to sell to the merchants.  '
+      comments: []
+    - title: 
+      content: 'She is clothed with strength and dignity,and she laughs without fear
+        of the future.  '
+      comments: []
+    - title: 
+      content: 'When she speaks, her words are wise,and she gives instructions with
+        kindness.  '
+      comments: []
+    - title: 
+      content: 'She carefully watches everything in her householdand suffers nothing
+        from laziness.  '
+      comments: []
+    - title: 
+      content: 'Her children stand and bless her.Her husband praises her:  '
+      comments: []
+    - title: 
+      content: "\u201CThere are many virtuous and capable women in the world,but
+        you surpass them all!\u201D  "
+      comments: []
+    - title: 
+      content: 'Charm is deceptive, and beauty does not last;but a woman who fears
+        the <smallcaps>Lord</smallcaps> will be greatly praised.  '
+      comments: []

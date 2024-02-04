@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: JUD
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Jude
+  fancyName: 
+  nickname: jud
+  version: {fileID: 11400000, guid: 51ee3e37f5ded7941ab6216610f6fc67, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - title: Greetings from Jude
+      content: '  This letter is from Jude, a slave of Jesus Christ and a brother
+        of James.I am writing to all who have been called by God the Father, who
+        loves you and keeps you safe in the care of Jesus Christ.[[COMMENT(0)]]  '
+      comments:
+      - number: '1:1 '
+        content: Or <b>keeps you for Jesus Christ.</b>
+    - title: The Danger of False Teachers
+      content: 'May God give you more and more mercy, peace, and love.  '
+      comments: []
+    - title: 
+      content: 'Dear friends, I had been eagerly planning to write to you about the
+        salvation we all share. But now I find that I must write about something
+        else, urging you to defend the faith that God has entrusted once for all
+        time to his holy people. '
+      comments: []
+    - title: 
+      content: "I say this because some ungodly people have wormed their way into
+        your churches, saying that God\u2019s marvelous grace allows us to live immoral
+        lives. The condemnation of such people was recorded long ago, for they have
+        denied our only Master and Lord, Jesus Christ.  "
+      comments: []
+    - title: 
+      content: 'So I want to remind you, though you already know these things, that
+        Jesus[[COMMENT(0)]] first rescued the nation of Israel from Egypt, but later
+        he destroyed those who did not remain faithful. '
+      comments:
+      - number: '1:5 '
+        content: Other manuscripts read <b>[the] Lord, </b>or <b>God, </b>or <b>God
+          Christ.</b>
+    - title: 
+      content: 'And I remind you of the angels who did not stay within the limits
+        of authority God gave them but left the place where they belonged. God has
+        kept them securely chained in prisons of darkness, waiting for the great
+        day of judgment. '
+      comments: []
+    - title: 
+      content: "And don\u2019t forget Sodom and Gomorrah and their neighboring towns,
+        which were filled with immorality and every kind of sexual perversion. Those
+        cities were destroyed by fire and serve as a warning of the eternal fire
+        of God\u2019s judgment.  "
+      comments: []
+    - title: 
+      content: "In the same way, these people\u2014who claim authority from their
+        dreams\u2014live immoral lives, defy authority, and scoff at supernatural
+        beings.[[COMMENT(0)]]  "
+      comments:
+      - number: '1:8 '
+        content: Greek <b>at glorious ones, </b>which are probably evil angels.
+    - title: 
+      content: "But even Michael, one of the mightiest of the angels,[[COMMENT(0)]]
+        did not dare accuse the devil of blasphemy, but simply said, \u201CThe Lord
+        rebuke you!\u201D (This took place when Michael was arguing with the devil
+        about Moses\u2019 body.) "
+      comments:
+      - number: '1:9 '
+        content: Greek <b>Michael, the archangel.</b>
+    - title: 
+      content: 'But these people scoff at things they do not understand. Like unthinking
+        animals, they do whatever their instincts tell them, and so they bring about
+        their own destruction. '
+      comments: []
+    - title: 
+      content: 'What sorrow awaits them! For they follow in the footsteps of Cain,
+        who killed his brother. Like Balaam, they deceive people for money. And like
+        Korah, they perish in their rebellion.  '
+      comments: []
+    - title: 
+      content: "When these people eat with you in your fellowship meals commemorating
+        the Lord\u2019s love, they are like dangerous reefs that can shipwreck you.[[COMMENT(0)]]
+        They are like shameless shepherds who care only for themselves. They are
+        like clouds blowing over the land without giving any rain. They are like
+        trees in autumn that are doubly dead, for they bear no fruit and have been
+        pulled up by the roots. "
+      comments:
+      - number: '1:12 '
+        content: Or <b>they are contaminants among you; </b>or <b>they are stains.</b>
+    - title: 
+      content: 'They are like wild waves of the sea, churning up the foam of their
+        shameful deeds. They are like wandering stars, doomed forever to blackest
+        darkness.  '
+      comments: []
+    - title: 
+      content: "Enoch, who lived in the seventh generation after Adam, prophesied
+        about these people. He said, \u201CListen! The Lord is coming with countless
+        thousands of his holy ones "
+      comments: []
+    - title: 
+      content: "to execute judgment on the people of the world. He will convict every
+        person of all the ungodly things they have done and for all the insults that
+        ungodly sinners have spoken against him.\u201D[[COMMENT(0)]]  "
+      comments:
+      - number: '1:14-15 '
+        content: 'The quotation comes from intertestamental literature: 1 Enoch 1:9.'
+    - title: A Call to Remain Faithful
+      content: 'These people are grumblers and complainers, living only to satisfy
+        their desires. They brag loudly about themselves, and they flatter others
+        to get what they want.  '
+      comments: []
+    - title: 
+      content: 'But you, my dear friends, must remember what the apostles of our
+        Lord Jesus Christ predicted. '
+      comments: []
+    - title: 
+      content: 'They told you that in the last times there would be scoffers whose
+        purpose in life is to satisfy their ungodly desires. '
+      comments: []
+    - title: 
+      content: "These people are the ones who are creating divisions among you. They
+        follow their natural instincts because they do not have God\u2019s Spirit
+        in them.  "
+      comments: []
+    - title: 
+      content: 'But you, dear friends, must build each other up in your most holy
+        faith, pray in the power of the Holy Spirit,[[COMMENT(0)]]  '
+      comments:
+      - number: '1:20 '
+        content: Greek <b>pray in the Holy Spirit.</b>
+    - title: 
+      content: "and await the mercy of our Lord Jesus Christ, who will bring you
+        eternal life. In this way, you will keep yourselves safe in God\u2019s love.  "
+      comments: []
+    - title: 
+      content: 'And you must show mercy to[[COMMENT(0)]] those whose faith is wavering. '
+      comments:
+      - number: '1:22 '
+        content: Some manuscripts read <b>must reprove.</b>
+    - title: A Prayer of Praise
+      content: 'Rescue others by snatching them from the flames of judgment. Show
+        mercy to still others,[[COMMENT(0)]] but do so with great caution, hating
+        the sins that contaminate their lives.[[COMMENT(1)]]  '
+      comments:
+      - number: '1:22-23a '
+        content: 'Some manuscripts have only two categories of people: (1) those
+          whose faith is wavering and therefore need to be snatched from the flames
+          of judgment, and (2) those who need to be shown mercy.'
+      - number: '1:23b '
+        content: Greek <b>with fear, hating even the clothing stained by the flesh.</b>
+    - title: 
+      content: 'Now all glory to God, who is able to keep you from falling away and
+        will bring you with great joy into his glorious presence without a single
+        fault. '
+      comments: []
