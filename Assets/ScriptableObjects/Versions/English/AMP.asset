@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b691b6e71381f9f499c32feebef90c82, type: 3}
+  m_Name: AMP
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Amplified Bible
+  <NameCode>k__BackingField: AMP
+  <Language>k__BackingField: {fileID: 11400000, guid: 339807bce41f4e54989aa8673c9b5d27, type: 2}
+  <Description>k__BackingField: The Amplified Bible is a Literal Equivalent translation
+    that, by using synonyms and definitions, both explains and expands the meaning
+    of words in the text by placing amplification in parentheses, brackets, and after
+    key words. This unique system of translation allows the reader to more completely
+    and clearly grasp the meaning as it was understood in the original languages.
+    Additionally, amplifications may provide further theological, historical, and
+    other details for a better understanding of the text.
+  <Publisher>k__BackingField: The Lockman Foundation
+  <Copyright>k__BackingField: "Amplified\xAE Bible\r\n\r\nCopyright \xA9 2015 by
+    \r\n\r\nThe Lockman Foundation, La Habra, CA 90631\r\n\r\nAll rights reserved.
+    http://www.lockman.org"
+  <Websites>k__BackingField:
+  - www.lockman.org
+  <Books>k__BackingField:
+  - {fileID: 11400000, guid: 2a951fba36e340748a10d1c9996b28fd, type: 2}
+  - {fileID: 11400000, guid: 433d81aa233b2344cb8fc00134bd1b91, type: 2}
+  - {fileID: 11400000, guid: b4e4f7f3e13f3434d8b5d52ad167e170, type: 2}
+  - {fileID: 11400000, guid: 5f9b062be2083a643b9511ede82735ae, type: 2}
+  - {fileID: 11400000, guid: e4585b00c5fb849419dd647df5c65084, type: 2}
+  - {fileID: 11400000, guid: cd2de61c94159114599358e564414dec, type: 2}
+  - {fileID: 11400000, guid: 6837b54c75cdcb44993c133b2f6a8452, type: 2}
+  - {fileID: 11400000, guid: 970ad27e48982ba41bd0f1a6fd7c0b04, type: 2}
+  - {fileID: 11400000, guid: bbd4c27cc18220143a67db0125f7e9bc, type: 2}
+  - {fileID: 11400000, guid: fee747e6500823a43b4a14dae43a9d93, type: 2}
+  - {fileID: 11400000, guid: 5bbb78d7ddace604c93f71259fcc7750, type: 2}
+  - {fileID: 11400000, guid: 13862f7a7d7d019448fe7c2ba3add340, type: 2}
+  - {fileID: 11400000, guid: 0063f4330d428db46913693952c3fdd2, type: 2}
+  - {fileID: 11400000, guid: 7eba87fd45de48d40ab7c4222c8089ed, type: 2}
+  - {fileID: 11400000, guid: 1ef6654ff99bff14b98be7dbeae7b2db, type: 2}
+  - {fileID: 11400000, guid: e5f6ba0bdef984e40ade963331578fbb, type: 2}
+  - {fileID: 11400000, guid: 6c6f3858f521be946a42e124a4e80ad4, type: 2}
+  - {fileID: 11400000, guid: ee1bcd92b5b8a094786efa3534f86670, type: 2}
+  - {fileID: 11400000, guid: 07042bbbcc4e8aa4eb0d4a0e87709cf5, type: 2}
+  - {fileID: 11400000, guid: 3ecec1c1ecfb0a04e9e71708d90f2e72, type: 2}
+  - {fileID: 11400000, guid: 9bc0ef01959db984782f3b5c9a54111f, type: 2}
+  - {fileID: 11400000, guid: 5fb1a632017a0434c99f3558c26bd549, type: 2}
+  - {fileID: 11400000, guid: d50fd4651079a8a43bd9bcc68618a663, type: 2}
+  - {fileID: 11400000, guid: e420372d0ae3dd8469a56bb96fa35e1b, type: 2}
+  - {fileID: 11400000, guid: 65ee7c3d52fc60747ae24eb8a0e9d881, type: 2}
+  - {fileID: 11400000, guid: 16bb6922ae914f24299ffba81e9b9f7e, type: 2}
+  - {fileID: 11400000, guid: 9967a43860e13d04199aaba6676ca382, type: 2}
+  - {fileID: 11400000, guid: 643a8819a00571d47956bc1efe0c5482, type: 2}
+  - {fileID: 11400000, guid: bfec7b71ae0040d4db8866ad3d6f4a58, type: 2}
+  - {fileID: 11400000, guid: a60197caf0fcc094596fc8f017fbb67b, type: 2}
+  - {fileID: 11400000, guid: 71103e50e1954214eb7f615aaeb651e4, type: 2}
+  - {fileID: 11400000, guid: 6f46d5c52c64cd849babfdcc8f68fcf8, type: 2}
+  - {fileID: 11400000, guid: 5b3c2e4f13960104c99afd4a681f51a6, type: 2}
+  - {fileID: 11400000, guid: 90d980c92a2f30549a0c9f5ff8bab76a, type: 2}
+  - {fileID: 11400000, guid: 7901a44055905614eb2ce378c11dc93d, type: 2}
+  - {fileID: 11400000, guid: 644c2162acab26743ba0fa6f954c0f89, type: 2}
+  - {fileID: 11400000, guid: 00f6944244b1b2644aeb430f8eec2378, type: 2}
+  - {fileID: 11400000, guid: 8adf4f8c242a7064faf0bd152dca24b8, type: 2}
+  - {fileID: 11400000, guid: 64560956514eacb4296cd57dee799c0f, type: 2}
+  - {fileID: 11400000, guid: 98a7b3879471452458ebe7846254aab2, type: 2}
+  - {fileID: 11400000, guid: a59735c83ac731143912eedbebd02663, type: 2}
+  - {fileID: 11400000, guid: 23338af2511859f47a556d07c9257e1e, type: 2}
+  - {fileID: 11400000, guid: 51569ce5a07059f47843450bb15a4956, type: 2}
+  - {fileID: 11400000, guid: 93767fbf25929404ab252eeac505632b, type: 2}
+  - {fileID: 11400000, guid: d33211150099e9c48bb4fe77b41eb752, type: 2}
+  - {fileID: 11400000, guid: 59f2d671ce0cec347a5f51650e3a421e, type: 2}
+  - {fileID: 11400000, guid: cd1530c67cf70dd4d83bf95e5c584cfd, type: 2}
+  - {fileID: 11400000, guid: 597e769caaabc1744b79cca7099fef85, type: 2}
+  - {fileID: 11400000, guid: bf783caa672a39c4e901e97c074768ca, type: 2}
+  - {fileID: 11400000, guid: f6aa1164444392246baa7a1545c3a1f4, type: 2}
+  - {fileID: 11400000, guid: dccfa7de5b810e249b739f9126d333cd, type: 2}
+  - {fileID: 11400000, guid: 5e60cde9a23a53d40b23c07583dd9656, type: 2}
+  - {fileID: 11400000, guid: ae617d93f3bdeee479c1855d3d44b313, type: 2}
+  - {fileID: 11400000, guid: 333038bc11aeaad498f97f81671f5f93, type: 2}
+  - {fileID: 11400000, guid: 8d0f9e8361e8b2942981ec8b7b7e9911, type: 2}
+  - {fileID: 11400000, guid: 36e27e1fccf9d324f8bda3a2e261812e, type: 2}
+  - {fileID: 11400000, guid: 957e0b3cca9445d478a52589c87527fe, type: 2}
+  - {fileID: 11400000, guid: 957769ea3dd38234d8a7391ca0623b5b, type: 2}
+  - {fileID: 11400000, guid: 8a1cde23e0d59e248a0360ad4054e795, type: 2}
+  - {fileID: 11400000, guid: 40b90b84f14867e438a60d3426bb854b, type: 2}
+  - {fileID: 11400000, guid: 5bfa6adaf8133e34dad847c97b4d9d52, type: 2}
+  - {fileID: 11400000, guid: 318d8acc48a7099488ce99909df27625, type: 2}
+  - {fileID: 11400000, guid: 27a266ec5e504074981ebd94546bd1e4, type: 2}
+  - {fileID: 11400000, guid: 7eea8df4934234d42b9811d568038b20, type: 2}
+  - {fileID: 11400000, guid: ae1b66e86f806524d925edf4f020029b, type: 2}
+  - {fileID: 11400000, guid: 6966737f9258449488039e86ba4a5350, type: 2}

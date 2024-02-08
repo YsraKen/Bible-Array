@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: OBA
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Obadiah
+  fancyName: 
+  nickname: oba
+  version: {fileID: 11400000, guid: f0e13320f8bc1254f8bca32b62d9305b, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: The Coming Judgment on Edom'
+      title: The Coming Judgment on Edom
+      number: 1
+      content: "The vision of Obadiah.Thus says the Lord God  concerning Edom(We
+        have heard a report from the Lord,And a messenger has been sent among the
+        nations, saying,\u201CArise, and let us rise up against her for battle\u201D):"
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CBehold, I will make you small among the nations;You shall be
+        greatly despised."
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "The pride of your heart has deceived you,You who dwell in the clefts
+        of the rock,Whose habitation is high;You who say in your heart, \u2018Who
+        will bring me down to the ground?\u2019"
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Though you ascend as high as the eagle,And though you set your nest
+        among the stars,From there I will bring you down,\u201D says the Lord."
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CIf thieves had come to you,If robbers by night\u2014Oh, how
+        you will be cut off!\u2014Would they not have stolen till they had enough?If
+        grape-gatherers had come to you,Would they not have left some gleanings?"
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "\u201COh, how Esau shall be searched out!How his hidden treasures
+        shall be sought after!"
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: All the men in your confederacyShall force you to the border;The men
+        at peace with youShall deceive you and prevail against you.Those  who  eat
+        your bread shall lay a trap for you.No one is aware of it.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CWill I not in that day,\u201D says the Lord,\u201CEven destroy
+        the wise men from Edom,And understanding from the mountains of Esau?"
+      comments: []
+    - name: '9: Edom Mistreated His Brother'
+      title: Edom Mistreated His Brother
+      number: 9
+      content: Then your mighty men, O Teman, shall be dismayed,To the end that everyone
+        from the mountains of EsauMay be cut off by slaughter.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201CFor violence against your brother Jacob,Shame shall cover you,And
+        you shall be cut off forever."
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "In the day that you stood on the other side\u2014In the day that
+        strangers carried captive his forces,When foreigners entered his gatesAnd
+        cast lots for Jerusalem\u2014Even you were as one of them."
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CBut you should not have gazed on the day of your brotherIn
+        the day of his captivity;Nor should you have rejoiced over the children of
+        JudahIn the day of their destruction;Nor should you have spoken proudlyIn
+        the day of distress."
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: You should not have entered the gate of My peopleIn the day of their
+        calamity.Indeed, you should not have gazed on their afflictionIn the day
+        of their calamity,Nor laid hands on their substanceIn the day of their calamity.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: You should not have stood at the crossroadsTo cut off those among
+        them who escaped;Nor should you have delivered up those among them who remainedIn
+        the day of distress.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "\u201CFor the day of the Lord upon all the nations is near;As you
+        have done, it shall be done to you;Your reprisal shall return upon your own
+        head."
+      comments: []
+    - name: "16: Israel\u2019s Final Triumph"
+      title: "Israel\u2019s Final Triumph"
+      number: 16
+      content: For as you drank on My holy mountain,So shall all the nations drink
+        continually;Yes, they shall drink, and swallow,And they shall be as though
+        they had never been.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "\u201CBut on Mount Zion there shall be deliverance,And there shall
+        be holiness;The house of Jacob shall possess their possessions."
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "The house of Jacob shall be a fire,And the house of Joseph a flame;But
+        the house of Esau shall  be stubble;They shall kindle them and devour them,And
+        no survivor shall remain of the house of Esau,\u201DFor the Lord has spoken."
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: The South shall possess the mountains of Esau,And the Lowland shall
+        possess Philistia.They shall possess the fields of EphraimAnd the fields
+        of Samaria.Benjamin shall  possess Gilead.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: And the captives of this host of the children of IsraelShall  possess 
+        the  land of the CanaanitesAs far as Zarephath.The captives of Jerusalem
+        who are in SepharadShall possess the cities of the South.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "Then saviors shall come to Mount ZionTo judge the mountains of Esau,And
+        the kingdom shall be the Lord\u2019s."
+      comments: []

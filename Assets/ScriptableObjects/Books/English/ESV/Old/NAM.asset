@@ -1,0 +1,344 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: NAM
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Nahum
+  fancyName: 
+  nickname: nam
+  version: {fileID: 11400000, guid: dd64eb842f3dd694bae8487ce6510215, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: "1: God\u2019s Wrath Against Nineveh"
+      title: "God\u2019s Wrath Against Nineveh"
+      number: 1
+      content: '    An oracle concerning Nineveh. The book of the vision of Nahum
+        of Elkosh.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  The <smallcaps>Lord</smallcaps> is a jealous and avenging God;the
+        <smallcaps>Lord</smallcaps> is avenging and wrathful;  the <smallcaps>Lord</smallcaps>
+        takes vengeance on his adversariesand keeps wrath for his enemies.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  The <smallcaps>Lord</smallcaps> is slow to anger and great in power,and
+        the <smallcaps>Lord</smallcaps> will by no means clear the guilty.  His way
+        is in whirlwind and storm,and the clouds are the dust of his feet.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  He rebukes the sea and makes it dry;he dries up all the rivers; 
+        Bashan and Carmel wither;the bloom of Lebanon withers.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  The mountains quake before him;  the hills melt;the earth heaves
+        before him,  the world and all who dwell in it.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Who can stand before his indignation?Who can endure the heat of
+        his anger?His wrath is poured out like fire,and the rocks are broken into
+        pieces by him.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  The <smallcaps>Lord</smallcaps> is good,  a stronghold in the day
+        of trouble;  he knows those who take refuge in him.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'But with an overflowing floodhe will make a complete end of the adversaries,[[COMMENT(0)]]and
+        will pursue his enemies into darkness.  '
+      comments:
+      - number: '1:8 '
+        content: 'Hebrew   '
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'What do you plot against the <smallcaps>Lord</smallcaps>?  He will
+        make a complete end;trouble will not rise up a second time.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For they are like entangled thorns,like drunkards as they drink; 
+        they are consumed like stubble fully dried.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'From you came one  who plotted evil against the <smallcaps>Lord</smallcaps>,a
+        worthless counselor.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Thus says the <smallcaps>Lord</smallcaps>,\u201CThough they are at
+        full strength and many,  they will be cut down and pass away.  Though I have
+        afflicted you,I will afflict you no more.  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And now I will break his yoke from off youand will burst your bonds
+        apart.\u201D  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "The <smallcaps>Lord</smallcaps> has given commandment about you: 
+        \u201CNo more shall your name be perpetuated;from the house of your gods
+        I will cut offthe carved image and the metal image.  I will make your grave,
+        for you are vile.\u201D  "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  [[COMMENT(0)]]  Behold, upon the mountains, the feet of himwho
+        brings good news,who publishes peace!  Keep your feasts, O Judah;  fulfill
+        your vows,  for never again shall the worthless pass through you;he is utterly
+        cut off.'
+      comments:
+      - number: '1:15 '
+        content: '  Ch 2:1 in Hebrew  '
+  - verses:
+    - name: '1: The Destruction of Nineveh'
+      title: The Destruction of Nineveh
+      number: 1
+      content: '    The scatterer has come up against you.  Man the ramparts;watch
+        the road;dress for battle;[[COMMENT(0)]]collect all your strength.  '
+      comments:
+      - number: '2:1 '
+        content: 'Hebrew '
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For the <smallcaps>Lord</smallcaps> is restoring the majesty of Jacobas
+        the majesty of Israel,for plunderers have plundered themand ruined their
+        branches.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'The shield of his mighty men is red;  his soldiers are clothed in
+        scarlet.The chariots come with flashing metalon the day he musters them;the
+        cypress spears are brandished.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  The chariots race madly through the streets;they rush to and fro
+        through the squares;they gleam like torches;they dart like lightning.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'He remembers his officers;  they stumble as they go,they hasten to
+        the wall;the siege tower[[COMMENT(0)]] is set up.  '
+      comments:
+      - number: '2:5 '
+        content: 'Or '
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  The river gates are opened;the palace melts away;  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'its mistress[[COMMENT(0)]] is stripped; she is carried off,her slave
+        girls lamenting,moaning like dovesand beating their breasts.  '
+      comments:
+      - number: '2:7 '
+        content: 'The meaning of the Hebrew word rendered is uncertainOr '
+    - name: '8: '
+      title: 
+      number: 8
+      content: "  Nineveh is like a poolwhose waters run away.[[COMMENT(0)]]\u201CHalt!
+        Halt!\u201D they cry,but none turns back.  "
+      comments:
+      - number: '2:8 '
+        content: Compare Septuagint; the meaning of the Hebrew is uncertain
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Plunder the silver,plunder the gold!There is no end of the treasureor
+        of the wealth of all precious things.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  Desolate! Desolation and ruin!  Hearts melt and knees tremble; 
+        anguish is in all loins;  all faces grow pale!  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Where is the lions\u2019 den,the feeding place of the young lions,where
+        the lion and lioness went,where his cubs were, with none to disturb?  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  The lion tore enough for his cubsand strangled prey for his lionesses;he
+        filled his caves with preyand his dens with torn flesh.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Behold, I am against you, declares the <smallcaps>Lord</smallcaps>
+        of hosts, and I will burn your[[COMMENT(0)]] chariots in smoke, and the sword
+        shall devour your young lions. I will cut off your prey from the earth, and
+        the voice of your messengers shall no longer be heard.'
+      comments:
+      - number: '2:13 '
+        content: 'Hebrew '
+  - verses:
+    - name: '1: Woe to Nineveh'
+      title: Woe to Nineveh
+      number: 1
+      content: "  Woe to the bloody city,all full of lies and plunder\u2014  no end
+        to the prey!  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'The crack of the whip, and rumble of the wheel,  galloping horse
+        and bounding chariot!  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Horsemen charging,flashing sword and glittering spear,  hosts of
+        slain,heaps of corpses,dead bodies without end\u2014they stumble over the
+        bodies!  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And all for the countless whorings of the prostitute,  graceful and
+        of deadly charms,who betrays nations with her whorings,and peoples with her
+        charms.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Behold, I am against you,declares the <smallcaps>Lord</smallcaps>
+        of hosts,and will lift up your skirts over your face;and I will make nations
+        look at your nakednessand kingdoms at your shame.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'I will throw filth at youand treat you with contemptand make you
+        a spectacle.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "And all who look at you will shrink from you and say,\u201CWasted
+        is Nineveh; who will grieve for her?\u201D  Where shall I seek comforters
+        for you?  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Are you better than Thebes[[COMMENT(0)]]that sat by the Nile,with
+        water around her,her rampart a sea,and water her wall?  '
+      comments:
+      - number: '3:8 '
+        content: 'Hebrew '
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Cush was her strength;Egypt too, and that without limit;  Put and
+        the Libyans were her[[COMMENT(0)]] helpers.  '
+      comments:
+      - number: '3:9 '
+        content: 'Hebrew '
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  Yet she became an exile;she went into captivity;  her infants were
+        dashed in piecesat the head of every street;for her honored men lots were
+        cast,  and all her great men were bound in chains.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  You also will be drunken;you will go into hiding;  you will seek
+        a refuge from the enemy.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "All your fortresses are like fig treeswith first-ripe figs\u2014if
+        shaken they fallinto the mouth of the eater.  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Behold, your troops  are women in your midst.The gates of your landare
+        wide open to your enemies;fire has devoured your bars.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Draw water for the siege;  strengthen your forts;go into the clay;tread
+        the mortar;take hold of the brick mold!  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'There will the fire devour you;the sword will cut you off.It will
+        devour you like the locust.Multiply yourselves like the locust;multiply like
+        the grasshopper!  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'You increased your merchantsmore than the stars of the heavens. 
+        The locust spreads its wings and flies away.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "Your princes are like grasshoppers,  your scribes[[COMMENT(0)]] like
+        clouds of locustssettling on the fencesin a day of cold\u2014when the sun
+        rises, they fly away;no one knows where they are.  "
+      comments:
+      - number: '3:17 '
+        content: 'Or '
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Your shepherds are asleep,O king of Assyria;  your nobles slumber.Your
+        people are scattered on the mountainswith none to gather them.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: There is no easing your hurt;  your wound is grievous.All who hear
+        the news about you  clap their hands over you.For upon whom has not comeyour
+        unceasing evil?
+      comments: []

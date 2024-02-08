@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: 2JN
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 2 John
+  fancyName: 
+  nickname: 2jn
+  version: {fileID: 11400000, guid: d0ec49142d5c7c24fb05ee739840cab0, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Greeting'
+      title: Greeting
+      number: 1
+      content: "The elder, to the elect lady and her children, whom I love in truth\u2014and
+        not I alone, but also all those who know the truth\u2014"
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'because of the truth that resides in us and will be with us forever. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Grace, mercy, peace will be with us from God the Father and from
+        Jesus Christ the Son of the Father in truth and love. '
+      comments: []
+    - name: '4: Watch Out for False Teachers'
+      title: Watch Out for False Teachers
+      number: 4
+      content: 'I was very glad because I found some of your children walking in
+        the truth, just as the Father commanded us. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And now I ask you, lady (not as if I were writing a new commandment
+        to you, but one that we have had from the beginning), that we should love
+        one another. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And this is love: that we walk according to his commandments. This
+        is the commandment, just as you have heard from the beginning, so that you
+        should walk in it. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For many deceivers have gone out into the world, those who do not
+        confess Jesus Christ coming in the flesh. This person is the deceiver and
+        the antichrist! '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Watch yourselves that you do not lose what we have worked for, but
+        receive a full reward. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Everyone who goes too far and does not remain in the teaching of
+        Christ does not have God. The one who remains in the teaching\u2014this person
+        has both the Father and the Son. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'If anyone comes to you and does not bring this teaching, do not receive
+        him into your house and do not speak a greeting to him, '
+      comments: []
+    - name: '11: Conclusion and Final Greeting'
+      title: Conclusion and Final Greeting
+      number: 11
+      content: 'because the one who speaks a greeting to him shares in his evil deeds. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Although I have many things to write to you, I do not want to do
+        so by means of paper and ink, but I hope to be with you and to speak face
+        to face, so that your joy may be complete. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The children of your elect sister greet you. '
+      comments: []

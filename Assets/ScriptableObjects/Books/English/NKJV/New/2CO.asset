@@ -1,0 +1,1624 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: 2CO
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: II Corinthians
+  fancyName: 
+  nickname: 2co
+  version: {fileID: 11400000, guid: f0e13320f8bc1254f8bca32b62d9305b, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Greeting'
+      title: Greeting
+      number: 1
+      content: 'Paul, an apostle of Jesus Christ by the will of God, and Timothy
+        our brother,To the church of God which is at Corinth, with all the saints
+        who are in all Achaia:'
+      comments: []
+    - name: '2: Comfort in Suffering'
+      title: Comfort in Suffering
+      number: 2
+      content: Grace to you and peace from God our Father and the Lord Jesus Christ.
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Blessed be the God and Father of our Lord Jesus Christ, the Father
+        of mercies and God of all comfort, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'who comforts us in all our tribulation, that we may be able to comfort
+        those who are in any trouble, with the comfort with which we ourselves are
+        comforted by God. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For as the sufferings of Christ abound in us, so our consolation
+        also abounds through Christ. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Now if we are afflicted, it  is for your consolation and salvation,
+        which is effective for enduring the same sufferings which we also suffer.
+        Or if we are comforted, it is for your consolation and salvation. '
+      comments: []
+    - name: '7: Delivered from Suffering'
+      title: Delivered from Suffering
+      number: 7
+      content: And our hope for you is steadfast, because we know that as you are
+        partakers of the sufferings, so also you  will  partake of the consolation.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For we do not want you to be ignorant, brethren, of our trouble which
+        came to us in Asia: that we were burdened beyond measure, above strength,
+        so that we despaired even of life. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Yes, we had the sentence of death in ourselves, that we should not
+        trust in ourselves but in God who raises the dead, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'who delivered us from so great a death, and does deliver us; in whom
+        we trust that He will still deliver us,  '
+      comments: []
+    - name: "11: Paul\u2019s Sincerity"
+      title: "Paul\u2019s Sincerity"
+      number: 11
+      content: you also helping together in prayer for us, that thanks may be given
+        by many persons on our behalf for the gift granted to us through many.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'For our boasting is this: the testimony of our conscience that we
+        conducted ourselves in the world in simplicity and godly sincerity, not with
+        fleshly wisdom but by the grace of God, and more abundantly toward you. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'For we are not writing any other things to you than what you read
+        or understand. Now I trust you will understand, even to the end '
+      comments: []
+    - name: '14: Sparing the Church'
+      title: Sparing the Church
+      number: 14
+      content: (as also you have understood us in part), that we are your boast as
+        you also are ours, in the day of the Lord Jesus.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "And in this confidence I intended to come to you before, that you
+        might have a second benefit\u2014 "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'to pass by way of you to Macedonia, to come again from Macedonia
+        to you, and be helped by you on my way to Judea. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Therefore, when I was planning this, did I do it lightly? Or the
+        things I plan, do I plan according to the flesh, that with me there should
+        be Yes, Yes, and No, No? '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'But as God is  faithful, our word to you was not Yes and No. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "For the Son of God, Jesus Christ, who was preached among you by us\u2014by
+        me, Silvanus, and Timothy\u2014was not Yes and No, but in Him was Yes. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'For all the promises of God in Him are Yes, and in Him Amen, to the
+        glory of God through us. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Now He who establishes us with you in Christ and has anointed us
+        is God, '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: who also has sealed us and given us the Spirit in our hearts as a
+        guarantee.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Moreover I call God as witness against my soul, that to spare you
+        I came no more to Corinth. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: Not that we have dominion over your faith, but are fellow workers
+        for your joy; for by faith you stand.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: 'But I determined this within myself, that I would not come again
+        to you in sorrow. '
+      comments: []
+    - name: '2: Forgive the Offender'
+      title: Forgive the Offender
+      number: 2
+      content: For if I make you sorrowful, then who is he who makes me glad but
+        the one who is made sorrowful by me?
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And I wrote this very thing to you, lest, when I came, I should have
+        sorrow over those from whom I ought to have joy, having confidence in you
+        all that my joy is the  joy of you all. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: For out of much affliction and anguish of heart I wrote to you, with
+        many tears, not that you should be grieved, but that you might know the love
+        which I have so abundantly for you.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "But if anyone has caused grief, he has not grieved me, but all of
+        you to some extent\u2014not to be too severe. "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'This punishment which was  inflicted  by the majority is sufficient
+        for such a man, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'so that, on the contrary, you ought rather to forgive and comfort
+        him, lest perhaps such a one be swallowed up with too much sorrow. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Therefore I urge you to reaffirm your love to him. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'For to this end I also wrote, that I might put you to the test, whether
+        you are obedient in all things. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Now whom you forgive anything, I also forgive. For if indeed I have
+        forgiven anything, I have forgiven that one for your sakes in the presence
+        of Christ, '
+      comments: []
+    - name: '11: Triumph in Christ'
+      title: Triumph in Christ
+      number: 11
+      content: lest Satan should take advantage of us; for we are not ignorant of
+        his devices.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Furthermore, when I came to Troas to preach Christ\u2019s gospel,
+        and a door was opened to me by the Lord, "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: I had no rest in my spirit, because I did not find Titus my brother;
+        but taking my leave of them, I departed for Macedonia.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Now thanks be to God who always leads us in triumph in Christ, and
+        through us diffuses the fragrance of His knowledge in every place. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'For we are to God the fragrance of Christ among those who are being
+        saved and among those who are perishing. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'To the one we  are the aroma of death leading to death, and to the
+        other the aroma of life leading to life. And who is sufficient for these
+        things? '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: For we are not, as so many, peddling the word of God; but as of sincerity,
+        but as from God, we speak in the sight of God in Christ.
+      comments: []
+  - verses:
+    - name: "1: Christ\u2019s Epistle"
+      title: "Christ\u2019s Epistle"
+      number: 1
+      content: 'Do we begin again to commend ourselves? Or do we need, as some others,
+        epistles of commendation to you or letters of commendation from you? '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'You are our epistle written in our hearts, known and read by all
+        men; '
+      comments: []
+    - name: '3: The Spirit, Not the Letter'
+      title: The Spirit, Not the Letter
+      number: 3
+      content: clearly you are an epistle of Christ, ministered by us, written not
+        with ink but by the Spirit of the living God, not on tablets of stone but
+        on tablets of flesh, that  is, of the heart.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And we have such trust through Christ toward God. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Not that we are sufficient of ourselves to think of anything as being
+        from ourselves, but our sufficiency is from God, '
+      comments: []
+    - name: '6: Glory of the New Covenant'
+      title: Glory of the New Covenant
+      number: 6
+      content: who also made us sufficient as ministers of the new covenant, not
+        of the letter but of the Spirit; for the letter kills, but the Spirit gives
+        life.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'But if the ministry of death, written and engraved on stones, was
+        glorious, so that the children of Israel could not look steadily at the face
+        of Moses because of the glory of his countenance, which glory was passing
+        away, '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'how will the ministry of the Spirit not be more glorious? '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'For if the ministry of condemnation had glory, the ministry of righteousness
+        exceeds much more in glory. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For even what was made glorious had no glory in this respect, because
+        of the glory that excels. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: For if what is passing away was glorious, what remains is much more
+        glorious.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Therefore, since we have such hope, we use great boldness of speech\u2014 "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'unlike Moses, who put a veil over his face so that the children of
+        Israel could not look steadily at the end of what was passing away. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'But their minds were blinded. For until this day the same veil remains
+        unlifted in the reading of the Old Testament, because the veil is taken away
+        in Christ. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'But even to this day, when Moses is read, a veil lies on their heart. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Nevertheless when one turns to the Lord, the veil is taken away. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Now the Lord is the Spirit; and where the Spirit of the Lord is,
+        there is  liberty. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: But we all, with unveiled face, beholding as in a mirror the glory
+        of the Lord, are being transformed into the same image from glory to glory,
+        just as by the Spirit of the Lord.
+      comments: []
+  - verses:
+    - name: "1: The Light of Christ\u2019s Gospel"
+      title: "The Light of Christ\u2019s Gospel"
+      number: 1
+      content: 'Therefore, since we have this ministry, as we have received mercy,
+        we do not lose heart. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "But we have renounced the hidden things of shame, not walking in
+        craftiness nor handling the word of God deceitfully, but by manifestation
+        of the truth commending ourselves to every man\u2019s conscience in the sight
+        of God. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'But even if our gospel is veiled, it is veiled to those who are perishing, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'whose minds the god of this age has blinded, who do not believe,
+        lest the light of the gospel of the glory of Christ, who is the image of
+        God, should shine on them. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "For we do not preach ourselves, but Christ Jesus the Lord, and ourselves
+        your bondservants for Jesus\u2019 sake. "
+      comments: []
+    - name: '6: Cast Down but Unconquered'
+      title: Cast Down but Unconquered
+      number: 6
+      content: For it is the God who commanded light to shine out of darkness, who
+        has shone in our hearts to give the light of the knowledge of the glory of
+        God in the face of Jesus Christ.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'But we have this treasure in earthen vessels, that the excellence
+        of the power may be of God and not of us. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'We  are  hard-pressed on every side, yet not crushed; we  are perplexed,
+        but not in despair; '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "persecuted, but not forsaken; struck down, but not destroyed\u2014 "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'always carrying about in the body the dying of the Lord Jesus, that
+        the life of Jesus also may be manifested in our body. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "For we who live are always delivered to death for Jesus\u2019 sake,
+        that the life of Jesus also may be manifested in our mortal flesh. "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: So then death is working in us, but life in you.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And since we have the same spirit of faith, according to what is
+        written, \u201CI believed and therefore I spoke,\u201D we also believe and
+        therefore speak, "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'knowing that He who raised up the Lord Jesus will also raise us up
+        with Jesus, and will present us with you. '
+      comments: []
+    - name: '15: Seeing the Invisible'
+      title: Seeing the Invisible
+      number: 15
+      content: For all things are for your sakes, that grace, having spread through
+        the many, may cause thanksgiving to abound to the glory of God.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Therefore we do not lose heart. Even though our outward man is perishing,
+        yet the inward man is being renewed day by day. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'For our light affliction, which is but for a moment, is working for
+        us a far more exceeding and eternal weight of glory, '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: while we do not look at the things which are seen, but at the things
+        which are not seen. For the things which are seen are temporary, but the
+        things which are not seen are eternal.
+      comments: []
+  - verses:
+    - name: '1: Assurance of the Resurrection'
+      title: Assurance of the Resurrection
+      number: 1
+      content: 'For we know that if our earthly house, this tent, is destroyed, we
+        have a building from God, a house not made with hands, eternal in the heavens. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For in this we groan, earnestly desiring to be clothed with our habitation
+        which is from heaven, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'if indeed, having been clothed, we shall not be found naked. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For we who are in this tent groan, being burdened, not because we
+        want to be unclothed, but further clothed, that mortality may be swallowed
+        up by life. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: Now He who has prepared us for this very thing is God, who also has
+        given us the Spirit as a guarantee.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'So we  are always confident, knowing that while we are at home in
+        the body we are absent from the Lord. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For we walk by faith, not by sight. '
+      comments: []
+    - name: '8: The Judgment Seat of Christ'
+      title: The Judgment Seat of Christ
+      number: 8
+      content: We are confident, yes, well pleased rather to be absent from the body
+        and to be present with the Lord.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Therefore we make it our aim, whether present or absent, to be well
+        pleasing to Him. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For we must all appear before the judgment seat of Christ, that each
+        one may receive the things done in the body, according to what he has done,
+        whether good or bad. '
+      comments: []
+    - name: '11: Be Reconciled to God'
+      title: Be Reconciled to God
+      number: 11
+      content: Knowing, therefore, the terror of the Lord, we persuade men; but we
+        are well known to God, and I also trust are well known in your consciences.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'For we do not commend ourselves again to you, but give you opportunity
+        to boast on our behalf, that you may have an  answer for those who boast
+        in appearance and not in heart. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'For if we are beside ourselves, it  is for God; or if we are of sound
+        mind, it  is for you. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For the love of Christ compels us, because we judge thus: that if
+        One died for all, then all died; '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: and He died for all, that those who live should live no longer for
+        themselves, but for Him who died for them and rose again.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Therefore, from now on, we regard no one according to the flesh.
+        Even though we have known Christ according to the flesh, yet now we know
+        Him  thus no longer. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Therefore, if anyone is in Christ, he  is  a new creation; old things
+        have passed away; behold, all things have become new. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Now all things are of God, who has reconciled us to Himself through
+        Jesus Christ, and has given us the ministry of reconciliation, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: that is, that God was in Christ reconciling the world to Himself,
+        not imputing their trespasses to them, and has committed to us the word of
+        reconciliation.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "Now then, we are ambassadors for Christ, as though God were pleading
+        through us: we implore you on Christ\u2019s behalf, be reconciled to God. "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: For He made Him who knew no sin to  be sin for us, that we might become
+        the righteousness of God in Him.
+      comments: []
+  - verses:
+    - name: '1: Marks of the Ministry'
+      title: Marks of the Ministry
+      number: 1
+      content: 'We then, as  workers together with  Him also plead with you not to
+        receive the grace of God in vain. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "For He says:\u201CIn an acceptable time I have heard you,And in the
+        day of salvation I have helped you.\u201DBehold, now is the accepted time;
+        behold, now is the day of salvation."
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'We give no offense in anything, that our ministry may not be blamed. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'But in all things we commend ourselves as ministers of God: in much
+        patience, in tribulations, in needs, in distresses, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'in stripes, in imprisonments, in tumults, in labors, in sleeplessness,
+        in fastings; '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'by purity, by knowledge, by longsuffering, by kindness, by the Holy
+        Spirit, by sincere love, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'by the word of truth, by the power of God, by the armor of righteousness
+        on the right hand and on the left, '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'by honor and dishonor, by evil report and good report; as deceivers,
+        and yet true; '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'as unknown, and yet well known; as dying, and behold we live; as
+        chastened, and yet not killed; '
+      comments: []
+    - name: '10: Be Holy'
+      title: Be Holy
+      number: 10
+      content: as sorrowful, yet always rejoicing; as poor, yet making many rich;
+        as having nothing, and yet possessing all things.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'O Corinthians! We have spoken openly to you, our heart is wide open. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'You are not restricted by us, but you are restricted by your own
+        affections. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: Now in return for the same (I speak as to children), you also be open.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Do not be unequally yoked together with unbelievers. For what fellowship
+        has righteousness with lawlessness? And what communion has light with darkness? '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And what accord has Christ with Belial? Or what part has a believer
+        with an unbeliever? '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "And what agreement has the temple of God with idols? For you are
+        the temple of the living God. As God has said:\u201CI will dwell in themAnd
+        walk among them.I will be their God,And they shall be My people.\u201D"
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "Therefore\u201CCome out from among themAnd be separate, says the
+        Lord.Do not touch what is unclean,And I will receive you.\u201D"
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "\u201CI will be a Father to you,And you shall be My sons and daughters,Says
+        the Lord Almighty.\u201D"
+      comments: []
+  - verses:
+    - name: "1: The Corinthians\u2019 Repentance"
+      title: "The Corinthians\u2019 Repentance"
+      number: 1
+      content: Therefore, having these promises, beloved, let us cleanse ourselves
+        from all filthiness of the flesh and spirit, perfecting holiness in the fear
+        of God.
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Open your  hearts to us. We have wronged no one, we have corrupted
+        no one, we have cheated no one. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'I do not say this to condemn; for I have said before that you are
+        in our hearts, to die together and to live together. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: Great is my boldness of speech toward you, great is my boasting on
+        your behalf. I am filled with comfort. I am exceedingly joyful in all our
+        tribulation.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For indeed, when we came to Macedonia, our bodies had no rest, but
+        we were troubled on every side. Outside were conflicts, inside were fears. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Nevertheless God, who comforts the downcast, comforted us by the
+        coming of Titus, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: and not only by his coming, but also by the consolation with which
+        he was comforted in you, when he told us of your earnest desire, your mourning,
+        your zeal for me, so that I rejoiced even more.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For even if I made you sorry with my letter, I do not regret it;
+        though I did regret it. For I perceive that the same epistle made you sorry,
+        though only for a while. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Now I rejoice, not that you were made sorry, but that your sorrow
+        led to repentance. For you were made sorry in a godly manner, that you might
+        suffer loss from us in nothing. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For godly sorrow produces repentance leading to salvation, not to
+        be regretted; but the sorrow of the world produces death. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'For observe this very thing, that you sorrowed in a godly manner:
+        What diligence it produced in you, what  clearing of yourselves, what indignation,
+        what fear, what vehement desire, what zeal, what vindication! In all things
+        you proved yourselves to be clear in this matter. '
+      comments: []
+    - name: '12: The Joy of Titus'
+      title: The Joy of Titus
+      number: 12
+      content: Therefore, although I wrote to you, I  did not do  it for the sake
+        of him who had done the wrong, nor for the sake of him who suffered wrong,
+        but that our care for you in the sight of God might appear to you.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Therefore we have been comforted in your comfort. And we rejoiced
+        exceedingly more for the joy of Titus, because his spirit has been refreshed
+        by you all. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For if in anything I have boasted to him about you, I am not ashamed.
+        But as we spoke all things to you in truth, even so our boasting to Titus
+        was found true. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And his affections are greater for you as he remembers the obedience
+        of you all, how with fear and trembling you received him. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: Therefore I rejoice that I have confidence in you in everything.
+      comments: []
+  - verses:
+    - name: '1: Excel in Giving'
+      title: Excel in Giving
+      number: 1
+      content: 'Moreover, brethren, we make known to you the grace of God bestowed
+        on the churches of Macedonia: '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'that in a great trial of affliction the abundance of their joy and
+        their deep poverty abounded in the riches of their liberality. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For I bear witness that according to their ability, yes, and beyond
+        their ability, they  were freely willing, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'imploring us with much urgency that we would receive the gift and
+        the fellowship of the ministering to the saints. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And not only as we had hoped, but they first gave themselves to the
+        Lord, and then to us by the will of God. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'So we urged Titus, that as he had begun, so he would also complete
+        this grace in you as well. '
+      comments: []
+    - name: '7: Christ Our Pattern'
+      title: Christ Our Pattern
+      number: 7
+      content: "But as you abound in everything\u2014in faith, in speech, in knowledge,
+        in all diligence, and in your love for us\u2014see  that you abound in this
+        grace also."
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'I speak not by commandment, but I am testing the sincerity of your
+        love by the diligence of others. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: For you know the grace of our Lord Jesus Christ, that though He was
+        rich, yet for your sakes He became poor, that you through His poverty might
+        become rich.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And in this I give advice: It is to your advantage not only to be
+        doing what you began and were desiring to do a year ago; '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'but now you also must complete the doing of  it; that as there  was
+        a readiness to desire it, so there also may  be a completion out of what
+        you have. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: For if there is first a willing mind, it  is accepted according to
+        what one has, and not according to what he does not have.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'For I  do not mean that others should be eased and you burdened; '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "but by an equality, that now at this time your abundance may  supply
+        their lack, that their abundance also may supply your lack\u2014that there
+        may be equality. "
+      comments: []
+    - name: '15: Collection for the Judean Saints'
+      title: Collection for the Judean Saints
+      number: 15
+      content: "As it is written, \u201CHe who gathered much had nothing left over,
+        and he who gathered little had no lack.\u201D"
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'But thanks be to God who puts the same earnest care for you into
+        the heart of Titus. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'For he not only accepted the exhortation, but being more diligent,
+        he went to you of his own accord. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And we have sent with him the brother whose praise is in the gospel
+        throughout all the churches, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'and not only that, but who was also chosen by the churches to travel
+        with us with this gift, which is administered by us to the glory of the Lord
+        Himself and to  show your ready mind, '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "avoiding this: that anyone should blame us in this lavish gift which
+        is administered by us\u2014 "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: providing honorable things, not only in the sight of the Lord, but
+        also in the sight of men.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'And we have sent with them our brother whom we have often proved
+        diligent in many things, but now much more diligent, because of the great
+        confidence which we  have in you. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'If anyone  inquires about Titus, he  is my partner and fellow worker
+        concerning you. Or if our brethren are  inquired  about, they are  messengers
+        of the churches, the glory of Christ. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: Therefore show to them, and before the churches, the proof of your
+        love and of our boasting on your behalf.
+      comments: []
+  - verses:
+    - name: '1: Administering the Gift'
+      title: Administering the Gift
+      number: 1
+      content: 'Now concerning the ministering to the saints, it is superfluous for
+        me to write to you; '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'for I know your willingness, about which I boast of you to the Macedonians,
+        that Achaia was ready a year ago; and your zeal has stirred up the majority. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Yet I have sent the brethren, lest our boasting of you should be
+        in vain in this respect, that, as I said, you may be ready; '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'lest if some Macedonians come with me and find you unprepared, we
+        (not to mention you!) should be ashamed of this confident boasting. '
+      comments: []
+    - name: '5: The Cheerful Giver'
+      title: The Cheerful Giver
+      number: 5
+      content: Therefore I thought it necessary to exhort the brethren to go to you
+        ahead of time, and prepare your generous gift beforehand, which you  had
+        previously promised, that it may be ready as a  matter  of generosity and
+        not as a grudging obligation.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'But this I  say: He who sows sparingly will also reap sparingly,
+        and he who sows bountifully will also reap bountifully. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'So  let each one give as he purposes in his heart, not grudgingly
+        or of necessity; for God loves a cheerful giver. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And God is able to make all grace abound toward you, that you, always
+        having all sufficiency in all things, may have an abundance for every good
+        work. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "As it is written:\u201CHe has dispersed abroad,He has given to the
+        poor;His righteousness endures forever.\u201D"
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Now may He who supplies seed to the sower, and bread for food, supply
+        and multiply the seed you have sown and increase the fruits of your righteousness, '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'while you  are enriched in everything for all liberality, which causes
+        thanksgiving through us to God. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'For the administration of this service not only supplies the needs
+        of the saints, but also is abounding through many thanksgivings to God, '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'while, through the proof of this ministry, they glorify God for the
+        obedience of your confession to the gospel of Christ, and for your liberal
+        sharing with them and all men,  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'and by their prayer for you, who long for you because of the exceeding
+        grace of God in you. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Thanks be to God for His indescribable gift!
+      comments: []
+  - verses:
+    - name: '1: The Spiritual War'
+      title: The Spiritual War
+      number: 1
+      content: "Now I, Paul, myself am pleading with you by the meekness and gentleness
+        of Christ\u2014who in presence am lowly among you, but being absent am bold
+        toward you. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'But I beg you that when I am present I may not be bold with that
+        confidence by which I intend to be bold against some, who think of us as
+        if we walked according to the flesh. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For though we walk in the flesh, we do not war according to the flesh. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For the weapons of our warfare are not carnal but mighty in God for
+        pulling down strongholds, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'casting down arguments and every high thing that exalts itself against
+        the knowledge of God, bringing every thought into captivity to the obedience
+        of Christ, '
+      comments: []
+    - name: "6: Reality of Paul\u2019s Authority"
+      title: "Reality of Paul\u2019s Authority"
+      number: 6
+      content: and being ready to punish all disobedience when your obedience is
+        fulfilled.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Do you look at things according to the outward appearance? If anyone
+        is convinced in himself that he is Christ\u2019s, let him again consider
+        this in himself, that just as he is Christ\u2019s, even so we are Christ\u2019s. "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "For even if I should boast somewhat more about our authority, which
+        the Lord gave us for edification and not for your destruction, I shall not
+        be ashamed\u2014 "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'lest I seem to terrify you by letters. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201CFor his letters,\u201D they say, \u201Care weighty and powerful,
+        but his bodily presence is weak, and his  speech contemptible.\u201D "
+      comments: []
+    - name: "11: Limits of Paul\u2019s Authority"
+      title: "Limits of Paul\u2019s Authority"
+      number: 11
+      content: Let such a person consider this, that what we are in word by letters
+        when we are absent, such we  will also be in deed when we are present.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'For we dare not class ourselves or compare ourselves with those who
+        commend themselves. But they, measuring themselves by themselves, and comparing
+        themselves among themselves, are not wise. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "We, however, will not boast beyond measure, but within the limits
+        of the sphere which God appointed us\u2014a sphere which especially includes
+        you. "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For we are not overextending ourselves (as though our  authority
+        did not extend to you), for it was to you that we came with the gospel of
+        Christ; '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "not boasting of things beyond measure, that  is,  in other men\u2019s
+        labors, but having hope, that as your faith is increased, we shall be greatly
+        enlarged by you in our sphere, "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "to preach the gospel in the regions beyond you, and not to boast
+        in another man\u2019s sphere of accomplishment."
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "But \u201Che who glories, let him glory in the Lord.\u201D "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: For not he who commends himself is approved, but whom the Lord commends.
+      comments: []
+  - verses:
+    - name: '1: Concern for Their Faithfulness'
+      title: Concern for Their Faithfulness
+      number: 1
+      content: "Oh, that you would bear with me in a little folly\u2014and indeed
+        you do bear with me. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For I am jealous for you with godly jealousy. For I have betrothed
+        you to one husband, that I may present you  as a chaste virgin to Christ. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'But I fear, lest somehow, as the serpent deceived Eve by his craftiness,
+        so your minds may be corrupted from the simplicity that is in Christ. '
+      comments: []
+    - name: '4: Paul and False Apostles'
+      title: Paul and False Apostles
+      number: 4
+      content: "For if he who comes preaches another Jesus whom we have not preached,
+        or if you receive a different spirit which you have not received, or a different
+        gospel which you have not accepted\u2014you may well put up with it!"
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For I consider that I am not at all inferior to the most eminent
+        apostles. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Even though I  am untrained in speech, yet I  am not in knowledge.
+        But we have been thoroughly manifested among you in all things.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Did I commit sin in humbling myself that you might be exalted, because
+        I preached the gospel of God to you free of charge? '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'I robbed other churches, taking wages from  them to minister to you. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And when I was present with you, and in need, I was a burden to no
+        one, for what I lacked the brethren who came from Macedonia supplied. And
+        in everything I kept myself from being burdensome to you, and so I will keep
+        myself. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'As the truth of Christ is in me, no one shall stop me from this boasting
+        in the regions of Achaia. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Why? Because I do not love you? God knows!
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'But what I do, I will also continue to do, that I may cut off the
+        opportunity from those who desire an opportunity to be regarded just as we
+        are in the things of which they boast. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'For such are false apostles, deceitful workers, transforming themselves
+        into apostles of Christ. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And no wonder! For Satan himself transforms himself into an angel
+        of light. '
+      comments: []
+    - name: '15: Reluctant Boasting'
+      title: Reluctant Boasting
+      number: 15
+      content: Therefore it is no great thing if his ministers also transform themselves
+        into ministers of righteousness, whose end will be according to their works.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'I say again, let no one think me a fool. If otherwise, at least receive
+        me as a fool, that I also may boast a little. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'What I speak, I speak not according to the Lord, but as it were,
+        foolishly, in this confidence of boasting. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Seeing that many boast according to the flesh, I also will boast. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'For you put up with fools gladly, since you yourselves are wise! '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'For you put up with it if one brings you into bondage, if one devours
+        you, if one takes from  you, if one exalts himself, if one strikes you on
+        the face. '
+      comments: []
+    - name: '21: Suffering for Christ'
+      title: Suffering for Christ
+      number: 21
+      content: "To our shame I say that we were too weak for that! But in whatever
+        anyone is bold\u2014I speak foolishly\u2014I am bold also."
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Are they Hebrews? So am I. Are they Israelites? So am I. Are they
+        the seed of Abraham? So am I. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "Are they ministers of Christ?\u2014I speak as a fool\u2014I am more:
+        in labors more abundant, in stripes above measure, in prisons more frequently,
+        in deaths often. "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'From the Jews five times I received forty stripes minus one. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Three times I was beaten with rods; once I was stoned; three times
+        I was shipwrecked; a night and a day I have been in the deep; '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'in journeys often, in perils of waters, in perils of robbers, in
+        perils of my  own countrymen, in perils of the Gentiles, in perils in the
+        city, in perils in the wilderness, in perils in the sea, in perils among
+        false brethren; '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "in weariness and toil, in sleeplessness often, in hunger and thirst,
+        in fastings often, in cold and nakedness\u2014 "
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'besides the other things, what comes upon me daily: my deep concern
+        for all the churches. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: Who is weak, and I am not weak? Who is made to stumble, and I do not
+        burn with  indignation?
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'If I must boast, I will boast in the things which concern my infirmity. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'The God and Father of our Lord Jesus Christ, who is blessed forever,
+        knows that I am not lying. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'In Damascus the governor, under Aretas the king, was guarding the
+        city of the Damascenes with a garrison, desiring to arrest me; '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: but I was let down in a basket through a window in the wall, and escaped
+        from his hands.
+      comments: []
+  - verses:
+    - name: '1: The Vision of Paradise'
+      title: The Vision of Paradise
+      number: 1
+      content: 'It is doubtless not profitable for me to boast. I will come to visions
+        and revelations of the Lord: '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "I know a man in Christ who fourteen years ago\u2014whether in the
+        body I do not know, or whether out of the body I do not know, God knows\u2014such
+        a one was caught up to the third heaven. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And I know such a man\u2014whether in the body or out of the body
+        I do not know, God knows\u2014 "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'how he was caught up into Paradise and heard inexpressible words,
+        which it is not lawful for a man to utter. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Of such a one I will boast; yet of myself I will not boast, except
+        in my infirmities. '
+      comments: []
+    - name: '6: The Thorn in the Flesh'
+      title: The Thorn in the Flesh
+      number: 6
+      content: For though I might desire to boast, I will not be a fool; for I will
+        speak the truth. But I refrain, lest anyone should think of me above what
+        he sees me to  be or hears from me.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And lest I should be exalted above measure by the abundance of the
+        revelations, a thorn in the flesh was given to me, a messenger of Satan to
+        buffet me, lest I be exalted above measure. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Concerning this thing I pleaded with the Lord three times that it
+        might depart from me. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And He said to me, <JESUS>\u201CMy grace is sufficient for you, for
+        My strength is made perfect in weakness.\u201D</JESUS> Therefore most gladly
+        I will rather boast in my infirmities, that the power of Christ may rest
+        upon me. "
+      comments: []
+    - name: '10: Signs of an Apostle'
+      title: Signs of an Apostle
+      number: 10
+      content: "Therefore I take pleasure in infirmities, in reproaches, in needs,
+        in persecutions, in distresses, for Christ\u2019s sake. For when I am weak,
+        then I am strong."
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'I have become a fool in boasting; you have compelled me. For I ought
+        to have been commended by you; for in nothing was I behind the most eminent
+        apostles, though I am nothing. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Truly the signs of an apostle were accomplished among you with all
+        perseverance, in signs and wonders and mighty deeds. '
+      comments: []
+    - name: '13: Love for the Church'
+      title: Love for the Church
+      number: 13
+      content: For what is it in which you were inferior to other churches, except
+        that I myself was not burdensome to you? Forgive me this wrong!
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Now for the third time I am ready to come to you. And I will not
+        be burdensome to you; for I do not seek yours, but you. For the children
+        ought not to lay up for the parents, but the parents for the children. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: And I will very gladly spend and be spent for your souls; though the
+        more abundantly I love you, the less I am loved.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'But be that as  it  may,  I did not burden you. Nevertheless, being
+        crafty, I caught you by cunning! '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Did I take advantage of you by any of those whom I sent to you? '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: I urged Titus, and sent our brother with him. Did Titus take advantage
+        of you? Did we not walk in the same spirit? Did we not walk in the same steps?
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Again, do you think that we excuse ourselves to you? We speak before
+        God in Christ. But we  do all things, beloved, for your edification. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'For I fear lest, when I come, I shall not find you such as I wish,
+        and that  I shall be found by you such as you do not wish; lest there  be
+        contentions, jealousies, outbursts of wrath, selfish ambitions, backbitings,
+        whisperings, conceits, tumults; '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: lest, when I come again, my God will humble me among you, and I shall
+        mourn for many who have sinned before and have not repented of the uncleanness,
+        fornication, and lewdness which they have practiced.
+      comments: []
+  - verses:
+    - name: '1: Coming with Authority'
+      title: Coming with Authority
+      number: 1
+      content: "This will  be  the third time I am coming to you. \u201CBy the mouth
+        of two or three witnesses every word shall be established.\u201D "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "I have told you before, and foretell as if I were present the second
+        time, and now being absent I write to those who have sinned before, and to
+        all the rest, that if I come again I will not spare\u2014 "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'since you seek a proof of Christ speaking in me, who is not weak
+        toward you, but mighty in you. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: For though He was crucified in weakness, yet He lives by the power
+        of God. For we also are weak in Him, but we shall live with Him by the power
+        of God toward you.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Examine yourselves as  to whether you are in the faith. Test yourselves.
+        Do you not know yourselves, that Jesus Christ is in you?\u2014unless indeed
+        you are disqualified. "
+      comments: []
+    - name: '6: Paul Prefers Gentleness'
+      title: Paul Prefers Gentleness
+      number: 6
+      content: But I trust that you will know that we are not disqualified.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Now I pray to God that you do no evil, not that we should appear
+        approved, but that you should do what is honorable, though we may seem disqualified. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For we can do nothing against the truth, but for the truth. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'For we are glad when we are weak and you are strong. And this also
+        we pray, that you may be made complete. '
+      comments: []
+    - name: '10: Greetings and Benediction'
+      title: Greetings and Benediction
+      number: 10
+      content: Therefore I write these things being absent, lest being present I
+        should use sharpness, according to the authority which the Lord has given
+        me for edification and not for destruction.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Finally, brethren, farewell. Become complete. Be of good comfort,
+        be of one mind, live in peace; and the God of love and peace will be with
+        you.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: Greet one another with a holy kiss.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: All the saints greet you.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: The grace of the Lord Jesus Christ, and the love of God, and the communion
+        of the Holy Spirit be with you all. Amen.
+      comments: []

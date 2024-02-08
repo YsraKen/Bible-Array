@@ -1,0 +1,6211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: JOB
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Job
+  fancyName: 
+  nickname: job
+  version: {fileID: 11400000, guid: f0e13320f8bc1254f8bca32b62d9305b, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Job and His Family in Uz'
+      title: Job and His Family in Uz
+      number: 1
+      content: 'There was a man in the land of Uz, whose name was  Job; and that
+        man was blameless and upright, and one who feared God and shunned evil. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And seven sons and three daughters were born to him. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Also, his possessions were seven thousand sheep, three thousand camels,
+        five hundred yoke of oxen, five hundred female donkeys, and a very large
+        household, so that this man was the greatest of all the people of the East.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And his sons would go and feast in  their houses, each on his appointed
+        day, and would send and invite their three sisters to eat and drink with
+        them. '
+      comments: []
+    - name: "5: Satan Attacks Job\u2019s Character"
+      title: "Satan Attacks Job\u2019s Character"
+      number: 5
+      content: "So it was, when the days of feasting had run their course, that Job
+        would send and sanctify them, and he would rise early in the morning and
+        offer burnt offerings according  to the number of them all. For Job said,
+        \u201CIt may be that my sons have sinned and cursed God in their hearts.\u201D
+        Thus Job did regularly."
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Now there was a day when the sons of God came to present themselves
+        before the Lord, and Satan also came among them. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "And the Lord said to Satan, \u201CFrom where do you come?\u201DSo
+        Satan answered the Lord and said, \u201CFrom going to and fro on the earth,
+        and from walking back and forth on it.\u201D"
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Then the Lord said to Satan, \u201CHave you considered My servant
+        Job, that there  is none like him on the earth, a blameless and upright man,
+        one who fears God and shuns evil?\u201D"
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "So Satan answered the Lord and said, \u201CDoes Job fear God for
+        nothing? "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Have You not made a hedge around him, around his household, and around
+        all that he has on every side? You have blessed the work of his hands, and
+        his possessions have increased in the land. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "But now, stretch out Your hand and touch all that he has, and he
+        will surely curse You to Your face!\u201D"
+      comments: []
+    - name: '12: Job Loses His Property and Children'
+      title: Job Loses His Property and Children
+      number: 12
+      content: "And the Lord said to Satan, \u201CBehold, all that he has is in your
+        power; only do not lay a hand on his person.\u201DSo Satan went out from
+        the presence of the Lord."
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Now there was a day when his sons and daughters were eating and drinking
+        wine in their oldest brother\u2019s house; "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "and a messenger came to Job and said, \u201CThe oxen were plowing
+        and the donkeys feeding beside them, "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "when the Sabeans raided them and took them away\u2014indeed they
+        have killed the servants with the edge of the sword; and I alone have escaped
+        to tell you!\u201D"
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "While he was still speaking, another also came and said, \u201CThe
+        fire of God fell from heaven and burned up the sheep and the servants, and
+        consumed them; and I alone have escaped to tell you!\u201D"
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "While he was still speaking, another also came and said, \u201CThe
+        Chaldeans formed three bands, raided the camels and took them away, yes,
+        and killed the servants with the edge of the sword; and I alone have escaped
+        to tell you!\u201D"
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "While he was still speaking, another also came and said, \u201CYour
+        sons and daughters were eating and drinking wine in their oldest brother\u2019s
+        house, "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "and suddenly a great wind came from across the wilderness and struck
+        the four corners of the house, and it fell on the young people, and they
+        are dead; and I alone have escaped to tell you!\u201D"
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Then Job arose, tore his robe, and shaved his head; and he fell to
+        the ground and worshiped. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "And he said:\u201CNaked I came from my mother\u2019s womb,And naked
+        shall I return there.The Lord  gave, and the Lord has taken away;Blessed
+        be the name of the Lord.\u201D"
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: In all this Job did not sin nor charge God with wrong.
+      comments: []
+  - verses:
+    - name: "1: Satan Attacks Job\u2019s Health"
+      title: "Satan Attacks Job\u2019s Health"
+      number: 1
+      content: 'Again there was a day when the sons of God came to present themselves
+        before the Lord, and Satan came also among them to present himself before
+        the Lord. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And the Lord said to Satan, \u201CFrom where do you come?\u201DSatan
+        answered the Lord and said, \u201CFrom going to and fro on the earth, and
+        from walking back and forth on it.\u201D"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Then the Lord said to Satan, \u201CHave you considered My servant
+        Job, that there  is none like him on the earth, a blameless and upright man,
+        one who fears God and shuns evil? And still he holds fast to his integrity,
+        although you incited Me against him, to destroy him without cause.\u201D"
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "So Satan answered the Lord and said, \u201CSkin for skin! Yes, all
+        that a man has he will give for his life. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "But stretch out Your hand now, and touch his bone and his flesh,
+        and he will surely curse You to Your face!\u201D"
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And the Lord said to Satan, \u201CBehold, he is in your hand, but
+        spare his life.\u201D"
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'So Satan went out from the presence of the Lord, and struck Job with
+        painful boils from the sole of his foot to the crown of his head. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: And he took for himself a potsherd with which to scrape himself while
+        he sat in the midst of the ashes.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Then his wife said to him, \u201CDo you still hold fast to your integrity?
+        Curse God and die!\u201D"
+      comments: []
+    - name: "10: Job\u2019s Three Friends"
+      title: "Job\u2019s Three Friends"
+      number: 10
+      content: "But he said to her, \u201CYou speak as one of the foolish women speaks.
+        Shall we indeed accept good from God, and shall we not accept adversity?\u201D
+        In all this Job did not sin with his lips."
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Now when Job\u2019s three friends heard of all this adversity that
+        had come upon him, each one came from his own place\u2014Eliphaz the Temanite,
+        Bildad the Shuhite, and Zophar the Naamathite. For they had made an appointment
+        together to come and mourn with him, and to comfort him. "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And when they raised their eyes from afar, and did not recognize
+        him, they lifted their voices and wept; and each one tore his robe and sprinkled
+        dust on his head toward heaven. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: So they sat down with him on the ground seven days and seven nights,
+        and no one spoke a word to him, for they saw that his grief was very great.
+      comments: []
+  - verses:
+    - name: '1: Job Deplores His Birth'
+      title: Job Deplores His Birth
+      number: 1
+      content: After this Job opened his mouth and cursed the day of his birth.
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And Job spoke, and said:'
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "\u201CMay the day perish on which I was born,And the night in  which
+        it was said,\u2018A male child is conceived.\u2019"
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: May that day be darkness;May God above not seek it,Nor the light shine
+        upon it.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: May darkness and the shadow of death claim it;May a cloud settle on
+        it;May the blackness of the day terrify it.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: As  for that night, may darkness seize it;May it not rejoice among
+        the days of the year,May it not come into the number of the months.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: Oh, may that night be barren!May no joyful shout come into it!
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: May those curse it who curse the day,Those who are ready to arouse
+        Leviathan.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: May the stars of its morning be dark;May it look for light, but have
+        none,And not see the dawning of the day;
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Because it did not shut up the doors of my mother\u2019s womb,Nor
+        hide sorrow from my eyes."
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CWhy did I not die at birth?Why did I not perish when I came
+        from the womb?"
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: Why did the knees receive me?Or why the breasts, that I should nurse?
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: For now I would have lain still and been quiet,I would have been asleep;Then
+        I would have been at rest
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: With kings and counselors of the earth,Who built ruins for themselves,
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Or with princes who had gold,Who filled their houses with silver;
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: Or why was I not hidden like a stillborn child,Like infants who never
+        saw light?
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: There the wicked cease from troubling,And there the weary are at rest.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: There the prisoners rest together;They do not hear the voice of the
+        oppressor.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: The small and great are there,And the servant is free from his master.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "\u201CWhy is light given to him who is in misery,And life to the
+        bitter of soul,"
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: Who long for death, but it does not come,And search for it more than
+        hidden treasures;
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: Who rejoice exceedingly,And are glad when they can find the grave?
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: Why  is  light  given to a man whose way is hidden,And whom God has
+        hedged in?
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: For my sighing comes before I eat,And my groanings pour out like water.
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: For the thing I greatly feared has come upon me,And what I dreaded
+        has happened to me.
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "I am not at ease, nor am I quiet;I have no rest, for trouble comes.\u201D"
+      comments: []
+  - verses:
+    - name: '1: Eliphaz: Job Has Sinned'
+      title: 'Eliphaz: Job Has Sinned'
+      number: 1
+      content: 'Then Eliphaz the Temanite answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CIf one attempts a word with you, will you become weary?But
+        who can withhold himself from speaking?"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Surely you have instructed many,And you have strengthened weak hands.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: Your words have upheld him who was stumbling,And you have strengthened
+        the feeble knees;
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: But now it comes upon you, and you are weary;It touches you, and you
+        are troubled.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Is not your reverence your confidence?And the integrity of your ways
+        your hope?
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CRemember now, who ever perished being innocent?Or where were
+        the upright ever cut off?"
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: Even as I have seen,Those who plow iniquityAnd sow trouble reap the
+        same.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: By the blast of God they perish,And by the breath of His anger they
+        are consumed.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: The roaring of the lion,The voice of the fierce lion,And the teeth
+        of the young lions are broken.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: The old lion perishes for lack of prey,And the cubs of the lioness
+        are scattered.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CNow a word was secretly brought to me,And my ear received a
+        whisper of it."
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: In disquieting thoughts from the visions of the night,When deep sleep
+        falls on men,
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: Fear came upon me, and trembling,Which made all my bones shake.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Then a spirit passed before my face;The hair on my body stood up.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'It stood still,But I could not discern its appearance.A form was
+        before my eyes;There  was silence;Then I heard a voice saying:'
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "\u2018Can a mortal be more righteous than God?Can a man be more pure
+        than his Maker?"
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: If He puts no trust in His servants,If He charges His angels with
+        error,
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: How much more those who dwell in houses of clay,Whose foundation is
+        in the dust,Who are crushed before a moth?
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: They are broken in pieces from morning till evening;They perish forever,
+        with no one regarding.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "Does not their own excellence go away?They die, even without wisdom.\u2019"
+      comments: []
+  - verses:
+    - name: '1: Eliphaz: Job Is Chastened by God'
+      title: 'Eliphaz: Job Is Chastened by God'
+      number: 1
+      content: "\u201CCall out now;Is there anyone who will answer you?And to which
+        of the holy ones will you turn?"
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: For wrath kills a foolish man,And envy slays a simple one.
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: I have seen the foolish taking root,But suddenly I cursed his dwelling
+        place.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: His sons are far from safety,They are crushed in the gate,And there 
+        is no deliverer.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: Because the hungry eat up his harvest,Taking it even from the thorns,And
+        a snare snatches their substance.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: For affliction does not come from the dust,Nor does trouble spring
+        from the ground;
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: Yet man is born to trouble,As the sparks fly upward.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CBut as for me, I would seek God,And to God I would commit my
+        cause\u2014"
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: Who does great things, and unsearchable,Marvelous things without number.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: He gives rain on the earth,And sends waters on the fields.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: He sets on high those who are lowly,And those who mourn are lifted
+        to safety.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: He frustrates the devices of the crafty,So that their hands cannot
+        carry out their plans.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: He catches the wise in their own craftiness,And the counsel of the
+        cunning comes quickly upon them.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: They meet with darkness in the daytime,And grope at noontime as in
+        the night.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: But He saves the needy from the sword,From the mouth of the mighty,And
+        from their hand.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: So the poor have hope,And injustice shuts her mouth.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "\u201CBehold, happy is the man whom God corrects;Therefore do not
+        despise the chastening of the Almighty."
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: For He bruises, but He binds up;He wounds, but His hands make whole.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: He shall deliver you in six troubles,Yes, in seven no evil shall touch
+        you.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: In famine He shall redeem you from death,And in war from the power
+        of the sword.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: You shall be hidden from the scourge of the tongue,And you shall not
+        be afraid of destruction when it comes.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: You shall laugh at destruction and famine,And you shall not be afraid
+        of the beasts of the earth.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: For you shall have a covenant with the stones of the field,And the
+        beasts of the field shall be at peace with you.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: You shall know that your tent is in peace;You shall visit your dwelling
+        and find nothing amiss.
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: You shall also know that your descendants shall  be many,And your
+        offspring like the grass of the earth.
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: You shall come to the grave at a full age,As a sheaf of grain ripens
+        in its season.
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "Behold, this we have searched out;It is true.Hear it, and know for
+        yourself.\u201D"
+      comments: []
+  - verses:
+    - name: '1: Job: My Complaint Is Just'
+      title: 'Job: My Complaint Is Just'
+      number: 1
+      content: 'Then Job answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201COh, that my grief were fully weighed,And my calamity laid with
+        it on the scales!"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "For then it would be heavier than the sand of the sea\u2014Therefore
+        my words have been rash."
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: For the arrows of the Almighty are within me;My spirit drinks in their
+        poison;The terrors of God are arrayed against me.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: Does the wild donkey bray when it has grass,Or does the ox low over
+        its fodder?
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Can flavorless food be eaten without salt?Or is there any taste in
+        the white of an egg?
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: My soul refuses to touch them;They are as loathsome food to me.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201COh, that I might have my request,That God would grant me the
+        thing that I long for!"
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: That it would please God to crush me,That He would loose His hand
+        and cut me off!
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Then I would still have comfort;Though in anguish I would exult,He
+        will not spare;For I have not concealed the words of the Holy One.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CWhat strength do I have, that I should hope?And what is my
+        end, that I should prolong my life?"
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: Is my strength the strength of stones?Or is my flesh bronze?
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: Is my help not within me?And is success driven from me?
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201CTo him who is afflicted, kindness should  be  shown by his
+        friend,Even though he forsakes the fear of the Almighty."
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: My brothers have dealt deceitfully like a brook,Like the streams of
+        the brooks that pass away,
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: Which are dark because of the ice,And into which the snow vanishes.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: When it is warm, they cease to flow;When it is hot, they vanish from
+        their place.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: The paths of their way turn aside,They go nowhere and perish.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: The caravans of Tema look,The travelers of Sheba hope for them.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: They are disappointed because they were confident;They come there
+        and are confused.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: For now you are nothing,You see terror and are afraid.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "Did I ever say, \u2018Bring something to me\u2019?Or, \u2018Offer
+        a bribe for me from your wealth\u2019?"
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "Or, \u2018Deliver me from the enemy\u2019s hand\u2019?Or, \u2018Redeem
+        me from the hand of oppressors\u2019?"
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "\u201CTeach me, and I will hold my tongue;Cause me to understand
+        wherein I have erred."
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: How forceful are right words!But what does your arguing prove?
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: Do you intend to rebuke my words,And the speeches of a desperate one,
+        which  are as wind?
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: Yes, you overwhelm the fatherless,And you undermine your friend.
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: Now therefore, be pleased to look at me;For I would never lie to your
+        face.
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: Yield now, let there be no injustice!Yes, concede, my righteousness
+        still stands!
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: Is there injustice on my tongue?Cannot my taste discern the unsavory?
+      comments: []
+  - verses:
+    - name: '1: Job: My Suffering Is Comfortless'
+      title: 'Job: My Suffering Is Comfortless'
+      number: 1
+      content: "\u201CIs  there not a time of hard service for man on earth?Are 
+        not his days also like the days of a hired man?"
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: Like a servant who earnestly desires the shade,And like a hired man
+        who eagerly looks for his wages,
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: So I have been allotted months of futility,And wearisome nights have
+        been appointed to me.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "When I lie down, I say, \u2018When shall I arise,And the night be
+        ended?\u2019For I have had my fill of tossing till dawn."
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: My flesh is caked with worms and dust,My skin is cracked and breaks
+        out afresh.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "\u201CMy days are swifter than a weaver\u2019s shuttle,And are spent
+        without hope."
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: Oh, remember that my life is a breath!My eye will never again see
+        good.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: The eye of him who sees me will see me no more;While your eyes are
+        upon me, I shall no longer be.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: As the cloud disappears and vanishes away,So he who goes down to the
+        grave does not come up.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: He shall never return to his house,Nor shall his place know him anymore.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CTherefore I will not restrain my mouth;I will speak in the
+        anguish of my spirit;I will complain in the bitterness of my soul."
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: Am I a sea, or a sea serpent,That You set a guard over me?
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "When I say, \u2018My bed will comfort me,My couch will ease my complaint,\u2019"
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: Then You scare me with dreamsAnd terrify me with visions,
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: So that my soul chooses stranglingAnd death rather than my body.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: I loathe my  life;I would not live forever.Let me alone,For my days
+        are  but a breath.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "\u201CWhat  is man, that You should exalt him,That You should set
+        Your heart on him,"
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: That You should visit him every morning,And test him every moment?
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: How long?Will You not look away from me,And let me alone till I swallow
+        my saliva?
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Have I sinned?What have I done to You, O watcher of men?Why have You
+        set me as Your target,So that I am a burden to myself?
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "Why then do You not pardon my transgression,And take away my iniquity?For
+        now I will lie down in the dust,And You will seek me diligently,But I will
+        no longer be.\u201D"
+      comments: []
+  - verses:
+    - name: '1: Bildad: Job Should Repent'
+      title: 'Bildad: Job Should Repent'
+      number: 1
+      content: 'Then Bildad the Shuhite answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CHow long will you speak these things,And the words of your
+        mouth be  like a strong wind?"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Does God subvert judgment?Or does the Almighty pervert justice?
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: If your sons have sinned against Him,He has cast them away for their
+        transgression.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: If you would earnestly seek GodAnd make your supplication to the Almighty,
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: If you were pure and upright,Surely now He would awake for you,And
+        prosper your rightful dwelling place.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: Though your beginning was small,Yet your latter end would increase
+        abundantly.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CFor inquire, please, of the former age,And consider the things
+        discovered by their fathers;"
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: For we were  born yesterday, and know nothing,Because our days on
+        earth are a shadow.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Will they not teach you and tell you,And utter words from their heart?
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CCan the papyrus grow up without a marsh?Can the reeds flourish
+        without water?"
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: While it is yet green and not cut down,It withers before any other
+        plant.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: So are the paths of all who forget God;And the hope of the hypocrite
+        shall perish,
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Whose confidence shall be cut off,And whose trust is a spider\u2019s
+        web."
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: He leans on his house, but it does not stand.He holds it fast, but
+        it does not endure.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: He grows green in the sun,And his branches spread out in his garden.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: His roots wrap around the rock heap,And look for a place in the stones.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "If he is destroyed from his place,Then it will deny him, saying,
+        \u2018I have not seen you.\u2019"
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "\u201CBehold, this is the joy of His way,And out of the earth others
+        will grow."
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Behold, God will not cast away the blameless,Nor will He uphold the
+        evildoers.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: He will yet fill your mouth with laughing,And your lips with rejoicing.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "Those who hate you will be clothed with shame,And the dwelling place
+        of the wicked will come to nothing.\u201D"
+      comments: []
+  - verses:
+    - name: '1: Job: There Is No Mediator'
+      title: 'Job: There Is No Mediator'
+      number: 1
+      content: 'Then Job answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CTruly I know it  is so,But how can a man be righteous before
+        God?"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: If one wished to contend with Him,He could not answer Him one time
+        out of a thousand.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: God  is wise in heart and mighty in strength.Who has hardened himself
+        against Him and prospered?
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: He removes the mountains, and they do not knowWhen He overturns them
+        in His anger;
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: He shakes the earth out of its place,And its pillars tremble;
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: He commands the sun, and it does not rise;He seals off the stars;
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: He alone spreads out the heavens,And treads on the waves of the sea;
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: He made the Bear, Orion, and the Pleiades,And the chambers of the
+        south;
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: He does great things past finding out,Yes, wonders without number.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: If He goes by me, I do not see Him;If He moves past, I do not perceive
+        Him;
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "If He takes away, who can hinder Him?Who can say to Him, \u2018What
+        are You doing?\u2019"
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: God will not withdraw His anger,The allies of the proud lie prostrate
+        beneath Him.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201CHow then can I answer Him,And choose my words to  reason with
+        Him?"
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: For though I were righteous, I could not answer Him;I would beg mercy
+        of my Judge.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: If I called and He answered me,I would not believe that He was listening
+        to my voice.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: For He crushes me with a tempest,And multiplies my wounds without
+        cause.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: He will not allow me to catch my breath,But fills me with bitterness.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: If it  is  a  matter of strength, indeed He  is strong;And if of justice,
+        who will appoint my day in  court?
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Though I were righteous, my own mouth would condemn me;Though I were
+        blameless, it would prove me perverse.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "\u201CI am blameless, yet I do not know myself;I despise my life."
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "It is all one thing;Therefore I say, \u2018He destroys the blameless
+        and the wicked.\u2019"
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: If the scourge slays suddenly,He laughs at the plight of the innocent.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: The earth is given into the hand of the wicked.He covers the faces
+        of its judges.If it is not He, who else could it be?
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "\u201CNow my days are swifter than a runner;They flee away, they
+        see no good."
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: They pass by like swift ships,Like an eagle swooping on its prey.
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "If I say, \u2018I will forget my complaint,I will put off my sad
+        face and wear a smile,\u2019"
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: I am afraid of all my sufferings;I know that You will not hold me
+        innocent.
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: If I am condemned,Why then do I labor in vain?
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: If I wash myself with snow water,And cleanse my hands with soap,
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: Yet You will plunge me into the pit,And my own clothes will abhor
+        me.
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: "\u201CFor He  is not a man, as I am,That I may answer Him,And  that
+        we should go to court together."
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: Nor is there any mediator between us,Who may lay his hand on us both.
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: Let Him take His rod away from me,And do not let dread of Him terrify
+        me.
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: Then I would speak and not fear Him,But it is not so with me.
+      comments: []
+  - verses:
+    - name: '1: Job: I Would Plead with God'
+      title: 'Job: I Would Plead with God'
+      number: 1
+      content: "\u201CMy soul loathes my life;I will give free course to my complaint,I
+        will speak in the bitterness of my soul."
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "I will say to God, \u2018Do not condemn me;Show me why You contend
+        with me."
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Does  it seem good to You that You should oppress,That You should
+        despise the work of Your hands,And smile on the counsel of the wicked?
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: Do You have eyes of flesh?Or do You see as man sees?
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: Are Your days like the days of a mortal man?Are Your years like the
+        days of a mighty man,
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: That You should seek for my iniquityAnd search out my sin,
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: Although You know that I am not wicked,And there  is no one who can
+        deliver from Your hand?
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u2018Your hands have made me and fashioned me,An intricate unity;Yet
+        You would destroy me."
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: Remember, I pray, that You have made me like clay.And will You turn
+        me into dust again?
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Did You not pour me out like milk,And curdle me like cheese,
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Clothe me with skin and flesh,And knit me together with bones and
+        sinews?
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: You have granted me life and favor,And Your care has preserved my
+        spirit.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u2018And these things You have hidden in Your heart;I know that
+        this was with You:"
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: If I sin, then You mark me,And will not acquit me of my iniquity.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: If I am wicked, woe to me;Even if I am righteous, I cannot lift up
+        my head.I  am full of disgrace;See my misery!
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: If my  head is exalted,You hunt me like a fierce lion,And again You
+        show Yourself awesome against me.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: You renew Your witnesses against me,And increase Your indignation
+        toward me;Changes and war are ever with me.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "\u2018Why then have You brought me out of the womb?Oh, that I had
+        perished and no eye had seen me!"
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: I would have been as though I had not been.I would have been carried
+        from the womb to the grave.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Are not my days few?Cease! Leave me alone, that I may take a little
+        comfort,
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: Before I go to  the  place  from  which I shall not return,To the
+        land of darkness and the shadow of death,
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "A land as dark as darkness itself,As the shadow of death, without
+        any order,Where even the light is like darkness.\u2019 \u201D"
+      comments: []
+  - verses:
+    - name: '1: Zophar Urges Job to Repent'
+      title: Zophar Urges Job to Repent
+      number: 1
+      content: 'Then Zophar the Naamathite answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CShould not the multitude of words be answered?And should a
+        man full of talk be vindicated?"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Should your empty talk make men hold their peace?And when you mock,
+        should no one rebuke you?
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "For you have said,\u2018My doctrine is pure,And I am clean in your
+        eyes.\u2019"
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: But oh, that God would speak,And open His lips against you,
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: That He would show you the secrets of wisdom!For they  would double
+        your prudence.Know therefore that God exacts from youLess than your iniquity
+        deserves.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CCan you search out the deep things of God?Can you find out
+        the limits of the Almighty?"
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "They  are higher than heaven\u2014 what can you do?Deeper than Sheol\u2014
+        what can you know?"
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: Their measure is longer than the earthAnd broader than the sea.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201CIf He passes by, imprisons, and gathers to  judgment,Then who
+        can hinder Him?"
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: For He knows deceitful men;He sees wickedness also.Will He not then
+        consider it?
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "For an empty-headed man will be wise,When a wild donkey\u2019s colt
+        is born a man."
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CIf you would prepare your heart,And stretch out your hands
+        toward Him;"
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: If iniquity were in your hand, and  you put it far away,And would
+        not let wickedness dwell in your tents;
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Then surely you could lift up your face without spot;Yes, you could
+        be steadfast, and not fear;
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: Because you would forget your misery,And remember it as waters that 
+        have passed away,
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: And your life would be brighter than noonday.Though you were dark,
+        you would be like the morning.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: And you would be secure, because there is hope;Yes, you would dig
+        around  you, and  take your rest in safety.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: You would also lie down, and no one would make you afraid;Yes, many
+        would court your favor.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "But the eyes of the wicked will fail,And they shall not escape,And
+        their hope\u2014loss of life!\u201D"
+      comments: []
+  - verses:
+    - name: '1: Job Answers His Critics'
+      title: Job Answers His Critics
+      number: 1
+      content: 'Then Job answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CNo doubt you are the people,And wisdom will die with you!"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: But I have understanding as well as you;I am not inferior to you.Indeed,
+        who does not know such things as these?
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CI am one mocked by his friends,Who called on God, and He answered
+        him,The just and blameless who  is ridiculed."
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: A lamp is despised in the thought of one who is at ease;It  is made
+        ready for those whose feet slip.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "The tents of robbers prosper,And those who provoke God are secure\u2014In
+        what God provides by His hand."
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CBut now ask the beasts, and they will teach you;And the birds
+        of the air, and they will tell you;"
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: Or speak to the earth, and it will teach you;And the fish of the sea
+        will explain to you.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: Who among all these does not knowThat the hand of the Lord has done
+        this,
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: In whose hand is the life of every living thing,And the breath of
+        all mankind?
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Does not the ear test wordsAnd the mouth taste its food?
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: Wisdom is with aged men,And with length of days, understanding.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CWith Him are  wisdom and strength,He has counsel and understanding."
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: If He breaks a  thing down, it cannot be rebuilt;If He imprisons a
+        man, there can be no release.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: If He withholds the waters, they dry up;If He sends them out, they
+        overwhelm the earth.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: With Him are strength and prudence.The deceived and the deceiver are
+        His.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: He leads counselors away plundered,And makes fools of the judges.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: He loosens the bonds of kings,And binds their waist with a belt.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: He leads princes away plundered,And overthrows the mighty.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: He deprives the trusted ones of speech,And takes away the discernment
+        of the elders.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: He pours contempt on princes,And disarms the mighty.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: He uncovers deep things out of darkness,And brings the shadow of death
+        to light.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: He makes nations great, and destroys them;He enlarges nations, and
+        guides them.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: He takes away the understanding of the chiefs of the people of the
+        earth,And makes them wander in a pathless wilderness.
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: They grope in the dark without light,And He makes them stagger like
+        a drunken man.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "\u201CBehold, my eye has seen all this,My ear has heard and understood
+        it."
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: What you know, I also know;I am not inferior to you.
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: But I would speak to the Almighty,And I desire to reason with God.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: But you forgers of lies,You are all worthless physicians.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: Oh, that you would be silent,And it would be your wisdom!
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Now hear my reasoning,And heed the pleadings of my lips.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: Will you speak wickedly for God,And talk deceitfully for Him?
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: Will you show partiality for Him?Will you contend for God?
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: Will it be well when He searches you out?Or can you mock Him as one
+        mocks a man?
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: He will surely rebuke youIf you secretly show partiality.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Will not His excellence make you afraid,And the dread of Him fall
+        upon you?
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: Your platitudes are proverbs of ashes,Your defenses are defenses of
+        clay.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CHold your peace with me, and let me speak,Then let come on
+        me what may!"
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: Why do I take my flesh in my teeth,And put my life in my hands?
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Though He slay me, yet will I trust Him.Even so, I will defend my
+        own ways before Him.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: He also shall be my salvation,For a hypocrite could not come before
+        Him.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Listen carefully to my speech,And to my declaration with your ears.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: See now, I have prepared my case,I know that I shall be vindicated.
+      comments: []
+    - name: "19: Job\u2019s Despondent Prayer"
+      title: "Job\u2019s Despondent Prayer"
+      number: 19
+      content: Who is he who will contend with me?If now I hold my tongue, I perish.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "\u201COnly two things do not do to me,Then I will not hide myself
+        from You:"
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: Withdraw Your hand far from me,And let not the dread of You make me
+        afraid.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: Then call, and I will answer;Or let me speak, then You respond to
+        me.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: How many are my iniquities and sins?Make me know my transgression
+        and my sin.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: Why do You hide Your face,And regard me as Your enemy?
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: Will You frighten a leaf driven to and fro?And will You pursue dry
+        stubble?
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: For You write bitter things against me,And make me inherit the iniquities
+        of my youth.
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: You put my feet in the stocks,And watch closely all my paths.You set
+        a limit for the soles of my feet.
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "\u201CMan decays like a rotten thing,Like a garment that is moth-eaten."
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "\u201CMan who  is born of womanIs of few days and full of trouble."
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: He comes forth like a flower and fades away;He flees like a shadow
+        and does not continue.
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: And do You open Your eyes on such a one,And bring me to judgment with
+        Yourself?
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: Who can bring a clean thing out of an unclean?No one!
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: Since his days are determined,The number of his months is with You;You
+        have appointed his limits, so that he cannot pass.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Look away from him that he may rest,Till like a hired man he finishes
+        his day.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CFor there is hope for a tree,If it is cut down, that it will
+        sprout again,And that its tender shoots will not cease."
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: Though its root may grow old in the earth,And its stump may die in
+        the ground,
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: Yet at the scent of water it will budAnd bring forth branches like
+        a plant.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: But man dies and is laid away;Indeed he breathes his lastAnd where
+        is  he?
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: As water disappears from the sea,And a river becomes parched and dries
+        up,
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: So man lies down and does not rise.Till the heavens are no more,They
+        will not awakeNor be roused from their sleep.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201COh, that You would hide me in the grave,That You would conceal
+        me until Your wrath is past,That You would appoint me a set time, and remember
+        me!"
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: If a man dies, shall he live again?All the days of my hard service
+        I will wait,Till my change comes.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: You shall call, and I will answer You;You shall desire the work of
+        Your hands.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: For now You number my steps,But do not watch over my sin.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: My transgression is sealed up in a bag,And You cover my iniquity.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "\u201CBut as a mountain falls and crumbles away,And as a rock is
+        moved from its place;"
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: As water wears away stones,And  as torrents wash away the soil of
+        the earth;So You destroy the hope of man.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: You prevail forever against him, and he passes on;You change his countenance
+        and send him away.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: His sons come to honor, and he does not know it;They are brought low,
+        and he does not perceive it.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "But his flesh will be in pain over it,And his soul will mourn over
+        it.\u201D"
+      comments: []
+  - verses:
+    - name: '1: Eliphaz Accuses Job of Folly'
+      title: Eliphaz Accuses Job of Folly
+      number: 1
+      content: 'Then Eliphaz the Temanite answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CShould a wise man answer with empty knowledge,And fill himself
+        with the east wind?"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Should he reason with unprofitable talk,Or by speeches with which
+        he can do no good?
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: Yes, you cast off fear,And restrain prayer before God.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: For your iniquity teaches your mouth,And you choose the tongue of
+        the crafty.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Your own mouth condemns you, and not I;Yes, your own lips testify
+        against you.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CAre you the first man who was born?Or were you made before
+        the hills?"
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: Have you heard the counsel of God?Do you limit wisdom to yourself?
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: What do you know that we do not know?What do you understand that is
+        not in us?
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Both the gray-haired and the aged are among us,Much older than your
+        father.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Are the consolations of God too small for you,And the word spoken
+        gently with you?
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: Why does your heart carry you away,And what do your eyes wink at,
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: That you turn your spirit against God,And let such words go out of
+        your mouth?
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201CWhat  is man, that he could be pure?And he  who  is born of
+        a woman, that he could be righteous?"
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: If God puts no trust in His saints,And the heavens are not pure in
+        His sight,
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: How much less man, who  is abominable and filthy,Who drinks iniquity
+        like water!
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "\u201CI will tell you, hear me;What I have seen I will declare,"
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: What wise men have told,Not hiding anything  received  from their
+        fathers,
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'To whom alone the land was given,And no alien passed among them:'
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: The wicked man writhes with pain all his days,And the number of years
+        is hidden from the oppressor.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: Dreadful sounds are in his ears;In prosperity the destroyer comes
+        upon him.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: He does not believe that he will return from darkness,For a sword
+        is waiting for him.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "He wanders about for bread, saying, \u2018Where is  it?\u2019He knows
+        that a day of darkness is ready at his hand."
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: Trouble and anguish make him afraid;They overpower him, like a king
+        ready for battle.
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: For he stretches out his hand against God,And acts defiantly against
+        the Almighty,
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: Running stubbornly against HimWith his strong, embossed shield.
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "\u201CThough he has covered his face with his fatness,And made his
+        waist heavy with fat,"
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: He dwells in desolate cities,In houses which no one inhabits,Which
+        are destined to become ruins.
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: He will not be rich,Nor will his wealth continue,Nor will his possessions
+        overspread the earth.
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: He will not depart from darkness;The flame will dry out his branches,And
+        by the breath of His mouth he will go away.
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: Let him not trust in futile things, deceiving himself,For futility
+        will be his reward.
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: It will be accomplished before his time,And his branch will not be
+        green.
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: He will shake off his unripe grape like a vine,And cast off his blossom
+        like an olive tree.
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: For the company of hypocrites will  be barren,And fire will consume
+        the tents of bribery.
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: "They conceive trouble and bring forth futility;Their womb prepares
+        deceit.\u201D"
+      comments: []
+  - verses:
+    - name: '1: Job Reproaches His Pitiless Friends'
+      title: Job Reproaches His Pitiless Friends
+      number: 1
+      content: 'Then Job answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CI have heard many such things;Miserable comforters are you
+        all!"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Shall words of wind have an end?Or what provokes you that you answer?
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "I also could speak as you do,If your soul were in my soul\u2019s
+        place.I could heap up words against you,And shake my head at you;"
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: But I would strengthen you with my mouth,And the comfort of my lips
+        would relieve your  grief.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "\u201CThough I speak, my grief is not relieved;And if I remain silent,
+        how am I eased?"
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: But now He has worn me out;You have made desolate all my company.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: You have shriveled me up,And it is a witness against  me;My leanness
+        rises up against meAnd bears witness to my face.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: He tears me in His wrath, and hates me;He gnashes at me with His teeth;My
+        adversary sharpens His gaze on me.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: They gape at me with their mouth,They strike me reproachfully on the
+        cheek,They gather together against me.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: God has delivered me to the ungodly,And turned me over to the hands
+        of the wicked.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: I was at ease, but He has shattered me;He also has taken me by my
+        neck, and shaken me to pieces;He has set me up for His target,
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: His archers surround me.He pierces my heart and does not pity;He pours
+        out my gall on the ground.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: He breaks me with wound upon wound;He runs at me like a warrior.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "\u201CI have sewn sackcloth over my skin,And laid my head in the
+        dust."
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: My face is flushed from weeping,And on my eyelids is the shadow of
+        death;
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Although no violence is in my hands,And my prayer is pure.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "\u201CO earth, do not cover my blood,And let my cry have no resting
+        place!"
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: Surely even now my witness is in heaven,And my evidence is on high.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: My friends scorn me;My eyes pour out tears to God.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: Oh, that one might plead for a man with God,As a man pleads for his
+        neighbor!
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: For when a few years are finished,I shall go the way of no return.
+      comments: []
+  - verses:
+    - name: '1: Job Prays for Relief'
+      title: Job Prays for Relief
+      number: 1
+      content: "\u201CMy spirit is broken,My days are extinguished,The grave is 
+        ready for me."
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: Are not mockers with me?And does not my eye dwell on their provocation?
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "\u201CNow put down a pledge for me with Yourself.Who is he who  will
+        shake hands with me?"
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: For You have hidden their heart from understanding;Therefore You will
+        not exalt them.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: He who speaks flattery to his friends,Even the eyes of his children
+        will fail.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "\u201CBut He has made me a byword of the people,And I have become
+        one in whose face men spit."
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: My eye has also grown dim because of sorrow,And all my members are
+        like shadows.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: Upright men are astonished at this,And the innocent stirs himself
+        up against the hypocrite.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: Yet the righteous will hold to his way,And he who has clean hands
+        will be stronger and stronger.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201CBut please, come back again, all of you,For I shall not find
+        one wise man among you."
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: My days are past,My purposes are broken off,Even the thoughts of my
+        heart.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "They change the night into day;\u2018The light is near,\u2019 they 
+        say, in the face of darkness."
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: If I wait for the grave as my house,If I make my bed in the darkness,
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "If I say to corruption, \u2018You are my father,\u2019And to the
+        worm, \u2018You are my mother and my sister,\u2019"
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Where then is my hope?As for my hope, who can see it?
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Will they go down to the gates of Sheol?Shall we  have  rest together
+        in the dust?\u201D"
+      comments: []
+  - verses:
+    - name: '1: Bildad: The Wicked Are Punished'
+      title: 'Bildad: The Wicked Are Punished'
+      number: 1
+      content: 'Then Bildad the Shuhite answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CHow long till you put an end to words?Gain understanding, and
+        afterward we will speak."
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Why are we counted as beasts,And regarded as stupid in your sight?
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: You who tear yourself in anger,Shall the earth be forsaken for you?Or
+        shall the rock be removed from its place?
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CThe light of the wicked indeed goes out,And the flame of his
+        fire does not shine."
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: The light is dark in his tent,And his lamp beside him is put out.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: The steps of his strength are shortened,And his own counsel casts
+        him down.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: For he is cast into a net by his own feet,And he walks into a snare.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: The net takes him by the heel,And  a snare lays hold of him.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: A noose is hidden for him on the ground,And a trap for him in the
+        road.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Terrors frighten him on every side,And drive him to his feet.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: His strength is starved,And destruction is ready at his side.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: It devours patches of his skin;The firstborn of death devours his
+        limbs.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: He is uprooted from the shelter of his tent,And they parade him before
+        the king of terrors.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: They dwell in his tent who  are none of his;Brimstone is scattered
+        on his dwelling.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: His roots are dried out below,And his branch withers above.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: The memory of him perishes from the earth,And he has no name among
+        the renowned.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: He is driven from light into darkness,And chased out of the world.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: He has neither son nor posterity among his people,Nor any remaining
+        in his dwellings.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Those in the west are astonished at his day,As those in the east are
+        frightened.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "Surely such are the dwellings of the wicked,And this is the place
+        of  him  who  does not know God.\u201D"
+      comments: []
+  - verses:
+    - name: '1: Job Trusts in His Redeemer'
+      title: Job Trusts in His Redeemer
+      number: 1
+      content: 'Then Job answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CHow long will you torment my soul,And break me in pieces with
+        words?"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: These ten times you have reproached me;You are not ashamed that you
+        have wronged me.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: And if indeed I have erred,My error remains with me.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: If indeed you exalt yourselves against me,And plead my disgrace against
+        me,
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Know then that God has wronged me,And has surrounded me with His net.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CIf I cry out concerning wrong, I am not heard.If I cry aloud,
+        there  is no justice."
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: He has fenced up my way, so that I cannot pass;And He has set darkness
+        in my paths.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: He has stripped me of my glory,And taken the crown from my head.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: He breaks me down on every side,And I am gone;My hope He has uprooted
+        like a tree.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: He has also kindled His wrath against me,And He counts me as one 
+        of His enemies.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: His troops come togetherAnd build up their road against me;They encamp
+        all around my tent.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CHe has removed my brothers far from me,And my acquaintances
+        are completely estranged from me."
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: My relatives have failed,And my close friends have forgotten me.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Those who dwell in my house, and my maidservants,Count me as a stranger;I
+        am an alien in their sight.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: I call my servant, but he gives no answer;I beg him with my mouth.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: My breath is offensive to my wife,And I am repulsive to the children
+        of my own body.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: Even young children despise me;I arise, and they speak against me.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: All my close friends abhor me,And those whom I love have turned against
+        me.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: My bone clings to my skin and to my flesh,And I have escaped by the
+        skin of my teeth.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "\u201CHave pity on me, have pity on me, O you my friends,For the
+        hand of God has struck me!"
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: Why do you persecute me as God does,And are not satisfied with my
+        flesh?
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "\u201COh, that my words were written!Oh, that they were inscribed
+        in a book!"
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: That they were engraved on a rockWith an iron pen and lead, forever!
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: For I know that my Redeemer lives,And He shall stand at last on the
+        earth;
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: And after my skin is destroyed, this I  know,That in my flesh I shall
+        see God,
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: Whom I shall see for myself,And my eyes shall behold, and not another.How
+        my heart yearns within me!
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "If you should say, \u2018How shall we persecute him?\u2019\u2014Since
+        the root of the matter is found in me,"
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "Be afraid of the sword for yourselves;For wrath brings the punishment
+        of the sword,That you may know there  is a judgment.\u201D"
+      comments: []
+  - verses:
+    - name: "1: Zophar\u2019s Sermon on the Wicked Man"
+      title: "Zophar\u2019s Sermon on the Wicked Man"
+      number: 1
+      content: 'Then Zophar the Naamathite answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CTherefore my anxious thoughts make me answer,Because of the
+        turmoil within me."
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: I have heard the rebuke that reproaches me,And the spirit of my understanding
+        causes me to answer.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CDo you not know this of old,Since man was placed on earth,"
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: That the triumphing of the wicked is short,And the joy of the hypocrite
+        is but for a moment?
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Though his haughtiness mounts up to the heavens,And his head reaches
+        to the clouds,
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Yet he will perish forever like his own refuse;Those who have seen
+        him will say, \u2018Where is he?\u2019"
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: He will fly away like a dream, and not be found;Yes, he will be chased
+        away like a vision of the night.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: The eye that saw him will see  him no more,Nor will his place behold
+        him anymore.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: His children will seek the favor of the poor,And his hands will restore
+        his wealth.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: His bones are full of his youthful vigor,But it will lie down with
+        him in the dust.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CThough evil is sweet in his mouth,And he hides it under his
+        tongue,"
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: Though he spares it and does not forsake it,But still keeps it in
+        his mouth,
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: Yet his food in his stomach turns sour;It becomes cobra venom within
+        him.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: He swallows down richesAnd vomits them up again;God casts them out
+        of his belly.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "He will suck the poison of cobras;The viper\u2019s tongue will slay
+        him."
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: He will not see the streams,The rivers flowing with honey and cream.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: He will restore that for which he labored,And will not swallow it
+        down;From the proceeds of businessHe will get no enjoyment.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: For he has oppressed and forsaken the poor,He has violently seized
+        a house which he did not build.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "\u201CBecause he knows no quietness in his heart,He will not save
+        anything he desires."
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: Nothing is left for him to eat;Therefore his well-being will not last.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: In his self-sufficiency he will be in distress;Every hand of misery
+        will come against him.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: When he is about to fill his stomach,God will cast on him the fury
+        of His wrath,And will rain it on him while he is eating.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: He will flee from the iron weapon;A bronze bow will pierce him through.
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: It is drawn, and comes out of the body;Yes, the glittering point 
+        comes out of his gall.Terrors come upon him;
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: Total darkness is reserved for his treasures.An unfanned fire will
+        consume him;It shall go ill with him who is left in his tent.
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: The heavens will reveal his iniquity,And the earth will rise up against
+        him.
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: The increase of his house will depart,And  his  goods will flow away
+        in the day of His wrath.
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "This is the portion from God for a wicked man,The heritage appointed
+        to him by God.\u201D"
+      comments: []
+  - verses:
+    - name: "1: Job\u2019s Discourse on the Wicked"
+      title: "Job\u2019s Discourse on the Wicked"
+      number: 1
+      content: 'Then Job answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CListen carefully to my speech,And let this be your consolation."
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Bear with me that I may speak,And after I have spoken, keep mocking.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CAs for me, is my complaint against man?And if it  were, why
+        should I not be impatient?"
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: Look at me and be astonished;Put your hand over your mouth.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Even when I remember I am terrified,And trembling takes hold of my
+        flesh.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: Why do the wicked live and become old,Yes, become mighty in power?
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: Their descendants are established with them in their sight,And their
+        offspring before their eyes.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: Their houses are safe from fear,Neither is the rod of God upon them.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Their bull breeds without failure;Their cow calves without miscarriage.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: They send forth their little ones like a flock,And their children
+        dance.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: They sing to the tambourine and harp,And rejoice to the sound of the
+        flute.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: They spend their days in wealth,And in a moment go down to the grave.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Yet they say to God, \u2018Depart from us,For we do not desire the
+        knowledge of Your ways."
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "Who is the Almighty, that we should serve Him?And what profit do
+        we have if we pray to Him?\u2019"
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: Indeed their prosperity is not in their hand;The counsel of the wicked
+        is far from me.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "\u201CHow often is the lamp of the wicked put out?How  often does
+        their destruction come upon them,The sorrows God  distributes in His anger?"
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: They are like straw before the wind,And like chaff that a storm carries
+        away.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "They  say, \u2018God lays up one\u2019s iniquity for his children\u2019;Let
+        Him recompense him, that he may know it."
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Let his eyes see his destruction,And let him drink of the wrath of
+        the Almighty.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: For what does he care about his household after him,When the number
+        of his months is cut in half?
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "\u201CCan  anyone teach God knowledge,Since He judges those on high?"
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: One dies in his full strength,Being wholly at ease and secure;
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: His pails are full of milk,And the marrow of his bones is moist.
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: Another man dies in the bitterness of his soul,Never having eaten
+        with pleasure.
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: They lie down alike in the dust,And worms cover them.
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "\u201CLook, I know your thoughts,And the schemes with  which you
+        would wrong me."
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "For you say,\u2018Where is the house of the prince?And where is the
+        tent,The dwelling place of the wicked?\u2019"
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: Have you not asked those who travel the road?And do you not know their
+        signs?
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: For the wicked are reserved for the day of doom;They shall be brought
+        out on the day of wrath.
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: Who condemns his way to his face?And who repays him for  what he has
+        done?
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: Yet he shall be brought to the grave,And a vigil kept over the tomb.
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: The clods of the valley shall be sweet to him;Everyone shall follow
+        him,As countless have  gone before him.
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: "How then can you comfort me with empty words,Since falsehood remains
+        in your answers?\u201D"
+      comments: []
+  - verses:
+    - name: '1: Eliphaz Accuses Job of Wickedness'
+      title: Eliphaz Accuses Job of Wickedness
+      number: 1
+      content: 'Then Eliphaz the Temanite answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CCan a man be profitable to God,Though he who is wise may be
+        profitable to himself?"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Is  it any pleasure to the Almighty that you are righteous?Or is 
+        it gain to  Him that you make your ways blameless?
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CIs it because of your fear of Him that He corrects you,And
+        enters into judgment with you?"
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: Is not your wickedness great,And your iniquity without end?
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: For you have taken pledges from your brother for no reason,And stripped
+        the naked of their clothing.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: You have not given the weary water to drink,And you have withheld
+        bread from the hungry.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: But the mighty man possessed the land,And the honorable man dwelt
+        in it.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: You have sent widows away empty,And the strength of the fatherless
+        was crushed.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Therefore snares are all around you,And sudden fear troubles you,
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Or darkness so  that you cannot see;And an abundance of water covers
+        you.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CIs not God in the height of heaven?And see the highest stars,
+        how lofty they are!"
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And you say, \u2018What does God know?Can He judge through the deep
+        darkness?"
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Thick clouds cover Him, so that He cannot see,And He walks above
+        the circle of heaven.\u2019"
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Will you keep to the old wayWhich wicked men have trod,
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: Who were cut down before their time,Whose foundations were swept away
+        by a flood?
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "They said to God, \u2018Depart from us!What can the Almighty do to
+        them?\u2019"
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: Yet He filled their houses with good things;But the counsel of the
+        wicked is far from me.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "\u201CThe righteous see it and are glad,And the innocent laugh at
+        them:"
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "\u2018Surely our adversaries are cut down,And the fire consumes their
+        remnant.\u2019"
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "\u201CNow acquaint yourself with Him, and be at peace;Thereby good
+        will come to you."
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: Receive, please, instruction from His mouth,And lay up His words in
+        your heart.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: If you return to the Almighty, you will be built up;You will remove
+        iniquity far from your tents.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: Then you will lay your gold in the dust,And the gold of Ophir among
+        the stones of the brooks.
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: Yes, the Almighty will be your goldAnd your precious silver;
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: For then you will have your delight in the Almighty,And lift up your
+        face to God.
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: You will make your prayer to Him,He will hear you,And you will pay
+        your vows.
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: You will also declare a thing,And it will be established for you;So
+        light will shine on your ways.
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "When they cast you down, and you say, \u2018Exaltation will  come!\u2019Then
+        He will save the humble person."
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: "He will even deliver one who is not innocent;Yes, he will be delivered
+        by the purity of your hands.\u201D"
+      comments: []
+  - verses:
+    - name: "1: Job Proclaims God\u2019s Righteous Judgments"
+      title: "Job Proclaims God\u2019s Righteous Judgments"
+      number: 1
+      content: 'Then Job answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CEven today my complaint is bitter;My hand is listless because
+        of my groaning."
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Oh, that I knew where I might find Him,That I might come to His seat!
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: I would present my case before Him,And fill my mouth with arguments.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: I would know the words which He would answer me,And understand what
+        He would say to me.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Would He contend with me in His great power?No! But He would take
+        note of me.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: There the upright could reason with Him,And I would be delivered forever
+        from my Judge.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CLook, I go forward, but He is not there,And backward, but I
+        cannot perceive Him;"
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: When He works on the left hand, I cannot behold Him;When He turns
+        to the right hand, I cannot see Him.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: But He knows the way that I take;When  He has tested me, I shall come
+        forth as gold.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: My foot has held fast to His steps;I have kept His way and not turned
+        aside.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: I have not departed from the commandment of His lips;I have treasured
+        the words of His mouthMore than my necessary food.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CBut He is unique, and who can make Him change?And whatever 
+        His soul desires, that He does."
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: For He performs what  is  appointed for me,And many such things  are
+        with Him.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Therefore I am terrified at His presence;When I consider this, I am
+        afraid of Him.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: For God made my heart weak,And the Almighty terrifies me;
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Because I was not cut off from the presence of darkness,And He did
+        not hide deep darkness from my face.
+      comments: []
+  - verses:
+    - name: '1: Job Complains of Violence on the Earth'
+      title: Job Complains of Violence on the Earth
+      number: 1
+      content: "\u201CSince  times are not hidden from the Almighty,Why do those
+        who know Him see not His days?"
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CSome remove landmarks;They seize flocks violently and feed
+        on  them;"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "They drive away the donkey of the fatherless;They take the widow\u2019s
+        ox as a pledge."
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: They push the needy off the road;All the poor of the land are forced
+        to hide.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: Indeed, like wild donkeys in the desert,They go out to their work,
+        searching for food.The wilderness yields food for them and for their children.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: They gather their fodder in the fieldAnd glean in the vineyard of
+        the wicked.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: They spend the night naked, without clothing,And have no covering
+        in the cold.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: They are wet with the showers of the mountains,And huddle around the
+        rock for want of shelter.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CSome snatch the fatherless from the breast,And take a pledge
+        from the poor."
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: They cause the  poor to go naked, without clothing;And they take away
+        the sheaves from the hungry.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: They press out oil within their walls,And tread winepresses, yet suffer
+        thirst.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: The dying groan in the city,And the souls of the wounded cry out;Yet
+        God does not charge them with wrong.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CThere are those who rebel against the light;They do not know
+        its waysNor abide in its paths."
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: The murderer rises with the light;He kills the poor and needy;And
+        in the night he is like a thief.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "The eye of the adulterer waits for the twilight,Saying, \u2018No
+        eye will see me\u2019;And he disguises his face."
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: In the dark they break into housesWhich they marked for themselves
+        in the daytime;They do not know the light.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: For the morning is the same to them as the shadow of death;If someone
+        recognizes them,They  are  in the terrors of the shadow of death.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "\u201CThey should  be swift on the face of the waters,Their portion
+        should  be cursed in the earth,So  that no one  would turn into the way of
+        their vineyards."
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: As drought and heat consume the snow waters,So the grave consumes 
+        those  who have sinned.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: The womb should forget him,The worm should feed sweetly on him;He
+        should be remembered no more,And wickedness should be broken like a tree.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: For he preys on the barren who do not bear,And does no good for the
+        widow.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "\u201CBut God draws the mighty away with His power;He rises up, but
+        no man is sure of life."
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: He gives them security, and they rely on  it;Yet His eyes are on their
+        ways.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: They are exalted for a little while,Then they are gone.They are brought
+        low;They are taken out of the way like all others;They dry out like the heads
+        of grain.
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "\u201CNow if it  is not so, who will prove me a liar,And make my
+        speech worth nothing?\u201D"
+      comments: []
+  - verses:
+    - name: '1: Bildad: How Can Man Be Righteous?'
+      title: 'Bildad: How Can Man Be Righteous?'
+      number: 1
+      content: 'Then Bildad the Shuhite answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CDominion and fear belong to Him;He makes peace in His high
+        places."
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Is there any number to His armies?Upon whom does His light not rise?
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: How then can man be righteous before God?Or how can he be pure who 
+        is born of a woman?
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: If even the moon does not shine,And the stars are not pure in His
+        sight,
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "How much less man, who  is  a maggot,And a son of man, who  is a
+        worm?\u201D"
+      comments: []
+  - verses:
+    - name: "1: Job: Man\u2019s Frailty and God\u2019s Majesty"
+      title: "Job: Man\u2019s Frailty and God\u2019s Majesty"
+      number: 1
+      content: 'But Job answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CHow have you helped him  who  is without power?How have you
+        saved the arm that  has no strength?"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: How have you counseled one  who  has no wisdom?And how have you declared
+        sound advice to many?
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: To whom have you uttered words?And whose spirit came from you?
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CThe dead tremble,Those under the waters and those inhabiting
+        them."
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Sheol is naked before Him,And Destruction has no covering.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: He stretches out the north over empty space;He hangs the earth on
+        nothing.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: He binds up the water in His thick clouds,Yet the clouds are not broken
+        under it.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: He covers the face of His throne,And spreads His cloud over it.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: He drew a circular horizon on the face of the waters,At the boundary
+        of light and darkness.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: The pillars of heaven tremble,And are astonished at His rebuke.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: He stirs up the sea with His power,And by His understanding He breaks
+        up the storm.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: By His Spirit He adorned the heavens;His hand pierced the fleeing
+        serpent.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Indeed these are the mere edges of His ways,And how small a whisper
+        we hear of Him!But the thunder of His power who can understand?\u201D"
+      comments: []
+  - verses:
+    - name: '1: Job Maintains His Integrity'
+      title: Job Maintains His Integrity
+      number: 1
+      content: 'Moreover Job continued his discourse, and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CAs God lives, who has taken away my justice,And the Almighty,
+        who has made my soul bitter,"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: As long as my breath is in me,And the breath of God in my nostrils,
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: My lips will not speak wickedness,Nor my tongue utter deceit.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: Far be it from meThat I should say you are right;Till I die I will
+        not put away my integrity from me.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: My righteousness I hold fast, and will not let it go;My heart shall
+        not reproach me as long as I live.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CMay my enemy be like the wicked,And he who rises up against
+        me like the unrighteous."
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: For what is the hope of the hypocrite,Though he may gain much,If God
+        takes away his life?
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: Will God hear his cryWhen trouble comes upon him?
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Will he delight himself in the Almighty?Will he always call on God?
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CI will teach you about the hand of God;What is with the Almighty
+        I will not conceal."
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: Surely all of you have seen it;Why then do you behave with complete
+        nonsense?
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CThis is the portion of a wicked man with God,And the heritage
+        of oppressors, received from the Almighty:"
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: If his children are multiplied, it  is for the sword;And his offspring
+        shall not be satisfied with bread.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Those who survive him shall be buried in death,And their widows shall
+        not weep,
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Though he heaps up silver like dust,And piles up clothing like clay\u2014"
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: He may pile it up, but the just will wear it,And the innocent will
+        divide the silver.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: He builds his house like a moth,Like a booth which a watchman makes.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: The rich man will lie down,But not be gathered up;He opens his eyes,And
+        he is  no more.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Terrors overtake him like a flood;A tempest steals him away in the
+        night.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: The east wind carries him away, and he is gone;It sweeps him out of
+        his place.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: It hurls against him and does not spare;He flees desperately from
+        its power.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: Men shall clap their hands at him,And shall hiss him out of his place.
+      comments: []
+  - verses:
+    - name: "1: Job\u2019s Discourse on Wisdom"
+      title: "Job\u2019s Discourse on Wisdom"
+      number: 1
+      content: "\u201CSurely there is a mine for silver,And a place where gold is
+        refined."
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: Iron is taken from the earth,And copper is smelted from ore.
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Man puts an end to darkness,And searches every recessFor ore in the
+        darkness and the shadow of death.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: He breaks open a shaft away from people;In  places forgotten by feetThey
+        hang far away from men;They swing to and fro.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: As  for the earth, from it comes bread,But underneath it is turned
+        up as by fire;
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Its stones are the source of sapphires,And it contains gold dust.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "That path no bird knows,Nor has the falcon\u2019s eye seen it."
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: The proud lions have not trodden it,Nor has the fierce lion passed
+        over it.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: He puts his hand on the flint;He overturns the mountains at the roots.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: He cuts out channels in the rocks,And his eye sees every precious
+        thing.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: He dams up the streams from trickling;What  is hidden he brings forth
+        to light.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CBut where can wisdom be found?And where is the place of understanding?"
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: Man does not know its value,Nor is it found in the land of the living.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "The deep says, \u2018It is not in me\u2019;And the sea says, \u2018It
+        is not with me.\u2019"
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: It cannot be purchased for gold,Nor can silver be weighed for its
+        price.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: It cannot be valued in the gold of Ophir,In precious onyx or sapphire.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Neither gold nor crystal can equal it,Nor can it be exchanged for
+        jewelry of fine gold.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: No mention shall be made of coral or quartz,For the price of wisdom
+        is above rubies.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: The topaz of Ethiopia cannot equal it,Nor can it be valued in pure
+        gold.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "\u201CFrom where then does wisdom come?And where is the place of
+        understanding?"
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: It is hidden from the eyes of all living,And concealed from the birds
+        of the air.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "Destruction and Death say,\u2018We have heard a report about it with
+        our ears.\u2019"
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: God understands its way,And He knows its place.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: For He looks to the ends of the earth,And  sees under the whole heavens,
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: To establish a weight for the wind,And apportion the waters by measure.
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: When He made a law for the rain,And a path for the thunderbolt,
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: Then He saw wisdom and declared it;He prepared it, indeed, He searched
+        it out.
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "And to man He said,\u2018Behold, the fear of the Lord, that is wisdom,And
+        to depart from evil is understanding.\u2019 \u201D"
+      comments: []
+  - verses:
+    - name: "1: Job\u2019s Summary Defense"
+      title: "Job\u2019s Summary Defense"
+      number: 1
+      content: 'Job further continued his discourse, and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201COh, that I were as in months past,As in the days when God watched
+        over me;"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: When His lamp shone upon my head,And  when by His light I walked through
+        darkness;
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: Just as I was in the days of my prime,When the friendly counsel of
+        God was over my tent;
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: When the Almighty was yet with me,When my children were around me;
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: When my steps were bathed with cream,And the rock poured out rivers
+        of oil for me!
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CWhen I went out to the gate by the city,When I took my seat
+        in the open square,"
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: The young men saw me and hid,And the aged arose and stood;
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: The princes refrained from talking,And put their hand on their mouth;
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: The voice of nobles was hushed,And their tongue stuck to the roof
+        of their mouth.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: When the ear heard, then it blessed me,And when the eye saw, then
+        it approved me;
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: Because I delivered the poor who cried out,The fatherless and the 
+        one  who had no helper.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "The blessing of a perishing man came upon me,And I caused the widow\u2019s
+        heart to sing for joy."
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: I put on righteousness, and it clothed me;My justice was like a robe
+        and a turban.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: I was  eyes to the blind,And I was feet to the lame.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: I was a father to the poor,And I searched out the case that I did
+        not know.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: I broke the fangs of the wicked,And plucked the victim from his teeth.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "\u201CThen I said, \u2018I shall die in my nest,And multiply my days
+        as the sand."
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: My root is spread out to the waters,And the dew lies all night on
+        my branch.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "My glory is fresh within me,And my bow is renewed in my hand.\u2019"
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "\u201CMen listened to me and waited,And kept silence for my counsel."
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: After my words they did not speak again,And my speech settled on them
+        as  dew.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: They waited for me as for the rain,And they opened their mouth wide
+        as for the spring rain.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: If I mocked at them, they did not believe it,And the light of my countenance
+        they did not cast down.
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: I chose the way for them, and sat as chief;So I dwelt as a king in
+        the army,As one who comforts mourners.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "\u201CBut now they mock at me, men younger than I,Whose fathers I
+        disdained to put with the dogs of my flock."
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: Indeed, what profit is the strength of their hands to me?Their vigor
+        has perished.
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: They  are gaunt from want and famine,Fleeing late to the wilderness,
+        desolate and waste,
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: Who pluck mallow by the bushes,And broom tree roots for their food.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: They were driven out from among men,They shouted at them as at a thief.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: They  had to live in the clefts of the valleys,In caves of the earth
+        and the rocks.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: Among the bushes they brayed,Under the nettles they nestled.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: They  were sons of fools,Yes, sons of vile men;They were scourged
+        from the land.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CAnd now I am their taunting song;Yes, I am their byword."
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: They abhor me, they keep far from me;They do not hesitate to spit
+        in my face.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Because He has loosed my bowstring and afflicted me,They have cast
+        off restraint before me.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: At my right hand the rabble arises;They push away my feet,And they
+        raise against me their ways of destruction.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: They break up my path,They promote my calamity;They have no helper.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: They come as broad breakers;Under the ruinous storm they roll along.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Terrors are turned upon me;They pursue my honor as the wind,And my
+        prosperity has passed like a cloud.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "\u201CAnd now my soul is poured out because of my plight;The days
+        of affliction take hold of me."
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: My bones are pierced in me at night,And my gnawing pains take no rest.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: By great force my garment is disfigured;It binds me about as the collar
+        of my coat.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: He has cast me into the mire,And I have become like dust and ashes.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "\u201CI cry out to You, but You do not answer me;I stand up, and
+        You regard me."
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: But You have become cruel to me;With the strength of Your hand You
+        oppose me.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: You lift me up to the wind and cause me to ride on  it;You spoil my
+        success.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: For I know that You will bring me to death,And to the house appointed
+        for all living.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "\u201CSurely He would not stretch out His hand against a heap of
+        ruins,If they cry out when He destroys it."
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: Have I not wept for him who was in trouble?Has not my soul grieved
+        for the poor?
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: But when I looked for good, evil came to  me;And when I waited for
+        light, then came darkness.
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: My heart is in turmoil and cannot rest;Days of affliction confront
+        me.
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: I go about mourning, but not in the sun;I stand up in the assembly
+        and cry out for help.
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: I am a brother of jackals,And a companion of ostriches.
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: My skin grows black and falls from me;My bones burn with fever.
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: My harp is turned to mourning,And my flute to the voice of those who
+        weep.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "\u201CI have made a covenant with my eyes;Why then should I look
+        upon a young woman?"
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: For what is the allotment of God from above,And the inheritance of
+        the Almighty from on high?
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Is it not destruction for the wicked,And disaster for the workers
+        of iniquity?
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: Does He not see my ways,And count all my steps?
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CIf I have walked with falsehood,Or if my foot has hastened
+        to deceit,"
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Let me be weighed on honest scales,That God may know my integrity.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: If my step has turned from the way,Or my heart walked after my eyes,Or
+        if any spot adheres to my hands,
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: Then  let me sow, and another eat;Yes, let my harvest be rooted out.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CIf my heart has been enticed by a woman,Or if I have lurked
+        at my neighbor\u2019s door,"
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Then let my wife grind for another,And let others bow down over her.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: For that would  be wickedness;Yes, it would  be iniquity deserving 
+        of judgment.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: For that would  be a fire that consumes to destruction,And would root
+        out all my increase.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CIf I have despised the cause of my male or female servantWhen
+        they complained against me,"
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: What then shall I do when God rises up?When He punishes, how shall
+        I answer Him?
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Did not He who made me in the womb make them?Did not the same One
+        fashion us in the womb?
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "\u201CIf I have kept the poor from their desire,Or caused the eyes
+        of the widow to fail,"
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Or eaten my morsel by myself,So that the fatherless could not eat
+        of it
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "(But from my youth I reared him as a father,And from my mother\u2019s
+        womb I guided the  widow);"
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: If I have seen anyone perish for lack of clothing,Or any poor man
+        without covering;
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: If his heart has not blessed me,And if he was not warmed with the
+        fleece of my sheep;
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: If I have raised my hand against the fatherless,When I saw I had help
+        in the gate;
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: Then let my arm fall from my shoulder,Let my arm be torn from the
+        socket.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: For destruction from God is a terror to me,And because of His magnificence
+        I cannot endure.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "\u201CIf I have made gold my hope,Or said to fine gold, \u2018You 
+        are my confidence\u2019;"
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: If I have rejoiced because my wealth was great,And because my hand
+        had gained much;
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: If I have observed the sun when it shines,Or the moon moving in brightness,
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: So that my heart has been secretly enticed,And my mouth has kissed
+        my hand;
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: This also would  be an iniquity deserving  of judgment,For I would
+        have denied God who  is above.
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "\u201CIf I have rejoiced at the destruction of him who hated me,Or
+        lifted myself up when evil found him"
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: (Indeed I have not allowed my mouth to sinBy asking for a curse on
+        his soul);
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: "If the men of my tent have not said,\u2018Who is there that has not
+        been satisfied with his meat?\u2019"
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: (But no sojourner had to lodge in the street,For I have opened my
+        doors to the traveler);
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: If I have covered my transgressions as Adam,By hiding my iniquity
+        in my bosom,
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: "Because I feared the great multitude,And dreaded the contempt of
+        families,So that I kept silenceAnd did not go out of the door\u2014"
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: Oh, that I had one to hear me!Here is my mark.Oh, that the Almighty
+        would answer me,That my Prosecutor had written a book!
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: Surely I would carry it on my shoulder,And bind it on me like a crown;
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: I would declare to Him the number of my steps;Like a prince I would
+        approach Him.
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: "\u201CIf my land cries out against me,And its furrows weep together;"
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: If I have eaten its fruit without money,Or caused its owners to lose
+        their lives;
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: "Then let thistles grow instead of wheat,And weeds instead of barley.\u201DThe
+        words of Job are ended."
+      comments: []
+  - verses:
+    - name: "1: Elihu Contradicts Job\u2019s Friends"
+      title: "Elihu Contradicts Job\u2019s Friends"
+      number: 1
+      content: 'So these three men ceased answering Job, because he was  righteous
+        in his own eyes. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Then the wrath of Elihu, the son of Barachel the Buzite, of the family
+        of Ram, was aroused against Job; his wrath was aroused because he justified
+        himself rather than God. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Also against his three friends his wrath was aroused, because they
+        had found no answer, and yet had condemned Job.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Now because they were years older than he, Elihu had waited to speak
+        to Job. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: When Elihu saw that there  was no answer in the mouth of these three
+        men, his wrath was aroused.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "So Elihu, the son of Barachel the Buzite, answered and said:\u201CI
+        am  young in years, and you are very old;Therefore I was afraid,And dared
+        not declare my opinion to you."
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "I said, \u2018Age should speak,And multitude of years should teach
+        wisdom.\u2019"
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: But there  is a spirit in man,And the breath of the Almighty gives
+        him understanding.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: Great men are not always wise,Nor do the aged always understand justice.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201CTherefore I say, \u2018Listen to me,I also will declare my
+        opinion.\u2019"
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Indeed I waited for your words,I listened to your reasonings, while
+        you searched out what to say.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "I paid close attention to you;And surely not one of you convinced
+        Job,Or answered his words\u2014"
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Lest you say,\u2018We have found wisdom\u2019;God will vanquish him,
+        not man."
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: Now he has not directed his words against me;So I will not answer
+        him with your words.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "\u201CThey are dismayed and answer no more;Words escape them."
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: And I have waited, because they did not speak,Because they stood still
+        and answered no more.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: I also will answer my part,I too will declare my opinion.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: For I am full of words;The spirit within me compels me.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: Indeed my belly is like wine that has no vent;It is ready to burst
+        like new wineskins.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: I will speak, that I may find relief;I must open my lips and answer.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: Let me not, I pray, show partiality to anyone;Nor let me flatter any
+        man.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: For I do not know how to flatter,Else my Maker would soon take me
+        away.
+      comments: []
+  - verses:
+    - name: '1: Elihu Contradicts Job'
+      title: Elihu Contradicts Job
+      number: 1
+      content: "\u201CBut please, Job, hear my speech,And listen to all my words."
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: Now, I open my mouth;My tongue speaks in my mouth.
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: My words come from my upright heart;My lips utter pure knowledge.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: The Spirit of God has made me,And the breath of the Almighty gives
+        me life.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: If you can answer me,Set your  words in order before me;Take your
+        stand.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Truly I am as your spokesman before God;I also have been formed out
+        of clay.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: Surely no fear of me will terrify you,Nor will my hand be heavy on
+        you.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CSurely you have spoken in my hearing,And I have heard the sound
+        of your words, saying,"
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u2018I  am pure, without transgression;I am innocent, and there 
+        is no iniquity in me."
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Yet He finds occasions against me,He counts me as His enemy;
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "He puts my feet in the stocks,He watches all my paths.\u2019"
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CLook, in this you are not righteous.I will answer you,For God
+        is greater than man."
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: Why do you contend with Him?For He does not give an accounting of
+        any of His words.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: For God may speak in one way, or in another,Yet  man does not perceive
+        it.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: In a dream, in a vision of the night,When deep sleep falls upon men,While
+        slumbering on their beds,
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: Then He opens the ears of men,And seals their instruction.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: In order to turn man from  his deed,And conceal pride from man,
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: He keeps back his soul from the Pit,And his life from perishing by
+        the sword.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "\u201CMan is also chastened with pain on his bed,And with strong
+        pain in many of his bones,"
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: So that his life abhors bread,And his soul succulent food.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: His flesh wastes away from sight,And his bones stick out which  once
+        were not seen.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: Yes, his soul draws near the Pit,And his life to the executioners.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "\u201CIf there is a messenger for him,A mediator, one among a thousand,To
+        show man His uprightness,"
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "Then He is gracious to him, and says,\u2018Deliver him from going
+        down to the Pit;I have found a ransom\u2019;"
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "His flesh shall be young like a child\u2019s,He shall return to the
+        days of his youth."
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: He shall pray to God, and He will delight in him,He shall see His
+        face with joy,For He restores to man His righteousness.
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "Then he looks at men and says,\u2018I have sinned, and perverted
+        what  was right,And it did not profit me.\u2019"
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: He will redeem his soul from going down to the Pit,And his life shall
+        see the light.
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "\u201CBehold, God works all these things,Twice, in  fact, three times
+        with a man,"
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: To bring back his soul from the Pit,That he may be enlightened with
+        the light of life.
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: "\u201CGive ear, Job, listen to me;Hold your peace, and I will speak."
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: If you have anything to say, answer me;Speak, for I desire to justify
+        you.
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: "If not, listen to me;Hold your peace, and I will teach you wisdom.\u201D"
+      comments: []
+  - verses:
+    - name: "1: Elihu Proclaims God\u2019s Justice"
+      title: "Elihu Proclaims God\u2019s Justice"
+      number: 1
+      content: 'Elihu further answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CHear my words, you wise men;Give ear to me, you who have knowledge."
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: For the ear tests wordsAs the palate tastes food.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: Let us choose justice for ourselves;Let us know among ourselves what
+        is good.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CFor Job has said, \u2018I am righteous,But God has taken away
+        my justice;"
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Should I lie concerning my right?My wound is incurable, though  I 
+        am without transgression.\u2019"
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: What man is like Job,Who drinks scorn like water,
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: Who goes in company with the workers of iniquity,And walks with wicked
+        men?
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "For he has said, \u2018It profits a man nothingThat he should delight
+        in God.\u2019"
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201CTherefore listen to me, you men of understanding:Far be it
+        from God to  do wickedness,And from the Almighty to commit iniquity."
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: For He repays man according  to his work,And makes man to find a reward
+        according to his way.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: Surely God will never do wickedly,Nor will the Almighty pervert justice.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: Who gave Him charge over the earth?Or who appointed Him  over the
+        whole world?
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: If He should set His heart on it,If He should gather to Himself His
+        Spirit and His breath,
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: All flesh would perish together,And man would return to dust.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "\u201CIf you  have understanding, hear this;Listen to the sound of
+        my words:"
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Should one who hates justice govern?Will you condemn Him  who  is
+        most just?
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "Is  it  fitting to say to a king, \u2018You  are worthless,\u2019And
+        to nobles, \u2018You  are wicked\u2019?"
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: Yet He is not partial to princes,Nor does He regard the rich more
+        than the poor;For they are all the work of His hands.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: In a moment they die, in the middle of the night;The people are shaken
+        and pass away;The mighty are taken away without a hand.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "\u201CFor His eyes are on the ways of man,And He sees all his steps."
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: There is no darkness nor shadow of deathWhere the workers of iniquity
+        may hide themselves.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: For He need not further consider a man,That he should go before God
+        in judgment.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: He breaks in pieces mighty men without inquiry,And sets others in
+        their place.
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: Therefore He knows their works;He overthrows them in the night,And
+        they are crushed.
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: He strikes them as wicked menIn the open sight of others,
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: Because they turned back from Him,And would not consider any of His
+        ways,
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: So that they caused the cry of the poor to come to Him;For He hears
+        the cry of the afflicted.
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "When He gives quietness, who then can make trouble?And when He hides
+        His face, who then can see Him,Whether it  is against a nation or a man alone?\u2014"
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: That the hypocrite should not reign,Lest the people be ensnared.
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: "\u201CFor has anyone said to God,\u2018I have borne chastening;I
+        will offend no more;"
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: "Teach me what I do not see;If I have done iniquity, I will do no
+        more\u2019?"
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: Should He repay it according to your terms,Just because you disavow
+        it?You must choose, and not I;Therefore speak what you know.
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: "\u201CMen of understanding say to me,Wise men who listen to me:"
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: "\u2018Job speaks without knowledge,His words are without wisdom.\u2019"
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: Oh, that Job were tried to the utmost,Because his answers are  like
+        those of wicked men!
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: "For he adds rebellion to his sin;He claps his  hands among us,And
+        multiplies his words against God.\u201D"
+      comments: []
+  - verses:
+    - name: '1: Elihu Condemns Self-Righteousness'
+      title: Elihu Condemns Self-Righteousness
+      number: 1
+      content: 'Moreover Elihu answered and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CDo you think this is right?Do you say,\u2018My righteousness
+        is more than God\u2019s\u2019?"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "For you say,\u2018What advantage will it be to You?What profit shall
+        I have, more than if I had sinned?\u2019"
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CI will answer you,And your companions with you."
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Look to the heavens and see;And behold the clouds\u2014They are higher
+        than you."
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: If you sin, what do you accomplish against Him?Or, if your transgressions
+        are multiplied, what do you do to Him?
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: If you are righteous, what do you give Him?Or what does He receive
+        from your hand?
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: Your wickedness affects a man such as you,And your righteousness a
+        son of man.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CBecause of the multitude of oppressions they cry out;They cry
+        out for help because of the arm of the mighty."
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "But no one says, \u2018Where is God my Maker,Who gives songs in the
+        night,"
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Who teaches us more than the beasts of the earth,And makes us wiser
+        than the birds of heaven?\u2019"
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: There they cry out, but He does not answer,Because of the pride of
+        evil men.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: Surely God will not listen to empty talk,Nor will the Almighty regard
+        it.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: Although you say you do not see Him,Yet justice is before Him, and
+        you must wait for Him.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: And now, because He has not punished in His anger,Nor taken much notice
+        of folly,
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Therefore Job opens his mouth in vain;He multiplies words without
+        knowledge.\u201D"
+      comments: []
+  - verses:
+    - name: "1: Elihu Proclaims God\u2019s Goodness"
+      title: "Elihu Proclaims God\u2019s Goodness"
+      number: 1
+      content: 'Elihu also proceeded and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CBear with me a little, and I will show youThat there  are yet
+        words to speak on God\u2019s behalf."
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: I will fetch my knowledge from afar;I will ascribe righteousness to
+        my Maker.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: For truly my words are not false;One who is perfect in knowledge is
+        with you.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CBehold, God is mighty, but despises no  one;He  is mighty in
+        strength of understanding."
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: He does not preserve the life of the wicked,But gives justice to the
+        oppressed.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: He does not withdraw His eyes from the righteous;But they  are on
+        the throne with kings,For He has seated them forever,And they are exalted.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: And if they  are bound in fetters,Held in the cords of affliction,
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Then He tells them their work and their transgressions\u2014That
+        they have acted defiantly."
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: He also opens their ear to instruction,And commands that they turn
+        from iniquity.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: If they obey and serve Him,They shall spend their days in prosperity,And
+        their years in pleasures.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: But if they do not obey,They shall perish by the sword,And they shall
+        die without knowledge.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CBut the hypocrites in heart store up wrath;They do not cry
+        for help when He binds them."
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: They die in youth,And their life ends among the perverted persons.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: He delivers the poor in their affliction,And opens their ears in oppression.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "\u201CIndeed He would have brought you out of dire distress,Into
+        a broad place where there  is no restraint;And what is set on your table
+        would  be full of richness."
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: But you are filled with the judgment due the wicked;Judgment and justice
+        take hold of  you.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: Because there  is wrath, beware lest He take you away with one blow;For
+        a large ransom would not help you avoid it.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: Will your riches,Or all the mighty forces,Keep you from distress?
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Do not desire the night,When people are cut off in their place.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: Take heed, do not turn to iniquity,For you have chosen this rather
+        than affliction.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "\u201CBehold, God is exalted by His power;Who teaches like Him?"
+      comments: []
+    - name: "23: Elihu Proclaims God\u2019s Majesty"
+      title: "Elihu Proclaims God\u2019s Majesty"
+      number: 23
+      content: "Who has assigned Him His way,Or who has said, \u2018You have done
+        wrong\u2019?"
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "\u201CRemember to magnify His work,Of which men have sung."
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: Everyone has seen it;Man looks on it from afar.
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "\u201CBehold, God is great, and we do not know Him;Nor can the number
+        of His years be discovered."
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: For He draws up drops of water,Which distill as rain from the mist,
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: Which the clouds drop downAnd pour abundantly on man.
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: Indeed, can anyone understand the spreading of clouds,The thunder
+        from His canopy?
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: Look, He scatters His light upon it,And covers the depths of the sea.
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: For by these He judges the peoples;He gives food in abundance.
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: He covers His hands with lightning,And commands it to strike.
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: His thunder declares it,The cattle also, concerning the rising storm.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "\u201CAt this also my heart trembles,And leaps from its place."
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: Hear attentively the thunder of His voice,And the rumbling that comes
+        from His mouth.
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: He sends it forth under the whole heaven,His lightning to the ends
+        of the earth.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: After it a voice roars;He thunders with His majestic voice,And He
+        does not restrain them when His voice is heard.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: God thunders marvelously with His voice;He does great things which
+        we cannot comprehend.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "For He says to the snow, \u2018Fall on the earth\u2019;Likewise to
+        the gentle rain and the heavy rain of His strength."
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: He seals the hand of every man,That all men may know His work.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: The beasts go into dens,And remain in their lairs.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: From the chamber of  the  south comes the whirlwind,And cold from
+        the scattering winds of  the  north.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: By the breath of God ice is given,And the broad waters are frozen.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Also with moisture He saturates the thick clouds;He scatters His bright
+        clouds.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: And they swirl about, being turned by His guidance,That they may do
+        whatever He commands themOn the face of the whole earth.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: He causes it to come,Whether for correction,Or for His land,Or for
+        mercy.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201CListen to this, O Job;Stand still and consider the wondrous
+        works of God."
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Do you know when God dispatches them,And causes the light of His cloud
+        to shine?
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: Do you know how the clouds are balanced,Those wondrous works of Him
+        who is perfect in knowledge?
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Why are your garments hot,When He quiets the earth by the south wind?
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: With Him, have you spread out the skies,Strong as a cast metal mirror?
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "\u201CTeach us what we should say to Him,For we can prepare nothing
+        because of the darkness."
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Should He be told that I wish  to speak?If a man were to speak, surely
+        he would be swallowed up.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: Even now men cannot look at the light when  it  is bright in the skies,When
+        the wind has passed and cleared them.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: He comes from the north as golden splendor;With God is awesome majesty.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: As  for the Almighty, we cannot find Him;He  is excellent in power,In
+        judgment and abundant justice;He does not oppress.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "Therefore men fear Him;He shows no partiality to any who  are  wise
+        of heart.\u201D"
+      comments: []
+  - verses:
+    - name: '1: The Lord Reveals His Omnipotence to Job'
+      title: The Lord Reveals His Omnipotence to Job
+      number: 1
+      content: 'Then the Lord answered Job out of the whirlwind, and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CWho  is this who darkens counselBy words without knowledge?"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Now prepare yourself like a man;I will question you, and you shall
+        answer Me.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CWhere were you when I laid the foundations of the earth?Tell
+        Me, if you have understanding."
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: Who determined its measurements?Surely you know!Or who stretched the
+        line upon it?
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: To what were its foundations fastened?Or who laid its cornerstone,
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: When the morning stars sang together,And all the sons of God shouted
+        for joy?
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201COr  who shut in the sea with doors,When it burst forth and
+        issued from the womb;"
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: When I made the clouds its garment,And thick darkness its swaddling
+        band;
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: When I fixed My limit for it,And set bars and doors;
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "When I said,\u2018This far you may come, but no farther,And here
+        your proud waves must stop!\u2019"
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CHave you commanded the morning since your days began,And caused
+        the dawn to know its place,"
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: That it might take hold of the ends of the earth,And the wicked be
+        shaken out of it?
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: It takes on form like clay under a seal,And stands out like a garment.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: From the wicked their light is withheld,And the upraised arm is broken.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "\u201CHave you entered the springs of the sea?Or have you walked
+        in search of the depths?"
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Have the gates of death been revealed to you?Or have you seen the
+        doors of the shadow of death?
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: Have you comprehended the breadth of the earth?Tell Me, if you know
+        all this.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "\u201CWhere is the way to the dwelling of light?And darkness, where
+        is its place,"
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: That you may take it to its territory,That you may know the paths
+        to its home?
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: Do you know it, because you were born then,Or because the number of
+        your days is great?
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "\u201CHave you entered the treasury of snow,Or have you seen the
+        treasury of hail,"
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: Which I have reserved for the time of trouble,For the day of battle
+        and war?
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: By what way is light diffused,Or the east wind scattered over the
+        earth?
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "\u201CWho has divided a channel for the overflowing water,Or a path
+        for the thunderbolt,"
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: To cause it to rain on a land where  there  is no one,A wilderness
+        in which there  is no man;
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: To satisfy the desolate waste,And cause to spring forth the growth
+        of tender grass?
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: Has the rain a father?Or who has begotten the drops of dew?
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: From whose womb comes the ice?And the frost of heaven, who gives it
+        birth?
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: The waters harden like stone,And the surface of the deep is frozen.
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: "\u201CCan you bind the cluster of the Pleiades,Or loose the belt
+        of Orion?"
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: Can you bring out Mazzaroth in its season?Or can you guide the Great
+        Bear with its cubs?
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: Do you know the ordinances of the heavens?Can you set their dominion
+        over the earth?
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: "\u201CCan you lift up your voice to the clouds,That an abundance
+        of water may cover you?"
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: "Can you send out lightnings, that they may go,And say to you, \u2018Here
+        we are!\u2019?"
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: Who has put wisdom in the mind?Or who has given understanding to the
+        heart?
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: Who can number the clouds by wisdom?Or who can pour out the bottles
+        of heaven,
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: When the dust hardens in clumps,And the clods cling together?
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: "\u201CCan you hunt the prey for the lion,Or satisfy the appetite
+        of the young lions,"
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: When they crouch in their dens,Or lurk in their lairs to lie in wait?
+      comments: []
+    - name: '41: '
+      title: 
+      number: 41
+      content: Who provides food for the raven,When its young ones cry to God,And
+        wander about for lack of food?
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "\u201CDo you know the time when the wild mountain goats bear young?Or
+        can you mark when the deer gives birth?"
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: Can you number the months that they fulfill?Or do you know the time
+        when they bear young?
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: They bow down,They bring forth their young,They deliver their offspring.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: Their young ones are healthy,They grow strong with grain;They depart
+        and do not return to them.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CWho set the wild donkey free?Who loosed the bonds of the onager,"
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Whose home I have made the wilderness,And the barren land his dwelling?
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: He scorns the tumult of the city;He does not heed the shouts of the
+        driver.
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: The range of the mountains is his pasture,And he searches after every
+        green thing.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CWill the wild ox be willing to serve you?Will he bed by your
+        manger?"
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Can you bind the wild ox in the furrow with ropes?Or will he plow
+        the valleys behind you?
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Will you trust him because his strength is great?Or will you leave
+        your labor to him?
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: Will you trust him to bring home your grain,And gather it to your
+        threshing floor?
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CThe wings of the ostrich wave proudly,But are her wings and
+        pinions like  the kindly stork\u2019s?"
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: For she leaves her eggs on the ground,And warms them in the dust;
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: She forgets that a foot may crush them,Or that a wild beast may break
+        them.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: She treats her young harshly, as though they  were not hers;Her labor
+        is in vain, without concern,
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Because God deprived her of wisdom,And did not endow her with understanding.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: When she lifts herself on high,She scorns the horse and its rider.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "\u201CHave you given the horse strength?Have you clothed his neck
+        with thunder?"
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Can you frighten him like a locust?His majestic snorting strikes terror.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: He paws in the valley, and rejoices in his strength;He gallops into
+        the clash of arms.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: He mocks at fear, and is not frightened;Nor does he turn back from
+        the sword.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: The quiver rattles against him,The glittering spear and javelin.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: He devours the distance with fierceness and rage;Nor does he come
+        to a halt because the trumpet has sounded.
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "At the  blast  of the trumpet he says, \u2018Aha!\u2019He smells
+        the battle from afar,The thunder of captains and shouting."
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "\u201CDoes the hawk fly by your wisdom,And spread its wings toward
+        the south?"
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: Does the eagle mount up at your command,And make its nest on high?
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: On the rock it dwells and resides,On the crag of the rock and the
+        stronghold.
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: From there it spies out the prey;Its eyes observe from afar.
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: "Its young ones suck up blood;And where the slain are, there it is.\u201D"
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: 'Moreover the Lord  answered Job, and said:'
+      comments: []
+    - name: "2: Job\u2019s Response to God"
+      title: "Job\u2019s Response to God"
+      number: 2
+      content: "\u201CShall the one who contends with the Almighty correct Him?He
+        who rebukes God, let him answer it.\u201D"
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Then Job answered the Lord and said:'
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CBehold, I am vile;What shall I answer You?I lay my hand over
+        my mouth."
+      comments: []
+    - name: "5: God\u2019s Challenge to Job"
+      title: "God\u2019s Challenge to Job"
+      number: 5
+      content: "Once I have spoken, but I will not answer;Yes, twice, but I will
+        proceed no further.\u201D"
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Then the Lord answered Job out of the whirlwind, and said:'
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CNow prepare yourself like a man;I will question you, and you
+        shall answer Me:"
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CWould you indeed annul My judgment?Would you condemn Me that
+        you may be justified?"
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: Have you an arm like God?Or can you thunder with a voice like His?
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Then adorn yourself with majesty and splendor,And array yourself with
+        glory and beauty.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Disperse the rage of your wrath;Look on everyone who  is proud, and
+        humble him.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: Look on everyone who  is  proud, and bring him low;Tread down the
+        wicked in their place.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: Hide them in the dust together,Bind their faces in hidden darkness.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: Then I will also confess to youThat your own right hand can save you.
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "\u201CLook now at the behemoth, which I made along with you;He eats
+        grass like an ox."
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: See now, his strength is in his hips,And his power is in his stomach
+        muscles.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: He moves his tail like a cedar;The sinews of his thighs are tightly
+        knit.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: His bones are  like beams of bronze,His ribs like bars of iron.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: He is the first of the ways of God;Only He who made him can bring
+        near His sword.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Surely the mountains yield food for him,And all the beasts of the
+        field play there.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: He lies under the lotus trees,In a covert of reeds and marsh.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: The lotus trees cover him with their shade;The willows by the brook
+        surround him.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: Indeed the river may rage,Yet he is not disturbed;He is confident,
+        though the Jordan gushes into his mouth,
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: Though he takes it in his eyes,Or one pierces his nose with a snare.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "\u201CCan you draw out Leviathan with a hook,Or snare his tongue
+        with a line which you lower?"
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: Can you put a reed through his nose,Or pierce his jaw with a hook?
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Will he make many supplications to you?Will he speak softly to you?
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: Will he make a covenant with you?Will you take him as a servant forever?
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: Will you play with him as with a bird,Or will you leash him for your
+        maidens?
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: Will your companions make a banquet of him?Will they apportion him
+        among the merchants?
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: Can you fill his skin with harpoons,Or his head with fishing spears?
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Lay your hand on him;Remember the battle\u2014Never do it again!"
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: Indeed, any hope of overcoming him is false;Shall one  not be overwhelmed
+        at the sight of him?
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: No one is  so fierce that he would dare stir him up.Who then is able
+        to stand against Me?
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Who has preceded Me, that I should pay him?Everything under heaven
+        is Mine.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CI will not conceal his limbs,His mighty power, or his graceful
+        proportions."
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: Who can remove his outer coat?Who can approach him with a double bridle?
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: Who can open the doors of his face,With his terrible teeth all around?
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: His rows of scales are his pride,Shut up tightly as  with a seal;
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: One is so near anotherThat no air can come between them;
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: They are joined one to another,They stick together and cannot be parted.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: His sneezings flash forth light,And his eyes are like the eyelids
+        of the morning.
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: Out of his mouth go burning lights;Sparks of fire shoot out.
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Smoke goes out of his nostrils,As from a boiling pot and burning rushes.
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: His breath kindles coals,And a flame goes out of his mouth.
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: Strength dwells in his neck,And sorrow dances before him.
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: The folds of his flesh are joined together;They are firm on him and
+        cannot be moved.
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: His heart is as hard as stone,Even as hard as the lower millstone.
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: When he raises himself up, the mighty are afraid;Because of his crashings
+        they are beside themselves.
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: Though the sword reaches him, it cannot avail;Nor does spear, dart,
+        or javelin.
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: He regards iron as straw,And bronze as rotten wood.
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: The arrow cannot make him flee;Slingstones become like stubble to
+        him.
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: Darts are regarded as straw;He laughs at the threat of javelins.
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: His undersides are like sharp potsherds;He spreads pointed marks in
+        the mire.
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: He makes the deep boil like a pot;He makes the sea like a pot of ointment.
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: He leaves a shining wake behind him;One would think the deep had white
+        hair.
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: On earth there is nothing like him,Which is made without fear.
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: "He beholds every high thing;He is king over all the children of pride.\u201D"
+      comments: []
+  - verses:
+    - name: "1: Job\u2019s Repentance and Restoration"
+      title: "Job\u2019s Repentance and Restoration"
+      number: 1
+      content: 'Then Job answered the Lord and said:'
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CI know that You can do everything,And that no purpose of  Yours
+        can be withheld from You."
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "You  asked,  \u2018Who is this who hides counsel without knowledge?\u2019Therefore
+        I have uttered what I did not understand,Things too wonderful for me, which
+        I did not know."
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Listen, please, and let me speak;You  said,  \u2018I will question
+        you, and you shall answer Me.\u2019"
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CI have heard of You by the hearing of the ear,But now my eye
+        sees You."
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Therefore I abhor myself,And repent in dust and ashes.\u201D"
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "And so it was, after the Lord had spoken these words to Job, that
+        the Lord said to Eliphaz the Temanite, \u201CMy wrath is aroused against
+        you and your two friends, for you have not spoken of Me what  is right, as
+        My servant Job has.  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Now therefore, take for yourselves seven bulls and seven rams, go
+        to My servant Job, and offer up for yourselves a burnt offering; and My servant
+        Job shall pray for you. For I will accept him, lest I deal with you according 
+        to  your folly; because you have not spoken of Me what  is right, as My servant
+        Job has.\u201D"
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite
+        went and did as the Lord commanded them; for the Lord had accepted Job. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "And the Lord restored Job\u2019s losses when he prayed for his friends.
+        Indeed the Lord gave Job twice as much as he had before. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Then all his brothers, all his sisters, and all those who had been
+        his acquaintances before, came to him and ate food with him in his house;
+        and they consoled him and comforted him for all the adversity that the Lord
+        had brought upon him. Each one gave him a piece of silver and each a ring
+        of gold.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Now the Lord blessed the latter days of Job more than his beginning;
+        for he had fourteen thousand sheep, six thousand camels, one thousand yoke
+        of oxen, and one thousand female donkeys. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'He also had seven sons and three daughters. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And he called the name of the first Jemimah, the name of the second
+        Keziah, and the name of the third Keren-Happuch. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: In all the land were found no women so beautiful as the daughters
+        of Job; and their father gave them an inheritance among their brothers.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'After this Job lived one hundred and forty years, and saw his children
+        and grandchildren for four generations. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: So Job died, old and full of days.
+      comments: []

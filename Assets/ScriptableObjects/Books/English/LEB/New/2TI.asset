@@ -1,0 +1,526 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: 2TI
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 2 Timothy
+  fancyName: 
+  nickname: 2ti
+  version: {fileID: 11400000, guid: d0ec49142d5c7c24fb05ee739840cab0, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Greeting'
+      title: Greeting
+      number: 1
+      content: ' Paul, an apostle of Christ Jesus through the will of God, according
+        to the promise of life which is in Christ Jesus, '
+      comments: []
+    - name: "2: Timothy\u2019s Spiritual Heritage"
+      title: "Timothy\u2019s Spiritual Heritage"
+      number: 2
+      content: 'to Timothy, my dear child. Grace, mercy, and peace from God the Father
+        and Christ Jesus our Lord. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'I am thankful to God, whom I have served with a clear conscience
+        as my ancestors did, when I remember you constantly in my prayers night and
+        day, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'longing to see you as I remember your tears, so that I may be filled
+        with joy, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'remembering the sincere faith in you, which lived first in your grandmother
+        Lois and your mother Eunice, and I am convinced that is in you also, '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'for which reason I remind you to rekindle the gift of God that is
+        in you through the laying on of my hands. '
+      comments: []
+    - name: "7: Exhortation to Share Paul\u2019s Suffering"
+      title: "Exhortation to Share Paul\u2019s Suffering"
+      number: 7
+      content: 'For God has not given us a spirit of cowardice, but of power and
+        love and self-discipline. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Therefore, do not be ashamed of the testimony about our Lord, nor
+        me his prisoner, but suffer along with me for the gospel, according to the
+        power of God, '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'who saved us and called us with a holy calling, not according to
+        our works but according to his own purpose and grace that was given to us
+        in Christ Jesus before time began, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'but has now been disclosed by the appearing of our Savior Jesus Christ,
+        who has abolished death and brought to light life and immortality through
+        the gospel, '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'for which I was appointed a proclaimer and an apostle and a teacher, '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'for which reason also I suffer these things. But I am not ashamed,
+        because I know in whom I have believed, and I am convinced that he is able
+        to guard what I have entrusted until that day. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Hold fast to the pattern of sound words which you heard from me,
+        in the faith and love that are in Christ Jesus. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Guard the good deposit through the Holy Spirit who lives in us. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'You know this, that all those in Asia turned away from me, among
+        whom are Phygelus and Hermogenes. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'May the Lord grant mercy to the household of Onesiphorus, because
+        he refreshed me many times, and was not ashamed of my imprisonment, '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'but when he was in Rome, he diligently sought me and found me. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'May the Lord grant him to find mercy from the Lord in that day! And
+        how much he served me in Ephesus you know very well. '
+      comments: []
+  - verses:
+    - name: '1: Exhortation to Be Strong in Grace'
+      title: Exhortation to Be Strong in Grace
+      number: 1
+      content: ' You, therefore, my child, be strong in the grace that is in Christ
+        Jesus, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'and the things which you have heard from me in the presence of many
+        witnesses, entrust these things to faithful people who will be competent
+        to teach others also. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Suffer together with me as a good soldier of Christ Jesus. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'No one who serves as a soldier is entangled in the activities of
+        everyday life, so that he may please the one who enlisted him. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And also if anyone competes he is not crowned unless he competes
+        according to the rules. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The farmer who works hard must be the first to receive a share of
+        the crops. '
+      comments: []
+    - name: '7: A Trustworthy Saying'
+      title: A Trustworthy Saying
+      number: 7
+      content: 'Consider what I am saying, for the Lord will grant you understanding
+        in all these things. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Remember Jesus Christ, raised from the dead, a descendant of David
+        according to my gospel, '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'in connection with which I suffer misfortune to the point of imprisonment
+        as a criminal, but the word of God is not bound. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Because of this, I endure all things for the sake of the chosen,
+        in order that they also may obtain salvation which is in Christ Jesus with
+        eternal glory. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The saying is trustworthy: For if we died with him, we will also
+        live with him; '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'if we endure, we will also reign with him; if we deny him, he also
+        will deny us; '
+      comments: []
+    - name: '13: A Worker Approved to God and Not Ashamed'
+      title: A Worker Approved to God and Not Ashamed
+      number: 13
+      content: "if we are unfaithful, he remains faithful\u2014he cannot deny himself.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Remind people of these things, solemnly urging them before the Lord
+        not to dispute about words. This is in no way beneficial and leads to the
+        ruin of the hearers. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Make every effort to present yourself approved to God, a worker having
+        no need to be ashamed, guiding the word of truth along a straight path. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'But avoid pointless chatter, for it will progress to greater ungodliness, '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'and their message will spread like gangrene, among whom are Hymenaeus
+        and Philetus, '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'who have deviated concerning the truth by saying the resurrection
+        has already taken place, and they are upsetting the faith of some. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "However, the solid foundation of God stands firm, having this seal:
+        \u201CThe Lord knows those who are his,\u201D and \u201CEveryone who names
+        the name of the Lord must abstain from unrighteousness.\u201D "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Now in a great house there are not only gold and silver vessels,
+        but also wooden and earthenware ones, some of which are for honorable use,
+        and some of which are for ordinary use. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Therefore, if someone cleanses himself from these things, he will
+        be a vessel for honorable use, set apart, useful to the Master, prepared
+        for every good work. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'But flee from youthful desires, and pursue righteousness, faith,
+        love, and peace, in company with those who call upon the Lord from a pure
+        heart. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'But avoid foolish and uninformed controversies, because you know
+        that they produce quarrels. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'And the slave of the Lord must not quarrel, but be kind toward everyone,
+        skillful in teaching, tolerant, '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'correcting those who are opposed with gentleness, seeing whether
+        perhaps God may grant them repentance to a knowledge of the truth, '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'and they will come to their senses again and escape from the trap
+        of the devil, being held captive by him to do his will. '
+      comments: []
+  - verses:
+    - name: '1: Difficult Times Ahead in the Last Days'
+      title: Difficult Times Ahead in the Last Days
+      number: 1
+      content: ' But know this, that in the last days difficult times will come, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'for people will be lovers of themselves, lovers of money, boasters,
+        arrogant, slanderers, disobedient to parents, ungrateful, unholy, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'hardhearted, irreconcilable, slanderous, without self-control, savage,
+        with no interest for what is good, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'traitors, reckless, conceited, loving pleasure rather than loving
+        God, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'maintaining a form of godliness, but denying its power. Avoid these
+        people. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For from these are those who slip into houses and captivate foolish
+        women loaded down with sins, led by various kinds of desires, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'always learning and never able to come to a knowledge of the truth. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And just as Jannes and Jambres opposed Moses, so also these oppose
+        the truth, people corrupted in mind, disqualified concerning the faith. '
+      comments: []
+    - name: '9: The Value of the Scriptures'
+      title: The Value of the Scriptures
+      number: 9
+      content: 'But they will not progress to a greater extent, for their folly will
+        be quite evident to everyone, as also the folly of those two was. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'But you have faithfully followed my teaching, way of life, purpose,
+        faith, patience, love, endurance, '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'persecutions, and sufferings that happened to me in Antioch, in Iconium,
+        and in Lystra, what sort of persecutions I endured, and the Lord delivered
+        me from all of them. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And indeed, all those who want to live in a godly manner in Christ
+        Jesus will be persecuted. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'But evil people and imposters will progress to the worse, deceiving
+        and being deceived. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'But you continue in the things which you have learned and are convinced
+        of, because you know from whom you learned them, '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'and that from childhood you have known the holy writings that are
+        able to make you wise for salvation through faith in Christ Jesus. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'All scripture is inspired by God and profitable for teaching, for
+        reproof, for correction, for training in righteousness, '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'in order that the person of God may be competent, equipped for every
+        good work. '
+      comments: []
+  - verses:
+    - name: "1: Paul\u2019s Charge to Timothy"
+      title: "Paul\u2019s Charge to Timothy"
+      number: 1
+      content: ' I solemnly charge you before God and Christ Jesus, who is going
+        to judge the living and the dead, and by his appearing and his kingdom, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'preach the word, be ready in season and out of season, reprove, rebuke,
+        exhort, with all patience and instruction. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For there will be a time when they will not put up with sound teaching,
+        but in accordance with their own desires, they will accumulate for themselves
+        teachers, because they have an insatiable curiosity, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'and they will turn away from the hearing of the truth, but will turn
+        to myths. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'But you, be self-controlled in all things, bear hardship patiently,
+        do the work of an evangelist, fulfill your ministry. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For I am already being poured out as a drink offering, and the time
+        of my departure is imminent. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'I have fought the good fight, I have completed the race, I have kept
+        the faith. '
+      comments: []
+    - name: '8: Final Instructions to Timothy'
+      title: Final Instructions to Timothy
+      number: 8
+      content: 'Finally, the crown of righteousness is reserved for me, that the
+        Lord, the righteous Judge, will award to me on that day, and not only to
+        me, but also to all who have loved his appearing. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Make haste to come to me quickly. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For Demas deserted me, because he loved the present age, and went
+        to Thessalonica. Crescens went to Galatia; Titus went to Dalmatia. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Luke alone is with me. Take along Mark and bring him with you, because
+        he is useful to me for ministry. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'But I have sent Tychicus to Ephesus. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'When you come, bring the cloak that I left behind in Troas with Carpus,
+        and the scrolls, especially the parchments. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Alexander the metalworker did me much harm; may the Lord pay back
+        to him according to his deeds, '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'against whom you also be on guard, because he vehemently opposed
+        our words. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'At my first defense, no one came to my aid, but they all deserted
+        me; may it not be counted against them. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "But the Lord helped me and strengthened me, so that through me the
+        proclamation might be fulfilled and all the Gentiles might hear, and he rescued
+        me from the lion\u2019s mouth. "
+      comments: []
+    - name: '18: Final Greetings and Benediction'
+      title: Final Greetings and Benediction
+      number: 18
+      content: 'The Lord will rescue me from every evil deed, and will save me for
+        his heavenly kingdom, to whom be the glory forever and ever. Amen. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Greet Prisca and Aquila and the household of Onesiphorus. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Erastus remained in Corinth, but Trophimus I left behind in Miletus
+        because he was sick. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Make haste to come before winter. Eubulus and Pudens and Linus and
+        Claudia and all the brothers greet you. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'The Lord be with your spirit. Grace be with you. '
+      comments: []

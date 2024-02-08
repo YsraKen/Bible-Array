@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: JUD
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Jude
+  fancyName: 
+  nickname: jud
+  version: {fileID: 11400000, guid: dd64eb842f3dd694bae8487ce6510215, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Greeting'
+      title: Greeting
+      number: 1
+      content: '  Jude, a servant[[COMMENT(0)]] of Jesus Christ and brother of James, 
+        To those who are called, beloved in God the Father and kept for Jesus Christ:  '
+      comments:
+      - number: '1 '
+        content: 'For the contextual rendering of the Greek word , see PrefaceOr '
+    - name: '2: Judgment on False Teachers'
+      title: Judgment on False Teachers
+      number: 2
+      content: 'May mercy, peace, and love be multiplied to you.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Beloved, although I was very eager to write to you about our common
+        salvation, I found it necessary to write appealing to you to contend for
+        the faith that was once for all delivered to the saints. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For certain people have crept in unnoticed who long ago were designated
+        for this condemnation, ungodly people, who pervert the grace of our God into
+        sensuality and deny our only Master and Lord, Jesus Christ.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Now I want to remind you, although you once fully knew it, that Jesus,
+        who saved[[COMMENT(0)]] a people out of the land of Egypt, afterward destroyed
+        those who did not believe. '
+      comments:
+      - number: '5 '
+        content: 'Some manuscripts '
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And the angels who did not stay within their own position of authority,
+        but left their proper dwelling, he has kept in eternal chains under gloomy
+        darkness until the judgment of the great day\u2014 "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'just as Sodom and Gomorrah and the surrounding cities, which likewise
+        indulged in sexual immorality and pursued unnatural desire,[[COMMENT(0)]]
+        serve as an example by undergoing a punishment of eternal fire.  '
+      comments:
+      - number: '7 '
+        content: 'Greek '
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Yet in like manner these people also, relying on their dreams, defile
+        the flesh, reject authority, and blaspheme the glorious ones. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "But when the archangel Michael, contending with the devil, was disputing
+        about the body of Moses, he did not presume to pronounce a blasphemous judgment,
+        but said, \u201CThe Lord rebuke you.\u201D "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'But these people blaspheme all that they do not understand, and they
+        are destroyed by all that they, like unreasoning animals, understand instinctively. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Woe to them! For they walked in the way of Cain and abandoned themselves
+        for the sake of gain to Balaam\u2019s error and perished in Korah\u2019s
+        rebellion. "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'These are hidden reefs[[COMMENT(0)]]  at your love feasts, as they
+        feast with you without fear, shepherds feeding themselves; waterless clouds,
+        swept along by winds; fruitless trees in late autumn, twice dead, uprooted; '
+      comments:
+      - number: '12 '
+        content: 'Or '
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'wild waves of the sea, casting up the foam of their own shame; wandering
+        stars, for whom the gloom of utter darkness has been reserved forever.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "It was also about these that Enoch, the seventh from Adam, prophesied,
+        saying, \u201CBehold, the Lord comes with ten thousands of his holy ones, "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "to execute judgment on all and to convict all the ungodly of all
+        their deeds of ungodliness that they have committed in such an ungodly way,
+        and of all the harsh things that ungodly sinners have spoken against him.\u201D "
+      comments: []
+    - name: '16: A Call to Persevere'
+      title: A Call to Persevere
+      number: 16
+      content: 'These are grumblers, malcontents, following their own sinful desires;
+        they are loud-mouthed boasters, showing favoritism to gain advantage.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'But you must remember, beloved, the predictions of the apostles of
+        our Lord Jesus Christ. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "They[[COMMENT(0)]] said to you, \u201CIn the last time there will
+        be scoffers, following their own ungodly passions.\u201D "
+      comments:
+      - number: '18 '
+        content: 'Or '
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'It is these who cause divisions, worldly people, devoid of the Spirit. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'But you, beloved, building yourselves up in your most holy faith
+        and praying in the Holy Spirit, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'keep yourselves in the love of God, waiting for the mercy of our
+        Lord Jesus Christ that leads to eternal life. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'And have mercy on those who doubt; '
+      comments: []
+    - name: '23: Doxology'
+      title: Doxology
+      number: 23
+      content: 'save others by snatching them out of the fire; to others show mercy
+        with fear, hating even the garment[[COMMENT(0)]] stained by the flesh.  '
+      comments:
+      - number: '23 '
+        content: Greek , a long garment worn under the cloak next to the skin
+    - name: '24: '
+      title: 
+      number: 24
+      content: '  Now to him who is able to keep you from stumbling and to present
+        you blameless before the presence of his glory with great joy, '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: to the only God, our Savior, through Jesus Christ our Lord, be glory,
+        majesty, dominion, and authority, before all time[[COMMENT(0)]] and now and
+        forever. Amen.
+      comments:
+      - number: '25 '
+        content: 'Or '

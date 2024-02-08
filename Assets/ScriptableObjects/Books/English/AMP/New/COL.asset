@@ -1,0 +1,681 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: COL
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Colossians
+  fancyName: 
+  nickname: col
+  version: {fileID: 11400000, guid: 255596ce6b91ac640b392e20dd4f8a9e, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Thankfulness for Spiritual Attainments'
+      title: Thankfulness for Spiritual Attainments
+      number: 1
+      content: '  Paul, an apostle (special messenger, personally chosen representative)
+        of Christ Jesus (the Messiah, the Anointed) by the will of God, and Timothy
+        our brother,  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'To the saints and faithful believers in Christ [who are] at Colossae:
+        Grace to you and peace [inner calm and spiritual well-being] from God our
+        Father.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'We give thanks to God, the Father of our Lord Jesus Christ, as we
+        pray always for you, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "for we have heard of your faith in Christ Jesus [how you lean on
+        Him with absolute confidence in His power, wisdom, and goodness], and of
+        the [unselfish] love which you have for all the saints (God\u2019s people); "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'because of the [confident] hope [of experiencing that] which is reserved
+        and waiting for you in heaven. You previously heard of this hope in the message
+        of truth, the gospel [regarding salvation] '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "which has come to you. Indeed, just as in the whole world the gospel
+        is constantly bearing fruit and spreading [by God\u2019s power], just as
+        it has been doing among you ever since the day you first heard of it and
+        understood the grace of God in truth [becoming thoroughly and deeply acquainted
+        with it]. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'You learned it from [our representative] Epaphras, our beloved fellow
+        bond-servant, who is a faithful minister of Christ on our behalf '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'and he also has told us of your love [well-grounded and nurtured]
+        in the [Holy] Spirit.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'For this reason, since the day we heard about it, we have not stopped
+        praying for you, asking [specifically] that you may be filled with the knowledge
+        of His will in all spiritual wisdom [with insight into His purposes], and
+        in understanding [of spiritual things], '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'so that you will walk in a manner worthy of the Lord [displaying
+        admirable character, moral courage, and personal integrity], to [fully] please
+        Him in all things, bearing fruit in every good work and steadily growing
+        in the knowledge of God [with deeper faith, clearer insight and fervent love
+        for His precepts]; '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '[we pray that you may be] strengthened and invigorated with all power,
+        according to His glorious might, to attain every kind of endurance and patience
+        with joy; '
+      comments: []
+    - name: '12: The Incomparable Christ'
+      title: The Incomparable Christ
+      number: 12
+      content: "giving thanks to the Father, who has qualified us to share in the
+        inheritance of the saints (God\u2019s people) in the Light.  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'For He has rescued us and has drawn us to Himself from the dominion
+        of darkness, and has transferred us to the kingdom of His beloved Son, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "in whom we have redemption [because of His sacrifice, resulting in]
+        the forgiveness of our sins [and the cancellation of sins\u2019 penalty].  "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'He is the exact living image [the essential manifestation] of the
+        unseen God [the visible representation of the invisible], the firstborn [the
+        preeminent one, the sovereign, and the originator] of all creation. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For by Him all things were created in heaven and on earth, [things]
+        visible and invisible, whether thrones or dominions or rulers or authorities;
+        all things were created and exist through Him [that is, by His activity]
+        and for Him. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And He Himself existed and is before all things, and in Him all things
+        hold together. [His is the controlling, cohesive force of the universe.] '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'He is also the head [the life-source and leader] of the body, the
+        church; and He is the beginning, the firstborn from the dead, so that He
+        Himself will occupy the first place [He will stand supreme and be preeminent]
+        in everything. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "For it pleased the Father for all the fullness [of deity\u2014the
+        sum total of His essence, all His perfection, powers, and attributes] to
+        dwell [permanently] in Him (the Son), "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'and through [the intervention of] the Son to reconcile all things
+        to Himself, making peace [with believers] through the blood of His cross;
+        through Him, [I say,] whether things on earth or things in heaven.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'And although you were at one time estranged and alienated and hostile-minded
+        [toward Him], participating in evil things, '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "yet Christ has now reconciled you [to God] in His physical body through
+        death, in order to present you before the Father holy and blameless and beyond
+        reproach\u2014 "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '[and He will do this] if you continue in the faith, well-grounded
+        and steadfast, and not shifting away from the [confident] hope [that is a
+        result] of the gospel that you have heard, which was proclaimed in all creation
+        under heaven, and of which [gospel] I, Paul, was made a minister.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "Now I rejoice in my sufferings on your behalf. And with my own body
+        I supplement whatever is lacking [on our part] of Christ\u2019s afflictions,
+        on behalf of His body, which is the church. "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "In this church I was made a minister according to the stewardship
+        which God entrusted to me for your sake, so that I might make the word of
+        God fully known [among you]\u2014 "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "that is,  the mystery which was hidden [from angels and mankind]
+        for ages and generations, but has now been revealed to His saints (God\u2019s
+        people). "
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'God [in His eternal plan] chose to make known to them how great for
+        the Gentiles are the riches of the glory of this mystery, which is Christ
+        in and among you, the hope and guarantee of [realizing the] glory. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "We proclaim Him, warning and instructing everyone in all wisdom [that
+        is, with comprehensive insight into the word and purposes of God], so that
+        we may present every person complete in Christ [mature, fully trained, and
+        perfect in Him\u2014the Anointed]. "
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: For this I labor [often to the point of exhaustion], striving with
+        His power and energy, which so greatly works within me.
+      comments: []
+  - verses:
+    - name: '1: You Are Built Up in Christ'
+      title: You Are Built Up in Christ
+      number: 1
+      content: '  For I want you to know how great a struggle I have for you and
+        for those [believers] at Laodicea, and for all who [like yourselves] have
+        never seen me face to face. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '[For my hope is] that their hearts may be encouraged as they are
+        knit together in [unselfish] love, so that they may have all the riches that
+        come from the full assurance of understanding [the joy of salvation], resulting
+        in a true [and more intimate] knowledge of the mystery of God, that is, Christ, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'in whom are hidden all the treasures of wisdom and knowledge [regarding
+        the word and purposes of God]. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'I say this so that no one will deceive you with persuasive [but thoroughly
+        deceptive] arguments. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For even though I am absent [from you] in body, nevertheless I am
+        with you in spirit, delighted to see your good discipline [as you stand shoulder
+        to shoulder and form a solid front] and to see the stability of your faith
+        in Christ [your steadfast reliance on Him and your unwavering confidence
+        in His power, wisdom, and goodness].  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Therefore as you have received Christ Jesus the Lord, walk in [union
+        with] Him [reflecting His character in the things you do and say\u2014living
+        lives that lead others away from sin], "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'having been deeply rooted [in Him] and now being continually built
+        up in Him and [becoming increasingly more] established in your faith, just
+        as you were taught, and overflowing in it with gratitude.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "See to it that no one takes you captive through philosophy and empty
+        deception [pseudo-intellectual babble], according to the tradition [and musings]
+        of mere men, following the elementary principles of this world, rather than
+        following [the truth\u2014the teachings of] Christ. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'For in Him all the fullness of Deity (the Godhead) dwells in bodily
+        form [completely expressing the divine essence of God]. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And in Him you have been made complete [achieving spiritual stature
+        through Christ], and He is the head over all rule and authority [of every
+        angelic and earthly power]. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'In Him you were also circumcised with a circumcision not made with
+        hands, but by the [spiritual] circumcision of Christ in the stripping off
+        of the body of the flesh [the sinful carnal nature], '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'having been buried with Him in baptism and raised with Him [to a
+        new life] through [your] faith in the working of God, [as displayed] when
+        He raised Christ from the dead. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'When you were dead in your sins and in the uncircumcision of your
+        flesh (worldliness, manner of life), God made you alive together with Christ,
+        having [freely] forgiven us all our sins, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'having canceled out the certificate of debt consisting of legal demands
+        [which were in force] against us and which were hostile to us. And this certificate
+        He has set aside and completely removed by nailing it to the cross. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'When He had disarmed the rulers and authorities [those supernatural
+        forces of evil operating against us], He made a public example of them [exhibiting
+        them as captives in His triumphal procession], having triumphed over them
+        through the cross.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Therefore let no one judge you in regard to food and drink or in
+        regard to [the observance of] a festival or a new moon or a Sabbath day. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Such things are only a shadow of what is to come and they have only
+        symbolic value; but the substance [the reality of what is foreshadowed] belongs
+        to Christ. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Let no one defraud you of your prize [your freedom in Christ and
+        your salvation] by insisting on mock humility and the worship of angels,
+        going into detail about visions [he claims] he has seen [to justify his authority],
+        puffed up [in conceit] by his unspiritual mind, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'and not holding fast to the head [of the body, Jesus Christ], from
+        whom the entire body, supplied and knit together by its joints and ligaments,
+        grows with the growth [that can come only] from God.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'If you have died with Christ to the elementary principles of the
+        world, why, as if you were still living in the world, do you submit to rules
+        and regulations, such as, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "\u201CDo not handle [this], do not taste [that], do not [even] touch!\u201D? "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "(these things all perish with use)\u2014in accordance with the commandments
+        and teachings of men. "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: These practices indeed have the appearance [that popularly passes
+        as that] of wisdom in self-made religion and mock humility and severe treatment
+        of the body (asceticism), but are of no value against sinful indulgence [because
+        they do not honor God].
+      comments: []
+  - verses:
+    - name: '1: Put On the New Self'
+      title: Put On the New Self
+      number: 1
+      content: '  Therefore if you have been raised with Christ [to a new life, sharing
+        in His resurrection from the dead], keep seeking the things that are above,
+        where Christ is, seated at the right hand of God. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Set your mind and keep focused habitually on the things above [the
+        heavenly things], not on things that are on the earth [which have only temporal
+        value]. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For you died [to this world], and your [new, real] life is hidden
+        with Christ in God. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'When Christ, who is our life, appears, then you also will appear
+        with Him in glory.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'So put to death and deprive of power the evil longings of your earthly
+        body [with its sensual, self-centered instincts] immorality, impurity, sinful
+        passion, evil desire, and greed, which is [a kind of] idolatry [because it
+        replaces your devotion to God]. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Because of these [sinful] things the [divine] wrath of God is coming
+        on the sons of disobedience [those who fail to listen and who routinely and
+        obstinately disregard God\u2019s precepts], "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'and in these [sinful things] you also once walked, when you were
+        habitually living in them [without the knowledge of Christ]. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'But now rid yourselves [completely] of all these things: anger, rage,
+        malice, slander, and obscene (abusive, filthy, vulgar) language from your
+        mouth. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Do not lie to one another, for you have stripped off the old self
+        with its evil practices, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "and have put on the new [spiritual] self who is being continually
+        renewed in true knowledge in the image of Him who created the new self\u2014 "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'a renewal in which there is no [distinction between] Greek and Jew,
+        circumcised and uncircumcised, [nor between nations whether] barbarian or
+        Scythian, [nor in status whether] slave or free, but Christ is all, and in
+        all [so believers are equal in Christ, without distinction].  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "So, as God\u2019s own chosen people, who are holy [set apart, sanctified
+        for His purpose] and well-beloved [by God Himself], put on a heart of compassion,
+        kindness, humility, gentleness, and patience [which has the power to endure
+        whatever injustice or unpleasantness comes, with good temper]; "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'bearing graciously with one another, and willingly forgiving each
+        other if one has a cause for complaint against another; just as the Lord
+        has forgiven you, so should you forgive. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Beyond all these things put on and wrap yourselves in [unselfish]
+        love, which is the perfect bond of unity [for everything is bound together
+        in agreement when each one seeks the best for others]. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Let the peace of Christ [the inner calm of one who walks daily with
+        Him] be the controlling factor in your hearts [deciding and settling questions
+        that arise]. To this peace indeed you were called as members in one body
+        [of believers]. And be thankful [to God always]. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Let the [spoken] word of Christ have its home within you [dwelling
+        in your heart and mind\u2014permeating every aspect of your being] as you
+        teach [spiritual things] and admonish and train one another with all wisdom,
+        singing psalms and hymns and spiritual songs with thankfulness in your hearts
+        to God. "
+      comments: []
+    - name: '17: Family Relations'
+      title: Family Relations
+      number: 17
+      content: 'Whatever you do [no matter what it is] in word or deed, do everything
+        in the name of the Lord Jesus [and in dependence on Him], giving thanks to
+        God the Father through Him.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Wives, be subject to your husbands [out of respect for their position
+        as protector, and their accountability to God], as is proper and  fitting
+        in the Lord. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Husbands, love your wives [with an affectionate, sympathetic, selfless
+        love that always seeks the best for them] and do not be embittered or resentful
+        toward them [because of the responsibilities of marriage]. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "Children, obey your parents [as God\u2019s representatives] in all
+        things, for this [attitude of respect and obedience] is well-pleasing to
+        the Lord [and will bring you God\u2019s promised blessings]. "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Fathers, do not provoke or irritate or exasperate your children [with
+        demands that are trivial or unreasonable or humiliating or abusive; nor by
+        favoritism or indifference; treat them tenderly with lovingkindness], so
+        they will not lose heart and become discouraged or unmotivated [with their
+        spirits broken].  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Servants, in everything obey those who are your masters on earth,
+        not only with external service, as those who merely please people, but with
+        sincerity of heart because of your fear of the Lord. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Whatever you do [whatever your task may be], work from the soul [that
+        is, put in your very best effort], as [something done] for the Lord and not
+        for men, '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'knowing [with all certainty] that it is from the Lord [not from men]
+        that you will receive the inheritance which is your [greatest] reward. It
+        is the Lord Christ whom you [actually] serve. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "For he who does wrong will be punished for his wrongdoing, and [with
+        God] there is no partiality [no special treatment based on a person\u2019s
+        position in life]."
+      comments: []
+  - verses:
+    - name: '1: Fellow Workers'
+      title: Fellow Workers
+      number: 1
+      content: '  Masters, [on your part] deal with your slaves justly and fairly,
+        knowing that you also have a Master in heaven.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Be persistent and devoted to prayer, being alert and focused in your
+        prayer life with an attitude of thanksgiving. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'At the same time pray for us, too, that God will open a door [of
+        opportunity] to us for the word, to proclaim the mystery of Christ, for which
+        I have been imprisoned; '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'that I may make it clear [and speak boldly and unfold the mystery]
+        in the way I should.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Conduct yourself with wisdom in your interactions with outsiders
+        (non-believers), make the most of each opportunity [treating it as something
+        precious]. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Let your speech at all times be gracious and pleasant, seasoned with
+        salt, so that you will know how to answer each one [who questions you].  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'As to all my affairs, Tychicus, who is a much-loved brother and faithful
+        assistant and fellow bond-servant in the Lord, will give you all the information. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'I have sent him to you for this very purpose, that you may know how
+        we are doing and that he may encourage your hearts; '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'and with him is Onesimus, our faithful and beloved brother, who is
+        one of you. They will let you know everything about the situation here [in
+        Rome].  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Aristarchus, my fellow prisoner, wishes to be remembered to you;
+        as does Mark, the cousin of Barnabas (about whom you received instructions;
+        if he comes to you, welcome him); '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'and from Jesus, who is called Justus. These are the only fellow workers
+        for the kingdom of God who are from the circumcision (Jewish Christians),
+        and they have proved to be an encouragement and a comfort to me. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Epaphras, who is one of you and a bond-servant of Christ Jesus, sends
+        you greetings. [He is] always striving for you in his prayers, praying with
+        genuine concern, [pleading] that you may [as people of character and courage]
+        stand firm, [spiritually mature] and fully assured in all the will of God. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'For I testify for him that he has worked strenuously for you and
+        for the believers in Laodicea and those in Hierapolis. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Luke, the beloved physician, and Demas greet you. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Give my greetings to the brothers and sisters at Laodicea, and to
+        Nympha and the church that meets in her house. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'When this letter has been read among you, see that it is read in
+        the church of the Laodiceans; and also that you in turn read my letter [that
+        is coming to you] from Laodicea. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "And say to Archippus, \u201CSee to it that you fulfill [carefully
+        the duties of] the ministry which you have received in the Lord.\u201D  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "I, Paul, write this greeting with my own hand. Remember my chains.
+        May grace (God\u2019s unmerited favor and blessing) be with you."
+      comments: []

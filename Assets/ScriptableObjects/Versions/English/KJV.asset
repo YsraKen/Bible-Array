@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b691b6e71381f9f499c32feebef90c82, type: 3}
+  m_Name: KJV
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: King James Version
+  <NameCode>k__BackingField: KJV
+  <Language>k__BackingField: {fileID: 11400000, guid: 339807bce41f4e54989aa8673c9b5d27, type: 2}
+  <Description>k__BackingField: "King James Version (KJV)\r\n\r\nThe King James Version
+    (KJV) of the holy Bible was first printed in 1611, but the main edition used
+    today is the 1769 version. The King James Version (KJV) is also known as the
+    Authorized (or Authorised) Version (AV) because it was authorized to be read
+    in churches. For over 300 years it was the main English translation used in the
+    English speaking world, and is much admired and respected. About 400 words and
+    phrases coined or popularised by the King James Version are part the English
+    language today. \r\n\r\nRevision\r\n\r\nThe King James Version of the Bible was
+    not a new translation but a revision of the English Bible which was commissioned
+    by King James I of Great Britain, following the Church of England Hampton Court
+    Conference in 1604. 54 scholars from London, Oxford and Cambridge worked on the
+    project. They were all from the Church of England (Anglicans), but included those
+    of traditional and Puritan views.\r\n\r\nOfficially the 1586 Bishop\u2019s Bible
+    was used as the base for the revision, but the scholars referenced all existing
+    Bible translations in English, such as the Geneva Bible and Tyndale, and also
+    editions in other languages. The completed Bible was first printed in 1611, and
+    included the Apocrypha, which is omitted from this edition. \r\n\r\n1769 edition\r\n\r\nIn
+    1611 English spelling and punctuation were not in standard forms, and the Bible
+    underwent a mainly-orthographic revision by Oxford and Cambridge universities
+    in 1769, which is the version most people use today. The rights of the King James
+    Version of the Bible were, and still are, protected under British law and are
+    vested in the Crown. \r\n\r\nBible Society edition\r\n\r\nIn 1804 the British
+    and Foreign Bible Society (BFBS) was founded and they printed millions of cheap
+    copies of the Bible for people to buy and read. Through the work of the Bible
+    Societies the King James Version (KJV) became the most printed and most widely
+    read book in the world. \r\n\r\n1954 Paragraphed Edition\r\n\r\nThe King James
+    Version was printed with each new verse starting on a new line. In 1954 the British
+    and Foreign Bible Society produced a new edition of the KJV, keeping the original
+    1769 text, but adding sub-titles and paragraphs, making it easier to read. In
+    2011 this was reprinted in a special edition, with other appendices such as a
+    Glossary, and concordance, to mark the 400th anniversary of the King James Version.
+    This is the text used in this on-line edition. The paragraphing, sub-headings
+    from 1954, and other additions from 2011, are copyright the British and Foreign
+    Bible Society.\r\n\r\nCopyright Information\r\n\r\nRights in the Authorized (King
+    James) Version of the Bible are vested in the Crown. Published by permission
+    of the Crown's patentee, Cambridge University Press.\r\n\r\nThis edition\r\n\r\nThis
+    edition of the King James Authorised Version was paragraphed with sub-headings
+    added by the British and Foreign Bible Society in 1954 and released again as
+    a special edition in 2011.\r\n\r\nBFBS additions \xA9 2011 British and Foreign
+    Bible Society\r\n\r\nThis text is maintained by the British and Foreign Bible
+    Society\r\n\r\nIf you are interested in obtaining a printed copy, please contact
+    the British and Foreign Bible Society at www.biblesociety.org.uk"
+  <Publisher>k__BackingField: Cambridge Univ. Press & BFBS
+  <Copyright>k__BackingField: "Rights in the Authorized (King James) Version in the
+    United Kingdom are vested in the Crown. Published by permission of the Crown\u2019s
+    patentee, Cambridge University Press."
+  <Websites>k__BackingField:
+  - www.biblesociety.org.uk
+  <Books>k__BackingField:
+  - {fileID: 11400000, guid: a3d560b3a6016c24f8e6d76f2e846218, type: 2}
+  - {fileID: 11400000, guid: aa77c91363f59c84bad58a755b8e4fa3, type: 2}
+  - {fileID: 11400000, guid: 6836dd94c78aae14590cf736db029d24, type: 2}
+  - {fileID: 11400000, guid: 95e151673898cda4bb05c5188398d383, type: 2}
+  - {fileID: 11400000, guid: d61b5791c64b98c48bae04c0322d3915, type: 2}
+  - {fileID: 11400000, guid: ef3c50291281b6048bba9e28e4f0091f, type: 2}
+  - {fileID: 11400000, guid: 3fa4a0eae2685444faf9de13babcabdb, type: 2}
+  - {fileID: 11400000, guid: 55c34bf926129c74fb98e5b3f862baa7, type: 2}
+  - {fileID: 11400000, guid: f93484e1eb1cd414991c8981e47a6fc6, type: 2}
+  - {fileID: 11400000, guid: 266b6ec994ff625429468f664fd50bbf, type: 2}
+  - {fileID: 11400000, guid: 1d09a5be699c6644e9bff2259eedbed6, type: 2}
+  - {fileID: 11400000, guid: 950396c872391074ca23c2e2e603fcd3, type: 2}
+  - {fileID: 11400000, guid: 92a40df4ba8ea75408a6f60b97989f9d, type: 2}
+  - {fileID: 11400000, guid: f1e6ddf2c08e20746b067a30ae9d99e5, type: 2}
+  - {fileID: 11400000, guid: b8207527b029f7a4aa67fc8eb02438bb, type: 2}
+  - {fileID: 11400000, guid: 207a29fe6dd58be4bbbc40919678f4e8, type: 2}
+  - {fileID: 11400000, guid: 5496a0d98d4575943a9ec8c34ee8fae0, type: 2}
+  - {fileID: 11400000, guid: 98d97fccd9f6f99418ea2fc2eee8a050, type: 2}
+  - {fileID: 11400000, guid: 1fdb940856cf2e74fb7785e8b98b9809, type: 2}
+  - {fileID: 11400000, guid: 0fe1166e04588c04aba8d9ef1f3494c1, type: 2}
+  - {fileID: 11400000, guid: 1dd67e4ab63233446ba61e7acfb3896e, type: 2}
+  - {fileID: 11400000, guid: a4c512271b05da44d873b1ea39554d03, type: 2}
+  - {fileID: 11400000, guid: b9976dbe82cdeaa479d40e9532b0ad05, type: 2}
+  - {fileID: 11400000, guid: 4304b57bba1ffc74790abe9ac62dcba0, type: 2}
+  - {fileID: 11400000, guid: 38dc200b409884a418c98490ce37cfc9, type: 2}
+  - {fileID: 11400000, guid: 77a1cc7df1ca1b148ab721d278939765, type: 2}
+  - {fileID: 11400000, guid: 7a976ba2fae325943afd01fbe1b2b711, type: 2}
+  - {fileID: 11400000, guid: 5a265ab3430c44e4199fbcfe0046a4d4, type: 2}
+  - {fileID: 11400000, guid: 644254f9e8cbeb546ba948a858232883, type: 2}
+  - {fileID: 11400000, guid: bde40f496cc1a4244a5fae1b5f96e751, type: 2}
+  - {fileID: 11400000, guid: caf64cceb29816b4eb1495a3ff5c7653, type: 2}
+  - {fileID: 11400000, guid: 2dbc2c96c5fc93f429b87c676ad36aaf, type: 2}
+  - {fileID: 11400000, guid: 126f5d38721676b43bd4871c5e9abb4f, type: 2}
+  - {fileID: 11400000, guid: f6f4af43aaa8af344b71cb24e81f8d8e, type: 2}
+  - {fileID: 11400000, guid: 4398429519623a34ea5ecca883fa6187, type: 2}
+  - {fileID: 11400000, guid: 9fc43660fa9e6d04b8b2620adf053f0f, type: 2}
+  - {fileID: 11400000, guid: afc0d1d91d03b2648b141f115f9d0a5e, type: 2}
+  - {fileID: 11400000, guid: 3b7f23ac4d4f2774795933a4e75c8a8d, type: 2}
+  - {fileID: 11400000, guid: 5ff5b32661f0f9048bd740cd201037fc, type: 2}
+  - {fileID: 11400000, guid: 04c5798144cdb3847864b08235aa6400, type: 2}
+  - {fileID: 11400000, guid: 07fa22a7d6d908e419d5d561278fcb5b, type: 2}
+  - {fileID: 11400000, guid: b23c9e7a7c3ae3c48b0de9ff35adbec5, type: 2}
+  - {fileID: 11400000, guid: 3882f32685d26a3408cc907733891ef7, type: 2}
+  - {fileID: 11400000, guid: 3ef501c635f2851479a6ce1fb0cfd415, type: 2}
+  - {fileID: 11400000, guid: edd1c5de9284e4241af0c3fe0c7383aa, type: 2}
+  - {fileID: 11400000, guid: 64e2ec19185370a43a297292bb976c2f, type: 2}
+  - {fileID: 11400000, guid: 30e130209921f37479c38008a0fc699c, type: 2}
+  - {fileID: 11400000, guid: d12a7b221c2b31741a3f66069b7b4e4d, type: 2}
+  - {fileID: 11400000, guid: d26a9dc2bd737124d8718ddb4778ac7e, type: 2}
+  - {fileID: 11400000, guid: c59746080fa155c42920e91968045793, type: 2}
+  - {fileID: 11400000, guid: b07e1d588b0d1f14695c9da735a929c8, type: 2}
+  - {fileID: 11400000, guid: 58f1c0ee50adb324baf10cdead6d295a, type: 2}
+  - {fileID: 11400000, guid: 6cf8a987654adcf48ab17b4040699fba, type: 2}
+  - {fileID: 11400000, guid: efc2bbb467d2dee42a2601845084d8e9, type: 2}
+  - {fileID: 11400000, guid: cc6df53b9a7e63a4ca25753311c2f57b, type: 2}
+  - {fileID: 11400000, guid: 31c2802b4885ee341a9843f44e5d209b, type: 2}
+  - {fileID: 11400000, guid: b75642c2235e79f4e96b624cc4a85bc4, type: 2}
+  - {fileID: 11400000, guid: c02d3f07c7f641544b51d367d746621a, type: 2}
+  - {fileID: 11400000, guid: 9b8bd1a431691354e80cee60d766747f, type: 2}
+  - {fileID: 11400000, guid: 2212dfa8cb6eed04e942fa34d44bbb9a, type: 2}
+  - {fileID: 11400000, guid: cf3c5e17749c1d846b337e9fd1e7b62e, type: 2}
+  - {fileID: 11400000, guid: aefc8bdd0099117439f5645bf692cd88, type: 2}
+  - {fileID: 11400000, guid: 4af2a3b9f944b7045b640abe830174f4, type: 2}
+  - {fileID: 11400000, guid: 5b333f82d92eff84ebc9231d8ed39fd8, type: 2}
+  - {fileID: 11400000, guid: 2d13e68c299cec04ebd985e26c54b65c, type: 2}
+  - {fileID: 11400000, guid: d90be5b7e7835bf4c9f2b70941a9225e, type: 2}

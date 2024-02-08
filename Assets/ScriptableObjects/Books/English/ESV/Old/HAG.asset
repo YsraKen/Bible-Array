@@ -1,0 +1,287 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: HAG
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Haggai
+  fancyName: 
+  nickname: hag
+  version: {fileID: 11400000, guid: dd64eb842f3dd694bae8487ce6510215, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: The Command to Rebuild the Temple'
+      title: The Command to Rebuild the Temple
+      number: 1
+      content: '    In the second year of Darius the king, in the sixth month, on
+        the first day of the month, the word of the <smallcaps>Lord</smallcaps> came
+        by the hand of Haggai the prophet to Zerubbabel the son of Shealtiel, governor
+        of Judah, and to Joshua the son of Jehozadak, the high priest: '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CThus says the <smallcaps>Lord</smallcaps> of hosts: These people
+        say the time has not yet come to rebuild the house of the <smallcaps>Lord</smallcaps>.\u201D "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Then the word of the <smallcaps>Lord</smallcaps> came by the hand
+        of Haggai the prophet, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CIs it a time for you yourselves to dwell in your paneled houses,
+        while this house lies in ruins? "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Now, therefore, thus says the <smallcaps>Lord</smallcaps> of hosts:
+        Consider your ways. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'You have sown much, and harvested little. You eat, but you never
+        have enough; you drink, but you never have your fill. You clothe yourselves,
+        but no one is warm. And he who earns wages does so to put them into a bag
+        with holes.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CThus says the <smallcaps>Lord</smallcaps> of hosts: Consider
+        your ways. "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Go up to the hills and bring wood and build the house, that I may
+        take pleasure in it and that I may be glorified, says the <smallcaps>Lord</smallcaps>. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'You looked for much, and behold, it came to little. And when you
+        brought it home, I blew it away. Why? declares the <smallcaps>Lord</smallcaps>
+        of hosts. Because of my house that lies in ruins, while each of you busies
+        himself with his own house. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Therefore the heavens above you have withheld the dew, and the earth
+        has withheld its produce. '
+      comments: []
+    - name: '11: The People Obey the '
+      title: 'The People Obey the '
+      number: 11
+      content: "And I have called for a drought on the land and the hills, on the
+        grain, the new wine, the oil, on what the ground brings forth, on man and
+        beast, and on all their labors.\u201D<smallcaps>Lord</smallcaps>  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  Then Zerubbabel the son of Shealtiel, and Joshua the son of Jehozadak,
+        the high priest, with all the remnant of the people, obeyed the voice of
+        the <smallcaps>Lord</smallcaps> their God, and the words of Haggai the prophet,
+        as the <smallcaps>Lord</smallcaps> their God had sent him. And the people
+        feared the <smallcaps>Lord</smallcaps>. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Then Haggai, the messenger of the <smallcaps>Lord</smallcaps>, spoke
+        to the people with the <smallcaps>Lord</smallcaps>\u2019s message, \u201CI
+        am with you, declares the <smallcaps>Lord</smallcaps>.\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And the <smallcaps>Lord</smallcaps> stirred up the spirit of Zerubbabel
+        the son of Shealtiel, governor of Judah, and the spirit of Joshua the son
+        of Jehozadak, the high priest, and the spirit of all the remnant of the people.
+        And they came and worked on the house of the <smallcaps>Lord</smallcaps>
+        of hosts, their God, '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: on the twenty-fourth day of the month, in the sixth month, in the
+        second year of Darius the king.
+      comments: []
+  - verses:
+    - name: '1: The Coming Glory of the Temple'
+      title: The Coming Glory of the Temple
+      number: 1
+      content: '    In the seventh month, on the twenty-first day of the month, the
+        word of the <smallcaps>Lord</smallcaps> came by the hand of Haggai the prophet: '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CSpeak now to Zerubbabel the son of Shealtiel, governor of Judah,
+        and to Joshua the son of Jehozadak, the high priest, and to all the remnant
+        of the people, and say, "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "\u2018Who is left among you who saw this house in its former glory?
+        How do you see it now? Is it not as nothing in your eyes? "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Yet now be strong, O Zerubbabel, declares the <smallcaps>Lord</smallcaps>.
+        Be strong, O Joshua, son of Jehozadak, the high priest. Be strong, all you
+        people of the land, declares the <smallcaps>Lord</smallcaps>. Work, for I
+        am with you, declares the <smallcaps>Lord</smallcaps> of hosts, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'according to the covenant that I made with you when you came out
+        of Egypt. My Spirit remains in your midst. Fear not. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For thus says the <smallcaps>Lord</smallcaps> of hosts: Yet once
+        more, in a little while, I will shake the heavens and the earth and the sea
+        and the dry land. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And I will shake all nations, so that the treasures of all nations
+        shall come in, and I will fill this house with glory, says the <smallcaps>Lord</smallcaps>
+        of hosts. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The silver is mine, and the gold is mine, declares the <smallcaps>Lord</smallcaps>
+        of hosts. '
+      comments: []
+    - name: '9: Blessings for a Defiled People'
+      title: Blessings for a Defiled People
+      number: 9
+      content: "The latter glory of this house shall be greater than the former,
+        says the <smallcaps>Lord</smallcaps> of hosts. And in this place I will give
+        peace, declares the <smallcaps>Lord</smallcaps> of hosts.\u2019\u201D  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  On the twenty-fourth day of the ninth month, in the second year
+        of Darius, the word of the <smallcaps>Lord</smallcaps> came by Haggai the
+        prophet, '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CThus says the <smallcaps>Lord</smallcaps> of hosts: Ask the
+        priests about the law: "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u2018If someone carries holy meat in the fold of his garment and
+        touches with his fold bread or stew or wine or oil or any kind of food, does
+        it become holy?\u2019\u201D The priests answered and said, \u201CNo.\u201D "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Then Haggai said, \u201CIf someone who is unclean by contact with
+        a dead body touches any of these, does it become unclean?\u201D The priests
+        answered and said, \u201CIt does become unclean.\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Then Haggai answered and said, \u201CSo is it with this people, and
+        with this nation before me, declares the <smallcaps>Lord</smallcaps>, and
+        so with every work of their hands. And what they offer there is unclean. "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Now then, consider from this day onward.[[COMMENT(0)]] Before stone
+        was placed upon stone in the temple of the <smallcaps>Lord</smallcaps>, '
+      comments:
+      - number: '2:15 '
+        content: Or ; also verse 18
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'how did you fare? When[[COMMENT(0)]] one came to a heap of twenty
+        measures, there were but ten. When one came to the wine vat to draw fifty
+        measures, there were but twenty. '
+      comments:
+      - number: '2:16 '
+        content: 'Probable reading (compare Septuagint); Hebrew '
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'I struck you and all the products of your toil with blight and with
+        mildew and with hail, yet you did not turn to me, declares the <smallcaps>Lord</smallcaps>. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "Consider from this day onward, from the twenty-fourth day of the
+        ninth month. Since the day that the foundation of the <smallcaps>Lord</smallcaps>\u2019s
+        temple was laid, consider: "
+      comments: []
+    - name: '19: Zerubbabel Chosen as a Signet'
+      title: Zerubbabel Chosen as a Signet
+      number: 19
+      content: "Is the seed yet in the barn? Indeed, the vine, the fig tree, the
+        pomegranate, and the olive tree have yielded nothing. But from this day on
+        I will bless you.\u201D  "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'The word of the <smallcaps>Lord</smallcaps> came a second time to
+        Haggai on the twenty-fourth day of the month, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "\u201CSpeak to Zerubbabel, governor of Judah, saying, I am about
+        to shake the heavens and the earth, "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'and to overthrow the throne of kingdoms. I am about to destroy the
+        strength of the kingdoms of the nations, and overthrow the chariots and their
+        riders. And the horses and their riders shall go down, every one by the sword
+        of his brother. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "On that day, declares the <smallcaps>Lord</smallcaps> of hosts, I
+        will take you, O Zerubbabel my servant, the son of Shealtiel, declares the
+        <smallcaps>Lord</smallcaps>, and make you like a[[COMMENT(0)]] signet ring,
+        for I have chosen you, declares the <smallcaps>Lord</smallcaps> of hosts.\u201D"
+      comments:
+      - number: '2:23 '
+        content: 'Hebrew '

@@ -19,7 +19,9 @@ MonoBehaviour:
   description: 
   chapters:
   - verses:
-    - title: A Call to Rebuild the Temple
+    - name: '1: A Call to Rebuild the Temple'
+      title: A Call to Rebuild the Temple
+      number: 1
       content: "  On August 29[[COMMENT(0)]] of the second year of King Darius\u2019s
         reign, the <smallcaps>Lord</smallcaps> gave a message through the prophet
         Haggai to Zerubbabel son of Shealtiel, governor of Judah, and to Jeshua[[COMMENT(1)]]
@@ -33,74 +35,112 @@ MonoBehaviour:
       - number: '1:1b '
         content: Hebrew <b>Joshua, </b>a variant spelling of Jeshua; also in 1:12,
           14.
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "\u201CThis is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
         Armies says: The people are saying, \u2018The time has not yet come to rebuild
         the house of the <smallcaps>Lord</smallcaps>.\u2019\u201D  "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Then the <smallcaps>Lord</smallcaps> sent this message through the
         prophet Haggai: '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "\u201CWhy are you living in luxurious houses while my house lies
         in ruins? "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "This is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies
         says: Look at what\u2019s happening to you! "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'You have planted much but harvest little. You eat but are not satisfied.
         You drink but are still thirsty. You put on clothes but cannot keep warm.
         Your wages disappear as though you were putting them in pockets filled with
         holes!  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "\u201CThis is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
         Armies says: Look at what\u2019s happening to you! "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Now go up into the hills, bring down timber, and rebuild my house.
         Then I will take pleasure in it and be honored, says the <smallcaps>Lord</smallcaps>. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "You hoped for rich harvests, but they were poor. And when you brought
         your harvest home, I blew it away. Why? Because my house lies in ruins, says
         the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies, while all of you
         are busy building your own fine houses. "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "It\u2019s because of you that the heavens withhold the dew and the
         earth produces no crops. "
       comments: []
-    - title: "Obedience to God\u2019s Call"
+    - name: "11: Obedience to God\u2019s Call"
+      title: "Obedience to God\u2019s Call"
+      number: 11
       content: "I have called for a drought on your fields and hills\u2014a drought
         to wither the grain and grapes and olive trees and all your other crops,
         a drought to starve you and your livestock and to ruin everything you have
         worked so hard to get.\u201D  "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "Then Zerubbabel son of Shealtiel, and Jeshua son of Jehozadak, the
         high priest, and the whole remnant of God\u2019s people began to obey the
         message from the <smallcaps>Lord</smallcaps> their God. When they heard the
         words of the prophet Haggai, whom the <smallcaps>Lord</smallcaps> their God
         had sent, the people feared the <smallcaps>Lord</smallcaps>. "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Then Haggai, the <smallcaps>Lord</smallcaps>\u2019s messenger, gave
         the people this message from the <smallcaps>Lord</smallcaps>: \u201CI am
         with you, says the <smallcaps>Lord</smallcaps>!\u201D  "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "So the <smallcaps>Lord</smallcaps> sparked the enthusiasm of Zerubbabel
         son of Shealtiel, governor of Judah, and the enthusiasm of Jeshua son of
         Jehozadak, the high priest, and the enthusiasm of the whole remnant of God\u2019s
         people. They began to work on the house of their God, the <smallcaps>Lord</smallcaps>
         of Heaven\u2019s Armies, "
       comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "on September 21[[COMMENT(0)]] of the second year of King Darius\u2019s
+        reign."
+      comments:
+      - number: '1:15 '
+        content: Hebrew <b>on the twenty-fourth day of the sixth month, </b>of the
+          ancient Hebrew lunar calendar. This event occurred on September 21, 520
+          <span class="ChapterContent_sc__Hg9da">b.c.</span>; also see note on 1:1a.
   - verses:
-    - title: "The New Temple\u2019s Diminished Splendor"
+    - name: "1: The New Temple\u2019s Diminished Splendor"
+      title: "The New Temple\u2019s Diminished Splendor"
+      number: 1
       content: '  Then on October 17 of that same year,[[COMMENT(0)]] the <smallcaps>Lord</smallcaps>
         sent another message through the prophet Haggai. '
       comments:
@@ -109,49 +149,67 @@ MonoBehaviour:
           the ancient Hebrew lunar calendar. This event (in the second year of Darius\u2019s
           reign) occurred on October 17, 520 <span class=\"ChapterContent_sc__Hg9da\">b.c.</span>;
           also see note on 1:1a."
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "\u201CSay this to Zerubbabel son of Shealtiel, governor of Judah,
         and to Jeshua[[COMMENT(0)]] son of Jehozadak, the high priest, and to the
         remnant of God\u2019s people there in the land: "
       comments:
       - number: '2:2 '
         content: Hebrew <b>Joshua, </b>a variant spelling of Jeshua; also in 2:4.
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "\u2018Does anyone remember this house\u2014this Temple\u2014in its
         former splendor? How, in comparison, does it look to you now? It must seem
         like nothing at all! "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "But now the <smallcaps>Lord</smallcaps> says: Be strong, Zerubbabel.
         Be strong, Jeshua son of Jehozadak, the high priest. Be strong, all you people
         still left in the land. And now get to work, for I am with you, says the
         <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies. "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "My Spirit remains among you, just as I promised when you came out
         of Egypt. So do not be afraid.\u2019  "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "\u201CFor this is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
         Armies says: In just a little while I will again shake the heavens and the
         earth, the oceans and the dry land. "
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "I will shake all the nations, and the treasures of all the nations
         will be brought to this Temple. I will fill this place with glory, says the
         <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies. "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "The silver is mine, and the gold is mine, says the <smallcaps>Lord</smallcaps>
         of Heaven\u2019s Armies. "
       comments: []
-    - title: Blessings Promised for Obedience
+    - name: '9: Blessings Promised for Obedience'
+      title: Blessings Promised for Obedience
+      number: 9
       content: "The future glory of this Temple will be greater than its past glory,
         says the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies. And in this
         place I will bring peace. I, the <smallcaps>Lord</smallcaps> of Heaven\u2019s
         Armies, have spoken!\u201D  "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "On December 18[[COMMENT(0)]] of the second year of King Darius\u2019s
         reign, the <smallcaps>Lord</smallcaps> sent this message to the prophet Haggai: "
       comments:
@@ -160,47 +218,65 @@ MonoBehaviour:
           ancient Hebrew lunar calendar (similarly in 2:18). This event occurred
           on December 18, 520 <span class="ChapterContent_sc__Hg9da">b.c.</span>;
           also see note on 1:1a.
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "\u201CThis is what the <smallcaps>Lord</smallcaps> of Heaven\u2019s
         Armies says. Ask the priests this question about the law: "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "\u2018If one of you is carrying some meat from a holy sacrifice in
         his robes and his robe happens to brush against some bread or stew, wine
         or olive oil, or any other kind of food, will it also become holy?\u2019\u201DThe
         priests replied, \u201CNo.\u201D  "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Then Haggai asked, \u201CIf someone becomes ceremonially unclean
         by touching a dead person and then touches any of these foods, will the food
         be defiled?\u201DAnd the priests answered, \u201CYes.\u201D  "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "Then Haggai responded, \u201CThat is how it is with this people and
         this nation, says the <smallcaps>Lord</smallcaps>. Everything they do and
         everything they offer is defiled by their sin. "
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "Look at what was happening to you before you began to lay the foundation
         of the <smallcaps>Lord</smallcaps>\u2019s Temple. "
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'When you hoped for a twenty-bushel crop, you harvested only ten.
         When you expected to draw fifty gallons from the winepress, you found only
         twenty. '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'I sent blight and mildew and hail to destroy everything you worked
         so hard to produce. Even so, you refused to return to me, says the <smallcaps>Lord</smallcaps>.  '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: "\u201CThink about this eighteenth day of December, the day[[COMMENT(0)]]
         when the foundation of the <smallcaps>Lord</smallcaps>\u2019s Temple was
         laid. Think carefully. "
       comments:
       - number: '2:18 '
         content: Or <b>On this eighteenth day of December, think about the day.</b>
-    - title: Promises for Zerubbabel
+    - name: '19: Promises for Zerubbabel'
+      title: Promises for Zerubbabel
+      number: 19
       content: "I am giving you a promise now while the seed is still in the barn.[[COMMENT(0)]]
         You have not yet harvested your grain, and your grapevines, fig trees, pomegranates,
         and olive trees have not yet produced their crops. But from this day onward
@@ -208,19 +284,34 @@ MonoBehaviour:
       comments:
       - number: '2:19 '
         content: Hebrew <b>Is the seed yet in the barn?</b>
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'On that same day, December 18,[[COMMENT(0)]] the <smallcaps>Lord</smallcaps>
         sent this second message to Haggai: '
       comments:
       - number: '2:20 '
         content: Hebrew <b>On the twenty-fourth day of the [ninth] month; </b>see
           note on 2:10.
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: "\u201CTell Zerubbabel, the governor of Judah, that I am about to
         shake the heavens and the earth. "
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'I will overthrow royal thrones and destroy the power of foreign kingdoms.
         I will overturn their chariots and riders. The horses will fall, and their
         riders will kill each other.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "\u201CBut when this happens, says the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies, I will honor you, Zerubbabel son of Shealtiel, my
+        servant. I will make you like a signet ring on my finger, says the <smallcaps>Lord</smallcaps>,
+        for I have chosen you. I, the <smallcaps>Lord</smallcaps> of Heaven\u2019s
+        Armies, have spoken!\u201D"
       comments: []

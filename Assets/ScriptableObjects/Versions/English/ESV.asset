@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b691b6e71381f9f499c32feebef90c82, type: 3}
+  m_Name: ESV
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: American Standard Version
+  <NameCode>k__BackingField: ESV
+  <Language>k__BackingField: {fileID: 11400000, guid: 339807bce41f4e54989aa8673c9b5d27, type: 2}
+  <Description>k__BackingField: "This digital work contains the Holy Bible, English
+    Standard Version\xAE (ESV\xAE), copyright \xA9 2001 by Crossway, a publishing
+    ministry of Good News Publishers. ESV Text Edition: 2016. Used by permission.
+    All rights reserved.\r\n\r\nThe Holy Bible, English Standard Version (ESV) is
+    adapted from the Revised Standard Version of the Bible, copyright Division of
+    Christian Education of the National Council of the Churches of Christ in the
+    U.S.A. All rights reserved.\r\n\r\nEnglish Standard Version, ESV, and the ESV
+    logo are registered trademarks of Good News Publishers. Used by permission.\r\n\r\nESV
+    Hear the Word Audio Bible \xA9 2016 Crossway."
+  <Publisher>k__BackingField: Crossway / Good News Publishers
+  <Copyright>k__BackingField: "The Holy Bible, English Standard Version\xAE (ESV\xAE),
+    copyright \xA9 2001 by Crossway, a publishing ministry of Good News Publishers.\r"
+  <Websites>k__BackingField:
+  - www.crossway.org
+  <Books>k__BackingField:
+  - {fileID: 11400000, guid: 93f433fc60263a34f9e7f019e7791b6e, type: 2}
+  - {fileID: 11400000, guid: 30376357d73de864f99ce269ae307645, type: 2}
+  - {fileID: 11400000, guid: 8031c9ad7dfd58e4db9c13bd88122a4e, type: 2}
+  - {fileID: 11400000, guid: 517472cc22ca9344dbf6b68f16abca85, type: 2}
+  - {fileID: 11400000, guid: bd73836f0c1902f41a4912572e6c68c1, type: 2}
+  - {fileID: 11400000, guid: a796e32dc3853734e804386ea5c1afd2, type: 2}
+  - {fileID: 11400000, guid: ea0b59e2cc254c340b4e6ede4d5df29b, type: 2}
+  - {fileID: 11400000, guid: 31ab28f6c5217984db32a6e206037547, type: 2}
+  - {fileID: 11400000, guid: 13fdcad3bc9fb4d42ad0025865e14a58, type: 2}
+  - {fileID: 11400000, guid: 571ef86b7614b514a8fb77c8a313f61d, type: 2}
+  - {fileID: 11400000, guid: 547293c4a2056b842b8f54e9bf463fd0, type: 2}
+  - {fileID: 11400000, guid: d826772858bbaca4ca92b78e4db980e3, type: 2}
+  - {fileID: 11400000, guid: 03d31be86b925504fbd9b4177e70bc56, type: 2}
+  - {fileID: 11400000, guid: 7cba37839e2690348afe6a0f1249c790, type: 2}
+  - {fileID: 11400000, guid: 33498da751a0930428194f66da876c2e, type: 2}
+  - {fileID: 11400000, guid: f726c7290c91dda4a8248281c41cc0cb, type: 2}
+  - {fileID: 11400000, guid: b2cadbaa70c3058499b99ff83ac7ac2f, type: 2}
+  - {fileID: 11400000, guid: 4ac90526bdbf0814b8a39f460b444728, type: 2}
+  - {fileID: 11400000, guid: 829421ad425892f42b5eb721f0b3c5d3, type: 2}
+  - {fileID: 11400000, guid: 5e571fdb9ce9576488451438ef0c3a38, type: 2}
+  - {fileID: 11400000, guid: e543ba23166986c4aba04c7893a82dee, type: 2}
+  - {fileID: 11400000, guid: 8330ce80b27861c4eb976e6643dc8f73, type: 2}
+  - {fileID: 11400000, guid: d56403cc23b578a42a8370c16eebc2da, type: 2}
+  - {fileID: 11400000, guid: 4152d0d83b738574d9c8a4f74bb98e90, type: 2}
+  - {fileID: 11400000, guid: bb66e556bec7b4d4b9e3e722682eac5e, type: 2}
+  - {fileID: 11400000, guid: 00c2cb08b38dc8e43a27d65a43df5fee, type: 2}
+  - {fileID: 11400000, guid: bed73d94d8d75ba49a3c87c47a560d1c, type: 2}
+  - {fileID: 11400000, guid: b6869e024976fdc46830b3867d246344, type: 2}
+  - {fileID: 11400000, guid: 599c6bebf04b49b46bfe8915eb672ab6, type: 2}
+  - {fileID: 11400000, guid: 1ee969c189ff7384e89c41345e94b374, type: 2}
+  - {fileID: 11400000, guid: 58a76dae1d8cd1246a6ac006a691fdd7, type: 2}
+  - {fileID: 11400000, guid: 4ff4d1801743b2041bf5c7eefe464cff, type: 2}
+  - {fileID: 11400000, guid: 7f92bd27dc07bb14791feffd7fcf35ee, type: 2}
+  - {fileID: 11400000, guid: ec558c6ec35f4384a96a32118bb84157, type: 2}
+  - {fileID: 11400000, guid: ddea1c78077a5b041a24308a2c6fcca1, type: 2}
+  - {fileID: 11400000, guid: 88f792c90dcdc514fb3cc89630c55f2c, type: 2}
+  - {fileID: 11400000, guid: 6aa2c07d55108984bbc313d6f3001d4e, type: 2}
+  - {fileID: 11400000, guid: 314d96a1d0fa166438efbcbe54a3a815, type: 2}
+  - {fileID: 11400000, guid: 3fbdb9caf4e6c3248a57b5ae6fc3bd99, type: 2}
+  - {fileID: 11400000, guid: 0004bfe8cdf7c164cb569e6a378518e4, type: 2}
+  - {fileID: 11400000, guid: 86a91e5a4eae86d43aa56cd07b46f234, type: 2}
+  - {fileID: 11400000, guid: 43b460de8e425994baa8a992c901c4c9, type: 2}
+  - {fileID: 11400000, guid: 3fd5bcfaf3177fb45ab89682899906c1, type: 2}
+  - {fileID: 11400000, guid: bab80ea36c17b314dbf96e43c971c53d, type: 2}
+  - {fileID: 11400000, guid: 05ae78d9b384e434d9e84b6cd1a2e356, type: 2}
+  - {fileID: 11400000, guid: 8f3b881414ae0824895e138571cd81c4, type: 2}
+  - {fileID: 11400000, guid: 7b1c64d331b3b4e4db462710a66a743f, type: 2}
+  - {fileID: 11400000, guid: d971afb4115ddc346a990dcb8f695d2e, type: 2}
+  - {fileID: 11400000, guid: 3c53abff25c779342825dcac4a210990, type: 2}
+  - {fileID: 11400000, guid: 0967d1fa9a9d26641b6db479ceec7ebe, type: 2}
+  - {fileID: 11400000, guid: 53b26012174507c479cd58b288adec6c, type: 2}
+  - {fileID: 11400000, guid: 90fbc8aedf33f7b4883fa17c45e00fad, type: 2}
+  - {fileID: 11400000, guid: f7f10b79cadc36746b48000be2601776, type: 2}
+  - {fileID: 11400000, guid: cdeddbc8408090944b6399d67269bd22, type: 2}
+  - {fileID: 11400000, guid: c6bc4e3a0ffaab14abbf7fe5191a1f79, type: 2}
+  - {fileID: 11400000, guid: 52bf7e99356cd4a4cb88936e5e8bfd08, type: 2}
+  - {fileID: 11400000, guid: 17e6a5a268c0e194483fe408184b2f0e, type: 2}
+  - {fileID: 11400000, guid: a8463944dbddcf44e8450f763198e93c, type: 2}
+  - {fileID: 11400000, guid: 43d986822c037274782fb744f5a97c02, type: 2}
+  - {fileID: 11400000, guid: c1b5400620a3b48429ad7f4bb11f4041, type: 2}
+  - {fileID: 11400000, guid: d9df4cf2c520b4e4da7c1ca074858fd8, type: 2}
+  - {fileID: 11400000, guid: 2af110c9f2811eb41bf29459b1e1a988, type: 2}
+  - {fileID: 11400000, guid: e5e447fb5df1bfb439f80dd67e3876d3, type: 2}
+  - {fileID: 11400000, guid: 16a1bbc7b720f7e40b7cc0668db62399, type: 2}
+  - {fileID: 11400000, guid: f3b40af7217a63e46819c36fbff3063b, type: 2}
+  - {fileID: 11400000, guid: 6d568c5e71ef836429cd92bbd9badf76, type: 2}

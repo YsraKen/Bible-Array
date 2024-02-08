@@ -1,0 +1,753 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: SNG
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Song of Solomon
+  fancyName: 
+  nickname: sng
+  version: {fileID: 11400000, guid: bd3f8ba6a2445b646991a3e44f7f687a, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  The song of songs, which <i>is</i> Solomon''s.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Let him kiss me with the kisses of his mouth:For thy love <i>is</i>
+        better than wine.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Because of the savour of thy good ointmentsThy name <i>is as</i>
+        ointment poured forth,Therefore do the virgins love thee.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Draw me, we will run after thee:The king hath brought me into his
+        chambers:We will be glad and rejoice in thee,We will remember thy love more
+        than wine:The upright love thee.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'I <i>am</i> black, but comely,O ye daughters of Jerusalem,As the
+        tents of Kedar,As the curtains of Solomon.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Look not upon me, because I <i>am</i> black,Because the sun hath
+        looked upon me:My mother''s children were angry with me;They made me the
+        keeper of the vineyards;  <i>But</i> mine own vineyard have I not kept.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Tell me, O thou whom my soul loveth,Where thou feedest, where thou
+        makest <i>thy flock</i> to rest at noon:For why should I be as one that turneth
+        asideBy the flocks of thy companions?  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'If thou know not,O thou fairest among women,Go thy way forth by the
+        footsteps of the flock,And feed thy kidsBeside the shepherds'' tents.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'I have compared thee, O my love,To a company of horses in Pharaoh''s
+        chariots.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Thy cheeks are comely with rows <i>of jewels</i>,Thy neck with chains
+        <i>of gold</i>.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'We will make thee borders of goldWith studs of silver.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'While the King <i>sitteth</i> at his table,My spikenard sendeth forth
+        the smell thereof.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'A bundle of myrrh <i>is</i> my wellbeloved unto me;He shall lie all
+        night betwixt my breasts.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'My beloved <i>is</i> unto me <i>as</i> a cluster of camphireIn the
+        vineyards of Engedi.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Behold, thou <i>art</i> fair, my love;Behold, thou <i>art</i> fair;Thou
+        <i>hast</i> doves'' eyes.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Behold, thou <i>art</i> fair, my beloved,Yea, pleasant:Also our bed
+        <i>is</i> green.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: The beams of our house <i>are</i> cedar,  <i>And</i> our rafters of
+        fir.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  I <i>am</i> the rose of Sharon,  <i>And</i> the lily of the valleys.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'As the lily among thorns,So <i>is</i> my love among the daughters.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'As the apple tree among the trees of the wood,So <i>is</i> my beloved
+        among the sons.I sat down under his shadow with great delight,And his fruit
+        <i>was</i> sweet to my taste.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'He brought me to the banqueting house,And his banner over me <i>was</i>
+        love.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Stay me with flagons,Comfort me with apples:For I <i>am</i> sick
+        of love.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'His left hand <i>is</i> under my head,And his right hand doth embrace
+        me.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'I charge you, O ye daughters of Jerusalem,By the roes, and by the
+        hinds of the field,That ye stir not up, nor awake <i>my</i> love,Till he
+        please.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The voice of my beloved!Behold, he comethLeaping upon the mountains,Skipping
+        upon the hills.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'My beloved is like a roeOr a young hart:Behold, he standethBehind
+        our wall,He looketh forth at the windows,Shewing himself through the lattice.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'My beloved spake, and said unto me,Rise up, my love, my fair one,And
+        come away.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'For, lo, the winter is past,The rain is over <i>and</i> gone;  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The flowers appear on the earth;The time of the singing <i>of birds</i>
+        is come,And the voice of the turtleIs heard in our land;  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The fig tree putteth forth her green figs,And the vines <i>with</i>
+        the tender grapeGive a <i>good</i> smell.Arise, my love, my fair one,and
+        come away.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'O my dove, <i>that art</i> in the clefts of the rock,In the secret
+        <i>places</i> of the stairs,Let me see thy countenance,Let me hear thy voice;For
+        sweet <i>is</i> thy voice,And thy countenance <i>is</i> comely.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Take us the foxes,The little foxes,That spoil the vines:For our vines
+        <i>have</i> tender grapes.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'My beloved <i>is</i> mine, and I <i>am</i> his:He feedeth among the
+        lilies.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Until the day break,And the shadows flee away,Turn, my beloved, and
+        be thou like a roe or a young hartUpon the mountains of Bether.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  By night on my bed I sought him whom my soul loveth:I sought him,
+        but I found him not.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'I will rise now, and go about the cityIn the streets, and in the
+        broad waysI will seek him whom my soul loveth:I sought him, but I found him
+        not.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'The watchmen that go about the city found me:  <i>To whom I said</i>,Saw
+        ye him whom my soul loveth?  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  <i>It was</i> but a little that I passed from them,But I found
+        him whom my soul loveth:I held him, and would not let him go,Until I had
+        brought him into my mother''s house,And into the chamber of her that conceived
+        me.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'I charge you, O ye daughters of Jerusalem,By the roes, and by the
+        hinds of the field,That ye stir not up, nor awake <i>my</i> love,Till he
+        please.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Who <i>is</i> this that cometh out of the wildernessLike pillars
+        of smoke,Perfumed with myrrh and frankincense,With all powders of the merchant?  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Behold his bed, which <i>is</i> Solomon''s;Threescore valiant men
+        <i>are</i> about it,Of the valiant of Israel.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'They all hold swords,  <i>Being</i> expert in war:Every man <i>hath</i>
+        his sword upon his thighBecause of fear in the night.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'King Solomon made himself a chariotOf the wood of Lebanon.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'He made the pillars thereof <i>of</i> silver,The bottom thereof <i>of</i>
+        gold, the covering of it <i>of</i> purple,The midst thereof being paved <i>with</i>
+        love,For the daughters of Jerusalem.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Go forth, O ye daughters of Zion,And behold king SolomonWith the crown
+        wherewith his mother crowned himIn the day of his espousals,And in the day
+        of the gladness of his heart.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Behold, thou <i>art</i> fair, my love;Behold, thou <i>art</i> fair;Thou
+        <i>hast</i> doves'' eyesWithin thy locks:Thy hair <i>is</i> as a flock of
+        goats,That appear from mount Gilead.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Thy teeth <i>are</i> like a flock <i>of sheep that are even</i> shorn,Which
+        came up from the washing;Whereof every one bear twins,And none <i>is</i>
+        barren among them.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Thy lips <i>are</i> like a thread of scarlet,And thy speech <i>is</i>
+        comely:Thy temples <i>are</i> like a piece of a pomegranateWithin thy locks.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Thy neck <i>is</i> like the tower of DavidBuilded for an armoury,Whereon
+        there hang a thousand bucklers,All shields of mighty men.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Thy two breasts <i>are</i> like two young roesThat are twins,Which
+        feed among the lilies.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Until the day break,And the shadows flee away,I will get me to the
+        mountain of myrrh,And to the hill of frankincense.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Thou <i>art</i> all fair, my love;  <i>There is</i> no spot in thee.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Come with me from Lebanon, <i>my</i> spouse,With me from Lebanon:Look
+        from the top of Amana,From the top of Shenir and Hermon,From the lions''
+        dens,From the mountains of the leopards.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Thou hast ravished my heart, my sister, <i>my</i> spouse;Thou hast
+        ravished my heart with one of thine eyes,With one chain of thy neck.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'How fair is thy love, my sister, <i>my</i> spouse!How much better
+        is thy love than wine!And the smell of thine ointments than all spices!  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Thy lips, O <i>my</i> spouse, drop <i>as</i> the honeycomb:Honey
+        and milk <i>are</i> under thy tongue;And the smell of thy garments <i>is</i>
+        like the smell of Lebanon.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'A garden inclosed <i>is</i> my sister, <i>my</i> spouse;A spring
+        shut up, a fountain sealed.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Thy plants <i>are</i> an orchard of pomegranates,With pleasant fruits;Camphire,
+        with spikenard,  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Spikenard and saffron;Calamus and cinnamon,With all trees of frankincense;Myrrh
+        and aloes, with all the chief spices:  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'A fountain of gardens,A well of living waters, and streams from Lebanon.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: Awake, O north wind;And come, thou south;Blow upon my garden,  <i>That</i>
+        the spices thereof may flow out.Let my beloved come into his garden,And eat
+        his pleasant fruits.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  I am come into my garden, my sister, <i>my</i> spouse:I have gathered
+        my myrrh with my spice;I have eaten my honeycomb with my honey;I have drunk
+        my wine with my milk:Eat, O friends;Drink, yea, drink abundantly, O beloved.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'I sleep, but my heart waketh:  <i>It is</i> the voice of my beloved
+        that knocketh, <i>saying</i>,Open to me, my sister, my love,My dove, my undefiled:For
+        my head is filled with dew,  <i>And</i> my locks with the drops of the night.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'I have put off my coat;How shall I put it on?I have washed my feet;How
+        shall I defile them?  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'My beloved put in his hand by the hole <i>of the door</i>,And my
+        bowels were moved for him.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'I rose up to open to my beloved;And my hands dropped <i>with</i>
+        myrrh,And my fingers <i>with</i> sweet smelling myrrh,Upon the handles of
+        the lock.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'I opened to my beloved;But my beloved had withdrawn himself, <i>and</i>
+        was gone:My soul failed when he spake:I sought him, but I could not find
+        him;I called him, but he gave me no answer.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The watchmen that went about the city found me,They smote me, they
+        wounded me;The keepers of the walls took away my veil from me.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'I charge you, O daughters of Jerusalem,If ye find my beloved,That
+        ye tell him,that I <i>am</i> sick of love.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'What <i>is</i> thy beloved more than <i>another</i> beloved,O thou
+        fairest among women?What <i>is</i> thy beloved more than <i>another</i> beloved,That
+        thou dost so charge us?  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'My beloved <i>is</i> white and ruddy,The chiefest among ten thousand.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'His head <i>is as</i> the most fine gold,His locks <i>are</i> bushy, 
+        <i>And</i> black as a raven.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'His eyes <i>are</i> as <i>the eyes</i> of doves by the rivers of
+        waters,Washed with milk, <i>and</i> fitly set.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'His cheeks <i>are</i> as a bed of spices, <i>as</i> sweet flowers:His
+        lips <i>like</i> lilies, dropping sweet smelling myrrh.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'His hands <i>are as</i> gold rings set with the beryl:His belly <i>is
+        as</i> bright ivory overlaid <i>with</i> sapphires.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'His legs <i>are as</i> pillars of marble, set upon sockets of fine
+        gold:His countenance <i>is</i> as Lebanon, excellent as the cedars.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: His mouth <i>is</i> most sweet:Yea, he <i>is</i> altogether lovely.This
+        <i>is</i> my beloved, and this <i>is</i> my friend,O daughters of Jerusalem.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Whither is thy beloved gone,O thou fairest among women?Whither
+        is thy beloved turned aside?That we may seek him with thee.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'My beloved is gone down into his garden,To the beds of spices,To
+        feed in the gardens,And to gather lilies.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'I <i>am</i> my beloved''s, and my beloved <i>is</i> mine:He feedeth
+        among the lilies.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Thou <i>art</i> beautiful, O my love, as Tirzah,Comely as Jerusalem,Terrible
+        as <i>an army</i> with banners.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Turn away thine eyes from me,For they have overcome me:Thy hair <i>is</i>
+        as a flock of goatsThat appear from Gilead.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Thy teeth <i>are</i> as a flock of sheepWhich go up from the washing,Whereof
+        every one beareth twins,And <i>there is</i> not one barren among them.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'As a piece of a pomegranate <i>are</i> thy templesWithin thy locks.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'There are threescore queens, and fourscore concubines,And virgins
+        without number.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'My dove, my undefiled is <i>but</i> one;She <i>is</i> the <i>only</i>
+        one of her mother,She <i>is</i> the choice <i>one</i> of her that bare her.The
+        daughters saw her, and blessed her;  <i>Yea</i>, the queens and the concubines,
+        and they praised her.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Who <i>is</i> she <i>that</i> looketh forth as the morning,Fair as
+        the moon, clear as the sun,  <i>And</i> terrible as <i>an army</i> with banners?  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'I went down into the garden of nutsTo see the fruits of the valley, 
+        <i>And</i> to see whether the vine flourished,  <i>And</i> the pomegranates
+        budded.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Or ever I was aware,My soul made me <i>like</i> the chariots of Amminadib.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: Return, return, O Shulamite;Return, return, that we may look upon
+        thee.What will ye see in the Shulamite?As it were the company of two armies.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  How beautiful are thy feet with shoes,O prince''s daughter!The
+        joints of thy thighs <i>are</i> like jewels,The work of the hands of a cunning
+        workman.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Thy navel <i>is like</i> a round goblet,  <i>Which</i> wanteth not
+        liquor:Thy belly <i>is like</i> an heap of wheatSet about with lilies.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Thy two breasts <i>are</i> like two young roes  <i>That are</i> twins.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Thy neck <i>is</i> as a tower of ivory;Thine eyes <i>like</i> the
+        fishpools in Heshbon,By the gate of Bathrabbim:Thy nose <i>is</i> as the
+        tower of LebanonWhich looketh toward Damascus.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Thine head upon thee <i>is</i> like Carmel,And the hair of thine
+        head like purple;The king <i>is</i> held in the galleries.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'How fair and how pleasant art thou,O love, for delights!  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'This thy stature is like to a palm tree,And thy breasts to clusters
+        <i>of grapes</i>.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'I said, I will go up to the palm tree,I will take hold of the boughs
+        thereof:Now also thy breasts shall be as clusters of the vine,And the smell
+        of thy nose like apples;  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And the roof of thy mouth like the best wineFor my beloved, that
+        goeth <i>down</i> sweetly,Causing the lips of those that are asleep to speak.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'I <i>am</i> my beloved''s,And his desire <i>is</i> toward me.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Come, my beloved,Let us go forth into the field;Let us lodge in the
+        villages.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Let us get up early to the vineyards;Let us see if the vine flourish, 
+        <i>Whether</i> the tender grape appear,  <i>And</i> the pomegranates bud
+        forth:There will I give thee my loves.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: The mandrakes give a smell,And at our gates <i>are</i> all manner
+        of pleasant <i>fruits</i>,New and old,  <i>Which</i> I have laid up for thee,
+        O my beloved.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  O that thou <i>wert</i> as my brother,That sucked the breasts of
+        my mother!  <i>When</i> I should find thee without, I would kiss thee;Yea,
+        I should not be despised.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'I would lead thee,  <i>And</i> bring thee into my mother''s house, 
+        <i>Who</i> would instruct me:I would cause thee to drink of spiced wineOf
+        the juice of my pomegranate.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'His left hand <i>should be</i> under my head,And his right hand should
+        embrace me.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'I charge you, O daughters of Jerusalem,That ye stir not up, nor awake
+        <i>my</i> love,Until he please.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Who <i>is</i> this that cometh up from the wilderness,Leaning upon
+        her beloved?I raised thee up under the apple tree:There thy mother brought
+        thee forth:There she brought thee forth <i>that</i> bare thee.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Set me as a seal upon thine heart,As a seal upon thine arm:For love
+        <i>is</i> strong as death;Jealousy <i>is</i> cruel as the grave:The coals
+        thereof <i>are</i> coals of fire,  <i>Which hath</i> a most vehement flame.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Many waters cannot quench love,Neither can the floods drown it:If
+        a man would give all the substance of his house for love,It would utterly
+        be contemned.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'We have a little sister,And she hath no breasts:What shall we do
+        for our sisterIn the day when she shall be spoken for?  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'If she <i>be</i> a wall,We will build upon her a palace of silver:And
+        if she <i>be</i> a door,We will inclose her with boards of cedar.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'I <i>am</i> a wall,And my breasts like towers:Then was I in his eyesAs
+        one that found favour.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Solomon had a vineyard at Baalhamon;He let out the vineyard unto
+        keepers;Every one for the fruit thereof was to bring a thousand <i>pieces</i>
+        of silver.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'My vineyard, which <i>is</i> mine, <i>is</i> before me:Thou, O Solomon,
+        <i>must have</i> a thousand,And those that keep the fruit thereof two hundred.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Thou that dwellest in the gardens,The companions hearken to thy voice:Cause
+        me to hear <i>it</i>.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: Make haste, my beloved,And be thou like to a roeOr to a young hartUpon
+        the mountains of spices.
+      comments: []

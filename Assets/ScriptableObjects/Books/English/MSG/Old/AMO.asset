@@ -1,0 +1,1094 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: AMO
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Amos
+  fancyName: 
+  nickname: amo
+  version: {fileID: 11400000, guid: 433894a244f646848a22a9c7d127b66b, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  This message was given to Amos, a shepherd from the town of Tekoa
+        in Judah. He received this message in visions two years before the earthquake,
+        when Uzziah was king of Judah and Jeroboam II, the son of Jehoash,[[COMMENT(0)]]
+        was king of Israel.  '
+      comments:
+      - number: '1:1 '
+        content: Hebrew <b>Joash, </b>a variant spelling of Jehoash.
+    - name: "2: God\u2019s Judgment on Israel\u2019s Neighbors"
+      title: "God\u2019s Judgment on Israel\u2019s Neighbors"
+      number: 2
+      content: "This is what he saw and heard:\u201CThe <smallcaps>Lord</smallcaps>\u2019s
+        voice will roar from Zionand thunder from Jerusalem!The lush pastures of
+        the shepherds will dry up;the grass on Mount Carmel will wither and die.\u201D  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "This is what the <smallcaps>Lord</smallcaps> says:\u201CThe people
+        of Damascus have sinned again and again,[[COMMENT(0)]]and I will not let
+        them go unpunished!They beat down my people in Gileadas grain is threshed
+        with iron sledges.  "
+      comments:
+      - number: '1:3 '
+        content: Hebrew <b>have committed three sins, even four; </b>also in 1:6,
+          9, 11, 13.
+    - name: '4: '
+      title: 
+      number: 4
+      content: "So I will send down fire on King Hazael\u2019s palace,and the fortresses
+        of King Ben-hadad will be destroyed.  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "I will break down the gates of Damascusand slaughter the people in
+        the valley of Aven.I will destroy the ruler in Beth-eden,and the people of
+        Aram will go as captives to Kir,\u201Dsays the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "This is what the <smallcaps>Lord</smallcaps> says:\u201CThe people
+        of Gaza have sinned again and again,and I will not let them go unpunished!They
+        sent whole villages into exile,selling them as slaves to Edom.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'So I will send down fire on the walls of Gaza,and all its fortresses
+        will be destroyed.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "I will slaughter the people of Ashdodand destroy the king of Ashkelon.Then
+        I will turn to attack Ekron,and the few Philistines still left will be killed,\u201Dsays
+        the Sovereign <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "This is what the <smallcaps>Lord</smallcaps> says:\u201CThe people
+        of Tyre have sinned again and again,and I will not let them go unpunished!They
+        broke their treaty of brotherhood with Israel,selling whole villages as slaves
+        to Edom.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "So I will send down fire on the walls of Tyre,and all its fortresses
+        will be destroyed.\u201D  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "This is what the <smallcaps>Lord</smallcaps> says:\u201CThe people
+        of Edom have sinned again and again,and I will not let them go unpunished!They
+        chased down their relatives, the Israelites, with swords,showing them no
+        mercy.In their rage, they slashed them continuallyand were unrelenting in
+        their anger.  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "So I will send down fire on Teman,and the fortresses of Bozrah will
+        be destroyed.\u201D  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "This is what the <smallcaps>Lord</smallcaps> says:\u201CThe people
+        of Ammon have sinned again and again,and I will not let them go unpunished!When
+        they attacked Gilead to extend their borders,they ripped open pregnant women
+        with their swords.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'So I will send down fire on the walls of Rabbah,and all its fortresses
+        will be destroyed.The battle will come upon them with shouts,like a whirlwind
+        in a mighty storm.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "And their king[[COMMENT(0)]] and his princes will go into exile together,\u201Dsays
+        the <smallcaps>Lord</smallcaps>."
+      comments:
+      - number: '1:15 '
+        content: Hebrew <b>malcam, </b>possibly referring to their god Molech.
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "  This is what the <smallcaps>Lord</smallcaps> says:\u201CThe people
+        of Moab have sinned again and again,[[COMMENT(0)]]and I will not let them
+        go unpunished!They desecrated the bones of Edom\u2019s king,burning them
+        to ashes.  "
+      comments:
+      - number: '2:1 '
+        content: Hebrew <b>have committed three sins, even four; </b>also in 2:4,
+          6.
+    - name: '2: '
+      title: 
+      number: 2
+      content: "So I will send down fire on the land of Moab,and all the fortresses
+        in Kerioth will be destroyed.The people will fall in the noise of battle,as
+        the warriors shout and the ram\u2019s horn sounds.  "
+      comments: []
+    - name: "3: God\u2019s Judgment on Judah and Israel"
+      title: "God\u2019s Judgment on Judah and Israel"
+      number: 3
+      content: "And I will destroy their kingand slaughter all their princes,\u201Dsays
+        the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "This is what the <smallcaps>Lord</smallcaps> says:\u201CThe people
+        of Judah have sinned again and again,and I will not let them go unpunished!They
+        have rejected the instruction of the <smallcaps>Lord</smallcaps>,refusing
+        to obey his decrees.They have been led astray by the same liesthat deceived
+        their ancestors.  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "So I will send down fire on Judah,and all the fortresses of Jerusalem
+        will be destroyed.\u201D  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "This is what the <smallcaps>Lord</smallcaps> says:\u201CThe people
+        of Israel have sinned again and again,and I will not let them go unpunished!They
+        sell honorable people for silverand poor people for a pair of sandals.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'They trample helpless people in the dustand shove the oppressed out
+        of the way.Both father and son sleep with the same woman,corrupting my holy
+        name.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'At their religious festivals,they lounge in clothing their debtors
+        put up as security.In the house of their gods,[[COMMENT(0)]]they drink wine
+        bought with unjust fines.  '
+      comments:
+      - number: '2:8 '
+        content: Or <b>their God.</b>
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CBut as my people watched,I destroyed the Amorites,though they
+        were as tall as cedarsand as strong as oaks.I destroyed the fruit on their
+        branchesand dug out their roots.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'It was I who rescued you from Egyptand led you through the desert
+        for forty years,so you could possess the land of the Amorites.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "I chose some of your sons to be prophetsand others to be Nazirites.Can
+        you deny this, my people of Israel?\u201Dasks the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CBut you caused the Nazirites to sin by making them drink wine,and
+        you commanded the prophets, \u2018Shut up!\u2019  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CSo I will make you groanlike a wagon loaded down with sheaves
+        of grain.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Your fastest runners will not get away.The strongest among you will
+        become weak.Even mighty warriors will be unable to save themselves.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "The archers will not stand their ground.The swiftest runners won\u2019t
+        be fast enough to escape.Even those riding horses won\u2019t be able to save
+        themselves.  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "On that day the most courageous of your fighting menwill drop their
+        weapons and run for their lives,\u201Dsays the <smallcaps>Lord</smallcaps>."
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "  Listen to this message that the <smallcaps>Lord</smallcaps> has
+        spoken against you, O people of Israel\u2014against the entire family I rescued
+        from Egypt:  "
+      comments: []
+    - name: '2: Witnesses against Guilty Israel'
+      title: Witnesses against Guilty Israel
+      number: 2
+      content: "\u201CFrom among all the families on the earth,I have been intimate
+        with you alone.That is why I must punish youfor all your sins.\u201D  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Can two people walk togetherwithout agreeing on the direction?  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Does a lion ever roar in a thicketwithout first finding a victim?Does
+        a young lion growl in its denwithout first catching its prey?  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Does a bird ever get caught in a trapthat has no bait?Does a trap
+        spring shutwhen there\u2019s nothing to catch?  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "When the ram\u2019s horn blows a warning,shouldn\u2019t the people
+        be alarmed?Does disaster come to a cityunless the <smallcaps>Lord</smallcaps>
+        has planned it?  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Indeed, the Sovereign <smallcaps>Lord</smallcaps> never does anythinguntil
+        he reveals his plans to his servants the prophets.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "The lion has roared\u2014so who isn\u2019t frightened?The Sovereign
+        <smallcaps>Lord</smallcaps> has spoken\u2014so who can refuse to proclaim
+        his message?  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Announce this to the leaders of Philistia[[COMMENT(0)]]and to the
+        great ones of Egypt:\u201CTake your seats now on the hills around Samaria,and
+        witness the chaos and oppression in Israel.\u201D  "
+      comments:
+      - number: '3:9 '
+        content: Hebrew <b>Ashdod.</b>
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201CMy people have forgotten how to do right,\u201Dsays the <smallcaps>Lord</smallcaps>.\u201CTheir
+        fortresses are filled with wealthtaken by theft and violence.  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Therefore,\u201D says the Sovereign <smallcaps>Lord</smallcaps>,\u201Can
+        enemy is coming!He will surround them and shatter their defenses.Then he
+        will plunder all their fortresses.\u201D  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "This is what the <smallcaps>Lord</smallcaps> says:\u201CA shepherd
+        who tries to rescue a sheep from a lion\u2019s mouthwill recover only two
+        legs or a piece of an ear.So it will be for the Israelites in Samaria lying
+        on luxurious beds,and for the people of Damascus reclining on couches.[[COMMENT(0)]]  "
+      comments:
+      - number: '3:12 '
+        content: The meaning of the Hebrew in this sentence is uncertain.
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CNow listen to this, and announce it throughout all Israel,[[COMMENT(0)]]\u201D
+        says the Lord, the <smallcaps>Lord</smallcaps> God of Heaven\u2019s Armies.  "
+      comments:
+      - number: '3:13 '
+        content: "Hebrew <b>the house of Jacob. </b>The names \u201CJacob\u201D and
+          \u201CIsrael\u201D are often interchanged throughout the Old Testament,
+          referring sometimes to the individual patriarch and sometimes to the nation."
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201COn the very day I punish Israel for its sins,I will destroy
+        the pagan altars at Bethel.The horns of the altar will be cut offand fall
+        to the ground.  "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "And I will destroy the beautiful homes of the wealthy\u2014their
+        winter mansions and their summer houses, too\u2014all their palaces filled
+        with ivory,\u201Dsays the <smallcaps>Lord</smallcaps>."
+      comments: []
+  - verses:
+    - name: "1: Israel\u2019s Failure to Learn"
+      title: "Israel\u2019s Failure to Learn"
+      number: 1
+      content: "  Listen to me, you fat cows[[COMMENT(0)]]living in Samaria,you women
+        who oppress the poorand crush the needy,and who are always calling to your
+        husbands,\u201CBring us another drink!\u201D  "
+      comments:
+      - number: '4:1 '
+        content: Hebrew <b>you cows of Bashan.</b>
+    - name: '2: '
+      title: 
+      number: 2
+      content: "The Sovereign <smallcaps>Lord</smallcaps> has sworn this by his holiness:\u201CThe
+        time will come when you will be led awaywith hooks in your noses.Every last
+        one of you will be dragged awaylike a fish on a hook!  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "You will be led out through the ruins of the wall;you will be thrown
+        from your fortresses,[[COMMENT(0)]]\u201Dsays the <smallcaps>Lord</smallcaps>.  "
+      comments:
+      - number: '4:3 '
+        content: Or <b>thrown out toward Harmon, </b>possibly a reference to Mount
+          Hermon.
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CGo ahead and offer sacrifices to the idols at Bethel.Keep on
+        disobeying at Gilgal.Offer sacrifices each morning,and bring your tithes
+        every three days.  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Present your bread made with yeastas an offering of thanksgiving.Then
+        give your extra voluntary offeringsso you can brag about it everywhere!This
+        is the kind of thing you Israelites love to do,\u201Dsays the Sovereign <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "\u201CI brought hunger to every cityand famine to every town.But
+        still you would not return to me,\u201Dsays the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CI kept the rain from fallingwhen your crops needed it the most.I
+        sent rain on one townbut withheld it from another.Rain fell on one field,while
+        another field withered away.  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "People staggered from town to town looking for water,but there was
+        never enough.But still you would not return to me,\u201Dsays the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CI struck your farms and vineyards with blight and mildew.Locusts
+        devoured all your fig and olive trees.But still you would not return to me,\u201Dsays
+        the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201CI sent plagues on youlike the plagues I sent on Egypt long
+        ago.I killed your young men in warand led all your horses away.[[COMMENT(0)]]The
+        stench of death filled the air!But still you would not return to me,\u201Dsays
+        the <smallcaps>Lord</smallcaps>.  "
+      comments:
+      - number: '4:10 '
+        content: Or <b>and slaughtered your captured horses.</b>
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CI destroyed some of your cities,as I destroyed[[COMMENT(0)]]
+        Sodom and Gomorrah.Those of you who survivedwere like charred sticks pulled
+        from a fire.But still you would not return to me,\u201Dsays the <smallcaps>Lord</smallcaps>.  "
+      comments:
+      - number: '4:11 '
+        content: Hebrew <b>as when God destroyed.</b>
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CTherefore, I will bring upon you all the disasters I have announced.Prepare
+        to meet your God in judgment, you people of Israel!\u201D  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "For the <smallcaps>Lord</smallcaps> is the one who shaped the mountains,stirs
+        up the winds, and reveals his thoughts to mankind.He turns the light of dawn
+        into darknessand treads on the heights of the earth.The <smallcaps>Lord</smallcaps>
+        God of Heaven\u2019s Armies is his name!"
+      comments: []
+  - verses:
+    - name: '1: A Call to Repentance'
+      title: A Call to Repentance
+      number: 1
+      content: '  Listen, you people of Israel! Listen to this funeral song I am
+        singing:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CThe virgin Israel has fallen,never to rise again!She lies abandoned
+        on the ground,with no one to help her up.\u201D  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "The Sovereign <smallcaps>Lord</smallcaps> says:\u201CWhen a city
+        sends a thousand men to battle,only a hundred will return.When a town sends
+        a hundred,only ten will come back alive.\u201D  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Now this is what the <smallcaps>Lord</smallcaps> says to the family
+        of Israel:\u201CCome back to me and live!  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Don\u2019t worship at the pagan altars at Bethel;don\u2019t go to
+        the shrines at Gilgal or Beersheba.For the people of Gilgal will be dragged
+        off into exile,and the people of Bethel will be reduced to nothing.\u201D  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Come back to the <smallcaps>Lord</smallcaps> and live!Otherwise,
+        he will roar through Israel[[COMMENT(0)]] like a fire,devouring you completely.Your
+        gods in Bethelwon\u2019t be able to quench the flames.  "
+      comments:
+      - number: '5:6 '
+        content: Hebrew <b>the house of Joseph.</b>
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'You twist justice, making it a bitter pill for the oppressed.You
+        treat the righteous like dirt.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'It is the <smallcaps>Lord</smallcaps> who created the stars,the Pleiades
+        and Orion.He turns darkness into morningand day into night.He draws up water
+        from the oceansand pours it down as rain on the land.The <smallcaps>Lord</smallcaps>
+        is his name!  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'With blinding speed and power he destroys the strong,crushing all
+        their defenses.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'How you hate honest judges!How you despise people who tell the truth!  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'You trample the poor,stealing their grain through taxes and unfair
+        rent.Therefore, though you build beautiful stone houses,you will never live
+        in them.Though you plant lush vineyards,you will never drink wine from them.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'For I know the vast number of your sinsand the depth of your rebellions.You
+        oppress good people by taking bribesand deprive the poor of justice in the
+        courts.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'So those who are smart keep their mouths shut,for it is an evil time.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Do what is good and run from evilso that you may live!Then the <smallcaps>Lord</smallcaps>
+        God of Heaven\u2019s Armies will be your helper,just as you have claimed.  "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "Hate evil and love what is good;turn your courts into true halls
+        of justice.Perhaps even yet the <smallcaps>Lord</smallcaps> God of Heaven\u2019s
+        Armieswill have mercy on the remnant of his people.[[COMMENT(0)]]  "
+      comments:
+      - number: '5:15 '
+        content: Hebrew <b>the remnant of Joseph.</b>
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Therefore, this is what the Lord, the <smallcaps>Lord</smallcaps>
+        God of Heaven\u2019s Armies, says:\u201CThere will be crying in all the public
+        squaresand mourning in every street.Call for the farmers to weep with you,and
+        summon professional mourners to wail.  "
+      comments: []
+    - name: '17: Warning of Coming Judgment'
+      title: Warning of Coming Judgment
+      number: 17
+      content: "There will be wailing in every vineyard,for I will destroy them all,\u201Dsays
+        the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "What sorrow awaits you who say,\u201CIf only the day of the <smallcaps>Lord</smallcaps>
+        were here!\u201DYou have no idea what you are wishing for.That day will bring
+        darkness, not light.  "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "In that day you will be like a man who runs from a lion\u2014only
+        to meet a bear.Escaping from the bear, he leans his hand against a wall in
+        his house\u2014and he\u2019s bitten by a snake.  "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Yes, the day of the <smallcaps>Lord</smallcaps> will be dark and
+        hopeless,without a ray of joy or hope.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "\u201CI hate all your show and pretense\u2014the hypocrisy of your
+        religious festivals and solemn assemblies.  "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "I will not accept your burnt offerings and grain offerings.I won\u2019t
+        even notice all your choice peace offerings.  "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Away with your noisy hymns of praise!I will not listen to the music
+        of your harps.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Instead, I want to see a mighty flood of justice,an endless river
+        of righteous living.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "\u201CWas it to me you were bringing sacrifices and offerings during
+        the forty years in the wilderness, Israel? "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "No, you served your pagan gods\u2014Sakkuth your king god and Kaiwan
+        your star god\u2014the images you made for yourselves. "
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "So I will send you into exile, to a land east of Damascus,[[COMMENT(0)]]\u201D
+        says the <smallcaps>Lord</smallcaps>, whose name is the God of Heaven\u2019s
+        Armies."
+      comments:
+      - number: '5:26-27 '
+        content: "Greek version reads <b>No, you carried your pagan gods\u2014the
+          shrine of Molech, the star of your god Rephan, and the images you made
+          for yourselves. So I will send you into exile, to a land east of Damascus.
+          </b>Compare Acts 7:43."
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  What sorrow awaits you who lounge in luxury in Jerusalem,[[COMMENT(0)]]and
+        you who feel secure in Samaria!You are famous and popular in Israel,and people
+        go to you for help.  '
+      comments:
+      - number: '6:1 '
+        content: Hebrew <b>in Zion.</b>
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'But go over to Calnehand see what happened there.Then go to the great
+        city of Hamathand down to the Philistine city of Gath.You are no better than
+        they were,and look at how they were destroyed.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'You push away every thought of coming disaster,but your actions only
+        bring the day of judgment closer.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'How terrible for you who sprawl on ivory bedsand lounge on your couches,eating
+        the meat of tender lambs from the flockand of choice calves fattened in the
+        stall.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'You sing trivial songs to the sound of the harpand fancy yourselves
+        to be great musicians like David.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'You drink wine by the bowlfuland perfume yourselves with fragrant
+        lotions.You care nothing about the ruin of your nation.[[COMMENT(0)]]  '
+      comments:
+      - number: '6:6 '
+        content: Hebrew <b>of Joseph.</b>
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Therefore, you will be the first to be led away as captives.Suddenly,
+        all your parties will end.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "The Sovereign <smallcaps>Lord</smallcaps> has sworn by his own name,
+        and this is what he, the <smallcaps>Lord</smallcaps> God of Heaven\u2019s
+        Armies, says:\u201CI despise the arrogance of Israel,[[COMMENT(0)]]and I
+        hate their fortresses.I will give this cityand everything in it to their
+        enemies.\u201D  "
+      comments:
+      - number: '6:8 '
+        content: Hebrew <b>Jacob. </b>See note on 3:13.
+    - name: '9: '
+      title: 
+      number: 9
+      content: '(If there are ten men left in one house, they will all die. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "And when a relative who is responsible to dispose of the dead[[COMMENT(0)]]
+        goes into the house to carry out the bodies, he will ask the last survivor,
+        \u201CIs anyone else with you?\u201D When the person begins to swear, \u201CNo,
+        by . . . ,\u201D he will interrupt and say, \u201CStop! Don\u2019t even mention
+        the name of the <smallcaps>Lord</smallcaps>.\u201D)  "
+      comments:
+      - number: '6:10 '
+        content: Or <b>to burn the dead. </b>The meaning of the Hebrew is uncertain.
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'When the <smallcaps>Lord</smallcaps> gives the command,homes both
+        great and small will be smashed to pieces.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Can horses gallop over boulders?Can oxen be used to plow them?But
+        that\u2019s how foolish you are when you turn justice into poisonand the
+        sweet fruit of righteousness into bitterness.  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And you brag about your conquest of Lo-debar.[[COMMENT(0)]]You boast,
+        \u201CDidn\u2019t we take Karnaim[[COMMENT(1)]] by our own strength?\u201D  "
+      comments:
+      - number: '6:13a '
+        content: "<b>Lo-debar </b>means \u201Cnothing.\u201D"
+      - number: '6:13b '
+        content: "<b>Karnaim </b>means \u201Chorns,\u201D a term that symbolizes
+          strength."
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201CO people of Israel, I am about to bring an enemy nation against
+        you,\u201Dsays the <smallcaps>Lord</smallcaps> God of Heaven\u2019s Armies.\u201CThey
+        will oppress you throughout your land\u2014from Lebo-hamath in the northto
+        the Arabah Valley in the south.\u201D"
+      comments: []
+  - verses:
+    - name: '1: A Vision of Locusts'
+      title: A Vision of Locusts
+      number: 1
+      content: "  The Sovereign <smallcaps>Lord</smallcaps> showed me a vision. I
+        saw him preparing to send a vast swarm of locusts over the land. This was
+        after the king\u2019s share had been harvested from the fields and as the
+        main crop was coming up. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "In my vision the locusts ate every green plant in sight. Then I said,
+        \u201CO Sovereign <smallcaps>Lord</smallcaps>, please forgive us or we will
+        not survive, for Israel[[COMMENT(0)]] is so small.\u201D  "
+      comments:
+      - number: '7:2 '
+        content: Hebrew <b>Jacob; </b>also in 7:5. See note on 3:13.
+    - name: '3: A Vision of Fire'
+      title: A Vision of Fire
+      number: 3
+      content: "So the <smallcaps>Lord</smallcaps> relented from this plan. \u201CI
+        will not do it,\u201D he said.  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Then the Sovereign <smallcaps>Lord</smallcaps> showed me another
+        vision. I saw him preparing to punish his people with a great fire. The fire
+        had burned up the depths of the sea and was devouring the entire land. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Then I said, \u201CO Sovereign <smallcaps>Lord</smallcaps>, please
+        stop or we will not survive, for Israel is so small.\u201D  "
+      comments: []
+    - name: '6: A Vision of a Plumb Line'
+      title: A Vision of a Plumb Line
+      number: 6
+      content: "Then the <smallcaps>Lord</smallcaps> relented from this plan, too.
+        \u201CI will not do that either,\u201D said the Sovereign <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Then he showed me another vision. I saw the Lord standing beside
+        a wall that had been built using a plumb line. He was using a plumb line
+        to see if it was still straight. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And the <smallcaps>Lord</smallcaps> said to me, \u201CAmos, what
+        do you see?\u201DI answered, \u201CA plumb line.\u201DAnd the Lord replied,
+        \u201CI will test my people with this plumb line. I will no longer ignore
+        all their sins. "
+      comments: []
+    - name: '9: Amos and Amaziah'
+      title: Amos and Amaziah
+      number: 9
+      content: "The pagan shrines of your ancestors[[COMMENT(0)]] will be ruined,
+        and the temples of Israel will be destroyed; I will bring the dynasty of
+        King Jeroboam to a sudden end.\u201D  "
+      comments:
+      - number: '7:9 '
+        content: Hebrew <b>of Isaac.</b>
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Then Amaziah, the priest of Bethel, sent a message to Jeroboam, king
+        of Israel: \u201CAmos is hatching a plot against you right here on your very
+        doorstep! What he is saying is intolerable. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "He is saying, \u2018Jeroboam will soon be killed, and the people
+        of Israel will be sent away into exile.\u2019\u201D  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Then Amaziah sent orders to Amos: \u201CGet out of here, you prophet!
+        Go on back to the land of Judah, and earn your living by prophesying there! "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Don\u2019t bother us with your prophecies here in Bethel. This is
+        the king\u2019s sanctuary and the national place of worship!\u201D  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "But Amos replied, \u201CI\u2019m not a professional prophet, and
+        I was never trained to be one.[[COMMENT(0)]] I\u2019m just a shepherd, and
+        I take care of sycamore-fig trees. "
+      comments:
+      - number: '7:14 '
+        content: "Or <b>I\u2019m not a prophet nor the son of a prophet.</b>"
+    - name: '15: '
+      title: 
+      number: 15
+      content: "But the <smallcaps>Lord</smallcaps> called me away from my flock
+        and told me, \u2018Go and prophesy to my people in Israel.\u2019 "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Now then, listen to this message from the <smallcaps>Lord</smallcaps>:\u201CYou
+        say,\u2018Don\u2019t prophesy against Israel.Stop preaching against my people.[[COMMENT(0)]]\u2019  "
+      comments:
+      - number: '7:16 '
+        content: Hebrew <b>against the house of Isaac.</b>
+    - name: '17: '
+      title: 
+      number: 17
+      content: "But this is what the <smallcaps>Lord</smallcaps> says:\u2018Your
+        wife will become a prostitute in this city,and your sons and daughters will
+        be killed.Your land will be divided up,and you yourself will die in a foreign
+        land.And the people of Israel will certainly become captives in exile,far
+        from their homeland.\u2019\u201D"
+      comments: []
+  - verses:
+    - name: '1: A Vision of Ripe Fruit'
+      title: A Vision of Ripe Fruit
+      number: 1
+      content: '  Then the Sovereign <smallcaps>Lord</smallcaps> showed me another
+        vision. In it I saw a basket filled with ripe fruit. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CWhat do you see, Amos?\u201D he asked.I replied, \u201CA basket
+        full of ripe fruit.\u201DThen the <smallcaps>Lord</smallcaps> said, \u201CLike
+        this fruit, Israel is ripe for punishment! I will not delay their punishment
+        again. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "In that day the singing in the temple will turn to wailing. Dead
+        bodies will be scattered everywhere. They will be carried out of the city
+        in silence. I, the Sovereign <smallcaps>Lord</smallcaps>, have spoken!\u201D  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Listen to this, you who rob the poorand trample down the needy!  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "You can\u2019t wait for the Sabbath day to be overand the religious
+        festivals to endso you can get back to cheating the helpless.You measure
+        out grain with dishonest measuresand cheat the buyer with dishonest scales.[[COMMENT(0)]]  "
+      comments:
+      - number: '8:5 '
+        content: Hebrew <b>You make the ephah </b>[a unit for measuring grain] <b>small
+          and the shekel </b>[a unit of weight] <b>great, and you deal falsely by
+          using deceitful balances.</b>
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And you mix the grain you sellwith chaff swept from the floor.Then
+        you enslave poor peoplefor one piece of silver or a pair of sandals.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Now the <smallcaps>Lord</smallcaps> has sworn this oathby his own
+        name, the Pride of Israel[[COMMENT(0)]]:\u201CI will never forgetthe wicked
+        things you have done!  "
+      comments:
+      - number: '8:7 '
+        content: Hebrew <b>the pride of Jacob. </b>See note on 3:13.
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The earth will tremble for your deeds,and everyone will mourn.The
+        ground will rise like the Nile River at floodtime;it will heave up, then
+        sink again.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CIn that day,\u201D says the Sovereign <smallcaps>Lord</smallcaps>,\u201CI
+        will make the sun go down at noonand darken the earth while it is still day.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "I will turn your celebrations into times of mourningand your singing
+        into weeping.You will wear funeral clothesand shave your heads to show your
+        sorrow\u2014as if your only son had died.How very bitter that day will be!  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CThe time is surely coming,\u201D says the Sovereign <smallcaps>Lord</smallcaps>,\u201Cwhen
+        I will send a famine on the land\u2014not a famine of bread or waterbut of
+        hearing the words of the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'People will stagger from sea to seaand wander from border to border[[COMMENT(0)]]searching
+        for the word of the <smallcaps>Lord</smallcaps>,but they will not find it.  '
+      comments:
+      - number: '8:12 '
+        content: Hebrew <b>from north to east.</b>
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Beautiful girls and strong young menwill grow faint in that day,thirsting
+        for the <smallcaps>Lord</smallcaps>\u2019s word.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And those who swear by the shameful idols of Samaria\u2014who take
+        oaths in the name of the god of Danand make vows in the name of the god of
+        Beersheba[[COMMENT(0)]]\u2014they will all fall down,never to rise again.\u201D"
+      comments:
+      - number: '8:14 '
+        content: Hebrew <b>the way of Beersheba.</b>
+  - verses:
+    - name: '1: A Vision of God at the Altar'
+      title: A Vision of God at the Altar
+      number: 1
+      content: "  Then I saw a vision of the Lord standing beside the altar. He said,\u201CStrike
+        the tops of the Temple columns,so that the foundation will shake.Bring down
+        the roofon the heads of the people below.I will kill with the sword those
+        who survive.No one will escape!  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CEven if they dig down to the place of the dead,[[COMMENT(0)]]I
+        will reach down and pull them up.Even if they climb up into the heavens,I
+        will bring them down.  "
+      comments:
+      - number: '9:2 '
+        content: Hebrew <b>to Sheol.</b>
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Even if they hide at the very top of Mount Carmel,I will search them
+        out and capture them.Even if they hide at the bottom of the ocean,I will
+        send the sea serpent after them to bite them.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Even if their enemies drive them into exile,I will command the sword
+        to kill them there.I am determined to bring disaster upon themand not to
+        help them.\u201D  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "The Lord, the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies,touches
+        the land and it melts,and all its people mourn.The ground rises like the
+        Nile River at floodtime,and then it sinks again.  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "The <smallcaps>Lord</smallcaps>\u2019s home reaches up to the heavens,while
+        its foundation is on the earth.He draws up water from the oceansand pours
+        it down as rain on the land.The <smallcaps>Lord</smallcaps> is his name!  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CAre you Israelites more important to methan the Ethiopians?[[COMMENT(0)]]\u201D
+        asks the <smallcaps>Lord</smallcaps>.\u201CI brought Israel out of Egypt,but
+        I also brought the Philistines from Crete[[COMMENT(1)]]and led the Arameans
+        out of Kir.  "
+      comments:
+      - number: '9:7a '
+        content: Hebrew <b>the Cushites?</b>
+      - number: '9:7b '
+        content: Hebrew <b>Caphtor.</b>
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CI, the Sovereign <smallcaps>Lord</smallcaps>,am watching this
+        sinful nation of Israel.I will destroy itfrom the face of the earth.But I
+        will never completely destroy the family of Israel,[[COMMENT(0)]]\u201Dsays
+        the <smallcaps>Lord</smallcaps>.  "
+      comments:
+      - number: '9:8 '
+        content: Hebrew <b>the house of Jacob. </b>See note on 3:13.
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CFor I will give the commandand will shake Israel along with
+        the other nationsas grain is shaken in a sieve,yet not one true kernel will
+        be lost.  "
+      comments: []
+    - name: '10: A Promise of Restoration'
+      title: A Promise of Restoration
+      number: 10
+      content: "But all the sinners will die by the sword\u2014all those who say,
+        \u2018Nothing bad will happen to us.\u2019  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CIn that day I will restore the fallen house[[COMMENT(0)]] of
+        David.I will repair its damaged walls.From the ruins I will rebuild itand
+        restore its former glory.  "
+      comments:
+      - number: '9:11a '
+        content: Or <b>kingdom; </b>Hebrew reads <b>tent.</b>
+    - name: '12: '
+      title: 
+      number: 12
+      content: "And Israel will possess what is left of Edomand all the nations I
+        have called to be mine.[[COMMENT(0)]]\u201DThe <smallcaps>Lord</smallcaps>
+        has spoken,and he will do these things.  "
+      comments:
+      - number: '9:11b-12 '
+        content: "Greek version reads <b>and restore its former glory, / so that
+          the rest of humanity, including the Gentiles\u2014 / all those I have called
+          to be mine\u2014might seek me. </b>Compare Acts 15:16-17."
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CThe time will come,\u201D says the <smallcaps>Lord</smallcaps>,\u201Cwhen
+        the grain and grapes will grow fasterthan they can be harvested.Then the
+        terraced vineyards on the hills of Israelwill drip with sweet wine!  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'I will bring my exiled people of Israelback from distant lands,and
+        they will rebuild their ruined citiesand live in them again.They will plant
+        vineyards and gardens;they will eat their crops and drink their wine.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "I will firmly plant them therein their own land.They will never again
+        be uprootedfrom the land I have given them,\u201Dsays the <smallcaps>Lord</smallcaps>
+        your God."
+      comments: []

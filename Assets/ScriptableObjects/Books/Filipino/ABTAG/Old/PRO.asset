@@ -1,0 +1,5542 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: PRO
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: MGA KAWIKAAN
+  fancyName: 
+  nickname: pro
+  version: {fileID: 11400000, guid: b1692a818c1891646a9fe3db3324e541, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Ang kagamitan ng mga kawikaan. Pagiingat laban sa hibo ng makasalanan.'
+      title: Ang kagamitan ng mga kawikaan. Pagiingat laban sa hibo ng makasalanan.
+      number: 1
+      content: '  Ang mga kawikaan ni Salomon na anak ni David na hari sa Israel:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Upang umalam ng karunungan at turo;Upang bulayin ang mga salita ng
+        pagkaunawa;  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Upang tumanggap ng turo sa pantas na paguugali,Sa katuwiran, at kahatulan,
+        at karampatan;  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Upang magbigay ng katalinuhan sa musmos.Kaalaman at pagbubulay sa
+        kabataan:  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Upang marinig ng pantas, at lumago sa ikatututo:At upang tamuhin
+        ng taong may unawa ang magagaling na payo:  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Upang umunawa ng kawikaan at ng kahulugan;Ng mga salita ng pantas,
+        at ng kanilang malalabong sabi.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  Ang takot sa Panginoon ay pasimula ng kaalaman:  Nguni''t ang mangmang
+        ay humahamak sa karunungan at turo.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Anak ko, dinggin mo ang turo ng iyong ama,At huwag mong pabayaan
+        ang kautusan ng iyong ina:  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Sapagka''t sila''y magiging tali ng biyaya sa iyong ulo,At mga kuwintas
+        sa ligid ng iyong leeg.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Anak ko, kung ikaw ay hikayatin ng mga makasalanan,  Huwag mong tulutan.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Kung kanilang sabihin, Sumama ka sa amin,Tayo''y magsibakay sa pagbububo
+        ng dugo,Tayo''y mangagkubli ng silo na walang anomang kadahilanan sa walang
+        sala;  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Sila'y lamunin nating buh\xE1y na gaya ng Sheol.At buo, na gaya ng
+        nagsibaba sa lungaw;  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Tayo''y makakasumpong ng lahat na mahalagang pagaari,Ating pupunuin
+        ang ating mga bahay ng samsam;  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Ikaw ay makikipagsapalaran sa gitna namin;Magkakaroon tayong lahat
+        ng isang supot:  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Anak ko, huwag kang lumakad sa daan na kasama nila;  Pigilin mo
+        ang iyong paa sa kanilang landas:  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '  Sapagka''t ang kanilang mga paa ay nagsisitakbo sa kasamaan,At
+        sila''y nangagmamadali sa pagbububo ng dugo.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Sapagka''t walang kabuluhang naladlad ang silo,Sa paningin ng alin
+        mang ibon:  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'At binabakayan ng mga ito ang kanilang sariling dugo,Kanilang ipinagkukubli
+        ng silo ang kanilang sariling mga buhay.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: '  Ganyan ang mga lakad ng bawa''t sakim sa pakinabang;Na nagaalis
+        ng buhay ng mga may-ari niyaon.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Karunungan ay humihiyaw na malakas sa lansangan;Kaniyang inilalakas
+        ang kaniyang tinig sa mga luwal na dako;  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Siya''y humihiyaw sa mga pangulong dako na pinaglilipunan;Sa pasukan
+        ng mga pintuang-bayan,Sa bayan, kaniyang binibigkas ang kaniyang mga salita:  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Hanggang kailan kayong mga musmos, magsisiibig sa inyong kamusmusan?At
+        ang mga nanunuya ay maliligaya sa panunuya,At ang mga mangmang ay mangagtatanim
+        sa kaalaman?  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Magsibalik kayo sa aking saway:Narito, aking ibubuhos ang aking espiritu
+        sa inyo.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: '  Sapagka''t ako''y tumawag, at kayo''y tumanggi:Aking iniunat ang
+        aking kamay, at walang makinig;  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Kundi inyong iniuwi sa wala ang buo kong payo,At hindi ninyo inibig
+        ang aking saway:  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: '  Ako naman ay tatawa sa kaarawan ng inyong kasakunaan:Ako''y manunuya
+        pagka ang inyong takot ay dumarating;  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: '  Pagka ang iyong takot ay dumarating na parang bagyo.At ang inyong
+        kasakunaan ay dumarating na parang ipoipo;Pagka ang hirap at hapis ay dumating
+        sa inyo.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: '  Kung magkagayo''y tatawag sila sa akin, nguni''t hindi ako sasagot;Hahanapin
+        nila akong masikap, nguni''t hindi nila ako masusumpungan:  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Sapagka''t kanilang ipinagtanim ang kaalaman,At hindi pinili ang
+        takot sa Panginoon.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Ayaw sila ng aking payo;Kanilang hinamak ang buo kong pagsaway:  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: '  Kaya''t sila''y magsisikain ng bunga ng kanilang sariling lakad,At
+        mabubusog ng kanilang sariling mga kagagawan.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Sapagka''t papatayin sila ng pagtalikod ng musmos,At ang pagkawalang
+        balisa ng mga mangmang ay ang sisira sa kanila.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: Nguni't ang nakikinig sa akin ay tatahang tiwasay.At tatahimik na
+        walang takot sa kasamaan.
+      comments: []
+  - verses:
+    - name: '1: Ang babala ng karunungan laban sa mga napopoot sa kaniya.'
+      title: Ang babala ng karunungan laban sa mga napopoot sa kaniya.
+      number: 1
+      content: '  Anak ko, kung iyong tatanggapin ang aking mga salita,  At tataglayin
+        mo ang aking mga utos;  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Na anopa''t iyong ikikiling ang iyong pakinig sa karunungan,At ihihilig
+        mo ang iyong puso sa pagunawa;  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Oo, kung ikaw ay dadaing ng pagbubulay,At itataas mo ang iyong tinig
+        sa pagunawa;  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Kung iyong hahanapin siya na parang pilak,At sasaliksikin mo siyang
+        parang kayamanang natatago.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Kung magkagayo''y iyong mauunawa ang pagkatakot sa Panginoon,At masusumpungan
+        mo ang kaalaman ng Dios.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Sapagka''t ang Panginoon ay nagbibigay ng karunungan,Sa kaniyang
+        bibig nanggagaling ang kaalaman at kaunawaan:  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Kaniyang pinapagtataglay ang matuwid ng magaling na karunungan,   
+        Siya''y kalasag sa nagsisilakad sa pagtatapat;  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Upang kaniyang mabantayan ang mga landas ng kahatulan,At maingatan
+        ang daan ng kaniyang mga banal.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Kung magkagayo''y mauunawa mo ang katuwiran at ang kahatulan,At ang
+        karampatan, oo, bawa''t mabuting landas.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Sapagka''t karunungan ay papasok sa iyong puso,At kaalaman ay magiging
+        ligaya sa iyong kaluluwa;  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Kabaitan ay magbabantay sa iyo,Pagkaunawa ay magiingat sa iyo:  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Upang iligtas ka sa daan ng kasamaan,Sa mga taong nagsisipagsalita
+        ng mga masamang bagay;  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Na nagpapabaya ng mga landas ng katuwiran,  Upang magsilakad sa mga
+        daan ng kadiliman;  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Na nangagagalak na magsigawa ng kasamaan,At nangaaaliw sa mga karayaan
+        ng kasamaan,  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Na mga liko sa kanilang mga lakad,At mga suwail sa kanilang mga landas:  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '  Upang iligtas ka sa masamang babae,Sa makatuwid baga''y sa di kilala
+        na nanghahalina ng kaniyang mga salita;  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  Na nagpapabaya sa kaibigan ng kaniyang kabataan,At lumilimot ng
+        tipan ng kaniyang Dios:  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Sapagka''t ang kaniyang bahay ay kumikiling sa kamatayan,At ang kaniyang
+        mga landas na sa patay:  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Walang naparoroon sa kaniya na bumabalik uli,Ni kanila mang tinatamo
+        ang mga landas ng buhay:  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Upang ikaw ay makalakad ng lakad ng mabubuting tao,At maingatan ang
+        mga landas ng matuwid.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Sapagka''t ang matuwid ay tatahan sa lupain,At ang sakdal ay mamamalagi
+        roon.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: '  Nguni''t ang masama ay mahihiwalay sa lupain,At silang nagsisigawang
+        may karayaan ay mangabubunot.'
+      comments: []
+  - verses:
+    - name: '1: Payo upang matakot, magtiwala, at sumunod sa Panginoon. Ang ganting
+        pala ng karunungan.'
+      title: Payo upang matakot, magtiwala, at sumunod sa Panginoon. Ang ganting
+        pala ng karunungan.
+      number: 1
+      content: '  Anak ko, huwag mong kalimutan ang aking kautusan;  Kundi ingatan
+        ng iyong puso ang aking mga utos:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Sapagka''t karamihan ng mga araw, at mga taon ng buhay,At kapayapaan,
+        ay madadagdag sa iyo.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Huwag kang pabayaan ng kaawaan at katotohanan:  Itali mo sa palibot
+        ng iyong leeg;  Ikintal mo sa iyong puso:  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Sa gayo''y makakasumpong ka ng lingap at mabuting kaunawaan,Sa
+        paningin ng Dios at ng tao.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Tumiwala ka sa Panginoon ng buong puso mo,  At huwag kang manalig
+        sa iyong sariling kaunawaan:  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Kilalanin mo siya sa lahat ng iyong mga lakad,At kaniyang ituturo
+        ang iyong mga landas.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  Huwag kang magpakapantas sa iyong sariling mga mata;Matakot ka
+        sa Panginoon, at humiwalay ka sa kasamaan:  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Magiging kagalingan sa iyong pusod,At utak sa iyong mga buto.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Parangalin mo ang Panginoon ng iyong tinatangkilik,At ng mga unang
+        bunga ng lahat mong ani:  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Sa gayo''y mapupuno ang iyong mga kamalig ng sagana,At ang iyong
+        mga alilisan ay aapawan ng bagong alak.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Anak ko, huwag mong hamakin ang parusa ng Panginoon;Ni mayamot man
+        sa kaniyang saway:  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Sapagka''t sinasaway ng Panginoon ang kaniyang iniibig:  Gaya ng
+        ama sa anak na kaniyang kinaluluguran.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Mapalad ang tao na nakakasumpong ng karunungan,At ang tao na nagtatamo
+        ng kaunawaan.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Sapagka''t ang kalakal niya ay maigi kay sa kalakal na pilak,At
+        ang pakinabang niyaon kay sa dalisay na ginto.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Mahalaga nga kay sa mga rubi;At wala sa mga bagay na mananasa mo
+        sa maihahalintulad sa kaniya,  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Karamihan ng mga araw ay nasa kanang kamay niya,Sa kaniyang kaliwang
+        kamay ay mga kayamanan at karangalan.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  Ang kaniyang mga daan ay mga daan ng kaligayahan,At lahat niyang
+        mga landas ay kapayapaan.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Siya ay punong kahoy ng buhay sa mga nanghahawak sa kaniya:At mapalad
+        ang bawa''t isa na nangamamalagi sa kaniya.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Nilikha ng Panginoon ang lupa sa pamamagitan ng karunungan;Itinatag
+        niya ang langit sa pamamagitan ng kaunawaan.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: '  Sa kaniyang kaalaman ay nabahagi ang mga kalaliman,At ang mga alapaap
+        ay nagsipatak ng hamog.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Anak ko, huwag silang mangahiwalay sa iyong mga mata;Ingatan mo ang
+        magaling na karunungan at ang kabaitan;  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Sa gayo''y magiging buhay sila sa iyong kaluluwa,At biyaya sa iyong
+        leeg.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  Kung magkagayo''y lalakad ka ng iyong lakad na tiwasay,At ang iyong
+        paa ay hindi matitisod.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: '  Pagka ikaw ay nahihiga, hindi ka matatakot:Oo, ikaw ay mahihiga
+        at ang iyong tulog ay magiging mahimbing.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Huwag kang matakot ng biglang pagkatakot,Ni sa pagkabuwal man ng
+        masama, pagka dumarating:  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Sapagka''t ang Panginoon ay magiging iyong pagtitiwala,At iingatan
+        ang iyong paa sa pagkahuli.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: '  Huwag mong ikait ang mabuti sa kinauukulan,Pagka nasa kapangyarihan
+        ng iyong kamay na ito''y gawin.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: '  Huwag mong sabihin sa iyong kapuwa, Yumaon ka, at bumalik uli,At
+        bukas ay magbibigay ako;Pagka ikaw ay mayroon.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Huwag kang kumatha ng kasamaan laban sa iyong kapuwa,Na palibhasa''t
+        tumatahang tiwasay sa siping mo.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: '  Huwag kang makipagusapin sa kanino man ng walang kadahilanan,Kung
+        hindi siya gumawa ng kasamaan sa iyo.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: '  Huwag kang managhili sa taong marahas,At huwag kang pumili ng anoman
+        sa kaniyang mga lakad.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Sapagka''t ang suwail ay kasuklamsuklam sa Panginoon:  Nguni''t ang
+        kaniyang payo ay kasama ng matuwid.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: '  Ang sumpa ng Panginoon ay nasa bahay ng masama;Nguni''t pinagpapala
+        niya ang tahanan ng matuwid.  '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'Tunay na kaniyang dinuduwahagi ang mga mangduduwahagi,  Nguni''t
+        binibigyan niya ng biyaya ang mababa.  '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: Ang pantas ay magmamana ng kaluwalhatian;Nguni't kahihiyan ay magiging
+        ganti sa mga mangmang.
+      comments: []
+  - verses:
+    - name: '1: Ang pangmagulang na payo upang lumakad sa karunungan.'
+      title: Ang pangmagulang na payo upang lumakad sa karunungan.
+      number: 1
+      content: '  Dinggin ninyo, mga anak ko, ang turo ng ama,At makinig kayo upang
+        matuto ng kaunawaan:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Sapagka''t bibigyan ko kayo ng mabuting aral;Huwag ninyong bayaan
+        ang aking kautusan.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Sapagka''t ako''y anak sa aking ama,  Malumanay at bugtong sa paningin
+        ng aking ina.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  At tinuruan niya ako, at nagsabi sa akin:Pigilan ng iyong puso
+        ang aking mga salita;  Ingatan mo ang aking mga utos, at mabuhay ka:  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Magtamo ka ng karunungan, magtamo ka ng kaunawaan;Huwag mong kalimutan,
+        ni humiwalay man sa mga salita ng aking bibig:  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Huwag mo siyang pabayaan at iingatan ka niya;  Ibigin mo siya at
+        iingatan ka niya.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Karunungan ay pinaka pangulong bagay; kaya''t kunin mo ang karunungan:Oo,
+        sa lahat mong kukunin ay kunin mo ang unawa.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Iyong ibunyi siya, at kaniyang itataas ka:Kaniyang dadalhin ka
+        sa karangalan, pagka iyong niyakap siya.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Siya''y magbibigay sa iyong ulo ng pugong na biyaya:Isang putong
+        ng kagandahan ay kaniyang ibibigay sa iyo.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Dinggin mo, Oh anak ko, at iyong tanggapin ang aking mga sinasabi; 
+        At ang mga taon ng iyong buhay ay magiging marami.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Aking itinuro ka sa daan ng karunungan;Aking pinatnubayan ka sa landas
+        ng katuwiran.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Pagka ikaw ay yumayaon hindi magigipit ang iyong mga hakbang;At kung
+        ikaw ay tumatakbo, hindi ka matitisod.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Hawakan mong mahigpit ang turo; huwag mong bitawan:Iyong ingatan:
+        sapagka''t siya''y iyong buhay.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Huwag kang pumasok sa landas ng masama,At huwag kang lumakad ng
+        lakad ng mga masasamang tao.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Ilagan mo, huwag mong daanan;Likuan mo, at magpatuloy ka.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '  Sapagka''t hindi sila nangatutulog, malibang sila''y nakagawa ng
+        kasamaan;At ang kanilang tulog ay napapawi, malibang sila''y makapagpabuwal.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Sapagka''t sila''y nagsisikain ng tinapay ng kasamaan,At nagsisiinom
+        ng alak ng karahasan.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Nguni''t ang landas ng matuwid ay parang maliyab na liwanag,Na
+        sumisilang ng higit at higit sa sakdal na araw.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: '  Ang lakad ng masama ay parang kadiliman:Hindi nila nalalaman kung
+        ano ang kanilang kinatitisuran.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Anak ko, makinig ka sa aking mga salita;Ikiling mo ang iyong pakinig
+        sa aking mga sabi.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Huwag mangahiwalay sa iyong mga mata;  Ingatan mo sa kaibuturan
+        ng iyong puso.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Sapagka''t buhay sa nangakakasumpong,At kagalingan sa buo nilang
+        katawan.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Ingatan mo ang iyong puso ng buong sikap;  Sapagka''t dinadaluyan
+        ng buhay,  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Ihiwalay mo sa iyo ang masamang bibig,At ang mga suwail na labi ay
+        ilayo mo sa iyo.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Tuminging matuwid ang iyong mga mata,At ang iyong mga talukap-mata
+        ay tuminging matuwid sa harap mo.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Papanatagin mo ang landas ng iyong mga paa,At mangatatag ang lahat
+        ng iyong lakad.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: '  Huwag kang lumiko sa kanan o sa kaliwa man:Ihiwalay mo ang iyong
+        paa sa kasamaan.'
+      comments: []
+  - verses:
+    - name: '1: Ang kapanganiban ng pagibig na marumi.'
+      title: Ang kapanganiban ng pagibig na marumi.
+      number: 1
+      content: '  Anak ko, pakinggan mo ang aking karunungan;Ikiling mo ang iyong
+        pakinig sa aking unawa:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Upang makapagingat ka ng kabaitan,At upang ang iyong mga labi ay
+        makapagingat ng kaalaman.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Sapagka''t ang mga labi ng masamang babae ay tumutulo ng pulot,At
+        ang kaniyang bibig ay madulas kay sa langis:  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Nguni''t ang kaniyang huling wakas ay mapait kay sa ahenho,Matalas
+        na parang tabak na may talim sa magkabila.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Ang kaniyang mga paa ay nagsisibaba sa kamatayan;Ang kaniyang mga
+        hakbang ay nagsisihawak sa Sheol;  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Na anopa''t hindi niya nasusumpungan ang kapanatagan ng landas ng
+        buhay;Ang kaniyang mga lakad ay hindi panatag, at hindi niya nalalaman.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Ngayon nga, mga anak ko, dinggin ninyo ako,At huwag kayong magsihiwalay
+        sa mga salita ng aking bibig.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Ilayo mo ang iyong lakad sa kaniya,At huwag kang lumapit sa pintuan
+        ng kaniyang bahay:  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Baka mo ibigay ang iyong karangalan sa iba,At ang iyong mga taon
+        sa mga mabagsik:  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Baka ang mga di kilalang babae ay mapuno ng iyong kalakasan;At ang
+        iyong mga pinagpagalan ay mapasa bahay ng kaapid;  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'At ikaw ay manangis sa iyong huling wakas,Pagka ang iyong laman at
+        ang iyong katawan ay natunaw,  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'At iyong sabihin,Bakit ko kinayamutan ang turo,At hinamak ng aking
+        puso ang saway:  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Ni hindi ko man sinunod ang tinig ng aking mga tagapagturo,O ikiling
+        ko man ang aking pakinig sa kanila na mga nagturo sa akin!  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Ako''y malapit sa lahat ng kasamaanSa gitna ng kapisanan at ng kapulungan.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Uminom ka ng tubig sa iyong sariling tipunan ng tubig,At sa nagsisiagos
+        na tubig sa iyong sariling balon.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Mananabog ba ang iyong mga bukal sa kaluwangan,At mga agos ng tubig
+        sa mga lansangan?  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Maging iyong magisa,At huwag sa di kilala na kasama mo.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Pagpalain ang iyong bukal;At magalak ka sa asawa ng iyong kabataan.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: '    Gaya ng maibiging usa at ng masayang usang babae,Bigyan kang
+        katiwasayan ng kaniyang dibdib sa buong panahon;At laging malugod ka sa kaniyang
+        pagibig.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Sapagka''t bakit ka malulugod, anak ko, sa ibang babae,At yayakap
+        sa sinapupunan ng di kilala?  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Sapagka''t ang mga lakad ng tao ay nasa harap ng mga mata ng Panginoon,At
+        kaniyang pinapatag ang lahat niyang mga landas.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Ang sarili niyang mga kasamaan ay kukuha sa masama.At siya''y matatalian
+        ng mga panali ng kaniyang kasalanan.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  Siya''y mamamatay sa kakulangan ng turo;At sa kadahilanan ng kaniyang
+        pagkaulol ay maliligaw siya.'
+      comments: []
+  - verses:
+    - name: '1: Babala laban sa pagmamataas, katamaran, kalikutan, at pakikiapid.'
+      title: Babala laban sa pagmamataas, katamaran, kalikutan, at pakikiapid.
+      number: 1
+      content: '  Anak ko, kung ikaw ay naging mananagot sa iyong kapuwa,Kung iyong
+        ikinamay ang iyong kamay sa di kilala,  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Ikaw ay nasilo ng mga salita ng iyong bibig,Ikaw ay nahuli ng mga
+        salita ng iyong bibig.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Gawin mo ito ngayon, anak ko, at lumigtas ka,Yamang ikaw ay nahulog
+        sa kamay ng iyong kapuwa:Yumaon ka, magpakababa ka, at mangayupapa ka sa
+        iyong kapuwa.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Huwag mong bigyan ng tulog ang iyong mga mata.O magpaidlip man
+        sa iyong mga talukap-mata.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Lumigtas ka na parang usa sa kamay ng mangangaso,At parang ibon sa
+        kamay ng mamimitag.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Pumaroon ka sa langgam, ikaw na tamad;Masdan mo ang kaniyang mga
+        lakad at magpakapantas ka:  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Na bagaman walang pangulo,Tagapamahala, o pinuno,  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Naghahanda ng kaniyang pagkain sa taginit,At pinipisan ang kaniyang
+        pagkain sa pagaani.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Hanggang kailan matutulog ka, Oh tamad?Kailan ka babangon sa iyong
+        pagkakatulog?  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Kaunti pang pagkakatulog, kaunti pang pagkaidlip,Kaunti pang paghahalukipkip
+        ng mga kamay upang matulog:  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Sa gayo''y ang iyong karalitaan ay darating na parang magnanakaw,At
+        ang iyong kasalatan na parang lalaking may sandata.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Taong walang kabuluhan, taong masama,Ay siya na lumalakad na may
+        masamang bibig;  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Na kumikindat ng kaniyang mga mata, na nagsasalita ng kaniyang
+        mga paa,Na nagsasalita ng kaniyang mga daliri;  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Pagdaraya ay nasa kaniyang puso, siya''y laging kumakatha ng kasamaan;Siya''y
+        naghahasik ng pagtatalo.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Kaya''t darating na bigla ang kaniyang kasakunaan;Sa kabiglaanan
+        ay mababasag siya, at walang kagamutan.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'May anim na bagay na ipinagtatanim ng Panginoon;Oo, pito na mga kasuklamsuklam
+        sa kaniya:  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  Mga palalong mata, sinungaling na dila,  At mga kamay na nagbububo
+        ng walang salang dugo;  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Puso na kumakatha ng mga masamang akala,  Mga paa na matulin sa
+        pagtakbo sa kasamaan;  '
+      comments: []
+    - name: '19: Ang kamangmangan ng pakikitungo sa nais ng masamang babae.'
+      title: Ang kamangmangan ng pakikitungo sa nais ng masamang babae.
+      number: 19
+      content: '  Sinungaling na saksi na nagsasalita ng kabulaanan,At ang naghahasik
+        ng pagtatalo sa gitna ng magkakapatid.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Anak ko, ingatan mo ang utos ng iyong ama,At huwag mong kalimutan
+        ang kautusan ng iyong ina:  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Ikintal mong lagi sa iyong puso,Itali mo sa iyong leeg.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Pagka ikaw ay lumalakad, papatnubay sa iyo;Pagka ikaw ay natutulog,
+        babantay sa iyo;At pagka ikaw ay gumigising, makikipagusap sa iyo.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  Sapagka''t ang utos ay tanglaw; at ang kautusan ay liwanag;At ang
+        mga saway na turo ay daan ng buhay:  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: '  Upang ingatan ka sa masamang babae,Sa tabil ng dila ng di kilala.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Huwag mong pitahin ang kaniyang kagandahan sa iyong puso;At huwag
+        ka mang hulihin niya ng kaniyang mga talukap-mata.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Sapagka''t dahil sa isang masamang babae ay walang naiiwan sa lalake
+        kundi isang putol na tinapay:At hinuhuli ng mangangalunya ang mahalagang
+        buhay.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Makakukuha ba ng apoy ang tao sa kaniyang sinapupunan,At hindi masusunog
+        ang kaniyang mga suot?  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'O makalalakad ba ang sinoman sa mga mainit na baga,At ang kaniyang
+        mga paa ay hindi mapapaso?  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Gayon ang sumisiping sa asawa ng kaniyang kapuwa;Sinomang humipo
+        ay hindi maaaring di parusahan.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Hindi hinahamak ng mga tao ang magnanakaw kung siya''y nagnanakaw,Upang
+        busugin siya pagka siya''y gutom:  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Nguni''t kung siya''y masumpungan, isasauli niyang makapito;Kaniyang
+        ibibigay ang lahat na laman ng kaniyang bahay.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Siyang nagkakamit ng pangangalunya sa isang babae ay walang bait:Ang
+        gumagawa niyaon ay nagpapahamak sa kaniyang sariling kaluluwa.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'Mga sugat at kasiraang puri ang tatamuhin niya;At ang kaniyang kapintasan
+        ay hindi mapapawi.  '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'Sapagka''t ang paninibugho ay pagiinit ng tao;At hindi siya magpapatawad
+        sa kaarawan ng panghihiganti.  '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: Hindi niya pakukundanganan ang anomang tubos;Ni magpapahinga man siyang
+        tuwa, bagaman ikaw ay magbigay ng maraming suhol.
+      comments: []
+  - verses:
+    - name: '1: Ang kamangmangan ng pakikitungo sa nais ng masamang babae.'
+      title: Ang kamangmangan ng pakikitungo sa nais ng masamang babae.
+      number: 1
+      content: '    Anak ko ingatan mo ang aking mga salita,At impukin mo sa iyo
+        ang aking mga utos.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  Ingatan mo ang aking mga utos at mabuhay ka;At ang aking kautusan
+        na parang itim ng iyong mata.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Itali mo sa iyong mga daliri;Ikintal mo sa iyong puso.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Sabihin mo sa karunungan, Ikaw ay aking kapatid na babae;At tawagin
+        mong iyong kamaganak na babae ang unawa:  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Upang kanilang maingatan ka sa babaing masama;Sa babaing di kilala
+        na nagtatabil ng kaniyang mga salita.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Sapagka''t sa dungawan ng aking bahayTumitingin ako sa aking solihia;  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'At ako''y tumingin sa mga musmos,Ako''y nagmasid sa mga may kabataan,Sa
+        may kabataang walang bait,  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Na dumaraan sa lansangan na malapit sa kaniyang sulok,At siya''y
+        yumaon sa daan na patungo sa kaniyang bahay;  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  [[COMMENT(0)]]Sa pagtatakip silim, sa kinagabihan ng araw,Sa kalahatian
+        ng gabi, at sa kadiliman.  '
+      comments:
+      - number: '7:9 '
+        content: '  Job 24:15.  '
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'At, narito, doo''y nasalubong niya ang isang babaeNa nakagayak ng
+        tila isang patutot, at tuso sa puso.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Siya''y madaldal at matigas ang ulo;  Ang kaniyang mga paa ay hindi
+        nagsisitahan sa kaniyang bahay:  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Ngayo''y nasa mga lansangan siya, mamaya''y nasa mga luwal na dako
+        siya,At nagaabang sa bawa''t sulok,  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Sa gayo''y hinahawakan niya siya at hinahagkan siya,  At may mukhang
+        walang hiya na nagsasabi siya sa kaniya:  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Mga hain na mga handog tungkol sa kapayapaan ay sa akin;Sa araw na
+        ito ay tinupad ko ang aking mga panata.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Kaya''t lumabas ako upang salubungin ka,Hinanap kong masikap ang
+        iyong mukha, at nasumpungan kita.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Aking inilatag ang aking higaan na may mga coltsong may burda,Na
+        yari sa guhitguhit na kayong lana sa Egipto.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'At aking pinabanguhan ang aking higaanNg mira, mga oleo, at sinamomo.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Parito ka, tayo''y magpakasiya sa pagsisintahan hanggang sa kinaumagahan;Magpakasaya
+        tayo sa mga pagsisintahan.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Sapagka''t ang lalake ay wala sa bahay,Siya''y naglakbay sa malayo  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Siya''y nagdala ng supot ng salapi;Siya''y uuwi sa bahay sa kabilugan
+        ng buwan.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Kaniyang pinasusuko siya ng karamihan ng kaniyang mga matamis na
+        salita,Hinihila niya siya ng katabilan ng kaniyang mga labi.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Pagdaka ay sumusunod siya sa kaniya,Gaya ng toro na naparoroon sa
+        patayan,O gaya ng sa mga tanikala sa sawayan sa mangmang;  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Hanggang sa lagpasan ng isang palaso ang kaniyang atay;Gaya ng ibong
+        nagmamadali sa bitag,At hindi nakakaalam na yao''y sa kaniyang buhay.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Ngayon nga, mga anak ko, dinggin ninyo ako,At makinig kayo ng mga
+        salita ng aking bibig.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Huwag humilig ang iyong puso sa kaniyang mga lakad,Huwag kang lumiko
+        sa kaniyang mga landas.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Sapagka''t kaniyang inihiga ang maraming may sugat:Oo, lahat niyang
+        pinatay ay isang makapangyarihang hukbo.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: Ang kaniyang bahay ay daang patungo sa Sheol.Pababa sa mga silid ng
+        kamatayan.
+      comments: []
+  - verses:
+    - name: '1: Ang tawag ng karunungan.'
+      title: Ang tawag ng karunungan.
+      number: 1
+      content: '  Hindi ba umiiyak ang karunungan,At inilalabas ng unawa ang kaniyang
+        tinig?  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Sa taluktok ng mga mataas na dako sa tabi ng daan,Sa mga salubungang
+        landas, siya''y tumatayo;  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Sa tabi ng mga pintuang-bayan sa pasukan ng bayan,Sa pasukan sa mga
+        pintuan siya''y humihiyaw ng malakas:  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Sa inyo, Oh mga lalake, ako''y tumatawag;At ang aking tinig ay sa
+        mga anak ng mga tao.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Oh kayong mga musmos, magsiunawa kayo ng katalinuhan;At, kayong mga
+        mangmang, makaunawa kayo sa puso.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Kayo''y mangakinig, sapagka''t magsasalita ako ng mga marilag na
+        bagay;At ang buka ng aking mga labi ay magiging mga matuwid na bagay,  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Sapagka''t ang aking bibig ay sasambit ng katotohanan;At kasamaan
+        ay karumaldumal sa aking mga labi.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Lahat ng mga salita ng aking bibig ay sa katuwiran;Walang bagay na
+        liko o suwail sa kanila.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Pawang malilinaw sa kaniya na nakakaunawa,At matuwid sa kanila
+        na nangakakasumpong ng kaalaman.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Tanggapin mo ang aking turo at huwag pilak;At ang kaalaman na higit
+        kay sa dalisay na ginto.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Sapagka''t ang karunungan ay maigi kay sa mga rubi;At lahat ng
+        mga bagay na mananasa ay hindi maitutulad sa kaniya.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Akong karunungan ay tumatahan sa kabaitan,At aking nasusumpungan
+        ang kaalaman at gunita.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Ang pagkatakot sa Panginoon ay ipagtanim ang kasamaan;  Kapalaluan,
+        at kahambugan at masamang lakad,At ang masamang bibig ay aking ipinagtatanim.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Payo ay akin at magaling na kaalaman:Ako''y kaunawaan; ako''y may
+        kapangyarihan,  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Sa pamamagitan ko ay naghahari ang mga hari,At nagpapasiya ng kaganapan
+        ang mga pangulo.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Sa pamamagitan ko ay nagpupuno ang mga pangulo,At ang mga mahal na
+        tao, sa makatuwid baga''y lahat ng mga hukom sa lupa.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  Aking iniibig sila na nagsisiibig sa akin;At yaong nagsisihanap
+        na masikap sa akin ay masusumpungan ako.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Mga kayamanan at karangalan ay nasa akin;Oo, lumalaging mga kayamanan
+        at katuwiran.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Ang bunga ko ay maigi kay sa ginto, oo, kay sa dalisay na ginto;At
+        ang pakinabang sa akin kay sa piling pilak.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Ako''y lumalakad sa daan ng katuwiran,Sa gitna ng mga landas ng kahatulan:  '
+      comments: []
+    - name: '21: Ang kaluwalhatian ng karunungan. Ang pagkamapalad ng marunong na
+        lalake.'
+      title: Ang kaluwalhatian ng karunungan. Ang pagkamapalad ng marunong na lalake.
+      number: 21
+      content: 'Upang aking papagmanahin ng pagaari yaong nagsisiibig sa akin,At
+        upang aking mapuno ang kanilang ingatang-yaman.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Inari ako ng Panginoon sa pasimula ng kaniyang lakad,Bago pinasimulan
+        ang kaniyang mga gawa ng una.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  Ako''y nalagay mula noong araw mula ng walang pasimula,Bago nalikha
+        ang lupa.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: '  Ako''y nailabas ng wala pang mga kalaliman;Nang wala pang mga bukal
+        na sagana ng tubig.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Bago ang mga bundok ay nalagay,Bago ang mga burol ay ako''y nailabas:  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Samantalang hindi pa niya nililikha ang lupa, ni ang mga parang man,Ni
+        ang pasimula man ng alabok ng sanglibutan.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Nang kaniyang itatag ang langit nandoon ako:Nang siya''y maglagay
+        ng balantok sa balat ng kalaliman:  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Nang kaniyang pagtibayin ang langit sa itaas:Nang maging matibay
+        ang mga bukal ng kalaliman:  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: '  Nang bigyan niya ang dagat ng kaniyang hangganan,Upang huwag salangsangin
+        ng tubig ang kaniyang utos:Nang kaniyang iayos ang mga patibayan ng lupa:  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: '  Nasa siping nga niya ako na gaya ng matalinong manggagawa:At ako
+        ang kaniyang ligaya sa araw-araw,Na nagagalak na lagi sa harap niya;  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Na nagagalak sa kaniyang tinatahanang lupa;At ang aking kaaliwan
+        ay sa mga anak ng mga tao.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Ngayon nga, mga anak ko, dinggin ninyo ako:Sapagka''t mapalad ang
+        nangagiingat ng aking mga daan.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'Mangakinig kayo ng turo, at kayo''y magpakapantas,At huwag ninyong
+        tanggihan.  '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: '  Mapalad ang tao na nakikinig sa akin,Na nagbabantay araw-araw sa
+        aking mga pintuang-bayan,Na naghihintay sa mga haligi ng aking mga pintuan.  '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'Sapagka''t sinomang nakakasumpong sa akin, ay nakakasumpong ng buhay.At
+        magtatamo ng lingap ng Panginoon.  '
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: Nguni't siyang nagkakasala laban sa akin ay nagliligaw ng kaniyang
+        sariling kaluluwa;Silang lahat na nangagtatanim sa akin ay nagsisiibig ng
+        kamatayan.
+      comments: []
+  - verses:
+    - name: '1: Ang handaan ng karunungan.'
+      title: Ang handaan ng karunungan.
+      number: 1
+      content: '    Itinayo ng karunungan ang kaniyang bahay,Kaniyang tinabas ang
+        kaniyang pitong haligi:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  Pinatay niya ang kaniyang mga hayop: hinaluan niya ang kaniyang
+        alak;Kaniya namang ginayakan ang kaniyang dulang.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Kaniya namang sinugo ang kaniyang mga alilang babae;Siya''y sumisigaw
+        sa mga pinakapantas na dako sa bayan:  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Kung sinoma''y musmos, pumasok dito:  Tungkol sa kaniya na mapurol
+        sa pagunawa, sinasabi niya sa kaniya:  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Kayo''y magsiparito, magsikain kayo ng aking tinapay,At magsiinom
+        kayo ng alak na aking hinaluan.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Iwan ninyo, ninyong mga musmos at kayo''y mabuhay;At kayo''y magsilakad
+        sa daan ng kaunawaan.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Siyang sumasaway sa manglilibak ay nagtataglay ng kahihiyan sa kaniyang
+        sarili:At siyang sumasaway sa masama ay nagtataglay ng pula sa kaniyang sarili.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Huwag mong sawayin ang manglilibak, baka ipagtanim ka niya:  Sawayin
+        mo ang pantas, at kaniyang iibigin ka.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Turuan mo ang pantas, at siya''y magiging lalong pantas pa:Iyong
+        turuan ang matuwid, at siya''y lalago sa pagkatuto.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  Ang pagkatakot sa Panginoon ay pasimula ng karunungan:At ang pagkakilala
+        sa Banal ay kaunawaan.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Sapagka''t sa pamamagitan ko ay dadami ang iyong mga kaarawan,At
+        ang mga taon ng iyong buhay ay magsisidami.  '
+      comments: []
+    - name: '12: Ang anyaya ng hangal na babae.'
+      title: Ang anyaya ng hangal na babae.
+      number: 12
+      content: '  Kung ikaw ay pantas, ikaw ay pantas sa ganang iyong sarili:At kung
+        ikaw ay manglilibak, ikaw na magisa ang magpapasan.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Ang hangal na babae ay madaldal;  Siya''y musmos at walang nalalaman.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'At siya''y nauupo sa pintuan ng kaniyang bahay,Sa isang upuan sa
+        mga mataas na dako sa bayan,  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Upang tawagin ang nangagdadaan,Na nagsisiyaong matuwid ng kanilang
+        mga lakad:  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Sinomang musmos ay pumasok dito:At tungkol sa kaniya na mapurol sa
+        pagunawa, sinasabi niya sa kaniya:  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  Ang mga nakaw na tubig ay matamis,At ang tinapay na kinakain sa
+        lihim ay masarap.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: Nguni't hindi niya nalalaman na ang patay ay nandoon;Na ang mga panauhin
+        niya ay nangasa mga kalaliman ng Sheol.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang kawikaan. Pinagpaparis ang matuwid at ang masama.'
+      title: Iba't ibang kawikaan. Pinagpaparis ang matuwid at ang masama.
+      number: 1
+      content: '    Mga kawikaan ni Salomon.Ang pantas na anak ay nakapagpapasaya
+        sa ama:Nguni''t ang mangmang na anak ay pasan ng kaniyang ina.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  Mga kayamanan ng kasamaan ay hindi napapakinabangan:Nguni''t ang
+        katuwiran ay nagliligtas sa kamatayan.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Hindi titiisin ng Panginoon na magutom ang kaluluwa ng matuwid:Nguni''t
+        kaniyang itinatakuwil ang nasa ng masama.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Siya''y nagiging dukha na gumagawa ng kamay na walang kasipagan:Nguni''t
+        yumayaman ang kamay ng masipag.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Siyang nagtitipon sa taginit ay pantas na anak:  Nguni''t siyang
+        natutulog sa pagaani ay anak na kahiyahiya.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Mga pagpapala ay nangasa ulo ng matuwid:Nguni''t tinatakpan ng karahasan
+        ang bibig ng masama.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  Ang alaala sa ganap ay pinagpapala:Nguni''t ang pangalan ng masama
+        ay mapaparam.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Ang pantas sa puso ay tatanggap ng mga utos:Nguni''t ang madaldal
+        na musmos ay mabubuwal.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Siyang lumalakad ng matuwid ay lumalakad na tiwasay:Nguni''t siyang
+        sumisira ng kaniyang mga lakad ay makikilala.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  Siyang kumikindat ng mata ay nagpapapanglaw:Nguni''t ang madaldal
+        na musmos ay mabubuwal.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Ang bibig ng matuwid, ay bukal ng kabuhayan:Nguni''t tinatakpan ng
+        karahasan ang bibig ng masama.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Ang pagtatanim ay humihila ng mga kaalitan:  Nguni''t tinatakpan
+        ng pagibig ang lahat ng pagsalangsang.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Nasusumpungan sa mga labi ng mabait ang karunungan:Nguni''t ang pamalo
+        ay sa likod ng walang unawa.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Ang mga pantas ay nagiimbak ng kaalaman:Nguni''t ang bibig ng mangmang
+        ay kasalukuyang ikapapahamak.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Ang kayamanan ng mayaman ay ang kaniyang matibay na bayan:Ang kapahamakan
+        ng dukha ay ang kanilang karalitaan.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Ang gawa ng matuwid ay patungo sa buhay;Ang bunga ng dukha ay sa
+        pagkakasala.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  Nasa daan ng buhay siyang nakikinig ng saway:Nguni''t siyang nagpapabaya
+        ng saway ay nagkakamali.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Siyang nagkukubli ng mga pagtatanim ay sa mga magdarayang labi;At
+        siyang nagpaparatang ay mangmang.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Sa karamihan ng mga salita ay hindi nagkukulang ng pagsalangsang:Nguni''t
+        siyang nagpipigil ng kaniyang mga labi ay gumagawang may kapantasan.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Ang dila ng matuwid ay parang piling pilak:Ang puso ng masama ay
+        kaunti ang halaga.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Ang mga labi ng matuwid ay nagpapakain ng marami:Nguni''t ang mangmang
+        ay namamatay sa kakulangan ng pagunawa.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: '  Ang pagpapala ng Panginoon, ay nagpapayaman,At hindi niya idinadagdag
+        ang kapanglawan.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Isang paglilibang sa mangmang ang paggawa ng kasamaan:At gayon ang
+        karunungan sa taong naguunawa.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: '  Ang takot ng masama ay darating sa kaniya:  At ang nasa ng matuwid
+        ay ipagkakaloob.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Pagka ang ipoipo ay dumadaan ay nawawala ang masama:Nguni''t ang
+        matuwid ay walang hanggang patibayan.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Kung paano ang suka sa mga ngipin, at kung paano ang usok sa mata,Gayon
+        ang tamad sa mga nagsusugo sa kaniya.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: '  Ang pagkatakot sa Panginoon ay nagpapalaon ng mga kaarawan:  Nguni''t
+        ang mga taon ng masama ay mangangaunti.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Ang pagasa ng matuwid ay magiging kasayahan:  Nguni''t ang pagasa
+        ng masama ay mawawala.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Ang daan ng Panginoon ay katibayan sa matuwid;  Nguni''t kapahamakan
+        sa mga manggagawa ng kasamaan.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: '  Ang matuwid ay hindi makikilos kailan man:  Nguni''t ang masama
+        ay hindi tatahan sa lupain.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: '  Ang bibig ng matuwid ay nagbibigay ng karunungan:Nguni''t ang magdarayang
+        dila ay ihihiwalay.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: Nalalaman ng mga labi ng matuwid ang nakalulugod:Nguni't ang bibig
+        ng masama ay nagsasalita ng karayaan.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang kawikaan. Pinagpaparis ang matuwid at ang masama.'
+      title: Iba't ibang kawikaan. Pinagpaparis ang matuwid at ang masama.
+      number: 1
+      content: '  Ang marayang timbangan ay kasuklamsuklam sa Panginoon:Nguni''t
+        ang ganap na timbangan ay kaniyang kaluguran.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Pagka dumarating ang kapalaluan ay dumarating nga ang kahihiyan:Nguni''t
+        nasa mababa ang karunungan.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Ang pagtatapat ng mga matuwid ay papatnubay sa kanila:Nguni''t ang
+        mga kasuwailan ng mga taksil ay papatay sa kanila.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Ang mga kayamanan ay walang kabuluhan sa kaarawan ng poot:Nguni''t
+        ang katuwiran ay nagliligtas sa kamatayan.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Ang katuwiran ng sakdal ay magtuturo ng kaniyang lakad:Nguni''t mabubuwal
+        ang masama dahil sa kaniyang sariling kasamaan.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Ang katuwiran ng mga matuwid ay magliligtas sa kanila:Nguni''t silang
+        gumagawang may karayaan ay madadakip sa kanilang sariling kasamaan.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Pagka ang masamang tao ay namamatay, ang kaniyang pag-asa ay mapapasa
+        pagkapahamak;At ang pagasa ng masama ay nawawala.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Ang matuwid ay naliligtas sa kabagabagan,At ang masama ay dumarating
+        na kahalili niya.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Pinapatay ng masama ng kaniyang bibig ang kaniyang kapuwa:Nguni''t
+        sa kaalaman ay maliligtas ang matuwid.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  Pagka napapabuti ang mga matuwid ang bayan ay nagagalak:At pagka
+        ang masama ay namamatay, may hiyawan.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Nabubunyi ang bayan sa pamamagitan ng pagpapala ng matuwid:Nguni''t
+        napapahamak sa pamamagitan ng bibig ng masama.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Siyang humahamak sa kaniyang kapuwa ay walang karunungan:Nguni''t
+        ang taong naguunawa ay tumatahimik.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Siyang yumayaong mapaghatid dumapit ay naghahayag ng mga lihim:Nguni''t
+        ang may diwang tapat ay nagtatakip ng bagay.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Kung saan walang pantas na pamamahala, ang bayan ay nababagsak:Nguni''t
+        sa karamihan ng mga tagapayo ay may kagalingan.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Siyang nananagot sa di kilala, ay mapapariwara:Nguni''t siyang
+        nagtatanim sa pananagot ay tiwasay.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Ang mapagbiyayang babae ay nagiimpok ng karangalan:At ang marahas
+        na lalake ay pumipigil ng kayamanan.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Ang maawaing tao ay gumagawa ng mabuti sa kaniyang sariling kaluluwa:Nguni''t
+        ang taksil ay bumabagabag sa kaniyang sariling laman.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Ang masama ay nakikinabang ng mga marayang sahod:Nguni''t ang naghahasik
+        ng katuwiran ay nagtatamo ng tiwasay na ganting pala.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Siyang matatag sa katuwiran ay magtatamo ng buhay:  At siyang humahabol
+        ng kasamaan ay sa kaniyang sariling ikamamatay.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Silang suwail sa puso ay kasuklamsuklam sa Panginoon:Nguni''t ang
+        gayong sakdal sa kanilang lakad ay kaniyang kaluguran.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '    Bagaman ang kamay ay makikikamay, ang masamang tao ay walang
+        pagsalang parurusahan:Nguni''t ang binhi ng matuwid ay maliligtas.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: '  Kung paano ang hiyas na ginto sa nguso ng baboy,  Gayon ang magandang
+        babae na walang bait.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Ang nasa ng matuwid ay buti lamang:  Nguni''t ang hintay ng masama
+        ay poot.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'May nagsasabog, at tumutubo pa,At may humahawak naman ng higit kay
+        sa karampatan, nguni''t nauuwi lamang sa pangangailangan.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Ang kaluluwang mapagbigay ay tataba:  At siyang dumidilig ay madidilig
+        din.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: '  Siyang humahawak ng trigo ay susumpain siya ng bayan:Nguni''t kapurihan
+        ay mapapasaulo niya na nagbibili niyaon.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Siyang humahanap na masikap ng mabuti ay humahanap ng lingap:  Nguni''t
+        siyang kumakatha ng sama ay sa kaniya lalagpak.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: '  Siyang tumitiwala sa kaniyang mga kayamanan ay mabubuwal:  Nguni''t
+        ang matuwid ay mamumukadkad na parang sariwang dahon.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Siyang bumabagabag ng kaniyang sariling sangbahayan ay magmamana
+        ng hangin:At ang mangmang ay magiging alipin ng pantas sa puso.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Ang bunga ng matuwid ay punong kahoy ng buhay;At siyang pantas ay
+        humihikayat ng mga kaluluwa.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: '  Narito, ang matuwid ay gagantihin sa lupa:Gaano pa nga kaya ang
+        masama at makasalanan!'
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang kawikaan. Pinagpaparis ang matuwid at ang masama.'
+      title: Iba't ibang kawikaan. Pinagpaparis ang matuwid at ang masama.
+      number: 1
+      content: '  Sinomang umiibig ng kasawayan ay umiibig ng kaalaman:Nguni''t siyang
+        nagtatanim sa kasawayan ay hangal.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  Ang mabuting tao ay magtatamo ng lingap ng Panginoon:Nguni''t kaniyang
+        parurusahan ang taong may masasamang katha.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Ang tao ay hindi matatag sa pamamagitan ng kasamaan:  Nguni''t ang
+        ugat ng matuwid ay hindi makikilos.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Ang mabait na babae ay putong sa kaniyang asawa:Nguni''t siyang
+        nakahihiya ay parang kabulukan sa kaniyang mga buto.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Ang mga pagiisip ng matuwid ay ganap:  Nguni''t ang mga payo ng masama
+        ay magdaraya.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Ang mga salita ng masama ay mga bakay sa dugo:Nguni''t ililigtas
+        sila ng bibig ng matuwid.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Ang masama ay inilulugmok at nawawala:Nguni''t ang sangbahayan ng
+        matuwid ay tatayo.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Pupurihin ang tao ayon sa kaniyang karunungan:Nguni''t ang masama
+        sa puso ay hahamakin.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Maigi siyang pinahahalagahan ng kaunti, at may alipin,Kay sa nagmamapuri,
+        at kinukulang ng tinapay.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  Ang matuwid ay nagpapakundangan sa buhay ng kaniyang hayop:Nguni''t
+        ang mga kaawaan ng masama ay mabagsik.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Siyang bumubukid ng kaniyang lupain ay magkakaroon ng saganang
+        tinapay:Nguni''t siyang sumusunod sa taong walang kabuluhan ay walang unawa.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Ninanasa ng masama ang lambat ng mga masamang tao:Nguni''t ang ugat
+        ng matuwid ay nagbubunga.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Nasa pagsalangsang ng mga labi ang silo sa mga masamang tao:  Nguni''t
+        ang matuwid ay lalabas sa kabagabagan.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Ang tao ay masisiyahan ng buti sa pamamagitan ng bunga ng kaniyang
+        bibig;At ang mga gawain ng mga kamay ng tao ay babayaran sa kaniya.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Ang lakad ng mangmang ay matuwid sa kaniyang sariling mga mata:Nguni''t
+        siyang pantas ay nakikinig sa payo.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '  Ang yamot ng mangmang ay agad nakikilala:Nguni''t ang mabait na
+        tao ay nagtatakip ng kahihiyan.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Ang nagbabadya ng katotohanan ay nagpapakilala ng katuwiran,Nguni''t
+        ang sinungaling sa saksi ay nagdadaya.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  May nagsasalitang madalas na parang saliwan ng tabak:Nguni''t ang
+        dila ng pantas ay kagalingan.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Ang labi ng katotohanan ay matatatag kailan man.  Nguni''t ang sinungaling
+        na dila ay sa sangdali lamang.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Pagdaraya ay nasa puso ng mga kumakatha ng kasamaan:Nguni''t sa mga
+        tagapayo ng kapayapaan ay kagalakan.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Walang mangyayaring kapahamakan sa matuwid:Nguni''t ang masama
+        ay mapupuno ng kasamaan.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: '  Mga sinungaling na labi ay kasuklamsuklam sa Panginoon:Nguni''t
+        ang nagsisigawang may katotohanan ay kaniyang kaluguran.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  Ang taong mabait ay nagkukubli ng kaalaman:Nguni''t ang puso ng
+        mga mangmang ay nagtatanyag ng kamangmangan.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: '  Ang kamay ng masipag ay magpupuno:Nguni''t ang tamad ay malalagay
+        sa pagatag.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Ang kabigatan sa puso ng tao ay nagpapahukot;Nguni''t ang mabuting
+        salita ay nagpapasaya.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Ang matuwid ay patnubay sa kaniyang kapuwa:Nguni''t ang lakad ng
+        masama ay nakapagpapaligaw.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Ang tamad ay hindi nagiihaw ng kahit kaniyang napapangasuhan;Nguni''t
+        ang mahalagang pagaari ng tao ay sa mga masisipag.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: Nasa daan ng katuwiran ang buhay;At sa kaniyang landas ay walang kamatayan.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang kawikaan. Pinagpaparis ang matuwid at ang masama.'
+      title: Iba't ibang kawikaan. Pinagpaparis ang matuwid at ang masama.
+      number: 1
+      content: '    Dinidinig ng pantas na anak ang turo ng kaniyang ama:  Nguni''t
+        hindi dinidinig ng mangduduwahagi ang saway.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Ang tao ay kakain ng mabuti ayon sa bunga ng kaniyang bibig:Nguni''t
+        ang magdaraya ay kakain ng karahasan,  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Siyang nagiingat ng kaniyang bibig, nagiingat ng kaniyang buhay: 
+        Nguni''t siyang nagbubukang maluwang ng kaniyang mga labi ay magkakaroon
+        ng kapahamakan.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Ang tamad ay nagnanasa, at walang anoman:Nguni''t ang kaluluwa ng
+        masipag ay tataba.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Ang matuwid ay nagtatanim sa pagsisinungaling:Nguni''t ang masama
+        ay kasuklamsuklam, at napapahiya.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Bumabantay ang katuwiran sa matuwid na lakad;Nguni''t inilulugmok
+        ng kasamaan ang makasalanan.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  May nagpapakayaman, gayon ma''y walang anoman:  May nagpapakadukha,
+        gayon ma''y may malaking kayamanan.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Ang katubusan sa buhay ng tao ay siyang kaniyang mga kayamanan:Nguni''t
+        ang dukha ay hindi nakikinig sa banta.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Ang ilaw ng matuwid ay nagagalak:  Nguni''t ang ilawan ng masama
+        ay papatayin.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Sa kapalaluan, ang dumarating ay pagtatalo lamang:Nguni''t ang karunungan
+        ay nangasa nangaturuang maigi.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Ang kayamanang tinangkilik sa walang kabuluhan ay huhupa:Nguni''t
+        siyang nagpipisan sa paggawa ay mararagdagan.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Ang pagasa na nagluluwat ay nagpapasakit ng puso:  Nguni''t pagka
+        ang nasa ay dumarating ay punong kahoy ng buhay.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Sinomang humamak sa salita ay nagdadala ng kapahamakan sa sarili:Nguni''t
+        siyang natatakot sa utos ay gagantihin.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Ang kautusan ng pantas ay bukal ng buhay,Upang lumayo sa mga silo
+        ng kamatayan.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Ang mabuting kaunawaan ay nagbibigay lingap:Nguni''t ang lakad ng
+        mananalangsang ay mahirap.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Bawa''t mabait na tao ay gumagawang may kaalaman:Nguni''t ang mangmang
+        ay nagkakalat ng kamangmangan.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Ang masamang sugo ay nahuhulog sa kasamaan:Nguni''t ang tapat na
+        sugo ay kagalingan.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Karalitaan at kahihiyan ang tatamuhin ng nagtatakuwil ng saway:Nguni''t
+        siyang nakikinig ng saway ay magkakapuri.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Ang nasa na natupad ay matamis sa kaluluwa:Nguni''t kasuklamsuklam
+        sa mga mangmang na humiwalay sa kasamaan.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Lumalakad ka na kasama ng mga pantas na tao, at ikaw ay magiging
+        pantas;Nguni''t ang kasama ng mga mangmang ay mapapariwara.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Ang kasamaan ay humahabol sa mga makasalanan;Nguni''t ang matuwid
+        ay gagantihan ng mabuti.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Ang mabuti ay nagiiwan ng mana sa mga anak ng kaniyang mga anak; 
+        At ang kayamanan ng makasalanan ay nalalagay na ukol sa matuwid.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Maraming pagkain ang nasa pagsasaka ng dukha:Nguni''t may napapahamak
+        dahil sa kawalan ng kaganapan.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: '  Siyang naguurong ng kaniyang pamalo ay napopoot sa kaniyang anak:Nguni''t
+        siyang umiibig ay nagpaparusang maminsanminsan.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Ang matuwid ay kumakain hanggang sa kabusugan ng kaniyang kaluluwa;Nguni''t
+        ang tiyan ng masama ay mangangailangan.'
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang kawikaan. Pinagpaparis ang matuwid at ang masama.'
+      title: Iba't ibang kawikaan. Pinagpaparis ang matuwid at ang masama.
+      number: 1
+      content: '  Bawa''t pantas na babae ay nagtatayo ng kaniyang bahay:Nguni''t
+        binubunot ng mangmang, ng kaniyang sariling mga kamay.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  Siyang lumalakad sa kaniyang katuwiran ay natatakot sa Panginoon:Nguni''t
+        siyang suwail sa kaniyang mga lakad ay humahamak sa kaniya.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Sa bibig ng mangmang ay may tungkod ng kapalaluan:Nguni''t ang mga
+        labi ng pantas ay mangagiingat ng mga yaon.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Kung saan walang baka, ang bangan ay malinis:Nguni''t ang karamihan
+        ng bunga ay nasa kalakasan ng baka.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Ang tapat na saksi ay hindi magbubulaan:Nguni''t ang sinungaling
+        na saksi ay nagbabadya ng mga kasinungalingan.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Ang manglilibak ay humahanap ng karunungan at walang nasusumpungan:Nguni''t
+        ang kaalaman ay madali sa kaniya na naguunawa.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Paroon ka sa harapan ng taong mangmang,At hindi mo mamamalas sa kaniya
+        ang mga labi ng kaalaman:  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Ang karunungan ng mabait ay makaunawa ng kaniyang lakad:Nguni''t
+        ang kamangmangan ng mga mangmang ay karayaan.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Ang mangmang ay tumutuya sa sala:Nguni''t sa matuwid ay may mabuting
+        kalooban.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Nalalaman ng puso ang kaniyang sariling kapaitan;At ang tagaibang
+        lupa ay hindi nakikialam ng kaniyang kagalakan.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Ang bahay ng masama ay mababagsak:Nguni''t ang tolda ng matuwid
+        ay mamumukadkad.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  May daan na tila matuwid sa isang tao,  Nguni''t ang dulo niyaon
+        ay mga daan ng kamatayan.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Maging sa pagtawa man ang puso ay nagiging mapanglaw;At ang wakas
+        ng kasayahan ay kabigatan ng loob.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Ang tumatalikod ng kaniyang puso ay mabubusog ng kaniyang sariling
+        mga lakad:  At masisiyahang loob ang taong mabuti.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Pinaniniwalaan ng musmos ang bawa''t salita:Nguni''t ang mabait ay
+        tumitinging mabuti sa kaniyang paglakad.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '  Ang pantas ay natatakot at humihiwalay sa kasamaan:Nguni''t ang
+        mangmang ay nagpapakilalang palalo, at timawa.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Siyang nagagalit na madali ay gagawang may kamangmangan:At ang taong
+        may masamang katha ay ipagtatanim.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Ang musmos ay nagmamana ng kamangmangan:Nguni''t ang mabait ay puputungan
+        ng kaalaman.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Ang masama ay yumuyukod sa harap ng mabuti;At ang masama ay sa mga
+        pintuang-daan ng matuwid.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Ipinagtatanim ang dukha maging ng kaniyang kapuwa:Nguni''t ang mayaman
+        ay maraming kaibigan.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Siyang humahamak sa kaniyang kapuwa ay nagkakasala:  Nguni''t siyang
+        naaawa sa dukha ay mapalad siya.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Hindi ba sila nagkakamali na kumakatha ng kasamaan?Nguni''t kaawaan
+        at katotohanan ay sasa kanila na nagsisikatha ng mabuti.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Sa lahat ng gawain ay may pakinabang:Nguni''t ang tabil ng mga labi
+        ay naghahatid sa karalitaan.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Ang putong ng mga pantas ay ang kanilang mga kayamanan:Nguni''t ang
+        kamangmangan ng mga mangmang ay kamangmangan lamang.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Ang tapat na saksi ay nagliligtas ng mga tao:Nguni''t siyang nagsasalita
+        ng mga kasinungalingan ay nagdaraya.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Sa pagkatakot sa Panginoon ay may matibay na pagkakatiwala:At ang
+        kaniyang mga anak ay magkakaroon ng dakong kanlungan.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: '  Ang pagkatakot sa Panginoon ay bukal ng kabuhayan,Upang humiwalay
+        sa mga silo ng kamatayan.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Nasa karamihan ng bayan ang kaluwalhatian ng hari:Nguni''t na sa
+        pangangailangan ng bayan ang kapahamakan ng pangulo.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: '  Siyang makupad sa pagkagalit ay may dakilang paguunawa:Nguni''t
+        siyang madaling magalit ay nagbubunyi ng kamangmangan.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Ang tiwasay na puso ay buhay ng katawan:Nguni''t ang kapanaghilian
+        ay kabulukan ng mga buto.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: '  Siyang pumipighati sa dukha ay humahamak sa May-lalang sa kaniya.Nguni''t
+        siyang naaawa sa mapagkailangan ay nagpaparangal sa kaniya.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Ang masama ay manahagis sa kaniyang masamang gawa:Nguni''t ang matuwid
+        ay may kanlungan sa kaniyang kamatayan.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'Karunungan ay nagpapahinga sa puso niya na may paguunawa:Nguni''t
+        ang nasa loob ng mga mangmang ay nalalaman.  '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'Ang katuwiran ay nagbubunyi ng bansa:Nguni''t ang kasalanan ay kakutyaan
+        sa alinmang bayan.  '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: Ang lingap ng hari ay sa lingkod na gumagawa na may kapantasan:Nguni't
+        ang kaniyang poot ay magiging laban sa nakahihiya.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang kawikaan. Pinagparisparis ang matuwid at masama.'
+      title: Iba't ibang kawikaan. Pinagparisparis ang matuwid at masama.
+      number: 1
+      content: '  Ang malubay na sagot ay nakapapawi ng poot:Nguni''t ang mabigat
+        na salita ay humihila ng galit.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Ang dila ng pantas ay nagbabadya ng tuos ng kaalaman:Nguni''t ang
+        bibig ng mga mangmang ay nagbubugso ng kamangmangan.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Ang mga mata ng Panginoon ay nasa bawa''t dako,Na nagbabantay sa
+        masama at sa mabuti.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Ang dilang magaling ay punong kahoy ng buhay:Nguni''t ang kalikuan
+        niyaon ay kasiraan ng diwa.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Hinahamak ng mangmang ang saway ng kaniyang ama:Nguni''t siyang nagpapakundangan
+        ng saway ay gumagawang may kabaitan.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Sa bahay ng matuwid ay maraming kayamanan:Nguni''t sa mga pakinabang
+        ng masama ay kabagabagan.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Ang mga labi ng pantas ay nagsasabog ng kaalaman:Nguni''t ang puso
+        ng mangmang ay hindi gayon.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Ang hain ng masama ay kasuklamsuklam sa Panginoon:Nguni''t ang
+        dalangin ng matuwid ay kaniyang kaluguran.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Ang lakad ng masama ay kasuklamsuklam sa Panginoon:Nguni''t iniibig
+        niya ang sumusunod sa katuwiran.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'May mabigat na saway sa kaniya, na nagpapabaya ng lakad:  At  siyang
+        nagtatanim sa saway ay mamamatay.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Sheol at kapahamakan ay nasa harap ng Panginoon:Gaanong higit pa
+        nga ang mga puso ng mga anak ng mga tao!  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Ayaw ang manglilibak na siya''y sawayin.Siya''y hindi paroroon sa
+        pantas.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Ang masayang puso ay nagpapasaya ng mukha:Nguni''t sa kapanglawan
+        ng puso ay nababagbag ang diwa.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Ang puso niyaong naguunawa ay humahanap ng kaalaman:Nguni''t ang
+        bibig ng mga mangmang ay kumakain ng kamangmangan.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Lahat ng mga araw sa nagdadalamhati ay masama:  Nguni''t siyang may
+        masayang puso ay may laging kapistahan.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '  Maigi ang kaunti na may pagkatakot sa Panginoon,Kay sa malaking
+        kayamanan na may kabagabagan.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  Maigi ang pagkaing gulay na may pagibig,Kay sa matabang baka at
+        may pagtataniman.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Ang mainiting tao ay humihila ng pagtatalo:Nguni''t siyang makupad
+        sa galit ay pumapayapa ng kaalitan.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Ang daan ng tamad ay gaya ng bakuran na mga dawag:Nguni''t ang landas
+        ng matuwid ay ginagawang maluwang na lansangan.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Ang pantas na anak ay nagpapasaya ng ama:Nguni''t hinahamak ng mangmang
+        ang kaniyang ina.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Ang kamangmangan ay kagalakan sa walang bait:Nguni''t pinatutuwid
+        ng maalam ang kaniyang lakad.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Kung saan walang payo ay nagugulo ang mga panukala:  Nguni''t sa
+        karamihan ng mga tagapayo ay nangatatatag.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Ang tao ay may kagalakan sa sagot ng kaniyang bibig:At ang salita
+        sa ukol na panahon, ay anong pagkabuti!  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Sa pantas ay paitaas ang daan ng buhay,Upang kaniyang mahiwalayan
+        ang Sheol sa ibaba.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Bubunutin ng Panginoon ang bahay ng palalo:Nguni''t kaniyang itatatag
+        ang hangganan ng babaing bao.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Ang mga masamang katha ay kasuklamsuklam sa Panginoon:Nguni''t ang
+        mga maligayang salita ay dalisay.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Siyang sakim sa pakinabang ay bumabagabag ng kaniyang sariling sangbahayan:Nguni''t
+        siyang nagtatanim sa mga suhol ay mabubuhay.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Ang puso ng matuwid ay nagbubulay ng isasagot:Nguni''t ang bibig
+        ng masama ay nagbubugso ng mga masamang bagay.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Ang Panginoon ay malayo sa masama:  Nguni''t kaniyang dinidinig ang
+        dalangin ng matuwid.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: '  Ang liwanag ng mga mata ay nagpapagalak ng puso:  At ang mabubuting
+        balita ay nagpapataba ng mga buto.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Ang taingang nakikinig sa saway ng buhay,Ay tatahan sa gitna ng pantas.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Siyang tumatanggi sa saway ay humahamak sa kaniyang sariling kaluluwa:Nguni''t
+        siyang nakikinig sa saway ay nagtatamo ng kaawaan.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: '  Ang pagkatakot sa Panginoon ay turo ng karunungan;At sa unahan
+        ng karangalan ay nagpapauna ang pagpapakumbaba.'
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang palagay tungkol sa buhay at kaugalian.'
+      title: Iba't ibang palagay tungkol sa buhay at kaugalian.
+      number: 1
+      content: '  Ang mga paghahanda ng puso ay ukol sa tao:Nguni''t ang sagot ng
+        dila ay mula sa Panginoon.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  Ang lahat ng mga lakad ng tao ay malinis sa harap ng kaniyang sariling
+        mga mata:Nguni''t tinitimbang ng Panginoon ang mga diwa.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Iukol mo sa Panginoon ang iyong mga gawa,At ang iyong mga panukala
+        ay matatatag.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Ginawa ng Panginoon ang bawa''t bagay na ukol sa kaniyang sariling
+        wakas:Oo, pati ng masama na ukol sa kaarawan ng kasamaan.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Bawa''t palalo sa puso ay kasuklamsuklam sa Panginoon:  Bagaman maghawakan
+        sa kamay ay walang pagsalang parurusahan.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Sa pamamagitan ng kaawaan at katotohanan ay nalilinis ang kasamaan:At
+        sa pamamagitan ng pagkatakot sa Panginoon ay humihiwalay ang mga tao sa kasamaan.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Pagka ang mga lakad ng tao ay nakapagpapalugod sa Panginoon,Kaniyang
+        tinitiwasay sa kaniya pati ng kaniyang mga kaaway.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Maigi ang kaunti na may katuwiranKay sa malalaking pakinabang na
+        walang kaganapan.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Ang puso ng tao ay kumakatha ng kaniyang lakad:Nguni''t ang Panginoon
+        ang nagtutuwid ng kaniyang mga hakbang.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Banal na hatol ay nasa mga labi ng hari:At kaniyang bibig ay hindi
+        sasalangsang sa kahatulan.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Ang ganap na timbangan at panimbang ay sa Panginoon:Lahat ng timbang
+        na supot ay kaniyang gawa.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Kasuklamsuklam sa mga hari na gumawa ng kasamaan:Sapagka''t ang luklukan
+        ay natatatag sa pamamagitan ng katuwiran.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Mga matuwid na labi ay kaluguran ng mga hari;At kanilang iniibig
+        ang nagsasalita ng matuwid.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Ang poot ng hari ay gaya ng mga sugo ng kamatayan:Nguni''t papayapain
+        ng pantas.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Nasa liwanag ng mukha ng hari ang buhay;  At ang kaniyang lingap
+        ay parang alapaap ng huling ulan.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '  Pagkaigi nga na magtamo ng karunungan kay sa ginto!Oo, magtamo
+        ng kaunawaan ay maigi kay sa pumili ng pilak.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Ang maluwang na lansangan ng matuwid ay humiwalay sa kasamaan:Siyang
+        nagiingat ng kaniyang lakad ay nagiingat ng kaniyang kaluluwa.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Ang kapalaluan ay nagpapauna sa kapahamakan,At ang mapagmataas na
+        diwa ay sa pagkabuwal.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: '  Maigi ang magkaroon ng mapagpakumbabang loob na kasama ng dukha,Kay
+        sa bumahagi ng samsam na kasama ng palalo.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Siyang nagiingat sa salita ay makakasumpong ng mabuti:  At ang nananalig
+        sa Panginoon ay mapalad.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Ang pantas sa puso ay tatawaging mabait:At ang katamisan sa mga labi
+        ay nagdaragdag ng katututuhan.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Ang kaunawaan ay bukal ng buhay sa nagtatamo:Nguni''t ang saway ng
+        mga mangmang ay siyang kanilang kamangmangan.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  Ang puso ng pantas ay nagtuturo sa kaniyang bibig,At nagdaragdag
+        ng katututuhan sa kaniyang mga labi.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Mga maligayang salita ay parang  pulot-pukyutan,Matamis sa kaluluwa
+        at kagalingan sa mga buto.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  May daan na tila matuwid sa tao,Nguni''t ang dulo niyaon ay mga
+        daan ng kamatayan.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Ang gana ng pagkain ng manggagawang tao ay nakagagaling sa kaniya;Sapagka''t
+        kinasasabikan ng kaniyang bibig.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Ang walang kabuluhang tao ay kumakatha ng kahirapan:At sa kaniyang
+        mga labi ay may masilakbong apoy.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Ang magdarayang tao ay nagkakalat ng pagtatalo:At ang mapaghatid-dumapit
+        ay naghihiwalay ng magkakaibigang matalik.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Ang taong marahas ay dumadaya sa kaniyang kapuwa,At pinapatnubayan
+        niya siya sa daang hindi mabuti.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Ikinikindat ang kaniyang mga mata, upang kumatha ng mga magdarayang
+        bagay:Siyang nangangagat labi ay nagpapangyari sa kasamaan.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Ang ulong may uban ay putong ng kaluwalhatian,Masusumpungan sa daan
+        ng katuwiran.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Siyang makupad sa pagkagalit ay maigi kay sa makapangyarihan;At siyang
+        nagpupuno sa kaniyang diwa ay maigi kay sa sumasakop ng isang bayan.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: Ginagawa ang pagsasapalaran sa kandungan;Nguni't ang buong pasiya
+        niyaon ay sa Panginoon.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang palagay tungkol sa buhay at kaugalian.'
+      title: Iba't ibang palagay tungkol sa buhay at kaugalian.
+      number: 1
+      content: '  Maigi ang isang tuyong subo at may katahimikan,Kay sa bahay na
+        may laging pistahan na may kaalitan.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Ang lingkod na gumagawang may kapantasan ay nagpupuno sa anak na
+        nakahihiya,At siya''y makakabahagi sa mana ng magkakapatid.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Ang dalisayan ay sa pilak, at ang hurno ay sa ginto:Nguni''t sinusubok
+        ng Panginoon ang mga puso.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Ang manggagawa ng kasamaan ay nakikinig sa masasamang labi;  At ang
+        sinungaling ay nakikinig sa masamang dila.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Sinomang tumutuya sa dukha ay dumudusta sa May-lalang sa kaniya:   
+        At ang natutuwa sa kasakunaan ay walang pagsalang parurusahan.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Ang mga anak ng mga anak ay putong ng mga matatandang tao;At ang
+        kaluwalhatian ng mga anak ay ang kanilang mga magulang.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Ang marilag na pananalita ay hindi nagiging mabuti sa mangmang:Lalo
+        na ang magdarayang mga labi, sa isang pangulo.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Ang suhol ay parang mahalagang bato sa mga mata ng nagtatamo:Saan
+        man pumihit ay gumiginhawa.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Ang nagtatakip ng pagsalangsang ay humahanap ng pagibig:Nguni''t
+        ang nagdadadaldal tungkol sa anoman ay naghihiwalay ng magkakaibigang matalik.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Ang saway ay nanasok na taimtim sa isang naguunawa,Kay sa isang daang
+        hampas sa mangmang.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Ang hinahanap lamang ng masamang tao ay panghihimagsik;Kaya''t isang
+        mabagsik na sugo ay susuguin laban sa kaniya.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Masalubong ang tao ng oso na nanakawan ng kaniyang mga anak,  Maigi
+        kay sa mangmang sa kaniyang kamangmangan.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Sinomang gumaganti ng kasamaan sa mabuti,Kasamaan ay hindi hihiwalay
+        sa kaniyang bahay.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Ang pasimula ng pagkakaalit ay gaya ng pagbuga ng tubig:  Kaya''t
+        iwan ninyo ang pagtatalo, bago maginit sa pagkakaalit.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Siya na umaaring ganap sa masama, at siya na nagpaparusa sa matuwid,Kapuwa
+        sila kasuklamsuklam sa Panginoon.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Bakit may halaga sa kamay ng mangmang upang ibili ng karunungan,Gayong
+        wala siyang pagkaunawa?  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Ang kaibigan ay umiibig sa lahat ng panahon,At ang kapatid ay ipinanganak
+        na ukol sa kasakunaan.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Ang taong walang unawa ay nakikikamay,At nagiging mananagot sa
+        harapan ng kaniyang kapuwa.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Ang umiibig sa pagsalangsang ay umiibig sa pagkakaalit:  Ang nagtataas
+        ng kaniyang pintuan ay humahanap ng kapahamakan.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Siyang may magdarayang puso ay hindi nakakasumpong ng mabuti:At siyang
+        may suwail na dila ay nahuhulog sa karalitaan.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Ang nanganganak ng mangmang ay sa kaniyang kapanglawan:At ang ama
+        ng mangmang ay walang kagalakan.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: '  Ang masayang puso ay mabuting kagamutan:Nguni''t ang bagbag na
+        diwa ay tumutuyo ng mga buto.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Ang masama ay tumatanggap ng suhol mula sa sinapupunan,  Upang ipahamak
+        ang daan ng kahatulan.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Karunungan ay nasa harap ng mukha ng naguunawa:Nguni''t ang mga mata
+        ng mangmang ay nasa mga wakas ng lupa.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Ang mangmang na anak ay hirap sa kaniyang ama,At kapaitan sa nanganak
+        sa kaniya.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Parusahan naman ang matuwid ay hindi mabuti,Ni saktan man ang mahal
+        na tao dahil sa kanilang katuwiran.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: '  Siyang nagtitipid ng kaniyang mga salita ay may kaalaman:At siyang
+        may diwang malamig ay taong naguunawa.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: '  Ang mangmang man, pagka siya''y tumatahimik, ay nabibilang na pantas:Pagka
+        kaniyang tinitikom ang kaniyang mga labi, ay inaari siyang mabait.'
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang palagay tungkol sa buhay at kaugalian.'
+      title: Iba't ibang palagay tungkol sa buhay at kaugalian.
+      number: 1
+      content: '  Ang humihiwalay ay humahanap ng sarili niyang nasa,At nakikipagtalo
+        laban sa lahat na magaling na karunungan.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Ang mangmang ay walang kaluguran sa paguunawa,Kundi maihayag lamang
+        ang kaniyang puso.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Pagka ang masama ay dumarating, dumarating din naman ang paghamak,At
+        kasama ng kutya ang pagkaduwahagi.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Ang mga salita ng bibig ng tao ay parang malalim na tubig; Ang bukal
+        ng karunungan ay parang umaagos na batis.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Igalang ang pagkatao ng masama ay hindi mabuti,Ni iligaw man ang
+        matuwid sa kahatulan.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Ang mga labi ng mangmang ay nanasok sa pagkakaalit,At tinatawag ng
+        kaniyang bibig ang mga hampas.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  Ang bibig ng mangmang ay kaniyang kapahamakan,At ang kaniyang mga
+        labi ay silo ng kaniyang kaluluwa.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Ang mga salita ng mga mapaghatid-dumapit ay parang mga masarap na
+        subo,At nagsisibaba sa pinakaloob ng tiyan.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Siya mang walang bahala sa kaniyang gawainAy kapatid siya ng maninira.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Ang pangalan ng Panginoon ay matibay na moog:Tinatakbuhan ng matuwid
+        at naliligtas.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Ang yaman ng mayamang tao ay ang kaniyang matibay na bayan,At gaya
+        ng matayog na kuta sa kaniyang sariling isip,  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  Bago ang pagkapahamak ay pagmamalaki ng puso ng tao,At bago ang
+        karangalan ang pagpapakumbaba.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Ang sumasagot bago makinig,Ay kamangmangan at kahihiyan sa kaniya.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Aalalayan ng diwa ng tao ang kaniyang sakit;Nguni''t ang bagbag na
+        diwa sinong nakapagdadala?  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Ang puso ng mabait ay nagtatamo ng kaalaman;At ang pakinig ng pantas
+        ay humahanap ng kaalaman.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '  Ang kaloob ng tao ay nagbubukas ng daan sa kaniya,At dinadala siya
+        sa harap ng mga dakilang tao.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Ang nakikipaglaban ng kaniyang usap na una ay tila ganap;Nguni''t
+        dumarating ang kaniyang kapuwa at sinisiyasat siya.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Ang pagsasapalaran ay nagpapatigil ng mga pagtatalo,At naghihiwalay
+        sa gitna ng mga makapangyarihan.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Ang kapatid na nasaktan sa kalooban ay mahirap mabawi kay sa matibay
+        na bayan:At ang gayong mga pagtatalo ay parang mga halang ng isang kastilyo.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Ang tiyan ng tao ay mabubusog ng bunga ng kaniyang bibig;Sa bunga
+        ng kaniyang mga labi ay masisiyahan siya.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Kamatayan at buhay ay nasa kapangyarihan ng dila;At ang nagsisiibig
+        sa kaniya ay magsisikain ng kaniyang bunga.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: '  Sinomang lalaking nakakasumpong ng asawa ay nakasumpong ng mabuting
+        bagay,At nagtatamo ng lingap ng Panginoon.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Ang dukha ay gumagamit ng mga pamanhik:Nguni''t ang mayaman ay sumasagot
+        na may kagilasan.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: Ang nagpaparami ng mga kaibigan ay sa kaniyang sariling kapahamakan:Nguni't
+        may kaibigan na mahigit kay sa isang kapatid.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang palagay tungkol sa buhay at kaugalian.'
+      title: Iba't ibang palagay tungkol sa buhay at kaugalian.
+      number: 1
+      content: '  Maigi ang dukha na lumalakad sa kaniyang pagtatapatKay sa suwail
+        sa kaniyang mga labi at mangmang.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Gayon din ang kaluluwa na walang kaalaman ay hindi mabuti;At siyang
+        nagmamadali ng kaniyang mga paa ay nagkakasala.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Ang kamangmangan ng tao ay sumisira ng kaniyang lakad;At ang kaniyang
+        puso ay nagagalit laban sa Panginoon.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Ang kayamanan ay nagdadagdag ng maraming kaibigan:Nguni''t ang
+        dukha ay hiwalay sa kaniyang kaibigan.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Ang sinungaling na saksi ay walang pagsalang parurusahan;At ang
+        nagsasalita ng mga kasinungalingan ay hindi makatatahan.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Marami ang mamamanhik ng lingap sa magandang-loob:At bawa''t tao
+        ay kaibigan ng nagbibigay ng mga kaloob.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Ipinagtatanim siya ng lahat ng kapatid ng dukha:Gaano pa nga kaya
+        ang ilalayo sa kaniya ng kaniyang mga kaibigan!Kaniyang hinahabol sila ng
+        mga salita, nguni''t wala na sila.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Siyang nagiimpok ng karunungan ay umiibig sa kaniyang sariling kaluluwa:Siyang
+        nagiingat ng pagunawa ay makakasumpong ng mabuti.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Ang sinungaling na saksi ay walang pagsalang parurusahan;At ang nagbabadya
+        ng mga kasinungalingan ay mamamatay.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Maayos na pamumuhay ay hindi magaling sa mangmang;Lalo na sa alipin
+        na magpuno sa mga pangulo.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Ang bait ng tao ay nagpapakupad sa galit.At kaniyang kaluwalhatian
+        na paraanin ang pagsalangsang.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Ang poot ng hari ay parang ungal ng leon;Nguni''t ang kaniyang lingap
+        ay parang hamog sa damo.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Ang mangmang na anak ay kapanglawan ng kaniyang ama:  At ang mga
+        pakikipagtalo ng asawa ay walang likat na tulo.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Bahay at mga kayamanan ay minamana sa mga magulang:  Nguni''t ang
+        mabait na asawa ay galing sa Panginoon.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Katamaran ay nagbabaon sa mahimbing na pagkakatulog;At ang tamad
+        na kaluluwa ay magugutom.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Ang nagiingat ng utos ay nagiingat ng kaniyang kaluluwa:  Nguni''t
+        ang walang babala sa kaniyang mga lakad ay mamamatay.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Ang naaawa sa dukha ay nagpapautang sa Panginoon,At ang kaniyang
+        mabuting gawa ay babayaran sa kaniya uli.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Parusahan mo ang iyong anak, dangang may pagasa;At huwag mong ilagak
+        ang iyong puso sa kaniyang ikapapahamak.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Ang taong may malaking poot ay magtataglay ng parusa:Sapagka''t kung
+        iyong iligtas iyong marapat na gawin uli.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Makinig ka ng payo, at tumanggap ka ng turo,Upang ikaw ay maging
+        pantas sa iyong huling wakas.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  May maraming katha sa puso ng tao;Nguni''t ang payo ng Panginoon,
+        ay siyang tatayo.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Yaong nakagagawa sa isang tao upang siya''y maging kanaisnais ay
+        ang kaniyang kagandahang-loob:At ang isang dukha ay maigi kay sa isang sinungaling.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Ang pagkatakot sa Panginoon ay patungo sa kabuhayan;At ang nagtatangkilik
+        noon ay tatahang may kasiyahan:Hindi siya dadalawin ng kasamaan.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Idinadampot ng tamad ang kaniyang kamay sa pinggan,At hindi na magsusubo
+        pa sa kaniyang bibig uli.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Iyong saktan ang manglilibak, at ang musmos ay magaaral ng kabaitan:At
+        iyong sawayin ang naguunawa, at siya''y makakaunawa ng kaalaman.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Ang sumasamsam sa kaniyang ama, at nagpapalayas sa kaniyang ina, 
+        Ay anak na nakakahiya at nagdadala ng kakutyaan.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Magtigil ka, anak ko, sa pakikinig ng aralNa nagliligaw lamang mula
+        sa mga salita ng kaalaman.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Ang walang kabuluhang saksi ay lumilibak sa kahatulan:At ang bibig
+        ng masama ay lumalamon ng kasamaan.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: Ang mga kahatulan ay nahahanda sa mga manglilibak,  At ang mga hampas
+        ay sa mga likod ng mga mangmang.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang palagay tungkol sa buhay at kaugalian.'
+      title: Iba't ibang palagay tungkol sa buhay at kaugalian.
+      number: 1
+      content: '  Ang alak ay manunuya, ang matapang na alak ay manggugulo;At sinomang
+        napaliligaw sa kaniya ay hindi pantas.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Ang kakilabutan ng hari ay parang ungal ng leon:Ang namumungkahi
+        sa kaniya sa galit ay nagkakasala laban sa kaniyang sariling buhay.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Karangalan sa tao ang magingat sa pakikipagkaalit:Nguni''t bawa''t
+        mangmang ay magiging palaaway.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Ang tamad ay hindi magaararo dahil sa tagginaw;Kaya''t siya''y
+        magpapalimos sa pagaani, at wala anoman.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Payo sa puso ng tao ay parang malalim na tubig;Nguni''t iibigin ng
+        taong naguunawa.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Maraming tao ay magtatanyag bawa''t isa ng kaniyang sariling kagandahang-loob:Nguni''t
+        sinong makakasumpong sa taong tapat?  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Ang ganap na tao na lumalakad sa kaniyang pagtatapat,Mapapalad ang
+        kaniyang mga anak na susunod sa kaniya.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Ang hari na nauupo sa luklukan ng kahatulanPinananabog ng kaniyang
+        mga mata ang lahat na kasamaan.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Sinong makapagsasabi, Nilinis ko ang aking puso,Ako''y dalisay
+        sa aking kasalanan?  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Mga iba''t ibang panimbang, at mga iba''t ibang takalan,Kapuwa mga
+        karumaldumal sa Panginoon.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Ang bata man ay nagpapakilala sa kaniyang mga gawa,Kung ang kaniyang
+        gawa ay magiging malinis, at kung magiging matuwid.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Ang nakikinig na tainga, at ang nakakakitang mata,Kapuwa ginawa ng
+        Panginoon.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Huwag mong ibigin ang pagtulog, baka ka madukha;Idilat mo ang iyong
+        mga mata, at mabubusog ka ng tinapay.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Walang halaga, walang halaga, sabi ng mamimili:Nguni''t pagka nakalayo
+        siya, naghahambog nga.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'May ginto, at saganang mga rubi:Nguni''t ang mga labi ng kaalaman
+        ay mahalagang hiyas.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '  Kunin mo ang kaniyang suot na nananagot sa di kilala;At tanggapan
+        mo ng sanla ang nananagot sa mga di kilala.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Tinapay ng kasinungalingan ay matamis sa tao:Nguni''t pagkatapos
+        ay mabubusog ang kaniyang bibig ng batong lapok.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Bawa''t panukala ay natatatag sa pamamagitan ng payo:At sa pamamagitan
+        ng pantas na pamamatnubay ay makikipagdigma ka.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: '  Ang yumayaong mapaghatid-dumapit ay naghahayag ng mga lihim:Kaya''t
+        huwag kang makisalamuha sa kaniya na nagbubukang maluwang ng kaniyang mga
+        labi.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Siyang sumusumpa sa kaniyang ama o sa kaniyang ina,Ang kaniyang ilawan
+        ay papatayin sa salimuot na kadiliman.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Ang mana ay matatamong madali sa pasimula;  Nguni''t ang wakas
+        niyao''y hindi pagpapalain.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Huwag mong sabihin, Ako''y gaganti ng kasamaan:  Maghintay ka sa
+        Panginoon, at kaniyang ililigtas ka.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Mga iba''t ibang panimbang ay karumaldumal sa Panginoon;At ang sinungaling
+        na timbangan ay hindi mabuti.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Ang mga lakad ng tao ay sa Panginoon;Paano ngang mauunawa ng tao
+        ang kaniyang lakad?  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Silo nga sa tao ang magsabi ng walang pakundangan, Banal nga,At magsiyasat
+        pagkatapos ng mga panata.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: '  Ang pantas na hari ay nagpapapanabog ng masama.At dinadala sa kanila
+        ang gulong na panggiik.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Ang diwa ng tao ay ilawan ng Panginoon,Na sumisiyasat ng mga pinakaloob
+        na bahagi ng tiyan.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: '  Kagandahang-loob at katotohanan ay nagpapalagi sa hari:At ang kaniyang
+        luklukan ay inaalalayan ng kagandahang-loob.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Ang kaluwalhatian ng mga binata ay ang kanilang kalakasan:At ang
+        kagandahan ng matanda ay ang ulong may uban.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: Ang mga latay na sumasakit ay lumilinis ng kasamaan:At ang mga hampas
+        ay dinaramdam sa mga pinakaloob na bahagi ng tiyan.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang palagay tungkol sa buhay at kaugalian.'
+      title: Iba't ibang palagay tungkol sa buhay at kaugalian.
+      number: 1
+      content: '  Ang puso ng hari ay nasa kamay ng Panginoon na parang mga batis:Kumikiling
+        saan man niya ibigin.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  Bawa''t lakad ng tao ay matuwid sa kaniyang sariling mga mata:Nguni''t
+        tinitimbang ng Panginoon ang mga puso.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Gumawa ng kaganapan at kahatulanAy lalong kalugodlugod sa Panginoon
+        kay sa hain.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Ang mapagmataas na tingin, at ang palalong puso,Siyang ilaw ng
+        masama, ay kasalanan.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Ang mga pagiisip ng masipag ay patungo sa kasaganaan lamang:Nguni''t
+        bawa''t nagmamadali ay sa pangangailangan lamang.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Ang pagtatamo ng mga kayamanan sa pamamagitan ng sinungaling na
+        dilaAy singaw na tinatangay na paroo''t parito noong nagsisihanap ng kamatayan.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Ang pangdadahas ng masama ay siya ring papalis sa kanila;Sapagka''t
+        sila''y nagsitangging magsigawa ng kahatulan.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Ang lakad ng nagpapasan ng sala ay lubhang liko;Nguni''t tungkol
+        sa malinis, ang kaniyang gawa ay matuwid.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Lalong maigi ang tumahan sa sulok ng bubungan,Kay sa palatalong
+        babae sa maluwang na bahay.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  Ang kaluluwa ng masama ay nagnanasa ng kasamaan:Ang kaniyang kapuwa
+        ay hindi nakakasumpong ng lingap sa kaniyang mga mata.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Pagka ang mangduduwahagi ay pinarusahan, ang musmos ay nagiging
+        pantas:At pagka ang pantas ay tinuturuan, siya''y tumatanggap ng kaalaman.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Pinagninilay ng matuwid ang bahay ng masama,  Kung paanong napapahamak
+        ang masama sa kanilang pagkapariwara.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Ang nagtatakip ng kaniyang mga pakinig sa daing ng dukha,Siya naman
+        ay dadaing, nguni''t hindi didinggin.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Ang kaloob na lihim ay nagpapatahimik ng galit,At ang alay sa sinapupunan,
+        ay ng malaking poot.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Kagalakan sa matuwid ang gumawa ng kahatulan;Nguni''t kapahamakan
+        sa mga manggagawa ng kasamaan.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Ang tao na gumagala sa labas ng daan ng kaunawaan,  Magpapahinga
+        sa kapisanan ng patay.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Ang umiibig ng kalayawan ay magiging dukha:Ang umiibig sa alak at
+        langis ay hindi yayaman.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Ang masama ay isang katubusan para sa matuwid,At ang taksil ay
+        sa lugar ng matuwid.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: '  Lalong maigi ang tumahan sa ilang na lupain,Kay sa makisama sa
+        palatalo at magagaliting babae.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'May mahalagang kayamanan at langis sa tahanan ng pantas;Nguni''t
+        ito''y sinasakmal ng mangmang.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Ang sumusunod sa katuwiran at kagandahang-loobNakakasumpong ng
+        buhay, katuwiran, at karangalan.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Sinasampa ng pantas ang bayan ng makapangyarihan,At ibinabagsak ang
+        lakas ng pagkakatiwala niyaon.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  Sinomang nagiingat ng kaniyang bibig at kaniyang dilaNagiingat
+        ng kaniyang kaluluwa mula sa mga kabagabagan.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Ang palalo at mapagmataas na tao, manglilibak ang kaniyang pangalan,Siya''y
+        gumagawa sa kahambugan ng kapalaluan.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Ang nasa ng tamad ay pumapatay sa kaniya;Sapagka''t tumatanggi
+        ang kaniyang mga kamay sa paggawa.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'May nagiimbot sa kasakiman buong araw:Nguni''t ang matuwid ay nagbibigay
+        at hindi nagkakait.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Ang hain ng masama ay karumaldumal:Gaano pa nga, pagka kaniyang dinadala
+        na may masamang isip!  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Ang sinungaling na saksi ay mamamatay:Nguni''t ang taong nakikinig
+        ay magsasalita upang mamalagi.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Ang masamang tao ay nagmamatigas ng kaniyang mukha;Nguni''t tungkol
+        sa taong matuwid, nagaayos ng kaniyang mga lakad.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: '  Walang karunungan, o kaunawaan man,O payo man laban sa Panginoon.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: '  Ang kabayo ay handa laban sa kaarawan ng pagbabaka:Nguni''t ang
+        pagtatagumpay ay sa Panginoon.'
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang palagay tungkol sa buhay at kaugalian.'
+      title: Iba't ibang palagay tungkol sa buhay at kaugalian.
+      number: 1
+      content: '  Ang mabuting pangalan ay maiging piliin, kay sa malaking kayamanan, 
+        At ang magandang kalooban, kay sa pilak at ginto.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Ang mayaman at ang dukha ay nagkakasalubong kapuwa:Ang Panginoon
+        ang May-lalang sa kanilang lahat.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Ang mabait na tao ay nakakakita ng kasamaan at nagkukubli:Nguni''t
+        dinadaanan ng musmos at nagtitiis.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Ang kagantihan sa kapakumbabaan at ang pagkatakot sa Panginoon   
+        Ay kayamanan, at karangalan, at buhay.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Mga tinik at mga silo ay nangasa daan ng magdaraya:Ang nagiingat
+        ng kaniyang kaluluwa ay lalayo sa mga yaon.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Turuan mo ang bata sa daan na dapat niyang lakaran,At pagka tumanda
+        man siya ay hindi niya hihiwalayan.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Ang mayaman ay magpupuno sa dukha,At ang manghihiram ay alipin ng
+        nagpapahiram.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Siyang naghahasik ng kasamaan ay aani ng kapahamakan;At ang pamalo
+        ng kaniyang poot ay maglilikat.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Ang may magandang-loob na mata ay pagpapalain:Sapagka''t nagbibigay
+        ng kaniyang tinapay sa dukha.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Itaboy mo ang manglilibak, at ang pagtatalo ay maalis;Oo, ang pagkakaalit
+        at pagduwahagi ay matitigil.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Siyang umiibig ng kalinisan ng puso,  Dahil sa biyaya ng kaniyang
+        mga labi ay magiging kaniyang kaibigan ang hari.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Ang mga mata ng Panginoon ay nagiingat sa maalam:Nguni''t kaniyang
+        ibinabagsak ang mga salita ng taksil.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Sinasabi ng tamad, May leon sa labas:Mapapatay ako sa mga lansangan.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Ang bibig ng masasamang babae ay isang malalim na lungaw:Siyang nayayamot
+        sa Panginoon ay mabubuwal doon.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Ang kamangmangan ay nababalot sa puso ng bata;    Nguni''t ilalayo
+        sa kaniya ng pamalong pangsaway.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Ang pumipighati sa dukha upang magpalago ng kaniyang pakinabang, 
+        At ang nagbibigay sa mayaman, ay humahangga sa pangangailangan lamang.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Ikiling mo ang iyong pakinig, at iyong dinggin ang mga salita ng
+        pantas,At ihilig mo ang iyong puso sa aking kaalaman.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Sapagka''t maligayang bagay kung iyong ingatan sa loob mo,Kung mangatatatag
+        na magkakasama sa iyong mga labi.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Upang ang iyong tiwala ay malagak sa Panginoon,Aking ipinakilala
+        sa iyo sa kaarawang ito, oo, sa iyo.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Hindi ba ako sumulat sa iyo ng mga marilag na bagayNa mga payo at
+        kaalaman;  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Upang ipakilala sa iyo ang katunayan ng mga salitang katotohanan, 
+        Upang iyong maibalik ang mga salita ng katotohanan sa kanila na nagsusugo
+        sa iyo?  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: '  Huwag kang magnakaw sa dukha, sapagka''t siya''y dukha,  Ni pumighati
+        man sa nagdadalamhati sa pintuang-bayan:  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  Sapagka''t ipakikipaglaban ng Panginoon ang kanilang usap,At sasamsaman
+        ng buhay yaong nagsisisamsam sa kanila.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Huwag kang makipagkaibigan sa taong magagalitin;At sa mainiting tao
+        ay huwag kang sasama:  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Baka ka matuto ng kaniyang mga lakad,At magtamo ng silo sa iyong
+        kaluluwa.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: '  Huwag kang maging isa sa kanila na nakikikamay,O sa kanila na mangananagot
+        sa mga utang:  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Kung wala kang ikabayad,Bakit kaniyang kukunin sa iyo ang iyong higaan?  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: '  Huwag mong baguhin ang dating muhon ng lupa,Na inilagay ng iyong
+        mga magulang.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: Nakikita mo ba ang taong masipag sa kaniyang gawain? siya'y tatayo
+        sa harap ng mga hari:Hindi siya tatayo sa harap ng mga taong hamak.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang aral at paalaala.'
+      title: Iba't ibang aral at paalaala.
+      number: 1
+      content: '  Pagka ikaw ay nauupong kumain na kasalo ng isang pangulo,Kilanlin
+        mong maigi siya na nasa harap mo;  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'At maglagay ka ng sundang sa iyong lalamunan,Kung ikaw ay taong bigay
+        sa pagkain.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Huwag kang mapagnais ng kaniyang mga masarap na pagkain;Yamang mga
+        marayang pagkain.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Huwag kang mainip sa pagyaman;Tumigil ka sa iyong sariling karunungan.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Iyo bang itititig ang iyong mga mata sa wala?Sapagka''t ang mga kayamanan,
+        ay tunay na nagsisipagpakpak,Gaya ng aguila na lumilipad sa dakong langit.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Huwag mong kanin ang tinapay niya na may masamang mata,Ni nasain
+        mo man ang kaniyang mga masarap na pagkain:  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Sapagka''t kung ano ang iniisip niya sa loob niya, ay gayon siya:Kumain
+        ka at uminom ka, sabi niya sa iyo;Nguni''t ang puso niya ay hindi sumasaiyo.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Ang subo na iyong kinain ay iyong isusuka,  At iyong iwawala ang
+        iyong mga matamis na salita.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Huwag kang magsalita sa pakinig ng mangmang;Sapagka''t kaniyang hahamakin
+        ang karunungan ng iyong mga salita.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  Huwag mong baguhin ang dating muhon ng lupa;At huwag mong pasukin
+        ang mga bukid ng ulila:  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Sapagka''t ang kanilang Manunubos ay malakas;Ipaglalaban niya ang
+        kanilang usap sa iyo.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Ihilig mo ang iyong puso sa turo,At ang iyong mga pakinig sa mga
+        salita ng kaalaman.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Huwag mong ipagkait ang saway sa bata:  Sapagka''t kung iyong hampasin
+        siya ng pamalo, siya''y hindi mamamatay.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Iyong hahampasin siya ng pamalo,At ililigtas mo ang kaniyang kaluluwa
+        sa Sheol.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Anak ko, kung ang iyong puso ay magpakapantas,Ang puso ko''y matutuwa
+        sa makatuwid baga''y ang akin:  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Oo, ang aking puso ay magagalakPagka ang iyong mga labi ay nangagsasalita
+        ng matuwid na mga bagay.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  Huwag managhili ang iyong puso sa mga makasalanan:Kundi lumagay
+        ka sa Panginoon buong araw:  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Sapagka''t tunay na may kagantihan;At ang iyong pagasa ay hindi
+        mahihiwalay.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Makinig ka, anak ko, at ikaw ay magpakapantas,At patnubayan mo ang
+        iyong puso sa daan.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: '  Huwag kang mapasama sa mga mapaglango;Sa mga mayamong mangangain
+        ng karne:  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Sapagka''t ang manglalasing at ang mayamo ay darating sa karalitaan:At
+        ang antok ay magbibihis sa tao ng pagkapulubi.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: '  Dinggin mo ang iyong ama na naging anak ka,At huwag mong hamakin
+        ang iyong ina kung siya''y tumanda.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  Bumili ka ng katotohanan at huwag mong ipagbili:  Oo karunungan,
+        at turo, at pag-uunawa.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Ang ama ng matuwid ay magagalak na lubos:At siyang nagkaanak ng pantas
+        na anak ay magagalak sa kaniya.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Mangatuwa ang iyong ama at ang iyong ina,  At magalak siyang nanganak
+        sa iyo.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Anak ko, ibigay mo sa akin ang iyong puso,At malugod ang iyong mga
+        mata sa aking mga daan.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: '  Sapagka''t ang isang patutot ay isang malalim na lubak;At ang babaing
+        di kilala ay makipot na lungaw.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Oo, siya''y bumabakay na parang tulisan,At nagdaragdag ng mga magdaraya
+        sa gitna ng mga tao.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: '  Sinong may ay? sinong may kapanglawan? sinong may pakikipagtalo?Sinong
+        may daing? sino ang may sugat na walang kadahilanan?Sino ang may maningas
+        na mata?  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: '  Silang nangaghihintay sa alak;Silang nagsisiyaon upang humanap
+        ng pinaghalong alak.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Huwag kang tumingin sa alak pagka mapula,Pagka nagbibigay ng kaniyang
+        kulay sa saro,  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Sa huli ay kumakagat ito na parang ahas,At tumutukang parang ulupong.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'Ang iyong mga mata ay titingin ng mga katuwang bagay,At ang iyong
+        puso ay nagbabadya ng mga magdarayang bagay.  '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'Oo, ikaw ay magiging parang nahihiga sa gitna ng dagat,O parang nahihiga
+        sa dulo ng isang palo ng sasakyan.  '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: Kanilang pinalo ako, iyong sasalitain, at hindi ako nasaktan;Kanilang
+        hinampas ako, at hindi ko naramdaman:Kailan gigising ako? aking hahanapin
+        pa uli.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang aral at paalaala.'
+      title: Iba't ibang aral at paalaala.
+      number: 1
+      content: '  Huwag kang mananaghili sa mga masamang tao,Ni magnasa ka man na
+        masama sa kanila:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Sapagka''t ang kanilang puso ay nagaaral ng pagpighati,  At ang kanilang
+        mga labi ay nagsasalita ng kalikuan.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Sa karunungan ay natatayo ang bahay;At sa pamamagitan ng unawa
+        ay natatatag.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'At sa pamamagitan ng kaalaman ay napupuno ang mga silid,Ng lahat
+        na mahalaga at maligayang mga kayamanan.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Ang pantas na tao ay malakas;Oo, ang taong maalam ay lumalago ang
+        kapangyarihan.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Sapagka''t sa pamamagitan ng pantas na pamamatnubay ay makikipagdigma
+        ka:At sa karamihan ng mga tagapayo ay may kaligtasan.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Karunungan ay totoong mataas sa ganang mangmang:Hindi niya ibinubuka
+        ang kaniyang bibig sa pintuang-bayan.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Siyang kumakatha ng paggawa ng kasamaan,Tatawagin siya ng mga tao
+        na masamang tao.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Ang pagiisip ng kamangmangan ay kasalanan:At ang mangduduwahagi ay
+        karumaldumal sa mga tao.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Kung ikaw ay manglupaypay sa kaarawan ng kasakunaan,Ang iyong kalakasan
+        ay munti.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Iligtas mo silang nangadala sa kamatayan,At ang mga handang papatayin,
+        ay tingnan mo na iyong ibalik.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Kung iyong sinasabi, Narito, hindi kami nakakaalam nito:Hindi ba
+        niya binubulay na tumitimbang ng mga puso?At siyang nagiingat ng iyong kaluluwa,
+        hindi ba niya nalalaman?  At hindi ba niya gagantihin ang bawa''t tao ayon
+        sa gawa niya?  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Anak ko, kumain ka ng pulot, sapagka''t mabuti;At ng pulot-pukyutan
+        na matamis sa iyong lasa:  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Sa gayo''y matututo ka ng karunungan na malalagay sa iyong kaluluwa:Kung
+        iyong nasumpungan ito, sa gayo''y magkakaroon ka nga ng kagantihan,At ang
+        iyong pagasa ay hindi mahihiwalay.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Huwag kang bumakay, Oh masamang tao, sa tahanan ng matuwid;Huwag
+        mong sirain ang kaniyang dakong pahingahan:  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '  Sapagka''t ang matuwid ay nabubuwal na makapito, at bumabangon
+        uli:Nguni''t ang masama ay nabubuwal sa kasakunaan.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Huwag kang magalak pagka ang iyong kaaway ay nabubuwal,At huwag matuwa
+        ang iyong puso pagka siya''y nabubuwal:  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Baka makita ng Panginoon, at ipagdamdam ng loob siya,At kaniyang
+        ihiwalay ang poot niya sa kaniya.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Huwag kang mabalisa dahil sa mga manggagawa ng masama;Ni maging mapanaghiliin
+        ka man sa masama:  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Sapagka''t hindi magkakaroon ng kagantihan sa masamang tao;  Ang
+        ilawan ng masama ay papatayin.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Anak ko, matakot ka sa Panginoon at sa hari:  At huwag kang makisalamuha
+        sa kanila na mapagbago:  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Sapagka''t ang kanilang kasakunaan ay darating na bigla;At sinong
+        nakakaalam ng kasiraan nila kapuwa?  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Ang mga ito man ay sabi rin ng pantas.  Magkaroon ng pagtangi ng
+        mga pagkatao sa kahatulan, ay hindi mabuti.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: '  Siyang nagsasabi sa masama, Ikaw ay matuwid;Susumpain siya ng mga
+        bayan, kayayamutan siya ng mga bansa:  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Nguni''t silang nagsisisaway sa kaniya ay magkakaroon ng kaluguran,At
+        ang mabuting pagpapala ay darating sa kanila.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Siya''y humahalik sa mga labiNiyaong nagbibigay ng matuwid na sagot.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: '  Ihanda mo ang iyong gawa sa labas,At ihanda mo sa iyo sa parang;At
+        pagkatapos ay itayo mo ang iyong bahay.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: '  Huwag kang sumaksi laban sa iyong kapuwa ng walang kadahilanan;At
+        huwag kang magdaya ng iyong mga labi.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Huwag mong sabihin, Gagawin kong gayon sa kaniya na gaya ng ginawa
+        niya sa akin:Aking ibibigay sa tao ang ayon sa kaniyang gawa.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: '  Ako''y nagdaan sa tabi ng bukid ng tamad,At sa tabi ng ubasan ng
+        taong salat sa unawa;  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'At, narito, tinubuang lahat ng mga tinik,Ang ibabaw niyaon ay natakpan
+        ng mga dawag,  At ang bakod na bato ay nabagsak.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Ako nga''y tumingin, at aking binulay na mabuti:Aking nakita, at
+        tumanggap ako ng turo.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: '  Kaunti pang tulog, kaunti pang idlip,Kaunti pang paghahalukipkip
+        ng mga kamay upang matulog:  '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: Gayon darating ang iyong karalitaan na parang magnanakaw;At ang iyong
+        kasalatan na parang nasasandatahang tao.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang halimbawa at aral sa kalinisan.'
+      title: Iba't ibang halimbawa at aral sa kalinisan.
+      number: 1
+      content: '  Ang mga ito ay mga kawikaan din ni Salomon, na isinalin ng mga
+        tao ni Hezekias na hari sa Juda.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  Kaluwalhatian nga ng Dios na maglihim ng isang bagay:Nguni''t ang
+        kaluwalhatian ng mga hari ay magusisa ng isang bagay.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Gaya ng langit sa kataasan, at ng lupa sa kalaliman,Gayon ang puso
+        ng mga hari ay di masayod.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Alisin ang dumi sa pilak,At lumalabas na isang kasangkapan sa ganang
+        mangbububo:  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Alisin ang masama sa harap ng hari,At ang kaniyang luklukan ay
+        matatatag sa katuwiran.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Huwag kang magpauna sa harapan ng hari,At huwag kang tumayo sa dako
+        ng mga dakilang tao:  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  Sapagka''t maigi na sabihin sa iyo,Sumampa ka rito:Kay sa ibaba
+        ka sa harapan ng pangulo,Na nakita ng iyong mga mata.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Huwag kang makialam ng walang gunita sa pakikipagbabag,Baka hindi
+        mo maalaman kung ano ang gagawin sa wakas niyaon,Pagka ikaw ay hiniya ng
+        iyong kapuwa.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Ipaglaban mo ang iyong usap sa iyong kapuwa,At huwag mong ihayag
+        ang lihim ng iba:  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Baka siyang nakakarinig ay umalipusta sa iyo,At ang iyong pagkadusta
+        ay hindi maalis.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Salitang sinalita sa kaukulan  Ay gaya ng mga mansanang ginto sa
+        mga bilaong pilak.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  Kung paano ang hikaw na ginto, at kagayakang dalisay na ginto,   
+        Gayon ang pantas na mananaway sa masunuring pakinig.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Kung paano ang lamig ng niebe sa panahon ng pagaani,  Gayon ang
+        tapat na sugo sa kanila na nangagsugo sa kaniya;Sapagka''t kaniyang pinagiginhawa
+        ang kaluluwa ng kaniyang mga panginoon.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '    Kung paano ang mga alapaap at hangin na walang ulan,    Gayon
+        ang taong naghahambog ng kaniyang mga kaloob na walang katotohanan.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Sa pamamagitan ng pagpipigil ng loob ay napahihikayat ang pangulo,At
+        ang malumanay na dila ay bumabasag ng buto.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '  Nakasumpong ka ba ng pulot? kumain ka ng sapat sa iyo;Baka ka masuya,
+        at iyong isuka.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Magdalang ang iyong paa sa bahay ng iyong kapuwa;Baka siya''y mayamot
+        sa iyo, at ipagtanim ka.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Ang tao na sumasaksi ng kasinungalingang saksi laban sa kaniyang
+        kapuwaAy isang pangbayo at isang tabak, at isang matulis na pana.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Pagtiwala sa di tapat na tao sa panahon ng kabagabaganAy gaya ng
+        baling ngipin, at ng nabaliang paa.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: '  Kung paano ang nangaagaw ng kasuutan sa panahong tagginaw, at kung
+        paano ang suka sa sosa,Gayon siyang umaawit ng mga awit sa mabigat na puso.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Kung ang iyong kaaway ay magutom, bigyan mo siya ng pagkain na
+        makakain;At kung siya''y mauhaw, bigyan mo siya ng tubig na maiinom:  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Sapagka''t ikaw ay magbubunton ng baga ng apoy sa kaniyang ulo, 
+        At gagantihin ka ng Panginoon.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  Ang hanging hilaga ay naglalabas ng ulan:Gayon ang dilang maninirang
+        puri ay nakagagalit.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: '  Maigi ang tumahan sa sulok ng bubungan,Kay sa kasama ng palaaway
+        na babae sa maluwang na bahay.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Kung paano ang malamig na tubig sa uhaw na kaluluwa,Gayon ang mga
+        mabuting balita na mula sa malayong lupain.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: '  Kung paano ang malabong balon, at ang bukal na nalabusaw,  Gayon
+        ang matuwid na tao na nagbigay daan sa harap ng masama.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Hindi mabuting kumain ng maraming pulot:Gayon ang paghanap ng tao
+        ng kanilang sariling kaluwalhatian, ay hindi kaluwalhatian.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: Siyang hindi pumipigil ng kaniyang sariling diwaAy parang bayang nabagsak
+        at walang kuta.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang halimbawa at aral sa kalinisan.'
+      title: Iba't ibang halimbawa at aral sa kalinisan.
+      number: 1
+      content: '  Kung paano ang niebe sa taginit, at kung paano ang ulan sa pagaani,Gayon
+        ang karangalan ay hindi nababagay sa mangmang.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Kung paano ang maya sa kaniyang paggagala, kung paano ang langaylangayan
+        sa kaniyang paglipad,Gayon ang sumpa na walang kadahilanan ay hindi tumatalab.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Ang paghagupit ay sa kabayo, ang paningkaw ay sa asno,At ang pamalo
+        ay sa likod ng mga mangmang.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Huwag mong sagutin ang mangmang ng ayon sa kaniyang kamangmangan,Baka
+        ikaw man ay maging gaya rin niya.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Sagutin mo ang mangmang ayon sa kaniyang kamangmangan,Baka siya''y
+        maging pantas sa ganang kaniya.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Siyang nagsusugo ng pasugo sa pamamagitan ng kamay ng mangmangNaghihiwalay
+        ng kaniyang mga paa, at umiinom sa kasiraan.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Ang mga hita ng pilay ay nabibitin:Gayon ang talinghaga sa bibig
+        ng mga mangmang.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Kung paano ang isa''y nagbabalot ng isang bato sa isang lambanog,Gayon
+        ang nagbibigay ng karangalan sa mangmang.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Kung paano ang tinik na tumutusok sa kamay ng lango,Gayon ang talinghaga
+        sa bibig ng mga mangmang.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  Kung paano ang mamamana sumusugat sa lahat,Gayon ang umupa sa mangmang
+        at umuupa sa pagayongayon.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Kung paano ang aso na bumabalik sa kaniyang suka,  Gayon ang mangmang
+        na umuulit ng kaniyang kamangmangan.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  Nakikita mo ba ang taong pantas sa ganang kaniyang sarili.May higit
+        na pagasa sa mangmang kay sa kaniya.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Sinabi ng tamad, May leon sa daan;Isang leon ay nasa mga lansangan.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Kung paano ang pintuan ay pumipihit sa kaniyang bisagra,Gayon ang
+        tamad sa kaniyang higaan.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Idinadampot ng tamad ang kaniyang kamay sa pinggan;Napapagod siyang
+        dalhin uli sa kaniyang bibig.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Ang tamad ay lalong pantas sa ganang kaniyang sariliKay sa pitong
+        tao na makapagbibigay katuwiran.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Ang nagdaraan, at nakikialam sa pagaaway na hindi ukol sa kaniya,Ay
+        gaya ng humahawak ng aso sa mga tainga.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Kung paano ang taong ulol na naghahagis ng mga dupong na apoy,Mga
+        pana, at kamatayan;  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Gayon ang tao na nagdadaya sa kaniyang kapuwa,At nagsasabi, Hindi
+        ko ba ginagawa sa paglilibang?  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Sapagka''t sa kakulangan ng gatong ay namamatay ang apoy:  At kung
+        saan walang mapaghatid-dumapit ay tumitigil ang pagkakaalit.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Kung paano ang mga uling sa mga baga, at ang kahoy sa apoy;Gayon
+        ang taong madaldal na nagpapaningas ng pagkakaalit.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: '  Ang mga salita ng mapaghatid-dumapit ay parang mga masarap na subo,At
+        nagsisibaba sa mga pinakaloob na bahagi ng tiyan.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Mga mapusok na labi at masamang pusoAy parang sisidlang-lupa na nababalot
+        ng dumi ng pilak.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Ang nagtatanim ay nagpapakunwari ng kaniyang mga labi,Nguni''t siya''y
+        naglalagay ng pagdaraya sa loob niya:  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Pagka siya''y nagsasalitang mainam, huwag mo siyang paniwalaan;Sapagka''t
+        may pitong karumaldumal sa kaniyang puso:  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Bagaman ang kaniyang pagtatanim ay magtakip ng karayaan,At ang kaniyang
+        kasamaan ay lubos na makikilala sa harap ng kapisanan.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: '  Ang humuhukay ng lungaw ay mabubuwal doon:At siyang nagpapagulong
+        ng bato, ay babalikan nito siya.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: Ang sinungaling na dila ay nagtatanim sa mga sinaktan niya;At ang
+        bibig ng kunwang mapagpuri ay gumagawa ng kapahamakan.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang halimbawa at aral sa kalinisan.'
+      title: Iba't ibang halimbawa at aral sa kalinisan.
+      number: 1
+      content: '  Huwag mong ipaghambog ang kinabukasan;Sapagka''t hindi mo nalalaman
+        kung ano ang ilalabas ng ibang araw.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  Purihin ka ng ibang tao at huwag ng iyong sariling bibig;Ng iba,
+        at huwag ng iyong sariling mga labi.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Ang bato ay mabigat, at ang buhangin ay matimbang;Nguni''t ang galit
+        ng mangmang ay lalong mabigat kay sa mga yaon.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Poot ay mabagsik, at ang galit ay mamumugnaw,Nguni''t sinong makatatayo
+        sa harap ng paninibugho?  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Maigi ang saway na hayagKay sa pagibig na nakukubli.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Tapat ang mga sugat ng kaibigan:Nguni''t ang mga halik ng kaaway
+        ay malabis.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Ang busog na tao ay umaayaw sa pulot-pukyutan:Nguni''t sa gutom na
+        tao ay matamis ang bawa''t mapait na bagay.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Kung paano ang ibon na gumagala mula sa kaniyang pugad,Gayon ang
+        tao na gumagala mula sa kaniyang dako.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Ang unguento at pabango ay nagpapagalak ng puso:Gayon ang katamisan
+        ng kaibigan ng tao na nagbubuhat sa maiging payo.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Ang iyong sariling kaibigan at ang kaibigan ng iyong ama, ay huwag
+        mong pabayaan;At huwag kang pumaroon sa bahay ng iyong kapatid sa kaarawan
+        ng iyong kasakunaan:Maigi ang kapuwa na malapit kay sa kapatid na malayo.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Anak ko, ikaw ay magpakadunong, at iyong pasayahin ang aking puso,Upang
+        aking masagot siya na tumutuya sa akin.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  Ang taong mabait ay nakakakita ng kasamaan, at nagkukubli:    Nguni''t
+        dinadaanan ng musmos, at naghihirap.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Kunin mo ang kaniyang kasuutan na nananagot sa di kilala;At tanggapan
+        mo siya ng sanla na nananagot sa babaing di kilala.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Siyang nagpapala sa kaniyang kaibigan ng malakas na tinig, na bumabangong
+        maaga sa kinaumagahan,Mabibilang na sumpa sa kaniya.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Ang laging tulo sa araw na maulanAt ang babaing palatalo ay magkahalintulad:  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Ang magibig pumigil sa kaniya, ay pumipigil sa hangin,At ang kaniyang
+        kanan ay nakakasumpong ng langis.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Ang bakal ay nagpapatalas sa bakal;Gayon ang tao ay nagpapatalas
+        sa mukha ng kaniyang kaibigan.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Ang nagiingat ng puno ng higos ay kakain ng bunga niyaon;At ang
+        naghihintay sa kaniyang panginoon ay pararangalin.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Kung paanong sa tubig ang mukha ay sumasagot sa mukha,Gayon ang puso
+        ng tao sa tao.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: '  Ang Sheol at ang Kapahamakan ay hindi nasisiyahan kailan man; 
+        At ang mga mata ng tao ay hindi nasisiyahan kailan man.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Ang sangagan ay sa pilak, at ang hurno ay sa ginto,At ang tao ay
+        nasusubok sa pamamagitan ng kaniyang pagpuri.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: '  Bagaman iyong piitin ang mangmang sa isang piitan na kasama ng
+        pangbayo sa mga bayong trigo,Gayon ma''y hindi hihiwalay ang kaniyang kamangmangan
+        sa kaniya.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Magmasipag ka na alamin mo ang kalagayan ng iyong mga kawan,  At
+        tingnan mong mabuti ang iyong mga bakahan:  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Sapagka''t ang mga kayamanan ay hindi magpakailan man:At namamalagi
+        ba ang putong sa lahat ng sali''t saling lahi?  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Ang tuyong damo ay pinupulot, at ang sariwang damo ay lumilitaw,At
+        ang mga gugulayin sa mga bundok ay pinipisan.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Ang mga kordero ay ukol sa iyong kasuutan,At ang mga kambing ay siyang
+        halaga ng bukid:  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: At magkakaroon ng kasiyahang gatas ng kambing sa iyong pagkain, sa
+        pagkain ng iyong sangbahayan;At pagkain sa iyong mga alilang babae.
+      comments: []
+  - verses:
+    - name: '1: Mga kawikaang nagkakalaban.'
+      title: Mga kawikaang nagkakalaban.
+      number: 1
+      content: '    Ang masama ay tumatakas ng walang taong humahabol:Nguni''t ang
+        matuwid ay matapang na parang leon.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Dahil sa pagsalangsang ng lupain ay marami ang kaniyang mga pangulo:Nguni''t
+        sa naguunawa at matalino ay malalaon ang kalagayan niya.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Ang mapagkailangan na pumipighati sa dukhaAy parang bugso ng ulan
+        na hindi nagiiwan ng pagkain.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Silang nangagpapabaya sa kautusan ay nagsisipuri sa masama:  Nguni''t
+        ang nangagiingat ng kautusan ay nangakikipagkaalit sa kanila.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Ang masasamang tao ay hindi nangakakaunawa ng kahatulan:Nguni''t
+        silang nagsisihanap sa Panginoon ay nangakakaunawa sa lahat ng mga bagay.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Maigi ang dukha na lumalakad sa kaniyang pagtatapat,Kay sa suwail
+        sa kaniyang mga lakad, bagaman siya''y mayaman.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  Sinomang nagiingat ng kautusan ay pantas na anak:Nguni''t siyang
+        kasama ng mga matakaw ay nagbibigay kahihiyan sa kaniyang ama.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Ang nagpapalago ng kaniyang yaman sa tubo at pakinabang,Ay pumipisan
+        sa ganang may awa sa dukha.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Siyang naglalayo ng kaniyang pakinig sa pakikinig ng kautusan,Maging
+        ang kaniyang dalangin ay karumaldumal.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  Sinomang nagliligaw sa matuwid sa masamang daan,Siya''y mahuhulog
+        sa kaniyang sariling lungaw:  Nguni''t ang sakdal ay magmamana ng mabuti.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Ang mayaman ay pantas sa ganang kaniyang sarili;Nguni''t ang dukha
+        na naguunawa ay sumisiyasat.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  Pagka ang matuwid ay nagtatagumpay, may dakilang kaluwalhatian: 
+        Nguni''t pagka ang masama ay bumabangon, nagsisipagtago ang mga tao.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Siyang nagtatakip ng kaniyang mga pagsalangsang ay hindi giginhawa:Nguni''t
+        ang nagpapahayag at nagiiwan ng mga yaon ay magtatamo ng kaawaan.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Masaya ang tao na natatakot na lagi:Nguni''t siyang nagmamatigas
+        ng kaniyang kalooban ay mahuhulog sa kahirapan.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Kung paano ang umuungal na leon at ang gutom na oso,  Gayon  ang
+        masamang pinuno sa maralitang bayan.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Ang pangulo na kulang sa paguunawa ay lubhang mamimighati rin:  Nguni''t
+        siyang nagtatanim sa kasakiman ay dadami ang kaniyang mga kaarawan.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  Ang tao na nagpapasan ng dugo ng sinomang tao,Tatakas sa lungaw;
+        huwag siyang pigilin ng sinoman.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Ang lumalakad ng matuwid ay maliligtas:Nguni''t siyang masama sa
+        kaniyang mga lakad ay mabubuwal na bigla.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: '  Siyang bumubukid ng kaniyang lupain ay magkakaroon ng saganang
+        tinapay:Nguni''t siyang sumusunod sa mga walang kabuluhang tao ay madudukhang
+        mainam.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Ang tapat na tao ay mananagana sa pagpapala:  Nguni''t siyang nagmamadali
+        sa pagyaman ay walang pagsalang parurusahan.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Magkaroon ng pagtatangi sa mga pagkatao ay hindi mabuti:Ni hindi
+        man sasalangsang ang tao dahil sa isang putol na tinapay.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Siyang may masamang mata ay nagmamadali sa pagyaman,At hindi nakakaalam,
+        na kasalatan ay darating sa kaniya.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  Siyang sumasaway sa isang tao ay makakasumpong sa ibang araw ng
+        higit na lingapKay sa doon sa kunwa''y pumupuri ng dila.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Ang nagnanakaw sa kaniyang ama o sa kaniyang ina, at nagsasabi, Hindi
+        ito pagsalangsang;Yao''y kasama rin ng maninira.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Siyang may sakim na diwa ay humihila ng kaalitan:Nguni''t siyang
+        naglalagak ng kaniyang tiwala sa Panginoon ay tataba.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Siyang tumitiwala sa kaniyang sariling puso ay mangmang:Nguni''t
+        ang lumakad na may kapantasan, ay maliligtas.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: '  Siyang nagbibigay sa dukha ay hindi masasalat:Nguni''t siyang nagkukubli
+        ng kaniyang mga mata ay magkakaroon ng maraming sumpa.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: Pagka ang masama ay bumabangon, nagsisipagkubli ang mga tao;Nguni't
+        pagka sila'y nangamamatay, dumadami ang matuwid.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang kawikaang nagkakalaban.'
+      title: Iba't ibang kawikaang nagkakalaban.
+      number: 1
+      content: '    Ang madalas na masaway na nagpapatigas ng kaniyang leeg,Biglang
+        mababali, at walang kagamutan.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  Pagka ang matuwid ay dumadami, ang bayan ay nagagalak:  Nguni''t
+        pagka ang masama ay nagpupuno, ang bayan ay nagbubuntong-hininga.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Ang umiibig ng karunungan ay nagpapagalak sa kaniyang ama:  Nguni''t
+        ang nakikisama sa mga patutot ay sumisira ng kaniyang tinatangkilik.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Ang hari ay nagtatatag ng lupain sa pamamagitan ng kahatulan:Nguni''t
+        ang humihingi ng suhol ay gumigiba.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Ang tao na kunwang pumupuri sa kaniyang kapuwaNaglalagay ng bitag
+        sa kaniyang mga hakbang.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Sa pagsalangsang ng masamang tao ay may silo:Nguni''t ang matuwid
+        ay umaawit at nagagalak.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Ang matuwid ay kumukuhang alam sa bagay ng dukha:  Ang masama ay
+        walang unawang makaalam.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Ang mga mangduduwahaging tao ay naglalagay ng bayan sa liyab:Nguni''t
+        ang mga pantas na tao ay nagaalis ng poot.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Kung ang pantas ay magkaroon ng pakikipagtalo sa isang mangmang, 
+        Magalit man o tumawa, ang mangmang ay hindi magkakaroon ng kapahingahan.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  Ang mangbububo ng dugo ay nagtatanim sa sakdal:At tungkol sa matuwid,
+        hinahanap nila ang kaniyang buhay.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Inihihinga ng mangmang ang buong galit niya:Nguni''t ang pantas ay
+        nagpipigil at tumitiwasay.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Kung ang puno ay nakikinig sa kabulaanan,Lahat niyang mga lingkod
+        ay masasama.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Ang dukha at ang mamimighati ay nagsasalubong;Pinapagniningas ng
+        Panginoon ang mga mata nila kapuwa.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Ang hari na humahatol na tapat sa dukha,Ang kaniyang luklukan ay
+        matatatag magpakailan man.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Ang pamalo at saway ay nagbibigay karunungan:Nguni''t ang batang
+        binabayaan ay humihiya sa kaniyang ina.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Pagka ang masama ay dumadami, pagsalangsang ay dumadami:  Nguni''t
+        mamamasdan ng matuwid ang kanilang pagkabuwal.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  Sawayin mo ang iyong anak, at bibigyan ka niya ng kapahingahan;Oo,
+        bibigyan niya ng kaluguran ang iyong kaluluwa.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Kung saan walang pangitain, ang bayan ay sumasama:Nguni''t siyang
+        nagiingat ng kautusan ay maligaya siya.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Ang alipin ay hindi masasaway ng mga salita:Sapagka''t bagaman nalalaman
+        niya ay hindi siya makikinig.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Nakikita mo ba ang tao, na nagmamadali sa kaniyang mga salita?  May
+        pagasa pa sa mangmang kay sa kaniya.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Siyang maingat na nagpalaki ng kaniyang lingkod mula sa pagkabata,Magiging
+        anak niya siya sa kawakasan.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Ang taong magagalitin ay humihila ng kaalitan,At ang mainiting tao
+        ay nananagana sa pagsalangsang.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  Ang kapalaluan ng tao ay magbababa sa kaniya:Nguni''t ang may mapagpakumbabang
+        diwa ay magtatamo ng karangalan.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Ang nakikisama sa isang magnanakaw ay nagtatanim sa kaniyang sariling
+        kaluluwa:Siya''y nakakarinig ng sumpa at hindi umiimik.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Ang pagkatakot sa tao ay nagdadala ng silo:  Nguni''t ang naglalagak
+        ng kaniyang tiwala sa Panginoon ay maliligtas.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Marami ang nagsisihanap ng lingap ng pinuno:Nguni''t ang kahatulan
+        ng tao ay nagmumula sa Panginoon.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: Ang di ganap na tao ay karumaldumal sa matuwid:At ang matuwid sa lakad
+        ay karumaldumal sa masama.
+      comments: []
+  - verses:
+    - name: '1: Iba''t ibang palagay tungkol sa mga tao at mga bagay.'
+      title: Iba't ibang palagay tungkol sa mga tao at mga bagay.
+      number: 1
+      content: '  Ang mga salita ni Agur na anak ni Jache; ang sanggunian.Sinabi
+        ng lalake kay Ithiel, kay Ithiel, at kay Ucal:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  Tunay na ako''y hangal kay sa kaninoman,At walang kaunawaan ng
+        isang tao:  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'At hindi ako natuto ng karunungan,Ni mayroon man ako ng kaalaman
+        ng Banal.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Sino ang sumampa sa langit, at bumaba?  Sino ang pumisan ng hangin
+        sa kaniyang mga dakot?Sinong nagtali ng tubig sa kaniyang kasuutan?Sinong
+        nagtatag ng lahat ng mga wakas ng lupa?Ano ang kaniyang pangalan, at ano
+        ang pangalan ng kaniyang anak kung iyong nalalaman?  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Bawa''t salita ng Dios ay subok:  Siya''y kalasag sa kanila, na
+        nanganganlong sa kaniya.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Huwag kang magdagdag sa kaniyang mga salita,Baka kaniyang sawayin
+        ka, at masunduan kang sinungaling.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Dalawang bagay ang hiniling ko sa iyo;Huwag mong ipagkait sa akin
+        bago ako mamatay.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Ilayo mo sa akin ang walang kabuluhan at ang mga kasinungalingan:Huwag
+        mo akong bigyan ng kahit karalitaan o kayamanan man;  Pakanin mo ako ng pagkain
+        na kailangan ko:  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Baka ako''y mabusog, at magkaila sa iyo, at magsabi, Sino ang Panginoon?O
+        baka ako''y maging dukha, at magnakaw ako,At gumamit ng paglapastangan sa
+        pangalan ng aking Dios.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Huwag mong pawikaan ang alipin sa kaniyang panginoon,Baka ka tungayawin
+        niya, at ikaw ay maging salarin.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'May lahi na tumutungayaw sa kanilang ama.At hindi pinagpapala ang
+        kanilang ina.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'May lahi na malinis sa harap ng kanilang sariling mga mata,At gayon
+        man ay hindi hugas sa kanilang karumihan.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'May lahi, Oh pagka mapagmataas ng kanilang mga mata!At ang kanilang
+        mga talukap-mata ay nangakataas.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  May lahi na ang mga ngipin ay parang mga tabak, at ang kanilang
+        mga bagang ay parang mga sundang,Upang lamunin ang dukha mula sa lupa, at
+        ang mapagkailangan sa gitna ng mga tao.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Ang linga ay may dalawang anak, na sumisigaw, Bigyan mo, bigyan mo.May
+        tatlong bagay na kailan man ay hindi nasisiyahan,  Oo, apat na hindi nagsasabi,
+        Siya na:  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '  Ang Sheol; at ang baog na bahay-bata;Ang lupa na hindi napapatiranguhaw
+        ng tubig;At ang apoy na hindi nagsasabi, Siya na.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  Ang mata na tumutuya sa kaniyang ama, At humahamak ng pagsunod
+        sa kaniyang ina,Tutukain ito ng mga uwak sa libis,At kakanin ito ng mga inakay
+        na aguila.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'May tatlong bagay na totoong kagilagilalas sa akin,Oo, apat na hindi
+        ko nalalaman:  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Ang lipad ng aguila sa hangin;Ang usad ng ahas sa ibabaw ng mga bato;Ang
+        lutang ng sasakyan sa gitna ng dagat;At ang lakad ng lalake na kasama ng
+        isang dalaga.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Gayon ang lakad ng mangangalunyang babae;Siya''y kumakain, at nagpapahid
+        ng kaniyang bibig,At nagsasabi, Hindi ako gumawa ng kasamaan.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Sa tatlong bagay ay nanginginig ang lupa,At sa apat na hindi niya
+        madala:  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: '  Sa isang alipin, pagka naghahari;At sa isang mangmang, pagka nabubusog
+        ng pagkain;  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Sa isang babaing nakayayamot, pagka nagaasawa;At sa isang aliping
+        babae, na nagmamana sa kaniyang panginoong babae.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'May apat na bagay na maliit sa lupa,Nguni''t lubhang mga pantas:  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Ang mga langgam ay bayang hindi matibay,Gayon ma''y nagiimbak ng
+        kanilang pagkain sa taginit;  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: '  Ang mga koneho ay hayop na mahina,Gayon ma''y nagsisigawa sila
+        ng kanilang mga bahay sa malalaking bato;  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Ang mga balang ay walang hari,Gayon ma''y lumalabas silang lahat
+        na pulupulutong;  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Ang butiki ay tumatangan ng kaniyang mga kamay,Gayon ma''y nasa mga
+        bahay ng mga hari siya.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'May tatlong bagay na maganda sa kanilang lakad,Oo, apat na mainam
+        sa lakad:  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Ang leon na pinaka matapang sa mga hayop,At hindi humihiwalay ng
+        dahil sa kanino man;  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Ang asong matulin; ang kambing na lalake rin naman:At ang hari na
+        hindi malalabanan.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Kung ikaw ay gumagawa ng kamangmangan sa pagmamataas,O kung ikaw
+        ay umisip ng kasamaan,    Ilagay mo ang iyong kamay sa iyong bibig.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: Sapagka't sa pagbati sa gatas ay naglalabas ng mantekilya,At sa pagsungalngal
+        sa ilong ay lumalabas ang dugo:Gayon ang pamumungkahi sa poot ay naglalabas
+        ng kaalitan.
+      comments: []
+  - verses:
+    - name: '1: Ang paalaala ng isang ina sa hari.'
+      title: Ang paalaala ng isang ina sa hari.
+      number: 1
+      content: '  Ang mga salita ng haring Lemuel; ang sanggunian na itinuro sa kaniya
+        ng kaniyang ina.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Ano anak ko? at ano, Oh anak ng aking bahay-bata?At ano, Oh anak
+        ng aking mga panata?  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Huwag mong ibigay ang iyong kalakasan sa mga babae,O ang iyo mang
+        mga lakad sa lumilipol ng mga hari.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Hindi sa mga hari, Oh Lemuel, hindi sa mga hari ang paginom ng
+        alak;Ni sa mga pangulo man, na magsabi, Saan nandoon ang matapang na alak?  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Baka sila''y uminom, at makalimotan ang kautusan,At humamak ng
+        kahatulan sa sinomang nagdadalamhati.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Bigyan mo ng matapang na inumin siya na handang manaw,At ng alak
+        ang mapanglaw na loob.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Uminom siya at limutin niya ang kaniyang kahirapan,At huwag nang
+        alalahanin pa ang kaniyang karalitaan.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Bukhin mo ang iyong bibig sa pipi,  Sa bagay ng lahat ng naiwang
+        walang kandili.  '
+      comments: []
+    - name: '9: Ang mabuting babae.'
+      title: Ang mabuting babae.
+      number: 9
+      content: 'Bukhin mo ang iyong bibig, humatol ka ng katuwiran,At mangasiwa ka
+        ng kahatulan sa dukha at mapagkailangan.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  Isang mabait na babae sinong makakasumpong?Sapagka''t ang kaniyang
+        halaga ay higit na makapupo kay sa mga rubi.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Ang puso ng kaniyang asawa ay tumitiwala sa kaniya,At siya''y hindi
+        kukulangin ng pakinabang.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Gumagawa siya ng mabuti sa kaniya at hindi kasamaanLahat ng mga kaarawan
+        ng kaniyang buhay.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Siya''y humahanap ng balahibo ng tupa at lino,At gumagawang kusa
+        ng kaniyang mga kamay.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Siya''y parang mga sasakyang dagat ng kalakal;Nagdadala siya ng kaniyang
+        pagkain mula sa malayo.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Siya''y bumabangon naman samantalang gabi pa,At nagbibigay ng pagkain
+        sa kaniyang sangbahayan,At ng kanilang gawain sa kaniyang alilang babae.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Kaniyang minamasdan ang bukid at binibili:Sa pamamagitan ng kaniyang
+        kamay ay nagtatanim siya ng ubasan.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Binibigkisan niya ang kaniyang mga balakang ng kalakasan,At nagpapalakas
+        ng kaniyang mga bisig.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Kaniyang namamalas na ang kaniyang kalakal ay makikinabang:Ang kaniyang
+        ilaw ay hindi namamatay sa gabi.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Kaniyang itinangan ang kaniyang mga kamay sa panulid,At ang kaniyang
+        mga kamay ay humahawak ng panghabi.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: '  Iginagawad niya ang kaniyang kamay sa dukha:Oo, iniaabot niya ang
+        kaniyang mga kamay sa mapagkailangan.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Hindi niya ikinatatakot ang kaniyang sangbahayan sa niebe;Sapagka''t
+        ang boo niyang sangbahayan ay nakapanamit ng mapulang mapula.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Gumagawa siya sa ganang kaniya ng mga unang may burda;Ang kaniyang
+        pananamit ay mainam na kayong lino at ng kayong kulay ube.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Ang kaniyang asawa ay kilala sa mga pintuang-bayan,Pagka siya''y
+        nauupo sa kasamahan ng mga matanda ng lupain.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Gumagawa siya ng mga kasuutang kayong lino at ipinagbibili;At nagbibigay
+        ng mga pamigkis sa mga mangangalakal.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Kalakasan at kamahalan at siyang kaniyang suot.At kaniyang tinatawanan
+        ang panahong darating.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Binubuka niya ang kaniyang bibig na may karunungan;At ang kautusan
+        ng kagandahang-loob ay nasa kaniyang dila.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Kaniyang tinitignang mabuti ang mga lakad ng kaniyang sangbahayan,At
+        hindi kumakain ng tinapay ng katamaran.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Nagsisibangon ang kaniyang mga anak, at tinatawag siyang mapalad; 
+        Gayon din ang kaniyang asawa, at pinupuri siya niya, na sinasabi:  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Maraming anak na babae ay nagsisigawang may kabaitan,Nguni''t ikaw,
+        ay humihigit sa kanilang lahat.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Ang lingap ay magdaraya, at ang kagandahan ay walang kabuluhan: 
+        Nguni''t ang babae na natatakot sa Panginoon, ay siya''y pupurihin.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: Bigyan ninyo siya ng bunga ng kaniyang mga kamay;At purihin siya ng
+        kaniyang mga gawa sa mga pintuang-bayan.
+      comments: []

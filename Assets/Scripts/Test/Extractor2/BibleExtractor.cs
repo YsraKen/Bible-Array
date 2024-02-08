@@ -11,9 +11,11 @@ public class BibleExtractor : MonoBehaviour
 	public List<TagInfo> tags = new List<TagInfo>();
 	
 	[Space]
-	public TargetTag[] targetTags;
+	public GeneralInformation genInfo;
 	public List<ExtractedInfo> extractedInfos = new List<ExtractedInfo>();
 	
+	[Space]
+	public string bookName;
 	public List<Verse> verses = new List<Verse>();
 	
 	[ContextMenu("Get Html Tag Infos")]
@@ -89,21 +91,48 @@ public class BibleExtractor : MonoBehaviour
 	{
 		extractedInfos.Clear();
 		
+		// var otherActiveTargetTags = new List<int>();
+		// int farthestTagEndIndex = 0;
+		
+		// bool isRecentTargetTagActive = false;
+		
+		// var unclosedTags = new List<Vector2Int>();
+			// X = tag targeter index
+			// Y = html end index
+		
 		foreach(var tag in tags)
 		{
-			int targetTagIndex = Array.FindIndex(targetTags, target => target.value == tag.value);
+			int targetTagIndex = Array.FindIndex(genInfo.targetTags, target => target.value == tag.value);
 			if(targetTagIndex < 0) continue;
 			
 			int contentIndex = tag.openingIndex.x + tag.openingIndex.y;
 			int contentLength = tag.closingIndex.x - contentIndex;
 			string contentValue = text.Substring(contentIndex, contentLength);
+			int htmlEndIndex = tag.closingIndex.x + tag.closingIndex.x;
 			
 			var extractedInfo = new ExtractedInfo()
 			{
-				name = targetTags[targetTagIndex].name,
+				name = genInfo.targetTags[targetTagIndex].name,
 				targetTagIndex = targetTagIndex,
-				value = contentValue
+				value = contentValue,
+				htmlEndIndex = htmlEndIndex
 			};
+			
+			
+		
+			/* if(htmlEndIndex > farthestTagEndIndex)
+			{
+				for(int i = 0; i < otherActiveTargetTags.Count; i++)
+					extractedInfo.isOtherTagTargetActive[otherActiveTargetTags[i]] = true;
+				
+				otherActiveTargetTags.Clear();
+				
+				extractedInfo.isOtherTagTargetActive[targetTagIndex] = true;
+				otherActiveTargetTags.Add(targetTagIndex);
+				
+				farthestTagEndIndex = htmlEndIndex;
+			}
+			 */
 			
 			extractedInfos.Add(extractedInfo);
 		}
@@ -115,41 +144,151 @@ public class BibleExtractor : MonoBehaviour
 		verses.Clear();
 		
 		var verseInfo = new Verse();
-		int verseNumberTracker = 1;
-		
 		int previousTargetIndex = 0;
 		
+		bool preheaderFound = false;
+		bool hasTitle = false;
+		
+		bool commentFound = false;
 		Verse.Comment commentInfo = null;
 		string commentNumberTracker = "";
+		int lastCommentType = 0;
+		
+		var unclosedInfos = new List<ExtractedInfo>();
 		
 		for(int i = 0; i < extractedInfos.Count;  i++)
 		{
+			unclosedInfos.RemoveAll(info => info.htmlEndIndex < extractedInfos[i].htmlEndIndex);
+			
 			int currentTargetIndex = extractedInfos[i].targetTagIndex;
 			
 			switch(currentTargetIndex)
 			{
-				case 0: // Title
-					verseInfo.title += extractedInfos[i].value;
-					break;
-				
-				case 1: // Verse [number]
-					if(int.TryParse(extractedInfos[i].value, out int verseNumber))
+				case 0: // Chapter
+				{
+					string value = extractedInfos[i].value;
+					
+					for(int v = value.Length - 1; v >= 0; v --)
 					{
-						if(verseNumber != verseNumberTracker)
+						if(value[v] == ' ')
 						{
-							verses.Add(verseInfo);
-							
-							verseNumberTracker = verseNumber;
-							verseInfo = new Verse();
+							value = value.Substring(0, v);
+							break;
 						}
 					}
-					break;
+					
+					#if UNITY_EDITOR
+					bookName = UnityEditor.ObjectNames.NicifyVariableName(value);
+					#else
+					bookName = value;
+					#endif
+				}
+				break;
 				
-				case 2: // Verse [body]
-					verseInfo.content += extractedInfos[i].value;
-					break;
+				case 1: // Pre-header
+				{
+					// if pre-header was found, the next Titles will be recorded as pre-header
+					preheaderFound = true;
+					
+					verseInfo.content += "<PREHEAD>";
+				}
+				break;
 				
-				case 3: // Lord
+				case 2: // Title
+				{
+					string value = extractedInfos[i].value;
+					
+					if(preheaderFound)
+					{
+						verseInfo.content += value + "</PREHEAD>";
+						preheaderFound = false;
+					}
+					else if(commentFound)
+					{
+						switch(lastCommentType)
+						{
+							case 8: onCommentNumber(); break;
+							case 9: onCommentFt("", " "); break;
+							case 10: onCommentEmphasis(); break;
+						}
+					}
+					else
+						verseInfo.title += value;
+				}
+				break;
+				
+				case 3: // Verse [number]
+				{
+					string value = extractedInfos[i].value;
+					
+					commentFound = value == "#";
+					if(commentFound) break;
+					
+					if(!string.IsNullOrEmpty(verseInfo.number))
+					{
+						#if UNITY_EDITOR
+						verseInfo.name = $"{verseInfo.number}: {verseInfo.title}";
+						#endif
+						
+						verses.Add(verseInfo);
+						verseInfo = new Verse();
+					}
+					
+					verseInfo.number = value;
+				
+					#region Combined Verses
+					
+					// Some verses are combined into 1 section
+						// In case of 'Genesis 1:17-18' ASND
+					
+					if(value.Contains('-'))
+					{
+						var numbers = new List<string>();
+						string number = "";
+						
+						foreach(char c in value)
+						{
+							if(c == '-')
+							{
+								numbers.Add(number);
+								number = "";
+								
+								continue;
+							}
+							
+							number += c;
+						}
+						
+						numbers.Add(number);
+						number = "";
+						
+						int max = int.Parse(numbers[numbers.Count - 1]);
+						int min = int.Parse(numbers[0]);
+						
+						for(int n = 0; n < (max - min); n++)
+							verses.Add(verseInfo);
+					}
+					
+					#endregion
+				}
+				break;
+				
+				case 4: // Verse [body]
+				{
+					// unique cases, title phase always end ones the verse body starts
+					if(!hasTitle)
+						hasTitle = true;
+					
+					string value = extractedInfos[i].value;
+					
+					if(char.IsLetterOrDigit(value[0]))
+						value = value.Insert(0, "\n\t");
+					
+					verseInfo.content += value;
+				}
+				break;
+				
+				case 5: // Lord
 					i ++;
 					
 					if(extractedInfos.IsInsideRange(i))
@@ -164,7 +303,50 @@ public class BibleExtractor : MonoBehaviour
 					}					
 					break;
 				
-				case 4: // Comment [number]
+				case 6: // Jesus
+					i ++;
+					
+					if(extractedInfos.IsInsideRange(i))
+					{
+						string value = $"<JESUS>{extractedInfos[i].value}</JESUS>";
+						
+						if(previousTargetIndex == 0)
+							verseInfo.title += value;
+						
+						else
+							verseInfo.content += value;
+					}	
+					break;
+				
+				case 7: // italic
+					i ++;
+					
+					if(extractedInfos.IsInsideRange(i))
+					{
+						string value = $"<i>{extractedInfos[i].value}</i>";
+						
+						if(previousTargetIndex == 0)
+						{
+							verseInfo.title += value;
+						}
+						
+						else
+							verseInfo.content += value;
+					}	
+					
+					break;
+				
+				case 8: // Comment [number]
+				{
+					if(hasTitle)
+						onCommentNumber();
+					
+					lastCommentType = 8;
+				}
+				break;
+				
+				void onCommentNumber()
+				{
 					string commentNumber = extractedInfos[i].value;
 					
 					if(commentNumber != commentNumberTracker)
@@ -179,25 +361,52 @@ public class BibleExtractor : MonoBehaviour
 						
 						commentNumberTracker = commentNumber;
 					}
-					break;
+				}
 				
-				case 5:// Comment [ft]
+				case 9:// Comment [ft]
+				{
+					if(hasTitle)
+						onCommentFt();
+					
+					lastCommentType = 9;
+				}
+				break;
+				
+				void onCommentFt(string pre = "", string post = "")
+				{
 					if(commentInfo == null)
 						commentInfo = new Verse.Comment();
 					
-					commentInfo.content += extractedInfos[i].value;
-					break;
+					commentInfo.content += $"{pre}{extractedInfos[i].value}{post}";
+				}
 				
-				case 6:// Comment [emphasis]
+				case 10:// Comment [emphasis]
+				{
+					if(hasTitle)
+						onCommentEmphasis();
+					
+					lastCommentType = 10;
+				}
+				break;
+				
+				void onCommentEmphasis(string pre = "", string post = "")
+				{
 					if(commentInfo == null)
 						commentInfo = new Verse.Comment();
 					
-					commentInfo.content += $"<b>{extractedInfos[i].value}</b>";
-					break;
+					commentInfo.content += $"<b>{pre}{extractedInfos[i].value}{post}</b>";
+				}
 			}
 			
 			previousTargetIndex = currentTargetIndex;
+			unclosedInfos.Add(extractedInfos[i]);
 		}
+		
+		#if UNITY_EDITOR
+		verseInfo.name = $"{verseInfo.number}: {verseInfo.title}";
+		#endif
+		
+		verses.Add(verseInfo);
 	}
 	
 	[ContextMenu("Extract")]
@@ -210,17 +419,12 @@ public class BibleExtractor : MonoBehaviour
 }
 
 [Serializable]
-public struct TargetTag
-{
-	public string name;
-	public string value;
-}
-
-[Serializable]
-public struct ExtractedInfo
+public class ExtractedInfo
 {
 	[HideInInspector] public string name;
 	[HideInInspector] public int targetTagIndex;
+	
+	[HideInInspector] public int htmlEndIndex;
 	
 	[TextArea]
 	public string value;

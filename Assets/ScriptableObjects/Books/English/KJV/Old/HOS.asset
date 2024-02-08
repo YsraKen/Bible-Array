@@ -1,0 +1,1321 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: HOS
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Hosea
+  fancyName: 
+  nickname: hos
+  version: {fileID: 11400000, guid: bd3f8ba6a2445b646991a3e44f7f687a, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  The word of the <smallcaps>LORD</smallcaps> that came unto Hosea,
+        the son of Beeri, in the days of Uzziah, Jotham, Ahaz, <i>and</i> Hezekiah,
+        kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'The beginning of the word of the <smallcaps>LORD</smallcaps> by Hosea.
+        And the <smallcaps>LORD</smallcaps> said to Hosea, Go, take unto thee a wife
+        of whoredoms and children of whoredoms: for the land hath committed great
+        whoredom, <i>departing</i> from the <smallcaps>LORD</smallcaps>. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'So he went and took Gomer the daughter of Diblaim; which conceived,
+        and bare him a son. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And the <smallcaps>LORD</smallcaps> said unto him, Call his name
+        Jezreel; for yet a little <i>while</i>, and I will avenge the blood of Jezreel
+        upon the house of Jehu, and will cause to cease the kingdom of the house
+        of Israel. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And it shall come to pass at that day, that I will break the bow
+        of Israel in the valley of Jezreel. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And she conceived again, and bare a daughter. And <i>God</i> said
+        unto him, Call her name Lo-ruhamah: for I will no more have mercy upon the
+        house of Israel; but I will utterly take them away. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'But I will have mercy upon the house of Judah, and will save them
+        by the <smallcaps>LORD</smallcaps> their God, and will not save them by bow,
+        nor by sword, nor by battle, by horses, nor by horsemen. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Now when she had weaned Lo-ruhamah, she conceived, and bare a son. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Then said <i>God</i>, Call his name Lo-ammi: for ye <i>are</i> not
+        my people, and I will not be your <i>God</i>.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Yet the number of the children of Israel shall be as the sand of
+        the sea, which cannot be measured nor numbered; and it shall come to pass,
+        <i>that</i> in the place where it was said unto them, Ye <i>are</i> not my
+        people, <i>there</i> it shall be said unto them, <i>Ye are</i> the sons of
+        the living God. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Then shall the children of Judah and the children of Israel be gathered
+        together, and appoint themselves one head, and they shall come up out of
+        the land: for great <i>shall be</i> the day of Jezreel.'
+      comments: []
+  - verses:
+    - name: '1: Israel, a Faithless Wife'
+      title: Israel, a Faithless Wife
+      number: 1
+      content: '  Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Plead with your mother, plead: for she <i>is</i> not my wife, neither
+        <i>am</i> I her husband: let her therefore put away her whoredoms out of
+        her sight, and her adulteries from between her breasts; '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'lest I strip her naked, and set her as in the day that she was born,
+        and make her as a wilderness, and set her like a dry land, and slay her with
+        thirst. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And I will not have mercy upon her children; for they <i>be</i> the
+        children of whoredoms. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For their mother hath played the harlot: she that conceived them
+        hath done shamefully: for she said, I will go after my lovers, that give
+        <i>me</i> my bread and my water, my wool and my flax, mine oil and my drink. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Therefore, behold, I will hedge up thy way with thorns, and make
+        a wall, that she shall not find her paths. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And she shall follow after her lovers, but she shall not overtake
+        them; and she shall seek them, but shall not find <i>them:</i> then shall
+        she say, I will go and return to my first husband; for then <i>was it</i>
+        better with me than now.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For she did not know that I gave her corn, and wine, and oil, and
+        multiplied her silver and gold, <i>which</i> they prepared for Baal. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Therefore will I return, and take away my corn in the time thereof,
+        and my wine in the season thereof, and will recover my wool and my flax <i>given</i>
+        to cover her nakedness. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And now will I discover her lewdness in the sight of her lovers,
+        and none shall deliver her out of mine hand. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'I will also cause all her mirth to cease, her feast days, her new
+        moons, and her sabbaths, and all her solemn feasts. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And I will destroy her vines and her fig trees, whereof she hath
+        said, These <i>are</i> my rewards that my lovers have given me: and I will
+        make them a forest, and the beasts of the field shall eat them. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And I will visit upon her the days of Baalim, wherein she burned
+        incense to them, and she decked herself with her earrings and her jewels,
+        and she went after her lovers, and forgat me, saith the <smallcaps>LORD</smallcaps>.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Therefore, behold, I will allure her, and bring her into the wilderness,
+        and speak comfortably unto her. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And I will give her her vineyards from thence, and the valley of
+        Achor for a door of hope: and she shall sing there, as in the days of her
+        youth, and as in the day when she came up out of the land of Egypt. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'And it shall be at that day, saith the <smallcaps>LORD</smallcaps>,
+        <i>that</i> thou shalt call me Ishi; and shalt call me no more Baali. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'For I will take away the names of Baalim out of her mouth, and they
+        shall no more be remembered by their name. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And in that day will I make a covenant for them with the beasts of
+        the field, and with the fowls of heaven, and <i>with</i> the creeping things
+        of the ground: and I will break the bow and the sword and the battle out
+        of the earth, and will make them to lie down safely.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'And I will betroth thee unto me for ever; yea, I will betroth thee
+        unto me in righteousness, and in judgment, and in lovingkindness, and in
+        mercies. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'I will even betroth thee unto me in faithfulness: and thou shalt
+        know the <smallcaps>LORD</smallcaps>. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'And it shall come to pass in that day, I will hear, saith the <smallcaps>LORD</smallcaps>,
+        I will hear the heavens, and they shall hear the earth; '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'and the earth shall hear the corn, and the wine, and the oil; and
+        they shall hear Jezreel. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: And I will sow her unto me in the earth; and I will have mercy upon
+        her that had not obtained mercy; and I will say to <i>them which were</i>
+        not my people, Thou <i>art</i> my people; and they shall say, <i>Thou art</i>
+        my God.
+      comments: []
+  - verses:
+    - name: '1: Her Purchase Price'
+      title: Her Purchase Price
+      number: 1
+      content: '  Then said the <smallcaps>LORD</smallcaps> unto me, Go yet, love
+        a woman beloved of <i>her</i> friend, yet an adulteress, according to the
+        love of the <smallcaps>LORD</smallcaps> toward the children of Israel, who
+        look to other gods, and love flagons of wine. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'So I bought her to me for fifteen <i>pieces</i> of silver, and <i>for</i>
+        an homer of barley, and an half homer of barley: '
+      comments: []
+    - name: '3: Israel''s Return'
+      title: Israel's Return
+      number: 3
+      content: 'and I said unto her, Thou shalt abide for me many days; thou shalt
+        not play the harlot, and thou shalt not be for <i>another</i> man: so <i>will</i>
+        I also <i>be</i> for thee.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For the children of Israel shall abide many days without a king,
+        and without a prince, and without a sacrifice, and without an image, and
+        without an ephod, and <i>without</i> teraphim: '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: afterward shall the children of Israel return, and seek the <smallcaps>LORD</smallcaps>
+        their God, and David their king; and shall fear the <smallcaps>LORD</smallcaps>
+        and his goodness in the latter days.
+      comments: []
+  - verses:
+    - name: '1: The ''s Controversy'
+      title: The 's Controversy
+      number: 1
+      content: '<smallcaps>LORD</smallcaps>  Hear the word of the <smallcaps>LORD</smallcaps>,
+        ye children of Israel: for the <smallcaps>LORD</smallcaps> hath a controversy
+        with the inhabitants of the land, because <i>there is</i> no truth, nor mercy,
+        nor knowledge of God in the land. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'By swearing, and lying, and killing, and stealing, and committing
+        adultery, they break out, and blood toucheth blood. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Therefore shall the land mourn, and every one that dwelleth therein
+        shall languish, with the beasts of the field, and with the fowls of heaven;
+        yea, the fishes of the sea also shall be taken away. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Yet let no man strive, nor reprove another: for thy people <i>are</i>
+        as they that strive with the priest. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Therefore shalt thou fall in the day, and the prophet also shall
+        fall with thee in the night, and I will destroy thy mother.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'My people are destroyed for lack of knowledge: because thou hast
+        rejected knowledge, I will also reject thee, that thou shalt be no priest
+        to me: seeing thou hast forgotten the law of thy God, I will also forget
+        thy children. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'As they were increased, so they sinned against me: <i>therefore</i>
+        will I change their glory into shame. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'They eat up the sin of my people, and they set their heart on their
+        iniquity. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And there shall be, like people, like priest: and I will punish them
+        for their ways, and reward them their doings. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For they shall eat, and not have enough: they shall commit whoredom,
+        and shall not increase: because they have left off to take heed to the <smallcaps>LORD</smallcaps>.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Whoredom and wine and new wine take away the heart. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'My people ask counsel at their stocks, and their staff declareth
+        unto them: for the spirit of whoredoms hath caused <i>them</i> to err, and
+        they have gone a whoring from under their God. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'They sacrifice upon the tops of the mountains, and burn incense upon
+        the hills, under oaks and poplars and elms, because the shadow thereof <i>is</i>
+        good: therefore your daughters shall commit whoredom, and your spouses shall
+        commit adultery. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'I will not punish your daughters when they commit whoredom, nor your
+        spouses when they commit adultery: for themselves are separated with whores,
+        and they sacrifice with harlots: therefore the people <i>that</i> doth not
+        understand shall fall.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Though thou, Israel, play the harlot, <i>yet</i> let not Judah offend;
+        and come not ye unto Gilgal, neither go ye up to Beth-aven, nor swear, The
+        <smallcaps>LORD</smallcaps> liveth. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For Israel slideth back as a backsliding heifer: now the <smallcaps>LORD</smallcaps>
+        will feed them as a lamb in a large place. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Ephraim <i>is</i> joined to idols: let him alone. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Their drink is sour: they have committed whoredom continually: her
+        rulers <i>with</i> shame do love, Give ye. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: The wind hath bound her up in her wings, and they shall be ashamed
+        because of their sacrifices.
+      comments: []
+  - verses:
+    - name: '1: Against Priests and Kings'
+      title: Against Priests and Kings
+      number: 1
+      content: '  Hear ye this, O priests; and hearken, ye house of Israel; and give
+        ye ear, O house of the king; for judgment <i>is</i> toward you, because ye
+        have been a snare on Mizpah, and a net spread upon Tabor. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And the revolters are profound to make slaughter, though I <i>have
+        been</i> a rebuker of them all.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'I know Ephraim, and Israel is not hid from me: for now, O Ephraim,
+        thou committest whoredom, <i>and</i> Israel is defiled. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'They will not frame their doings to turn unto their God: for the
+        spirit of whoredoms <i>is</i> in the midst of them, and they have not known
+        the <smallcaps>LORD</smallcaps>. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And the pride of Israel doth testify to his face: therefore shall
+        Israel and Ephraim fall in their iniquity; Judah also shall fall with them. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'They shall go with their flocks and with their herds to seek the
+        <smallcaps>LORD</smallcaps>; but they shall not find <i>him</i>; he hath
+        withdrawn himself from them. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'They have dealt treacherously against the <smallcaps>LORD</smallcaps>:
+        for they have begotten strange children: now shall a month devour them with
+        their portions.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Blow ye the cornet in Gibeah, <i>and</i> the trumpet in Ramah: cry
+        aloud <i>at</i> Beth-aven, after thee, O Benjamin. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Ephraim shall be desolate in the day of rebuke: among the tribes
+        of Israel have I made known that which shall surely be.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The princes of Judah were like them that remove the bound: <i>therefore</i>
+        I will pour out my wrath upon them like water. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Ephraim <i>is</i> oppressed <i>and</i> broken in judgment, because
+        he willingly walked after the commandment. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Therefore <i>will</i> I <i>be</i> unto Ephraim as a moth, and to
+        the house of Judah as rottenness. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'When Ephraim saw his sickness, and Judah <i>saw</i> his wound, then
+        went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal
+        you, nor cure you of your wound. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For I <i>will be</i> unto Ephraim as a lion, and as a young lion
+        to the house of Judah: I, <i>even</i> I, will tear and go away; I will take
+        away, and none shall rescue <i>him</i>. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'I will go <i>and</i> return to my place, till they acknowledge their
+        offence, and seek my face: in their affliction they will seek me early.'
+      comments: []
+  - verses:
+    - name: '1: A Brief Repentance'
+      title: A Brief Repentance
+      number: 1
+      content: '  Come, and let us return unto the <smallcaps>LORD</smallcaps>: for
+        he hath torn, and he will heal us; he hath smitten, and he will bind us up. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'After two days will he revive us: in the third day he will raise
+        us up, and we shall live in his sight. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Then shall we know, <i>if</i> we follow on to know the <smallcaps>LORD</smallcaps>:
+        his going forth is prepared as the morning; and he shall come unto us as
+        the rain, as the latter <i>and</i> former rain unto the earth.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'O Ephraim, what shall I do unto thee? O Judah, what shall I do unto
+        thee? for your goodness <i>is</i> as a morning cloud, and as the early dew
+        it goeth away. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Therefore have I hewed <i>them</i> by the prophets; I have slain
+        them by the words of my mouth: and thy judgments <i>are as</i> the light
+        <i>that</i> goeth forth. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For I desired mercy, and not sacrifice; and the knowledge of God
+        more than burnt offerings.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'But they like men have transgressed the covenant: there have they
+        dealt treacherously against me. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Gilead <i>is</i> a city of them that work iniquity, <i>and is</i>
+        polluted with blood. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And as troops of robbers wait for a man, <i>so</i> the company of
+        priests murder in the way by consent: for they commit lewdness. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'I have seen an horrible thing in the house of Israel: there <i>is</i>
+        the whoredom of Ephraim, Israel is defiled.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Also, O Judah, he hath set an harvest for thee, when I returned the
+        captivity of my people.
+      comments: []
+  - verses:
+    - name: '1: A Half-baked Cake'
+      title: A Half-baked Cake
+      number: 1
+      content: '  When I would have healed Israel, then the iniquity of Ephraim was
+        discovered, and the wickedness of Samaria: for they commit falsehood; and
+        the thief cometh in, <i>and</i> the troop of robbers spoileth without. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And they consider not in their hearts <i>that</i> I remember all
+        their wickedness: now their own doings have beset them about; they are before
+        my face. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'They make the king glad with their wickedness, and the princes with
+        their lies. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'They <i>are</i> all adulterers, as an oven heated by the baker, <i>who</i>
+        ceaseth from raising after he hath kneaded the dough, until it be leavened. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'In the day of our king the princes have made <i>him</i> sick with
+        bottles of wine; he stretched out his hand with scorners. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For they have made ready their heart like an oven, whiles they lie
+        in wait: their baker sleepeth all the night; in the morning it burneth as
+        a flaming fire. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'They are all hot as an oven, and have devoured their judges; all
+        their kings are fallen: <i>there is</i> none among them that calleth unto
+        me.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Ephraim, he hath mixed himself among the people; Ephraim is a cake
+        not turned. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Strangers have devoured his strength, and he knoweth <i>it</i> not:
+        yea, gray hairs are here and there upon him, yet he knoweth not. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And the pride of Israel testifieth to his face: and they do not return
+        to the <smallcaps>LORD</smallcaps> their God, nor seek him for all this. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Ephraim also is like a silly dove without heart: they call to Egypt,
+        they go to Assyria. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'When they shall go, I will spread my net upon them; I will bring
+        them down as the fowls of the heaven; I will chastise them, as their congregation
+        hath heard. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Woe unto them! for they have fled from me: destruction unto them!
+        because they have transgressed against me: though I have redeemed them, yet
+        they have spoken lies against me. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And they have not cried unto me with their heart, when they howled
+        upon their beds: they assemble themselves for corn and wine, <i>and</i> they
+        rebel against me. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Though I have bound <i>and</i> strengthened their arms, yet do they
+        imagine mischief against me. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'They return, <i>but</i> not to the most High: they are like a deceitful
+        bow: their princes shall fall by the sword for the rage of their tongue:
+        this <i>shall be</i> their derision in the land of Egypt.'
+      comments: []
+  - verses:
+    - name: '1: Reaping the Whirlwind'
+      title: Reaping the Whirlwind
+      number: 1
+      content: '    <i>Set</i> the trumpet to thy mouth. <i>He shall come</i> as
+        an eagle against the house of the <smallcaps>LORD</smallcaps>, because they
+        have transgressed my covenant, and trespassed against my law. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Israel shall cry unto me, My God, we know thee.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Israel hath cast off <i>the thing that is</i> good: the enemy shall
+        pursue him. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'They have set up kings, but not by me: they have made princes, and
+        I knew <i>it</i> not: of their silver and their gold have they made them
+        idols, that they may be cut off.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Thy calf, O Samaria, hath cast <i>thee</i> off; mine anger is kindled
+        against them: how long <i>will it be</i> ere they attain to innocency? '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For from Israel <i>was</i> it also: the workman made it; therefore
+        it <i>is</i> not God: but the calf of Samaria shall be broken in pieces.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For they have sown the wind, and they shall reap the whirlwind: it
+        hath no stalk: the bud shall yield no meal: if so be it yield, the strangers
+        shall swallow it up. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Israel is swallowed up: now shall they be among the Gentiles as a
+        vessel wherein <i>is</i> no pleasure. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'For they are gone up to Assyria, a wild ass alone by himself: Ephraim
+        hath hired lovers. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Yea, though they have hired among the nations, now will I gather
+        them, and they shall sorrow a little for the burden of the king of princes.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Because Ephraim hath made many altars to sin, altars shall be unto
+        him to sin. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I have written to him the great things of my law, <i>but</i> they
+        were counted as a strange thing. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'They sacrifice flesh <i>for</i> the sacrifices of mine offerings,
+        and eat <i>it; but</i> the <smallcaps>LORD</smallcaps> accepteth them not;
+        now will he remember their iniquity, and visit their sins: they shall return
+        to Egypt. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For Israel hath forgotten his Maker, and buildeth temples; and Judah
+        hath multiplied fenced cities: but I will send a fire upon his cities, and
+        it shall devour the palaces thereof.'
+      comments: []
+  - verses:
+    - name: '1: Days of Recompence'
+      title: Days of Recompence
+      number: 1
+      content: '  Rejoice not, O Israel, for joy, as <i>other</i> people: for thou
+        hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'The floor and the winepress shall not feed them, and the new wine
+        shall fail in her. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'They shall not dwell in the <smallcaps>LORD</smallcaps>''s land;
+        but Ephraim shall return to Egypt, and they shall eat unclean <i>things</i>
+        in Assyria. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'They shall not offer wine <i>offerings</i> to the <smallcaps>LORD</smallcaps>,
+        neither shall they be pleasing unto him: their sacrifices <i>shall be</i>
+        unto them as the bread of mourners; all that eat thereof shall be polluted:
+        for their bread for their soul shall not come into the house of the <smallcaps>LORD</smallcaps>.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'What will ye do in the solemn day, and in the day of the feast of
+        the <smallcaps>LORD</smallcaps>? '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For, lo, they are gone because of destruction: Egypt shall gather
+        them up, Memphis shall bury them: the pleasant <i>places</i> for their silver,
+        nettles shall possess them: thorns <i>shall be</i> in their tabernacles. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The days of visitation are come, the days of recompence are come;
+        Israel shall know <i>it:</i> the prophet <i>is</i> a fool, the spiritual
+        man <i>is</i> mad, for the multitude of thine iniquity, and the great hatred. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The watchman of Ephraim <i>was</i> with my God: <i>but</i> the prophet
+        <i>is</i> a snare of a fowler in all his ways, <i>and</i> hatred in the house
+        of his God. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'They have deeply corrupted <i>themselves</i>, as in the days of Gibeah:
+        <i>therefore</i> he will remember their iniquity, he will visit their sins.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'I found Israel like grapes in the wilderness; I saw your fathers
+        as the firstripe in the fig tree at her first time: <i>but</i> they went
+        to Baal-peor, and separated themselves unto <i>that</i> shame; and <i>their</i>
+        abominations were according as they loved. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '<i>As for</i> Ephraim, their glory shall fly away like a bird, from
+        the birth, and from the womb, and from the conception. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Though they bring up their children, yet will I bereave them, <i>that
+        there shall</i> not <i>be</i> a man <i>left:</i> yea, woe also to them when
+        I depart from them! '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Ephraim, as I saw Tyrus, <i>is</i> planted in a pleasant place: but
+        Ephraim shall bring forth his children to the murderer. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Give them, O <smallcaps>LORD</smallcaps>: what wilt thou give? give
+        them a miscarrying womb and dry breasts.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'All their wickedness <i>is</i> in Gilgal: for there I hated them:
+        for the wickedness of their doings I will drive them out of mine house, I
+        will love them no more: all their princes <i>are</i> revolters. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Ephraim is smitten, their root is dried up, they shall bear no fruit:
+        yea, though they bring forth, yet will I slay <i>even</i> the beloved <i>fruit</i>
+        of their womb. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'My God will cast them away, because they did not hearken unto him:
+        and they shall be wanderers among the nations.'
+      comments: []
+  - verses:
+    - name: '1: Their Divided Heart'
+      title: Their Divided Heart
+      number: 1
+      content: '  Israel <i>is</i> an empty vine, he bringeth forth fruit unto himself:
+        according to the multitude of his fruit he hath increased the altars; according
+        to the goodness of his land they have made goodly images. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Their heart is divided; now shall they be found faulty: he shall
+        break down their altars, he shall spoil their images. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For now they shall say, We have no king, because we feared not the
+        <smallcaps>LORD</smallcaps>; what then should a king do to us?  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'They have spoken words, swearing falsely in making a covenant: thus
+        judgment springeth up as hemlock in the furrows of the field. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The inhabitants of Samaria shall fear because of the calves of Beth-aven:
+        for the people thereof shall mourn over it, and the priests thereof <i>that</i>
+        rejoiced on it, for the glory thereof, because it is departed from it. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'It shall be also carried unto Assyria <i>for</i> a present to king
+        Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own
+        counsel.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  <i>As for</i> Samaria, her king is cut off as the foam upon the
+        water. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The high places also of Aven, the sin of Israel, shall be destroyed:
+        the thorn and the thistle shall come up on their altars; and they shall say
+        to the mountains, Cover us; and to the hills, Fall on us.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'O Israel, thou hast sinned from the days of Gibeah: there they stood:
+        the battle in Gibeah against the children of iniquity did not overtake them. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '<i>It is</i> in my desire that I should chastise them; and the people
+        shall be gathered against them, when they shall bind themselves in their
+        two furrows. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And Ephraim <i>is as</i> an heifer <i>that is</i> taught, <i>and</i>
+        loveth to tread out <i>the corn</i>; but I passed over upon her fair neck:
+        I will make Ephraim to ride; Judah shall plow, <i>and</i> Jacob shall break
+        his clods.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Sow to yourselves in righteousness, reap in mercy; break up your
+        fallow ground: for <i>it is</i> time to seek the <smallcaps>LORD</smallcaps>,
+        till he come and rain righteousness upon you. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Ye have plowed wickedness, ye have reaped iniquity; ye have eaten
+        the fruit of lies: because thou didst trust in thy way, in the multitude
+        of thy mighty men.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Therefore shall a tumult arise among thy people, and all thy fortresses
+        shall be spoiled, as Shalman spoiled Beth-arbel in the day of battle: the
+        mother was dashed in pieces upon <i>her</i> children. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'So shall Beth-el do unto you because of your great wickedness: in
+        a morning shall the king of Israel utterly be cut off.'
+      comments: []
+  - verses:
+    - name: '1: The Father''s Love'
+      title: The Father's Love
+      number: 1
+      content: '  When Israel <i>was</i> a child, then I loved him, and called my
+        son out of Egypt. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '<i>As</i> they called them, so they went from them: they sacrificed
+        unto Baalim, and burned incense to graven images.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'I taught Ephraim also to go, taking them by their arms; but they
+        knew not that I healed them. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'I drew them with cords of a man, with bands of love: and I was to
+        them as they that take off the yoke on their jaws, and I laid meat unto them.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'He shall not return into the land of Egypt, but the Assyrian shall
+        be his king, because they refused to return. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And the sword shall abide on his cities, and shall consume his branches,
+        and devour <i>them</i>, because of their own counsels. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And my people are bent to backsliding from me: though they called
+        them to the most High, none at all would exalt <i>him</i>.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'How shall I give thee up, Ephraim? <i>how</i> shall I deliver thee,
+        Israel? how shall I make thee as Admah? <i>how</i> shall I set thee as Zeboim?
+        mine heart is turned within me, my repentings are kindled together. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'I will not execute the fierceness of mine anger, I will not return
+        to destroy Ephraim: for I <i>am</i> God, and not man; the Holy One in the
+        midst of thee: and I will not enter into the city. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'They shall walk after the <smallcaps>LORD</smallcaps>: he shall roar
+        like a lion: when he shall roar, then the children shall tremble from the
+        west. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'They shall tremble as a bird out of Egypt, and as a dove out of the
+        land of Assyria: and I will place them in their houses, saith the <smallcaps>LORD</smallcaps>.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Ephraim compasseth me about with lies, and the house of Israel with
+        deceit: but Judah yet ruleth with God, and is faithful with the saints.'
+      comments: []
+  - verses:
+    - name: '1: His Past Mercies'
+      title: His Past Mercies
+      number: 1
+      content: '  Ephraim feedeth on wind, and followeth after the east wind: he
+        daily increaseth lies and desolation; and they do make a covenant with the
+        Assyrians, and oil is carried into Egypt.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'The <smallcaps>LORD</smallcaps> hath also a controversy with Judah,
+        and will punish Jacob according to his ways; according to his doings will
+        he recompense him. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'He took his brother by the heel in the womb, and by his strength
+        he had power with God: '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'yea, he had power over the angel, and prevailed: he wept, and made
+        supplication unto him: he found him <i>in</i> Beth-el, and there he spake
+        with us; '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'even the <smallcaps>LORD</smallcaps> God of hosts; the <smallcaps>LORD</smallcaps> 
+        <i>is</i> his memorial. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Therefore turn thou to thy God: keep mercy and judgment, and wait
+        on thy God continually.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  <i>He is</i> a merchant, the balances of deceit <i>are</i> in his
+        hand: he loveth to oppress. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And Ephraim said, Yet I am become rich, I have found me out substance:
+        <i>in</i> all my labours they shall find none iniquity in me that <i>were</i>
+        sin. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And I <i>that am</i> the <smallcaps>LORD</smallcaps> thy God from
+        the land of Egypt will yet make thee to dwell in tabernacles, as in the days
+        of the solemn feast.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'I have also spoken by the prophets, and I have multiplied visions,
+        and used similitudes, by the ministry of the prophets. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '<i>Is there</i> iniquity <i>in</i> Gilead? surely they are vanity:
+        they sacrifice bullocks in Gilgal; yea, their altars <i>are</i> as heaps
+        in the furrows of the fields. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And Jacob fled into the country of Syria, and Israel served for a
+        wife, and for a wife he kept <i>sheep</i>. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And by a prophet the <smallcaps>LORD</smallcaps> brought Israel out
+        of Egypt, and by a prophet was he preserved. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Ephraim provoked <i>him</i> to anger most bitterly: therefore shall
+        he leave his blood upon him, and his reproach shall his Lord return unto
+        him.'
+      comments: []
+  - verses:
+    - name: '1: The Only Saviour'
+      title: The Only Saviour
+      number: 1
+      content: '  When Ephraim spake trembling, he exalted himself in Israel; but
+        when he offended in Baal, he died. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And now they sin more and more, and have made them molten images
+        of their silver, <i>and</i> idols according to their own understanding, all
+        of it the work of the craftsmen: they say of them, Let the men that sacrifice
+        kiss the calves. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Therefore they shall be as the morning cloud, and as the early dew
+        that passeth away, as the chaff <i>that</i> is driven with the whirlwind
+        out of the floor, and as the smoke out of the chimney.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Yet I <i>am</i> the <smallcaps>LORD</smallcaps> thy God from the
+        land of Egypt, and thou shalt know no god but me: for <i>there is</i> no
+        saviour beside me. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'I did know thee in the wilderness, in the land of great drought. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'According to their pasture, so were they filled; they were filled,
+        and their heart was exalted; therefore have they forgotten me. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Therefore I will be unto them as a lion: as a leopard by the way
+        will I observe <i>them:</i>  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'I will meet them as a bear <i>that is</i> bereaved <i>of her whelps</i>,
+        and will rend the caul of their heart, and there will I devour them like
+        a lion: the wild beast shall tear them.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'O Israel, thou hast destroyed thyself; but in me <i>is</i> thine
+        help. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'I will be thy king: where <i>is any other</i> that may save thee
+        in all thy cities? and thy judges of whom thou saidst, Give me a king and
+        princes? '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'I gave thee a king in mine anger, and took <i>him</i> away in my
+        wrath. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The iniquity of Ephraim <i>is</i> bound up; his sin <i>is</i> hid. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The sorrows of a travailing woman shall come upon him: he <i>is</i>
+        an unwise son; for he should not stay long in <i>the place of</i> the breaking
+        forth of children. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'I will ransom them from the power of the grave; I will redeem them
+        from death: O death, I will be thy plagues; O grave, I will be thy destruction:
+        repentance shall be hid from mine eyes.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Though he be fruitful among <i>his</i> brethren, an east wind shall
+        come, the wind of the <smallcaps>LORD</smallcaps> shall come up from the
+        wilderness, and his spring shall become dry, and his fountain shall be dried
+        up: he shall spoil the treasure of all pleasant vessels. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Samaria shall become desolate; for she hath rebelled against her
+        God: they shall fall by the sword: their infants shall be dashed in pieces,
+        and their women with child shall be ripped up.'
+      comments: []
+  - verses:
+    - name: '1: Return, O Israel!'
+      title: Return, O Israel!
+      number: 1
+      content: '  O Israel, return unto the <smallcaps>LORD</smallcaps> thy God;
+        for thou hast fallen by thine iniquity. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Take with you words, and turn to the <smallcaps>LORD</smallcaps>:
+        say unto him, Take away all iniquity, and receive <i>us</i> graciously: so
+        will we render the calves of our lips. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Asshur shall not save us; we will not ride upon horses: neither will
+        we say any more to the work of our hands, <i>Ye are</i> our gods: for in
+        thee the fatherless findeth mercy.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'I will heal their backsliding, I will love them freely: for mine
+        anger is turned away from him. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'I will be as the dew unto Israel: he shall grow as the lily, and
+        cast forth his roots as Lebanon. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'His branches shall spread, and his beauty shall be as the olive tree,
+        and his smell as Lebanon. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'They that dwell under his shadow shall return; they shall revive
+        <i>as</i> the corn, and grow as the vine: the scent thereof <i>shall be</i>
+        as the wine of Lebanon. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Ephraim <i>shall say</i>, What have I to do any more with idols?
+        I have heard <i>him</i>, and observed him: I <i>am</i> like a green fir tree.
+        From me is thy fruit found.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Who <i>is</i> wise, and he shall understand these <i>things?</i>
+        prudent, and he shall know them? for the ways of the <smallcaps>LORD</smallcaps> 
+        <i>are</i> right, and the just shall walk in them: but the transgressors
+        shall fall therein.'
+      comments: []

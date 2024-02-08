@@ -1,5 +1,5 @@
-using System.Collections.Generic;
 using System;
+using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -28,6 +28,8 @@ public static partial class Extensions
 		
 		else return default;
 	}
+	
+	public static T GetLastElement<T>(this List<T> list) => list.IsNullOrEmpty()? default(T): list[list.Count - 1];
 	
 	/// <summary>
 	/// Gets the element of the specified type, if it exists.
@@ -89,4 +91,26 @@ public static partial class Extensions
 	}
 	
 	public static bool IsInsideRange<T>(this List<T> list, int index) => index > -1 && index < list.Length();
+	
+	public static bool TryFind<T>(this List<T> list, Predicate<T> predicate, out T element)
+	{
+		int index = list.FindIndex(predicate);
+		bool found = index != -1;
+		
+		element = found? list[index]: default(T);
+		
+		return found;
+	}
+	
+	public static bool TryFindIndex<T>(this List<T> list, Predicate<T> predicate, out int index)
+	{
+		index = list.FindIndex(predicate);
+		return index != -1;
+	}
+	
+	public static bool Contains<T>(this List<T> list, T element, out int index)
+	{
+		index = list.FindIndex(e => EqualityComparer<T>.Default.Equals(e, element));
+		return index != -1;
+	}
 }

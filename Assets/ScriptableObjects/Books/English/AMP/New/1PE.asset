@@ -1,0 +1,774 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: 1PE
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 1 Peter
+  fancyName: 
+  nickname: 1pe
+  version: {fileID: 11400000, guid: 255596ce6b91ac640b392e20dd4f8a9e, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: A Living Hope, and a Sure Salvation'
+      title: A Living Hope, and a Sure Salvation
+      number: 1
+      content: "  Peter, an apostle (special messenger, personally chosen representative)
+        of Jesus Christ,  To those [elect\u2014both Jewish and Gentile believers]
+        who live as exiles, scattered throughout Pontus, Galatia, Cappadocia, Asia
+        [Minor], and Bithynia, who are chosen "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'according to the foreknowledge of God the Father by the sanctifying
+        work of the Spirit to be obedient to Jesus Christ and to be sprinkled with
+        His blood: May grace and peace [that special sense of spiritual well-being]
+        be yours in increasing abundance [as you walk closely with God].  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Blessed [gratefully praised and adored] be the God and Father of
+        our Lord Jesus Christ, who according to His abundant and boundless mercy
+        has caused us to be born again [that is, to be reborn from above\u2014spiritually
+        transformed, renewed, and set apart for His purpose] to an ever-living hope
+        and confident assurance through the resurrection of Jesus Christ from the
+        dead, "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '[born anew] into an inheritance which is imperishable [beyond the
+        reach of change] and undefiled and unfading, reserved in heaven for you, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'who are being protected and shielded by the power of God through
+        your faith for salvation that is ready to be revealed [for you] in the last
+        time. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'In this you rejoice greatly, even though now for a little while,
+        if necessary, you have been distressed by various trials, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'so that the genuineness of your faith, which is much more precious
+        than gold which is perishable, even though tested and purified by fire, may
+        be found to result in [your] praise and glory and honor at the revelation
+        of Jesus Christ. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Though you have not seen Him, you love Him; and though you do not
+        even see Him now, you believe and trust in Him and you greatly rejoice and
+        delight with inexpressible and glorious joy, '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'receiving as the result [the outcome, the consummation] of your faith,
+        the salvation of your souls.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Regarding this salvation, the prophets who prophesied about the grace
+        [of God] that was intended for you, searched carefully and inquired [about
+        this future way of salvation], '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'seeking to find out what person or what time the Spirit of Christ
+        within them was indicating as He foretold the sufferings of Christ and the
+        glories [destined] to follow. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'It was revealed to them that their services [their prophecies regarding
+        grace] were not [meant] for themselves and their time, but for you, in these
+        things [the death, resurrection, and glorification of Jesus Christ] which
+        have now been told to you by those who preached the gospel to you by the
+        [power of the] Holy Spirit [who was] sent from heaven. Into these things
+        even the angels long to look.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "So prepare your minds for action, be completely sober [in spirit\u2014steadfast,
+        self-disciplined, spiritually and morally alert], fix your hope completely
+        on the grace [of God] that is coming to you when Jesus Christ is revealed. "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '[Live] as obedient children [of God]; do not be conformed to the
+        evil desires which governed you in your ignorance [before you knew the requirements
+        and transforming power of the good news regarding salvation]. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'But like the Holy One who called you, be holy yourselves in all your
+        conduct [be set apart from the world by your godly character and moral courage]; '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "because it is written, \u201CYou shall be holy (set apart), for I
+        am holy.\u201D  "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "If you address as Father, the One who impartially judges according
+        to each one\u2019s work, conduct yourselves in [reverent] fear [of Him] and
+        with profound respect for Him throughout the time of your stay on earth. "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'For you know that you were not redeemed from your useless [spiritually
+        unproductive] way of life inherited [by tradition] from your forefathers
+        with perishable things like silver and gold, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'but [you were actually purchased] with precious blood, like that
+        of a [sacrificial] lamb unblemished and spotless, the priceless blood of
+        Christ. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'For He was foreordained (foreknown) before the foundation of the
+        world, but has appeared [publicly] in these last times for your sake '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'and through Him you believe [confidently] in God [the heavenly Father],
+        who raised Him from the dead and gave Him glory, so that your faith and hope
+        are [centered and rest] in God.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Since by your obedience to the truth you have purified yourselves
+        for a sincere love of the believers, [see that you] love one another from
+        the heart [always unselfishly seeking the best for one another], '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "for you have been born again [that is, reborn from above\u2014spiritually
+        transformed, renewed, and set apart for His purpose] not of seed which is
+        perishable but [from that which is] imperishable and immortal, that is, through
+        the living and everlasting word of God. "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "For,\u201CAll flesh is like grass,And all its glory like the flower
+        of grass.The grass withersAnd the flower falls off,  "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "But the word of the Lord endures forever.\u201DAnd this is the word
+        [the good news of salvation] which was preached to you."
+      comments: []
+  - verses:
+    - name: '1: As Newborn Babes'
+      title: As Newborn Babes
+      number: 1
+      content: '  So put aside every trace of malice and all deceit and hypocrisy
+        and envy and all slander and hateful speech; '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'like newborn babies [you should] long for the pure milk of the word,
+        so that by it you may be nurtured and grow in respect to salvation [its ultimate
+        fulfillment], '
+      comments: []
+    - name: '3: As Living Stones'
+      title: As Living Stones
+      number: 3
+      content: 'if in fact you have [already] tasted the goodness and gracious kindness
+        of the Lord.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Come to Him [the risen Lord] as to a living Stone which men rejected
+        and threw away, but which is choice and precious in the sight of God. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'You [believers], like living stones, are being built up into a spiritual
+        house for a holy and dedicated priesthood, to offer spiritual sacrifices
+        [that are] acceptable and pleasing to God through Jesus Christ. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "For this is contained in Scripture:\u201CBehold, I am laying in Zion
+        a chosen stone, a precious (honored) Cornerstone,And he who believes in Him
+        [whoever adheres to, trusts in, and relies on Him] will never be disappointed
+        [in his expectations].\u201D  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "This precious value, then, is for you who believe [in Him as God\u2019s
+        only Son\u2014the Source of salvation]; but for those who disbelieve,\u201CThe
+        [very] stone which the builders rejectedHas become the chief Cornerstone,\u201D  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "and,\u201CA stone of stumbling and a rock of offense\u201D;for they
+        stumble because they disobey the word [of God], and to this they [who reject
+        Him as Savior] were also appointed.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "But you are a chosen race, a royal priesthood, a consecrated nation,
+        a [special] people for  God\u2019s  own possession, so that you may proclaim
+        the excellencies [the wonderful deeds and virtues and perfections] of Him
+        who called you out of darkness into His marvelous light. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Once you were not a people [at all], but now you are God\u2019s people;
+        once you had not received mercy, but now you have received mercy.  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Beloved, I urge you as aliens and strangers [in this world] to abstain
+        from the sensual urges [those dishonorable desires] that wage war against
+        the soul. '
+      comments: []
+    - name: '12: Honor Authority'
+      title: Honor Authority
+      number: 12
+      content: 'Keep your behavior excellent among the [unsaved] Gentiles [conduct
+        yourself honorably, with graciousness and integrity], so that for whatever
+        reason they may slander you as evildoers, yet by observing your good deeds
+        they may [instead come to] glorify God in the day of visitation [when He
+        looks upon them with mercy].  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Submit yourselves to [the authority of] every human institution for
+        the sake of the Lord [to honor His name], whether it is to a king as one
+        in a position of power, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'or to governors as sent by him to bring punishment to those who do
+        wrong, and to praise and encourage those who do right. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'For it is the will of God that by doing right you may silence (muzzle,
+        gag) the [culpable] ignorance and irresponsible criticisms of foolish people. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Live as free people, but do not use your freedom as a cover or pretext
+        for evil, but [use it and live] as bond-servants of God. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Show respect for all people [treat them honorably], love the brotherhood
+        [of believers], fear God, honor the king.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Servants, be submissive to your masters with all [proper] respect,
+        not only to those who are good and kind, but also to those who are unreasonable. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'For this finds favor, if a person endures the sorrow of suffering
+        unjustly because of an awareness of [the will of] God. '
+      comments: []
+    - name: '20: Christ Is Our Example'
+      title: Christ Is Our Example
+      number: 20
+      content: 'After all, what kind of credit is there if, when you do wrong and
+        are punished for it, you endure it patiently? But if when you do what is
+        right and patiently bear [undeserved] suffering, this finds favor with God.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'For [as a believer] you have been called for this purpose, since
+        Christ suffered for you, leaving you an example, so that you may follow in
+        His footsteps. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'He committed no sin, nor was deceit ever found in His mouth. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'While being reviled and insulted, He did not revile or insult in
+        return; while suffering, He made no threats [of vengeance], but kept entrusting
+        Himself to Him who judges fairly. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'He personally carried our sins in His body on the cross [willingly
+        offering Himself on it, as on an altar of sacrifice], so that we might die
+        to sin [becoming immune from the penalty and power of sin] and live for righteousness;
+        for by His wounds you [who believe] have been healed. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: For you were continually wandering like [so many] sheep, but now you
+        have come back to the Shepherd and Guardian of your souls.
+      comments: []
+  - verses:
+    - name: '1: Godly Living'
+      title: Godly Living
+      number: 1
+      content: '  In the same way, you wives, be submissive to your own husbands
+        [subordinate, not as inferior, but out of respect for the responsibilities
+        entrusted to husbands and their accountability to God, and so partnering
+        with them] so that even if some do not obey the word [of God], they may be
+        won over [to Christ] without discussion by the godly lives of their wives, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "when they see your modest and respectful behavior [together with
+        your devotion and appreciation\u2014love your husband, encourage him, and
+        enjoy him as a blessing from God]. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Your adornment must not be merely external\u2014with interweaving
+        and elaborate knotting of the hair, and wearing gold jewelry, or [being superficially
+        preoccupied with] dressing in expensive clothes; "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'but let it be [the inner beauty of] the hidden person of the heart,
+        with the imperishable quality and unfading charm of a gentle and peaceful
+        spirit, [one that is calm and self-controlled, not overanxious, but serene
+        and spiritually mature] which is very precious in the sight of God. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For in this way in former times the holy women, who hoped in God,
+        used to adorn themselves, being submissive to their own husbands and adapting
+        themselves to them; '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'just as Sarah obeyed Abraham [following him and having regard for
+        him as head of their house], calling him lord. And you have become her daughters
+        if you do what is right without being frightened by any fear [that is, being
+        respectful toward your husband but not giving in to intimidation, nor allowing
+        yourself to be led into sin, nor to be harmed].  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'In the same way, you husbands, live with your wives in an understanding
+        way [with great gentleness and tact, and with an intelligent regard for the
+        marriage relationship], as with someone physically weaker, since she is a
+        woman. Show her honor and respect as a fellow heir of the grace of life,
+        so that your prayers will not be hindered or ineffective.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Finally, all of you be like-minded [united in spirit], sympathetic,
+        brotherly, kindhearted [courteous and compassionate toward each other as
+        members of one household], and humble in spirit; '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "and never return evil for evil or insult for insult [avoid scolding,
+        berating, and any kind of abuse], but on the contrary, give a blessing [pray
+        for one another\u2019s well-being, contentment, and protection]; for you
+        have been called for this very purpose, that you might inherit a blessing
+        [from God that brings well-being, happiness, and protection]. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "For,\u201CThe one who wants to enjoy life and see good days [good\u2014whether
+        apparent or not],Must keep his tongue free from evil and his lips from speaking
+        guile (treachery, deceit).  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "He must turn away from wickedness and do what is right.He must search
+        for peace [with God, with self, with others] and pursue it eagerly [actively\u2014not
+        merely desiring it].  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "For the eyes of the Lord are [looking favorably] upon the righteous
+        (the upright),And His ears are attentive to their prayer (eager to answer),But
+        the face of the Lord is against those who practice evil.\u201D  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Now who is there to hurt you if you become enthusiastic for what
+        is good? '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'But even if you should suffer for the sake of righteousness [though
+        it is not certain that you will], you are still blessed [happy, to be admired
+        and favored by God]. Do not be afraid of their intimidating threats, nor
+        be troubled  or  disturbed [by their opposition]. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "But in your hearts set Christ apart [as holy\u2014acknowledging Him,
+        giving Him first place in your lives] as Lord. Always be ready to give a
+        [logical] defense to anyone who asks you to account for the hope and confident
+        assurance [elicited by faith] that is within you, yet [do it] with gentleness
+        and respect. "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'And see to it that your conscience is entirely clear, so that every
+        time you are slandered or falsely accused, those who attack or disparage
+        your good behavior in Christ will be shamed [by their own words]. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "For it is better that you suffer [unjustly] for doing what is right,
+        if that should be God\u2019s will, than [to suffer justly] for doing wrong. "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'For indeed Christ died for sins once for all, the Just and Righteous
+        for the unjust and unrighteous [the Innocent for the guilty] so that He might
+        bring us to God, having been put to death in the flesh, but made alive in
+        the Spirit; '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'in which He also went and preached to the spirits now in prison, '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "who once were disobedient, when the great patience of God was waiting
+        in the days of Noah, during the building of the ark, in which a few, that
+        is, eight persons [Noah\u2019s family], were brought safely through the water. "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "Corresponding to that [rescue through the flood], baptism [which
+        is an expression of a believer\u2019s new life in Christ] now saves you,
+        not by removing dirt from the body, but by an appeal to God for a good (clear)
+        conscience, [demonstrating what you believe to be yours] through the resurrection
+        of Jesus Christ, "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: who has gone into heaven and is at the right hand of God [that is,
+        the place of honor and authority], with [all] angels and authorities and
+        powers made subservient to Him.
+      comments: []
+  - verses:
+    - name: '1: Keep Fervent in Your Love'
+      title: Keep Fervent in Your Love
+      number: 1
+      content: '  Therefore, since Christ suffered in the flesh [and died for us],
+        arm yourselves [like warriors] with the same purpose [being willing to suffer
+        for doing what is right and pleasing God], because whoever has suffered in
+        the flesh [being like-minded with Christ] is done with [intentional] sin
+        [having stopped pleasing the world], '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'so that he can no longer spend the rest of his natural life living
+        for human appetites and desires, but [lives] for the will and purpose of
+        God. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "For the time already past is [more than] enough for doing what the
+        [unsaved] Gentiles like to do\u2014living [unrestrained as you have done]
+        in a course of [shameless] sensuality, lusts, drunkenness, carousing, drinking
+        parties, and wanton idolatries. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'In [connection with] all this, they [the unbelievers] are resentful
+        and surprised that you do not [think like them, value their values and] run
+        [hand in hand] with them into the same excesses of dissipation and immoral
+        freedom, and they criticize and abuse and ridicule you and make fun of your
+        values. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'But they will [have to] give an account to Him who is ready to judge
+        and pass sentence on the living and the dead. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For this is why the good news [of salvation] was preached [in their
+        lifetimes] even to those who are dead, that though they were judged in the
+        flesh as men are, they may live in the spirit according to [the will and
+        purpose of] God.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The end and culmination of all things is near. Therefore, be sound-minded
+        and self-controlled for the purpose of prayer [staying balanced and focused
+        on the things of God so that your communication will be clear, reasonable,
+        specific and pleasing to Him.] '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Above all, have fervent and unfailing love for one another, because
+        love covers a multitude of sins [it overlooks unkindness and unselfishly
+        seeks the best for others]. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Be hospitable to one another without complaint. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Just as each one of you has received a special gift [a spiritual
+        talent, an ability graciously given by God], employ it in serving one another
+        as [is appropriate for] good stewards of God\u2019s multi-faceted grace [faithfully
+        using the diverse, varied gifts and abilities granted to Christians by God\u2019s
+        unmerited favor]. "
+      comments: []
+    - name: '11: Share the Sufferings of Christ'
+      title: Share the Sufferings of Christ
+      number: 11
+      content: 'Whoever speaks [to the congregation], is to do so as one who speaks
+        the oracles (utterances, the very words) of God. Whoever serves [the congregation]
+        is to do so as one who serves by the strength which God [abundantly] supplies,
+        so that in all things God may be glorified [honored and magnified] through
+        Jesus Christ, to whom belongs the glory and dominion forever and ever. Amen.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Beloved, do not be surprised at the fiery ordeal which is taking
+        place to test you [that is, to test the quality of your faith], as though
+        something strange or unusual were happening to you. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "But insofar as you are sharing Christ\u2019s sufferings, keep on
+        rejoicing, so that when His glory [filled with His radiance and splendor]
+        is revealed, you may rejoice with great joy. "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "If you are insulted and reviled for [bearing] the name of Christ,
+        you are blessed [happy, with life-joy and comfort in God\u2019s salvation
+        regardless of your circumstances], because the Spirit of glory and of God
+        is resting on you [and indwelling you\u2014He whom they curse, you glorify]. "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Make sure that none of you suffers as a murderer, or a thief, or
+        any sort of criminal [in response to persecution], or as a troublesome meddler
+        interfering in the affairs of others; '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'but if anyone suffers [ill-treatment] as a Christian [because of
+        his belief], he is not to be ashamed, but is to glorify God [because he is
+        considered worthy to suffer] in this name. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'For it is the time [destined] for judgment to begin with the household
+        of God; and if it begins with us, what will the outcome be for those who
+        do not respect or believe or obey the gospel of God? '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And if it is difficult for the righteous to be saved, what will become
+        of the godless and the sinner? '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: Therefore, those who are ill-treated and suffer in accordance with
+        the will of God must [continue to] do right and commit their souls [for safe-keeping]
+        to the faithful Creator.
+      comments: []
+  - verses:
+    - name: '1: Serve God Willingly'
+      title: Serve God Willingly
+      number: 1
+      content: '  Therefore, I strongly urge the elders among you [pastors, spiritual
+        leaders of the church], as a fellow elder and as an eyewitness [called to
+        testify] of the sufferings of Christ, as well as one who shares in the glory
+        that is to be revealed: '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'shepherd and guide and protect the flock of God among you, exercising
+        oversight not under compulsion, but voluntarily, according to the will of
+        God; and not [motivated] for shameful gain, but with wholehearted enthusiasm; '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'not lording it over those assigned to your care [do not be arrogant
+        or overbearing], but be examples [of Christian living] to the flock [set
+        a pattern of integrity for your congregation]. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "And when the Chief Shepherd (Christ) appears, you will receive the
+        [conqueror\u2019s] unfading crown of glory. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Likewise, you younger men [of lesser rank and experience], be subject
+        to your elders [seek their counsel]; and all of you, clothe yourselves with
+        humility toward one another [tie on the servant\u2019s apron], for God is
+        opposed to the proud [the disdainful, the presumptuous, and He defeats them],
+        but He gives grace to the humble.  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Therefore humble yourselves under the mighty hand of God [set aside
+        self-righteous pride], so that He may exalt you [to a place of honor in His
+        service] at the appropriate time, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'casting all your cares [all your anxieties, all your worries, and
+        all your concerns, once and for all] on Him, for He cares about you [with
+        deepest affection, and watches over you very carefully]. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Be sober [well balanced and self-disciplined], be alert and cautious
+        at all times. That enemy of yours, the devil, prowls around like a roaring
+        lion [fiercely hungry], seeking someone to devour. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "But resist him, be firm in your faith [against his attack\u2014rooted,
+        established, immovable], knowing that the same experiences of suffering are
+        being experienced by your brothers and sisters throughout the world. [You
+        do not suffer alone.] "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'After you have suffered for a little while, the God of all grace
+        [who imparts His blessing and favor], who called you to His own eternal glory
+        in Christ, will Himself complete, confirm, strengthen, and establish you
+        [making you what you ought to be]. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'To Him be dominion (power, authority, sovereignty) forever and ever.
+        Amen.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'By Silvanus, our faithful brother (as I consider him), I have written
+        to you briefly, to counsel and testify that this is the true grace [the undeserved
+        favor] of God. Stand firm in it! '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'She [the church] who is in Babylon, chosen together with you, sends
+        you greetings, and so does my son [in the faith], Mark. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: Greet one another with a kiss of love.  To all of you who are in Christ,
+        may there be peace.
+      comments: []

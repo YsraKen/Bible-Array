@@ -19,77 +19,109 @@ MonoBehaviour:
   description: 
   chapters:
   - verses:
-    - title: Greetings from Paul
+    - name: '1: Greetings from Paul'
+      title: Greetings from Paul
+      number: 1
       content: '  This letter is from Paul, an apostle. I was not appointed by any
         group of people or any human authority, but by Jesus Christ himself and by
         God the Father, who raised Jesus from the dead.  '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'All the brothers and sisters[[COMMENT(0)]] here join me in sending
         this letter to the churches of Galatia.  '
       comments:
       - number: '1:2 '
         content: Greek <b>brothers; </b>also in 1:11.
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'May God the Father and our Lord Jesus Christ[[COMMENT(0)]] give you
         grace and peace. '
       comments:
       - number: '1:3 '
         content: Some manuscripts read <b>God our Father and the Lord Jesus Christ.</b>
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Jesus gave his life for our sins, just as God our Father planned,
         in order to rescue us from this evil world in which we live. '
       comments: []
-    - title: There Is Only One Good News
+    - name: '5: There Is Only One Good News'
+      title: There Is Only One Good News
+      number: 5
       content: 'All glory to God forever and ever! Amen.  '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'I am shocked that you are turning away so soon from God, who called
         you to himself through the loving mercy of Christ.[[COMMENT(0)]] You are
         following a different way that pretends to be the Good News '
       comments:
       - number: '1:6 '
         content: Some manuscripts read <b>through loving mercy.</b>
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'but is not the Good News at all. You are being fooled by those who
         deliberately twist the truth concerning Christ.  '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "Let God\u2019s curse fall on anyone, including us or even an angel
         from heaven, who preaches a different kind of Good News than the one we preached
         to you. "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'I say again what we have said before: If anyone preaches any other
         Good News than the one you welcomed, let that person be cursed.  '
       comments: []
-    - title: "Paul\u2019s Message Comes from Christ"
+    - name: "10: Paul\u2019s Message Comes from Christ"
+      title: "Paul\u2019s Message Comes from Christ"
+      number: 10
       content: "Obviously, I\u2019m not trying to win the approval of people, but
         of God. If pleasing people were my goal, I would not be Christ\u2019s servant.  "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Dear brothers and sisters, I want you to understand that the gospel
         message I preach is not based on mere human reasoning. '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'I received my message from no human source, and no one taught me.
         Instead, I received it by direct revelation from Jesus Christ.[[COMMENT(0)]]  '
       comments:
       - number: '1:12 '
         content: Or <b>by the revelation of Jesus Christ.</b>
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "You know what I was like when I followed the Jewish religion\u2014how
         I violently persecuted God\u2019s church. I did my best to destroy it. "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'I was far ahead of my fellow Jews in my zeal for the traditions of
         my ancestors.  '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'But even before I was born, God chose me and called me by his marvelous
         grace. Then it pleased him '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'to reveal his Son to me[[COMMENT(0)]] so that I would proclaim the
         Good News about Jesus to the Gentiles.When this happened, I did not rush
         out to consult with any human being.[[COMMENT(1)]]  '
@@ -98,54 +130,81 @@ MonoBehaviour:
         content: Or <b>in me.</b>
       - number: '1:16b '
         content: Greek <b>with flesh and blood.</b>
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'Nor did I go up to Jerusalem to consult with those who were apostles
         before I was. Instead, I went away into Arabia, and later I returned to the
         city of Damascus.  '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Then three years later I went to Jerusalem to get to know Peter,[[COMMENT(0)]]
         and I stayed with him for fifteen days. '
       comments:
       - number: '1:18 '
         content: Greek <b>Cephas.</b>
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: "The only other apostle I met at that time was James, the Lord\u2019s
         brother. "
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'I declare before God that what I am writing to you is not a lie.  '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: 'After that visit I went north into the provinces of Syria and Cilicia. '
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: "And still the churches in Christ that are in Judea didn\u2019t know
         me personally. "
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: "All they knew was that people were saying, \u201CThe one who used
         to persecute us is now preaching the very faith he tried to destroy!\u201D "
       comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: And they praised God because of me.
+      comments: []
   - verses:
-    - title: The Apostles Accept Paul
+    - name: '1: The Apostles Accept Paul'
+      title: The Apostles Accept Paul
+      number: 1
       content: '  Then fourteen years later I went back to Jerusalem again, this
         time with Barnabas; and Titus came along, too. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'I went there because God revealed to me that I should go. While I
         was there I met privately with those considered to be leaders of the church
         and shared with them the message I had been preaching to the Gentiles. I
         wanted to make sure that we were in agreement, for fear that all my efforts
         had been wasted and I was running the race for nothing. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'And they supported me and did not even demand that my companion Titus
         be circumcised, though he was a Gentile.[[COMMENT(0)]]  '
       comments:
       - number: '2:3 '
         content: Greek <b>a Greek.</b>
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "Even that question came up only because of some so-called believers
         there\u2014false ones, really[[COMMENT(0)]]\u2014who were secretly brought
         in. They sneaked in to spy on us and take away the freedom we have in Christ
@@ -153,25 +212,35 @@ MonoBehaviour:
       comments:
       - number: '2:4 '
         content: Greek <b>some false brothers.</b>
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'But we refused to give in to them for a single moment. We wanted
         to preserve the truth of the gospel message for you.  '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'And the leaders of the church had nothing to add to what I was preaching.
         (By the way, their reputation as great leaders made no difference to me,
         for God has no favorites.) '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Instead, they saw that God had given me the responsibility of preaching
         the gospel to the Gentiles, just as he had given Peter the responsibility
         of preaching to the Jews. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'For the same God who worked through Peter as the apostle to the Jews
         also worked through me as the apostle to the Gentiles.  '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'In fact, James, Peter,[[COMMENT(0)]] and John, who were known as
         pillars of the church, recognized the gift God had given me, and they accepted
         Barnabas and me as their co-workers. They encouraged us to keep preaching
@@ -179,35 +248,49 @@ MonoBehaviour:
       comments:
       - number: '2:9 '
         content: Greek <b>Cephas; </b>also in 2:11, 14.
-    - title: Paul Confronts Peter
+    - name: '10: Paul Confronts Peter'
+      title: Paul Confronts Peter
+      number: 10
       content: 'Their only suggestion was that we keep on helping the poor, which
         I have always been eager to do.  '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'But when Peter came to Antioch, I had to oppose him to his face,
         for what he did was very wrong. '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "When he first arrived, he ate with the Gentile believers, who were
         not circumcised. But afterward, when some friends of James came, Peter wouldn\u2019t
         eat with the Gentiles anymore. He was afraid of criticism from these people
         who insisted on the necessity of circumcision. "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "As a result, other Jewish believers followed Peter\u2019s hypocrisy,
         and even Barnabas was led astray by their hypocrisy.  "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "When I saw that they were not following the truth of the gospel message,
         I said to Peter in front of all the others, \u201CSince you, a Jew by birth,
         have discarded the Jewish laws and are living like a Gentile, why are you
         now trying to make these Gentiles follow the Jewish traditions?  "
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "\u201CYou and I are Jews by birth, not \u2018sinners\u2019 like the
         Gentiles. "
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "Yet we know that a person is made right with God by faith in Jesus
         Christ, not by obeying the law. And we have believed in Christ Jesus, so
         that we might be made right with God because of our faith in Christ, not
@@ -217,64 +300,94 @@ MonoBehaviour:
       - number: '2:16 '
         content: Some translators hold that the quotation extends through verse 14;
           others through verse 16; and still others through verse 21.
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'But suppose we seek to be made right with God through faith in Christ
         and then we are found guilty because we have abandoned the law. Would that
         mean Christ has led us into sin? Absolutely not! '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Rather, I am a sinner if I rebuild the old system of law I already
         tore down. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: "For when I tried to keep the law, it condemned me. So I died to the
         law\u2014I stopped trying to meet all its requirements\u2014so that I might
         live for God. "
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'My old self has been crucified with Christ.[[COMMENT(0)]] It is no
         longer I who live, but Christ lives in me. So I live in this earthly body
         by trusting in the Son of God, who loved me and gave himself for me. '
       comments:
       - number: '2:20 '
         content: Some English translations put this sentence in verse 19.
+    - name: '21: '
+      title: 
+      number: 21
+      content: I do not treat the grace of God as meaningless. For if keeping the
+        law could make us right with God, then there was no need for Christ to die.
+      comments: []
   - verses:
-    - title: The Law and Faith in Christ
+    - name: '1: The Law and Faith in Christ'
+      title: The Law and Faith in Christ
+      number: 1
       content: "  Oh, foolish Galatians! Who has cast an evil spell on you? For the
         meaning of Jesus Christ\u2019s death was made as clear to you as if you had
         seen a picture of his death on the cross. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Let me ask you this one question: Did you receive the Holy Spirit
         by obeying the law of Moses? Of course not! You received the Spirit because
         you believed the message you heard about Christ. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'How foolish can you be? After starting your new lives in the Spirit,
         why are you now trying to become perfect by your own human effort? '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Have you experienced[[COMMENT(0)]] so much for nothing? Surely it
         was not in vain, was it?  '
       comments:
       - number: '3:4 '
         content: Or <b>Have you suffered.</b>
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'I ask you again, does God give you the Holy Spirit and work miracles
         among you because you obey the law? Of course not! It is because you believe
         the message you heard about Christ.  '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "In the same way, \u201CAbraham believed God, and God counted him
         as righteous because of his faith.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '3:6 '
         content: Gen 15:6.
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'The real children of Abraham, then, are those who put their faith
         in God.  '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "What\u2019s more, the Scriptures looked forward to this time when
         God would make the Gentiles right in his sight because of their faith. God
         proclaimed this good news to Abraham long ago when he said, \u201CAll nations
@@ -282,11 +395,15 @@ MonoBehaviour:
       comments:
       - number: '3:8 '
         content: Gen 12:3; 18:18; 22:18.
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'So all who put their faith in Christ share the same blessing Abraham
         received because of his faith.  '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "But those who depend on the law to make them right with God are under
         his curse, for the Scriptures say, \u201CCursed is everyone who does not
         observe and obey all the commands that are written in God\u2019s Book of
@@ -294,20 +411,26 @@ MonoBehaviour:
       comments:
       - number: '3:10 '
         content: Deut 27:26.
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "So it is clear that no one can be made right with God by trying to
         keep the law. For the Scriptures say, \u201CIt is through faith that a righteous
         person has life.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '3:11 '
         content: Hab 2:4.
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "This way of faith is very different from the way of law, which says,
         \u201CIt is through obeying the law that a person has life.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '3:12 '
         content: Lev 18:5.
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "But Christ has rescued us from the curse pronounced by the law. When
         he was hung on the cross, he took upon himself the curse for our wrongdoing.
         For it is written in the Scriptures, \u201CCursed is everyone who is hung
@@ -315,21 +438,27 @@ MonoBehaviour:
       comments:
       - number: '3:13 '
         content: Deut 21:23 (Greek version).
-    - title: "The Law and God\u2019s Promise"
+    - name: "14: The Law and God\u2019s Promise"
+      title: "The Law and God\u2019s Promise"
+      number: 14
       content: 'Through Christ Jesus, God has blessed the Gentiles with the same
         blessing he promised to Abraham, so that we who are believers might receive
         the promised[[COMMENT(0)]] Holy Spirit through faith.  '
       comments:
       - number: '3:14 '
         content: Some manuscripts read <b>the blessing of the.</b>
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "Dear brothers and sisters,[[COMMENT(0)]] here\u2019s an example from
         everyday life. Just as no one can set aside or amend an irrevocable agreement,
         so it is in this case. "
       comments:
       - number: '3:15 '
         content: Greek <b>Brothers.</b>
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "God gave the promises to Abraham and his child.[[COMMENT(0)]] And
         notice that the Scripture doesn\u2019t say \u201Cto his children,[[COMMENT(1)]]\u201D
         as if it meant many descendants. Rather, it says \u201Cto his child\u201D\u2014and
@@ -340,97 +469,142 @@ MonoBehaviour:
           13:15.
       - number: '3:16b '
         content: Greek <b>seeds.</b>
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'This is what I am trying to say: The agreement God made with Abraham
         could not be canceled 430 years later when God gave the law to Moses. God
         would be breaking his promise. '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: "For if the inheritance could be received by keeping the law, then
         it would not be the result of accepting God\u2019s promise. But God graciously
         gave it to Abraham as a promise.  "
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'Why, then, was the law given? It was given alongside the promise
         to show people their sins. But the law was designed to last only until the
         coming of the child who was promised. God gave his law through angels to
         Moses, who was the mediator between God and the people. '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'Now a mediator is helpful if more than one party must reach an agreement.
         But God, who is one, did not use a mediator when he gave his promise to Abraham.  '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: "Is there a conflict, then, between God\u2019s law and God\u2019s
         promises?[[COMMENT(0)]] Absolutely not! If the law could give us new life,
         we could be made right with God by obeying it. "
       comments:
       - number: '3:21 '
         content: Some manuscripts read <b>and the promises?</b>
-    - title: "God\u2019s Children through Faith"
+    - name: "22: God\u2019s Children through Faith"
+      title: "God\u2019s Children through Faith"
+      number: 22
       content: "But the Scriptures declare that we are all prisoners of sin, so we
         receive God\u2019s promise of freedom only by believing in Jesus Christ.  "
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: 'Before the way of faith in Christ was available to us, we were placed
         under guard by the law. We were kept in protective custody, so to speak,
         until the way of faith was revealed.  '
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: 'Let me put it another way. The law was our guardian until Christ
         came; it protected us until we could be made right with God through faith. '
       comments: []
-    - title: 
+    - name: '25: '
+      title: 
+      number: 25
       content: 'And now that the way of faith has come, we no longer need the law
         as our guardian.  '
       comments: []
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: 'For you are all children[[COMMENT(0)]] of God through faith in Christ
         Jesus. '
       comments:
       - number: '3:26 '
         content: Greek <b>sons.</b>
-    - title: 
+    - name: '27: '
+      title: 
+      number: 27
       content: 'And all who have been united with Christ in baptism have put on Christ,
         like putting on new clothes.[[COMMENT(0)]]  '
       comments:
       - number: '3:27 '
         content: Greek <b>have put on Christ.</b>
-    - title: 
+    - name: '28: '
+      title: 
+      number: 28
       content: 'There is no longer Jew or Gentile,[[COMMENT(0)]] slave or free, male
         and female. For you are all one in Christ Jesus. '
       comments:
       - number: '3:28 '
         content: Greek <b>Jew or Greek.</b>
+    - name: '29: '
+      title: 
+      number: 29
+      content: "And now that you belong to Christ, you are the true children[[COMMENT(0)]]
+        of Abraham. You are his heirs, and God\u2019s promise to Abraham belongs
+        to you."
+      comments:
+      - number: '3:29 '
+        content: Greek <b>seed.</b>
   - verses:
-    - title: 
+    - name: '1: '
+      title: 
+      number: 1
       content: '  Think of it this way. If a father dies and leaves an inheritance
         for his young children, those children are not much better off than slaves
         until they grow up, even though they actually own everything their father
         had. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'They have to obey their guardians until they reach whatever age their
         father set. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "And that\u2019s the way it was with us before Christ came. We were
         like children; we were slaves to the basic spiritual principles[[COMMENT(0)]]
         of this world.  "
       comments:
       - number: '4:3 '
         content: Or <b>powers; </b>also in 4:9.
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'But when the right time came, God sent his Son, born of a woman,
         subject to the law. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'God sent him to buy freedom for us who were slaves to the law, so
         that he could adopt us as his very own children.[[COMMENT(0)]]  '
       comments:
       - number: '4:5 '
         content: Greek <b>sons; </b>also in 4:6.
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "And because we[[COMMENT(0)]] are his children, God has sent the Spirit
         of his Son into our hearts, prompting us to call out, \u201CAbba, Father.\u201D[[COMMENT(1)]]  "
       comments:
@@ -438,91 +612,129 @@ MonoBehaviour:
         content: Greek <b>you.</b>
       - number: '4:6b '
         content: "<b>Abba </b>is an Aramaic term for \u201Cfather.\u201D"
-    - title: "Paul\u2019s Concern for the Galatians"
+    - name: "7: Paul\u2019s Concern for the Galatians"
+      title: "Paul\u2019s Concern for the Galatians"
+      number: 7
       content: "Now you are no longer a slave but God\u2019s own child.[[COMMENT(0)]]
         And since you are his child, God has made you his heir.  "
       comments:
       - number: '4:7 '
         content: Greek <b>son; </b>also in 4:7b.
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Before you Gentiles knew God, you were slaves to so-called gods that
         do not even exist. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'So now that you know God (or should I say, now that God knows you),
         why do you want to go back again and become slaves once more to the weak
         and useless spiritual principles of this world? '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'You are trying to earn favor with God by observing certain days or
         months or seasons or years. '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'I fear for you. Perhaps all my hard work with you was for nothing. '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "Dear brothers and sisters,[[COMMENT(0)]] I plead with you to live
         as I do in freedom from these things, for I have become like you Gentiles\u2014free
         from those laws.You did not mistreat me when I first preached to you. "
       comments:
       - number: '4:12 '
         content: Greek <b>brothers; </b>also in 4:28, 31.
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Surely you remember that I was sick when I first brought you the
         Good News. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'But even though my condition tempted you to reject me, you did not
         despise me or turn me away. No, you took me in and cared for me as though
         I were an angel from God or even Christ Jesus himself. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Where is that joyful and grateful spirit you felt then? I am sure
         you would have taken out your own eyes and given them to me if it had been
         possible. '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'Have I now become your enemy because I am telling you the truth?  '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'Those false teachers are so eager to win your favor, but their intentions
         are not good. They are trying to shut you off from me so that you will pay
         attention only to them. '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: "If someone is eager to do good things for you, that\u2019s all right;
         but let them do it all the time, not just when I\u2019m with you.  "
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: "Oh, my dear children! I feel as if I\u2019m going through labor pains
         for you again, and they will continue until Christ is fully developed in
         your lives. "
       comments: []
-    - title: "Abraham\u2019s Two Children"
+    - name: "20: Abraham\u2019s Two Children"
+      title: "Abraham\u2019s Two Children"
+      number: 20
       content: "I wish I were with you right now so I could change my tone. But at
         this distance I don\u2019t know how else to help you.  "
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: 'Tell me, you who want to live under the law, do you know what the
         law actually says? '
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'The Scriptures say that Abraham had two sons, one from his slave
         wife and one from his freeborn wife.[[COMMENT(0)]]  '
       comments:
       - number: '4:22 '
         content: See Gen 16:15; 21:2-3.
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: "The son of the slave wife was born in a human attempt to bring about
         the fulfillment of God\u2019s promise. But the son of the freeborn wife was
         born as God\u2019s own fulfillment of his promise.  "
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: "These two women serve as an illustration of God\u2019s two covenants.
         The first woman, Hagar, represents Mount Sinai where people received the
         law that enslaved them. "
       comments: []
-    - title: 
+    - name: '25: '
+      title: 
+      number: 25
       content: 'And now Jerusalem is just like Mount Sinai in Arabia,[[COMMENT(0)]]
         because she and her children live in slavery to the law. '
       comments:
@@ -530,11 +742,15 @@ MonoBehaviour:
         content: Greek <b>And Hagar, which is Mount Sinai in Arabia, is now like
           Jerusalem; </b>other manuscripts read <b>And Mount Sinai in Arabia is now
           like Jerusalem.</b>
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: 'But the other woman, Sarah, represents the heavenly Jerusalem. She
         is the free woman, and she is our mother. '
       comments: []
-    - title: 
+    - name: '27: '
+      title: 
+      number: 27
       content: "As Isaiah said,\u201CRejoice, O childless woman,you who have never
         given birth!Break into a joyful shout,you who have never been in labor!For
         the desolate woman now has more childrenthan the woman who lives with her
@@ -542,67 +758,101 @@ MonoBehaviour:
       comments:
       - number: '4:27 '
         content: Isa 54:1.
-    - title: 
+    - name: '28: '
+      title: 
+      number: 28
       content: 'And you, dear brothers and sisters, are children of the promise,
         just like Isaac. '
       comments: []
-    - title: 
+    - name: '29: '
+      title: 
+      number: 29
       content: 'But you are now being persecuted by those who want you to keep the
         law, just as Ishmael, the child born by human effort, persecuted Isaac, the
         child born by the power of the Spirit.  '
       comments: []
-    - title: 
+    - name: '30: '
+      title: 
+      number: 30
       content: "But what do the Scriptures say about that? \u201CGet rid of the slave
         and her son, for the son of the slave woman will not share the inheritance
         with the free woman\u2019s son.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '4:30 '
         content: Gen 21:10.
+    - name: '31: '
+      title: 
+      number: 31
+      content: So, dear brothers and sisters, we are not children of the slave woman;
+        we are children of the free woman.
+      comments: []
   - verses:
-    - title: Freedom in Christ
+    - name: '1: Freedom in Christ'
+      title: Freedom in Christ
+      number: 1
       content: "  So Christ has truly set us free. Now make sure that you stay free,
         and don\u2019t get tied up again in slavery to the law.  "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Listen! I, Paul, tell you this: If you are counting on circumcision
         to make you right with God, then Christ will be of no benefit to you. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "I\u2019ll say it again. If you are trying to find favor with God
         by being circumcised, you must obey every regulation in the whole law of
         Moses. "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "For if you are trying to make yourselves right with God by keeping
         the law, you have been cut off from Christ! You have fallen away from God\u2019s
         grace.  "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'But we who live by the Spirit eagerly wait to receive by faith the
         righteousness God has promised to us. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'For when we place our faith in Christ Jesus, there is no benefit
         in being circumcised or being uncircumcised. What is important is faith expressing
         itself in love.  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'You were running the race so well. Who has held you back from following
         the truth? '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "It certainly isn\u2019t God, for he is the one who called you to
         freedom. "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'This false teaching is like a little yeast that spreads through the
         whole batch of dough! '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'I am trusting the Lord to keep you from believing false teachings.
         God will judge that person, whoever he is, who has been confusing you.  '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "Dear brothers and sisters,[[COMMENT(0)]] if I were still preaching
         that you must be circumcised\u2014as some say I do\u2014why am I still being
         persecuted? If I were no longer preaching salvation through the cross of
@@ -610,72 +860,108 @@ MonoBehaviour:
       comments:
       - number: '5:11 '
         content: Greek <b>Brothers; </b>similarly in 5:13.
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'I just wish that those troublemakers who want to mutilate you by
         circumcision would mutilate themselves.[[COMMENT(0)]]  '
       comments:
       - number: '5:12 '
         content: Or <b>castrate themselves, </b>or <b>cut themselves off from you;
           </b>Greek reads <b>cut themselves off.</b>
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "For you have been called to live in freedom, my brothers and sisters.
         But don\u2019t use your freedom to satisfy your sinful nature. Instead, use
         your freedom to serve one another in love. "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "For the whole law can be summed up in this one command: \u201CLove
         your neighbor as yourself.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '5:14 '
         content: Lev 19:18.
-    - title: "Living by the Spirit\u2019s Power"
+    - name: "15: Living by the Spirit\u2019s Power"
+      title: "Living by the Spirit\u2019s Power"
+      number: 15
       content: 'But if you are always biting and devouring one another, watch out!
         Beware of destroying one another.  '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "So I say, let the Holy Spirit guide your lives. Then you won\u2019t
         be doing what your sinful nature craves. "
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'The sinful nature wants to do evil, which is just the opposite of
         what the Spirit wants. And the Spirit gives us desires that are the opposite
         of what the sinful nature desires. These two forces are constantly fighting
         each other, so you are not free to carry out your good intentions. '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'But when you are directed by the Spirit, you are not under obligation
         to the law of Moses.  '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'When you follow the desires of your sinful nature, the results are
         very clear: sexual immorality, impurity, lustful pleasures, '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'idolatry, sorcery, hostility, quarreling, jealousy, outbursts of
         anger, selfish ambition, dissension, division, '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: 'envy, drunkenness, wild parties, and other sins like these. Let me
         tell you again, as I have before, that anyone living that sort of life will
         not inherit the Kingdom of God.  '
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'But the Holy Spirit produces this kind of fruit in our lives: love,
         joy, peace, patience, kindness, goodness, faithfulness, '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: 'gentleness, and self-control. There is no law against these things!  '
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: 'Those who belong to Christ Jesus have nailed the passions and desires
         of their sinful nature to his cross and crucified them there. '
       comments: []
-    - title: 
+    - name: '25: '
+      title: 
+      number: 25
       content: "Since we are living by the Spirit, let us follow the Spirit\u2019s
         leading in every part of our lives. "
       comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: Let us not become conceited, or provoke one another, or be jealous
+        of one another.
+      comments: []
   - verses:
-    - title: We Harvest What We Plant
+    - name: '1: We Harvest What We Plant'
+      title: We Harvest What We Plant
+      number: 1
       content: '  Dear brothers and sisters, if another believer[[COMMENT(0)]] is
         overcome by some sin, you who are godly[[COMMENT(1)]] should gently and humbly
         help that person back onto the right path. And be careful not to fall into
@@ -685,75 +971,115 @@ MonoBehaviour:
         content: Greek <b>Brothers, if a man.</b>
       - number: '6:1b '
         content: Greek <b>spiritual.</b>
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "Share each other\u2019s burdens, and in this way obey the law of
         Christ. "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'If you think you are too important to help someone, you are only
         fooling yourself. You are not that important.  '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "Pay careful attention to your own work, for then you will get the
         satisfaction of a job well done, and you won\u2019t need to compare yourself
         to anyone else. "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'For we are each responsible for our own conduct.  '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Those who are taught the word of God should provide for their teachers,
         sharing all good things with them.  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "Don\u2019t be misled\u2014you cannot mock the justice of God. You
         will always harvest what you plant. "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Those who live only to satisfy their own sinful nature will harvest
         decay and death from that sinful nature. But those who live to please the
         Spirit will harvest everlasting life from the Spirit. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "So let\u2019s not get tired of doing what is good. At just the right
         time we will reap a harvest of blessing if we don\u2019t give up. "
       comments: []
-    - title: "Paul\u2019s Final Advice"
+    - name: "10: Paul\u2019s Final Advice"
+      title: "Paul\u2019s Final Advice"
+      number: 10
       content: "Therefore, whenever we have the opportunity, we should do good to
         everyone\u2014especially to those in the family of faith.  "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: '  Notice what large letters I use as I write these closing words
         in my own handwriting.  '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "Those who are trying to force you to be circumcised want to look
         good to others. They don\u2019t want to be persecuted for teaching that the
         cross of Christ alone can save. "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "And even those who advocate circumcision don\u2019t keep the whole
         law themselves. They only want you to be circumcised so they can boast about
         it and claim you as their disciples.  "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "As for me, may I never boast about anything except the cross of our
         Lord Jesus Christ. Because of that cross,[[COMMENT(0)]] my interest in this
         world has been crucified, and the world\u2019s interest in me has also died. "
       comments:
       - number: '6:14 '
         content: Or <b>Because of him.</b>
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "It doesn\u2019t matter whether we have been circumcised or not. What
         counts is whether we have been transformed into a new creation. "
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "May God\u2019s peace and mercy be upon all who live by this principle;
         they are the new people of God.[[COMMENT(0)]]  "
       comments:
       - number: '6:16 '
         content: Greek <b>this principle, and upon the Israel of God.</b>
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: "From now on, don\u2019t let anyone trouble me with these things.
         For I bear on my body the scars that show I belong to Jesus.  "
       comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: Dear brothers and sisters,[[COMMENT(0)]] may the grace of our Lord
+        Jesus Christ be with your spirit. Amen.
+      comments:
+      - number: '6:18 '
+        content: Greek <b>Brothers.</b>

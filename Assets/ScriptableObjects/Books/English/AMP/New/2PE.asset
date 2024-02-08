@@ -1,0 +1,450 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: 2PE
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 2 Peter
+  fancyName: 
+  nickname: 2pe
+  version: {fileID: 11400000, guid: 255596ce6b91ac640b392e20dd4f8a9e, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Growth in Christian Virtue'
+      title: Growth in Christian Virtue
+      number: 1
+      content: "    Simon Peter, a bond-servant and apostle (special messenger, personally
+        chosen representative) of Jesus Christ,  To those who have received and possess
+        [by God\u2019s will] a precious faith of the same kind as ours, by the righteousness
+        of our God and Savior, Jesus Christ: "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Grace and peace [that special sense of spiritual well-being] be multiplied
+        to you in the [true, intimate] knowledge of God and of Jesus our Lord. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For His divine power has bestowed on us [absolutely] everything necessary
+        for [a dynamic spiritual] life and godliness, through true and personal knowledge
+        of Him who called us by His own glory and excellence. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For by these He has bestowed on us His precious and magnificent promises
+        [of inexpressible value], so that by them you may escape from the immoral
+        freedom that is in the world because of disreputable desire, and become sharers
+        of the divine nature. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For this very reason, applying your diligence [to the divine promises,
+        make every effort] in [exercising] your faith to, develop moral excellence,
+        and in moral excellence, knowledge (insight, understanding), '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'and in your knowledge, self-control, and in your self-control, steadfastness,
+        and in your steadfastness, godliness, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'and in your godliness, brotherly affection, and in your brotherly
+        affection, [develop Christian] love [that is, learn to unselfishly seek the
+        best for others and to do things for their benefit]. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For as these qualities are yours and are increasing [in you as you
+        grow toward spiritual maturity], they will keep you from being useless and
+        unproductive in regard to the true knowledge and greater understanding of
+        our Lord Jesus Christ. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "For whoever lacks these qualities is blind\u2014shortsighted [closing
+        his spiritual eyes to the truth], having become oblivious to the fact that
+        he was cleansed from his old sins. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Therefore, believers, be all the more diligent to make certain about
+        His calling and choosing you [be sure that your behavior reflects and confirms
+        your relationship with God]; for by doing these things [actively developing
+        these virtues], you will never stumble [in your spiritual growth and will
+        live a life that leads others away from sin]; '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'for in this way entry into the eternal kingdom of our Lord and Savior
+        Jesus Christ will be abundantly provided to you.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Therefore, I will always be ready to remind you of these things,
+        even though you already know them and are established in the truth which
+        is held firmly in your grasp. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'I think it right, as long as I am in this earthly tent, to inspire
+        you by reminding you, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'knowing that the laying aside of this earthly tent of mine is imminent,
+        as our Lord Jesus Christ has made clear to me. '
+      comments: []
+    - name: '15: Eyewitnesses'
+      title: Eyewitnesses
+      number: 15
+      content: 'Moreover, I will diligently endeavor [to see to it] that even after
+        my departure you will be able, at all times, to call these things to mind.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For we did not follow cleverly devised stories or myths when we made
+        known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses
+        of His majesty [His grandeur, His authority, His sovereignty]. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "For when He was invested with honor and [the radiance of the Shekinah]
+        glory from God the Father, such a voice as this came to Him from the [splendid]
+        Majestic Glory [in the bright cloud that overshadowed Him, saying], \u201CThis
+        is My Son, My Beloved Son in whom I am well-pleased and delighted\u201D\u2014 "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'and we [actually] heard this voice made from heaven when we were
+        together with Him on the holy mountain.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'So we have the prophetic word made more certain. You do well to pay
+        [close] attention to it as to a lamp shining in a dark place, until the day
+        dawns and light breaks through the gloom and the morning star arises in your
+        hearts. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "But understand this first of all, that no prophecy of Scripture is
+        a matter of or comes from one\u2019s own [personal or special] interpretation, "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: for no prophecy was ever made by an act of human will, but men moved
+        by the Holy Spirit spoke from God.
+      comments: []
+  - verses:
+    - name: '1: The Rise of False Prophets'
+      title: The Rise of False Prophets
+      number: 1
+      content: '  But [in those days] false prophets arose among the people, just
+        as there will be false teachers among you, who will subtly introduce destructive
+        heresies, even denying the Master who bought them, bringing swift destruction
+        on themselves. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Many will follow their shameful ways, and because of them the way
+        of truth will be maligned. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And in their greed they will exploit you with false arguments and
+        twisted doctrine. Their sentence [of condemnation which God has decreed]
+        from a time long ago is not idle [but is still in force], and their destruction
+        and deepening misery is not asleep [but is on its way].  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  For if God did not [even] spare angels that sinned, but threw them
+        into hell and sent them to pits of gloom to be kept [there] for judgment; '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'and if He did not spare the ancient world, but protected Noah, a
+        preacher of righteousness, with seven others, when He brought [the judgment
+        of] a flood upon the world of the ungodly; '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'and if He condemned the cities of Sodom and Gomorrah to destruction
+        by reducing them to ashes, having made them an example to those who would
+        live ungodly lives thereafter; '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'and if He rescued righteous Lot, who was tormented by the immoral
+        conduct of unprincipled and ungodly men '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '(for that just man, while living among them, felt his righteous soul
+        tormented day after day by what he saw and heard of their lawless acts), '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'then [in light of the fact that all this is true, be sure that] the
+        Lord knows how to rescue the godly from trial, and how to keep the unrighteous
+        under punishment until the day of judgment, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'and especially those who indulge in the corrupt passions of the sin
+        nature, and despise authority.  Presumptuous and reckless, self-willed and
+        arrogant [creatures, despising the majesty of the Lord], they do not tremble
+        when they revile angelic majesties, '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'whereas even angels who are superior in might and power do not bring
+        a reviling (defaming) accusation against them before the Lord. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'But these [false teachers], like unreasoning animals, [mere] creatures
+        of instinct, born to be captured and destroyed, reviling things they do not
+        understand, will also perish in their own corruption [in their destroying
+        they will be destroyed], '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'suffering wrong [destined for punishment] as the wages of doing wrong.
+        They count it a delight to revel in the daytime [living luxuriously]. They
+        are stains and blemishes [on mankind], reveling in their deceptions even
+        as they feast with you. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'They have eyes full of adultery, constantly looking for sin, enticing
+        and luring away unstable souls. Having hearts trained in greed, [they are]
+        children of a curse. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Abandoning the straight road [that is, the right way to live], they
+        have gone astray; they have followed the way of [the false teacher] Balaam
+        the son of Beor, who loved the reward of wickedness; '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "but he was rebuked for his own transgression: a mute donkey spoke
+        with a man\u2019s voice and restrained the prophet\u2019s madness.  "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'These [false teachers] are springs without water and mists driven
+        by a tempest, for whom is reserved the gloom of black darkness. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'For uttering arrogant words of vanity [pompous words disguised to
+        sound scholarly or profound, but meaning nothing and containing no spiritual
+        truth], they beguile and lure using lustful desires, by sensuality, those
+        who barely escape from the ones who live in error. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "They promise them liberty, when they themselves are the slaves of
+        depravity\u2014for by whatever anyone is defeated and overcome, to that [person,
+        thing, philosophy, or concept] he is continually enslaved. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'For if, after they have escaped the pollutions of the world by [personal]
+        knowledge of our Lord and Savior Jesus Christ, they are again entangled in
+        them and are overcome, their last condition has become worse for them than
+        the first. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'For it would have been better for them not to have [personally] known
+        the way of righteousness, than to have known it and then to have turned back
+        from the holy commandment [verbally] handed on to them. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "The thing spoken of in the true proverb has happened to them, \u201CThe
+        dog returns to his own vomit,\u201D and, \u201CA sow is washed only to wallow
+        [again] in the mire.\u201D"
+      comments: []
+  - verses:
+    - name: '1: Purpose of This Letter'
+      title: Purpose of This Letter
+      number: 1
+      content: '  Beloved, I am now writing you this second letter. In this [as in
+        the first one], I am stirring up your untainted mind to remind you, '
+      comments: []
+    - name: '2: The Coming Day of the Lord'
+      title: The Coming Day of the Lord
+      number: 2
+      content: 'that you should remember the words spoken in the past [about the
+        future] by the holy prophets and the commandment of the Lord and Savior given
+        by your apostles [His personally chosen representatives].  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'First of all, know [without any doubt] that mockers will come in
+        the last days with their mocking, following after their own human desires '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "and saying, \u201CWhere is the promise of His coming [what has become
+        of it]? For ever since the fathers fell asleep [in death], all things have
+        continued [exactly] as they did from the beginning of creation.\u201D "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For they willingly forget [the fact] that the heavens existed long
+        ago by the word of God, and the earth was formed out of water and by water, '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'through which the world at that time was destroyed by being flooded
+        with water. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'But by His word the present heavens and earth are being reserved
+        for fire, being kept for the day of judgment and destruction of the ungodly
+        people.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Nevertheless, do not let this one fact escape your notice, beloved,
+        that with the Lord one day is like a thousand years, and a thousand years
+        is like one day. '
+      comments: []
+    - name: '9: A New Heaven and Earth'
+      title: A New Heaven and Earth
+      number: 9
+      content: 'The Lord does not delay [as though He were unable to act] and is
+        not slow about His promise, as some count slowness, but is [extraordinarily]
+        patient toward you, not wishing for any to perish but for all to come to
+        repentance.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'But the day of the Lord will come like a thief, and then the heavens
+        will vanish with a [mighty and thunderous] roar, and the [material] elements
+        will be destroyed with intense heat, and the earth and the works that are
+        on it will be burned up.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Since all these things are to be destroyed in this way, what kind
+        of people ought you to be [in the meantime] in holy behavior [that is, in
+        a pattern of daily life that sets you apart as a believer] and in godliness
+        [displaying profound reverence toward our awesome God], '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '[while you earnestly] look for and await the coming of the day of
+        God. For on this day the heavens will be destroyed by burning, and the [material]
+        elements will melt with intense heat! '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'But in accordance with His promise we expectantly await new heavens
+        and a new earth, in which righteousness dwells.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'So, beloved, since you are looking forward to these things, be diligent
+        and make every effort to be found by Him [at His return] spotless and blameless,
+        in peace [that is, inwardly calm with a sense of spiritual well-being and
+        confidence, having lived a life of obedience to Him]. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And consider the patience of our Lord [His delay in judging and avenging
+        wrongs] as salvation [that is, allowing time for more to be saved]; just
+        as our beloved brother Paul also wrote to you according to the wisdom given
+        to him [by God], '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'speaking about these things as he does in all of his letters. In
+        which there are some things that are difficult to understand, which the untaught
+        and unstable [who have fallen into error] twist and misinterpret, just as
+        they do the rest of the Scriptures, to their own destruction. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Therefore, [let me warn you] beloved, knowing these things beforehand,
+        be on your guard so that you are not carried away by the error of unprincipled
+        men [who distort doctrine] and fall from your own steadfastness [of mind,
+        knowledge, truth, and faith], '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: but grow [spiritually mature] in the grace and knowledge of our Lord
+        and Savior Jesus Christ. To Him be glory (honor, majesty, splendor), both
+        now and to the day of eternity. Amen.
+      comments: []

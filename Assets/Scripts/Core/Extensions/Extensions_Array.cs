@@ -30,6 +30,8 @@ public static partial class Extensions
 		else return default;
 	}
 	
+	public static T GetLastElement<T>(this T[] array) => array.IsNullOrEmpty()? default(T): array[array.Length - 1];
+	
 	/// <summary>
 	/// Gets the element of the specified type, if it exists.
 	/// </summary>
@@ -95,4 +97,26 @@ public static partial class Extensions
 	}
 	
 	public static bool IsInsideRange<T>(this T[] array, int index) => index > -1 && index < array.Length();
+	
+	public static bool TryFind<T>(this T[] array, Predicate<T> predicate, out T element)
+	{
+		int index = Array.FindIndex(array, predicate);
+		bool found = index != -1;
+		
+		element = found? array[index]: default(T);
+		
+		return found;
+	}
+	
+	public static bool TryFindIndex<T>(this T[] array, Predicate<T> predicate, out int index)
+	{
+		index = Array.FindIndex(array, predicate);
+		return index != -1;
+	}
+	
+	public static bool Contains<T>(this T[] array, T element, out int index)
+	{
+		index = Array.FindIndex(array, e => EqualityComparer<T>.Default.Equals(e, element));
+		return index != -1;
+	}
 }

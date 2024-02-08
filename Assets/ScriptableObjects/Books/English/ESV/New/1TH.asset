@@ -1,0 +1,598 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: 1TH
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 1 Thessalonians
+  fancyName: 
+  nickname: 1th
+  version: {fileID: 11400000, guid: dd64eb842f3dd694bae8487ce6510215, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: "1: GreetingThe Thessalonians\u2019 Faith and Example"
+      title: "GreetingThe Thessalonians\u2019 Faith and Example"
+      number: 1
+      content: '  Paul, Silvanus, and Timothy,To the church of the Thessalonians
+        in God the Father and the Lord Jesus Christ:  Grace to you and peace.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  We give thanks to God always for all of you, constantly[[COMMENT(0)]] 
+        mentioning you in our prayers, '
+      comments:
+      - number: '1:2 '
+        content: 'Or '
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'remembering before our God and Father your work of faith and labor
+        of love and steadfastness of hope in our Lord Jesus Christ. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For we know, brothers[[COMMENT(0)]] loved by God, that he has chosen
+        you, '
+      comments:
+      - number: '1:4 '
+        content: "Or . In New Testament usage, depending on the context, the plural
+          Greek word (translated \u201Cbrothers\u201D) may refer either to or to "
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'because our gospel came to you not only in word, but also in power
+        and in the Holy Spirit and with full conviction. You know what kind of men
+        we proved to be among you for your sake. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And you became imitators of us and of the Lord, for you received
+        the word in much affliction, with the joy of the Holy Spirit, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'so that you became an example to all the believers in Macedonia and
+        in Achaia. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For not only has the word of the Lord sounded forth from you in Macedonia
+        and Achaia, but your faith in God has gone forth everywhere, so that we need
+        not say anything. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'For they themselves report concerning us the kind of reception we
+        had among you, and how you turned to God from idols to serve the living and
+        true God, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: and to wait for his Son from heaven, whom he raised from the dead,
+        Jesus who delivers us from the wrath to come.
+      comments: []
+  - verses:
+    - name: "1: Paul\u2019s Ministry to the Thessalonians"
+      title: "Paul\u2019s Ministry to the Thessalonians"
+      number: 1
+      content: '  For you yourselves know, brothers,[[COMMENT(0)]] that our coming
+        to you was not in vain. '
+      comments:
+      - number: '2:1 '
+        content: Or ; also verses 9, 14, 17
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'But though we had already suffered and been shamefully treated at
+        Philippi, as you know, we had boldness in our God to declare to you the gospel
+        of God in the midst of much conflict. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For our appeal does not spring from error or impurity or any attempt
+        to deceive, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'but just as we have been approved by God to be entrusted with the
+        gospel, so we speak, not to please man, but to please God who tests our hearts. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "For we never came with words of flattery,[[COMMENT(0)]] as you know,
+        nor with a pretext for greed\u2014God is witness. "
+      comments:
+      - number: '2:5 '
+        content: 'Or '
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Nor did we seek glory from people, whether from you or from others,
+        though we could have made demands as apostles of Christ. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'But we were gentle[[COMMENT(0)]] among you, like a nursing mother
+        taking care of her own children. '
+      comments:
+      - number: '2:7 '
+        content: 'Some manuscripts '
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'So, being affectionately desirous of you, we were ready to share
+        with you not only the gospel of God but also our own selves, because you
+        had become very dear to us.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'For you remember, brothers, our labor and toil: we worked night and
+        day, that we might not be a burden to any of you, while we proclaimed to
+        you the gospel of God. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'You are witnesses, and God also, how holy and righteous and blameless
+        was our conduct toward you believers. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'For you know how, like a father with his children, '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'we exhorted each one of you and encouraged you and charged you to
+        walk in a manner worthy of God, who calls you into his own kingdom and glory.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And we also thank God constantly[[COMMENT(0)]] for this, that when
+        you received the word of God, which you heard from us, you accepted it not
+        as the word of men but as what it really is, the word of God, which is at
+        work in you believers. '
+      comments:
+      - number: '2:13 '
+        content: Or The Greek word can refer to both men and women
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For you, brothers, became imitators of the churches of God in Christ
+        Jesus that are in Judea. For you suffered the same things from your own countrymen
+        as they did from the Jews,[[COMMENT(0)]]  '
+      comments:
+      - number: '2:14 '
+        content: The Greek word can refer to Jewish religious leaders, and others
+          under their influence, who opposed the Christian faith in that time
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'who killed both the Lord Jesus and the prophets, and drove us out,
+        and displease God and oppose all mankind '
+      comments: []
+    - name: "16: Paul\u2019s Longing to See Them Again"
+      title: "Paul\u2019s Longing to See Them Again"
+      number: 16
+      content: "by hindering us from speaking to the Gentiles that they might be
+        saved\u2014so as always to fill up the measure of their sins. But wrath has
+        come upon them at last![[COMMENT(0)]]  "
+      comments:
+      - number: '2:16 '
+        content: 'Or , or '
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'But since we were torn away from you, brothers, for a short time,
+        in person not in heart, we endeavored the more eagerly and with great desire
+        to see you face to face, '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "because we wanted to come to you\u2014I, Paul, again and again\u2014but
+        Satan hindered us. "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'For what is our hope or joy or crown of boasting before our Lord
+        Jesus at his coming? Is it not you? '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: For you are our glory and joy.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Therefore when we could bear it no longer, we were willing to be
+        left behind at Athens alone, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "and we sent Timothy, our brother and God\u2019s coworker[[COMMENT(0)]]
+        in the gospel of Christ, to establish and exhort you in your faith, "
+      comments:
+      - number: '3:2 '
+        content: 'Some manuscripts '
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'that no one be moved by these afflictions. For you yourselves know
+        that we are destined for this. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For when we were with you, we kept telling you beforehand that we
+        were to suffer affliction, just as it has come to pass, and just as you know. '
+      comments: []
+    - name: "5: Timothy\u2019s Encouraging Report"
+      title: "Timothy\u2019s Encouraging Report"
+      number: 5
+      content: 'For this reason, when I could bear it no longer, I sent to learn
+        about your faith, for fear that somehow the tempter had tempted you and our
+        labor would be in vain.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "But now that Timothy has come to us from you, and has brought us
+        the good news of your faith and love and reported that you always remember
+        us kindly and long to see us, as we long to see you\u2014 "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'for this reason, brothers,[[COMMENT(0)]] in all our distress and
+        affliction we have been comforted about you through your faith. '
+      comments:
+      - number: '3:7 '
+        content: 'Or '
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For now we live, if you are standing fast in the Lord. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'For what thanksgiving can we return to God for you, for all the joy
+        that we feel for your sake before our God, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'as we pray most earnestly night and day that we may see you face
+        to face and supply what is lacking in your faith?  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Now may our God and Father himself, and our Lord Jesus, direct our
+        way to you, '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'and may the Lord make you increase and abound in love for one another
+        and for all, as we do for you, '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: so that he may establish your hearts blameless in holiness before
+        our God and Father, at the coming of our Lord Jesus with all his saints.
+      comments: []
+  - verses:
+    - name: '1: A Life Pleasing to God'
+      title: A Life Pleasing to God
+      number: 1
+      content: '  Finally, then, brothers,[[COMMENT(0)]] we ask and urge you in the
+        Lord Jesus, that as you received from us how you ought to walk and to please
+        God, just as you are doing, that you do so more and more. '
+      comments:
+      - number: '4:1 '
+        content: Or ; also verses 10, 13
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For you know what instructions we gave you through the Lord Jesus. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For this is the will of God, your sanctification:[[COMMENT(0)]] 
+        that you abstain from sexual immorality; '
+      comments:
+      - number: '4:3 '
+        content: 'Or '
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'that each one of you know how to control his own body[[COMMENT(0)]]
+        in holiness and honor, '
+      comments:
+      - number: '4:4 '
+        content: 'Or ; Greek '
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'not in the passion of lust like the Gentiles who do not know God; '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'that no one transgress and wrong his brother in this matter, because
+        the Lord is an avenger in all these things, as we told you beforehand and
+        solemnly warned you. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For God has not called us for impurity, but in holiness. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Therefore whoever disregards this, disregards not man but God, who
+        gives his Holy Spirit to you.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Now concerning brotherly love you have no need for anyone to write
+        to you, for you yourselves have been taught by God to love one another, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'for that indeed is what you are doing to all the brothers throughout
+        Macedonia. But we urge you, brothers, to do this more and more, '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'and to aspire to live quietly, and to mind your own affairs, and
+        to work with your hands, as we instructed you, '
+      comments: []
+    - name: '12: The Coming of the Lord'
+      title: The Coming of the Lord
+      number: 12
+      content: 'so that you may walk properly before outsiders and be dependent on
+        no one.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'But we do not want you to be uninformed, brothers, about those who
+        are asleep, that you may not grieve as others do who have no hope. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For since we believe that Jesus died and rose again, even so, through
+        Jesus, God will bring with him those who have fallen asleep. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'For this we declare to you by a word from the Lord,[[COMMENT(0)]]
+        that we who are alive, who are left until the coming of the Lord, will not
+        precede those who have fallen asleep. '
+      comments:
+      - number: '4:15 '
+        content: 'Or '
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For the Lord himself will descend from heaven with a cry of command,
+        with the voice of an archangel, and with the sound of the trumpet of God.
+        And the dead in Christ will rise first. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Then we who are alive, who are left, will be caught up together with
+        them in the clouds to meet the Lord in the air, and so we will always be
+        with the Lord. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: Therefore encourage one another with these words.
+      comments: []
+  - verses:
+    - name: '1: The Day of the Lord'
+      title: The Day of the Lord
+      number: 1
+      content: '  Now concerning the times and the seasons, brothers,[[COMMENT(0)]] 
+        you have no need to have anything written to you. '
+      comments:
+      - number: '5:1 '
+        content: Or ; also verses 4, 12, 14, 25, 26, 27
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For you yourselves are fully aware that the day of the Lord will
+        come like a thief in the night. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "While people are saying, \u201CThere is peace and security,\u201D
+        then sudden destruction will come upon them as labor pains come upon a pregnant
+        woman, and they will not escape. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'But you are not in darkness, brothers, for that day to surprise you
+        like a thief. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For you are all children[[COMMENT(0)]] of light, children of the
+        day. We are not of the night or of the darkness. '
+      comments:
+      - number: '5:5 '
+        content: Or ; twice in this verse
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'So then let us not sleep, as others do, but let us keep awake and
+        be sober. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For those who sleep, sleep at night, and those who get drunk, are
+        drunk at night. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'But since we belong to the day, let us be sober, having put on the
+        breastplate of faith and love, and for a helmet the hope of salvation. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'For God has not destined us for wrath, but to obtain salvation through
+        our Lord Jesus Christ, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'who died for us so that whether we are awake or asleep we might live
+        with him. '
+      comments: []
+    - name: '11: Final Instructions and Benediction'
+      title: Final Instructions and Benediction
+      number: 11
+      content: 'Therefore encourage one another and build one another up, just as
+        you are doing.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'We ask you, brothers, to respect those who labor among you and are
+        over you in the Lord and admonish you, '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'and to esteem them very highly in love because of their work. Be
+        at peace among yourselves. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And we urge you, brothers, admonish the idle,[[COMMENT(0)]]  encourage
+        the fainthearted, help the weak, be patient with them all. '
+      comments:
+      - number: '5:14 '
+        content: 'Or , or '
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'See that no one repays anyone evil for evil, but always seek to do
+        good to one another and to everyone. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Rejoice always, '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'pray without ceasing, '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'give thanks in all circumstances; for this is the will of God in
+        Christ Jesus for you. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Do not quench the Spirit. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Do not despise prophecies, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'but test everything; hold fast what is good. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Abstain from every form of evil.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Now may the God of peace himself sanctify you completely, and may
+        your whole spirit and soul and body be kept blameless at the coming of our
+        Lord Jesus Christ. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'He who calls you is faithful; he will surely do it.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Brothers, pray for us.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: '  Greet all the brothers with a holy kiss.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'I put you under oath before the Lord to have this letter read to
+        all the brothers.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: '  The grace of our Lord Jesus Christ be with you.'
+      comments: []

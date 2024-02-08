@@ -1,0 +1,5428 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: PRO
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Proverbs
+  fancyName: 
+  nickname: pro
+  version: {fileID: 11400000, guid: bd3f8ba6a2445b646991a3e44f7f687a, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  The proverbs of Solomon the son of David, king of Israel;  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'To know wisdom and instruction;To perceive the words of understanding;  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'To receive the instruction of wisdom,Justice, and judgment, and equity;  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'To give subtilty to the simple,To the young man knowledge and discretion.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'A wise <i>man</i> will hear, and will increase learning;And a man
+        of understanding shall attain unto wise counsels:  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'To understand a proverb, and the interpretation;The words of the
+        wise, and their dark sayings.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The fear of the <smallcaps>LORD</smallcaps>  <i>is</i> the beginning
+        of knowledge:  <i>But</i> fools despise wisdom and instruction.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'My son, hear the instruction of thy father,And forsake not the law
+        of thy mother:  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'For they <i>shall be</i> an ornament of grace unto thy head,And chains
+        about thy neck.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'My son, if sinners entice thee,Consent thou not.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'If they say, Come with us, let us lay wait for blood,Let us lurk
+        privily for the innocent without cause:  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Let us swallow them up alive as the grave;And whole, as those that
+        go down into the pit:  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'We shall find all precious substance,We shall fill our houses with
+        spoil:  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Cast in thy lot among us;Let us all have one purse:  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'My son, walk not thou in the way with them;Refrain thy foot from
+        their path:  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For their feet run to evil,And make haste to shed blood.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Surely in vain the net is spreadIn the sight of any bird.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And they lay wait for their <i>own</i> blood;They lurk privily for
+        their <i>own</i> lives.  '
+      comments: []
+    - name: '19: The Cry of Wisdom'
+      title: The Cry of Wisdom
+      number: 19
+      content: 'So <i>are</i> the ways of every one that is greedy of gain;  <i>Which</i>
+        taketh away the life of the owners thereof.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Wisdom crieth without;She uttereth her voice in the streets:  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'She crieth in the chief place of concourse, in the openings of the
+        gates:In the city she uttereth her words, <i>saying</i>,  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'How long, ye simple ones, will ye love simplicity?And the scorners
+        delight in their scorning,And fools hate knowledge?  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Turn you at my reproof:Behold, I will pour out my spirit unto you,I
+        will make known my words unto you.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Because I have called, and ye refused;I have stretched out my hand,
+        and no man regarded;  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'But ye have set at nought all my counsel,And would none of my reproof:  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'I also will laugh at your calamity;I will mock when your fear cometh;  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'When your fear cometh as desolation,And your destruction cometh as
+        a whirlwind;When distress and anguish cometh upon you.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Then shall they call upon me, but I will not answer;They shall seek
+        me early, but they shall not find me:  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'For that they hated knowledge,And did not choose the fear of the
+        <smallcaps>LORD</smallcaps>:  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'They would none of my counsel:They despised all my reproof.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Therefore shall they eat of the fruit of their own way,And be filled
+        with their own devices.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'For the turning away of the simple shall slay them,And the prosperity
+        of fools shall destroy them.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: But whoso hearkeneth unto me shall dwell safely,And shall be quiet
+        from fear of evil.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  My son, if thou wilt receive my words,And hide my commandments
+        with thee;  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'So that thou incline thine ear unto wisdom,  <i>And</i> apply thine
+        heart to understanding;  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Yea, if thou criest after knowledge,  <i>And</i> liftest up thy voice
+        for understanding;  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'If thou seekest her as silver,And searchest for her as <i>for</i>
+        hid treasures;  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Then shalt thou understand the fear of the <smallcaps>LORD</smallcaps>,And
+        find the knowledge of God.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For the <smallcaps>LORD</smallcaps> giveth wisdom:Out of his mouth
+        <i>cometh</i> knowledge and understanding.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'He layeth up sound wisdom for the righteous:  <i>He is</i> a buckler
+        to them that walk uprightly.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'He keepeth the paths of judgment,And preserveth the way of his saints.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Then shalt thou understand righteousness, and judgment,And equity;
+        <i>yea</i>, every good path.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'When wisdom entereth into thine heart,And knowledge is pleasant unto
+        thy soul;  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Discretion shall preserve thee,Understanding shall keep thee:  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'To deliver thee from the way of the evil <i>man</i>,From the man
+        that speaketh froward things;  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Who leave the paths of uprightness,To walk in the ways of darkness;  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Who rejoice to do evil,  <i>And</i> delight in the frowardness of
+        the wicked;  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Whose ways <i>are</i> crooked,And <i>they</i> froward in their paths:  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'To deliver thee from the strange woman,  <i>Even</i> from the stranger
+        <i>which</i> flattereth with her words;  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Which forsaketh the guide of her youth,And forgetteth the covenant
+        of her God.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'For her house inclineth unto death,And her paths unto the dead.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'None that go unto her return again,Neither take they hold of the
+        paths of life.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'That thou mayest walk in the way of good <i>men</i>,And keep the
+        paths of the righteous.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'For the upright shall dwell in the land,And the perfect shall remain
+        in it.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: But the wicked shall be cut off from the earth,And the transgressors
+        shall be rooted out of it.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  My son, forget not my law;But let thine heart keep my commandments:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For length of days, and long life,And peace, shall they add to thee.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Let not mercy and truth forsake thee:Bind them about thy neck;Write
+        them upon the table of thine heart:  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'So shalt thou find favour and good understandingIn the sight of God
+        and man.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Trust in the <smallcaps>LORD</smallcaps> with all thine heart;And
+        lean not unto thine own understanding.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'In all thy ways acknowledge him,And he shall direct thy paths.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Be not wise in thine own eyes:Fear the <smallcaps>LORD</smallcaps>,
+        and depart from evil.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'It shall be health to thy navel,And marrow to thy bones.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Honour the <smallcaps>LORD</smallcaps> with thy substance,And with
+        the firstfruits of all thine increase:  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'So shall thy barns be filled with plenty,And thy presses shall burst
+        out with new wine.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'My son, despise not the chastening of the <smallcaps>LORD</smallcaps>;Neither
+        be weary of his correction:  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'For whom the <smallcaps>LORD</smallcaps> loveth he correcteth;Even
+        as a father the son <i>in whom</i> he delighteth.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Happy <i>is</i> the man <i>that</i> findeth wisdom,And the man <i>that</i>
+        getteth understanding.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For the merchandise of it <i>is</i> better than the merchandise of
+        silver,And the gain thereof than fine gold.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'She <i>is</i> more precious than rubies:And all the things thou canst
+        desire are not to be compared unto her.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Length of days <i>is</i> in her right hand;  <i>And</i> in her left
+        hand riches and honour.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Her ways <i>are</i> ways of pleasantness,And all her paths <i>are</i>
+        peace.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'She <i>is</i> a tree of life to them that lay hold upon her:And happy
+        <i>is every one</i> that retaineth her.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'The <smallcaps>LORD</smallcaps> by wisdom hath founded the earth;By
+        understanding hath he established the heavens.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'By his knowledge the depths are broken up,And the clouds drop down
+        the dew.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'My son, let not them depart from thine eyes:Keep sound wisdom and
+        discretion:  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'So shall they be life unto thy soul,And grace to thy neck.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Then shalt thou walk in thy way safely,And thy foot shall not stumble.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'When thou liest down, thou shalt not be afraid:Yea, thou shalt lie
+        down, and thy sleep shall be sweet.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Be not afraid of sudden fear,Neither of the desolation of the wicked,
+        when it cometh.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'For the <smallcaps>LORD</smallcaps> shall be thy confidence,And shall
+        keep thy foot from being taken.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Withhold not good from them to whom it is due,When it is in the power
+        of thine hand to do <i>it</i>.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Say not unto thy neighbour, Go, and come again,And to morrow I will
+        give; when thou hast it by thee.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Devise not evil against thy neighbour,Seeing he dwelleth securely
+        by thee.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Strive not with a man without cause,If he have done thee no harm.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Envy thou not the oppressor,And choose none of his ways.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'For the froward <i>is</i> abomination to the <smallcaps>LORD</smallcaps>:But
+        his secret <i>is</i> with the righteous.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'The curse of the <smallcaps>LORD</smallcaps>  <i>is</i> in the house
+        of the wicked:But he blesseth the habitation of the just.  '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'Surely he scorneth the scorners:But he giveth grace unto the lowly.  '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: The wise shall inherit glory:But shame shall be the promotion of fools.
+      comments: []
+  - verses:
+    - name: '1: A Father''s Instruction'
+      title: A Father's Instruction
+      number: 1
+      content: '  Hear, ye children, the instruction of a father,And attend to know
+        understanding.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For I give you good doctrine,Forsake ye not my law.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For I was my father''s son,Tender and only <i>beloved</i> in the
+        sight of my mother.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'He taught me also, and said unto me,Let thine heart retain my words:Keep
+        my commandments, and live.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Get wisdom, get understanding:Forget <i>it</i> not; neither decline
+        from the words of my mouth.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Forsake her not, and she shall preserve thee:Love her, and she shall
+        keep thee.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Wisdom <i>is</i> the principal thing; <i>therefore</i> get wisdom:And
+        with all thy getting get understanding.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Exalt her, and she shall promote thee:She shall bring thee to honour,
+        when thou dost embrace her.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'She shall give to thine head an ornament of grace:A crown of glory
+        shall she deliver to thee.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Hear, O my son, and receive my sayings;And the years of thy life
+        shall be many.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'I have taught thee in the way of wisdom;I have led thee in right
+        paths.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'When thou goest, thy steps shall not be straitened;And when thou
+        runnest, thou shalt not stumble.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Take fast hold of instruction; let <i>her</i> not go:Keep her; for
+        she <i>is</i> thy life.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Enter not into the path of the wicked,And go not in the way of evil
+        <i>men</i>.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Avoid it, pass not by it,Turn from it, and pass away.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For they sleep not, except they have done mischief;And their sleep
+        is taken away, unless they cause <i>some</i> to fall.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'For they eat the bread of wickedness,And drink the wine of violence.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'But the path of the just <i>is</i> as the shining light,That shineth
+        more and more unto the perfect day.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'The way of the wicked <i>is</i> as darkness:They know not at what
+        they stumble.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'My son, attend to my words;Incline thine ear unto my sayings.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Let them not depart from thine eyes;Keep them in the midst of thine
+        heart.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'For they <i>are</i> life unto those that find them,And health to
+        all their flesh.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Keep thy heart with all diligence;For out of it <i>are</i> the issues
+        of life.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Put away from thee a froward mouth,And perverse lips put far from
+        thee.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Let thine eyes look right on,And let thine eyelids look straight
+        before thee.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Ponder the path of thy feet,And let all thy ways be established.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: Turn not to the right hand nor to the left:Remove thy foot from evil.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  My son, attend unto my wisdom,  <i>And</i> bow thine ear to my
+        understanding:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'That thou mayest regard discretion,And <i>that</i> thy lips may keep
+        knowledge.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For the lips of a strange woman drop <i>as</i> an honeycomb,And her
+        mouth <i>is</i> smoother than oil:  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'But her end is bitter as wormwood,Sharp as a twoedged sword.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Her feet go down to death;Her steps take hold on hell.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Lest thou shouldest ponder the path of life,Her ways are moveable,
+        <i>that</i> thou canst not know <i>them</i>.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Hear me now therefore, O ye children,And depart not from the words
+        of my mouth.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Remove thy way far from her,And come not nigh the door of her house:  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Lest thou give thine honour unto others,And thy years unto the cruel:  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Lest strangers be filled with thy wealth;And thy labours <i>be</i>
+        in the house of a stranger;  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And thou mourn at the last,When thy flesh and thy body are consumed,  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And say, How have I hated instruction,And my heart despised reproof;  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And have not obeyed the voice of my teachers,Nor inclined mine ear
+        to them that instructed me!  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'I was almost in all evilIn the midst of the congregation and assembly.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Drink waters out of thine own cistern,And running waters out of thine
+        own well.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Let thy fountains be dispersed abroad,  <i>And</i> rivers of waters
+        in the streets.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Let them be only thine own,And not strangers'' with thee.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Let thy fountain be blessed:And rejoice with the wife of thy youth.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: '  <i>Let her be as</i> the loving hind and pleasant roe;Let her breasts
+        satisfy thee at all times;And be thou ravished always with her love.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'And why wilt thou, my son, be ravished with a strange woman,And embrace
+        the bosom of a stranger?  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'For the ways of man <i>are</i> before the eyes of the <smallcaps>LORD</smallcaps>,And
+        he pondereth all his goings.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'His own iniquities shall take the wicked himself,And he shall be
+        holden with the cords of his sins.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: He shall die without instruction;And in the greatness of his folly
+        he shall go astray.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  My son, if thou be surety for thy friend,  <i>If</i> thou hast
+        stricken thy hand with a stranger,  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Thou art snared with the words of thy mouth,Thou art taken with the
+        words of thy mouth.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Do this now, my son, and deliver thyself,When thou art come into
+        the hand of thy friend;Go, humble thyself, and make sure thy friend.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Give not sleep to thine eyes,Nor slumber to thine eyelids.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Deliver thyself as a roe from the hand <i>of the hunter</i>,And as
+        a bird from the hand of the fowler.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Go to the ant, thou sluggard;Consider her ways, and be wise:  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Which having no guide,Overseer, or ruler,  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Provideth her meat in the summer,  <i>And</i> gathereth her food
+        in the harvest.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'How long wilt thou sleep, O sluggard?When wilt thou arise out of
+        thy sleep?  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  <i>Yet</i> a little sleep, a little slumber,A little folding of
+        the hands to sleep:  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'So shall thy poverty come as one that travelleth,And thy want as
+        an armed man.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'A naughty person, a wicked man,Walketh with a froward mouth.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'He winketh with his eyes, he speaketh with his feet,He teacheth with
+        his fingers;  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Frowardness <i>is</i> in his heart, he deviseth mischief continually;He
+        soweth discord.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Therefore shall his calamity come suddenly;Suddenly shall he be broken
+        without remedy.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'These six <i>things</i> doth the <smallcaps>LORD</smallcaps> hate:Yea,
+        seven <i>are</i> an abomination unto him:  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'A proud look, a lying tongue,And hands that shed innocent blood,  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'An heart that deviseth wicked imaginations,Feet that be swift in
+        running to mischief,  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'A false witness <i>that</i> speaketh lies,And he that soweth discord
+        among brethren.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'My son, keep thy father''s commandment,And forsake not the law of
+        thy mother:  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Bind them continually upon thine heart,  <i>And</i> tie them about
+        thy neck.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'When thou goest, it shall lead thee;When thou sleepest, it shall
+        keep thee;And <i>when</i> thou awakest, it shall talk with thee.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'For the commandment <i>is</i> a lamp; and the law <i>is</i> light;And
+        reproofs of instruction <i>are</i> the way of life:  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'To keep thee from the evil woman,From the flattery of the tongue
+        of a strange woman.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Lust not after her beauty in thine heart;Neither let her take thee
+        with her eyelids.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'For by means of a whorish woman <i>a man is brought</i> to a piece
+        of bread:And the adulteress will hunt for the precious life.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Can a man take fire in his bosom,And his clothes not be burned?  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Can one go upon hot coals,And his feet not be burned?  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'So he that goeth in to his neighbour''s wife;Whosoever toucheth her
+        shall not be innocent.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: '  <i>Men</i> do not despise a thief, if he stealTo satisfy his soul
+        when he is hungry;  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'But <i>if</i> he be found, he shall restore sevenfold;He shall give
+        all the substance of his house.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: '  <i>But</i> whoso committeth adultery with a woman lacketh understanding:He
+        <i>that</i> doeth it destroyeth his own soul.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'A wound and dishonour shall he get;And his reproach shall not be
+        wiped away.  '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'For jealousy <i>is</i> the rage of a man:Therefore he will not spare
+        in the day of vengeance.  '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: He will not regard any ransom;Neither will he rest content, though
+        thou givest many gifts.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  My son, keep my words,And lay up my commandments with thee.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Keep my commandments, and live;And my law as the apple of thine eye.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Bind them upon thy fingers,Write them upon the table of thine heart.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Say unto wisdom, Thou <i>art</i> my sister;And call understanding
+        <i>thy</i> kinswoman:  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'That they may keep thee from the strange woman,From the stranger
+        <i>which</i> flattereth with her words.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For at the window of my houseI looked through my casement,  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And beheld among the simple ones,I discerned among the youths,A young
+        man void of understanding,  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Passing through the street near her corner;And he went the way to
+        her house,  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'In the twilight, in the evening,In the black and dark night:  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And, behold, there met him a woman  <i>With</i> the attire of an
+        harlot, and subtil of heart.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '(She <i>is</i> loud and stubborn;Her feet abide not in her house:  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Now <i>is she</i> without, now in the streets,And lieth in wait at
+        every corner.)  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'So she caught him, and kissed him,  <i>And</i> with an impudent face
+        said unto him,  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  <i>I have</i> peace offerings with me;This day have I payed my
+        vows.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Therefore came I forth to meet thee,Diligently to seek thy face,
+        and I have found thee.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'I have decked my bed with coverings of tapestry,With carved <i>works</i>,
+        with fine linen of Egypt.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'I have perfumed my bedWith myrrh, aloes, and cinnamon.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Come, let us take our fill of love until the morning:Let us solace
+        ourselves with loves.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'For the goodman <i>is</i> not at home,He is gone a long journey:  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'He hath taken a bag of money with him,  <i>And</i> will come home
+        at the day appointed.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'With her much fair speech she caused him to yield,With the flattering
+        of her lips she forced him.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'He goeth after her straightway,As an ox goeth to the slaughter,Or
+        as a fool to the correction of the stocks;  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Till a dart strike through his liver;As a bird hasteth to the snare,And
+        knoweth not that it <i>is</i> for his life.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Hearken unto me now therefore, O ye children,And attend to the words
+        of my mouth.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Let not thine heart decline to her ways,Go not astray in her paths.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'For she hath cast down many wounded:Yea, many strong <i>men</i> have
+        been slain by her.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: Her house <i>is</i> the way to hell,Going down to the chambers of
+        death.
+      comments: []
+  - verses:
+    - name: '1: Wisdom and Folly'
+      title: Wisdom and Folly
+      number: 1
+      content: '  Doth not wisdom cry?And understanding put forth her voice?  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'She standeth in the top of high places, by the wayIn the places of
+        the paths.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'She crieth at the gates, at the entry of the city,At the coming in
+        at the doors.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Unto you, O men, I call;And my voice <i>is</i> to the sons of man.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'O ye simple, understand wisdom:And, ye fools, be ye of an understanding
+        heart.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Hear; for I will speak of excellent things;And the opening of my
+        lips <i>shall be</i> right things.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For my mouth shall speak truth;And wickedness <i>is</i> an abomination
+        to my lips.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'All the words of my mouth <i>are</i> in righteousness;  <i>There
+        is</i> nothing froward or perverse in them.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'They <i>are</i> all plain to him that understandeth,And right to
+        them that find knowledge.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Receive my instruction, and not silver;And knowledge rather than
+        choice gold.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'For wisdom <i>is</i> better than rubies;And all the things that may
+        be desired are not to be compared to it.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I wisdom dwell with prudence,And find out knowledge of witty inventions.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The fear of the <smallcaps>LORD</smallcaps>  <i>is</i> to hate evil:Pride,
+        and arrogancy, and the evil way,And the froward mouth, do I hate.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Counsel <i>is</i> mine, and sound wisdom:I <i>am</i> understanding;
+        I have strength.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'By me kings reign,And princes decree justice.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'By me princes rule,And nobles, <i>even</i> all the judges of the
+        earth.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'I love them that love me;And those that seek me early shall find
+        me.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Riches and honour <i>are</i> with me;  <i>Yea</i>, durable riches
+        and righteousness.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'My fruit <i>is</i> better than gold, yea, than fine gold;And my revenue
+        than choice silver.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'I lead in the way of righteousness,In the midst of the paths of judgment:  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'That I may cause those that love me to inherit substance;And I will
+        fill their treasures.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'The <smallcaps>LORD</smallcaps> possessed me in the beginning of
+        his way,Before his works of old.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'I was set up from everlasting, from the beginning,Or ever the earth
+        was.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'When <i>there were</i> no depths, I was brought forth;When <i>there
+        were</i> no fountains abounding with water.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Before the mountains were settled,Before the hills was I brought
+        forth:  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'While as yet he had not made the earth, nor the fields,Nor the highest
+        part of the dust of the world.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'When he prepared the heavens, I <i>was</i> there:When he set a compass
+        upon the face of the depth:  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'When he established the clouds above:When he strengthened the fountains
+        of the deep:  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'When he gave to the sea his decree,That the waters should not pass
+        his commandment:When he appointed the foundations of the earth:  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Then I was by him, <i>as</i> one brought up <i>with him:</i>And I
+        was daily <i>his</i> delight,Rejoicing always before him;  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Rejoicing in the habitable part of his earth;And my delights <i>were</i>
+        with the sons of men.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Now therefore hearken unto me, O ye children:For blessed <i>are they
+        that</i> keep my ways.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'Hear instruction, and be wise,And refuse it not.  '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'Blessed <i>is</i> the man that heareth me,Watching daily at my gates,Waiting
+        at the posts of my doors.  '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'For whoso findeth me findeth life,And shall obtain favour of the
+        <smallcaps>LORD</smallcaps>.  '
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: But he that sinneth against me wrongeth his own soul:All they that
+        hate me love death.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Wisdom hath builded her house,She hath hewn out her seven pillars:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'She hath killed her beasts; she hath mingled her wine;She hath also
+        furnished her table.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'She hath sent forth her maidens: she criethUpon the highest places
+        of the city,  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Whoso <i>is</i> simple, let him turn in hither:  <i>As for</i> him
+        that wanteth understanding, she saith to him,  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Come, eat of my bread,And drink of the wine <i>which</i> I have mingled.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Forsake the foolish, and live;And go in the way of understanding.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'He that reproveth a scorner getteth to himself shame:And he that
+        rebuketh a wicked <i>man getteth</i> himself a blot.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Reprove not a scorner, lest he hate thee:Rebuke a wise man, and he
+        will love thee.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Give <i>instruction</i> to a wise <i>man</i>, and he will be yet
+        wiser:Teach a just <i>man</i>, and he will increase in learning.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The fear of the <smallcaps>LORD</smallcaps>  <i>is</i> the beginning
+        of wisdom:And the knowledge of the holy <i>is</i> understanding.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'For by me thy days shall be multiplied,And the years of thy life
+        shall be increased.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'If thou be wise, thou shalt be wise for thyself:But <i>if</i> thou
+        scornest, thou alone shalt bear <i>it</i>.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'A foolish woman <i>is</i> clamorous:  <i>She is</i> simple, and knoweth
+        nothing.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For she sitteth at the door of her house,On a seat in the high places
+        of the city,  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'To call passengersWho go right on their ways:  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Whoso <i>is</i> simple, let him turn in hither:And <i>as for</i>
+        him that wanteth understanding, she saith to him,  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Stolen waters are sweet,And bread <i>eaten</i> in secret is pleasant.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: But he knoweth not that the dead <i>are</i> there;  <i>And that</i>
+        her guests <i>are</i> in the depths of hell.
+      comments: []
+  - verses:
+    - name: '1: Proverbs of Solomon'
+      title: Proverbs of Solomon
+      number: 1
+      content: '  The proverbs of Solomon.A wise son maketh a glad father:But a foolish
+        son <i>is</i> the heaviness of his mother.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Treasures of wickedness profit nothing:But righteousness delivereth
+        from death.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'The <smallcaps>LORD</smallcaps> will not suffer the soul of the righteous
+        to famish:But he casteth away the substance of the wicked.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'He becometh poor that dealeth <i>with</i> a slack hand:But the hand
+        of the diligent maketh rich.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'He that gathereth in summer <i>is</i> a wise son:  <i>But</i> he
+        that sleepeth in harvest <i>is</i> a son that causeth shame.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Blessings <i>are</i> upon the head of the just:But violence covereth
+        the mouth of the wicked.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The memory of the just <i>is</i> blessed:But the name of the wicked
+        shall rot.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The wise in heart will receive commandments:But a prating fool shall
+        fall.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'He that walketh uprightly walketh surely:But he that perverteth his
+        ways shall be known.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'He that winketh with the eye causeth sorrow:But a prating fool shall
+        fall.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The mouth of a righteous <i>man is</i> a well of life:But violence
+        covereth the mouth of the wicked.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Hatred stirreth up strifes:But love covereth all sins.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'In the lips of him that hath understanding wisdom is found:But a
+        rod <i>is</i> for the back of him that is void of understanding.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Wise <i>men</i> lay up knowledge:But the mouth of the foolish <i>is</i>
+        near destruction.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The rich man''s wealth <i>is</i> his strong city:The destruction
+        of the poor <i>is</i> their poverty.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The labour of the righteous <i>tendeth</i> to life:The fruit of the
+        wicked to sin.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'He <i>is in</i> the way of life that keepeth instruction:But he that
+        refuseth reproof erreth.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'He that hideth hatred <i>with</i> lying lips,And he that uttereth
+        a slander, <i>is</i> a fool.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'In the multitude of words there wanteth not sin:But he that refraineth
+        his lips <i>is</i> wise.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'The tongue of the just <i>is as</i> choice silver:The heart of the
+        wicked <i>is</i> little worth.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'The lips of the righteous feed many:But fools die for want of wisdom.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'The blessing of the <smallcaps>LORD</smallcaps>, it maketh rich,And
+        he addeth no sorrow with it.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  <i>It is</i> as sport to a fool to do mischief:But a man of understanding
+        hath wisdom.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'The fear of the wicked, it shall come upon him:But the desire of
+        the righteous shall be granted.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'As the whirlwind passeth, so <i>is</i> the wicked no <i>more:</i>But
+        the righteous <i>is</i> an everlasting foundation.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'As vinegar to the teeth, and as smoke to the eyes,So <i>is</i> the
+        sluggard to them that send him.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'The fear of the <smallcaps>LORD</smallcaps> prolongeth days:But the
+        years of the wicked shall be shortened.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'The hope of the righteous <i>shall be</i> gladness:But the expectation
+        of the wicked shall perish.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'The way of the <smallcaps>LORD</smallcaps>  <i>is</i> strength to
+        the upright:But destruction <i>shall be</i> to the workers of iniquity.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'The righteous shall never be removed:But the wicked shall not inhabit
+        the earth.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'The mouth of the just bringeth forth wisdom:But the froward tongue
+        shall be cut out.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: The lips of the righteous know what is acceptable:But the mouth of
+        the wicked <i>speaketh</i> frowardness.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  A false balance <i>is</i> abomination to the <smallcaps>LORD</smallcaps>:But
+        a just weight <i>is</i> his delight.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  <i>When</i> pride cometh, then cometh shame:But with the lowly
+        <i>is</i> wisdom.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'The integrity of the upright shall guide them:But the perverseness
+        of transgressors shall destroy them.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Riches profit not in the day of wrath:But righteousness delivereth
+        from death.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The righteousness of the perfect shall direct his way:But the wicked
+        shall fall by his own wickedness.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The righteousness of the upright shall deliver them:But transgressors
+        shall be taken in <i>their own</i> naughtiness.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'When a wicked man dieth, <i>his</i> expectation shall perish:And
+        the hope of unjust <i>men</i> perisheth.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The righteous is delivered out of trouble,And the wicked cometh in
+        his stead.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'An hypocrite with <i>his</i> mouth destroyeth his neighbour:But through
+        knowledge shall the just be delivered.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'When it goeth well with the righteous, the city rejoiceth:And when
+        the wicked perish, <i>there is</i> shouting.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'By the blessing of the upright the city is exalted:But it is overthrown
+        by the mouth of the wicked.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'He that is void of wisdom despiseth his neighbour:But a man of understanding
+        holdeth his peace.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'A talebearer revealeth secrets:But he that is of a faithful spirit
+        concealeth the matter.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Where no counsel <i>is</i>, the people fall:But in the multitude
+        of counsellors <i>there is</i> safety.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'He that is surety for a stranger shall smart <i>for it:</i>And he
+        that hateth suretiship is sure.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'A gracious woman retaineth honour:And strong <i>men</i> retain riches.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'The merciful man doeth good to his own soul:But <i>he that is</i>
+        cruel troubleth his own flesh.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'The wicked worketh a deceitful work:But to him that soweth righteousness
+        <i>shall be</i> a sure reward.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'As righteousness <i>tendeth</i> to life:So he that pursueth evil
+        <i>pursueth it</i> to his own death.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'They that are of a froward heart <i>are</i> abomination to the <smallcaps>LORD</smallcaps>:But
+        <i>such as are</i> upright in <i>their</i> way <i>are</i> his delight.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  <i>Though</i> hand <i>join</i> in hand, the wicked shall not be
+        unpunished:But the seed of the righteous shall be delivered.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: '  <i>As</i> a jewel of gold in a swine''s snout,  <i>So is</i> a
+        fair woman which is without discretion.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'The desire of the righteous <i>is</i> only good:  <i>But</i> the
+        expectation of the wicked <i>is</i> wrath.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'There is that scattereth, and yet increaseth;And <i>there is</i>
+        that withholdeth more than is meet, but <i>it tendeth</i> to poverty.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'The liberal soul shall be made fat:And he that watereth shall be
+        watered also himself.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'He that withholdeth corn, the people shall curse him:But blessing
+        <i>shall be</i> upon the head of him that selleth <i>it</i>.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'He that diligently seeketh good procureth favour:But he that seeketh
+        mischief, it shall come unto him.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'He that trusteth in his riches shall fall:But the righteous shall
+        flourish as a branch.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'He that troubleth his own house shall inherit the wind:And the fool
+        <i>shall be</i> servant to the wise of heart.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'The fruit of the righteous <i>is</i> a tree of life;And he that winneth
+        souls <i>is</i> wise.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: Behold, the righteous shall be recompensed in the earth:Much more
+        the wicked and the sinner.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Whoso loveth instruction loveth knowledge:But he that hateth reproof
+        <i>is</i> brutish.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'A good <i>man</i> obtaineth favour of the <smallcaps>LORD</smallcaps>:But
+        a man of wicked devices will he condemn.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'A man shall not be established by wickedness:But the root of the
+        righteous shall not be moved.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'A virtuous woman <i>is</i> a crown to her husband:But she that maketh
+        ashamed <i>is</i> as rottenness in his bones.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The thoughts of the righteous <i>are</i> right:  <i>But</i> the counsels
+        of the wicked <i>are</i> deceit.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The words of the wicked <i>are</i> to lie in wait for blood:But the
+        mouth of the upright shall deliver them.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The wicked are overthrown, and <i>are</i> not:But the house of the
+        righteous shall stand.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'A man shall be commended according to his wisdom:But he that is of
+        a perverse heart shall be despised.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  <i>He that is</i> despised, and hath a servant, <i>is</i> betterThan
+        he that honoureth himself, and lacketh bread.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'A righteous <i>man</i> regardeth the life of his beast:But the tender
+        mercies of the wicked <i>are</i> cruel.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'He that tilleth his land shall be satisfied with bread:But he that
+        followeth vain <i>persons is</i> void of understanding.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The wicked desireth the net of evil <i>men:</i>But the root of the
+        righteous yieldeth <i>fruit</i>.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The wicked is snared by the transgression of <i>his</i> lips:But
+        the just shall come out of trouble.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'A man shall be satisfied with good by the fruit of <i>his</i> mouth:And
+        the recompence of a man''s hands shall be rendered unto him.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The way of a fool <i>is</i> right in his own eyes:But he that hearkeneth
+        unto counsel <i>is</i> wise.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'A fool''s wrath is presently known:But a prudent <i>man</i> covereth
+        shame.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  <i>He that</i> speaketh truth sheweth forth righteousness:But a
+        false witness deceit.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'There is that speaketh like the piercings of a sword:But the tongue
+        of the wise <i>is</i> health.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'The lip of truth shall be established for ever:But a lying tongue
+        <i>is</i> but for a moment.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Deceit <i>is</i> in the heart of them that imagine evil:But to the
+        counsellors of peace <i>is</i> joy.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'There shall no evil happen to the just:But the wicked shall be filled
+        with mischief.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Lying lips <i>are</i> abomination to the <smallcaps>LORD</smallcaps>:But
+        they that deal truly <i>are</i> his delight.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'A prudent man concealeth knowledge:But the heart of fools proclaimeth
+        foolishness.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'The hand of the diligent shall bear rule:But the slothful shall be
+        under tribute.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Heaviness in the heart of man maketh it stoop:But a good word maketh
+        it glad.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'The righteous <i>is</i> more excellent than his neighbour:But the
+        way of the wicked seduceth them.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'The slothful <i>man</i> roasteth not that which he took in hunting:But
+        the substance of a diligent man <i>is</i> precious.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: In the way of righteousness <i>is</i> life;And <i>in</i> the pathway
+        <i>thereof there is</i> no death.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  A wise son <i>heareth</i> his father''s instruction:But a scorner
+        heareth not rebuke.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'A man shall eat good by the fruit of <i>his</i> mouth:But the soul
+        of the transgressors <i>shall eat</i> violence.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'He that keepeth his mouth keepeth his life:  <i>But</i> he that openeth
+        wide his lips shall have destruction.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The soul of the sluggard desireth, and <i>hath</i> nothing:But the
+        soul of the diligent shall be made fat.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'A righteous <i>man</i> hateth lying:But a wicked <i>man</i> is loathsome,
+        and cometh to shame.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Righteousness keepeth <i>him that is</i> upright in the way:But wickedness
+        overthroweth the sinner.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'There is that maketh himself rich, yet <i>hath</i> nothing:  <i>There
+        is</i> that maketh himself poor, yet <i>hath</i> great riches.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The ransom of a man''s life <i>are</i> his riches:But the poor heareth
+        not rebuke.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'The light of the righteous rejoiceth:But the lamp of the wicked shall
+        be put out.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Only by pride cometh contention:But with the well advised <i>is</i>
+        wisdom.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Wealth <i>gotten</i> by vanity shall be diminished:But he that gathereth
+        by labour shall increase.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Hope deferred maketh the heart sick:But <i>when</i> the desire cometh,
+        <i>it is</i> a tree of life.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Whoso despiseth the word shall be destroyed:But he that feareth the
+        commandment shall be rewarded.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The law of the wise <i>is</i> a fountain of life,To depart from the
+        snares of death.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Good understanding giveth favour:But the way of transgressors <i>is</i>
+        hard.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Every prudent <i>man</i> dealeth with knowledge:But a fool layeth
+        open <i>his</i> folly.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'A wicked messenger falleth into mischief:But a faithful ambassador
+        <i>is</i> health.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Poverty and shame <i>shall be to</i> him that refuseth instruction:But
+        he that regardeth reproof shall be honoured.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'The desire accomplished is sweet to the soul:But <i>it is</i> abomination
+        to fools to depart from evil.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'He that walketh with wise <i>men</i> shall be wise:But a companion
+        of fools shall be destroyed.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Evil pursueth sinners:But to the righteous good shall be repaid.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'A good <i>man</i> leaveth an inheritance to his children''s children:And
+        the wealth of the sinner <i>is</i> laid up for the just.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Much food <i>is in</i> the tillage of the poor:But there is <i>that
+        is</i> destroyed for want of judgment.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'He that spareth his rod hateth his son:But he that loveth him chasteneth
+        him betimes.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: The righteous eateth to the satisfying of his soul:But the belly of
+        the wicked shall want.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Every wise woman buildeth her house:But the foolish plucketh it
+        down with her hands.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'He that walketh in his uprightness feareth the <smallcaps>LORD</smallcaps>:But
+        <i>he that is</i> perverse in his ways despiseth him.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'In the mouth of the foolish <i>is</i> a rod of pride:But the lips
+        of the wise shall preserve them.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Where no oxen <i>are</i>, the crib <i>is</i> clean:But much increase
+        <i>is</i> by the strength of the ox.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'A faithful witness will not lie:But a false witness will utter lies.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'A scorner seeketh wisdom, and <i>findeth it</i> not:But knowledge
+        <i>is</i> easy unto him that understandeth.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Go from the presence of a foolish man,When thou perceivest not <i>in
+        him</i> the lips of knowledge.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The wisdom of the prudent <i>is</i> to understand his way:But the
+        folly of fools <i>is</i> deceit.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Fools make a mock at sin:But among the righteous <i>there is</i>
+        favour.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The heart knoweth his own bitterness;And a stranger doth not intermeddle
+        with his joy.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The house of the wicked shall be overthrown:But the tabernacle of
+        the upright shall flourish.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'There is a way which seemeth right unto a man,But the end thereof
+        <i>are</i> the ways of death.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Even in laughter the heart is sorrowful;And the end of that mirth
+        <i>is</i> heaviness.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The backslider in heart shall be filled with his own ways:And a good
+        man <i>shall be satisfied</i> from himself.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The simple believeth every word:But the prudent <i>man</i> looketh
+        well to his going.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'A wise <i>man</i> feareth, and departeth from evil:But the fool rageth,
+        and is confident.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  <i>He that is</i> soon angry dealeth foolishly:And a man of wicked
+        devices is hated.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'The simple inherit folly:But the prudent are crowned with knowledge.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'The evil bow before the good;And the wicked at the gates of the righteous.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'The poor is hated even of his own neighbour:But the rich <i>hath</i>
+        many friends.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'He that despiseth his neighbour sinneth:But he that hath mercy on
+        the poor, happy <i>is</i> he.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Do they not err that devise evil?But mercy and truth <i>shall be</i>
+        to them that devise good.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'In all labour there is profit:But the talk of the lips <i>tendeth</i>
+        only to penury.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'The crown of the wise <i>is</i> their riches:  <i>But</i> the foolishness
+        of fools <i>is</i> folly.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'A true witness delivereth souls:But a deceitful <i>witness</i> speaketh
+        lies.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'In the fear of the <smallcaps>LORD</smallcaps>  <i>is</i> strong
+        confidence:And his children shall have a place of refuge.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'The fear of the <smallcaps>LORD</smallcaps>  <i>is</i> a fountain
+        of life,To depart from the snares of death.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'In the multitude of people <i>is</i> the king''s honour:But in the
+        want of people <i>is</i> the destruction of the prince.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: '  <i>He that is</i> slow to wrath <i>is</i> of great understanding:But
+        <i>he that is</i> hasty of spirit exalteth folly.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'A sound heart <i>is</i> the life of the flesh:But envy the rottenness
+        of the bones.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'He that oppresseth the poor reproacheth his Maker:But he that honoureth
+        him hath mercy on the poor.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'The wicked is driven away in his wickedness:But the righteous hath
+        hope in his death.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'Wisdom resteth in the heart of him that hath understanding:But <i>that
+        which is</i> in the midst of fools is made known.  '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'Righteousness exalteth a nation:But sin <i>is</i> a reproach to any
+        people.  '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: The king's favour <i>is</i> toward a wise servant:But his wrath is
+        <i>against</i> him that causeth shame.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  A soft answer turneth away wrath:But grievous words stir up anger.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'The tongue of the wise useth knowledge aright:But the mouth of fools
+        poureth out foolishness.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'The eyes of the <smallcaps>LORD</smallcaps>  <i>are</i> in every
+        place,Beholding the evil and the good.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'A wholesome tongue <i>is</i> a tree of life:But perverseness therein
+        <i>is</i> a breach in the spirit.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'A fool despiseth his father''s instruction:But he that regardeth
+        reproof is prudent.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'In the house of the righteous <i>is</i> much treasure:But in the
+        revenues of the wicked is trouble.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The lips of the wise disperse knowledge:But the heart of the foolish
+        <i>doeth</i> not so.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The sacrifice of the wicked <i>is</i> an abomination to the <smallcaps>LORD</smallcaps>:But
+        the prayer of the upright <i>is</i> his delight.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'The way of the wicked <i>is</i> an abomination unto the <smallcaps>LORD</smallcaps>:But
+        he loveth him that followeth after righteousness.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Correction <i>is</i> grievous unto him that forsaketh the way:  <i>And</i>
+        he that hateth reproof shall die.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Hell and destruction <i>are</i> before the <smallcaps>LORD</smallcaps>:How
+        much more then the hearts of the children of men?  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'A scorner loveth not one that reproveth him:Neither will he go unto
+        the wise.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'A merry heart maketh a cheerful countenance:But by sorrow of the
+        heart the spirit is broken.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The heart of him that hath understanding seeketh knowledge:But the
+        mouth of fools feedeth on foolishness.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'All the days of the afflicted <i>are</i> evil:But he that is of a
+        merry heart <i>hath</i> a continual feast.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Better <i>is</i> little with the fear of the <smallcaps>LORD</smallcaps>Than
+        great treasure and trouble therewith.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Better <i>is</i> a dinner of herbs where love is,Than a stalled ox
+        and hatred therewith.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'A wrathful man stirreth up strife:But <i>he that is</i> slow to anger
+        appeaseth strife.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'The way of the slothful <i>man is</i> as an hedge of thorns:But the
+        way of the righteous <i>is</i> made plain.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'A wise son maketh a glad father:But a foolish man despiseth his mother.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Folly <i>is</i> joy to <i>him that is</i> destitute of wisdom:But
+        a man of understanding walketh uprightly.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Without counsel purposes are disappointed:But in the multitude of
+        counsellors they are established.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'A man hath joy by the answer of his mouth:And a word <i>spoken</i>
+        in due season, how good <i>is it!</i>  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'The way of life <i>is</i> above to the wise,That he may depart from
+        hell beneath.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'The <smallcaps>LORD</smallcaps> will destroy the house of the proud:But
+        he will establish the border of the widow.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'The thoughts of the wicked <i>are</i> an abomination to the <smallcaps>LORD</smallcaps>:But
+        <i>the words</i> of the pure <i>are</i> pleasant words.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'He that is greedy of gain troubleth his own house;But he that hateth
+        gifts shall live.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'The heart of the righteous studieth to answer:But the mouth of the
+        wicked poureth out evil things.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'The <smallcaps>LORD</smallcaps>  <i>is</i> far from the wicked:But
+        he heareth the prayer of the righteous.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'The light of the eyes rejoiceth the heart:  <i>And</i> a good report
+        maketh the bones fat.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'The ear that heareth the reproof of lifeAbideth among the wise.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'He that refuseth instruction despiseth his own soul:But he that heareth
+        reproof getteth understanding.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: The fear of the <smallcaps>LORD</smallcaps>  <i>is</i> the instruction
+        of wisdom;And before honour <i>is</i> humility.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  The preparations of the heart in man,And the answer of the tongue,
+        <i>is</i> from the <smallcaps>LORD</smallcaps>.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'All the ways of a man <i>are</i> clean in his own eyes;But the <smallcaps>LORD</smallcaps>
+        weigheth the spirits.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Commit thy works unto the <smallcaps>LORD</smallcaps>,And thy thoughts
+        shall be established.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The <smallcaps>LORD</smallcaps> hath made all <i>things</i> for himself:Yea,
+        even the wicked for the day of evil.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Every one <i>that is</i> proud in heart <i>is</i> an abomination
+        to the <smallcaps>LORD</smallcaps>:  <i>Though</i> hand <i>join</i> in hand,
+        he shall not be unpunished.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'By mercy and truth iniquity is purged:And by the fear of the <smallcaps>LORD</smallcaps> 
+        <i>men</i> depart from evil.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'When a man''s ways please the <smallcaps>LORD</smallcaps>,He maketh
+        even his enemies to be at peace with him.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Better <i>is</i> a little with righteousnessThan great revenues without
+        right.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'A man''s heart deviseth his way:But the <smallcaps>LORD</smallcaps>
+        directeth his steps.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'A divine sentence <i>is</i> in the lips of the king:His mouth transgresseth
+        not in judgment.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'A just weight and balance <i>are</i> the <smallcaps>LORD</smallcaps>''s:All
+        the weights of the bag <i>are</i> his work.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  <i>It is</i> an abomination to kings to commit wickedness:For the
+        throne is established by righteousness.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Righteous lips <i>are</i> the delight of kings;And they love him
+        that speaketh right.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The wrath of a king <i>is as</i> messengers of death:But a wise man
+        will pacify it.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'In the light of the king''s countenance <i>is</i> life;And his favour
+        <i>is</i> as a cloud of the latter rain.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'How much better <i>is it</i> to get wisdom than gold!And to get understanding
+        rather to be chosen than silver!  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'The highway of the upright <i>is</i> to depart from evil:He that
+        keepeth his way preserveth his soul.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Pride <i>goeth</i> before destruction,And an haughty spirit before
+        a fall.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Better <i>it is to be</i> of an humble spirit with the lowly,Than
+        to divide the spoil with the proud.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'He that handleth a matter wisely shall find good:And whoso trusteth
+        in the <smallcaps>LORD</smallcaps>, happy <i>is</i> he.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'The wise in heart shall be called prudent:And the sweetness of the
+        lips increaseth learning.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Understanding <i>is</i> a wellspring of life unto him that hath it:But
+        the instruction of fools <i>is</i> folly.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'The heart of the wise teacheth his mouth,And addeth learning to his
+        lips.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Pleasant words <i>are as</i> an honeycomb,Sweet to the soul, and
+        health to the bones.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'There is a way that seemeth right unto a man,But the end thereof
+        <i>are</i> the ways of death.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'He that laboureth laboureth for himself;For his mouth craveth it
+        of him.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'An ungodly man diggeth up evil:And in his lips <i>there is</i> as
+        a burning fire.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'A froward man soweth strife:And a whisperer separateth chief friends.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'A violent man enticeth his neighbour,And leadeth him into the way
+        <i>that is</i> not good.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'He shutteth his eyes to devise froward things:Moving his lips he
+        bringeth evil to pass.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'The hoary head <i>is</i> a crown of glory,  <i>If</i> it be found
+        in the way of righteousness.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: '  <i>He that is</i> slow to anger <i>is</i> better than the mighty;And
+        he that ruleth his spirit than he that taketh a city.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: The lot is cast into the lap;But the whole disposing thereof <i>is</i>
+        of the <smallcaps>LORD</smallcaps>.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Better <i>is</i> a dry morsel, and quietness therewith,Than an
+        house full of sacrifices <i>with</i> strife.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'A wise servant shall have rule over a son that causeth shame,And
+        shall have part of the inheritance among the brethren.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'The fining pot <i>is</i> for silver, and the furnace for gold:But
+        the <smallcaps>LORD</smallcaps> trieth the hearts.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'A wicked doer giveth heed to false lips;  <i>And</i> a liar giveth
+        ear to a naughty tongue.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Whoso mocketh the poor reproacheth his Maker:  <i>And</i> he that
+        is glad at calamities shall not be unpunished.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Children''s children <i>are</i> the crown of old men;And the glory
+        of children <i>are</i> their fathers.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Excellent speech becometh not a fool:Much less do lying lips a prince.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'A gift <i>is as</i> a precious stone in the eyes of him that hath
+        it:Whithersoever it turneth, it prospereth.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'He that covereth a transgression seeketh love;But he that repeateth
+        a matter separateth <i>very</i> friends.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'A reproof entereth more into a wise manThan an hundred stripes into
+        a fool.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'An evil <i>man</i> seeketh only rebellion:Therefore a cruel messenger
+        shall be sent against him.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Let a bear robbed of her whelps meet a man,Rather than a fool in
+        his folly.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Whoso rewardeth evil for good,Evil shall not depart from his house.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The beginning of strife <i>is as</i> when one letteth out water:Therefore
+        leave off contention, before it be meddled with.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'He that justifieth the wicked, and he that condemneth the just,Even
+        they both <i>are</i> abomination to the <smallcaps>LORD</smallcaps>.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Wherefore <i>is there</i> a price in the hand of a fool to get wisdom,Seeing
+        <i>he hath</i> no heart <i>to it?</i>  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'A friend loveth at all times,And a brother is born for adversity.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'A man void of understanding striketh hands,  <i>And</i> becometh
+        surety in the presence of his friend.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'He loveth transgression that loveth strife:  <i>And</i> he that exalteth
+        his gate seeketh destruction.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'He that hath a froward heart findeth no good:And he that hath a perverse
+        tongue falleth into mischief.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'He that begetteth a fool <i>doeth it</i> to his sorrow:And the father
+        of a fool hath no joy.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'A merry heart doeth good <i>like</i> a medicine:But a broken spirit
+        drieth the bones.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'A wicked <i>man</i> taketh a gift out of the bosomTo pervert the
+        ways of judgment.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Wisdom <i>is</i> before him that hath understanding;But the eyes
+        of a fool <i>are</i> in the ends of the earth.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'A foolish son is a grief to his father,And bitterness to her that
+        bare him.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Also to punish the just <i>is</i> not good,  <i>Nor</i> to strike
+        princes for equity.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'He that hath knowledge spareth his words:  <i>And</i> a man of understanding
+        is of an excellent spirit.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Even a fool, when he holdeth his peace, is counted wise:  <i>And</i>
+        he that shutteth his lips <i>is esteemed</i> a man of understanding.'
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Through desire a man, having separated himself, seeketh  <i>And</i>
+        intermeddleth with all wisdom.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'A fool hath no delight in understanding,But that his heart may discover
+        itself.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'When the wicked cometh, <i>then</i> cometh also contempt,And with
+        ignominy reproach.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The words of a man''s mouth <i>are as</i> deep waters,  <i>And</i>
+        the wellspring of wisdom <i>as</i> a flowing brook.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  <i>It is</i> not good to accept the person of the wicked,To overthrow
+        the righteous in judgment.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'A fool''s lips enter into contention,And his mouth calleth for strokes.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'A fool''s mouth <i>is</i> his destruction,And his lips <i>are</i>
+        the snare of his soul.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The words of a talebearer <i>are</i> as wounds,And they go down into
+        the innermost parts of the belly.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'He also that is slothful in his workIs brother to him that is a great
+        waster.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The name of the <smallcaps>LORD</smallcaps>  <i>is</i> a strong tower:The
+        righteous runneth into it, and is safe.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The rich man''s wealth <i>is</i> his strong city,And as an high wall
+        in his own conceit.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Before destruction the heart of man is haughty,And before honour
+        <i>is</i> humility.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'He that answereth a matter before he heareth <i>it</i>,It <i>is</i>
+        folly and shame unto him.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The spirit of a man will sustain his infirmity;But a wounded spirit
+        who can bear?  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The heart of the prudent getteth knowledge;And the ear of the wise
+        seeketh knowledge.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'A man''s gift maketh room for him,And bringeth him before great men.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  <i>He that is</i> first in his own cause <i>seemeth</i> just;But
+        his neighbour cometh and searcheth him.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'The lot causeth contentions to cease,And parteth between the mighty.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'A brother offended <i>is harder to be won</i> than a strong city:And
+        <i>their</i> contentions <i>are</i> like the bars of a castle.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'A man''s belly shall be satisfied with the fruit of his mouth;  <i>And</i>
+        with the increase of his lips shall he be filled.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Death and life <i>are</i> in the power of the tongue:And they that
+        love it shall eat the fruit thereof.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: '  <i>Whoso</i> findeth a wife findeth a good <i>thing</i>,And obtaineth
+        favour of the <smallcaps>LORD</smallcaps>.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'The poor useth intreaties;But the rich answereth roughly.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: A man <i>that hath</i> friends must shew himself friendly:And there
+        is a friend <i>that</i> sticketh closer than a brother.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Better <i>is</i> the poor that walketh in his integrity,Than <i>he
+        that is</i> perverse in his lips, and is a fool.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Also, <i>that</i> the soul <i>be</i> without knowledge, <i>it is</i>
+        not good;And he that hasteth with <i>his</i> feet sinneth.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'The foolishness of man perverteth his way:And his heart fretteth
+        against the <smallcaps>LORD</smallcaps>.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Wealth maketh many friends;But the poor is separated from his neighbour.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'A false witness shall not be unpunished,And <i>he that</i> speaketh
+        lies shall not escape.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Many will intreat the favour of the prince:And every man <i>is</i>
+        a friend to him that giveth gifts.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'All the brethren of the poor do hate him:How much more do his friends
+        go far from him?He pursueth <i>them with</i> words, <i>yet</i> they <i>are</i>
+        wanting <i>to him</i>.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'He that getteth wisdom loveth his own soul:He that keepeth understanding
+        shall find good.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'A false witness shall not be unpunished,And <i>he that</i> speaketh
+        lies shall perish.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Delight is not seemly for a fool;Much less for a servant to have
+        rule over princes.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The discretion of a man deferreth his anger;And <i>it is</i> his
+        glory to pass over a transgression.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The king''s wrath <i>is</i> as the roaring of a lion;But his favour
+        <i>is</i> as dew upon the grass.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'A foolish son <i>is</i> the calamity of his father:And the contentions
+        of a wife <i>are</i> a continual dropping.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'House and riches <i>are</i> the inheritance of fathers:And a prudent
+        wife <i>is</i> from the <smallcaps>LORD</smallcaps>.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Slothfulness casteth into a deep sleep;And an idle soul shall suffer
+        hunger.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'He that keepeth the commandment keepeth his own soul;  <i>But</i>
+        he that despiseth his ways shall die.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'He that hath pity upon the poor lendeth unto the <smallcaps>LORD</smallcaps>;And
+        that which he hath given will he pay him again.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Chasten thy son while there is hope,And let not thy soul spare for
+        his crying.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'A man of great wrath shall suffer punishment:For if thou deliver
+        <i>him</i>, yet thou must do it again.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Hear counsel, and receive instruction,That thou mayest be wise in
+        thy latter end.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  <i>There are</i> many devices in a man''s heart;Nevertheless the
+        counsel of the <smallcaps>LORD</smallcaps>, that shall stand.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'The desire of a man <i>is</i> his kindness:And a poor man <i>is</i>
+        better than a liar.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'The fear of the <smallcaps>LORD</smallcaps>  <i>tendeth</i> to life:And
+        <i>he that hath it</i> shall abide satisfied;He shall not be visited with
+        evil.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'A slothful <i>man</i> hideth his hand in <i>his</i> bosom,And will
+        not so much as bring it to his mouth again.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Smite a scorner, and the simple will beware:And reprove one that
+        hath understanding, <i>and</i> he will understand knowledge.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'He that wasteth <i>his</i> father, <i>and</i> chaseth away <i>his</i>
+        mother,  <i>Is</i> a son that causeth shame, and bringeth reproach.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Cease, my son, to hear the instruction  <i>That causeth</i> to err
+        from the words of knowledge.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'An ungodly witness scorneth judgment:And the mouth of the wicked
+        devoureth iniquity.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: Judgments are prepared for scorners,And stripes for the back of fools.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Wine <i>is</i> a mocker, strong drink <i>is</i> raging:And whosoever
+        is deceived thereby is not wise.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'The fear of a king <i>is</i> as the roaring of a lion:  <i>Whoso</i>
+        provoketh him to anger sinneth <i>against</i> his own soul.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  <i>It is</i> an honour for a man to cease from strife:But every
+        fool will be meddling.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The sluggard will not plow by reason of the cold;  <i>Therefore</i>
+        shall he beg in harvest, and <i>have</i> nothing.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Counsel in the heart of man <i>is like</i> deep water;But a man of
+        understanding will draw it out.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Most men will proclaim every one his own goodness:But a faithful
+        man who can find?  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The just <i>man</i> walketh in his integrity:His children <i>are</i>
+        blessed after him.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'A king that sitteth in the throne of judgmentScattereth away all
+        evil with his eyes.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Who can say, I have made my heart clean,I am pure from my sin?  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Divers weights, <i>and</i> divers measures,Both of them <i>are</i>
+        alike abomination to the <smallcaps>LORD</smallcaps>.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Even a child is known by his doings,Whether his work <i>be</i> pure,
+        and whether <i>it be</i> right.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The hearing ear, and the seeing eye,The <smallcaps>LORD</smallcaps>
+        hath made even both of them.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Love not sleep, lest thou come to poverty;Open thine eyes, <i>and</i>
+        thou shalt be satisfied with bread.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  <i>It is</i> naught, <i>it is</i> naught, saith the buyer:But when
+        he is gone his way, then he boasteth.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'There is gold, and a multitude of rubies:But the lips of knowledge
+        <i>are</i> a precious jewel.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Take his garment that is surety <i>for</i> a stranger:And take a
+        pledge of him for a strange woman.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Bread of deceit <i>is</i> sweet to a man;But afterwards his mouth
+        shall be filled with gravel.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  <i>Every</i> purpose is established by counsel:And with good advice
+        make war.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'He that goeth about <i>as</i> a talebearer revealeth secrets:Therefore
+        meddle not with him that flattereth with his lips.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Whoso curseth his father or his mother,His lamp shall be put out
+        in obscure darkness.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'An inheritance <i>may be</i> gotten hastily at the beginning;But
+        the end thereof shall not be blessed.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Say not thou, I will recompense evil;  <i>But</i> wait on the <smallcaps>LORD</smallcaps>,
+        and he shall save thee.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Divers weights <i>are</i> an abomination unto the <smallcaps>LORD</smallcaps>;And
+        a false balance <i>is</i> not good.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Man''s goings <i>are</i> of the <smallcaps>LORD</smallcaps>;How can
+        a man then understand his own way?  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  <i>It is</i> a snare to the man <i>who</i> devoureth <i>that which
+        is</i> holy,And after vows to make enquiry.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'A wise king scattereth the wicked,And bringeth the wheel over them.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'The spirit of man <i>is</i> the candle of the <smallcaps>LORD</smallcaps>,Searching
+        all the inward parts of the belly.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Mercy and truth preserve the king:And his throne is upholden by mercy.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'The glory of young men <i>is</i> their strength:And the beauty of
+        old men <i>is</i> the grey head.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: The blueness of a wound cleanseth away evil:So <i>do</i> stripes the
+        inward parts of the belly.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  The king''s heart <i>is</i> in the hand of the <smallcaps>LORD</smallcaps>, 
+        <i>As</i> the rivers of water: he turneth it whithersoever he will.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Every way of a man <i>is</i> right in his own eyes:But the <smallcaps>LORD</smallcaps>
+        pondereth the hearts.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'To do justice and judgment  <i>Is</i> more acceptable to the <smallcaps>LORD</smallcaps>
+        than sacrifice.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'An high look, and a proud heart,  <i>And</i> the plowing of the wicked,
+        <i>is</i> sin.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The thoughts of the diligent <i>tend</i> only to plenteousness;But
+        of every one <i>that is</i> hasty only to want.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The getting of treasures by a lying tongue  <i>Is</i> a vanity tossed
+        to and fro of them that seek death.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The robbery of the wicked shall destroy them;Because they refuse
+        to do judgment.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The way of man <i>is</i> froward and strange:But <i>as for</i> the
+        pure, his work <i>is</i> right.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  <i>It is</i> better to dwell in a corner of the housetop,Than with
+        a brawling woman in a wide house.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The soul of the wicked desireth evil:His neighbour findeth no favour
+        in his eyes.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'When the scorner is punished, the simple is made wise:And when the
+        wise is instructed, he receiveth knowledge.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The righteous <i>man</i> wisely considereth the house of the wicked: 
+        <i>But God</i> overthroweth the wicked for <i>their</i> wickedness.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Whoso stoppeth his ears at the cry of the poor,He also shall cry
+        himself, but shall not be heard.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'A gift in secret pacifieth anger:And a reward in the bosom strong
+        wrath.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  <i>It is</i> joy to the just to do judgment:But destruction <i>shall
+        be</i> to the workers of iniquity.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The man that wandereth out of the way of understandingShall remain
+        in the congregation of the dead.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'He that loveth pleasure <i>shall be</i> a poor man:He that loveth
+        wine and oil shall not be rich.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'The wicked <i>shall be</i> a ransom for the righteous,And the transgressor
+        for the upright.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: '  <i>It is</i> better to dwell in the wilderness,Than with a contentious
+        and an angry woman.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: '  <i>There is</i> treasure to be desired and oil in the dwelling
+        of the wise;But a foolish man spendeth it up.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'He that followeth after righteousness and mercyFindeth life, righteousness,
+        and honour.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'A wise <i>man</i> scaleth the city of the mighty,And casteth down
+        the strength of the confidence thereof.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Whoso keepeth his mouth and his tongueKeepeth his soul from troubles.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Proud <i>and</i> haughty scorner <i>is</i> his name,Who dealeth in
+        proud wrath.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'The desire of the slothful killeth him;For his hands refuse to labour.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'He coveteth greedily all the day long:But the righteous giveth and
+        spareth not.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'The sacrifice of the wicked <i>is</i> abomination:How much more,
+        <i>when</i> he bringeth it with a wicked mind?  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'A false witness shall perish:But the man that heareth speaketh constantly.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'A wicked man hardeneth his face:But <i>as for</i> the upright, he
+        directeth his way.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: '  <i>There is</i> no wisdom nor understandingNor counsel against
+        the <smallcaps>LORD</smallcaps>.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: The horse <i>is</i> prepared against the day of battle:But safety
+        <i>is</i> of the <smallcaps>LORD</smallcaps>.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  A <i>good</i> name <i>is</i> rather to be chosen than great riches, 
+        <i>And</i> loving favour rather than silver and gold.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'The rich and poor meet together:The <smallcaps>LORD</smallcaps> 
+        <i>is</i> the maker of them all.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'A prudent <i>man</i> foreseeth the evil, and hideth himself:But the
+        simple pass on, and are punished.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'By humility <i>and</i> the fear of the <smallcaps>LORD</smallcaps> 
+        <i>Are</i> riches, and honour, and life.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Thorns <i>and</i> snares <i>are</i> in the way of the froward:He
+        that doth keep his soul shall be far from them.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Train up a child in the way he should go:And when he is old, he will
+        not depart from it.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The rich ruleth over the poor,And the borrower <i>is</i> servant
+        to the lender.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'He that soweth iniquity shall reap vanity:And the rod of his anger
+        shall fail.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'He that hath a bountiful eye shall be blessed;For he giveth of his
+        bread to the poor.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Cast out the scorner, and contention shall go out;Yea, strife and
+        reproach shall cease.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'He that loveth pureness of heart,  <i>For</i> the grace of his lips
+        the king <i>shall be</i> his friend.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The eyes of the <smallcaps>LORD</smallcaps> preserve knowledge,And
+        he overthroweth the words of the transgressor.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The slothful <i>man</i> saith, <i>There is</i> a lion without,I shall
+        be slain in the streets.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The mouth of strange women <i>is</i> a deep pit:He that is abhorred
+        of the <smallcaps>LORD</smallcaps> shall fall therein.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Foolishness <i>is</i> bound in the heart of a child;  <i>But</i>
+        the rod of correction shall drive it far from him.  '
+      comments: []
+    - name: '16: Words of the Wise'
+      title: Words of the Wise
+      number: 16
+      content: 'He that oppresseth the poor to increase his <i>riches</i>,  <i>And</i>
+        he that giveth to the rich, <i>shall</i> surely <i>come</i> to want.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Bow down thine ear, and hear the words of the wise,And apply thine
+        heart unto my knowledge.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'For <i>it is</i> a pleasant thing if thou keep them within thee;They
+        shall withal be fitted in thy lips.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'That thy trust may be in the <smallcaps>LORD</smallcaps>,I have made
+        known to thee this day, even to thee.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Have not I written to thee excellent thingsIn counsels and knowledge,  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'That I might make thee know the certainty of the words of truth;That
+        thou mightest answer the words of truth to them that send unto thee?  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Rob not the poor, because he <i>is</i> poor:Neither oppress the afflicted
+        in the gate:  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'For the <smallcaps>LORD</smallcaps> will plead their cause,And spoil
+        the soul of those that spoiled them.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Make no friendship with an angry man;And with a furious man thou
+        shalt not go:  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Lest thou learn his ways,And get a snare to thy soul.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Be not thou <i>one</i> of them that strike hands,  <i>Or</i> of them
+        that are sureties for debts.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'If thou hast nothing to pay,Why should he take away thy bed from
+        under thee?  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Remove not the ancient landmark,Which thy fathers have set.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: Seest thou a man diligent in his business? he shall stand before kings;He
+        shall not stand before mean <i>men</i>.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  When thou sittest to eat with a ruler,Consider diligently what
+        <i>is</i> before thee:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And put a knife to thy throat,If thou <i>be</i> a man given to appetite.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Be not desirous of his dainties:For they <i>are</i> deceitful meat.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Labour not to be rich:Cease from thine own wisdom.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Wilt thou set thine eyes upon that which is not?For <i>riches</i>
+        certainly make themselves wings;They fly away as an eagle toward heaven.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Eat thou not the bread of <i>him that hath</i> an evil eye,Neither
+        desire thou his dainty meats:  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For as he thinketh in his heart, so <i>is</i> he:Eat and drink, saith
+        he to thee;But his heart <i>is</i> not with thee.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The morsel <i>which</i> thou hast eaten shalt thou vomit up,And lose
+        thy sweet words.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Speak not in the ears of a fool:For he will despise the wisdom of
+        thy words.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Remove not the old landmark;And enter not into the fields of the
+        fatherless:  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'For their redeemer <i>is</i> mighty;He shall plead their cause with
+        thee.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Apply thine heart unto instruction,And thine ears to the words of
+        knowledge.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Withhold not correction from the child:For <i>if</i> thou beatest
+        him with the rod, he shall not die.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Thou shalt beat him with the rod,And shalt deliver his soul from
+        hell.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'My son, if thine heart be wise,My heart shall rejoice, even mine.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Yea, my reins shall rejoice,When thy lips speak right things.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Let not thine heart envy sinners:But <i>be thou</i> in the fear of
+        the <smallcaps>LORD</smallcaps> all the day long.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'For surely there is an end;And thine expectation shall not be cut
+        off.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Hear thou, my son, and be wise,And guide thine heart in the way.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Be not among winebibbers;Among riotous eaters of flesh:  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'For the drunkard and the glutton shall come to poverty:And drowsiness
+        shall clothe <i>a man</i> with rags.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Hearken unto thy father that begat thee,And despise not thy mother
+        when she is old.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Buy the truth, and sell <i>it</i> not;  <i>Also</i> wisdom, and instruction,
+        and understanding.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'The father of the righteous shall greatly rejoice:And he that begetteth
+        a wise <i>child</i> shall have joy of him.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Thy father and thy mother shall be glad,And she that bare thee shall
+        rejoice.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'My son, give me thine heart,And let thine eyes observe my ways.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'For a whore <i>is</i> a deep ditch;And a strange woman <i>is</i>
+        a narrow pit.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'She also lieth in wait as <i>for</i> a prey,And increaseth the transgressors
+        among men.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Who hath woe? Who hath sorrow?Who hath contentions? Who hath babbling?Who
+        hath wounds without cause?Who hath redness of eyes?  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'They that tarry long at the wine;They that go to seek mixed wine.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Look not thou upon the wine when it is red,When it giveth his colour
+        in the cup,  <i>When</i> it moveth itself aright.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'At the last it biteth like a serpent,And stingeth like an adder.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'Thine eyes shall behold strange women,And thine heart shall utter
+        perverse things.  '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'Yea, thou shalt be as he that lieth down in the midst of the sea,Or
+        as he that lieth upon the top of a mast.  '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: They have stricken me, <i>shalt thou say, and</i> I was not sick;They
+        have beaten me, <i>and</i> I felt <i>it</i> not:When shall I awake?I will
+        seek it yet again.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Be not thou envious against evil men,Neither desire to be with
+        them.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For their heart studieth destruction,And their lips talk of mischief.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Through wisdom is an house builded;And by understanding it is established:  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And by knowledge shall the chambers be filledWith all precious and
+        pleasant riches.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'A wise man <i>is</i> strong;Yea, a man of knowledge increaseth strength.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For by wise counsel thou shalt make thy war:And in multitude of counsellors
+        <i>there is</i> safety.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Wisdom <i>is</i> too high for a fool:He openeth not his mouth in
+        the gate.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'He that deviseth to do evilShall be called a mischievous person.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'The thought of foolishness <i>is</i> sin:And the scorner <i>is</i>
+        an abomination to men.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  <i>If</i> thou faint in the day of adversity,Thy strength <i>is</i>
+        small.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'If thou forbear to deliver <i>them that are</i> drawn unto death,And
+        <i>those that are</i> ready to be slain;  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'If thou sayest, Behold, we knew it not;Doth not he that pondereth
+        the heart consider <i>it?</i>And he that keepeth thy soul, doth <i>not</i>
+        he know <i>it?</i>And shall <i>not</i> he render to <i>every</i> man according
+        to his works?  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'My son, eat thou honey, because <i>it is</i> good;And the honeycomb,
+        <i>which is</i> sweet to thy taste:  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'So <i>shall</i> the knowledge of wisdom <i>be</i> unto thy soul:When
+        thou hast found <i>it</i>, then there shall be a reward,And thy expectation
+        shall not be cut off.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Lay not wait, O wicked <i>man</i>, against the dwelling of the righteous;Spoil
+        not his resting place:  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For a just <i>man</i> falleth seven times, and riseth up again:But
+        the wicked shall fall into mischief.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Rejoice not when thine enemy falleth,And let not thine heart be glad
+        when he stumbleth:  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Lest the <smallcaps>LORD</smallcaps> see <i>it</i>, and it displease
+        him,And he turn away his wrath from him.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Fret not thyself because of evil <i>men</i>,Neither be thou envious
+        at the wicked;  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'For there shall be no reward to the evil <i>man</i>;The candle of
+        the wicked shall be put out.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'My son, fear thou the <smallcaps>LORD</smallcaps> and the king: 
+        <i>And</i> meddle not with them that are given to change:  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'For their calamity shall rise suddenly;And who knoweth the ruin of
+        them both?  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'These <i>things</i> also <i>belong</i> to the wise.  <i>It is</i>
+        not good to have respect of persons in judgment.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'He that saith unto the wicked, Thou <i>art</i> righteous;Him shall
+        the people curse, nations shall abhor him:  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'But to them that rebuke <i>him</i> shall be delight,And a good blessing
+        shall come upon them.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: '  <i>Every man</i> shall kiss <i>his</i> lipsThat giveth a right
+        answer.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Prepare thy work without,And make it fit for thyself in the field;And
+        afterwards build thine house.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Be not a witness against thy neighbour without cause;And deceive
+        <i>not</i> with thy lips.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Say not, I will do so to him as he hath done to me:I will render
+        to the man according to his work.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'I went by the field of the slothful,And by the vineyard of the man
+        void of understanding;  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'And, lo, it was all grown over with thorns,  <i>And</i> nettles had
+        covered the face thereof,And the stone wall thereof was broken down.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Then I saw, <i>and</i> considered <i>it</i> well:I looked upon <i>it,
+        and</i> received instruction.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: '  <i>Yet</i> a little sleep, a little slumber,A little folding of
+        the hands to sleep:  '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: So shall thy poverty come <i>as</i> one that travelleth;And thy want
+        as an armed man.
+      comments: []
+  - verses:
+    - name: '1: Proverbs of Solomon'
+      title: Proverbs of Solomon
+      number: 1
+      content: '  These <i>are</i> also proverbs of Solomon, which the men of Hezekiah
+        king of Judah copied out.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  <i>It is</i> the glory of God to conceal a thing:But the honour
+        of kings <i>is</i> to search out a matter.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'The heaven for height, and the earth for depth,And the heart of kings
+        <i>is</i> unsearchable.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Take away the dross from the silver,And there shall come forth a
+        vessel for the finer.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Take away the wicked <i>from</i> before the king,And his throne shall
+        be established in righteousness.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Put not forth thyself in the presence of the king,And stand not in
+        the place of great <i>men:</i>  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For better <i>it is</i> that it be said unto thee, Come up hither;Than
+        that thou shouldest be put lower in the presence of the princeWhom thine
+        eyes have seen.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Go not forth hastily to strive,Lest <i>thou know not</i> what to
+        do in the end thereof,When thy neighbour hath put thee to shame.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Debate thy cause with thy neighbour <i>himself</i>;And discover not
+        a secret to another:  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Lest he that heareth <i>it</i> put thee to shame,And thine infamy
+        turn not away.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'A word fitly spoken  <i>Is like</i> apples of gold in pictures of
+        silver.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  <i>As</i> an earring of gold, and an ornament of fine gold,  <i>So
+        is</i> a wise reprover upon an obedient ear.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'As the cold of snow in the time of harvest,  <i>So is</i> a faithful
+        messenger to them that send him:For he refresheth the soul of his masters.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Whoso boasteth himself of a false gift  <i>Is like</i> clouds and
+        wind without rain.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'By long forbearing is a prince persuaded,And a soft tongue breaketh
+        the bone.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Hast thou found honey? eat so much as is sufficient for thee,Lest
+        thou be filled therewith, and vomit it.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Withdraw thy foot from thy neighbour''s house;Lest he be weary of
+        thee, and <i>so</i> hate thee.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'A man that beareth false witness against his neighbour  <i>Is</i>
+        a maul, and a sword, and a sharp arrow.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Confidence in an unfaithful man in time of trouble  <i>Is like</i>
+        a broken tooth, and a foot out of joint.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: '  <i>As</i> he that taketh away a garment in cold weather, <i>and
+        as</i> vinegar upon nitre,So <i>is</i> he that singeth songs to an heavy
+        heart.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'If thine enemy be hungry, give him bread to eat;And if he be thirsty,
+        give him water to drink:  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'For thou shalt heap coals of fire upon his head,And the <smallcaps>LORD</smallcaps>
+        shall reward thee.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'The north wind driveth away rain:So <i>doth</i> an angry countenance
+        a backbiting tongue.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: '  <i>It is</i> better to dwell in the corner of the housetop,Than
+        with a brawling woman and in a wide house.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  <i>As</i> cold waters to a thirsty soul,So <i>is</i> good news
+        from a far country.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'A righteous man falling down before the wicked  <i>Is as</i> a troubled
+        fountain, and a corrupt spring.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: '  <i>It is</i> not good to eat much honey:So <i>for men</i> to search
+        their own glory <i>is not</i> glory.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: He that <i>hath</i> no rule over his own spirit  <i>Is like</i> a
+        city <i>that is</i> broken down, <i>and</i> without walls.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  As snow in summer, and as rain in harvest,So honour is not seemly
+        for a fool.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'As the bird by wandering, as the swallow by flying,So the curse causeless
+        shall not come.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'A whip for the horse, a bridle for the ass,And a rod for the fool''s
+        back.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Answer not a fool according to his folly,Lest thou also be like unto
+        him.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Answer a fool according to his folly,Lest he be wise in his own conceit.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'He that sendeth a message by the hand of a foolCutteth off the feet,
+        <i>and</i> drinketh damage.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The legs of the lame are not equal:So <i>is</i> a parable in the
+        mouth of fools.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'As he that bindeth a stone in a sling,So <i>is</i> he that giveth
+        honour to a fool.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  <i>As</i> a thorn goeth up into the hand of a drunkard,So <i>is</i>
+        a parable in the mouth of fools.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The great <i>God</i> that formed all <i>things</i>Both rewardeth
+        the fool, and rewardeth transgressors.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'As a dog returneth to his vomit,  <i>So</i> a fool returneth to his
+        folly.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Seest thou a man wise in his own conceit?  <i>There is</i> more hope
+        of a fool than of him.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The slothful <i>man</i> saith, <i>There is</i> a lion in the way;A
+        lion <i>is</i> in the streets.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  <i>As</i> the door turneth upon his hinges,So <i>doth</i> the slothful
+        upon his bed.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The slothful hideth his hand in <i>his</i> bosom;It grieveth him
+        to bring it again to his mouth.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The sluggard <i>is</i> wiser in his own conceitThan seven men that
+        can render a reason.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'He that passeth by, <i>and</i> meddleth with strife <i>belonging</i>
+        not to him,  <i>Is like</i> one that taketh a dog by the ears.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'As a mad <i>man</i> who casteth firebrands,Arrows, and death,  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'So <i>is</i> the man <i>that</i> deceiveth his neighbour,And saith,
+        Am not I in sport?  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Where no wood is, <i>there</i> the fire goeth out:So where <i>there
+        is</i> no talebearer, the strife ceaseth.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  <i>As</i> coals <i>are</i> to burning coals, and wood to fire;So
+        <i>is</i> a contentious man to kindle strife.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'The words of a talebearer <i>are</i> as wounds,And they go down into
+        the innermost parts of the belly.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Burning lips and a wicked heart  <i>Are like</i> a potsherd covered
+        with silver dross.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'He that hateth dissembleth with his lips,And layeth up deceit within
+        him;  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'When he speaketh fair, believe him not:For <i>there are</i> seven
+        abominations in his heart.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: '  <i>Whose</i> hatred is covered by deceit,His wickedness shall be
+        shewed before the <i>whole</i> congregation.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Whoso diggeth a pit shall fall therein:And he that rolleth a stone,
+        it will return upon him.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: A lying tongue hateth <i>those that are</i> afflicted by it;And a
+        flattering mouth worketh ruin.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Boast not thyself of to morrow;For thou knowest not what a day
+        may bring forth.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Let another man praise thee, and not thine own mouth;A stranger,
+        and not thine own lips.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'A stone <i>is</i> heavy, and the sand weighty;But a fool''s wrath
+        <i>is</i> heavier than them both.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Wrath <i>is</i> cruel, and anger <i>is</i> outrageous;But who <i>is</i>
+        able to stand before envy?  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Open rebuke <i>is</i> betterThan secret love.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Faithful <i>are</i> the wounds of a friend;But the kisses of an enemy
+        <i>are</i> deceitful.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The full soul loatheth an honeycomb;But to the hungry soul every
+        bitter thing is sweet.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'As a bird that wandereth from her nest,So <i>is</i> a man that wandereth
+        from his place.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Ointment and perfume rejoice the heart:So <i>doth</i> the sweetness
+        of a man''s friend by hearty counsel.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Thine own friend, and thy father''s friend, forsake not;Neither go
+        into thy brother''s house in the day of thy calamity:  <i>For</i> better
+        <i>is</i> a neighbour <i>that is</i> near than a brother far off.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'My son, be wise, and make my heart glad,That I may answer him that
+        reproacheth me.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'A prudent <i>man</i> foreseeth the evil, <i>and</i> hideth himself; 
+        <i>But</i> the simple pass on, <i>and</i> are punished.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Take his garment that is surety for a stranger,And take a pledge
+        of him for a strange woman.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'He that blesseth his friend with a loud voice, rising early in the
+        morning,It shall be counted a curse to him.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'A continual dropping in a very rainy dayAnd a contentious woman are
+        alike.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Whosoever hideth her hideth the wind,And the ointment of his right
+        hand, <i>which</i> bewrayeth <i>itself</i>.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Iron sharpeneth iron;So a man sharpeneth the countenance of his friend.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Whoso keepeth the fig tree shall eat the fruit thereof:So he that
+        waiteth on his master shall be honoured.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'As in water face <i>answereth</i> to face,So the heart of man to
+        man.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Hell and destruction are never full;So the eyes of man are never
+        satisfied.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  <i>As</i> the fining pot for silver, and the furnace for gold;So
+        <i>is</i> a man to his praise.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Though thou shouldest bray a fool in a mortar among wheat with a
+        pestle,  <i>Yet</i> will not his foolishness depart from him.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Be thou diligent to know the state of thy flocks,  <i>And</i> look
+        well to thy herds.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'For riches <i>are</i> not for ever:And doth the crown <i>endure</i>
+        to every generation?  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'The hay appeareth, and the tender grass sheweth itself,And herbs
+        of the mountains are gathered.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'The lambs <i>are</i> for thy clothing,And the goats <i>are</i> the
+        price of the field.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: And <i>thou shalt have</i> goats' milk enough for thy food, for the
+        food of thy household,And <i>for</i> the maintenance for thy maidens.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  The wicked flee when no man pursueth:But the righteous are bold
+        as a lion.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For the transgression of a land many <i>are</i> the princes thereof:But
+        by a man of understanding <i>and</i> knowledge the state <i>thereof</i> shall
+        be prolonged.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'A poor man that oppresseth the poor  <i>Is like</i> a sweeping rain
+        which leaveth no food.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'They that forsake the law praise the wicked:But such as keep the
+        law contend with them.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Evil men understand not judgment:But they that seek the <smallcaps>LORD</smallcaps>
+        understand all <i>things</i>.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Better <i>is</i> the poor that walketh in his uprightness,Than <i>he
+        that is</i> perverse <i>in his</i> ways, though he <i>be</i> rich.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Whoso keepeth the law <i>is</i> a wise son:But he that is a companion
+        of riotous <i>men</i> shameth his father.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'He that by usury and unjust gain increaseth his substance,He shall
+        gather it for him that will pity the poor.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'He that turneth away his ear from hearing the law,Even his prayer
+        <i>shall be</i> abomination.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Whoso causeth the righteous to go astray in an evil way,He shall
+        fall himself into his own pit:But the upright shall have good <i>things</i>
+        in possession.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The rich man <i>is</i> wise in his own conceit;But the poor that
+        hath understanding searcheth him out.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'When righteous <i>men</i> do rejoice, <i>there is</i> great glory:But
+        when the wicked rise, a man is hidden.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'He that covereth his sins shall not prosper:But whoso confesseth
+        and forsaketh <i>them</i> shall have mercy.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Happy <i>is</i> the man that feareth alway:But he that hardeneth
+        his heart shall fall into mischief.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  <i>As</i> a roaring lion, and a ranging bear;  <i>So is</i> a wicked
+        ruler over the poor people.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The prince that wanteth understanding <i>is</i> also a great oppressor: 
+        <i>But</i> he that hateth covetousness shall prolong <i>his</i> days.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'A man that doeth violence to the blood of <i>any</i> personShall
+        flee to the pit; let no man stay him.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Whoso walketh uprightly shall be saved:But <i>he that is</i> perverse
+        <i>in his</i> ways shall fall at once.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'He that tilleth his land shall have plenty of bread:But he that followeth
+        after vain <i>persons</i> shall have poverty enough.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'A faithful man shall abound with blessings:But he that maketh haste
+        to be rich shall not be innocent.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'To have respect of persons <i>is</i> not good:For for a piece of
+        bread <i>that</i> man will transgress.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'He that hasteth to be rich <i>hath</i> an evil eye,And considereth
+        not that poverty shall come upon him.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'He that rebuketh a man afterwards shall find more favourThan he that
+        flattereth with the tongue.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Whoso robbeth his father or his mother, and saith, <i>It is</i> no
+        transgression;The same <i>is</i> the companion of a destroyer.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'He that is of a proud heart stirreth up strife:But he that putteth
+        his trust in the <smallcaps>LORD</smallcaps> shall be made fat.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'He that trusteth in his own heart is a fool:But whoso walketh wisely,
+        he shall be delivered.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'He that giveth unto the poor shall not lack:But he that hideth his
+        eyes shall have many a curse.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: When the wicked rise, men hide themselves:But when they perish, the
+        righteous increase.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  He, that being often reproved hardeneth <i>his</i> neck,Shall suddenly
+        be destroyed, and that without remedy.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'When the righteous are in authority, the people rejoice:But when
+        the wicked beareth rule, the people mourn.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Whoso loveth wisdom rejoiceth his father:But he that keepeth company
+        with harlots spendeth <i>his</i> substance.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The king by judgment establisheth the land:But he that receiveth
+        gifts overthroweth it.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'A man that flattereth his neighbourSpreadeth a net for his feet.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'In the transgression of an evil man <i>there is</i> a snare:But the
+        righteous doth sing and rejoice.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The righteous considereth the cause of the poor:  <i>But</i> the
+        wicked regardeth not to know <i>it</i>.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Scornful men bring a city into a snare:But wise <i>men</i> turn away
+        wrath.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  <i>If</i> a wise man contendeth with a foolish man,Whether he rage
+        or laugh, <i>there is</i> no rest.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The bloodthirsty hate the upright:But the just seek his soul.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'A fool uttereth all his mind:But a wise <i>man</i> keepeth it in
+        till afterwards.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'If a ruler hearken to lies,All his servants <i>are</i> wicked.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The poor and the deceitful man meet together:The <smallcaps>LORD</smallcaps>
+        lighteneth both their eyes.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The king that faithfully judgeth the poor,His throne shall be established
+        for ever.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The rod and reproof give wisdom:But a child left <i>to himself</i>
+        bringeth his mother to shame.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'When the wicked are multiplied, transgression increaseth:But the
+        righteous shall see their fall.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Correct thy son, and he shall give thee rest;Yea, he shall give delight
+        unto thy soul.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Where <i>there is</i> no vision, the people perish:But he that keepeth
+        the law, happy <i>is</i> he.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'A servant will not be corrected by words:For though he understand
+        he will not answer.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Seest thou a man <i>that is</i> hasty in his words?  <i>There is</i>
+        more hope of a fool than of him.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'He that delicately bringeth up his servant from a childShall have
+        him become <i>his</i> son at the length.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'An angry man stirreth up strife,And a furious man aboundeth in transgression.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'A man''s pride shall bring him low:But honour shall uphold the humble
+        in spirit.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Whoso is partner with a thief hateth his own soul:He heareth cursing,
+        and bewrayeth <i>it</i> not.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'The fear of man bringeth a snare:But whoso putteth his trust in the
+        <smallcaps>LORD</smallcaps> shall be safe.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Many seek the ruler''s favour;But <i>every</i> man''s judgment <i>cometh</i>
+        from the <smallcaps>LORD</smallcaps>.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: An unjust man <i>is</i> an abomination to the just:And <i>he that
+        is</i> upright in the way <i>is</i> abomination to the wicked.
+      comments: []
+  - verses:
+    - name: '1: Words of Agur'
+      title: Words of Agur
+      number: 1
+      content: '  The words of Agur the son of Jakeh, <i>even</i> the prophecy:The
+        man spake unto Ithiel,even unto Ithiel and Ucal,  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Surely I <i>am</i> more brutish than <i>any</i> man,And have not
+        the understanding of a man.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'I neither learned wisdom,Nor have the knowledge of the holy.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Who hath ascended up into heaven, or descended?Who hath gathered
+        the wind in his fists?Who hath bound the waters in a garment?Who hath established
+        all the ends of the earth?What <i>is</i> his name, and what <i>is</i> his
+        son''s name,If thou canst tell?  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Every word of God <i>is</i> pure:He <i>is</i> a shield unto them
+        that put their trust in him.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Add thou not unto his words,Lest he reprove thee, and thou be found
+        a liar.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Two <i>things</i> have I required of thee;Deny me <i>them</i> not
+        before I die:  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Remove far from me vanity and lies:Give me neither poverty nor riches;Feed
+        me with food convenient for me:  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Lest I be full, and deny <i>thee</i>, and say,Who <i>is</i> the <smallcaps>LORD</smallcaps>?Or
+        lest I be poor, and steal,And take the name of my God <i>in vain</i>.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Accuse not a servant unto his master,Lest he curse thee, and thou
+        be found guilty.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  <i>There is</i> a generation <i>that</i> curseth their father,And
+        doth not bless their mother.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  <i>There is</i> a generation <i>that are</i> pure in their own
+        eyes,And <i>yet</i> is not washed from their filthiness.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  <i>There is</i> a generation, O how lofty are their eyes!And their
+        eyelids are lifted up.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  <i>There is</i> a generation, whose teeth <i>are as</i> swords,
+        and their jaw teeth <i>as</i> knives,To devour the poor from off the earth,
+        and the needy from <i>among</i> men.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The horseleach hath two daughters, <i>crying</i>, Give, give.There
+        are three <i>things that</i> are never satisfied,  <i>Yea</i>, four <i>things</i>
+        say not,  <i>It is</i> enough:  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The grave; and the barren womb;The earth <i>that</i> is not filled
+        with water;And the fire <i>that</i> saith not, <i>It is</i> enough.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'The eye <i>that</i> mocketh at <i>his</i> father,And despiseth to
+        obey <i>his</i> mother,The ravens of the valley shall pick it out,And the
+        young eagles shall eat it.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'There be three <i>things which</i> are too wonderful for me,Yea,
+        four which I know not:  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'The way of an eagle in the air;The way of a serpent upon a rock;The
+        way of a ship in the midst of the sea;And the way of a man with a maid.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Such <i>is</i> the way of an adulterous woman;She eateth, and wipeth
+        her mouth,And saith, I have done no wickedness.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'For three <i>things</i> the earth is disquieted,And for four <i>which</i>
+        it cannot bear:  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'For a servant when he reigneth;And a fool when he is filled with
+        meat;  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'For an odious <i>woman</i> when she is married;And an handmaid that
+        is heir to her mistress.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'There be four <i>things which are</i> little upon the earth,But they
+        <i>are</i> exceeding wise:  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'The ants <i>are</i> a people not strong,Yet they prepare their meat
+        in the summer;  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'The conies <i>are but</i> a feeble folk,Yet make they their houses
+        in the rocks;  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'The locusts have no king,Yet go they forth all of them by bands;  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'The spider taketh hold with her hands,And is in kings'' palaces.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'There be three <i>things</i> which go well,Yea, four are comely in
+        going:  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'A lion <i>which is</i> strongest among beasts,And turneth not away
+        for any;  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'An greyhound; an he goat also;And a king, against whom <i>there is</i>
+        no rising up.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'If thou hast done foolishly in lifting up thyself,Or if thou hast
+        thought evil,  <i>Lay</i> thine hand upon thy mouth.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: Surely the churning of milk bringeth forth butter,And the wringing
+        of the nose bringeth forth blood:So the forcing of wrath bringeth forth strife.
+      comments: []
+  - verses:
+    - name: '1: Words of Lemuel'
+      title: Words of Lemuel
+      number: 1
+      content: '  The words of king Lemuel, the prophecy that his mother taught him.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'What, my son? and what, the son of my womb?And what, the son of my
+        vows?  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Give not thy strength unto women,Nor thy ways to that which destroyeth
+        kings.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  <i>It is</i> not for kings, O Lemuel, <i>it is</i> not for kings
+        to drink wine;Nor for princes strong drink:  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Lest they drink, and forget the law,And pervert the judgment of any
+        of the afflicted.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Give strong drink unto him that is ready to perish,And wine unto
+        those that be of heavy hearts.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Let him drink, and forget his poverty,And remember his misery no
+        more.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Open thy mouth for the dumbIn the cause of all such as are appointed
+        to destruction.  '
+      comments: []
+    - name: '9: The Good Wife'
+      title: The Good Wife
+      number: 9
+      content: 'Open thy mouth, judge righteously,And plead the cause of the poor
+        and needy.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Who can find a virtuous woman?For her price <i>is</i> far above rubies.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The heart of her husband doth safely trust in her,So that he shall
+        have no need of spoil.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'She will do him good and not evilAll the days of her life.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'She seeketh wool, and flax,And worketh willingly with her hands.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'She is like the merchants'' ships;She bringeth her food from afar.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'She riseth also while it is yet night,And giveth meat to her household,And
+        a portion to her maidens.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'She considereth a field, and buyeth it:With the fruit of her hands
+        she planteth a vineyard.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'She girdeth her loins with strength,And strengtheneth her arms.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'She perceiveth that her merchandise <i>is</i> good:Her candle goeth
+        not out by night.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'She layeth her hands to the spindle,And her hands hold the distaff.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'She stretcheth out her hand to the poor;Yea, she reacheth forth her
+        hands to the needy.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'She is not afraid of the snow for her household:For all her household
+        <i>are</i> clothed with scarlet.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'She maketh herself coverings of tapestry;Her clothing <i>is</i> silk
+        and purple.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Her husband is known in the gates,When he sitteth among the elders
+        of the land.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'She maketh fine linen, and selleth <i>it</i>;And delivereth girdles
+        unto the merchant.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Strength and honour <i>are</i> her clothing;And she shall rejoice
+        in time to come.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'She openeth her mouth with wisdom;And in her tongue <i>is</i> the
+        law of kindness.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'She looketh well to the ways of her household,And eateth not the
+        bread of idleness.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Her children arise up, and call her blessed;Her husband <i>also</i>,
+        and he praiseth her.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Many daughters have done virtuously,But thou excellest them all.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Favour <i>is</i> deceitful, and beauty <i>is</i> vain:  <i>But</i>
+        a woman <i>that</i> feareth the <smallcaps>LORD</smallcaps>, she shall be
+        praised.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: Give her of the fruit of her hands;And let her own works praise her
+        in the gates.
+      comments: []

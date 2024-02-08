@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: PHM
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: FILEMON
+  fancyName: 
+  nickname: phm
+  version: {fileID: 11400000, guid: b1692a818c1891646a9fe3db3324e541, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Si Pablo, na bilanggo ni Cristo Jesus, at si Timoteo na ating kapatid
+        kay Filemon na aming minamahal at kamanggagawa,  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'At kay Apia na ating kapatid na babae, at kay Arquipo na kapuwa kawal
+        namin, at sa iglesia sa iyong bahay:  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Sumainyo nawa ang biyaya at kapayapaang mula sa Dios na ating Ama
+        at sa Panginoong Jesucristo.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Nagpapasalamat akong lagi sa aking Dios, na ikaw ay binabanggit
+        ko sa aking mga panalangin,  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Sa pagkabalita ko ng iyong pagibig, at ng pananampalataya mo sa Panginoong
+        Jesus, at sa lahat ng mga banal;  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Upang ang pakikipagkaisa ng iyong pananampalataya, ay maging mabisa
+        sa pagkaalam ng bawa''t mabuting bagay na nasa iyo, sa kay Cristo.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  Sapagka''t ako''y totoong nagalak at naaliw sa iyong pagibig, sapagka''t
+        ang mga puso ng mga banal ay naginhawahan sa pamamagitan mo, kapatid.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Kaya, bagama''t kay Cristo ay mayroon akong buong pagkakatiwala upang
+        ipagtagubilin ko sa iyo ang nauukol,  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Gayon ma''y alangalang sa pagibig ay bagkus akong namamanhik, kung
+        sa bagay akong si Pablo ay matanda na, at ngayon nama''y bilanggo ni Cristo
+        Jesus:  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Ipinamamanhik ko sa iyo ang aking anak, na aking ipinanganak sa aking
+        mga tanikala, si Onesimo,  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Na nang unang panahon ay hindi mo pinakinabangan, datapuwa''t ngayon
+        ay may pakikinabangin ka at ako man:  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Na siya''y aking pinabalik sa iyo sa kaniyang sariling katawan, sa
+        makatuwid baga''y, ang aking sariling puso:  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Na ibig ko sanang pigilin siya sa aking piling, upang sa iyong pangalan
+        ay paglingkuran ako sa mga tanikala ng evangelio:  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Datapuwa''t kung wala kang pasiya ay wala akong magagawang anoman;
+        upang ang iyong kabutihang-loob ay huwag maging tila sa pagkakailangan, kundi
+        sa sariling kalooban.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Sapagka''t marahil sa ganito siya''y nahiwalay sa iyo sa sangdaling
+        panahon, upang siya''y mapasa iyo magpakailan man;  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Na hindi na alipin, kundi higit sa alipin, isang kapatid na minamahal,
+        lalong lalo na sa akin, nguni''t gaano pa kaya sa iyo, na siya''y minamahal
+        mo maging sa laman at gayon din sa Panginoon.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  Kung ako nga ay inaari mong kasama, ay tanggapin mo siyang tila
+        ako rin.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Nguni''t kung siya''y nagkasala sa iyo ng anoman, o may utang sa
+        iyong anoman, ay ibilang mo sa akin;  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Akong si Pablo na sumusulat nito ng aking sariling kamay, ay siyang
+        magbabayad sa iyo: hindi sa sinasabi ko sa iyo na ikaw man ay utang mo pa
+        sa akin.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Oo, kapatid, magkaroon nawa ako ng katuwaan sa iyo sa Panginoon:
+        panariwain mo ang aking puso kay Cristo.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Kita''y sinulatan sa pagkakatiwala sa iyong pagtalima, palibhasa''y
+        aking nalalaman na gagawin mo ang higit pa kay sa aking sinasabi.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Datapuwa''t bago ang lahat ay ipaghanda mo ako ng matutuluyan: sapagka''t
+        inaasahan kong sa pamamagitan ng inyong mga panalangin ay ipagkakaloob ako
+        sa inyo.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Binabati ka ni Epafras, na aking kasama sa pagkabilanggo kay Cristo
+        Jesus;  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: '  At gayon din ni Marcos, ni Aristarco, ni Demas, at ni Lucas na
+        aking mga kamanggagawa.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  Ang biyaya ng ating Panginoong Jesucristo ay sumainyo nawang espiritu.
+        Siya nawa.'
+      comments: []

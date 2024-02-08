@@ -1,0 +1,2490 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: 2CO
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: "2\_Corinthians"
+  fancyName: 
+  nickname: 2co
+  version: {fileID: 11400000, guid: 69cda689d36a6b64ca4a020e1d829e9f, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: "1: Paul\u2019s Greeting"
+      title: "Paul\u2019s Greeting"
+      number: 1
+      content: "From Paul to God\u2019s called ones, his church in Corinth.I have
+        been chosen by Jesus Christ to be his apostle according to God\u2019s perfect
+        plan. Our brother Timothy joins me in writing to you and all the holy believers
+        throughout the Roman province of Achaia. [[COMMENT(0)]]  "
+      comments:
+      - number: 1:1
+        content: '  Although this letter was addressed primarily to the Corinthians,
+          it was intended to be read by the churches in southern Greece (Achaia).    '
+    - name: '2: '
+      title: 
+      number: 2
+      content: May undeserved favor and endless peace be yours continually from our
+        Father God and from our Lord Jesus, the Anointed One!
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'All praises belong to the God and Father of our Lord Jesus Christ.
+        For he is the Father of tender mercy and the God of endless comfort. [[COMMENT(0)]]  '
+      comments:
+      - number: 1:3
+        content: "  Unlike Paul\u2019s other letters, he skips over making his customary
+          pleasant greeting to the Corinthians and begins this letter bursting with
+          exuberant praise to God, who had delivered him from all of his painful
+          ordeals. Tender mercy and compassion originate with God. As a kind father
+          has compassion on his children, so God tenderly cares for each one of us.
+          When suffering greets us, the God of mercy sustains us. His comfort is
+          permanent and endless. See  .    "
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'He always comes alongside us to comfort us in every suffering so
+        that we can come alongside those who are in any painful trial. We can bring
+        them this same comfort that God has poured out upon us. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And just as we experience the abundance of Christ\u2019s own sufferings,
+        [[COMMENT(0)]] even more of God\u2019s comfort will cascade upon us through
+        our union with Christ."
+      comments:
+      - number: 1:5
+        content: "  That is, \u201Cthe sufferings we endure because of faithfully
+          following Christ.\u201D    "
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'If troubles weigh us down, that just means that we will receive even
+        more comfort to pass on to you for your deliverance! For the comfort pouring
+        into us empowers us to bring comfort to you. And with this comfort upholding
+        you, you can endure victoriously the same suffering that we experience. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Now our hope for you is unshakable, [[COMMENT(0)]] because we know
+        that just as you share in our sufferings you will also share in God\u2019s
+        comforting strength."
+      comments:
+      - number: 1:7
+        content: "  Or \u201Cfirmly guaranteed.\u201D    "
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Brothers and sisters, you need to know about the severe trials we
+        experienced while we were in western Turkey. [[COMMENT(0)]] All of the hardships
+        we passed through crushed us beyond our ability to endure, and we were so
+        completely overwhelmed that we were about to give up entirely.   '
+      comments:
+      - number: 1:8
+        content: "  Or \u201CAsia.\u201D This was not the continent of Asia known
+          today, but the Roman province of Asia comprised of western Turkey.     
+          We are not told exactly what overwhelming suffering Paul endured that caused
+          him to write these words with such honest emotion. Some believe he had
+          escaped an assassination attempt or perhaps a mob who had gathered to kill
+          him. Regardless, the sufferings Paul endured were many. See  .    "
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'It felt like we [[COMMENT(0)]] had a death sentence written upon
+        our hearts, and we still feel it to this day. It has taught us to lose all
+        faith in ourselves and to place all of our trust in the God who raises the
+        dead. '
+      comments:
+      - number: 1:9
+        content: "  The Greek text is extremely emphatic: \u201CIt felt like we ourselves,
+          within our very beings, had received the verdict of death!\u201D    "
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'He has rescued us from terrifying encounters with death. And now
+        we fasten our hopes on him to continue to deliver us from death yet again, '
+      comments: []
+    - name: '11: Apostolic Integrity'
+      title: Apostolic Integrity
+      number: 11
+      content: as you labor together with us through prayer. [[COMMENT(0)]]  Because
+        there are so many interceding for us, our deliverance will cause even more
+        people to give thanks to God. What a gracious gift of mercy surrounds us
+        because of your prayers!
+      comments:
+      - number: 1:11
+        content: "  Or \u201Cas you lift up your faces to God in prayer.\u201D Paul
+          knew that intercessory prayer has the power to change the future.    "
+    - name: '12: '
+      title: 
+      number: 12
+      content: "We rejoice in saying with complete honesty and a clear conscience
+        [[COMMENT(0)]] that God has empowered us to conduct ourselves  in a holy
+        manner and with no hidden agenda.  God\u2019s marvelous grace enables us
+        to minister to everyone with pure motives, not in the clever wisdom of the
+        world. This is especially true in all of our dealings with you. "
+      comments:
+      - number: 1:12
+        content: "  Or \u201Cindeed, our boasting and the testimony of our conscience.\u201D     
+          Paul regularly uses \u201Cwe\u201D and \u201Cour\u201D in 2&nbsp;Corinthians
+          to refer to apostles and apostolic ministry.      Or \u201CWe have behaved
+          in the world with holiness and godly sincerity\u201D (Aramaic, \u201Cpurity\u201D).
+          Our boast and joy in ministry is not what we have done or how many followers
+          we have, but that our conscience is clean and our motives unmixed. Paul
+          is not taking credit for himself but stating clearly that God\u2019s grace
+          was his source of strength and purity.    "
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'We write to you with words that are clearly understood, and there
+        is no need for you to try to read between the lines of what we write in hopes
+        that you can completely and accurately understand our hearts. '
+      comments: []
+    - name: '14: Paul Explains His Changed Plans'
+      title: Paul Explains His Changed Plans
+      number: 14
+      content: "We know you have already understood us in a measure and that you
+        will eventually come to understand us fully. [[COMMENT(0)]] Then you\u2019ll
+        be able to boast of us even as we will boast of you in the day of our Lord
+        Jesus."
+      comments:
+      - number: 1:14
+        content: "  Or \u201Cto the end.\u201D    "
+    - name: '15-16: '
+      title: 
+      number: 15-16
+      content: "With this confidence, I\u2019m wanting to visit you before and after
+        my trip to Macedonia  [[COMMENT(0)]] so that you enjoy a second experience
+        of grace.  Afterward, I\u2019m hoping you will be able to aid me on my journey
+        to Israel.   "
+      comments:
+      - number: "1:15\u201316"
+        content: "  Implied and made explicit from v.  .      Or \u201Ca second pleasure.\u201D
+          It is possible Paul is using a figure of speech for his second trip to
+          visit them.      Or \u201CJudea.\u201D    "
+    - name: '15-16: '
+      title: 
+      number: 15-16
+      content: "With this confidence, I\u2019m wanting to visit you before and after
+        my trip to Macedonia  [[COMMENT(0)]] so that you enjoy a second experience
+        of grace.  Afterward, I\u2019m hoping you will be able to aid me on my journey
+        to Israel.   "
+      comments:
+      - number: "1:15\u201316"
+        content: "  Implied and made explicit from v.  .      Or \u201Ca second pleasure.\u201D
+          It is possible Paul is using a figure of speech for his second trip to
+          visit them.      Or \u201CJudea.\u201D    "
+    - name: '17: '
+      title: 
+      number: 17
+      content: "When I revised my itinerary, was I vacillating? Or do I make my plans
+        with unprincipled motives, [[COMMENT(0)]] ready to flip-flop with a \u201Cyes\u201D
+        and a \u201Cno\u201D in the same breath? Of course not!    "
+      comments:
+      - number: 1:17
+        content: "  Or \u201Caccording to the [ways of the] flesh.\u201D      The
+          change of Paul\u2019s plans was used by his detractors as a sign of him
+          being untrustworthy. But Paul explains that his itinerary change was not
+          an indication of a lack of concern for them, but because he didn\u2019t
+          want to come and have to rebuke them. He wanted to give the Holy Spirit
+          time in their lives to help work out their issues. His longing was to come
+          with joy and to impart his joy to them, rather than causing more pain.
+          This is why he wrote an emotional letter to them pleading with them to
+          change their ways.    "
+    - name: '18: '
+      title: 
+      number: 18
+      content: "For as God is true to his word, my promise [[COMMENT(0)]] to you
+        was not a fickle \u201Cyes\u201D when I meant \u201Cno.\u201D"
+      comments:
+      - number: 1:18
+        content: "  Or \u201Cmy message.\u201D    "
+    - name: '19: '
+      title: 
+      number: 19
+      content: "Jesus Christ is the Son of God, and he is the one whom Timothy, Silas,
+        and I have preached to you\u2014and he has never been both a \u201Cyes\u201D
+        and a \u201Cno.\u201D He has always been and always will be for us a resounding
+        \u201CYES!\u201D "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "For all of God\u2019s promises find their \u201Cyes\u201D of fulfillment
+        in him. [[COMMENT(0)]] And as his \u201Cyes\u201D and our \u201Camen\u201D 
+        ascend to God, we bring him glory! "
+      comments:
+      - number: 1:20
+        content: "  The Aramaic can be translated \u201CAll of the kingdoms of God
+          are in him.\u201D      The Hebrew word for \u201Camen\u201D means \u201CThat\u2019s
+          right!\u201D      This elliptical sentence could imply the following: (1)
+          It is through Christ that we hear and believe God\u2019s promises and say
+          the declaration of our faith, \u201CAmen,\u201D or (2) it is Christ who
+          speaks through us the \u201CAmen\u201D (of faith).    "
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Now, it is God himself who has anointed us. And he is constantly
+        strengthening both you and us in union with Christ. '
+      comments: []
+    - name: "22: A Change in Paul\u2019s Travel Plans"
+      title: "A Change in Paul\u2019s Travel Plans"
+      number: 22
+      content: "He knows we are his since he has also stamped his seal of love [[COMMENT(0)]]
+        over our hearts and has given us the Holy Spirit like an engagement ring
+        is given to a bride\u2014a down payment of the blessings to come!"
+      comments:
+      - number: 1:22
+        content: "  The Greek word for seal is  . God has sealed believers with a
+          seven-fold seal: (1) a seal of security, sealed tightly and kept secure
+          in God\u2019s love (;  ;  ), (2) a seal of authentication that marks us
+          as God\u2019s very own (;  ;  ), (3) a seal to certify genuineness (, 
+          ;  ), (4) a seal of ownership (;  ;  ), (5) a seal of approval (), (6)
+          a seal of righteousness (), and (7) a seal denoting a promise to be fulfilled
+          (;  ;  ). The mark given by the beast is upon the forehead and hand, but
+          the \u201Cseal\u201D of Christ is over our hearts. Jesus, our Bridegroom,
+          invites us to place him over our hearts like a fiery seal of love, the
+          jealous flame of God that burns continually in our hearts (). We are born
+          of the Spirit, sealed with the Spirit, indwelt by the Spirit, baptized
+          in the Spirit, filled with the Spirit, made one (unity) in the Spirit,
+          given gifts of the Spirit, and given ministries by the Spirit. He is a
+          promise, a seal, and a guarantee of receiving our full inheritance. The
+          Greek word for \u201Cdown payment\u201D is    and is used in Greek culture
+          for \u201Cengagement ring.\u201D Notice in vv.    that the Trinity (Father,
+          Son, and Holy Spirit) is involved in bringing all this to pass.    "
+    - name: '23: '
+      title: 
+      number: 23
+      content: "Now, I call upon this faithful God as a witness against me if I\u2019m
+        not telling you the absolute truth. It was because I hold you in my heart
+        that I decided not to return to Corinth, in order to spare you the humiliation
+        of my rebuke. "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "But I don\u2019t want to imply that as leaders we coerce you or somehow
+        want to rule over your faith. [[COMMENT(0)]] Instead, we are your partners
+        who are called to increase your joy.  And we know that you already stand
+        firm because of your strong faith. "
+      comments:
+      - number: 1:24
+        content: "  Or \u201Cdictate what you must believe.\u201D      The Aramaic
+          can be translated \u201CWe are helpers of your joy.\u201D True ministry
+          in God\u2019s kingdom is to be coworkers with those we serve, laboring
+          to see them overflow with joy. There is no control that leaders are to
+          have over the people they serve; rather, they are to inspire lives to be
+          filled with the joy of knowing Jesus.      The Aramaic can be translated
+          \u201CFor it is through faith that you stand.\u201D  "
+  - verses:
+    - name: "1: Paul\u2019s Previous Letter"
+      title: "Paul\u2019s Previous Letter"
+      number: 1
+      content: 'So until these issues were settled, [[COMMENT(0)]] I decided against
+        paying you another painful visit.   '
+      comments:
+      - number: 2:1
+        content: '  See  .      Paul implies that he had already paid them one painful
+          visit ().    '
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For if I brought you pain, you would be unable to bring me joy. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And this was the very point I made in my letter, for I didn\u2019t
+        want to come and find sadness filling the very ones who should give me cheer.
+        But I\u2019m confident that you will do what\u2019s right so that my joyous
+        delight will be yours."
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'I wrote you previously sobbing and with a broken heart. [[COMMENT(0)]]
+        I was filled with anguish and deep distress. I had no intention of causing
+        you pain but to convey the overwhelming measure of my love for you. '
+      comments:
+      - number: 2:4
+        content: '  Paul is referring here (and in v.  ) not to 1&nbsp;Corinthians
+          but to a letter he had written them after they received 1&nbsp;Corinthians
+          and failed to properly respond to what he wrote. This painful letter (see
+          also  ) was a reprimand that powerfully impacted them. God has sovereignly
+          chosen that we would not have this painful letter included in the New Testament,
+          but its impact on the Corinthians is noteworthy. See also  .    '
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For the one who has caused me grief has not only grieved me but,
+        to some extent, has caused you all grief as well. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'I believe that your united rebuke [[COMMENT(0)]] has been punishment
+        enough for him. '
+      comments:
+      - number: 2:6
+        content: "  The Aramaic can be translated \u201CYour triple rebuke is enough
+          punishment.\u201D    "
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Instead of more punishment, what he needs most is your encouragement
+        through your gracious display of forgiveness. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: I beg you to reaffirm your deep love for him.
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'You see, I wrote previously in order to see if your hearts would
+        pass the test and if you were willing to follow my counsel in everything. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'If you freely forgive anyone for anything, then I also forgive him.
+        And if I have forgiven anything, I did so for you before the face of Christ, '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: so that we would not be exploited [[COMMENT(0)]] by the adversary,
+        Satan, for we know his clever schemes.
+      comments:
+      - number: 2:11
+        content: "  The Aramaic can be translated \u201Cso that Satan will not overtake
+          us.\u201D    "
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'When I arrived at Troas, bringing the wonderful news of Christ, the
+        Lord opened a great door of opportunity to minister there. '
+      comments: []
+    - name: '13: Apostolic Ministry'
+      title: Apostolic Ministry
+      number: 13
+      content: "Still, I had no peace of mind, because I couldn\u2019t find my dear
+        brother Titus [[COMMENT(0)]] anywhere. So after saying goodbye to the believers,
+        I set out for Macedonia to look for him."
+      comments:
+      - number: 2:13
+        content: '  Titus was a spiritual son to Paul whom he greatly loved. This
+          is the Titus Paul wrote his letter to (book of Titus). He was responsible
+          to collect and distribute an offering for the church in Jerusalem (). It
+          is possible that Titus was the one who carried the painful letter to Corinth.
+          After finding Titus in Macedonia, Paul sent him back to Corinth to deliver
+          this letter.    '
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'God always makes his grace visible [[COMMENT(0)]] in Christ, who
+        includes us as partners of his endless triumph.  Through our yielded lives
+        he spreads  the fragrance of the knowledge of God everywhere we go. '
+      comments:
+      - number: 2:14
+        content: "  As translated from the Aramaic. The Greek is \u201CThanks be
+          to God.\u201D      Or \u201Cwho always leads us as captives in his triumphant
+          procession.\u201D This difficult-to-translate passage may be an allusion
+          to the Roman victory procession in celebration of their military triumphs.
+          See also  .      Or \u201Cmanifests.\u201D    "
+    - name: '15: '
+      title: 
+      number: 15
+      content: "We [[COMMENT(0)]] have become the unmistakable aroma of the victory
+        of the Anointed One to God \u2014a perfume of life to those being saved and
+        the odor of death  to those who are perishing. "
+      comments:
+      - number: 2:15
+        content: "  Although this is true of every believer, Paul, throughout this
+          section, uses \u201Cwe\u201D in reference to apostles.      Or \u201CWe
+          are Christ\u2019s sweet fragrance [of sacrifice] that ascends to God.\u201D     
+          That is, a sacrifice ready to be offered.    "
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The unbelievers smell a deadly stench that leads to death, but believers
+        smell the life-giving aroma that leads to abundant life. And who of us can
+        rise to this challenge? [[COMMENT(0)]]  '
+      comments:
+      - number: 2:16
+        content: '  As challenging as our ministry may be, God empowers us to overcome
+          by his Holy Spirit. He empowers everyone he calls.    '
+    - name: '17: '
+      title: 
+      number: 17
+      content: "For unlike so many, we are not peddlers [[COMMENT(0)]] of God\u2019s
+        Word who water down the message. We are those sent from God with pure motives,
+        who speak in the sight of God  from our union with Christ."
+      comments:
+      - number: 2:17
+        content: "  The Greek word    (a hapax legomenon) means \u201Cretailer,\u201D
+          but in classical Greek it comes with a negative connotation (\u201Cone
+          who sells at an illegitimate profit\u201D). The adverbial form of the noun
+          is \u201Ccheating\u201D or \u201Cdeceitful.\u201D      Paul states that
+          his ministry of teaching and preaching happened while he was in the presence
+          of God. His eyes were set on God, not on the people\u2019s response.  "
+  - verses:
+    - name: '1: Servants of the New Covenant'
+      title: Servants of the New Covenant
+      number: 1
+      content: 'Are we beginning to sound like those who speak highly of themselves?
+        Do you really need letters of recommendation to validate our ministry, like
+        others do? [[COMMENT(0)]] Do we really need your letter of endorsement? Of
+        course not!  '
+      comments:
+      - number: 3:1
+        content: "  Apparently, there were some insecure and phony ministers who
+          would carry forged letters of recommendation in an attempt to validate
+          their ministry. Paul\u2019s supernatural ministry needed no such letter
+          of recommendation.    "
+    - name: '2: '
+      title: 
+      number: 2
+      content: "For your very lives are our \u201Cletters of recommendation,\u201D
+        permanently engraved on our hearts, recognized and read by everybody. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "As a result of our ministry, you are living letters written by Christ,
+        not with ink but by the Spirit of the living God\u2014not carved onto stone
+        tablets [[COMMENT(0)]] but on the tablets of tender hearts. "
+      comments:
+      - number: 3:3
+        content: '  See  ;  ;  ;  ;    (LXX).    '
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'We carry this confidence in our hearts because of our union with
+        Christ before God. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Yet we don\u2019t see ourselves as capable enough to do anything
+        in our own strength, for our true competence flows from God\u2019s empowering
+        presence. "
+      comments: []
+    - name: '6: The Glorious Ministry of the Spirit'
+      title: The Glorious Ministry of the Spirit
+      number: 6
+      content: He alone makes us adequate ministers who are focused on an entirely
+        new covenant. Our ministry is not based on the letter of the law but through
+        the power of the Spirit. The letter of the law kills, but the Spirit pours
+        out life. [[COMMENT(0)]]
+      comments:
+      - number: 3:6
+        content: '  To illustrate this, on the day when the law was given by Moses,
+          three thousand people were killed, but on the day the Spirit was poured
+          out at Pentecost, three thousand people received new life. See  ;  .    '
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Even the ministry that was characterized by chiseled letters on stone
+        tablets came with a dazzling measure of glory, [[COMMENT(0)]] though it produced
+        death. The Israelites couldn\u2019t bear to gaze on the glowing face of Moses 
+        because of the radiant splendor shining from his countenance\u2014a glory
+        destined to fade away."
+      comments:
+      - number: 3:7
+        content: "    or    is mentioned fourteen times in this chapter. No chapter
+          in the Bible refers to God\u2019s glory more than  .      See  .    "
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Yet how much more radiant is this new and glorious ministry of the
+        Spirit that shines from us! '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'For if the former ministry of condemnation was ushered in with a
+        measure of glory, how much more does the ministry that imparts righteousness
+        far excel in glory. [[COMMENT(0)]]  '
+      comments:
+      - number: 3:9
+        content: '  The contrast here is between a ministry that brings awareness
+          of sin and leads to condemnation and a new ministry that confirms to us
+          that we are made righteous and innocent by the work of the cross and the
+          grace of the Spirit.    '
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'What once was glorious no longer holds any glory because of the increasingly
+        [[COMMENT(0)]] greater glory that has replaced it. '
+      comments:
+      - number: 3:10
+        content: '  As translated from the Aramaic and implied contextually in the
+          Greek.    '
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The fading ministry came with a portion of glory, but now we embrace
+        the unfading ministry of a permanent impartation of glory. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: So then, with this amazing hope living in us, we step out in freedom
+        and boldness to speak the truth.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'We are not like Moses, who used a veil to hide the glory to keep
+        the Israelites from staring at him as it faded away. [[COMMENT(0)]]  '
+      comments:
+      - number: 3:13
+        content: "  Or \u201Cthe end of what was fading.\u201D    "
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Their minds were closed and hardened, for even to this day that same
+        veil comes over their minds when they hear the words of the former covenant.
+        The veil has not yet been lifted from them, for it is only eliminated when
+        one is joined to the Messiah. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'So until now, whenever the Old Testament [[COMMENT(0)]] is being
+        read, the same blinding comes over their hearts. '
+      comments:
+      - number: 3:15
+        content: "  Or \u201CMoses,\u201D an obvious metonymy.    "
+    - name: '16: '
+      title: 
+      number: 16
+      content: "But the moment one turns to the Lord [[COMMENT(0)]]<smallcaps>.\u201D</smallcaps>
+        with an open heart, the veil is lifted and they see.   "
+      comments:
+      - number: 3:16
+        content: "  The Aramaic can be translated \u201CLord        See  .    "
+    - name: '17: '
+      title: 
+      number: 17
+      content: "Now, the \u201CLord\u201D I\u2019m referring to is the Holy Spirit,
+        [[COMMENT(0)]] and wherever he is Lord, there is freedom."
+      comments:
+      - number: 3:17
+        content: "  Paul is teaching us that not every time the word    appears does
+          it mean Jesus Christ. Here we see that \u201Cthe Lord\u201D refers to the
+          Holy Spirit. When the Holy Spirit is ruling, speaking, convincing us of
+          truth, there is freedom. Jesus calls the Holy Spirit the Lord of the harvest
+          who prepares the workers and the harvest fields, sending them out into
+          specific places for the reaping of souls. See  .    "
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'We can all draw close to him with the veil removed from our faces.
+        And with no veil we all become like mirrors who brightly reflect the glory
+        of the Lord Jesus. [[COMMENT(0)]] We are being transfigured  into his very
+        image as we move from one brighter level of glory to another.  And this glorious
+        transfiguration comes from the Lord, who is the Spirit. '
+      comments:
+      - number: 3:18
+        content: "  Or \u201CWe all, with unveiled faces, behold the glory of the
+          Lord as in a mirror.\u201D      The Greek verb    is the same word used
+          for Jesus\u2019 being transfigured on the mountain (;  ) and for our transfiguration
+          through the renewing of the thoughts of our minds ().      The source of
+          our transformation comes from Christ\u2019s glory, and the destination
+          we are brought to is more glory. The transforming glory is the result of
+          gazing upon the beauty and splendor of Jesus Christ.      Notice the ten
+          aspects of New Testament ministry given by Paul: (1) It is based on the
+          triumph of Christ over every power of darkness (). (2) It diffuses the
+          fragrant aroma of Christ everywhere (). (3) It refuses to water down the
+          Word of God (). (4) It produces living letters of Christ (). (5) It is
+          not based on the clever abilities of men but God\u2019s empowering presence
+          (). (6) It imparts life (). (7) It flows from the Holy Spirit (,  ). (8)
+          It imparts righteousness (). (9) It contains a greater glory than the law
+          (). (10) It brings the transfiguration of believers into greater levels
+          of glory ().  "
+  - verses:
+    - name: '1: New Covenant Ministry'
+      title: New Covenant Ministry
+      number: 1
+      content: "Now, it\u2019s because of God\u2019s mercy [[COMMENT(0)]] that we
+        have been entrusted with the privilege of this new covenant ministry. And
+        we will not quit or faint with weariness. "
+      comments:
+      - number: 4:1
+        content: "  Or \u201CGod has mercied us.\u201D The Aramaic can be translated
+          \u201CGod\u2019s mercy rests on us.\u201D    "
+    - name: '2: '
+      title: 
+      number: 2
+      content: "We reject every shameful cover-up and refuse to resort to cunning
+        trickery or distorting the Word of God. [[COMMENT(0)]] Instead, we open up
+        our souls to you  by presenting the truth to everyone\u2019s conscience in
+        the sight and presence of God. "
+      comments:
+      - number: 4:2
+        content: "  Or \u201Chandle the word of God dishonestly.\u201D      As translated
+          from the Aramaic. The Greek is \u201Cwe commend ourselves.\u201D    "
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Even if our gospel message is veiled, it is only veiled to those
+        who are perishing, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: for their minds have been blinded by the god of this age, [[COMMENT(0)]]
+        leaving them in unbelief. Their blindness keeps them from seeing the dayspring
+        light  of the gospel of the glory of Christ, who is the divine image of God.
+      comments:
+      - number: 4:4
+        content: "  Satan is called the god of this age. He uses trickery, deceit,
+          accusation, and slander to blind people\u2019s hearts. See  ;  ;  ;  .     
+          The Aramaic can be translated \u201Cthe flame of the good news.\u201D    "
+    - name: '5: '
+      title: 
+      number: 5
+      content: "We don\u2019t preach ourselves, but rather the lordship of Jesus
+        Christ, for we are your servants for Jesus\u2019 sake. "
+      comments: []
+    - name: '6: Treasure in Clay Jars'
+      title: Treasure in Clay Jars
+      number: 6
+      content: "For God, who said,\u201CLet brilliant light shine out of darkness,\u201D
+        [[COMMENT(0)]]is the one who has cascaded his light into us\u2014the brilliant
+        dawning light of the glorious knowledge of God as we gaze into the face of
+        Jesus Christ. "
+      comments:
+      - number: 4:6
+        content: "  Paul helps us to understand that \u201Clight\u201D is both literal
+          and a metaphor for spiritual revelation, and shows that the creation narrative
+          provides us with an allegory pointing to the experience of new birth in
+          Christ. See  ;  .      Or \u201Cin the face-to-face presence of Christ.\u201D    "
+    - name: '7: '
+      title: 
+      number: 7
+      content: "We are like common clay jars that carry this glorious treasure within,
+        so that this immeasurable power will be seen as God\u2019s, not ours. [[COMMENT(0)]]  "
+      comments:
+      - number: 4:7
+        content: "  This verse begins a long and complicated Greek sentence that
+          ends with v.  . Paul uses figurative language to say that we are common
+          clay jars (created from dust/clay) yet we possess the brilliant light of
+          God\u2019s glory, Jesus Christ, and carry him as treasure in our being.
+          The outward vessel is not as important as the glorious treasure within.
+          The metaphors here may allude to Gideon\u2019s clay pots that had burning
+          torches inside ().    "
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Though we experience every kind of pressure, we\u2019re not crushed.
+        At times we don\u2019t know what to do, but quitting is not an option. [[COMMENT(0)]]  "
+      comments:
+      - number: 4:8
+        content: "  Or \u201Cperplexed but not thoroughly perplexed.\u201D The Aramaic
+          can be translated \u201CWe are corrected but not condemned.\u201D    "
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'We are persecuted by others, but God has not forsaken us. We may
+        be knocked down, but not out. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'We continually share in the death of Jesus in our own bodies [[COMMENT(0)]]
+        so that the resurrection life of Jesus will be revealed through our humanity. '
+      comments:
+      - number: 4:10
+        content: "  Or \u201Ccarry about in the body the death of Jesus.\u201D    "
+    - name: '11: '
+      title: 
+      number: 11
+      content: "We consider living to mean that we are constantly being handed over
+        to death for Jesus\u2019 sake so that the life of Jesus will be revealed
+        through our humanity. "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: So, then, death is at work in us but it releases life in you.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "We have the same Spirit of faith that is described in the Scriptures
+        when it says,\u201CFirst I believed, then I spoke in faith.\u201D [[COMMENT(0)]]So
+        we also first believe then speak in faith. "
+      comments:
+      - number: 4:13
+        content: '  See  .    '
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'We do this because we are convinced that he who raised Jesus will
+        raise us up with him, and together we will all be brought into his presence. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "Yes, all things work for your enrichment [[COMMENT(0)]] so that more
+        of God\u2019s marvelous grace will spread to more and more people, resulting
+        in an even greater increase of praise  to God, bringing him even more glory!"
+      comments:
+      - number: 4:15
+        content: "  See  .      Or \u201Cto cause thanksgiving to superabound.\u201D  "
+    - name: '16: '
+      title: 
+      number: 16
+      content: "So no wonder we don\u2019t give up. For even though our outer person
+        gradually wears out, our inner being is renewed every single day. "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'We view our slight, short-lived troubles in the light of eternity.
+        We see our difficulties as the substance that produces for us an eternal,
+        weighty glory far beyond all comparison, '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "because we don\u2019t focus our attention on what is seen but on
+        what is unseen. For what is seen is temporary, but the unseen realm is eternal."
+      comments: []
+  - verses:
+    - name: '1: Living by Faith'
+      title: Living by Faith
+      number: 1
+      content: 'We are convinced that even if these bodies we live in are folded
+        up at death like tents, we will still have a God-built home that no human
+        hands have built, which will last forever in the heavenly realm. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "We inwardly sigh [[COMMENT(0)]]  as we live in these physical \u201Ctents,\u201D
+        longing to put on a new body for our life in heaven, "
+      comments:
+      - number: 5:2
+        content: "  The Aramaic uses the phrase \u201Cto sigh and yearn.\u201D    "
+    - name: '3: '
+      title: 
+      number: 3
+      content: "in the belief that once we put on our new \u201Cclothing\u201D we
+        won\u2019t find ourselves \u201Cnaked.\u201D "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "So, while living in this \u201Ctent,\u201D we groan under its burden,
+        not because we want to die but because we want these new bodies. We crave
+        for all that is mortal to be swallowed up by eternal life. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: And this is no empty hope, for God himself is the one who has prepared
+        us for this wonderful destiny. And to confirm this promise, he has given
+        us the Holy Spirit, like an engagement ring, as a guarantee. [[COMMENT(0)]]
+      comments:
+      - number: 5:5
+        content: "  By giving us the Holy Spirit, God is making us a promise, a guarantee
+          of receiving our full inheritance. The Greek word for \u201Cdown payment\u201D
+          (or \u201Cpledge\u201D) is    and is used in Greek culture for \u201Cengagement
+          ring.\u201D    "
+    - name: '6: '
+      title: 
+      number: 6
+      content: "That\u2019s why we\u2019re always full of courage. Even while we\u2019re
+        at home in the body, we\u2019re homesick to be with the Master\u2014"
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'for we live by faith, not by what we see with our eyes. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'We live with a joyful confidence, yet at the same time we take delight
+        in the thought of leaving our bodies behind to be at home with the Lord. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "So whether we live or die [[COMMENT(0)]] we make it our life\u2019s
+        passion  to live our lives pleasing to him.   "
+      comments:
+      - number: 5:9
+        content: "  Or \u201Cat home or away from home.\u201D      Or \u201Cour driving
+          ambition.\u201D      Or \u201Cin full agreement with him.\u201D    "
+    - name: '10: The Message of Reconciliation'
+      title: The Message of Reconciliation
+      number: 10
+      content: For one day we will all be openly revealed before Christ on his throne
+        [[COMMENT(0)]] so that each of us will be duly recompensed for our actions
+        done in life,  whether good or worthless.
+      comments:
+      - number: 5:10
+        content: "  Or \u201Cjudgment seat.\u201D      Or \u201Cdone in the body\u201D
+          or \u201Ctime spent in the body.\u201D The judgment for our sins fell upon
+          Christ on the cross, and the believer will never be judged for his sins.
+          This judgment (scrutinizing) is for rewards. There will be different levels
+          of reward given to believers after death. For some, there will be no reward,
+          yet they will still be saved. See  ;  .    "
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Since we are those who stand in holy awe of the Lord, [[COMMENT(0)]]
+        we make it our passion to persuade others to turn to him. We know that our
+        lives are transparent before the God who knows us fully, and I hope that
+        we are also well known to your consciences. '
+      comments:
+      - number: 5:11
+        content: "  Although the Greek word    is usually associated with fear or
+          dread, the classic use of the word is \u201Cdeepest awe/respect.\u201D
+          See  .    "
+    - name: '12: '
+      title: 
+      number: 12
+      content: Again, we are not taking an opportunity to brag, but giving you information
+        that will enable you to be proud of us, and to answer those who esteem outward
+        appearances while overlooking what is in the heart.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'If we are out of our minds in a blissful, divine ecstasy, [[COMMENT(0)]]
+        it is for God, but if we are in our right minds, it is for your benefit. '
+      comments:
+      - number: 5:13
+        content: "  The Greek word    means to be outside of one\u2019s self in a
+          state of blissful ecstasy and filled with pleasure. It is to come into
+          another state of consciousness of being lost in wonder and amazement.    "
+    - name: '14: '
+      title: 
+      number: 14
+      content: "For it is Christ\u2019s love that fuels our passion and holds us
+        tightly, [[COMMENT(0)]] because we are convinced that he has given his life
+        for all of us. This means all died with him, "
+      comments:
+      - number: 5:14
+        content: "  Paul uses the Greek word    (  = \u201Ctogether with\u201D;   
+          is where we get our English word  ), which is translated as \u201Cseize,\u201D
+          \u201Ccompel,\u201D \u201Curge,\u201D \u201Ccontrol,\u201D \u201Clay hold
+          of,\u201D \u201Coverwhelm,\u201D \u201Cto be held together,\u201D \u201Cto
+          grip tightly,\u201D \u201Ccompletely dominate.\u201D Paul is stating that
+          the motivating passion of his life is Christ\u2019s love filling his heart,
+          leaving him no choice but to surrender everything to God. Paul gives us
+          seven empowering motivations by which we are to live our lives: (1) the
+          Holy Spirit\u2014v.  , (2) faith\u2014v.  , (3) a joyful confidence that
+          we have new bodies waiting for us in heaven\u2014v.  , (4) our life\u2019s
+          passion to live for Christ\u2014v.  , (5) the knowledge of our appointment
+          to stand before Christ\u2014v.  , (6) our holy awe of God\u2014v.  , (7)
+          Christ\u2019s endless love for us\u2014v.  .    "
+    - name: '15: '
+      title: 
+      number: 15
+      content: "so that those who live [[COMMENT(0)]] should no longer live self-absorbed
+        lives but lives that are poured out for him\u2014the one who died for us
+        and now lives again. "
+      comments:
+      - number: 5:15
+        content: "  Or \u201Cand he died for all so that those who live.\u201D The
+          repetitive phrase from v.    has been enfolded into the verse for the sake
+          of English clarity.    "
+    - name: '16: '
+      title: 
+      number: 16
+      content: "So, from now on, we refuse to evaluate people merely by their outward
+        appearances. For that\u2019s how we once viewed the Anointed One, but no
+        longer do we see him with limited human insight. [[COMMENT(0)]]"
+      comments:
+      - number: 5:16
+        content: "  From man\u2019s point of view, Christ was a blasphemer and false
+          teacher. Yet when we see him from the eyes of faith, we view him as the
+          pure and holy one, God\u2019s Son.    "
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Now, if anyone is enfolded into Christ, he has become an entirely
+        new person. All that is related to the old order has vanished. [[COMMENT(0)]]
+        Behold, everything is fresh and new.   '
+      comments:
+      - number: 5:17
+        content: "  This would include our old identity, our life of sin, the power
+          of Satan, the religious works of trying to please God, our old relationship
+          with the world, and our old mind-sets. We are not reformed or simply refurbished,
+          we are made completely new by our union with Christ and the indwelling
+          of the Holy Spirit.      Or \u201CBehold, a new order has come!\u201D    "
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And God has made all things new, [[COMMENT(0)]] and reconciled  us
+        to himself, and given us the ministry of reconciling others to God. '
+      comments:
+      - number: 5:18
+        content: "  As translated from the Aramaic and implied in the Greek.     
+          Or \u201Cwho has restored us to friendship with God.\u201D    "
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'In other words, it was through the Anointed One that God was shepherding
+        the world, [[COMMENT(0)]] not even keeping records of their transgressions,
+        and he has entrusted to us the ministry of opening the door of reconciliation
+        to God.   '
+      comments:
+      - number: 5:19
+        content: "  As translated from the Aramaic. The Greek is \u201CGod was reconciling
+          the world to himself, not counting their trespasses against them.\u201D     
+          As translated from the Aramaic.    "
+    - name: '20: '
+      title: 
+      number: 20
+      content: "We are ambassadors [[COMMENT(0)]] of the Anointed One who carry the
+        message of Christ to the world, as though God were tenderly pleading  with
+        them directly through our lips. So we tenderly plead with you on Christ\u2019s
+        behalf, \u201CTurn back to God and be reconciled to him.\u201D "
+      comments:
+      - number: 5:20
+        content: "  To be ambassadors for Christ means that we are his diplomatic
+          agents of the highest rank sent to represent King Jesus and authorized
+          to speak on his behalf. We are the voice of heaven to the earth, invested
+          with royal power through the name of Jesus and authority of his blood.     
+          Or \u201Cbegging.\u201D    "
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'For God made [[COMMENT(0)]] the only one who did not know sin to
+        become sin for us,  so that we might become the righteousness of God through
+        our union with him. '
+      comments:
+      - number: 5:21
+        content: "  The Greek word Paul uses is  , a verb that, when nominalized,
+          is    (poem, or poetry). Christ is God\u2019s poetic masterpiece who became
+          the glorious sacrifice for sin. Though disturbing to the eyes of man, God
+          saw the work of redemption culminated in the masterful poetry of his Son
+          suspended on a cross to give us heaven\u2019s righteousness. Read  .     
+          Or \u201Cthe sin offering.\u201D See  ;  ;  ;  .      This one verse is
+          perhaps the greatest verse in the New Testament to describe our salvation
+          through the sinless Savior and his substitutionary death on the cross.
+          A wonderful divine exchange took place at the cross. All of our sins were
+          left there, our guilt was removed and forever gone, and we walked away
+          with all of God\u2019s righteousness. What bliss is ours! Every believer
+          today possesses the perfect and complete righteousness of Christ. We are
+          seen by the Father as righteous as his Son.  "
+  - verses:
+    - name: "1: Paul\u2019s Ministry"
+      title: "Paul\u2019s Ministry"
+      number: 1
+      content: "Now, since we are God\u2019s coworkers, we beg you not to take God\u2019s
+        marvelous grace for granted, allowing it to have no effect on your lives.
+        [[COMMENT(0)]]  "
+      comments:
+      - number: 6:1
+        content: "  Or \u201Cnot to receive God\u2019s grace in vain.\u201D    "
+    - name: '2: '
+      title: 
+      number: 2
+      content: "For he says,I listened to you at the time of my favor.And the day
+        when you needed salvation,I came to your aid. [[COMMENT(0)]]So can\u2019t
+        you see? Now is the time to respond to his favor! Now is the day of salvation! "
+      comments:
+      - number: 6:2
+        content: '  See  .    '
+    - name: '3: '
+      title: 
+      number: 3
+      content: "We will not place obstacles [[COMMENT(0)]] in anyone\u2019s way that
+        hinder them from coming to salvation so that our ministry will not be discredited. "
+      comments:
+      - number: 6:3
+        content: "  Or \u201Cscandals that cause people to stumble.\u201D    "
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Yet, as God\u2019s servants, we prove ourselves authentic [[COMMENT(0)]]
+        in every way. For example:We have great endurance  in hardships and in persecutions.
+        We don\u2019t lose courage in a time of stress and calamity."
+      comments:
+      - number: 6:4
+        content: "  The Aramaic can be translated \u201Creveals our inner souls.\u201D     
+          The Aramaic can be translated \u201Cprofound hope.\u201D    "
+    - name: '5: '
+      title: 
+      number: 5
+      content: "We\u2019ve been beaten many times, imprisoned, and found ourselves
+        in the midst of riots. We\u2019ve endured many troubles, [[COMMENT(0)]] had
+        sleepless nights, and gone hungry. "
+      comments:
+      - number: 6:5
+        content: "  Or \u201Clabors.\u201D The Aramaic can be translated \u201Ctortures.\u201D     
+          Or \u201Cfastings.\u201D    "
+    - name: '6: '
+      title: 
+      number: 6
+      content: We have proved ourselves by our lifestyles of purity, by our spiritual
+        insights, by our patience, and by showing kindness, by the Spirit of holiness
+        and by our uncritical love for you. [[COMMENT(0)]]
+      comments:
+      - number: 6:6
+        content: "  The Aramaic can be translated \u201Clove without scheming.\u201D    "
+    - name: '7: '
+      title: 
+      number: 7
+      content: "We commend ourselves to you by our truthful teachings, [[COMMENT(0)]]
+        by the power of God working through us, and with the mighty weapons  of righteousness\u2014a
+        sword in one hand and a shield in the other. "
+      comments:
+      - number: 6:7
+        content: "  Or \u201Cthe word of truth [Gr.  ].\u201D      Or \u201Carmor.\u201D     
+          Or \u201Cweapons of righteousness for the right hand and for the left.\u201D
+          By implication, this would mean a shield and a sword\u2014every warrior\u2019s
+          weapons.    "
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Amid honor or dishonor, [[COMMENT(0)]] slander or praise\u2014even
+        when we are treated as deceivers and imposters\u2014we remain steadfast and
+        true."
+      comments:
+      - number: 6:8
+        content: "  The Aramaic can be translated \u201Ccursed\u201D (by others).    "
+    - name: '9: '
+      title: 
+      number: 9
+      content: "We are unknown nobodies whom everyone knows. We are frequently at
+        death\u2019s door, yet here we are, still alive! We have been severely punished
+        yet not executed."
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'We may suffer, yet in every season [[COMMENT(0)]] we are always found
+        rejoicing. We may be poor, yet we bestow great riches on many. We seem to
+        have nothing, yet in reality we possess all things. '
+      comments:
+      - number: 6:10
+        content: "  As translated by the Aramaic.      What an amazing list of characteristics
+          of true apostolic ministry. These are the virtues that endeared Paul and
+          his ministry companions to the churches and validated his authority as
+          an example to them of God\u2019s true servant.    "
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'My friends at Corinth, our hearts are wide open to you and we speak
+        freely, holding nothing back from you. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'If there is a block in our relationship, it is not with us, for we
+        carry you in our hearts with great love, yet you still withhold your affections
+        [[COMMENT(0)]] from us. '
+      comments:
+      - number: 6:12
+        content: "  Or \u201Ctender mercies.\u201D Second Corinthians is Paul\u2019s
+          most intimate and descriptive letter. He writes of his inner feelings here
+          more than in any other letter.    "
+    - name: '13: The Temple of the Living God'
+      title: The Temple of the Living God
+      number: 13
+      content: So I speak to you as our children. Make room in your hearts for us
+        as we have done for you.
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Don\u2019t continue to team up with unbelievers in mismatched alliances,
+        [[COMMENT(0)]] for what partnership is there between righteousness and rebellion?
+        Who could mingle light with darkness? "
+      comments:
+      - number: 6:14
+        content: "  Paul\u2019s teaching here includes marital, business, and personal
+          relationships. We never abandon our responsibility to reach the world (),
+          but we must steer clear of relationships that will divide our loyalty to
+          Christ.    "
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'What harmony can there be between Christ and Satan? [[COMMENT(0)]]
+        Or what does a believer have in common with an unbeliever? '
+      comments:
+      - number: 6:15
+        content: "  Or \u201CBelial\u201D (the worthless one), a term for Satan.    "
+    - name: '16: '
+      title: 
+      number: 16
+      content: "What friendship does God\u2019s temple [[COMMENT(0)]] have with demons? 
+        For indeed, we are the temple of the living God, just as God has said:I will
+        make my home in them and walk among them.I will be their God, and they will
+        be my people. "
+      comments:
+      - number: 6:16
+        content: "  The temple in Jerusalem was still standing when Paul wrote this.     
+          As translated from the Aramaic. The Greek is \u201Cidols.\u201D      See 
+          ;  ;  .    "
+    - name: '17: '
+      title: 
+      number: 17
+      content: "For this reason,\u201CCome out from among them and be separate,\u201D
+        says the Lord.\u201CTouch nothing that is unclean, and I will embrace you.
+        [[COMMENT(0)]]"
+      comments:
+      - number: 6:17
+        content: "  Or \u201CI will welcome you\u201D (within). See  ;  .    "
+    - name: '18: '
+      title: 
+      number: 18
+      content: "I will be a true Father to you, [[COMMENT(0)]]and you will be my
+        beloved sons and daughters,\u201Dsays the Lord <smallcaps>Yahweh</smallcaps>
+        Almighty. "
+      comments:
+      - number: 6:18
+        content: '  God himself will assume the role of caring for us and meeting
+          our needs, giving himself eternally to us. See  ;  .      As translated
+          from the Aramaic. See  ;  . Paul is paraphrasing Old Testament texts, changing
+          phrases and combining them to make his point. Jesus likewise often paraphrased
+          Old Testament verses as he taught the people.  '
+  - verses:
+    - name: '1: Living Holy Lives'
+      title: Living Holy Lives
+      number: 1
+      content: Beloved ones, with promises like these, and because of our deepest
+        respect and worship of God, we must remove everything from our lives [[COMMENT(0)]]
+        that contaminates body and spirit, and continue to complete the development
+        of holiness within us.
+      comments:
+      - number: 7:1
+        content: "  Or \u201Cpurify ourselves.\u201D Believers today must take an
+          active and disciplined approach to spiritual maturity and living holy lives.
+          Grace never removes our responsibility to be faithful to God. Grace empowers
+          us to do what pleases God ().    "
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Again, I urge you, make room for us in your hearts, for we have wronged
+        [[COMMENT(0)]] no one, corrupted  no one, and taken advantage  of no one. '
+      comments:
+      - number: 7:2
+        content: "  The Aramaic can be translated \u201CWe have hated no one.\u201D     
+          That is, they had not led people astray from right doctrine. They corrupted
+          no one\u2019s faith.      Or \u201CWe have cheated no one\u201D (for financial
+          gain). These are the three goals every minister should set for his or her
+          calling: (1) to do no wrong to another nor to \u201Chate\u201D anyone,
+          (2) to not corrupt or lead anyone astray, and (3) to never use his or her
+          authority to take advantage of anyone by cheating for personal gain. Paul
+          had a blameless history in ministry.    "
+    - name: '3: '
+      title: 
+      number: 3
+      content: "I\u2019m not saying this to condemn you, for I already told you that
+        we carry you permanently in our hearts\u2014and you\u2019ll stay there throughout
+        our lives, for we will live together and die together. "
+      comments: []
+    - name: '4: Paul in Macedonia'
+      title: Paul in Macedonia
+      number: 4
+      content: With an open heart let me freely say how very proud I am of you and
+        how often I boast about you. In fact, when I think of you my heart is greatly
+        encouraged and overwhelmed with joy, despite our many troubles.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Even after we came into the province of Macedonia, [[COMMENT(0)]]
+        we found no relief. We were restless and exhausted; troubles met us at every
+        turn. Outwardly I faced conflicts and inwardly emotional turmoil.   '
+      comments:
+      - number: 7:5
+        content: "  This was after Paul left Troas and where he wrote his severe
+          letter to the Corinthians ().      Or \u201Cfears.\u201D The Aramaic can
+          be translated \u201Con the outside battles and on the inside surrendering.\u201D
+          With great honesty, Paul discloses his feelings while in Macedonia. He
+          was beset with adversaries who opposed him, problems and arguments within
+          the church, and persecution at every turn. Paul was emotionally torn by
+          all the conflicts among the believers and feared for Titus\u2019 safety.
+          He was worried about how the Corinthians would receive his severe letter,
+          plus there is a hint in his words that his concern was wearing him down
+          both physically and emotionally. Being honest about our emotions is the
+          first step in finding comfort and peace. Paul\u2019s example of a leader
+          opening his heart to his people should not be missed by this generation.    "
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'But God, who always knows how to encourage the depressed, encouraged
+        us greatly by the arrival of Titus. '
+      comments: []
+    - name: '7: Godly Remorse over Sin'
+      title: Godly Remorse over Sin
+      number: 7
+      content: We were relieved not only to see him but because of the report he
+        brought us of how you refreshed his heart. He told us of your affection toward
+        me, your deep remorse, and how concerned you were for me. This truly made
+        my heart leap for joy!
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Even if my letter made you sorrowful, I don\u2019t regret sending
+        it (even though I felt awful for a moment when I heard how it grieved you). "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Now I\u2019m overjoyed\u2014not because I made you sad, but because
+        your grief led you to a deep repentance. You experienced godly sorrow, and
+        as God intended, it brought about gain for you, not loss, so that no harm
+        has been done by us. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: God designed us to feel remorse over sin in order to produce repentance
+        that leads to victory. [[COMMENT(0)]] This leaves us with no regrets. But
+        the sorrow of the world works death.
+      comments:
+      - number: 7:10
+        content: "  Or \u201Cdeliverance (salvation).\u201D    "
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Can\u2019t you see the good fruit that has come, as God intended,
+        because of your remorse over sin? [[COMMENT(0)]] Now you are eager to do
+        what is right! Look at the indignation you experienced over what happened
+        and how alarmed you became. What holy longing it awakened, what passion for
+        God, and how ready you were to bring justice to the offender. Your response
+        has proved that you are free of blame in this matter."
+      comments:
+      - number: 7:11
+        content: "  Both the Hebraic and Greek concepts of repentance are literally
+          \u201Cto turn from sin and come back to God\u201D; that is, \u201Cto have
+          a change of mind/direction.\u201D This involves the \u201Csorrow\u201D
+          or \u201Cremorse\u201D of our hearts before God. Repentance is not a sterile,
+          feeling-less act of changing direction. Paul makes it clear that godly
+          remorse is a \u201CGod-intended\u201D feeling that moves the heart back
+          to God. Our repentance is not a work of the flesh but the result of God\u2019s
+          Spirit stirring our conscience. Peter\u2019s godly remorse over his denial
+          of Christ eventually led him to experience a complete inner healing, while
+          Judas\u2019 remorse led him to suicide.  "
+    - name: '12: '
+      title: 
+      number: 12
+      content: "So I wrote you not simply to correct the one who did the wrong or
+        on the behalf of the one who was wronged, but to help you realize in God\u2019s
+        sight how loyal you are to us. "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Your response leaves us so encouraged! You\u2019ve made us even more
+        joyful upon hearing of how you refreshed Titus, for his mind was set at ease
+        by all of you. "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'I have not been embarrassed by you, for the things I bragged about
+        you to Titus were not proven false. Just as everything we said to you was
+        true, so our boasting to Titus about you has proven to be true as well. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'His affection toward you has grown as he remembers your obedience
+        and how warmly you welcomed him with fear and trembling. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "I\u2019m beside myself with joy! I am so confident in you!"
+      comments: []
+  - verses:
+    - name: '1: Generosity of the Churches'
+      title: Generosity of the Churches
+      number: 1
+      content: 'Beloved ones, we must tell you about the grace God poured out upon
+        the churches of Macedonia. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For even during a season of severe difficulty, tremendous suffering,
+        and extreme poverty, their super-abundant joy overflowed into an act of extravagant
+        generosity. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For I can verify that they spontaneously gave, not only according
+        to their means but far beyond what they could afford. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "They actually begged us for the privilege of sharing in this ministry
+        of giving to God\u2019s holy people who are living in poverty. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "They exceeded our expectations by first dedicating themselves fully
+        to the Lord and then to us, according to God\u2019s pleasure. [[COMMENT(0)]]  "
+      comments:
+      - number: 8:5
+        content: "  Under persecution and desperately poor, the churches of Macedonia
+          (Philippi, Thessalonica, and Berea) gave more than just an extravagant
+          offering. They fully surrendered themselves to the Lord and gave out of
+          a longing to fulfill God\u2019s pleasure. This is the key to generous giving.
+          First we dedicate our hearts to God, which includes our finances, then
+          we give to God\u2019s work as he directs us. Throughout 2&nbsp;Corinthians,
+          giving is described as a \u201Cgrace\u201D that God places on our lives,
+          which empowers our generosity.    "
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'That is why we appealed to Titus, since he was the one who got you
+        started and encouraged you to give, so he could help you complete this generous
+        undertaking on your behalf. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "You do well and excel in every respect\u2014in unstoppable faith,
+        in powerful preaching, in revelation knowledge, in your passionate devotion,
+        and in sharing the love we have shown to you. So make sure that you also
+        excel in grace-filled generosity. [[COMMENT(0)]]"
+      comments:
+      - number: 8:7
+        content: '  Notice the features of godliness in this verse that should be
+          seen in our lives and ministries: (1) We excel in everything. (2) We have
+          unstoppable faith. (3) We have an anointing of grace to speak the Word.
+          (4) We have revelation knowledge. (5) We have passionate devotion. (6)
+          We show love. (7) We are generous.    '
+    - name: '8: '
+      title: 
+      number: 8
+      content: "I\u2019m not saying this as though I were issuing an order but to
+        stir you to greater love by mentioning the enthusiasm of the Macedonians
+        as a challenge to you. [[COMMENT(0)]]  "
+      comments:
+      - number: 8:8
+        content: "  Or \u201Cto test your love by the eagerness of others.\u201D    "
+    - name: '9: '
+      title: 
+      number: 9
+      content: For you have experienced the extravagant grace of our Lord Jesus Christ,
+        that although he was infinitely rich, he impoverished himself for our sake,
+        so that by his poverty, we become rich beyond measure.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "So here are my thoughts concerning this matter, and it\u2019s in
+        your best interests. Since you made such a good start last year, both in
+        the grace of giving and in your longing to give, "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'you should finish what you started. [[COMMENT(0)]] You were so eager
+        in your intentions to give, so go do it. Finish this act of worship according
+        to your ability to give. '
+      comments:
+      - number: 8:11
+        content: "  Or \u201CGet on with it and finish the job!\u201D    "
+    - name: '12: '
+      title: 
+      number: 12
+      content: "For if the intention and desire are there, the size of the gift doesn\u2019t
+        matter. Your gift is fully acceptable to God according to what you have,
+        not what you don\u2019t have. "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "I\u2019m not saying this in order to ease someone else\u2019s load
+        by overloading you, but as a matter of fair balance. "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Your surplus could meet their need, and their abundance may one day
+        meet your need. This equal sharing of abundance will mean a fair balance.
+        [[COMMENT(0)]]  '
+      comments:
+      - number: 8:14
+        content: '  Apparently, the Corinthian church was not poor. They had intended,
+          a year prior to receiving this letter, to make a generous offering to the
+          believers in Jerusalem living in poverty. Paul encourages them to now follow
+          through with their pledge. Note the principles of giving Paul teaches them
+          in vv.  : (1) A willing, cheerful offering is more important than the amount.
+          (2) Financial commitments of giving are to be taken seriously. (3) We are
+          to share our substance with those in need, because the time may come when
+          we may need their gifts. (4) Our giving reflects our devotion to Christ.
+          (5) We are to give what we are able and not stress about what we cannot
+          give. We are to give in proportion to our income.    '
+    - name: '15: Titus Sent to Corinth'
+      title: Titus Sent to Corinth
+      number: 15
+      content: "As it is written:The one who gathered much didn\u2019t have too much,and
+        the one who gathered little didn\u2019t have too little. [[COMMENT(0)]]"
+      comments:
+      - number: 8:15
+        content: '  See  .    '
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'We give thanks to God for putting the same devotion I have for you
+        into the heart of Titus. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "Of course, he enthusiastically accepted our request to go to Corinth,
+        but because he carries you in his heart, he\u2019d already planned on coming. "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "So we\u2019re sending with him the brother [[COMMENT(0)]] who is
+        greatly honored and respected in all the churches for his work of evangelism. "
+      comments:
+      - number: 8:18
+        content: "  This brother and the one mentioned in v.    were identified as
+          apostles. Many have tried unsuccessfully to identify whom they might have
+          been. Some of the names considered include Timothy, Luke, Barnabas, Apollos,
+          Mark, Erastus, Silas, Sopater, Aristarchus, Secundus, Gaius, Tychicus,
+          and Trophimus. Regardless of these apostles\u2019 identities, we know that
+          Titus was the leader of this delegation and that all three were apostles
+          of the church. See  .    "
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Not only that, he has been appointed by the churches to be our traveling
+        companion as we carry and dispense this generous gift that glorifies the
+        Lord and shows how eager we are to help. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'We are sending a team in order to avoid any criticism over how we
+        handle this wonderfully generous gift, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "for we intend to do what is right and we are totally open both to
+        the Lord\u2019s inspection and to man\u2019s. "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "So we\u2019re sending with them another brother who is faithful and
+        proven to be a man of integrity. He is passionate to help you now more than
+        ever, for he believes in you."
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "Concerning the credentials of Titus, he\u2019s my partner and coworker
+        in ministry for you. As for the brothers coming with him, they are apostles
+        of the churches, which are the glory of the Anointed One. [[COMMENT(0)]]  "
+      comments:
+      - number: 8:23
+        content: "  Although ambiguous in the Greek text, the clause \u201Cwhich
+          are the glory of the Anointed One\u201D most likely refers to the churches.
+          God\u2019s church is his glorious bride on the earth, which brings him
+          glory through all the ages. If referring to Titus and his delegation, this
+          verse would mean that the apostles are the glory of the Anointed One.  "
+    - name: '24: '
+      title: 
+      number: 24
+      content: So demonstrate to them how much you love, and prove that our boasting
+        of you is justified.
+      comments: []
+  - verses:
+    - name: '1: The Offering for Needy Believers'
+      title: The Offering for Needy Believers
+      number: 1
+      content: "Actually, there\u2019s no need to write to you about this contribution
+        for the holy believers in Jerusalem, "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "for I already know that you are on board and eager to help. [[COMMENT(0)]]
+        I keep boasting to the churches of Macedonia about your passion to give,
+        telling them that the believers of Corinth  have been preparing to give for
+        a year. Your enthusiasm is contagious\u2014it has stirred many of them to
+        do likewise. "
+      comments:
+      - number: 9:2
+        content: "  The Aramaic can be translated \u201CI know the goodness of your
+          impulses\u201D (or \u201Cintentions\u201D). Paul was not hesitant to point
+          out the obvious qualities and virtues of others.      Or \u201CAchaia,\u201D
+          the Roman province where Corinth was situated.    "
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Still, I thought it would be best to send these brothers to receive
+        the offering that you\u2019ve prepared, so that our boasting about how you
+        were ready to give would not be found hollow. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "For if, after boasting of our confidence in you, some of the Macedonians
+        were to come with me and find that you were not prepared, we would be embarrassed\u2014to
+        say nothing of you. "
+      comments: []
+    - name: '5: Hilarious Generosity'
+      title: Hilarious Generosity
+      number: 5
+      content: "That\u2019s why I\u2019ve requested that the brothers come before
+        I do and make arrangements in advance for the substantial offering you pledged.
+        Then it will be seen as a matter of generosity and not under pressure, as
+        something you felt forced to do."
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Here\u2019s my point. A stingy sower [[COMMENT(0)]] will reap a meager
+        harvest, but the one who sows from a generous spirit will reap an abundant
+        harvest. "
+      comments:
+      - number: 9:6
+        content: "  The Aramaic can be translated \u201Cthe one who sows with a storehouse
+          of seed\u201D (remaining). This describes a farmer who is stingy with his
+          sowing. Since he has a storehouse of seed, he can afford to sow liberally.    "
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Let giving flow from your heart, not from a sense of religious duty.
+        Let it spring up freely from the joy of giving\u2014all because God loves
+        hilarious generosity! [[COMMENT(0)]]  "
+      comments:
+      - number: 9:7
+        content: '  See    (LXX). There are seven things in the Bible that God loves:
+          (1) the resident foreigner or immigrant (), (2) righteousness in our affairs
+          with others (), (3) justice (), (4) the gates of Zion (), (5) his righteous
+          people (), (6) a hilarious or cheerful giver (), and (7) those he disciplines
+          ().    '
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Yes, God is more than ready to overwhelm you with every form of grace,
+        so that you will have more than enough of everything [[COMMENT(0)]]\u2014every
+        moment and in every way. He will make you overflow with abundance in every
+        good thing you do. "
+      comments:
+      - number: 9:8
+        content: "  The Greek word Paul uses is  , and it is found in classical Greek
+          as meaning \u201Cindependently wealthy, needing nothing.\u201D See Aristotle,   
+          1. 8, 14.    "
+    - name: '9: '
+      title: 
+      number: 9
+      content: Just as the Scriptures say about the one who trusts in him:Because
+        he has sown extravagantly and given to the poor,his kindness and generous
+        deeds will never be forgotten. [[COMMENT(0)]]
+      comments:
+      - number: 9:9
+        content: '  See  .    '
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'This generous God who supplies abundant seed [[COMMENT(0)]] for the
+        farmer, which becomes bread for our meals,  is even more extravagant toward
+        you. First he supplies  every need, plus more. Then he multiplies the seed
+        as you sow it, so that the harvest of your generosity  will grow. '
+      comments:
+      - number: 9:10
+        content: "  The Greek word    is used in Greek literature for someone who
+          pays all expenses for the drama/choir (production), plus more, providing
+          income for those who take part. God is seen as the leader of the divine
+          choir, orchestrating everything and providing all that is needed to bring
+          forth the sounds of his glory on the earth.      See  .      The Greek
+          word is    (see the first footnote on this verse).      Or \u201Crighteousness,\u201D
+          used in this context as \u201Cgenerosity\u201D (or \u201Crighteous works\u201D
+          of benevolence).    "
+    - name: '11: '
+      title: 
+      number: 11
+      content: You will be abundantly enriched in every way as you give generously
+        on every occasion, [[COMMENT(0)]] for when we take your gifts to those in
+        need,  it causes many to give thanks to God.
+      comments:
+      - number: 9:11
+        content: "  Or \u201CYou will always be rich enough to be generous at all
+          times.\u201D      Or \u201Cthrough us.\u201D    "
+    - name: '12: '
+      title: 
+      number: 12
+      content: "The priestly ministry [[COMMENT(0)]] you are providing through your
+        offering not only supplies what is lacking for God\u2019s people, it inspires
+        an outpouring  of praises and thanksgiving to God himself. "
+      comments:
+      - number: 9:12
+        content: "  The Greek word    (similar to \u201Cliturgy\u201D) is used in   
+          for the priestly ministry of Zechariah in the temple.      Or \u201Ca superabounding.\u201D    "
+    - name: '13: '
+      title: 
+      number: 13
+      content: "For as your extremely generous offering meets the approval [[COMMENT(0)]] 
+        of those in Jerusalem, it will cause them to give glory to God\u2014all because
+        of your loyal support and allegiance to the gospel of Christ, as well as
+        your generous-hearted partnership with them toward those in need. "
+      comments:
+      - number: 9:13
+        content: "  Or \u201Cpasses the test.\u201D    "
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Because of this extraordinary grace, which God has lavished on you,
+        they will affectionately remember you in their prayers. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Praise God for his astonishing gift, which is far too great for words!
+        [[COMMENT(0)]]
+      comments:
+      - number: 9:15
+        content: "  The Greek and Aramaic texts have a clean break at this point.
+          This has caused some scholars to conclude that chs.    may have originally
+          been separated from the earlier chapters, which could imply that the following
+          four chapters make up the missing letter of Paul to the Corinthians. If
+          this is so, when reading 2&nbsp;Corinthians, one could begin with chs.   
+          (Paul\u2019s missing letter), then read from chs.  . The term for this
+          is \u201Cappending\u201D; that is, taking an earlier document and adding
+          a later manuscript to it. Yet in this case, the earlier document is appended.  "
+  - verses:
+    - name: "1: Paul\u2019s Defense of His Ministry"
+      title: "Paul\u2019s Defense of His Ministry"
+      number: 1
+      content: "Now, please listen, for I need to address an issue. I\u2019m making
+        this personal appeal to you by the gentleness [[COMMENT(0)]] and self-forgetfulness
+        of Christ. I am the one who is \u201Chumble and timid\u201D when face-to-face
+        with you but \u201Cbold and outspoken\u201D when a safe distance away.   "
+      comments:
+      - number: 10:1
+        content: "  The Aramaic can be translated \u201Cpeace\u201D or, literally
+          \u201Cby the oasis rest.\u201D      Paul is apparently quoting their own
+          words that they used to describe him.    "
+    - name: '2: '
+      title: 
+      number: 2
+      content: "Now I plead with you that when I come, don\u2019t force me to take
+        a hard line with you (which I\u2019m willing to do) by daring to confront
+        [[COMMENT(0)]] those who mistakenly believe that we are living by the standards
+        of the world, not by the Spirit\u2019s wisdom and power. "
+      comments:
+      - number: 10:2
+        content: "  Literally \u201CDon\u2019t force me to be severe with the confidence
+          with which I reckon to dare.\u201D Paul pleads with them not to mistake
+          his humility as weakness or an unwillingness to act with authority.    "
+    - name: '3-4: '
+      title: 
+      number: 3-4
+      content: "For although we live in the natural realm, we don\u2019t wage a military
+        campaign employing human weapons, using manipulation to achieve our aims.
+        Instead, our spiritual weapons are energized with divine power to effectively
+        dismantle the defenses behind which people hide. [[COMMENT(0)]]  "
+      comments:
+      - number: "10:3\u20134"
+        content: "  Or \u201Cstrongholds.\u201D The Aramaic word for strongholds
+          can also be translated \u201Crebellious castles.\u201D Paul seems to be
+          referring to demonic strongholds or centers of opposition to the light
+          of the gospel.    "
+    - name: '3-4: '
+      title: 
+      number: 3-4
+      content: "For although we live in the natural realm, we don\u2019t wage a military
+        campaign employing human weapons, using manipulation to achieve our aims.
+        Instead, our spiritual weapons are energized with divine power to effectively
+        dismantle the defenses behind which people hide. [[COMMENT(0)]]  "
+      comments:
+      - number: "10:3\u20134"
+        content: "  Or \u201Cstrongholds.\u201D The Aramaic word for strongholds
+          can also be translated \u201Crebellious castles.\u201D Paul seems to be
+          referring to demonic strongholds or centers of opposition to the light
+          of the gospel.    "
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'We can demolish every deceptive fantasy [[COMMENT(0)]] that opposes
+        God and break through every arrogant attitude that is raised up in defiance
+        of the true knowledge of God. We capture, like prisoners of war, every thought 
+        and insist that it bow in obedience to the Anointed One. '
+      comments:
+      - number: 10:5
+        content: "  Or \u201Ccitadels of argumentations,\u201D which include fantasies.     
+          Or \u201Cevery scheme.\u201D Paul is using the concept of taking prisoners
+          of war, but in this case the prisoners held captive are faulty patterns
+          of thought that defy God\u2019s authority.    "
+    - name: '6: Paul Responds to Criticism'
+      title: Paul Responds to Criticism
+      number: 6
+      content: 'Since we are armed with such dynamic weaponry, we stand ready to
+        punish [[COMMENT(0)]] any trace of rebellion, as soon as you choose complete
+        obedience. '
+      comments:
+      - number: 10:6
+        content: "  Or \u201Ccourt martial.\u201D      This completes one long, complicated
+          Greek sentence that began in v.  . In this passage Paul describes four
+          arenas of our warfare: (1) We are empowered by grace and with the gospel
+          to dismantle strongholds. (2) We demolish arguments, opinions, theories,
+          and philosophies. (3) We take captive every thought to insist that it become
+          obedient to the mind of Christ. (4) We stand ready and willing to wage
+          war and defeat the enemy ().    "
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'You seem to always be looking at people by their outward appearances.
+        [[COMMENT(0)]] If someone is confident that he belongs to Christ, he should
+        remind himself of this: we belong to Christ no less than he does. '
+      comments:
+      - number: 10:7
+        content: "  The Aramaic can be translated \u201CYou focus on people\u2019s
+          faces.\u201D    "
+    - name: '8: '
+      title: 
+      number: 8
+      content: "I am not ashamed, even if I\u2019ve come across as one who has overstated
+        the authority given to us by the Lord. For it is the authority to help build
+        you up, not tear you down. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "I don\u2019t want to seem as though I\u2019m trying to bully you
+        with my letters. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "For I can imagine some of you saying, \u201CHis letters are authoritative
+        and stern, but when he\u2019s with us he\u2019s not that impressive [[COMMENT(0)]]
+        and he\u2019s a poor speaker.\u201D   "
+      comments:
+      - number: 10:10
+        content: "  Or \u201Che\u2019s weak.\u201D      Greece was known as a land
+          of eloquent speakers. Orators were professionally trained to address crowds.
+          It seems some people were judging Paul by comparing his speaking gift to
+          the eloquent speeches of others. Yet Paul was a brilliant teacher, not
+          a trained orator. True leadership is much more than our speaking ability.
+          Our influence is not limited to a rousing sermon, but we will affect the
+          lives of many if we walk in purity, led by the Holy Spirit. Both Moses
+          and Jeremiah saw themselves as poor speakers. See  ;  .    "
+    - name: "11: Paul\u2019s Apostolic Mandate"
+      title: "Paul\u2019s Apostolic Mandate"
+      number: 11
+      content: Such a person should realize that when we arrive, there will be no
+        difference in the actions we take and the words we write.
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Of course, we wouldn\u2019t dare to put ourselves in the same class
+        or compare ourselves with those who rate themselves so highly. They compare
+        themselves to one another [[COMMENT(0)]] and make up their own standards
+        to measure themselves by, and then they judge themselves by their own standards.
+        What self-delusion! "
+      comments:
+      - number: 10:12
+        content: "  The Aramaic can be translated \u201Ccopying one another.\u201D
+          God has made each of us unique and given us spiritual gifts that are unique.
+          It is never wise to copy or compare yourself to another believer. Pride
+          will result if we see ourselves as better than someone else, or discouragement
+          if we see ourselves as less valuable than someone else. We don\u2019t live
+          by comparison to others but by Christ\u2019s life in us.    "
+    - name: '13: '
+      title: 
+      number: 13
+      content: "But we are those who choose to limit our boasting to only the measure
+        of the work [[COMMENT(0)]] to which God has appointed us\u2014a measure that,
+        by the way, has reached as far as you. "
+      comments:
+      - number: 10:13
+        content: "  Or \u201Cthe sphere of the allocation\u201D (given to us). Paul
+          uses the Greek word  , which was the length of a race course (Gr.  ). It
+          was the word used to define the boundaries of a Greek stadium. One could
+          say that Paul stayed within his lane and knew the limits of his measure
+          () of spiritual authority.    "
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And since you are within our assigned limits, we didn\u2019t overstep
+        our boundaries of authority by being the first to announce to you the wonderful
+        news of the Anointed One. "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "We\u2019re not trying to take credit for the ministry done by others,
+        going beyond the limits God set for us. Instead, our hope soars as your faith
+        continues to grow, causing a great expansion of our ministry among you. "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Then we can go and preach the good news in the regions beyond you
+        without trespassing on the ministry sphere of other laborers and what they
+        have already done. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: For:The one who boasts must boast in the Lord. [[COMMENT(0)]]
+      comments:
+      - number: 10:17
+        content: '  See  .  '
+    - name: '18: '
+      title: 
+      number: 18
+      content: "So let\u2019s be clear. To have the Lord\u2019s approval and commendation
+        is of greater value than bragging about oneself."
+      comments: []
+  - verses:
+    - name: '1: The Virgin Bride of Christ'
+      title: The Virgin Bride of Christ
+      number: 1
+      content: "Now, please bear with some of my \u201Ccraziness\u201D for a moment.
+        Yes, please be patient with me."
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "You need to know that God\u2019s passion [[COMMENT(0)]] is burning
+        inside me for you, because, like a loving father, I have pledged your hand
+        in marriage to Christ, your true bridegroom. I\u2019ve also promised that
+        I would present his fianc\xE9e to him as a pure virgin bride.   "
+      comments:
+      - number: 11:2
+        content: "  Or \u201Cgodly jealousy.\u201D      Paul uses the imagery of
+          a bride and bridegroom to describe our relationship to Christ. See  ; 
+          ;  ;  ;  .    "
+    - name: '3: '
+      title: 
+      number: 3
+      content: "But now I\u2019m afraid that just as Eve was deceived by the serpent\u2019s
+        clever lies, your thoughts may be corrupted and you may lose your single-hearted
+        devotion and pure love for Christ. "
+      comments: []
+    - name: '4: Super-Apostles?'
+      title: Super-Apostles?
+      number: 4
+      content: For you seem to gladly tolerate anyone [[COMMENT(0)]] who comes to
+        you preaching a pseudo-Jesus, not the Jesus we have preached. You have accepted
+        a spirit and gospel that is false, rather than the Spirit and gospel you
+        once embraced. How tolerant you have become of these imposters!
+      comments:
+      - number: 11:4
+        content: "  Or possibly a reference to \u201Cthe serpent.\u201D    "
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Now, I believe that I am not inferior in any way to these special
+        \u201Csuper-apostles\u201D [[COMMENT(0)]] you are attracted to. "
+      comments:
+      - number: 11:5
+        content: "  Or \u201Chyper-apostles.\u201D    "
+    - name: '6: '
+      title: 
+      number: 6
+      content: "For although I may not be a polished or eloquent speaker, I\u2019m
+        certainly not an amateur in revelation knowledge. Indeed, we have demonstrated
+        this to you time and again."
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Have I committed a sin by degrading myself to dignify you? Was I
+        wrong to preach the gospel of God to you free of charge? [[COMMENT(0)]]  '
+      comments:
+      - number: 11:7
+        content: "  Paul received financial support for preaching the gospel and
+          could have asked the Corinthians to support him (). But while among them,
+          he refused to receive their gifts and relied on other churches to support
+          him. He did this to set himself apart from the \u201Csuper-apostles\u201D
+          in Corinth and to demonstrate that his ministry would not be bought.    "
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'I received ample financial support from other churches just so that
+        I could freely serve you. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Remember, when I was with you I didn\u2019t bother anyone when I
+        needed money, for my needs were always supplied by my Macedonian friends.
+        [[COMMENT(0)]] So I was careful, and will continue to be careful, that I
+        never become a burden to you in any way."
+      comments:
+      - number: 11:9
+        content: "  Or \u201Cthe brothers.\u201D This was most likely from the church
+          of Philippi. See  .    "
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'As the reality of Christ lives within me, my glad boast of offering
+        the gospel free of charge will not be silenced throughout the region of Achaia.
+        [[COMMENT(0)]]  '
+      comments:
+      - number: 11:10
+        content: '  That is, the region where Corinth was located.    '
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Why? Is it because I have no love for you? God knows how much I love
+        you! '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "But in order to eliminate the opportunity for those \u201Csuper-apostles\u201D
+        to boast that their ministry is on the same level as ours I will continue
+        this practice. "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "For they are not true apostles but deceitful [[COMMENT(0)]] ministers
+        who masquerade as \u201Cspecial apostles\u201D  of the Anointed One. "
+      comments:
+      - number: 11:13
+        content: "  Or \u201Cdishonest.\u201D      Or \u201Cwho change their form
+          into super-apostles.\u201D    "
+    - name: '14: '
+      title: 
+      number: 14
+      content: "That doesn\u2019t surprise us, for even Satan transforms himself
+        to appear as an angel of light! [[COMMENT(0)]]  "
+      comments:
+      - number: 11:14
+        content: '  In the Jewish pseudepigraphical book,  , the temptation of Eve
+          is given, and it includes Satan masquerading himself as an angel of light.
+          In the same way, these false apostles were claiming to be sent from Christ
+          but were peddling another gospel.    '
+    - name: "15: Paul Speaks as a \u201CFool\u201D"
+      title: "Paul Speaks as a \u201CFool\u201D"
+      number: 15
+      content: "So it\u2019s no wonder his servants also go about pretending to be
+        ministers of righteousness. But in the end they will be exposed and get exactly
+        what they deserve."
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "So I repeat. Let no one think that I\u2019m a fool. But if you do,
+        at least show me the patience you would show a fool, so that I too may boast
+        a little. "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "Of course, what I\u2019m about to tell you is not with the Lord\u2019s
+        authority, but as a \u201Cfool.\u201D "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'For since many love to boast about their worldly achievements, [[COMMENT(0)]]
+        allow me the opportunity to join them. '
+      comments:
+      - number: 11:18
+        content: "  Or \u201Cafter the flesh\u201D (according to earthly distinctions).    "
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'And since you are so smart and so wise to gladly put up with the
+        foolishness of others, now put up with mine. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'You actually allow these imposters to put you into bondage, take
+        complete advantage of you, and rob you blind! How easily you endure those
+        who, in their arrogance, destroy your dignity or even slap you in the face. '
+      comments: []
+    - name: '21: Paul Boasts in His Sufferings for Christ'
+      title: Paul Boasts in His Sufferings for Christ
+      number: 21
+      content: "I must admit, to our shame that we were too \u201Cweak\u201D to relate
+        to you the way they do. But now let me dare to boast like a \u201Cfool.\u201D"
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "Are these \u201Csuper-apostles\u201D of yours Hebrews? I am too.
+        Are they Israelites? So am I. Are they descendants of Abraham? Me too! "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "Are they servants of the Anointed One? I\u2019m beside myself when
+        I speak this way, but I am much more of a servant than they. I have worked
+        much harder for God, taken more beatings, and been dragged to more prisons
+        than they. I\u2019ve been flogged excessively, multiple times, even to the
+        point of death. [[COMMENT(0)]]"
+      comments:
+      - number: 11:23
+        content: '  See  ;  .    '
+    - name: '24: '
+      title: 
+      number: 24
+      content: "Five times I\u2019ve received thirty-nine lashes from the Jewish
+        leaders. [[COMMENT(0)]]  "
+      comments:
+      - number: 11:24
+        content: "  Or \u201Cforty lashes minus one.\u201D Paul received a total
+          of 195 lashings in his lifetime. It was the custom that if anyone was sentenced
+          to lashings, the punishers must ensure that they did not exceed forty,
+          so they only struck the victim thirty-nine times. See  .    "
+    - name: '25: '
+      title: 
+      number: 25
+      content: "Three times I experienced being beaten with rods. [[COMMENT(0)]]
+        Once they stoned me.  Three times I\u2019ve been shipwrecked;  for an entire
+        night and a day I was adrift in the open sea. "
+      comments:
+      - number: 11:25
+        content: '  See  .      See  .      Since the shipwreck mentioned in    happened
+          after Paul wrote to the Corinthians, his total shipwrecks were four. Apparently
+          the three he mentions here took place during his earlier missionary journeys.
+          Some have calculated that Paul had made eight or nine voyages at the time
+          of this writing.    '
+    - name: '26: '
+      title: 
+      number: 26
+      content: "In my difficult travels I\u2019ve faced many dangerous situations:
+        perilous rivers, robbers, foreigners, and even my own people. I\u2019ve survived
+        deadly peril in the city, in the wilderness, with storms at sea, and with
+        spies posing as believers. "
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "I\u2019ve toiled to the point of exhaustion and gone through many
+        sleepless nights. I\u2019ve frequently been deprived of food and water, left
+        hungry and shivering out in the cold, lacking proper clothing. [[COMMENT(0)]]"
+      comments:
+      - number: 11:27
+        content: '  In vv.    Paul uses his experiences of enduring suffering and
+          hardships as the validation of his apostolic ministry. He would one day
+          sacrifice his life for the gospel while in Rome. In ch.    Paul will use
+          visions and spiritual encounters from God to further validate his role
+          as an apostle of Christ.    '
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'And besides these painful circumstances, I have the daily pressure
+        of my responsibility for all the churches, with a deep concern weighing heavily
+        on my heart for their welfare. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: I am not aloof, for who is desperate and weak and I do not feel their
+        weakness? Who is led astray into sin and I do not burn with zeal to restore
+        him? [[COMMENT(0)]]
+      comments:
+      - number: 11:29
+        content: "  Or \u201Cablaze with anger.\u201D    "
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'If boasting is necessary, I will boast about examples of my weakness. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'The God and Father of the Lord Jesus, who is eternally praised, knows
+        that I am speaking the truth. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Once, when I was in Damascus, the governor [[COMMENT(0)]] under King
+        Aretas  had his troops searching for me to have me arrested, '
+      comments:
+      - number: 11:32
+        content: "  Or \u201Cethnarch,\u201D a politically appointed leader over
+          a specific ethnic group, who represents the king.      He was the father-in-law
+          of Herod Antipas.    "
+    - name: '33: '
+      title: 
+      number: 33
+      content: but I was stuffed in a basket [[COMMENT(0)]] and lowered down through
+        a window and managed to escape.
+      comments:
+      - number: 11:33
+        content: "  This was a large, braided wicker basket. Humiliated by this ordeal,
+          one could say that Paul was a \u201Cbasket case.\u201D  "
+  - verses:
+    - name: "1: Paul\u2019s Visions and Revelations"
+      title: "Paul\u2019s Visions and Revelations"
+      number: 1
+      content: 'Although it may not accomplish a thing, I need to move on and boast
+        about supernatural visions and revelations of the Lord. [[COMMENT(0)]]  '
+      comments:
+      - number: 12:1
+        content: "  Or \u201Cfrom the Lord.\u201D    "
+    - name: '2: '
+      title: 
+      number: 2
+      content: "Someone I\u2019m acquainted with, who is in union with Christ, was
+        swept away fourteen years ago in an ecstatic experience. He was taken into
+        the third heaven, [[COMMENT(0)]] but I\u2019m not sure if he was in his body
+        or out of his body\u2014only God knows. "
+      comments:
+      - number: 12:2
+        content: '  Although there are Jewish traditions that present a cosmology
+          of seven levels of heaven, most scholars conclude that the third heaven
+          is the highest realm of the immediate presence of God.    '
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And I know that this man [[COMMENT(0)]] (again, I\u2019m not sure
+        if he was still in his body or taken out of his body\u2014God knows) "
+      comments:
+      - number: 12:3
+        content: "  There are a number of compelling reasons to conclude that the
+          \u201Cman\u201D Paul refers to in vv.    is himself: (1) He knew the exact
+          time this ecstatic experience took place. (2) He knew that what was overheard
+          in the third heaven was \u201Cinexpressible\u201D and not to be repeated.
+          (3) He was not certain about what state he was in (embodied/disembodied).
+          (4) In v.    he uses the first-person pronoun    (\u201Ca thorn in the
+          flesh was given to me\u201D) as a counterbalance to the high level of revelation
+          that Paul had received. It was a common literary device, a rhetorical ploy,
+          to avoid speaking of oneself directly in this fashion and by using the
+          phrase \u201CSomeone I\u2019m acquainted with\u201D (v.  ) when he, in
+          fact, was referring to himself. It is a sign of Paul\u2019s humility and
+          integrity that he did not \u201Cboast\u201D of this event that took place
+          fourteen years earlier. Many today who have experiences with God are quick
+          to tell what happened. Paul veiled his heavenly encounters with God and
+          waited to share them only when it was appropriate and faith-building for
+          others. Not every experience we have is meant to be shared immediately.
+          This is what got Joseph the dreamer thrown into a pit by his jealous brothers.    "
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'was caught up in an ecstatic experience and brought into paradise,
+        [[COMMENT(0)]] where he overheard many wondrous and inexpressible secrets  
+        that were so sacred that no mortal is permitted to repeat them.   '
+      comments:
+      - number: 12:4
+        content: "  What Paul described as the third heaven in v.    is now called
+          paradise. It is possible that Paul is recounting two different experiences,
+          or possibly one experience in which he ascended into two levels or two
+          realms of encounter (third heaven and then paradise/seventh heaven). The
+          third possibility is that it was one and the same place, described with
+          different terms. For more on the term    (Hb.  , Aramaic  , Gr.  ), see 
+          ;  ;  .      Or \u201Cwords\u201D or \u201Cmatters\u201D or \u201Cthings.\u201D
+          Paul was privileged to see and hear of mysteries that are beyond the reach
+          of human language and unable to be spoken by human lips.      See also 
+          .    "
+    - name: '5: '
+      title: 
+      number: 5
+      content: "I\u2019m ready to boast of such an experience, but for my own good
+        I refuse to boast unless it concerns my weaknesses. [[COMMENT(0)]]  "
+      comments:
+      - number: 12:5
+        content: "  The Aramaic can be translated \u201Cafflictions.\u201D    "
+    - name: "6: Paul\u2019s \u201CThorn\u201D"
+      title: "Paul\u2019s \u201CThorn\u201D"
+      number: 6
+      content: "However, if I were to boast, it wouldn\u2019t be ridiculous at all,
+        for I would be speaking the truth. Yet I will refrain, lest others think
+        higher of me than what I demonstrate with my life and teaching."
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "The extraordinary level of the revelations I\u2019ve received is
+        no reason for anyone to exalt me. [[COMMENT(0)]] For this is why a thorn
+        in my flesh was given to me, the Adversary\u2019s messenger sent to harass
+        me,  keeping me from becoming arrogant. "
+      comments:
+      - number: 12:7
+        content: "  The true character of spiritual revelations is that they exalt
+          Christ, not people. It is a paradox that the greater our understanding
+          of God, the less we truly know and the more humble we become. Paul refused
+          to be exalted in the eyes of others. This is the nature of true apostolic
+          ministry.      Or \u201Cto slap my face\u201D or \u201Cto box my ears.\u201D
+          Paul did not have a demon, though it was possible that a demon followed
+          him to harass and hinder. This is more likely a metaphor of the harassment
+          he endured, the constant misunderstanding and persecution that came to
+          him because of his faith in Jesus. There is no indication that this \u201Cthorn\u201D
+          was a sickness. In Paul\u2019s list of hardships () he does not mention
+          a sickness or disease.    "
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Three times I pleaded with the Lord to relieve me of this. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "But he answered me, <JESUS>\u201CMy grace is always more than enough
+        for you,</JESUS>  [[COMMENT(0)]]  <JESUS>and my power finds its full expression
+        through your weakness.\u201D</JESUS> So I will celebrate my weaknesses, for
+        when I\u2019m weak I sense more deeply the mighty power of Christ living
+        in me.   "
+      comments:
+      - number: 12:9
+        content: "  Or \u201CMy grace is continuously sufficient in you\u201D (to
+          ward it off).      Or \u201CThe power of Christ rests upon me like a tent
+          or tabernacle\u201D (providing me shelter).    "
+    - name: '10: The Signs of an Apostle'
+      title: The Signs of an Apostle
+      number: 10
+      content: "So I\u2019m not defeated by my weakness, but delighted! For when
+        I feel my weakness and endure mistreatment\u2014when I\u2019m surrounded
+        with troubles on every side and face persecution because of my love for Christ\u2014I
+        am made yet stronger. For my weakness becomes a portal to God\u2019s power."
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "I have become foolish to boast like this, but you have forced me
+        to do it, when you should have boasted in me instead. For there is nothing
+        I lack compared to these \u201Csuper-apostles\u201D of yours, even though
+        I am nothing. "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "The things that distinguish a true apostle were performed among you
+        with great perseverance\u2014supernatural signs, startling wonders, and awesome
+        miracles."
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Furthermore, how were you treated worse than the other churches,
+        except that I didn\u2019t burden you financially\u2014forgive me for depriving
+        you! [[COMMENT(0)]]  "
+      comments:
+      - number: 12:13
+        content: "  Paul appears to be addressing a complaint that he had treated
+          the Corinthians differently than the other churches when, in fact, he had
+          refused their financial support and was helped instead by the Philippians,
+          who aided him financially while in Corinth, and for this he should have
+          been commended by them. The five marks of Paul being a true apostle are
+          (1) supernatural signs attesting to God\u2019s presence and authority,
+          (2) wonderful deeds that could be explained only by a supernatural God,
+          (3) powerful miracles that point to Christ, (4) treating the churches with
+          respect and not wanting to burden them if at all possible, and (5) becoming
+          a true spiritual father to the churches (see v.  ).    "
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And now here I am, ready to come to you for the third time, [[COMMENT(0)]]
+        and I still refuse to be a burden to you. For what I really want is your
+        hearts, not your money. After all, children should not have to accumulate
+        resources for their parents, but parents do this for their children. '
+      comments:
+      - number: 12:14
+        content: "  It was during Paul\u2019s third visit to Corinth that he wrote
+          the letter to the Romans.    "
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And as a spiritual father to you, I will gladly spend all that I
+        have and all that I am for you! [[COMMENT(0)]] If I love you more, will you
+        respond by loving me less? '
+      comments:
+      - number: 12:15
+        content: "  Or \u201Cfor your souls.\u201D      Some manuscripts indicate
+          that this is not a rhetorical clause but make it into a concessive clause
+          subordinate to the first half of the verse, effectively changing the meaning
+          to \u201CI will gladly spend all that I am for you, even though you love
+          me less for doing so.\u201D Sacrificial love is always the key to opening
+          the hearts of people we minister to and serve.  "
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Be that as it may, I haven\u2019t been a burden to you at all, yet
+        you say of me, \u201CHe\u2019s a scoundrel and a trickster!\u201D "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'But let me ask you this. Did I somehow cheat or trick you through
+        any of the men I sent your way? '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "I was the one who insisted that Titus and our brother come and help
+        you. Did Titus take advantage of you? Didn\u2019t we all come to you in the
+        same spirit, following in the ways of integrity?"
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "I hope that you don\u2019t assume that all this time we have simply
+        been justifying ourselves in your eyes? Beloved ones, we have been speaking
+        to you in the sight of God as those joined to Christ, and everything we do
+        is meant to build you up and make you stronger in your faith. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "Now I\u2019m afraid that when I come to you I may find you different
+        than I desire you to be, and you may find me different than you would like
+        me to be. I don\u2019t want to find you in disunity, with jealousy and angry
+        outbursts, with selfish ambition, slander, gossip, arrogance, and turmoil. "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "I\u2019m actually afraid that on my next visit my God will humble
+        me in front of you as I shed tears over those who keep sinning without repenting
+        of their impurity, sexual immorality, and perversion."
+      comments: []
+  - verses:
+    - name: "1: Weakness and God\u2019s Power"
+      title: "Weakness and God\u2019s Power"
+      number: 1
+      content: 'This will be my third trip to you. And I will make sure that by the
+        testimony of two or three witnesses every matter will be confirmed. [[COMMENT(0)]]  '
+      comments:
+      - number: 13:1
+        content: '  See  ;  ;  .    '
+    - name: '2-3: '
+      title: 
+      number: 2-3
+      content: "Since you are demanding proof that the Anointed One is speaking through
+        me, I will give you proof by exercising discipline among you. For just as
+        I told you the last time I was there\u2014and now, though absent, I say it
+        again\u2014that when I come I will not go easy on those whom I\u2019ve already
+        warned and those who continue to persist in their sin. Christ is not weak
+        or feeble in his dealings with you but mighty and powerful within you. "
+      comments: []
+    - name: '2-3: '
+      title: 
+      number: 2-3
+      content: "Since you are demanding proof that the Anointed One is speaking through
+        me, I will give you proof by exercising discipline among you. For just as
+        I told you the last time I was there\u2014and now, though absent, I say it
+        again\u2014that when I come I will not go easy on those whom I\u2019ve already
+        warned and those who continue to persist in their sin. Christ is not weak
+        or feeble in his dealings with you but mighty and powerful within you. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "For although he was crucified as a \u201Cweakling,\u201D now he lives
+        robed with God\u2019s power. And we also are \u201Cweak ones\u201D in our
+        co-crucifixion with him, but now we live in God\u2019s triumphant power together
+        with him, which is demonstrated on your behalf."
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Now your souls will be strengthened and healed if you hold steadfast
+        to your faith. [[COMMENT(0)]] Haven\u2019t you already experienced Jesus
+        Christ himself living in you? If not, you are deficient.   "
+      comments:
+      - number: 13:5
+        content: "  As translated from the Aramaic. The Greek is \u201CExamine yourselves
+          to see if you are indeed in the faith.\u201D      As translated from the
+          Aramaic. The Greek is \u201Cunless you are disqualified.\u201D    "
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'I hope you understand that we cannot be devalued. [[COMMENT(0)]]  '
+      comments:
+      - number: 13:6
+        content: "  As translated from the Aramaic. The Greek is \u201CYou know that
+          we are not disqualified.\u201D    "
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'But we pray to God that you will be flawless, [[COMMENT(0)]] not
+        to validate our ministry among you but so that you may continue on the path
+        of righteousness even if we are denigrated.   '
+      comments:
+      - number: 13:7
+        content: "  See  .      As translated from the Aramaic. The Greek is \u201Ceven
+          if we appear as disapproved.\u201D    "
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For in reality, the power we have is used in support of the truth,
+        not against it. '
+      comments: []
+    - name: "9: Paul\u2019s Farewell"
+      title: "Paul\u2019s Farewell"
+      number: 9
+      content: And we claim before God [[COMMENT(0)]] that you will be fully equipped
+        and mature, for it brings us great joy when you are strong, even if we seem
+        weak and denigrated.
+      comments:
+      - number: 13:9
+        content: "  The Greek word    (accusative and infinitive construction) means
+          more than prayer; it is to make a claim before God in prayer. The verb
+          is  , which means a votive obligation and is translated \u201Cmake a vow\u201D
+          in  .    "
+    - name: '10: '
+      title: 
+      number: 10
+      content: "I\u2019m writing my honest feelings to you from afar so that when
+        I arrive I won\u2019t have to correct you by using the authority the Lord
+        has given me, for I want to build you up and not tear you down."
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Finally, beloved friends, [[COMMENT(0)]] be cheerful! Repair whatever
+        is broken among you, as your hearts are being knit together in perfect unity.
+        Live continually in peace, and God, the source of love and peace, will mingle
+        with you. '
+      comments:
+      - number: 13:11
+        content: "  Or \u201Cbrothers (and sisters).\u201D    "
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Greet and embrace one another with the sacred kiss. [[COMMENT(0)]]  '
+      comments:
+      - number: 13:12
+        content: '  What makes a kiss holy or sacred is that it comes from the love
+          of God. See  ;  .    '
+    - name: '13: '
+      title: 
+      number: 13
+      content: "All of God\u2019s holy people send their greetings."
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: Now, may the grace and joyous favor of the Lord Jesus Christ, the
+        unambiguous love of God, and the precious communion that we share in the
+        Holy Spirit be yours continually. Amen! [[COMMENT(0)]]
+      comments:
+      - number: 13:14
+        content: "  The Aramaic ends with this concluding statement: \u201CThe end
+          of the second letter to the Corinthians that was written from Philippi
+          of Macedonia and sent by the hand of Titus.\u201D  "

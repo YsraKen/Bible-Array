@@ -1,0 +1,1052 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: AMO
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Amos
+  fancyName: 
+  nickname: amo
+  version: {fileID: 11400000, guid: dd64eb842f3dd694bae8487ce6510215, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: "1: Judgment on Israel\u2019s Neighbors"
+      title: "Judgment on Israel\u2019s Neighbors"
+      number: 1
+      content: '  The words of Amos, who was among the shepherds[[COMMENT(0)]] of
+        Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah
+        and in the days of Jeroboam the son of Joash, king of Israel, two years before
+        the earthquake.  '
+      comments:
+      - number: '1:1 '
+        content: 'Or Or '
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And he said:  \u201CThe <smallcaps>Lord</smallcaps> roars from Zionand
+        utters his voice from Jerusalem;  the pastures of the shepherds mourn,and
+        the top of Carmel withers.\u201D  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Thus says the <smallcaps>Lord</smallcaps>:  \u201CFor three transgressions
+        of Damascus,and for four, I will not revoke the punishment,[[COMMENT(0)]]because
+        they have threshed Gileadwith threshing sledges of iron.  "
+      comments:
+      - number: '1:3 '
+        content: Hebrew ; also verses 6, 9, 11, 13
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  So I will send a fire upon the house of Hazael,and it shall devour
+        the strongholds of Ben-hadad.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "I will break the gate-bar of Damascus,and cut off the inhabitants
+        from the Valley of Aven,[[COMMENT(0)]]and him who holds the scepter from
+        Beth-eden;and the people of Syria shall go into exile to Kir,\u201Dsays the
+        <smallcaps>Lord</smallcaps>.  "
+      comments:
+      - number: '1:5 '
+        content: 'Or '
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Thus says the <smallcaps>Lord</smallcaps>:  \u201CFor three transgressions
+        of Gaza,and for four, I will not revoke the punishment,because they carried
+        into exile a whole peopleto deliver them up to Edom.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'So I will send a fire upon the wall of Gaza,and it shall devour her
+        strongholds.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "I will cut off the inhabitants from Ashdod,and him who holds the
+        scepter from Ashkelon;I will turn my hand against Ekron,and the remnant of
+        the Philistines shall perish,\u201Dsays the Lord <smallcaps>God</smallcaps>.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Thus says the <smallcaps>Lord</smallcaps>:  \u201CFor three transgressions
+        of Tyre,and for four, I will not revoke the punishment,because they delivered
+        up a whole people to Edom,and did not remember the covenant of brotherhood.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "So I will send a fire upon the wall of Tyre,and it shall devour her
+        strongholds.\u201D  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Thus says the <smallcaps>Lord</smallcaps>:  \u201CFor three transgressions
+        of Edom,and for four, I will not revoke the punishment,  because he pursued
+        his brother with the sword  and cast off all pity,  and his anger tore perpetually, 
+        and he kept his wrath forever.  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "So I will send a fire upon Teman,and it shall devour the strongholds
+        of Bozrah.\u201D  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Thus says the <smallcaps>Lord</smallcaps>:  \u201CFor three transgressions
+        of the Ammonites,and for four, I will not revoke the punishment,because they
+        have ripped open pregnant women in Gilead,that they might enlarge their border.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'So I will kindle a fire in the wall of Rabbah,  and it shall devour
+        her strongholds,with shouting on the day of battle,  with a tempest in the
+        day of the whirlwind;  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "and their king shall go into exile,he and his princes[[COMMENT(0)]]
+        together,\u201Dsays the <smallcaps>Lord</smallcaps>."
+      comments:
+      - number: '1:15 '
+        content: 'Or '
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "  Thus says the <smallcaps>Lord</smallcaps>:  \u201CFor three transgressions
+        of Moab,and for four, I will not revoke the punishment,[[COMMENT(0)]]because
+        he burned to limethe bones of the king of Edom.  "
+      comments:
+      - number: '2:1 '
+        content: Hebrew ; also verses 4, 6
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'So I will send a fire upon Moab,and it shall devour the strongholds
+        of Kerioth,and Moab shall die amid uproar,amid shouting and the sound of
+        the trumpet;  '
+      comments: []
+    - name: '3: Judgment on Judah'
+      title: Judgment on Judah
+      number: 3
+      content: "  I will cut off the ruler from its midst,and will kill all its princes[[COMMENT(0)]]
+        with him,\u201Dsays the <smallcaps>Lord</smallcaps>.  "
+      comments:
+      - number: '2:3 '
+        content: 'Or '
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Thus says the <smallcaps>Lord</smallcaps>:  \u201CFor three transgressions
+        of Judah,and for four, I will not revoke the punishment,because they have
+        rejected the law of the <smallcaps>Lord</smallcaps>,and have not kept his
+        statutes,but their lies have led them astray,those after which their fathers
+        walked.  "
+      comments: []
+    - name: '5: Judgment on Israel'
+      title: Judgment on Israel
+      number: 5
+      content: "So I will send a fire upon Judah,and it shall devour the strongholds
+        of Jerusalem.\u201D  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Thus says the <smallcaps>Lord</smallcaps>:  \u201CFor three transgressions
+        of Israel,and for four, I will not revoke the punishment,because they sell
+        the righteous for silver,and the needy for a pair of sandals\u2014  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'those who trample the head of the poor into the dust of the earthand
+        turn aside the way of the afflicted;  a man and his father go in to the same
+        girl,so that my holy name is profaned;  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'they lay themselves down beside every altaron garments taken in pledge,and
+        in the house of their God they drinkthe wine of those who have been fined.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CYet it was I who destroyed the Amorite before them,  whose
+        height was like the height of the cedarsand who was as strong as the oaks; 
+        I destroyed his fruit aboveand his roots beneath.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  Also it was I who brought you up out of the land of Egypt  and
+        led you forty years in the wilderness,  to possess the land of the Amorite.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "And I raised up some of your sons for prophets,and some of your young
+        men for Nazirites.Is it not indeed so, O people of Israel?\u201Ddeclares
+        the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CBut you made the Nazirites drink wine,and commanded the prophets,saying,
+        \u2018You shall not prophesy.\u2019  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CBehold, I will press you down in your place,as a cart full
+        of sheaves presses down.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Flight shall perish from the swift,  and the strong shall not retain
+        his strength,  nor shall the mighty save his life;  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'he who handles the bow shall not stand,and he who is swift of foot
+        shall not save himself,  nor shall he who rides the horse save his life;  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "and he who is stout of heart among the mightyshall flee away naked
+        in that day,\u201Ddeclares the <smallcaps>Lord</smallcaps>."
+      comments: []
+  - verses:
+    - name: "1: Israel\u2019s Guilt and Punishment"
+      title: "Israel\u2019s Guilt and Punishment"
+      number: 1
+      content: '    Hear this word that the <smallcaps>Lord</smallcaps> has spoken
+        against you, O people of Israel, against the whole family that I brought
+        up out of the land of Egypt:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "  \u201CYou only have I knownof all the families of the earth;  therefore
+        I will punish youfor all your iniquities.  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "\u201CDo two walk together,unless they have agreed to meet?  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Does a lion roar in the forest,when he has no prey?Does a young lion
+        cry out from his den,if he has taken nothing?  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Does a bird fall in a snare on the earth,when there is no trap for
+        it?Does a snare spring up from the ground,when it has taken nothing?  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Is a trumpet blown in a city,and the people are not afraid?  Does
+        disaster come to a city,unless the <smallcaps>Lord</smallcaps> has done it?  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CFor the Lord <smallcaps>God</smallcaps> does nothing  without
+        revealing his secretto his servants the prophets.  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "The lion has roared;who will not fear?  The Lord <smallcaps>God</smallcaps>
+        has spoken;who can but prophesy?\u201D  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Proclaim to the strongholds in Ashdodand to the strongholds in the
+        land of Egypt,and say, \u201CAssemble yourselves on the mountains of Samaria,and
+        see the great tumults within her,and the oppressed in her midst.\u201D  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201CThey do not know how to do right,\u201D declares the <smallcaps>Lord</smallcaps>, 
+        \u201Cthose who store up violence and robbery in their strongholds.\u201D  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Therefore thus says the Lord <smallcaps>God</smallcaps>:  \u201CAn
+        adversary shall surround the landand bring down[[COMMENT(0)]] your defenses
+        from you,and your strongholds shall be plundered.\u201D  "
+      comments:
+      - number: '3:11 '
+        content: 'Hebrew '
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Thus says the <smallcaps>Lord</smallcaps>: \u201CAs the shepherd
+        rescues from the mouth of the lion two legs, or a piece of an ear, so shall
+        the people of Israel who dwell in Samaria be rescued, with the corner of
+        a couch and part[[COMMENT(0)]] of a bed.  "
+      comments:
+      - number: '3:12 '
+        content: The meaning of the Hebrew word is uncertain
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CHear, and testify against the house of Jacob,\u201Ddeclares
+        the Lord <smallcaps>God</smallcaps>, the God of hosts,  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201Cthat on the day I punish Israel for his transgressions,  I
+        will punish the altars of Bethel,and the horns of the altar shall be cut
+        offand fall to the ground.  "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "  I will strike the winter house along with the summer house,and
+        the houses of ivory shall perish,and the great houses[[COMMENT(0)]] shall
+        come to an end,\u201Ddeclares the <smallcaps>Lord</smallcaps>."
+      comments:
+      - number: '3:15 '
+        content: 'Or '
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "  \u201CHear this word, you cows of Bashan,who are on the mountain
+        of Samaria,  who oppress the poor, who crush the needy,who say to your husbands,
+        \u2018Bring, that we may drink!\u2019  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  The Lord <smallcaps>God</smallcaps> has sworn by his holinessthat,
+        behold, the days are coming upon you,  when they shall take you away with
+        hooks,  even the last of you with fishhooks.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "  And you shall go out through the breaches,each one straight ahead;and
+        you shall be cast out into Harmon,\u201Ddeclares the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "  \u201CCome to Bethel, and transgress;to Gilgal, and multiply transgression; 
+        bring your sacrifices every morning,your tithes every three days;  "
+      comments: []
+    - name: '5: Israel Has Not Returned to the '
+      title: 'Israel Has Not Returned to the '
+      number: 5
+      content: "offer a sacrifice of thanksgiving of that which is leavened,and proclaim
+        freewill offerings, publish them;  for so you love to do, O people of Israel!\u201Ddeclares
+        the Lord <smallcaps>God</smallcaps>.<smallcaps>Lord</smallcaps>  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "\u201CI gave you cleanness of teeth in all your cities,and lack of
+        bread in all your places,  yet you did not return to me,\u201Ddeclares the
+        <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CI also withheld the rain from youwhen there were yet three
+        months to the harvest;  I would send rain on one city,and send no rain on
+        another city;one field would have rain,and the field on which it did not
+        rain would wither;  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "so two or three cities would wander to another cityto drink water,
+        and would not be satisfied;  yet you did not return to me,\u201Ddeclares
+        the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "  \u201CI struck you with blight and mildew;your many gardens and
+        your vineyards,your fig trees and your olive trees the locust devoured; 
+        yet you did not return to me,\u201Ddeclares the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201CI sent among you a pestilence after the manner of Egypt;I killed
+        your young men with the sword,and carried away your horses,[[COMMENT(0)]]and
+        I made the stench of your camp go up into your nostrils;  yet you did not
+        return to me,\u201Ddeclares the <smallcaps>Lord</smallcaps>.  "
+      comments:
+      - number: '4:10 '
+        content: 'Hebrew '
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CI overthrew some of you,  as when God overthrew Sodom and Gomorrah,and
+        you were as a brand[[COMMENT(0)]] plucked out of the burning;  yet you did
+        not return to me,\u201Ddeclares the <smallcaps>Lord</smallcaps>.  "
+      comments:
+      - number: '4:11 '
+        content: That is, a burning stick
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CTherefore thus I will do to you, O Israel;because I will do
+        this to you,prepare to meet your God, O Israel!\u201D  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "For behold, he who forms the mountains and creates the wind,and declares
+        to man what is his thought,  who makes the morning darkness,and treads on
+        the heights of the earth\u2014  the <smallcaps>Lord</smallcaps>, the God
+        of hosts, is his name!"
+      comments: []
+  - verses:
+    - name: '1: Seek the  and Live'
+      title: Seek the  and Live
+      number: 1
+      content: '<smallcaps>Lord</smallcaps>  Hear this word that I take up over you
+        in lamentation, O house of Israel:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CFallen, no more to rise,is the virgin Israel;forsaken on her
+        land,with none to raise her up.\u201D  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "For thus says the Lord <smallcaps>God</smallcaps>:\u201CThe city
+        that went out a thousandshall have a hundred left,and that which went out
+        a hundredshall have ten leftto the house of Israel.\u201D  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "For thus says the <smallcaps>Lord</smallcaps> to the house of Israel: 
+        \u201CSeek me and live;  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "but do not seek Bethel,and do not enter into Gilgalor cross over
+        to Beersheba;for Gilgal shall surely go into exile,and Bethel shall come
+        to nothing.\u201D  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Seek the <smallcaps>Lord</smallcaps> and live,  lest he break out
+        like fire in the house of Joseph,and it devour, with none to quench it for
+        Bethel,  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'O you who turn justice to wormwood[[COMMENT(0)]]and cast down righteousness
+        to the earth!  '
+      comments:
+      - number: '5:7 '
+        content: 'Or '
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'He who made the Pleiades and Orion,and turns deep darkness into the
+        morningand darkens the day into night,who calls for the waters of the sea 
+        and pours them out on the surface of the earth,  the <smallcaps>Lord</smallcaps>
+        is his name;  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  who makes destruction flash forth against the strong,so that destruction
+        comes upon the fortress.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  They hate him who reproves in the gate,and they abhor him who speaks
+        the truth.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Therefore because you trample on[[COMMENT(0)]] the poorand you exact
+        taxes of grain from him,  you have built houses of hewn stone,but you shall
+        not dwell in them;  you have planted pleasant vineyards,but you shall not
+        drink their wine.  '
+      comments:
+      - number: '5:11 '
+        content: 'Or '
+    - name: '12: '
+      title: 
+      number: 12
+      content: "For I know how many are your transgressionsand how great are your
+        sins\u2014you who afflict the righteous, who take a bribe,and turn aside
+        the needy in the gate.  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Therefore he who is prudent will keep silent in such a time,  for
+        it is an evil time.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Seek good, and not evil,that you may live;and so the <smallcaps>Lord</smallcaps>,
+        the God of hosts, will be with you,as you have said.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Hate evil, and love good,and establish justice in the gate;  it
+        may be that the <smallcaps>Lord</smallcaps>, the God of hosts,will be gracious
+        to the remnant of Joseph.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Therefore thus says the <smallcaps>Lord</smallcaps>, the God of hosts,
+        the Lord:\u201CIn all the squares there shall be wailing,and in all the streets
+        they shall say, \u2018Alas! Alas!\u2019They shall call the farmers to mourningand
+        to wailing those who are skilled in lamentation,  "
+      comments: []
+    - name: '17: Let Justice Roll Down'
+      title: Let Justice Roll Down
+      number: 17
+      content: "and in all vineyards there shall be wailing,for I will pass through
+        your midst,\u201Dsays the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Woe to you who desire the day of the <smallcaps>Lord</smallcaps>!Why
+        would you have the day of the <smallcaps>Lord</smallcaps>?  It is darkness,
+        and not light,  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: '  as if a man fled from a lion,and a bear met him,or went into the
+        house and leaned his hand against the wall,and a serpent bit him.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: '  Is not the day of the <smallcaps>Lord</smallcaps> darkness, and
+        not light,and gloom with no brightness in it?  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "  \u201CI hate, I despise your feasts,and I take no delight in your
+        solemn assemblies.  "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: '  Even though you offer me your burnt offerings and grain offerings,I
+        will not accept them;and the peace offerings of your fattened animals,I will
+        not look upon them.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Take away from me the noise of your songs;to the melody of your harps
+        I will not listen.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'But let justice roll down like waters,and righteousness like an ever-flowing
+        stream.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "  \u201CDid you bring to me sacrifices and offerings during the forty
+        years in the wilderness, O house of Israel? "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "You shall take up Sikkuth your king, and Kiyyun your star-god\u2014your
+        images that you made for yourselves, "
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "and I will send you into exile beyond Damascus,\u201D says the <smallcaps>Lord</smallcaps>,
+        whose name is the God of hosts."
+      comments: []
+  - verses:
+    - name: '1: Woe to Those at Ease in Zion'
+      title: Woe to Those at Ease in Zion
+      number: 1
+      content: "    \u201CWoe to those who are at ease in Zion,and to those who feel
+        secure on the mountain of Samaria,  the notable men of the first of the nations,to
+        whom the house of Israel comes!  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Pass over to Calneh, and see,and from there go to Hamath the great;then
+        go down to Gath of the Philistines.  Are you better than these kingdoms?Or
+        is their territory greater than your territory,  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  O you who put far away the day of disaster  and bring near the
+        seat of violence?  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CWoe to those who lie on beds of ivory  and stretch themselves
+        out on their couches,and eat lambs from the flock  and calves from the midst
+        of the stall,  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  who sing idle songs to the sound of the harpand like David invent
+        for themselves instruments of music,  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  who drink wine in bowlsand anoint themselves with the finest oils,but
+        are not grieved over the ruin of Joseph!  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "  Therefore they shall now be the first of those who go into exile,and
+        the revelry of those who stretch themselves out shall pass away.\u201D  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "  The Lord <smallcaps>God</smallcaps> has sworn by himself, declares
+        the <smallcaps>Lord</smallcaps>, the God of hosts:\u201CI abhor the pride
+        of Jacoband hate his strongholds,  and I will deliver up the city and all
+        that is in it.\u201D  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And if ten men remain in one house, they shall die. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "And when one\u2019s relative, the one who anoints him for burial,
+        shall take him up to bring the bones out of the house, and shall say to him
+        who is in the innermost parts of the house, \u201CIs there still anyone with
+        you?\u201D he shall say, \u201CNo\u201D; and he shall say, \u201CSilence!
+        We must not mention the name of the <smallcaps>Lord</smallcaps>.\u201D  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'For behold, the <smallcaps>Lord</smallcaps> commands,and the great
+        house shall be struck down into fragments,and the little house into bits.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Do horses run on rocks?Does one plow there[[COMMENT(0)]] with oxen? 
+        But you have turned justice into poison  and the fruit of righteousness into
+        wormwood\u2014  "
+      comments:
+      - number: '6:12 '
+        content: 'Or Or '
+    - name: '13: '
+      title: 
+      number: 13
+      content: "you who rejoice in Lo-debar,[[COMMENT(0)]]who say, \u201CHave we
+        not by our own strengthcaptured Karnaim for ourselves?\u201D  "
+      comments:
+      - number: '6:13 '
+        content: means means (a symbol of strength)
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201CFor behold, I will raise up against you a nation,O house of
+        Israel,\u201D declares the <smallcaps>Lord</smallcaps>, the God of hosts;\u201Cand
+        they shall oppress you from Lebo-hamathto the Brook of the Arabah.\u201D"
+      comments: []
+  - verses:
+    - name: '1: Warning Visions'
+      title: Warning Visions
+      number: 1
+      content: "    This is what the Lord <smallcaps>God</smallcaps> showed me: behold,
+        he was forming locusts when the latter growth was just beginning to sprout,
+        and behold, it was the latter growth after the king\u2019s mowings. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "When they had finished eating the grass of the land, I said,\u201CO
+        Lord <smallcaps>God</smallcaps>, please forgive!  How can Jacob stand?He
+        is so small!\u201D  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "  The <smallcaps>Lord</smallcaps> relented concerning this:\u201CIt
+        shall not be,\u201D said the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  This is what the Lord <smallcaps>God</smallcaps> showed me: behold,
+        the Lord <smallcaps>God</smallcaps> was calling for a judgment by fire, and
+        it devoured the great deep and was eating up the land. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Then I said,\u201CO Lord <smallcaps>God</smallcaps>, please cease! 
+        How can Jacob stand?He is so small!\u201D  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "  The <smallcaps>Lord</smallcaps> relented concerning this:\u201CThis
+        also shall not be,\u201D said the Lord <smallcaps>God</smallcaps>.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  This is what he showed me: behold, the Lord was standing beside
+        a wall built with a plumb line, with a plumb line in his hand. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And the <smallcaps>Lord</smallcaps> said to me, \u201CAmos, what
+        do you see?\u201D And I said, \u201CA plumb line.\u201D Then the Lord said,\u201CBehold,
+        I am setting a plumb linein the midst of my people Israel;  I will never
+        again pass by them;  "
+      comments: []
+    - name: '9: Amos Accused'
+      title: Amos Accused
+      number: 9
+      content: "  the high places of Isaac shall be made desolate,and the sanctuaries
+        of Israel shall be laid waste,and I will rise against the house of Jeroboam
+        with the sword.\u201D  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Then Amaziah the priest of Bethel sent to Jeroboam king of Israel,
+        saying, \u201CAmos has conspired against you in the midst of the house of
+        Israel. The land is not able to bear all his words. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "For thus Amos has said,\u201C\u2018Jeroboam shall die by the sword,and
+        Israel must go into exileaway from his land.\u2019\u201D  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "And Amaziah said to Amos, \u201CO seer, go, flee away to the land
+        of Judah, and eat bread there, and prophesy there, "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "but never again prophesy at Bethel, for it is the king\u2019s sanctuary,
+        and it is a temple of the kingdom.\u201D  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Then Amos answered and said to Amaziah, \u201CI was[[COMMENT(0)]]
+        no prophet, nor a prophet\u2019s son, but I was a herdsman and a dresser
+        of sycamore figs. "
+      comments:
+      - number: '7:14 '
+        content: Or ; twice in this verse
+    - name: '15: '
+      title: 
+      number: 15
+      content: "But the <smallcaps>Lord</smallcaps> took me from following the flock,
+        and the <smallcaps>Lord</smallcaps> said to me, \u2018Go, prophesy to my
+        people Israel.\u2019 "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Now therefore hear the word of the <smallcaps>Lord</smallcaps>.\u201CYou
+        say, \u2018Do not prophesy against Israel,and do not preach against the house
+        of Isaac.\u2019  "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "  Therefore thus says the <smallcaps>Lord</smallcaps>:\u201C\u2018Your
+        wife shall be a prostitute in the city,and your sons and your daughters shall
+        fall by the sword,and your land shall be divided up with a measuring line;you
+        yourself shall die in an unclean land,and Israel shall surely go into exile
+        away from its land.\u2019\u201D"
+      comments: []
+  - verses:
+    - name: '1: The Coming Day of Bitter Mourning'
+      title: The Coming Day of Bitter Mourning
+      number: 1
+      content: '    This is what the Lord <smallcaps>God</smallcaps> showed me: behold,
+        a basket of summer fruit. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And he said, \u201CAmos, what do you see?\u201D And I said, \u201CA
+        basket of summer fruit.\u201D Then the <smallcaps>Lord</smallcaps> said to
+        me,  \u201CThe end[[COMMENT(0)]] has come upon my people Israel;I will never
+        again pass by them.  "
+      comments:
+      - number: '8:2 '
+        content: The Hebrew words for and sound alike
+    - name: '3: '
+      title: 
+      number: 3
+      content: "  The songs of the temple[[COMMENT(0)]]  shall become wailings in
+        that day,\u201Ddeclares the Lord <smallcaps>God</smallcaps>.  \u201CSo many
+        dead bodies!\u201D\u201CThey are thrown everywhere!\u201D  \u201CSilence!\u201D  "
+      comments:
+      - number: '8:3 '
+        content: 'Or Or '
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Hear this, you who trample on the needyand bring the poor of the
+        land to an end,  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "saying, \u201CWhen will the new moon be over,that we may sell grain?And
+        the Sabbath,that we may offer wheat for sale,that we may make the ephah small
+        and the shekel[[COMMENT(0)]] greatand deal deceitfully with false balances,  "
+      comments:
+      - number: '8:5 '
+        content: An was about 3/5 bushel or 22 liters; a was about 2/5 ounce or 11
+          grams
+    - name: '6: '
+      title: 
+      number: 6
+      content: "that we may buy the poor for silverand the needy for a pair of sandalsand
+        sell the chaff of the wheat?\u201D  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "The <smallcaps>Lord</smallcaps> has sworn by the pride of Jacob:\u201CSurely
+        I will never forget any of their deeds.  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "  Shall not the land tremble on this account,and everyone mourn who
+        dwells in it,  and all of it rise like the Nile,and be tossed about and sink
+        again, like the Nile of Egypt?\u201D  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CAnd on that day,\u201D declares the Lord <smallcaps>God</smallcaps>, 
+        \u201CI will make the sun go down at noonand darken the earth in broad daylight.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  I will turn your feasts into mourningand all your songs into lamentation; 
+        I will bring sackcloth on every waist  and baldness on every head;  I will
+        make it like the mourning for an only sonand the end of it like a bitter
+        day.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CBehold, the days are coming,\u201D declares the Lord <smallcaps>God</smallcaps>,\u201Cwhen
+        I will send a famine on the land\u2014not a famine of bread, nor a thirst
+        for water,  but of hearing the words of the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  They shall wander from sea to sea,and from north to east;they shall
+        run to and fro, to seek the word of the <smallcaps>Lord</smallcaps>,  but
+        they shall not find it.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "  \u201CIn that day the lovely virgins and the young menshall faint
+        for thirst.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Those who swear by the Guilt of Samaria,and say, \u2018As your god
+        lives, O Dan,\u2019and, \u2018As the Way of Beersheba lives,\u2019they shall
+        fall, and never rise again.\u201D"
+      comments: []
+  - verses:
+    - name: '1: The Destruction of Israel'
+      title: The Destruction of Israel
+      number: 1
+      content: "  I saw the Lord standing beside[[COMMENT(0)]] the altar, and he
+        said:  \u201CStrike the capitals until the thresholds shake,  and shatter
+        them on the heads of all the people;and those who are left of them I will
+        kill with the sword;  not one of them shall flee away;not one of them shall
+        escape.  "
+      comments:
+      - number: '9:1 '
+        content: 'Or Hebrew '
+    - name: '2: '
+      title: 
+      number: 2
+      content: "  \u201CIf they dig into Sheol,from there shall my hand take them; 
+        if they climb up to heaven,from there I will bring them down.  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'If they hide themselves on the top of Carmel,from there I will search
+        them out and take them;  and if they hide from my sight at the bottom of
+        the sea,there I will command the serpent, and it shall bite them.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "  And if they go into captivity before their enemies,there I will
+        command the sword, and it shall kill them;  and I will fix my eyes upon themfor
+        evil and not for good.\u201D  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The Lord <smallcaps>God</smallcaps> of hosts,he who touches the earth
+        and it melts,and all who dwell in it mourn,  and all of it rises like the
+        Nile,  and sinks again, like the Nile of Egypt;  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "  who builds his upper chambers in the heavensand founds his vault
+        upon the earth;  who calls for the waters of the seaand pours them out upon
+        the surface of the earth\u2014  the <smallcaps>Lord</smallcaps> is his name.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CAre you not like the Cushites to me,O people of Israel?\u201D
+        declares the <smallcaps>Lord</smallcaps>.  \u201CDid I not bring up Israel
+        from the land of Egypt,and the Philistines from Caphtor and the Syrians from
+        Kir?  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Behold, the eyes of the Lord <smallcaps>God</smallcaps> are upon
+        the sinful kingdom,and I will destroy it from the surface of the ground, 
+        except that I will not utterly destroy the house of Jacob,\u201Ddeclares
+        the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CFor behold, I will command,  and shake the house of Israel
+        among all the nationsas one shakes with a sieve,but no pebble shall fall
+        to the earth.  "
+      comments: []
+    - name: '10: The Restoration of Israel'
+      title: The Restoration of Israel
+      number: 10
+      content: "All the sinners of my people shall die by the sword,who say, \u2018Disaster
+        shall not overtake or meet us.\u2019  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CIn that day I will raise upthe booth of David that is fallenand
+        repair its breaches,and raise up its ruinsand rebuild it as in the days of
+        old,  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "  that they may possess the remnant of Edomand all the nations who
+        are called by my name,\u201D[[COMMENT(0)]]declares the <smallcaps>Lord</smallcaps>
+        who does this.  "
+      comments:
+      - number: '9:12 '
+        content: 'Hebrew; Septuagint (compare Acts 15:17) '
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CBehold, the days are coming,\u201D declares the <smallcaps>Lord</smallcaps>, 
+        \u201Cwhen the plowman shall overtake the reaperand the treader of grapes
+        him who sows the seed;  the mountains shall drip sweet wine,and all the hills
+        shall flow with it.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  I will restore the fortunes of my people Israel,and they shall
+        rebuild the ruined cities and inhabit them;  they shall plant vineyards and
+        drink their wine,and they shall make gardens and eat their fruit.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "  I will plant them on their land,  and they shall never again be
+        uprootedout of the land that I have given them,\u201Dsays the <smallcaps>Lord</smallcaps>
+        your God."
+      comments: []

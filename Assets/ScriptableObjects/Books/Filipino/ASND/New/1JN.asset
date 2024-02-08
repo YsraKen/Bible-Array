@@ -12,115 +12,165 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
   m_Name: 1JN
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: 1 John
+  <Name>k__BackingField: 1 Juan
   fancyName: 
   nickname: 1jn
   version: {fileID: 11400000, guid: fc06489f21c1c3c43a353b052ba682a3, type: 2}
   description: 
   chapters:
   - verses:
-    - title: Ang Salitang Nagbibigay ng Buhay na Walang Hanggan
+    - name: '1: Ang Salitang Nagbibigay ng Buhay na Walang Hanggan'
+      title: Ang Salitang Nagbibigay ng Buhay na Walang Hanggan
+      number: 1
       content: "  Ipinapahayag namin sa inyo ang tungkol sa kanya na mula pa sa simula
         ay nariyan na.[[COMMENT(0)]] Narinig namin siya, nakita\u02BCt napagmasdan
         ng sarili naming mga mata, at nahawakan pa namin siya. Siya ang Salita ng
-        Dios na nagbibigay ng buhay na walang hanggan. "
+        Dios na nagbibigay ng buhay <i>na walang hanggan</i>. "
       comments:
       - number: '1:1 '
         content: '<b>: </b>o, <b>nabubuhay na.</b>'
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "Siya na pinagmumulan ng buhay na walang hanggan ay nahayag at aming
         nakita. Pinapatotohanan at ipinapahayag namin siya sa inyo, na sa simula\u02BCt
         simula pa ay kasama na ng Ama, at nagpakita sa amin. "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Ipinapahayag namin sa inyo ang nakita at narinig namin upang maging
         kaisa namin kayo sa Ama at sa kanyang Anak na si Jesu-Cristo. '
       comments: []
-    - title: Ang Pamumuhay sa Liwanag
+    - name: '4: Ang Pamumuhay sa Liwanag'
+      title: Ang Pamumuhay sa Liwanag
+      number: 4
       content: 'Isinusulat namin ito upang malubos ang aming[[COMMENT(0)]] kagalakan.  '
       comments:
       - number: '1:4 '
         content: '<b>: </b>o, <b>ating.</b>'
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Ito ang mensaheng narinig namin mula kay Jesu-Cristo at ipinapahayag
         naman namin sa inyo: Ang Dios ay liwanag at sa kanya ay walang anumang kadiliman. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Kung sinasabi nating may pakikiisa tayo sa kanya ngunit namumuhay
         naman tayo sa kadiliman, nagsisinungaling tayo at hindi namumuhay nang ayon
         sa katotohanan. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Ngunit kung namumuhay tayo sa liwanag, tulad ng Dios na nasa liwanag,
         may pagkakaisa tayo, at nililinis tayo ng dugo ni Jesus na kanyang Anak sa
         lahat ng kasalanan.  '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Kung sinasabi nating wala tayong kasalanan, dinadaya natin ang ating
         sarili at wala sa atin ang katotohanan. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Ngunit kung ipinagtatapat natin sa Dios ang ating mga kasalanan,
         maaasahan nating patatawarin niya ang ating mga kasalanan at lilinisin tayo
         sa lahat ng uri ng kasamaan dahil matuwid siya. '
       comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Kung sinasabi nating wala tayong kasalanan, ginagawa nating sinungaling
+        ang Dios, at wala sa atin ang kanyang salita.
+      comments: []
   - verses:
-    - title: 
+    - name: '1: '
+      title: 
+      number: 1
       content: "  Mga anak, sinusulat ko sa inyo ang mga bagay na ito upang hindi
         kayo magkasala. Ngunit kung may magkasala man, may tagapamagitan tayo sa
         Ama\u2009\u2013\u2009siya ay si Jesu-Cristo, ang Matuwid. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Siya ang ibinigay na handog para sa kapatawaran ng ating mga kasalanan,
         at hindi lang ng mga kasalanan natin kundi pati na rin ng kasalanan ng buong
         mundo. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Nakatitiyak tayong kilala natin ang Dios kung sinusunod natin ang
         kanyang mga utos. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Ang nagsasabing nakikilala niya ang Dios ngunit hindi naman sumusunod
         sa kanyang mga utos ay sinungaling, at wala sa kanya ang katotohanan. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "Ngunit sa sinumang sumusunod sa salita ng Dios, lubos na natupad
         sa kanya ang pag-ibig ng Dios. At sa ganitong paraan natin malalaman na tayo\u02BCy
         nasa kanya: "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'ang sinumang nagsasabing siya ay sa Dios, dapat siyang mamuhay nang
         tulad ni Jesu-Cristo.  '
       comments: []
-    - title: 
-      content: 'Mga minamahal, hindi bago ang ibinibigay kong utos na magmahalan
-        kayo, kundi dati na. Ang utos na ito ay walang iba kundi ang mensaheng narinig
-        at tinanggap ninyo mula nang sumampalataya kayo. '
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Mga minamahal, hindi bago ang ibinibigay kong utos <i>na magmahalan
+        kayo,</i> kundi dati na. Ang utos na ito ay walang iba kundi ang mensaheng
+        narinig at tinanggap ninyo mula nang sumampalataya kayo. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "Ngunit masasabi rin natin na ang utos na ito\u02BCy bago, dahil lumilipas
         na ang kadiliman at nagliliwanag na ang tunay na ilaw. At ang katotohanang
         ito ay nakita sa buhay ni Cristo at maging sa inyo. "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "Ang sinumang nagsasabing siya\u02BCy nasa liwanag ngunit napopoot
         naman sa kanyang kapatid ay nasa kadiliman pa rin. "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Ang sinumang nagmamahal sa kanyang kapatid ay namumuhay sa liwanag,
         at walang anuman sa buhay niya ang magiging dahilan ng pagkakasala ng kanyang
         kapwa. '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Ngunit ang sinumang napopoot sa kanyang kapatid ay nasa kadiliman.
         Lumalakad siya sa kadiliman at hindi niya alam ang kanyang patutunguhan dahil
         binulag siya ng kadilimang ito.  '
       comments: []
-    - title: 
-      content: 'Sumusulat ako sa inyo, mga anak, dahil pinatawad na ng Dios ang mga
-        kasalanan ninyo dahil kay Cristo.  '
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Sumusulat ako sa inyo, mga anak, dahil pinatawad na <i>ng Dios</i>
+        ang mga kasalanan ninyo dahil kay Cristo.  '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Sumusulat ako sa inyo, mga ama, dahil nakilala n\u02BCyo na siya
         na mula pa sa simula ay nariyan na.[[COMMENT(0)]]Sumusulat ako sa inyo, mga
         kabataan, dahil nalupig na ninyo si Satanas.  "
@@ -128,373 +178,553 @@ MonoBehaviour:
       - number: '2:13 '
         content: '<b>: </b>o, <b>nabubuhay na. </b>Ganito rin sa talatang 14.<b>:
           </b>sa Griego, <b>Ang Masama.</b>'
-    - title: Huwag Ibigin ang Mundo
+    - name: '14: Huwag Ibigin ang Mundo'
+      title: Huwag Ibigin ang Mundo
+      number: 14
       content: "Sumusulat ako sa inyo, mga anak, dahil nakilala n\u02BCyo na ang
         Ama.Sumusulat ako sa inyo, mga ama, dahil nakilala n\u02BCyo na siya na mula
         pa sa simula ay nariyan na.Sumusulat ako sa inyo, mga kabataan, dahil matatag
-        ang inyong pananampalataya. Sinusunod ninyo ang salita ng Dios, at nalupig
-        na ninyo si Satanas.  "
+        ang <i>inyong pananampalataya</i>. Sinusunod ninyo ang salita ng Dios, at
+        nalupig na ninyo si Satanas.  "
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Huwag ninyong ibigin ang mundo o ang mga makamundong bagay. Ang umiibig
         sa mga ito ay hindi umiibig sa Ama. '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "Sapagkat ang lahat ng kamunduhan\u2009\u2013\u2009ang masasamang
         hilig ng laman, ang pagnanasa sa mga nakikita ng mata, at ang anumang pagmamayabang
         sa buhay\u2009\u2013\u2009ay hindi nagmumula sa Ama kundi sa mundo. "
       comments: []
-    - title: Ang Anti-Cristo
+    - name: '17: Ang Anti-Cristo'
+      title: Ang Anti-Cristo
+      number: 17
       content: 'Ang mundo at lahat ng bagay dito na hinahangad ng tao ay mawawala,
         ngunit ang taong sumusunod sa kalooban ng Dios ay mabubuhay magpakailanman.  '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Mga anak, malapit na ang mga huling araw, at tulad ng narinig ninyo,
         malapit na ang pagdating ng anti-Cristo. Ngayon pa lang ay marami nang anti-Cristo,
         kaya alam nating malapit na ang mga huling araw. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: "Kahit naging kasama natin sila noong una, hindi sila tunay na kabilang
         sa atin. Sapagkat kung tunay na kabilang sila, nanatili sana sila sa atin.
         Ngunit ang pagtiwalag nila\u02BCy nagpapakita na hindi talaga sila kabilang
         sa atin.  "
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'Ngunit ipinagkaloob sa inyo ang Banal na Espiritu, kaya alam ninyong
-        lahat ang katotohanan. '
+        lahat <i>ang katotohanan</i>. '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: "Sumusulat ako sa inyo, hindi dahil sa hindi ninyo alam ang katotohanan
         kundi dahil sa alam n\u02BCyo na, at alam din ninyo na walang kasinungalingan
         na maaaring magmula sa katotohanan. "
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'At sino ba ang sinungaling? Ang taong nagsasabing hindi si Jesus
         ang Cristo. Siya ang anti-Cristo. Ayaw niyang kilalanin ang Ama at ang Anak. '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: 'Ang taong hindi kumikilala sa Anak, hindi sumasakanya ang Ama. Ngunit
         ang taong kumikilala sa Anak, sumasakanya ang Ama.  '
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: 'Huwag ninyong kalimutan ang mga natutunan ninyo mula pa noong una,
         upang patuloy kayong mamuhay nang may pagkakaisa sa Anak at sa Ama. '
       comments: []
-    - title: 
+    - name: '25: '
+      title: 
+      number: 25
       content: 'Sa ganoon, mapapasainyo ang ipinangako ni Cristo: ang buhay na walang
         hanggan.  '
       comments: []
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: 'Isinusulat ko sa inyo ang tungkol sa mga taong nanlilinlang sa inyo. '
       comments: []
-    - title: 
-      content: 'Kung tungkol naman sa inyo, ang Banal na Espiritu[[COMMENT(0)]] na
-        tinanggap ninyo kay Cristo ay nananatili sa inyo, kaya hindi na kailangang
-        turuan pa kayo ng iba. Sapagkat ang Banal na Espiritu ang magtuturo sa inyo
-        sa lahat ng bagay. At ang mga itinuturo niya ay katotohanan at hindi kasinungalingan.
-        At gaya ng itinuro niya sa inyo, manatili kayo kay Cristo.  '
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Kung tungkol naman sa inyo, ang <i>Banal na</i> Espiritu[[COMMENT(0)]]
+        na tinanggap ninyo kay Cristo ay nananatili sa inyo, kaya hindi na kailangang
+        turuan pa kayo ng iba. Sapagkat ang <i>Banal na</i> Espiritu ang magtuturo
+        sa inyo sa lahat ng bagay. At ang mga itinuturo niya ay katotohanan at hindi
+        kasinungalingan. At gaya ng itinuro niya sa inyo, manatili kayo kay Cristo.  '
       comments:
       - number: '2:27 '
         content: '<b>: </b>sa literal, <b>pagpahid.</b>'
-    - title: 
+    - name: '28: '
+      title: 
+      number: 28
       content: 'Kaya nga, mga anak, manatili kayo sa kanya, upang magkaroon tayo
         ng kapanatagan sa kanyang pagbabalik, at hindi tayo mapahiya pagdating ng
         araw na iyon. '
       comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: Alam ninyo na si Cristo ay matuwid, kaya makasisiguro kayo na ang
+        lahat ng taong gumagawa ng matuwid ay mga anak ng Dios.
+      comments: []
   - verses:
-    - title: Mga Anak ng Dios
+    - name: '1: Mga Anak ng Dios'
+      title: Mga Anak ng Dios
+      number: 1
       content: "  Pag-isipan ninyo kung gaano kadakila ang pag-ibig ng Ama sa atin!
         Tinawag niya tayong mga anak niya, at tunay nga na tayo\u02BCy mga anak niya!
         Kaya hindi tayo nakikilala ng mga tao sa mundo dahil hindi nila kilala ang
         Dios. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Mga minamahal, mga anak na tayo ng Dios. Ngunit hindi pa naihahayag
         kung magiging ano tayo sa hinaharap. Alam natin na sa pagbabalik ni Cristo,
         tayo ay magiging katulad niya dahil makikita natin kung sino talaga siya. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Kaya ang sinumang may ganitong pag-asa kay Cristo ay dapat maging
         matuwid sa kanyang buhay, tulad ng buhay ni Cristo na matuwid. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Ang lahat ng nagkakasala ay lumalabag sa Kautusan ng Dios dahil ang
         kasalanan ay paglabag sa Kautusan. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Alam ninyong si Cristo na walang kasalanan ay naparito sa mundo upang
         alisin ang ating mga kasalanan. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Ang sinumang nananatili kay Cristo ay hindi na nagpapatuloy sa kasalanan.
         Ang nagpapatuloy sa kasalanan ay hindi pa nakakita o nakakilala sa kanya.  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Mga anak, huwag kayong padadaya kaninuman! Ang sinumang gumagawa
         ng tama ay matuwid, tulad ni Cristo na matuwid. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Ngunit ang nagpapatuloy sa kasalanan ay kampon ng diyablo, dahil
         ang diyablo ay gumagawa na ng kasalanan mula pa sa simula. Ito ang dahilan
         kung bakit naparito ang Anak ng Dios, upang wasakin ang mga gawa ng diyablo. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Ang sinumang naging anak ng Dios ay hindi na nagpapatuloy sa kasalanan
         dahil ang katangian ng Dios ay nasa kanya na. At dahil nga ang Dios ay kanyang
         Ama, hindi na siya nagpapatuloy sa kasalanan. '
       comments: []
-    - title: Magmahalan Tayo
+    - name: '10: Magmahalan Tayo'
+      title: Magmahalan Tayo
+      number: 10
       content: 'At dito makikilala kung sino ang mga anak ng Dios at kung sino ang
         mga anak ng diyablo: ang lahat ng hindi gumagawa ng matuwid o hindi nagmamahal
         sa kanyang kapatid ay hindi anak ng Dios.  '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Ito ang aral na narinig ninyo nang sumampalataya kayo: Dapat tayong
         magmahalan. '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Huwag nating tularan si Cain, na kampon ng diyablo kaya pinatay niya
         ang kanyang kapatid. At bakit niya pinatay ang kanyang kapatid? Sapagkat
         masama ang mga gawa niya, at matuwid naman ang mga gawa ng kanyang kapatid. '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Kaya huwag kayong magtaka, mga kapatid, kung galit sa inyo ang mga
         makamundo. '
       comments: []
-    - title: 
-      content: 'Alam nating inilipat na tayo sa buhay na walang hanggan mula sa kamatayan
-        dahil minamahal natin ang ating mga kapatid. Ang sinumang hindi nagmamahal
-        sa kanyang kapwa ay nananatili sa kamatayan. '
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Alam nating inilipat na tayo sa buhay <i>na walang hanggan</i> mula
+        sa kamatayan dahil minamahal natin ang <i>ating</i> mga kapatid. Ang sinumang
+        hindi nagmamahal sa kanyang kapwa ay nananatili sa kamatayan. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Ang sinumang napopoot sa kanyang kapatid ay isang mamamatay-tao,
         at alam ninyo na walang mamamatay-tao ang may buhay na walang hanggan. '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'Sa ganitong paraan natin nalalaman ang tunay na pag-ibig: ibinigay
         ni Jesu-Cristo ang kanyang buhay para sa atin. Kaya dapat din nating ialay
         ang ating buhay para sa ating mga kapatid. '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'Kung mayroon man sa atin ang nasa mabuting pamumuhay at nakikita
         ang isang kapatid na nangangailangan ngunit hindi naman niya ito tinutulungan,
         masasabi ba natin na sumasakanya ang pag-ibig ng Dios? '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Mga anak, huwag tayong magmahalan sa salita lang, kundi ipakita natin
         sa gawa na tunay tayong nagmamahalan. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'Sa ganitong paraan, mapapatunayan natin na tayo nga ay nasa katotohanan
         at magiging panatag ang ating kalooban sa kanyang harapan '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'kahit inuusig man tayo ng ating konsensya. Sapagkat ang Dios ay mas
         higit kaysa sa ating konsensya at nalalaman niya ang lahat ng bagay. '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: 'Mga minamahal, kung hindi tayo inuusig ng ating konsensya, panatag
         tayong makakalapit sa Dios. '
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'At matatanggap natin ang anumang hinihiling natin sa kanya, dahil
         sumusunod tayo sa kanyang mga utos at ginagawa ang naaayon sa kanyang kalooban. '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: 'At ito ang kanyang utos: Dapat tayong sumampalataya sa kanyang Anak
         na si Jesu-Cristo, at magmahalan gaya ng iniutos niya sa atin. '
       comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "Ang mga sumusunod sa utos niya ay nananatili sa kanya, at siya\u02BCy
+        nananatili rin sa kanila. At malalaman natin na nananatili ang Dios sa atin
+        sa pamamagitan ng <i>Banal na</i> Espiritu na ibinigay niya sa atin."
+      comments: []
   - verses:
-    - title: Ang Espiritu ng Dios at ang Espiritu ng Anti-Cristo
+    - name: '1: Ang Espiritu ng Dios at ang Espiritu ng Anti-Cristo'
+      title: Ang Espiritu ng Dios at ang Espiritu ng Anti-Cristo
+      number: 1
       content: "  Mga minamahal, huwag kayong basta maniniwala sa mga taong nagsasabi
         na ang ipinangangaral nila\u02BCy mula sa Banal na Espiritu. Sa halip, alamin
         muna ninyo kung nagmula nga sa Dios ang itinuturo nila. Sapagkat marami nang
         huwad at sinungaling na propetang nagkalat sa mundo. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "Sa ganitong paraan ninyo malalaman kung ang espiritung sumasakanila
         ay mula sa Dios: kung kinikilala nila na si Jesu-Cristo\u02BCy naging tao,
         ang Dios mismo ang nagsugo sa kanila. "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Ngunit ang hindi kumikilala na si Jesus ay naging tao ay hindi isinugo
-        ng Dios kundi ng espiritu ng anti-Cristo. Narinig ninyo na darating na ang
-        anti-Cristo, at naririto na nga sa mundo. '
+        ng Dios kundi ng <i>espiritu ng</i> anti-Cristo. Narinig ninyo na darating
+        na ang anti-Cristo, at naririto na nga sa mundo. '
       comments: []
-    - title: 
-      content: "Ngunit mga anak ko, kayo\u02BCy sa Dios at napagtagumpayan na ninyo
-        ang mga huwad at sinungaling na propeta, dahil ang Espiritung nasa inyo ay
-        higit na makapangyarihan kaysa kay Satanas, na siyang naghahari ngayon sa
-        mga makamundo. "
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Ngunit mga anak <i>ko</i>, kayo\u02BCy sa Dios at napagtagumpayan
+        na ninyo ang mga huwad at sinungaling na propeta, dahil ang Espiritung nasa
+        inyo ay higit na makapangyarihan kaysa kay Satanas, na siyang naghahari ngayon
+        sa mga makamundo. "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "Itong mga huwad at sinungaling na propeta\u02BCy makamundo, kaya
         ang mga bagay ng mundo ang kanilang itinuturo, at nakikinig sa kanila ang
         mga makamundo. "
       comments: []
-    - title: Ang Dios ay Pag-ibig
+    - name: '6: Ang Dios ay Pag-ibig'
+      title: Ang Dios ay Pag-ibig
+      number: 6
       content: 'Ngunit tayo naman ay sa Dios. Ang mga kumikilala sa Dios ay nakikinig
         sa mga itinuturo natin, ngunit ang mga hindi kumikilala sa Dios ay hindi
         nakikinig sa atin. Sa gayong paraan natin makikilala kung sino ang nangangaral
         ng mula sa Espiritu ng katotohanan o sa espiritu ng kasinungalingan.  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Mga minamahal, mag-ibigan tayo dahil ang pag-ibig ay mula sa Dios.
         Ang umiibig sa kanyang kapwa ay anak ng Dios at kumikilala sa Dios. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Ang sinumang hindi umiibig sa kanyang kapwa ay hindi kumikilala sa
         Dios dahil ang Dios ay pag-ibig. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Ipinakita ng Dios ang kanyang pag-ibig sa atin nang isinugo niya
         ang kanyang kaisa-isang[[COMMENT(0)]] anak dito sa mundo, upang sa pamamagitan
         niya ay magkaroon tayo ng buhay na walang hanggan. '
       comments:
       - number: '4:9 '
         content: '<b>: </b>o, <b>bukod-tanging.</b>'
-    - title: 
-      content: 'Ito ang tunay na pag-ibig: hindi tayo ang umibig sa Dios kundi siya
-        ang umibig sa atin; at isinugo niya ang kanyang anak upang akuin ang ating
-        mga kasalanan para sa kapatawaran natin.  '
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Ito ang <i>tunay na</i> pag-ibig: hindi tayo ang umibig sa Dios kundi
+        siya ang umibig sa atin; at isinugo niya ang kanyang anak upang akuin ang
+        ating mga kasalanan para sa kapatawaran natin.  '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Mga minamahal, kung ganoon na lamang ang pag-ibig ng Dios sa atin,
         nararapat lamang na mag-ibigan tayo. '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Wala pang tao na nakakita sa Dios. Ngunit kung nagmamahalan tayo,
         ang Dios ay sumasaatin at lubos na natupad ang kanyang pag-ibig sa atin.  '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Nalalaman nating tayo\u02BCy nasa Dios at ang Dios ay sumasaatin
         dahil ibinigay niya sa atin ang kanyang Espiritu. "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Nakita at pinatototohanan namin na isinugo ng Ama ang kanyang anak
         bilang Tagapagligtas ng mundo. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Ang sinumang kumikilala na si Jesus ay Anak ng Dios, ang Dios ay
         nasa kanya at siya naman ay nasa Dios. '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'Kaya nakilala na natin at pinaniwalaan ang pag-ibig ng Dios sa atin.Ang
         Dios ay pag-ibig. At ang nabubuhay nang may pag-ibig ay nananatili sa Dios
         at nananatili rin sa kanya ang Dios. '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'Sa ganitong paraan ay naging ganap ang pag-ibig sa atin, kaya panatag
         tayo sa pagdating ng Araw ng Paghuhukom, dahil ang pamumuhay natin dito sa
         mundo ay tulad ng kay Cristo. '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: "Walang anumang takot sa pag-ibig. Pinapawi ng ganap na pag-ibig ang
         anumang takot. Kung natatakot man ang isang tao, ito\u02BCy dahil sa takot
         na maparusahan, at ipinapakita lang nito na hindi pa lubos na natupad sa
         kanya ang pag-ibig.  "
       comments: []
-    - title: 
-      content: 'Umiibig tayo sa Dios dahil siya ang unang umibig sa atin. '
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Umiibig tayo <i>sa Dios</i> dahil siya ang unang umibig sa atin. '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'Ang nagsasabing mahal niya ang Dios ngunit napopoot naman sa kanyang
         kapatid ay sinungaling. Dahil kung ang kapatid niya mismo na nakikita niya
         ay hindi niya mahal, paano pa kaya niya magagawang mahalin ang Dios na hindi
         naman niya nakikita? '
       comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Kaya ito ang utos na ibinibigay sa atin ni Cristo: ang taong nagmamahal
+        sa Dios ay dapat ding magmahal sa kanyang kapatid.'
+      comments: []
   - verses:
-    - title: Ang Pag-ibig, Pananampalataya, at Tagumpay
+    - name: '1: Ang Pag-ibig, Pananampalataya, at Tagumpay'
+      title: Ang Pag-ibig, Pananampalataya, at Tagumpay
+      number: 1
       content: '  Ang sinumang sumasampalataya na si Jesus ang Cristo ay anak ng
         Dios. At ang sinumang umiibig sa ama ay umiibig din sa kanyang anak. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Sa ganitong paraan natin malalaman na iniibig natin ang mga anak
         ng Dios: Kung minamahal natin ang Dios at sinusunod natin ang kanyang mga
         utos. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Dahil ang tunay na umiibig sa Dios ay sumusunod sa kanyang utos,
         at hindi naman mahirap sundin ang kanyang mga utos. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Sapagkat ang bawat anak ng Dios ay nagtatagumpay laban sa mundo.
         Napagtatagumpayan niya ito sa pamamagitan ng pananampalataya. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'At sino ba ang nagtatagumpay laban sa mundo? Ang sumasampalataya
         na si Jesus ay Anak ng Dios. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "Si Jesus na naparito sa mundo ay napatunayang Anak ng Dios sa pamamagitan
-        ng tubig nang magpabautismo siya at sa pamamagitan ng dugo nang mamatay siya.
-        Hindi lang sa tubig kundi sa pamamagitan din ng dugo. At ang mga bagay na
-        ito\u02BCy pinatotohanan din sa atin ng Banal na Espiritu, dahil ang Espiritu
-        ay katotohanan. "
+        ng tubig <i>nang magpabautismo siya</i> at sa pamamagitan ng dugo <i>nang
+        mamatay siya</i>. Hindi lang sa tubig kundi sa pamamagitan din ng dugo. At
+        ang mga bagay na ito\u02BCy pinatotohanan din <i>sa atin</i> ng <i>Banal
+        na</i> Espiritu, dahil ang Espiritu ay katotohanan. "
       comments: []
-    - title: 
-      content: 'Kaya may tatlong nagpapatotoo tungkol kay Jesus: '
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Kaya may tatlong nagpapatotoo <i>tungkol kay Jesus</i>: '
       comments: []
-    - title: 
-      content: "ang Banal na Espiritu, ang tubig nang magpabautismo siya, at ang
-        dugo nang mamatay siya. At ang tatlong ito\u02BCy nagkakaisa. "
+    - name: '8: '
+      title: 
+      number: 8
+      content: "ang <i>Banal na</i> Espiritu, ang tubig <i>nang magpabautismo siya</i>,
+        at ang dugo <i>nang mamatay siya</i>. At ang tatlong ito\u02BCy nagkakaisa. "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Tinatanggap natin ang patotoo ng mga tao, ngunit higit na maaasahan
         ang patotoo ng Dios dahil siya mismo ang nagpatotoo tungkol sa kanyang Anak. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Ang sinumang sumasampalataya sa Anak ng Dios ay naniniwala sa patotoo
         ng Dios. Ang sinumang hindi naniniwala sa patotoong ito ay ginagawang sinungaling
         ang Dios dahil hindi siya naniniwala sa patotoo ng Dios tungkol sa kanyang
         Anak. '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "At ito ang patotoo ng Dios: Binigyan niya tayo ng buhay na walang
         hanggan, at ang buhay na ito\u02BCy nasa kanyang Anak. "
       comments: []
-    - title: Ang Buhay na Walang Hanggan
-      content: 'Ang sinumang nasa kanya ang Anak ng Dios ay may buhay na walang hanggan.
-        Ngunit ang sinumang wala sa kanya ang Anak ng Dios ay walang buhay na walang
-        hanggan.  '
+    - name: '12: Ang Buhay na Walang Hanggan'
+      title: Ang Buhay na Walang Hanggan
+      number: 12
+      content: 'Ang sinumang nasa kanya ang Anak <i>ng Dios</i> ay may buhay <i>na
+        walang hanggan</i>. Ngunit ang sinumang wala sa kanya ang Anak ng Dios ay
+        walang buhay <i>na walang hanggan</i>.  '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Isinusulat ko ito sa inyo na mga sumasampalataya sa Anak ng Dios
         upang malaman ninyong mayroon kayong buhay na walang hanggan. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'At may kapanatagan tayo sa paglapit natin sa Dios, dahil naniniwala
         tayong ibibigay niya sa atin ang anumang hilingin natin na ayon sa kanyang
         kalooban. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'At kung alam nating nakikinig sa atin ang Dios, alam nating tinatanggap
         na natin ang hinihiling natin sa kanya.  '
       comments: []
-    - title: 
-      content: 'Kung nakikita ninyo ang inyong kapatid kay Cristo na gumagawa ng
-        kasalanang hindi hahantong sa espiritwal na kamatayan, ipanalangin ninyo
-        siya at bibigyan siya ng Dios ng buhay. Ito ay para lang sa mga nakagawa
-        ng kasalanang hindi hahantong sa espiritwal na kamatayan. May mga kasalanang
-        nagdudulot ng espiritwal na kamatayan. Hindi ko sinasabing ipanalangin ninyo
-        ang mga taong nakagawa ng ganitong kasalanan. '
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Kung nakikita ninyo ang inyong kapatid <i>kay Cristo</i> na gumagawa
+        ng kasalanang hindi hahantong sa <i>espiritwal na</i> kamatayan, ipanalangin
+        ninyo siya at bibigyan siya ng Dios ng buhay. Ito ay para lang sa mga nakagawa
+        ng kasalanang hindi hahantong sa <i>espiritwal na</i> kamatayan. May mga
+        kasalanang nagdudulot ng <i>espiritwal na</i> kamatayan. Hindi ko sinasabing
+        ipanalangin ninyo ang mga taong nakagawa ng ganitong kasalanan. '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'Ang lahat ng gawaing hindi matuwid ay kasalanan, ngunit may mga kasalanang
-        hindi hahantong sa espiritwal na kamatayan.  '
+        hindi hahantong sa <i>espiritwal na</i> kamatayan.  '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Alam nating ang sinumang naging anak ng Dios ay hindi na nagpapatuloy
         sa kasalanan. Iniingatan siya ng Anak ng Dios, at hindi siya maaaring saktan
         ng diyablo. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: "Ang buong mundo ay nasa ilalim ng kapangyarihan ng diyablo, ngunit
         alam nating tayo\u02BCy mga anak ng Dios. "
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'Alam din nating ang Anak ng Dios ay naparito sa mundo, at binigyan
-        niya tayo ng pang-unawa upang makilala natin ang tunay na Dios. At tayo nga
-        ay nasa tunay na Dios sa pamamagitan ng kanyang anak na si Jesu-Cristo. Siya
-        ang tunay na Dios, at ang buhay na walang hanggan.  '
+        niya tayo ng pang-unawa upang makilala natin ang tunay <i>na Dios</i>. At
+        tayo nga ay nasa tunay <i>na Dios</i> sa pamamagitan ng kanyang anak na si
+        Jesu-Cristo. Siya ang tunay na Dios, at ang buhay na walang hanggan.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: Mga anak, lumayo kayo sa mga dios-diosan.
       comments: []

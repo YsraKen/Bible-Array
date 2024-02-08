@@ -1,0 +1,597 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: RUT
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Ruth
+  fancyName: 
+  nickname: rut
+  version: {fileID: 11400000, guid: dd64eb842f3dd694bae8487ce6510215, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Naomi Widowed'
+      title: Naomi Widowed
+      number: 1
+      content: '  In the days when the judges ruled there was a famine in the land,
+        and a man of Bethlehem in Judah went to sojourn in the country of Moab, he
+        and his wife and his two sons. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'The name of the man was Elimelech and the name of his wife Naomi,
+        and the names of his two sons were Mahlon and Chilion. They were Ephrathites
+        from Bethlehem in Judah. They went into the country of Moab and remained
+        there. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'But Elimelech, the husband of Naomi, died, and she was left with
+        her two sons. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'These took Moabite wives; the name of the one was Orpah and the name
+        of the other Ruth. They lived there about ten years, '
+      comments: []
+    - name: "5: Ruth\u2019s Loyalty to Naomi"
+      title: "Ruth\u2019s Loyalty to Naomi"
+      number: 5
+      content: 'and both Mahlon and Chilion died, so that the woman was left without
+        her two sons and her husband.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Then she arose with her daughters-in-law to return from the country
+        of Moab, for she had heard in the fields of Moab that the <smallcaps>Lord</smallcaps>
+        had visited his people and given them food. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'So she set out from the place where she was with her two daughters-in-law,
+        and they went on the way to return to the land of Judah. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "But Naomi said to her two daughters-in-law, \u201CGo, return each
+        of you to her mother\u2019s house. May the <smallcaps>Lord</smallcaps>  deal
+        kindly with you, as you have dealt with the dead and with me. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "The <smallcaps>Lord</smallcaps> grant that you may find rest, each
+        of you in the house of her husband!\u201D Then she kissed them, and they
+        lifted up their voices and wept. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "And they said to her, \u201CNo, we will return with you to your people.\u201D "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "But Naomi said, \u201CTurn back, my daughters; why will you go with
+        me? Have I yet sons in my womb that they may become your husbands? "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Turn back, my daughters; go your way, for I am too old to have a
+        husband. If I should say I have hope, even if I should have a husband this
+        night and should bear sons, '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "would you therefore wait till they were grown? Would you therefore
+        refrain from marrying? No, my daughters, for it is exceedingly bitter to
+        me for your sake that the hand of the <smallcaps>Lord</smallcaps> has gone
+        out against me.\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Then they lifted up their voices and wept again. And Orpah kissed
+        her mother-in-law, but Ruth clung to her.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "And she said, \u201CSee, your sister-in-law has gone back to her
+        people and to her gods; return after your sister-in-law.\u201D "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "But Ruth said, \u201CDo not urge me to leave you or to return from
+        following you. For where you go I will go, and where you lodge I will lodge.
+        Your people shall be my people, and your God my God. "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "Where you die I will die, and there will I be buried. May the <smallcaps>Lord</smallcaps>
+        do so to me and more also if anything but death parts me from you.\u201D "
+      comments: []
+    - name: '18: Naomi and Ruth Return'
+      title: Naomi and Ruth Return
+      number: 18
+      content: 'And when Naomi saw that she was determined to go with her, she said
+        no more.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "So the two of them went on until they came to Bethlehem. And when
+        they came to Bethlehem, the whole town was stirred because of them. And the
+        women said, \u201CIs this Naomi?\u201D "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "She said to them, \u201CDo not call me Naomi;[[COMMENT(0)]] call
+        me Mara, for the Almighty has dealt very bitterly with me. "
+      comments:
+      - number: '1:20 '
+        content: 'means means '
+    - name: '21: '
+      title: 
+      number: 21
+      content: "I went away full, and the <smallcaps>Lord</smallcaps> has brought
+        me back empty. Why call me Naomi, when the <smallcaps>Lord</smallcaps> has
+        testified against me and the Almighty has brought calamity upon me?\u201D  "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: So Naomi returned, and Ruth the Moabite her daughter-in-law with her,
+        who returned from the country of Moab. And they came to Bethlehem at the
+        beginning of barley harvest.
+      comments: []
+  - verses:
+    - name: '1: Ruth Meets Boaz'
+      title: Ruth Meets Boaz
+      number: 1
+      content: "  Now Naomi had a relative of her husband\u2019s, a worthy man of
+        the clan of Elimelech, whose name was Boaz. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And Ruth the Moabite said to Naomi, \u201CLet me go to the field
+        and glean among the ears of grain after him in whose sight I shall find favor.\u201D
+        And she said to her, \u201CGo, my daughter.\u201D "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'So she set out and went and gleaned in the field after the reapers,
+        and she happened to come to the part of the field belonging to Boaz, who
+        was of the clan of Elimelech. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "And behold, Boaz came from Bethlehem. And he said to the reapers,
+        \u201CThe <smallcaps>Lord</smallcaps> be with you!\u201D And they answered,
+        \u201CThe <smallcaps>Lord</smallcaps> bless you.\u201D "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Then Boaz said to his young man who was in charge of the reapers,
+        \u201CWhose young woman is this?\u201D "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And the servant who was in charge of the reapers answered, \u201CShe
+        is the young Moabite woman, who came back with Naomi from the country of
+        Moab. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "She said, \u2018Please let me glean and gather among the sheaves
+        after the reapers.\u2019 So she came, and she has continued from early morning
+        until now, except for a short rest.\u201D[[COMMENT(0)]]  "
+      comments:
+      - number: '2:7 '
+        content: Compare Septuagint, Vulgate; the meaning of the Hebrew phrase is
+          uncertain
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Then Boaz said to Ruth, \u201CNow, listen, my daughter, do not go
+        to glean in another field or leave this one, but keep close to my young women. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Let your eyes be on the field that they are reaping, and go after
+        them. Have I not charged the young men not to touch you? And when you are
+        thirsty, go to the vessels and drink what the young men have drawn.\u201D "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Then she fell on her face, bowing to the ground, and said to him,
+        \u201CWhy have I found favor in your eyes, that you should take notice of
+        me, since I am a foreigner?\u201D "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "But Boaz answered her, \u201CAll that you have done for your mother-in-law
+        since the death of your husband has been fully told to me, and how you left
+        your father and mother and your native land and came to a people that you
+        did not know before. "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "The <smallcaps>Lord</smallcaps> repay you for what you have done,
+        and a full reward be given you by the <smallcaps>Lord</smallcaps>, the God
+        of Israel, under whose wings you have come to take refuge!\u201D "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Then she said, \u201CI have found favor in your eyes, my lord, for
+        you have comforted me and spoken kindly to your servant, though I am not
+        one of your servants.\u201D  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And at mealtime Boaz said to her, \u201CCome here and eat some bread
+        and dip your morsel in the wine.\u201D So she sat beside the reapers, and
+        he passed to her roasted grain. And she ate until she was satisfied, and
+        she had some left over. "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "When she rose to glean, Boaz instructed his young men, saying, \u201CLet
+        her glean even among the sheaves, and do not reproach her. "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "And also pull out some from the bundles for her and leave it for
+        her to glean, and do not rebuke her.\u201D  "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'So she gleaned in the field until evening. Then she beat out what
+        she had gleaned, and it was about an ephah[[COMMENT(0)]] of barley. '
+      comments:
+      - number: '2:17 '
+        content: An was about 3/5 bushel or 22 liters
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And she took it up and went into the city. Her mother-in-law saw
+        what she had gleaned. She also brought out and gave her what food she had
+        left over after being satisfied. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "And her mother-in-law said to her, \u201CWhere did you glean today?
+        And where have you worked? Blessed be the man who took notice of you.\u201D
+        So she told her mother-in-law with whom she had worked and said, \u201CThe
+        man\u2019s name with whom I worked today is Boaz.\u201D "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "And Naomi said to her daughter-in-law, \u201CMay he be blessed by
+        the <smallcaps>Lord</smallcaps>, whose kindness has not forsaken the living
+        or the dead!\u201D Naomi also said to her, \u201CThe man is a close relative
+        of ours, one of our redeemers.\u201D "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "And Ruth the Moabite said, \u201CBesides, he said to me, \u2018You
+        shall keep close by my young men until they have finished all my harvest.\u2019\u201D "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "And Naomi said to Ruth, her daughter-in-law, \u201CIt is good, my
+        daughter, that you go out with his young women, lest in another field you
+        be assaulted.\u201D "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: So she kept close to the young women of Boaz, gleaning until the end
+        of the barley and wheat harvests. And she lived with her mother-in-law.
+      comments: []
+  - verses:
+    - name: '1: Ruth and Boaz at the Threshing Floor'
+      title: Ruth and Boaz at the Threshing Floor
+      number: 1
+      content: "  Then Naomi her mother-in-law said to her, \u201CMy daughter, should
+        I not seek rest for you, that it may be well with you? "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Is not Boaz our relative, with whose young women you were? See, he
+        is winnowing barley tonight at the threshing floor. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Wash therefore and anoint yourself, and put on your cloak and go
+        down to the threshing floor, but do not make yourself known to the man until
+        he has finished eating and drinking. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "But when he lies down, observe the place where he lies. Then go and
+        uncover his feet and lie down, and he will tell you what to do.\u201D "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And she replied, \u201CAll that you say I will do.\u201D  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'So she went down to the threshing floor and did just as her mother-in-law
+        had commanded her. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And when Boaz had eaten and drunk, and his heart was merry, he went
+        to lie down at the end of the heap of grain. Then she came softly and uncovered
+        his feet and lay down. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'At midnight the man was startled and turned over, and behold, a woman
+        lay at his feet! '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "He said, \u201CWho are you?\u201D And she answered, \u201CI am Ruth,
+        your servant. Spread your wings[[COMMENT(0)]] over your servant, for you
+        are a redeemer.\u201D "
+      comments:
+      - number: '3:9 '
+        content: 'Compare 2:12; the word for can also mean '
+    - name: '10: '
+      title: 
+      number: 10
+      content: "And he said, \u201CMay you be blessed by the <smallcaps>Lord</smallcaps>,
+        my daughter. You have made this last kindness greater than the first in that
+        you have not gone after young men, whether poor or rich. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And now, my daughter, do not fear. I will do for you all that you
+        ask, for all my fellow townsmen know that you are a worthy woman. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And now it is true that I am a redeemer. Yet there is a redeemer
+        nearer than I. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Remain tonight, and in the morning, if he will redeem you, good;
+        let him do it. But if he is not willing to redeem you, then, as the <smallcaps>Lord</smallcaps>
+        lives, I will redeem you. Lie down until the morning.\u201D  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "So she lay at his feet until the morning, but arose before one could
+        recognize another. And he said, \u201CLet it not be known that the woman
+        came to the threshing floor.\u201D "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "And he said, \u201CBring the garment you are wearing and hold it
+        out.\u201D So she held it, and he measured out six measures of barley and
+        put it on her. Then she went into the city. "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "And when she came to her mother-in-law, she said, \u201CHow did you
+        fare, my daughter?\u201D Then she told her all that the man had done for
+        her, "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "saying, \u201CThese six measures of barley he gave to me, for he
+        said to me, \u2018You must not go back empty-handed to your mother-in-law.\u2019\u201D "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "She replied, \u201CWait, my daughter, until you learn how the matter
+        turns out, for the man will not rest but will settle the matter today.\u201D"
+      comments: []
+  - verses:
+    - name: '1: Boaz Redeems Ruth'
+      title: Boaz Redeems Ruth
+      number: 1
+      content: "  Now Boaz had gone up to the gate and sat down there. And behold,
+        the redeemer, of whom Boaz had spoken, came by. So Boaz said, \u201CTurn
+        aside, friend; sit down here.\u201D And he turned aside and sat down. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And he took ten men of the elders of the city and said, \u201CSit
+        down here.\u201D So they sat down. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Then he said to the redeemer, \u201CNaomi, who has come back from
+        the country of Moab, is selling the parcel of land that belonged to our relative
+        Elimelech. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "So I thought I would tell you of it and say, \u2018Buy it in the
+        presence of those sitting here and in the presence of the elders of my people.\u2019
+        If you will redeem it, redeem it. But if you[[COMMENT(0)]] will not, tell
+        me, that I may know, for there is no one besides you to redeem it, and I
+        come after you.\u201D And he said, \u201CI will redeem it.\u201D "
+      comments:
+      - number: '4:4 '
+        content: 'Hebrew '
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Then Boaz said, \u201CThe day you buy the field from the hand of
+        Naomi, you also acquire Ruth[[COMMENT(0)]] the Moabite, the widow of the
+        dead, in order to perpetuate the name of the dead in his inheritance.\u201D "
+      comments:
+      - number: '4:5 '
+        content: 'Masoretic Text '
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Then the redeemer said, \u201CI cannot redeem it for myself, lest
+        I impair my own inheritance. Take my right of redemption yourself, for I
+        cannot redeem it.\u201D  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  Now this was the custom in former times in Israel concerning redeeming
+        and exchanging: to confirm a transaction, the one drew off his sandal and
+        gave it to the other, and this was the manner of attesting in Israel. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "So when the redeemer said to Boaz, \u201CBuy it for yourself,\u201D
+        he drew off his sandal. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Then Boaz said to the elders and all the people, \u201CYou are witnesses
+        this day that I have bought from the hand of Naomi all that belonged to Elimelech
+        and all that belonged to Chilion and to Mahlon. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Also Ruth the Moabite, the widow of Mahlon, I have bought to be my
+        wife, to perpetuate the name of the dead in his inheritance, that the name
+        of the dead may not be cut off from among his brothers and from the gate
+        of his native place. You are witnesses this day.\u201D "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Then all the people who were at the gate and the elders said, \u201CWe
+        are witnesses. May the <smallcaps>Lord</smallcaps> make the woman, who is
+        coming into your house, like Rachel and Leah, who together built up the house
+        of Israel. May you act worthily in Ephrathah and be renowned in Bethlehem, "
+      comments: []
+    - name: '12: Ruth and Boaz Marry'
+      title: Ruth and Boaz Marry
+      number: 12
+      content: "and may your house be like the house of Perez, whom Tamar bore to
+        Judah, because of the offspring that the <smallcaps>Lord</smallcaps> will
+        give you by this young woman.\u201D  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'So Boaz took Ruth, and she became his wife. And he went in to her,
+        and the <smallcaps>Lord</smallcaps> gave her conception, and she bore a son. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Then the women said to Naomi, \u201CBlessed be the <smallcaps>Lord</smallcaps>,
+        who has not left you this day without a redeemer, and may his name be renowned
+        in Israel! "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "He shall be to you a restorer of life and a nourisher of your old
+        age, for your daughter-in-law who loves you, who is more to you than seven
+        sons, has given birth to him.\u201D "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Then Naomi took the child and laid him on her lap and became his
+        nurse. '
+      comments: []
+    - name: '17: The Genealogy of David'
+      title: The Genealogy of David
+      number: 17
+      content: "And the women of the neighborhood gave him a name, saying, \u201CA
+        son has been born to Naomi.\u201D They named him Obed. He was the father
+        of Jesse, the father of David.  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Now these are the generations of Perez: Perez fathered Hezron, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Hezron fathered Ram, Ram fathered Amminadab, '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Amminadab fathered Nahshon, Nahshon fathered Salmon, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Salmon fathered Boaz, Boaz fathered Obed, '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: Obed fathered Jesse, and Jesse fathered David.
+      comments: []

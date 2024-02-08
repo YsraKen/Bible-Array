@@ -19,298 +19,433 @@ MonoBehaviour:
   description: 
   chapters:
   - verses:
-    - title: Greetings from Paul
+    - name: '1: Greetings from Paul'
+      title: Greetings from Paul
+      number: 1
       content: '  This letter is from Paul, chosen by the will of God to be an apostle
         of Christ Jesus, and from our brother Timothy.  '
       comments: []
-    - title: "Paul\u2019s Thanksgiving and Prayer"
+    - name: "2: Paul\u2019s Thanksgiving and Prayer"
+      title: "Paul\u2019s Thanksgiving and Prayer"
+      number: 2
       content: "We are writing to God\u2019s holy people in the city of Colosse,
         who are faithful brothers and sisters[[COMMENT(0)]] in Christ.May God our
         Father give you grace and peace.  "
       comments:
       - number: '1:2 '
         content: Greek <b>faithful brothers.</b>
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'We always pray for you, and we give thanks to God, the Father of
         our Lord Jesus Christ. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "For we have heard of your faith in Christ Jesus and your love for
         all of God\u2019s people, "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'which come from your confident hope of what God has reserved for
         you in heaven. You have had this expectation ever since you first heard the
         truth of the Good News.  '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "This same Good News that came to you is going out all over the world.
         It is bearing fruit everywhere by changing lives, just as it changed your
         lives from the day you first heard and understood the truth about God\u2019s
         wonderful grace.  "
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "You learned about the Good News from Epaphras, our beloved co-worker.
         He is Christ\u2019s faithful servant, and he is helping us on your behalf.[[COMMENT(0)]]  "
       comments:
       - number: '1:7 '
         content: Or <b>he is ministering on your behalf; </b>some manuscripts read
           <b>he is ministering on our behalf.</b>
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'He has told us about the love for others that the Holy Spirit has
         given you.  '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'So we have not stopped praying for you since we first heard about
         you. We ask God to give you complete knowledge of his will and to give you
         spiritual wisdom and understanding. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Then the way you live will always honor and please the Lord, and
         your lives will produce every kind of good fruit. All the while, you will
         grow as you learn to know God better and better.  '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'We also pray that you will be strengthened with all his glorious
         power so you will have all the endurance and patience you need. May you be
         filled with joy,[[COMMENT(0)]]  '
       comments:
       - number: '1:11 '
         content: Or <b>all the patience and endurance you need with joy.</b>
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'always thanking the Father. He has enabled you to share in the inheritance
         that belongs to his people, who live in the light. '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'For he has rescued us from the kingdom of darkness and transferred
         us into the Kingdom of his dear Son, '
       comments: []
-    - title: Christ Is Supreme
+    - name: '14: Christ Is Supreme'
+      title: Christ Is Supreme
+      number: 14
       content: 'who purchased our freedom[[COMMENT(0)]] and forgave our sins.  '
       comments:
       - number: '1:14 '
         content: Some manuscripts add <b>with his blood.</b>
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Christ is the visible image of the invisible God.He existed before
         anything was created and is supreme over all creation,[[COMMENT(0)]]  '
       comments:
       - number: '1:15 '
         content: Or <b>He is the firstborn of all creation.</b>
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "for through him God created everythingin the heavenly realms and
         on earth.He made the things we can seeand the things we can\u2019t see\u2014such
         as thrones, kingdoms, rulers, and authorities in the unseen world.Everything
         was created through him and for him.  "
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'He existed before anything else,and he holds all creation together.  '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Christ is also the head of the church,which is his body.He is the
         beginning,supreme over all who rise from the dead.[[COMMENT(0)]]So he is
         first in everything.  '
       comments:
       - number: '1:18 '
         content: Or <b>the firstborn from the dead.</b>
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'For God in all his fullnesswas pleased to live in Christ,  '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: "and through him God reconciledeverything to himself.He made peace
         with everything in heaven and on earthby means of Christ\u2019s blood on
         the cross.  "
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: 'This includes you who were once far away from God. You were his enemies,
         separated from him by your evil thoughts and actions. '
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'Yet now he has reconciled you to himself through the death of Christ
         in his physical body. As a result, he has brought you into his own presence,
         and you are holy and blameless as you stand before him without a single fault.  '
       comments: []
-    - title: "Paul\u2019s Work for the Church"
+    - name: "23: Paul\u2019s Work for the Church"
+      title: "Paul\u2019s Work for the Church"
+      number: 23
       content: "But you must continue to believe this truth and stand firmly in it.
         Don\u2019t drift away from the assurance you received when you heard the
         Good News. The Good News has been preached all over the world, and I, Paul,
         have been appointed as God\u2019s servant to proclaim it.  "
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: 'I am glad when I suffer for you in my body, for I am participating
         in the sufferings of Christ that continue for his body, the church. '
       comments: []
-    - title: 
+    - name: '25: '
+      title: 
+      number: 25
       content: 'God has given me the responsibility of serving his church by proclaiming
         his entire message to you. '
       comments: []
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: "This message was kept secret for centuries and generations past,
         but now it has been revealed to God\u2019s people. "
       comments: []
-    - title: 
+    - name: '27: '
+      title: 
+      number: 27
       content: 'For God wanted them to know that the riches and glory of Christ are
         for you Gentiles, too. And this is the secret: Christ lives in you. This
         gives you assurance of sharing his glory.  '
       comments: []
-    - title: 
+    - name: '28: '
+      title: 
+      number: 28
       content: 'So we tell others about Christ, warning everyone and teaching everyone
         with all the wisdom God has given us. We want to present them to God, perfect[[COMMENT(0)]]
         in their relationship to Christ. '
       comments:
       - number: '1:28 '
         content: Or <b>mature.</b>
+    - name: '29: '
+      title: 
+      number: 29
+      content: "That\u2019s why I work and struggle so hard, depending on Christ\u2019s
+        mighty power that works within me."
+      comments: []
   - verses:
-    - title: 
+    - name: '1: '
+      title: 
+      number: 1
       content: '  I want you to know how much I have agonized for you and for the
         church at Laodicea, and for many other believers who have never met me personally. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "I want them to be encouraged and knit together by strong ties of
         love. I want them to have complete confidence that they understand God\u2019s
         mysterious plan, which is Christ himself. "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'In him lie hidden all the treasures of wisdom and knowledge.  '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'I am telling you this so no one will deceive you with well-crafted
         arguments. '
       comments: []
-    - title: Freedom from Rules and New Life in Christ
+    - name: '5: Freedom from Rules and New Life in Christ'
+      title: Freedom from Rules and New Life in Christ
+      number: 5
       content: 'For though I am far away from you, my heart is with you. And I rejoice
         that you are living as you should and that your faith in Christ is strong.  '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'And now, just as you accepted Christ Jesus as your Lord, you must
         continue to follow him. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Let your roots grow down into him, and let your lives be built on
         him. Then your faith will grow strong in the truth you were taught, and you
         will overflow with thankfulness.  '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "Don\u2019t let anyone capture you with empty philosophies and high-sounding
         nonsense that come from human thinking and from the spiritual powers[[COMMENT(0)]]
         of this world, rather than from Christ. "
       comments:
       - number: '2:8 '
         content: Or <b>the spiritual principles; </b>also in 2:20.
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'For in Christ lives all the fullness of God in a human body.[[COMMENT(0)]]  '
       comments:
       - number: '2:9 '
         content: Or <b>in him dwells all the completeness of the Godhead bodily.</b>
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'So you also are complete through your union with Christ, who is the
         head over every ruler and authority.  '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "When you came to Christ, you were \u201Ccircumcised,\u201D but not
         by a physical procedure. Christ performed a spiritual circumcision\u2014the
         cutting away of your sinful nature.[[COMMENT(0)]]  "
       comments:
       - number: '2:11 '
         content: Greek <b>the cutting away of the body of the flesh.</b>
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'For you were buried with Christ when you were baptized. And with
         him you were raised to new life because you trusted the mighty power of God,
         who raised Christ from the dead.  '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'You were dead because of your sins and because your sinful nature
         was not yet cut away. Then God made you alive with Christ, for he forgave
         all our sins. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'He canceled the record of the charges against us and took it away
         by nailing it to the cross. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'In this way, he disarmed[[COMMENT(0)]] the spiritual rulers and authorities.
         He shamed them publicly by his victory over them on the cross.  '
       comments:
       - number: '2:15 '
         content: Or <b>he stripped off.</b>
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "So don\u2019t let anyone condemn you for what you eat or drink, or
         for not celebrating certain holy days or new moon ceremonies or Sabbaths. "
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'For these rules are only shadows of the reality yet to come. And
         Christ himself is that reality. '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: "Don\u2019t let anyone condemn you by insisting on pious self-denial
         or the worship of angels,[[COMMENT(0)]] saying they have had visions about
         these things. Their sinful minds have made them proud, "
       comments:
       - number: '2:18 '
         content: Or <b>or worshiping with angels.</b>
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'and they are not connected to Christ, the head of the body. For he
         holds the whole body together with its joints and ligaments, and it grows
         as God nourishes it.  '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'You have died with Christ, and he has set you free from the spiritual
         powers of this world. So why do you keep on following the rules of the world,
         such as, '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: "\u201CDon\u2019t handle! Don\u2019t taste! Don\u2019t touch!\u201D? "
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'Such rules are mere human teachings about things that deteriorate
         as we use them. '
       comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "These rules may seem wise because they require strong devotion, pious
+        self-denial, and severe bodily discipline. But they provide no help in conquering
+        a person\u2019s evil desires."
+      comments: []
   - verses:
-    - title: Living the New Life
+    - name: '1: Living the New Life'
+      title: Living the New Life
+      number: 1
       content: "  Since you have been raised to new life with Christ, set your sights
         on the realities of heaven, where Christ sits in the place of honor at God\u2019s
         right hand. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Think about the things of heaven, not the things of earth. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'For you died to this life, and your real life is hidden with Christ
         in God. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'And when Christ, who is your[[COMMENT(0)]] life, is revealed to the
         whole world, you will share in all his glory.  '
       comments:
       - number: '3:4 '
         content: Some manuscripts read <b>our.</b>
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "So put to death the sinful, earthly things lurking within you. Have
         nothing to do with sexual immorality, impurity, lust, and evil desires. Don\u2019t
         be greedy, for a greedy person is an idolater, worshiping the things of this
         world. "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Because of these sins, the anger of God is coming.[[COMMENT(0)]]  '
       comments:
       - number: '3:6 '
         content: Some manuscripts read <b>is coming on all who disobey him.</b>
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'You used to do these things when your life was still part of this
         world. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'But now is the time to get rid of anger, rage, malicious behavior,
         slander, and dirty language. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "Don\u2019t lie to each other, for you have stripped off your old
         sinful nature and all its wicked deeds. "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Put on your new nature, and be renewed as you learn to know your
         Creator and become like him. '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "In this new life, it doesn\u2019t matter if you are a Jew or a Gentile,[[COMMENT(0)]]
         circumcised or uncircumcised, barbaric, uncivilized,[[COMMENT(1)]] slave,
         or free. Christ is all that matters, and he lives in all of us.  "
@@ -319,133 +454,205 @@ MonoBehaviour:
         content: Greek <b>a Greek.</b>
       - number: '3:11b '
         content: Greek <b>Barbarian, Scythian.</b>
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Since God chose you to be the holy people he loves, you must clothe
         yourselves with tenderhearted mercy, kindness, humility, gentleness, and
         patience. '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Make allowance for each other\u2019s faults, and forgive anyone who
         offends you. Remember, the Lord forgave you, so you must forgive others. "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Above all, clothe yourselves with love, which binds us all together
         in perfect harmony. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'And let the peace that comes from Christ rule in your hearts. For
         as members of one body you are called to live in peace. And always be thankful.  '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'Let the message about Christ, in all its richness, fill your lives.
         Teach and counsel each other with all the wisdom he gives. Sing psalms and
         hymns and spiritual songs to God with thankful hearts. '
       comments: []
-    - title: Instructions for Christian Households
+    - name: '17: Instructions for Christian Households'
+      title: Instructions for Christian Households
+      number: 17
       content: 'And whatever you do or say, do it as a representative of the Lord
         Jesus, giving thanks through him to God the Father.  '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Wives, submit to your husbands, as is fitting for those who belong
         to the Lord.  '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'Husbands, love your wives and never treat them harshly.  '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'Children, always obey your parents, for this pleases the Lord. '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: 'Fathers, do not aggravate your children, or they will become discouraged.  '
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'Slaves, obey your earthly masters in everything you do. Try to please
         them all the time, not just when they are watching you. Serve them sincerely
         because of your reverent fear of the Lord. '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: 'Work willingly at whatever you do, as though you were working for
         the Lord rather than for people. '
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: 'Remember that the Lord will give you an inheritance as your reward,
         and that the Master you are serving is Christ.[[COMMENT(0)]]  '
       comments:
       - number: '3:24 '
         content: Or <b>and serve Christ as your Master.</b>
+    - name: '25: '
+      title: 
+      number: 25
+      content: But if you do what is wrong, you will be paid back for the wrong you
+        have done. For God has no favorites.
+      comments: []
   - verses:
-    - title: An Encouragement for Prayer
+    - name: '1: An Encouragement for Prayer'
+      title: An Encouragement for Prayer
+      number: 1
       content: "  Masters, be just and fair to your slaves. Remember that you also
         have a Master\u2014in heaven.  "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Devote yourselves to prayer with an alert mind and a thankful heart. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Pray for us, too, that God will give us many opportunities to speak
         about his mysterious plan concerning Christ. That is why I am here in chains. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Pray that I will proclaim this message as clearly as I should.  '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Live wisely among those who are not believers, and make the most
         of every opportunity. '
       comments: []
-    - title: "Paul\u2019s Final Instructions and Greetings"
+    - name: "6: Paul\u2019s Final Instructions and Greetings"
+      title: "Paul\u2019s Final Instructions and Greetings"
+      number: 6
       content: 'Let your conversation be gracious and attractive[[COMMENT(0)]] so
         that you will have the right response for everyone.  '
       comments:
       - number: '4:6 '
         content: Greek <b>and seasoned with salt.</b>
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "Tychicus will give you a full report about how I am getting along.
         He is a beloved brother and faithful helper who serves with me in the Lord\u2019s
         work. "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "I have sent him to you for this very purpose\u2014to let you know
         how we are doing and to encourage you. "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "I am also sending Onesimus, a faithful and beloved brother, one of
         your own people. He and Tychicus will tell you everything that\u2019s happening
         here.  "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "Aristarchus, who is in prison with me, sends you his greetings, and
         so does Mark, Barnabas\u2019s cousin. As you were instructed before, make
         Mark welcome if he comes your way. "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Jesus (the one we call Justus) also sends his greetings. These are
         the only Jewish believers among my co-workers; they are working with me here
         for the Kingdom of God. And what a comfort they have been!  '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Epaphras, a member of your own fellowship and a servant of Christ
         Jesus, sends you his greetings. He always prays earnestly for you, asking
         God to make you strong and perfect, fully confident that you are following
         the whole will of God. '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'I can assure you that he prays hard for you and also for the believers
         in Laodicea and Hierapolis.  '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Luke, the beloved doctor, sends his greetings, and so does Demas. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Please give my greetings to our brothers and sisters[[COMMENT(0)]]
         at Laodicea, and to Nympha and the church that meets in her house.  '
       comments:
       - number: '4:15 '
         content: Greek <b>brothers.</b>
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'After you have read this letter, pass it on to the church at Laodicea
         so they can read it, too. And you should read the letter I wrote to them.  '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: "And say to Archippus, \u201CBe sure to carry out the ministry the
         Lord gave you.\u201D  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "  Here is my greeting in my own handwriting\u2014Paul.Remember my
+        chains.May God\u2019s grace be with you."
       comments: []

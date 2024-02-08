@@ -1,0 +1,287 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: HAG
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: HAGAI
+  fancyName: 
+  nickname: hag
+  version: {fileID: 11400000, guid: b1692a818c1891646a9fe3db3324e541, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Sinusugan ni Hagai ang bayan na itayo ang templo.'
+      title: Sinusugan ni Hagai ang bayan na itayo ang templo.
+      number: 1
+      content: '  Nang ikalawang taon ni Dario na hari, nang ikaanim na buwan, nang
+        unang araw ng buwan, dumating ang salita ng Panginoon sa pamamagitan ni Hagai
+        na propeta kay Zorobabel na anak ni Sealtiel, na gobernador sa Juda, at kay
+        Josue na anak ni Josadac na dakilang saserdote, na nagsasabi,  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Ganito ang sinasalita ng Panginoon ng mga hukbo, na sinasabi, ang
+        bayang ito''y nagsasabi, Hindi pa dumarating ang panahon, ang panahon ng
+        pagtatayo ng bahay sa Panginoon.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Nang magkagayo''y dumating ang salita ng Panginoon sa pamamagitan
+        ni Hagai na propeta, na nagsasabi,  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Panahon baga sa inyo na tumahan sa inyong mga nakikisamihang bahay,
+        samantalang ang bahay na ito ay namamalaging wasak?  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Ngayon nga''y ganito ang sabi ng Panginoon ng mga hukbo, Gunitain
+        ninyo ang inyong mga lakad.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Kayo''y nangaghasik ng marami, at nagsisiani ng kaunti; kayo''y nagsisikain,
+        nguni''t hindi kayo nagkaroon ng kahustuhan; kayo''y nagsisiinom, nguni''t
+        hindi kayo nangapapatirang-uhaw; kayo''y nangananamit, nguni''t walang mainit;
+        at yaong kumikita ng mga pinagarawan ay kumikita ng mga pinagarawan upang
+        ilagay sa supot na may mga butas.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Ganito ang sabi ng Panginoon ng mga hukbo, Gunitain ninyo ang inyong
+        mga lakad.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Magsiahon kayo sa bundok, at mangagdala ng kahoy, at mangagtayo kayo
+        ng bahay; at aking kalulugdan, at ako''y luluwalhati, sabi ng Panginoon.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Kayo''y nangaghintay ng marami, at, narito, ang dumating ay kaunti;
+        at nang inyong dalhin sa bahay, aking hinipan. Bakit? sabi ng Panginoon ng
+        mga hukbo. Dahil sa ang aking bahay ay nahahandusay na wasak, samantalang
+        tumatakbo bawa''t isa sa inyo sa kanikaniyang sariling bahay.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Kaya''t dahil sa inyo, pinipigil ng langit ang hamog, at ipinagkakait
+        ng lupa ang kaniyang bunga.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'At ako''y nagpasapit ng pagkatuyo sa lupa, at sa mga bundok, at sa
+        trigo, at sa alak, at sa langis, at sa sumisibol sa lupa, at sa mga tao,
+        at sa baka, at sa lahat ng pinagpagalan ng mga kamay.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Nang magkagayo''y si Zorobabel na anak ni Sealtiel, at si Josue na
+        anak ni Josadac, na pangulong saserdote, sangpu ng buong nalabi sa bayan,
+        nagsitalima sa tinig ng Panginoon nilang Dios, at sa mga salita ni Hagai
+        na propeta, na siyang sinugo ng Panginoon nilang Dios; at ang bayan ay natakot
+        sa harap ng Panginoon.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Nang magkagayo''y nagsalita si Hagai, na sugo ng Panginoon ayon sa
+        pasugo ng Panginoon sa bayan, na nagsasabi, Ako''y sumasainyo, sabi ng Panginoon.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'At kinilos ng Panginoon ang kalooban ni Zorobabel na anak ni Sealtiel,
+        na gobernador sa Juda, at ang kalooban ni Josue na anak ni Josadac na pangulong
+        saserdote, at ang kalooban ng buong nalabi sa bayan; at sila''y nagsiparoon,
+        at nagsigawa sa bahay ng Panginoon ng mga hukbo, na kanilang Dios,  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Nang ikadalawang pu''t apat na araw ng buwan, nang buwang ikaanim,
+        nang ikalawang taon ni Dario na hari.'
+      comments: []
+  - verses:
+    - name: '1: Ang kahirapan ng mga tao ay dahil sa sila''y di tapat.'
+      title: Ang kahirapan ng mga tao ay dahil sa sila'y di tapat.
+      number: 1
+      content: '    Nang ikapitong buwan nang ikadalawang pu''t isang araw ng buwan,
+        dumating ang salita ng Panginoon sa pamamagitan ni Hagai na propeta, na nagsasabi,  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Salitain mo ngayon kay Zorobabel na anak ni Sealtiel, na gobernador
+        sa Juda, at kay Josue na anak ni Josadac, na pangulong saserdote, at sa nalabi
+        sa bayan, na sabihin mo,  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Sino ang nananatili sa inyo na nakakita sa bahay na ito sa kaniyang
+        dating kaluwalhatian? at paanong nakikita ninyo ngayon? hindi baga sa inyong
+        mga mata ay parang wala?  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Gayon ma''y magpakalakas ka ngayon, Oh Zorobabel, sabi ng Panginoon;
+        at magpakalakas ka, Oh Josue, na anak ni Josadac, na pangulong saserdote;
+        at mangagpakalakas kayo, kayong buong bayan sa lupain, sabi ng Panginoon,
+        at kayo''y magsigawa: sapagka''t ako''y sumasa inyo sabi ng Panginoon ng
+        mga hukbo,  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  Ayon  sa salita na aking itinipan sa inyo nang kayo''y magsilabas
+        sa Egipto, at ang aking Espiritu ay nanahan sa inyo: huwag kayong mangatakot.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Sapagka''t ganito ang sabi ng Panginoon ng mga hukbo, Minsan na lamang,
+        sangdaling panahon, at aking uugain ang langit, at ang lupa, at ang dagat,
+        at ang tuyong lupa;  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'At aking uugain ang lahat na bansa; at darating ang mga bagay na
+        nais ng lahat na bansa; at aking pupunuin ang bahay na ito ng kaluwalhatian,
+        sabi ng Panginoon ng mga hukbo.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Ang pilak ay akin, at ang ginto ay akin, sabi ng Panginoon ng mga
+        hukbo.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Ang huling kaluwalhatian ng bahay na ito ay magiging lalong dakila
+        kay sa dati, sabi ng Panginoon ng mga hukbo; at sa dakong ito ay magbibigay
+        ako ng kapayapaan, sabi ng Panginoon ng mga hukbo.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  Nang ikadalawang pu''t apat nang ikasiyam na buwan, nang ikalawang
+        taon ni Dario, dumating ang salita ng Panginoon sa pamamagitan ni Hagai na
+        propeta, na nagsasabi,  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Ganito ang sabi ng Panginoon ng mga hukbo, Mangagtanong kayo ngayon
+        sa mga saserdote ng tungkol sa kautusan, na mangagsabi,  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Kung ang isang tao ay may dala sa kaniyang kandungan na banal na
+        karne, at magsagi ng kaniyang laylayan ang tinapay, o ulam, o alak, o langis,
+        o anomang pagkain, magiging banal pa baga? At ang mga saserdote ay nagsisagot,
+        at nangagsabi, Hindi.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Nang magkagayo''y sinabi ni Hagai, Kung ang sinomang marumi dahil
+        sa bangkay ay masagi ang anoman sa mga ito, magiging marumi baga? At ang
+        mga saserdote ay nagsisagot at nangagsabi, Magiging marumi.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Nang magkagayo''y sumagot si Hagai, at nagsabi, Gayon nga ang bayang
+        ito, at gayon ang bansang ito sa harap ko, sabi ng Panginoon; at gayon ang
+        bawa''t gawa ng kanilang mga kamay; at ang kanilang inihahandog doon ay marumi.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'At ngayo''y isinasamo ko sa inyo, na inyong gunitain mula sa araw
+        na ito at sa nakaraan, bago ang bato ay mapatong sa kapuwa bato sa templo
+        ng Panginoon.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Nang buong panahong yaon, pagka ang isa ay lumalapit sa isang bunton
+        ng dalawang pung takal, may sangpu lamang; pagka ang isa ay lumalapit sa
+        pigaan ng alak upang kumuha ng limang pung sisidlan, may dalawang pu lamang.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Sinalot ko kayo ng pagkalanta at ng amag at ng granizo sa lahat ng
+        gawa ng inyong mga kamay; gayon ma''y hindi kayo nanumbalik sa akin, sabi
+        ng Panginoon.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Isinasamo ko nga sa inyo, na kayo''y magdilidili mula sa araw na
+        ito at sa nakaraan, mula nang ikadalawang pu''t apat na araw ng ikasiyam
+        na buwan, mula nang araw na ang tatagang-baon ng templo ng Panginoon ay ilagay,
+        gunitain ninyo.  '
+      comments: []
+    - name: '19: Ang pangako ng Panginoon.'
+      title: Ang pangako ng Panginoon.
+      number: 19
+      content: 'May binhi pa baga sa kamalig? oo, ang puno ng ubas, at ang puno ng
+        igos, at ang granada, at ang puno ng olibo ay hindi nagbunga; mula sa araw
+        na ito ay pagpapalain ko kayo.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'At ang salita ng Panginoon ay dumating na ikalawa kay Hagai nang
+        ikadalawang pu''t apat na araw ng buwan, na nagsasabi,  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Salitain mo kay Zorobabel na gobernador sa Juda, na iyong sabihin,
+        Aking uugain ang langit at ang lupa;  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'At aking guguluhin ang luklukan ng mga kaharian, at aking gigibain
+        ang lakas ng mga kaharian ng mga bansa; at aking guguluhin ang mga karo,
+        at yaong nagsisisakay sa mga yaon; at ang mga kabayo at ang mga sakay ng
+        mga yaon ay mangahuhulog, ang bawa''t isa''y sa pamamagitan ng tabak ng kaniyang
+        kapatid.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: Sa araw na yaon, sabi ng Panginoon ng mga hukbo, kita'y kukunin, Oh
+        Zorobabel, na aking lingkod, na anak ni Sealtiel, sabi ng Panginoon, at gagawin
+        kitang pinaka panatak; sapagka't pinili kita, sabi ng Panginoon ng mga hukbo.
+      comments: []

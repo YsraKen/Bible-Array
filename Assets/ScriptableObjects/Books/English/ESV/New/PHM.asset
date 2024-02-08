@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: PHM
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Philemon
+  fancyName: 
+  nickname: phm
+  version: {fileID: 11400000, guid: dd64eb842f3dd694bae8487ce6510215, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Greeting'
+      title: Greeting
+      number: 1
+      content: '  Paul, a prisoner for Christ Jesus, and Timothy our brother,To Philemon
+        our beloved fellow worker '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'and Apphia our sister and Archippus our fellow soldier, and the church
+        in your house:  '
+      comments: []
+    - name: "3: Philemon\u2019s Love and Faith"
+      title: "Philemon\u2019s Love and Faith"
+      number: 3
+      content: '  Grace to you and peace from God our Father and the Lord Jesus Christ.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  I thank my God always when I remember you in my prayers, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'because I hear of your love and of the faith that you have toward
+        the Lord Jesus and for all the saints, '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'and I pray that the sharing of your faith may become effective for
+        the full knowledge of every good thing that is in us for the sake of Christ.[[COMMENT(0)]]  '
+      comments:
+      - number: '6 '
+        content: 'Or '
+    - name: "7: Paul\u2019s Plea for Onesimus"
+      title: "Paul\u2019s Plea for Onesimus"
+      number: 7
+      content: 'For I have derived much joy and comfort from your love, my brother,
+        because the hearts of the saints have been refreshed through you.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Accordingly, though I am bold enough in Christ to command you to
+        do what is required, '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "yet for love\u2019s sake I prefer to appeal to you\u2014I, Paul,
+        an old man and now a prisoner also for Christ Jesus\u2014 "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'I appeal to you for my child, Onesimus,[[COMMENT(0)]]  whose father
+        I became in my imprisonment. '
+      comments:
+      - number: '10 '
+        content: means (see verse 11) or (see verse 20)
+    - name: '11: '
+      title: 
+      number: 11
+      content: '(Formerly he was useless to you, but now he is indeed useful to you
+        and to me.) '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I am sending him back to you, sending my very heart. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'I would have been glad to keep him with me, in order that he might
+        serve me on your behalf during my imprisonment for the gospel, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'but I preferred to do nothing without your consent in order that
+        your goodness might not be by compulsion but of your own accord. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'For this perhaps is why he was parted from you for a while, that
+        you might have him back forever, '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "no longer as a bondservant[[COMMENT(0)]] but more than a bondservant,
+        as a beloved brother\u2014especially to me, but how much more to you, both
+        in the flesh and in the Lord.  "
+      comments:
+      - number: '16 '
+        content: For the contextual rendering of the Greek word , see Preface; twice
+          in this verse
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'So if you consider me your partner, receive him as you would receive
+        me. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'If he has wronged you at all, or owes you anything, charge that to
+        my account. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "I, Paul, write this with my own hand: I will repay it\u2014to say
+        nothing of your owing me even your own self. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Yes, brother, I want some benefit from you in the Lord. Refresh my
+        heart in Christ.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '  Confident of your obedience, I write to you, knowing that you will
+        do even more than I say. '
+      comments: []
+    - name: '22: Final Greetings'
+      title: Final Greetings
+      number: 22
+      content: 'At the same time, prepare a guest room for me, for I am hoping that
+        through your prayers I will be graciously given to you.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  Epaphras, my fellow prisoner in Christ Jesus, sends greetings to
+        you, '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'and so do Mark, Aristarchus, Demas, and Luke, my fellow workers.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  The grace of the Lord Jesus Christ be with your spirit.'
+      comments: []

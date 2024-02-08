@@ -1,0 +1,4270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: JOS
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Joshua
+  fancyName: 
+  nickname: jos
+  version: {fileID: 11400000, guid: d0ec49142d5c7c24fb05ee739840cab0, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Joshua Addresses the Israelites'
+      title: Joshua Addresses the Israelites
+      number: 1
+      content: 'After the death of Moses the servant of Yahweh, Yahweh said to Joshua
+        son of Nun, the assistant of Moses, saying, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CMy servant Moses is dead. Get up and cross the Jordan, you
+        and all this people, into the land that I am giving to them, to the Israelites.  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Every place that the soles of your feet will tread, I have given
+        it to you, as I promised to Moses. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'From the wilderness and the Lebanon, up to the great river, the river
+        Euphrates, all of the land of the Hittites, and up to the great sea in the
+        west, will be your territory. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'No one will stand before you all the days of your life. Just as I
+        was with Moses, so will I be with you; I will not fail you, and I will not
+        forsake you. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Be strong and courageous, for you will give the people this land
+        as an inheritance that I swore to their ancestors to give them. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Only be strong and very courageous to observe diligently the whole
+        law that Moses my servant commanded you. Do not turn aside from it, to the
+        right or left, so that you may succeed wherever you go.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The scroll of this law will not depart from your mouth; you will
+        meditate on it day and night so that you may observe diligently all that
+        is written in it. For then you will succeed in your ways and prosper. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Did I not command you? Be strong and courageous! Do not fear or be
+        dismayed, for Yahweh your God is with you wherever you go.\u201D  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Then Joshua commanded the officers of the people, saying, '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CPass through the midst of the camp and command the people:
+        \u2018Prepare your provisions; in three days you are to cross the Jordan
+        to go possess the land that Yahweh your God is giving you to possess.\u2019&nbsp;\u201D "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'To the Reubenites, the Gadites, and the half-tribe of Manasseh Joshua
+        said, '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CRemember the word that Moses Yahweh\u2019s servant commanded
+        you, saying, \u2018Yahweh your God is giving rest to you, and he is giving
+        you this land.\u2019 "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Your wives, your little children, and your livestock, they will remain
+        in the land that Moses gave to you beyond the Jordan. All of the best fighting
+        men will cross armed in front of your families; they will help you '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "until Yahweh gives rest to your families as well as to you. They
+        will take possession of the land that Yahweh your God is giving to them.
+        Then you will return to your own land and take possession of it, the land
+        that Moses the servant of Yahweh gave you beyond the Jordan to the east.\u201D  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "And they answered Joshua, saying, \u201CAll that you have commanded
+        us we will do, and wherever you will send us we will go. "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Just as we obeyed Moses, so will we obey you. Only may Yahweh your
+        God be with you, as he was with Moses. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "Whoever rebels against your orders and does not obey your words according
+        to what you commanded us will be put to death. Only be strong and courageous.\u201D "
+      comments: []
+  - verses:
+    - name: '1: Spies View the Land'
+      title: Spies View the Land
+      number: 1
+      content: "Then Joshua son of Nun secretly sent two men from Acacia Grove as
+        spies, saying, \u201CGo, view the land, especially Jericho.\u201D So they
+        went, and entered the house of a prostitute whose name was Rahab, and spent
+        the night there. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "The king of Jericho was told, \u201CLook, some men from the Israelites
+        have come here tonight to search out the land.\u201D "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And the king of Jericho sent for Rahab, saying, \u201CBring out the
+        men who came to you, the ones who have entered your house, for they have
+        come to search out the whole land.\u201D "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "But the woman took the two men and hid them. And she said, \u201CYes,
+        the men came to me, but I did not know where they were from. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And when it was time to shut the gate for the night, the men left,
+        and I do not know where they went. Chase after them quickly, for you may
+        catch up to them.\u201D "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '(But she had taken them to the roof and had hidden them in the stalks
+        of flax that she had spread out on the roof.) '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'So the men chased after them on the way to the Jordan at the fords;
+        and they shut the gate behind the pursuers that had gone out after them. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Before they went to sleep, she came up to them on the roof '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "and said to the men, \u201CI know that Yahweh has given you the land,
+        and that dread of you has fallen on us, and that all the inhabitants of the
+        land melt away in fear because of your presence. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For we have heard how Yahweh dried up the waters of the Red Sea before
+        you when you went out from Egypt, and what you did to the two kings of the
+        Amorites that were beyond the Jordan, Sihon and Og, whom you utterly destroyed. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'We heard this, and our hearts melted, and no courage was left in
+        anyone because of your presence. For Yahweh your God is God in the heavens
+        above and on the earth below. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'So then please swear to me by Yahweh, because I have shown loyalty
+        to you, and you will also show loyalty to my family. You must give me a sign
+        of good faith,  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "and you will spare my father and mother, my brothers and sisters,
+        and all that belongs to them; you will deliver our lives from death.\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And the men said to her, \u201COur lives for yours. If you do not
+        report this business of ours, we will show you loyalty and faithfulness when
+        Yahweh gives us the land.\u201D "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Then she lowered them with a rope through the window, as her house
+        was on the outer side of the wall, and she was residing in the wall. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "And she said to them, \u201CGo to the mountain, so that the pursuers
+        will not find you, and hide yourselves there three days until the pursuers
+        return, and afterward you may go on your way.\u201D  "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "The men said to her, \u201CWe will be released from this oath of
+        yours that you made us swear. "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'When we come to the land, you must tie this scarlet cord in the window
+        through which you let us down, and you must gather your father and mother,
+        and your brothers, and your whole family to your house. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'If anyone goes outside the doors of your house, they will be responsible
+        for their own death, and we will be innocent. Anyone who will be with you
+        in the house, we will be responsible for their death if a hand is laid on
+        them.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "But if you report this business of ours, we will be released from
+        your oath that you made us swear.\u201D "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "And she said, \u201CAccording to your word it will be.\u201D Then
+        she sent them away, and they went, and she tied the scarlet cord in the window. "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'They departed and came to the mountain, and they stayed there three
+        days until the pursuers returned. The pursuers searched all along the way
+        but did not find them. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'The two men returned and went down from the mountain, and they crossed
+        over and came to Joshua son of Nun, and they told him everything that happened
+        to them. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "They said to Joshua, \u201CSurely Yahweh has given all the land into
+        our hand; also, all the inhabitants of the land melt away in fear because
+        of our presence.\u201D "
+      comments: []
+  - verses:
+    - name: '1: The Israelites Cross the Jordan'
+      title: The Israelites Cross the Jordan
+      number: 1
+      content: 'Joshua rose early in the morning, and they set out from Acacia Grove.
+        And they came up to the Jordan, he and all the Israelites, and they spent
+        the night there before they crossed over. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'At the end of the three days the officers passed through the midst
+        of the camp, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "and they commanded the people: \u201CWhen you see the Levitical priests
+        carrying the ark of the covenant of Yahweh your God you must set out from
+        your place and go after it. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "But there will be a distance between you and it of about two thousand
+        cubits in measurement. Do not come near it, so that you may know the way
+        that you must go, for you have not passed on this way before.\u201D  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And Joshua said to the people, \u201CSanctify yourselves, because
+        tomorrow Yahweh will do wonders in your midst.\u201D "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And Joshua said to the priests, \u201CTake up the ark of the covenant
+        and cross over ahead of the people.\u201D And they took up the ark of the
+        covenant and went ahead of the people.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Then Yahweh said to Joshua, \u201CThis day I will begin exalting
+        you in the sight of all Israel, that they may know that I was with Moses,
+        and I will be with you. "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "You will command the priests carrying the ark of the covenant, saying,
+        \u2018At the moment that you come to the edge of the waters of the Jordan,
+        you will stand still in the Jordan.\u2019&nbsp;\u201D "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And Joshua said to the Israelites, \u201CCome here, and hear the
+        words of Yahweh your God.\u201D "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Joshua said, \u201CBy this you will know that the living God is in
+        your midst, and he will certainly drive out the Canaanites from before you,
+        and the Hittites, Hivites, the Perizzites, the Girgashites, the Amorites,
+        and the Jebusites. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Look! The ark of the covenant of the Lord of all the earth is about
+        to cross over ahead of you into the Jordan. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'So then, take twelve men from the tribes of Israel, one from each
+        tribe.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'When the soles of the feet of the priests carrying the ark of Yahweh,
+        Lord of all the earth, rest in the waters of the Jordan, the waters of the
+        Jordan will be cut off upstream, and they will stand still in one heap. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And it happened, when the people set out from their tents to cross
+        over the Jordan, the priests carrying the ark of the covenant were ahead
+        of the people.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'When those carrying the ark came up to the Jordan, and the priests
+        carrying the ark dipped their feet in the edge of the water (the Jordan was
+        flowing over its banks during all the days of harvest), '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'the waters flowing down from above stood still; they stood up in
+        one heap very far from Adam, the city that is beside Zarethan, while the
+        waters flowing down to the sea of the Arabah, the Salt Sea, were completely
+        cut off; and the people crossed over opposite Jericho. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And the priests carrying the ark of the covenant of Yahweh stood
+        firmly on the dry land in the middle of the Jordan while all Israel crossed
+        on dry ground, until all the nation finished crossing the Jordan. '
+      comments: []
+  - verses:
+    - name: '1: The Israelites Make a Memorial'
+      title: The Israelites Make a Memorial
+      number: 1
+      content: 'After all the nation finished crossing the Jordan, Yahweh said to
+        Joshua, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CTake twelve men from the people, one man from each tribe,  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "and command them, saying, \u2018Take for yourselves twelve stones
+        from the middle of the Jordan where the priests\u2019 feet stood firmly,
+        and bring them over with you, and set them up in the place where you will
+        camp tonight.\u2019&nbsp;\u201D  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'So Joshua summoned the twelve men whom he had appointed from the
+        Israelites, one from each tribe. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And Joshua said to them, \u201CCross over before the ark of Yahweh
+        your God to the middle of the Jordan, and each one of you lift up a stone
+        on your shoulder, according to the number of the tribes of the Israelites,  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "so that this may be a reminder among you. When your children ask
+        in the future, saying, \u2018What do these stones mean to you?\u2019  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "you will say to them that the waters of the Jordan were cut off from
+        before the ark of the covenant of Yahweh. When it crossed the Jordan, the
+        waters of the Jordan were cut off. These stones will be as a memorial for
+        the Israelites for eternity.\u201D "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Thus the Israelites did as Joshua commanded. They took twelve stones
+        from the middle of the Jordan as Yahweh told Joshua, according to the number
+        of the tribes of the Israelites, and they carried them over with them to
+        the camp, and they put them there. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Then Joshua set up twelve stones in the middle of the Jordan, in
+        the place where the feet of the priests carrying the ark of the covenant
+        stood, and they are there to this day. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The priests carrying the ark remained standing in the middle of the
+        Jordan until everything that Yahweh commanded Joshua to tell the people was
+        finished, according to all that Moses commanded Joshua. And the people hastily
+        crossed over. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And it happened, when all the people had finished crossing, the ark
+        of Yahweh and the priests crossed over in front of the people. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The children of Reuben, Gad, and the half-tribe of Manasseh crossed
+        over armed before the Israelites, as Moses told them. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'About forty thousand armed for fighting crossed over before the presence
+        of Yahweh to the plains of Jericho for battle. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'On that day Yahweh exalted Joshua in the sight of all Israel, and
+        they respected him as they respected Moses all the days of his life. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Then Yahweh said to Joshua, saying, '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "\u201CCommand the priests carrying the ark of the testimony to come
+        up from the Jordan.\u201D "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "So Joshua commanded the priests, saying, \u201CCome up from the Jordan.\u201D "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "And it happened that when the priests carrying the ark came up from
+        the middle of the Jordan, and the soles of the priests\u2019 feet touched
+        dry land, the waters of the Jordan returned to their place and flowed over
+        all its banks as before. "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'And the people came up from the Jordan on the tenth day of the first
+        month, and they camped in Gilgal on the eastern edge of Jericho. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'And those twelve stones that they took from the Jordan, Joshua set
+        up in Gilgal. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "And he said to the Israelites, \u201CWhen your children ask in the
+        future their parents, \u2018What is the meaning of these stones?\u2019  "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "you will let your children know by saying, \u2018Israel crossed this
+        Jordan on dry ground.\u2019 "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'For Yahweh your God dried up the waters of the Jordan before you,
+        until you had crossed, just as Yahweh your God did to the Red Sea, which
+        he dried up before us until we had crossed over, '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "so that all the peoples of the earth may know that the hand of Yahweh
+        is strong, so that you may fear Yahweh your God forever.\u201D  "
+      comments: []
+  - verses:
+    - name: '1: The Israelites Are Circumcised'
+      title: The Israelites Are Circumcised
+      number: 1
+      content: 'And it happened, when all the kings of the Amorites who were beyond
+        the Jordan to the west, and all the kings of the Canaanites who were by the
+        sea heard that Yahweh dried up the waters of the Jordan in front of the Israelites
+        until they crossed over, their hearts melted, and there was no courage left
+        in them because of the presence of the Israelites.   '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "At that time Yahweh said to Joshua, \u201CMake for yourself knives
+        of flint, and circumcise the Israelites a second time.\u201D "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'So Joshua made knives of flint, and he circumcised the Israelites
+        at the hill of the foreskins.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'This is the reason why Joshua circumcised all the people: all the
+        males who went out from Egypt, all the warriors, died in the wilderness as
+        they went out from Egypt on the journey.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For all the people who left were circumcised, but all the people
+        born in the wilderness on the journey after they left from Egypt were not
+        circumcised. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For forty years the Israelites traveled in the wilderness until all
+        the nation, the warriors that left Egypt, perished, because they did not
+        listen to the voice of Yahweh. To them Yahweh swore that they would not see
+        the land that he swore to their ancestors to give to us, a land flowing with
+        milk and honey. '
+      comments: []
+    - name: '7: The Israelites Celebrate Passover in Canaan'
+      title: The Israelites Celebrate Passover in Canaan
+      number: 7
+      content: 'And it was their children whom he raised in their place that Joshua
+        circumcised, for they were uncircumcised, because they had not been circumcised
+        on the journey.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And it happened, when all the nation had finished circumcising, they
+        remained where they were in the camp until they recovered. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And Yahweh said to Joshua, \u201CToday I have rolled away the disgrace
+        of Egypt from you.\u201D Therefore, the name of that place is called Gilgal
+        to this day. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And the Israelites camped at Gilgal, and they kept the Passover on
+        the fourteenth day of the month, in the evening, on the plains of Jericho. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'On the next day after the Passover, on that very day, they ate from
+        the produce of the land, unleavened cakes and roasted corn. '
+      comments: []
+    - name: "12: The Commander of Yahweh\u2019s Army Appears Before Joshua"
+      title: "The Commander of Yahweh\u2019s Army Appears Before Joshua"
+      number: 12
+      content: 'And the manna ceased the day after, when they started eating the
+        produce of the land, and there was no longer manna for the Israelites. They
+        ate from the crop of the land of Canaan in that year. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And it happened, when Joshua was by Jericho, he looked up, and he
+        saw a man standing opposite him with his sword drawn in his hand. And Joshua
+        went to him and said, \u201CAre you with us, or with our adversaries?\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And he said, \u201CNeither. I have come now as the commander of Yahweh\u2019s
+        army.\u201D And Joshua fell on his face to the earth, and he bowed down and
+        said to him, \u201CWhat is my lord commanding his servant?\u201D "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "The commander of Yahweh\u2019s army said to Joshua, \u201CTake off
+        your sandals from your feet, for the place where you are standing is holy.\u201D
+        And Joshua did so. "
+      comments: []
+  - verses:
+    - name: '1: The Battle of Jericho'
+      title: The Battle of Jericho
+      number: 1
+      content: 'Now Jericho was shut up inside and out because of the presence of
+        the Israelites; no one was going out or coming in. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And Yahweh said to Joshua, \u201CLook, I am giving Jericho into your
+        hand, its king and the soldiers of the army. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'You will march around the city, all the warriors circling the city
+        once; you will do so for six days. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "And seven priests will bear seven trumpets of rams\u2019 horns before
+        the ark. On the seventh day you will march around the city seven times, and
+        the priests will blow on the trumpets. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And when they blow long on the horn of the ram, when you hear the
+        sound of the trumpet, all the people will shout with a great war cry, and
+        the wall of the city will fall flat, and the people will charge, each one
+        straight ahead.\u201D  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "So Joshua son of Nun summoned the priests and said to them, \u201CTake
+        up the ark of the covenant, and let seven priests carry the trumpets of the
+        rams\u2019 horns before the ark of Yahweh.\u201D "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "And he said to the people, \u201CGo forward and march around the
+        city, and let the armed men pass before the ark of Yahweh. "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And when Joshua spoke to the people, the seven priests carrying the
+        seven trumpets of rams\u2019 horns before the presence of Yahweh went forward
+        and they blew the trumpets; and the ark of the covenant of Yahweh followed
+        behind them. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And the armed men went before the priests who blew the trumpets,
+        and the rear guard came after the ark, while they were blowing the trumpets. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "But Joshua commanded the people, saying, \u201CYou will not shout,
+        and you will not let your voice be heard; a word will not go out from your
+        mouth until the day I say to you \u2018Shout!\u2019 Then you will shout.\u201D "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And the ark of Yahweh went around the city, circling once, and they
+        came into the camp and spent the night in the camp. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Then Joshua got up early in the morning, and the priests took up
+        the ark of Yahweh. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "The seven priests carrying the seven trumpets of the rams\u2019 horns
+        before the ark of Yahweh went on continually, and they blew on the trumpets.
+        And the armed men went before them, and the rear guard came after the ark
+        of Yahweh, while the trumpets blew continually. "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And they marched around the city once on the second day, and they
+        returned to the camp. They did this for six days. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Then on the seventh day they rose early at dawn, and they marched
+        around the city in this manner seven times. It was only on that day that
+        they marched around the city seven times. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "And at the seventh time the priests blew on the trumpets, and Joshua
+        said to the people, \u201CShout! For Yahweh has given you the city. "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'The city and all that is in it will be devoted to Yahweh; only Rahab
+        the prostitute and all who are with her in the house will live, because she
+        hid the messengers whom we sent. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'As for you, keep away from the things devoted to destruction so that
+        you do not take them and bring about your own destruction, making the camp
+        of Israel an object for destruction, bringing trouble upon it. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "But all of the silver and gold, and the items of bronze and iron,
+        are holy to Yahweh, and they must go to Yahweh\u2019s treasury.\u201D "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'So the people shouted, and they blew on the trumpets. And when the
+        people heard the sound of the trumpet, they raised a great shout, and the
+        wall fell flat. The people charged, each one straight ahead into the city,
+        and they captured it. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'And they utterly destroyed by the edge of the sword all who were
+        in the city, both men and women, young and old, ox, sheep, and donkey. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "Then Joshua said to the two men who spied on the land, \u201CGo to
+        the prostitute\u2019s house and bring out from there the woman and all who
+        belong to her, just as you swore to her.\u201D "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'So the young men who were spies went and brought Rahab and her father
+        and mother, her brothers, and all who were with her. And they brought all
+        her family out and set them outside the camp of Israel. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'And they burned the city and all that was in it with fire; they put
+        only the silver and gold, and the items of copper and iron, into the treasury
+        of the house of Yahweh. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'But Joshua spared Rahab the prostitute and her family and all who
+        were with her, and she has lived in the midst of Israel until this day, because
+        she hid the messengers whom Joshua sent to spy out Jericho. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "And Joshua swore at that time, saying, \u201CCursed is anyone before
+        Yahweh who gets up and builds Jericho, this city. At the cost of his firstborn
+        he will lay its foundation, and at the cost of his youngest he will set up
+        its gates.\u201D "
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'So Yahweh was with Joshua, and his fame was in all the land. '
+      comments: []
+  - verses:
+    - name: '1: The Sin of Achan'
+      title: The Sin of Achan
+      number: 1
+      content: "But the Israelites broke faith concerning the devoted things. Achan
+        son of Carmi son of Zabdi son of Zerah, of the tribe of Judah, took from
+        the devoted things; and Yahweh\u2019s anger was kindled against the Israelites.  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "Now Joshua sent men from Jericho to Ai, which is near Beth Aven,
+        east of Bethel, and he said to them, \u201CGo up and spy out Ai.\u201D And
+        the men went up and spied out Ai. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And they returned to Joshua and said to him, \u201CDo not let all
+        the people go up and attack Ai; only two or three thousand men should go
+        up because they are few. Do not make all the people weary up there.\u201D "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'So about three thousand from the people went up there, and they fled
+        before the men of Ai. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The men of Ai killed about thirty-six of them, and they chased them
+        from the gate up to Shebarim and killed them on the slope. And the hearts
+        of the people melted and became like water. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And Joshua tore his clothes and fell to the ground on his face before
+        the ark of Yahweh until the evening, he and the elders of Israel; and they
+        put dust on their heads.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "And Joshua said, \u201CAh, my Lord! Why did you bring this people
+        across the Jordan to give us into the hand of the Amorites to destroy us?
+        If only we had been content and stayed beyond the Jordan. "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Please, my Lord! What can I say after Israel has fled from its enemies?  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "The Canaanites and all the inhabitants of the land will hear of this,
+        and they will surround us and cut off our name from the land. What will you
+        do, for your great name?\u201D "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "And Yahweh said to Joshua, \u201CStand up! Why have you fallen on
+        your face? "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Israel has sinned and transgressed my covenant that I commanded them.
+        They have taken from the devoted things; they have stolen and acted deceitfully,
+        and they have put them among their belongings. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The Israelites were unable to stand before their enemies; they fled
+        from their enemies because they have become a thing devoted for destruction.
+        I will be with you no more unless you destroy the devoted things from among
+        you. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Get up, sanctify the people, and say, \u2018Sanctify yourselves for
+        tomorrow. Thus says Yahweh the God of Israel: \u201CThere are devoted things
+        in your midst, O Israel. You will be unable to stand before you enemies until
+        you remove the devoted things from your midst.\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'In the morning you will come forward, tribe by tribe, and the tribe
+        that Yahweh will select by lot will come forward by clans, and the clan that
+        Yahweh selects by lot will come forward by families, and the family that
+        Yahweh selects by lot will come forward one by one. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "The one caught with the devoted things will be burned with fire,
+        he and all that belongs to him, because he transgressed the covenant of Yahweh,
+        and because he did a disgraceful thing in Israel.\u201D&nbsp;\u2019&nbsp;\u201D "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'So Joshua rose early in the morning and brought forward Israel, tribe
+        by tribe, and the tribe of Judah was selected by lot. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And he brought forward the clans of Judah and selected the clan of
+        the Zerahites by lot. Then he brought forward the clan of the Zerahites,
+        one by one, and Zabdi was selected by lot. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'He brought forward his family, one by one, and Achan son of Carmi
+        son of Zabdi son of Zerah, of the tribe of Judah, was selected by lot. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "And Joshua said to Achan, \u201CMy son, please, give glory to Yahweh
+        the God of Israel, and give him a doxology in court. Tell me, please, what
+        you have done; do not hide it from me.\u201D "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "And Achan answered Joshua and said, \u201CIt is true. I have sinned
+        against Yahweh the God of Israel, and this is what I did: "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "I saw among the spoil a beautiful robe from Shinar, two hundred shekels
+        of silver, and one bar of gold that weighed fifty shekels; I coveted them
+        and took them. They are hidden in the ground inside my tent, and the silver
+        is under it.\u201D "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Joshua sent messengers, and they ran to the tent; and there they
+        were, hidden in his tent, and the silver was under it. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'And they took them from the tent and brought them to Joshua and all
+        the Israelites. And they spread them out before the presence of Yahweh. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Then Joshua, and all Israel with him, took Achan son of Zerah, the
+        silver, the robe, the bar of gold, his sons and daughters, his cattle and
+        donkeys, his sheep, his tent, and everything that was his, and they brought
+        them to the valley of Achor.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "And Joshua said, \u201CWhy did you bring us trouble? Yahweh will
+        bring you trouble on this day.\u201D And all Israel stoned them with stones;
+        and they burned them with fire after they stoned them with stones. "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Then they placed on top of him a great pile of stones that remains
+        to this day. And Yahweh turned from his burning anger, and thus the name
+        of that place to this day is called the valley of Achor.  '
+      comments: []
+  - verses:
+    - name: '1: Ai Is Destroyed'
+      title: Ai Is Destroyed
+      number: 1
+      content: "Then Yahweh said to Joshua, \u201CDo not fear or be dismayed. Take
+        all the fighting men with you and go up immediately to Ai. Look, I am giving
+        into your hand the king of Ai, his city, and his land. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "You will do to Ai and its king that which you did to Jericho and
+        its king; you may take only its spoils and livestock as booty for yourself.
+        Set for yourself an ambush against the city from behind it.\u201D "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'So Joshua and all the fighting men went up immediately to Ai. Joshua
+        chose thirty thousand of the best fighting men and sent them by night. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "And he commanded them, saying, \u201CLook, you are to lay an ambush
+        against the city from behind. Do not go very far from the city and be ready. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Then I and all of the people who are with me will approach the city.
+        And when they go out to meet us as before, we will flee from them.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "They will come out after us until we draw them away from the city,
+        because they will think, \u2018They are fleeing from us as before.\u2019
+        So we will flee from them.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Then you will rise up from the ambush and take possession of the
+        city, for Yahweh your God will give it into your hand. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And when you capture the city you will set it on fire as Yahweh commanded.
+        Look, I have commanded you.\u201D "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'So Joshua sent them out, and they went to the place of the ambush,
+        and they sat between Bethel and Ai, to the west of Ai; but Joshua spent the
+        night with the people.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Joshua rose early in the morning and mustered the people, and he
+        went up with the elders of Israel before the people of Ai.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'All the fighting men who were with him went up and drew near before
+        the city and camped north of Ai; there was a valley between him and Ai. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And he took about five thousand men and set them in ambush between
+        Bethel and Ai, to the west of the city. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'So they stationed the forces; all the army was north of the city
+        while the rear guard was west. But Joshua went that night to the middle of
+        the valley. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "When the king of Ai saw this, the men of the city hurried and rose
+        early and went out to meet Israel for battle\u2014he and all his army\u2014to
+        the meeting place before the Arabah. He did not know that there was an ambush
+        for him behind the city. "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Then Joshua and all Israel acted like they were beaten before them,
+        and they fled in the direction of the wilderness.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'All of the people who were in the city were called to pursue after
+        them. As they pursued after Joshua, they were drawn away from the city. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Not a man remained in Ai or Bethel who had not gone out after Israel;
+        they left the city open and pursued after Israel. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "And Yahweh said to Joshua, \u201CStretch out the sword that is in
+        your hand to Ai, because I will give it into your hand.\u201D And Joshua
+        stretched out the sword that was in his hand to the city. "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'The moment he stretched out his hand, those in the ambush stood up
+        quickly from their place and ran. And they went into the city and captured
+        it, quickly setting the city ablaze with fire. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Then the men of Ai looked behind them, and they saw smoke from the
+        city rising to the sky; they had no power to flee this way or that, and the
+        people fleeing the wilderness turned around to the pursuers.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'And Joshua and all Israel saw that the ambush had captured the city
+        and that the smoke of the city was rising; they returned and struck down
+        the men of Ai. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Then the others from the city came out to meet them, and they found
+        themselves surrounded by Israel, some on one side, and others on the other
+        side. And they struck them down until no survivor or fugitive was left. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'But they captured the king of Ai alive, and they brought him to Joshua. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'When Israel finished slaughtering all the inhabitants of Ai in the
+        open field, in the wilderness where they pursued them, and when all of them
+        had fallen by the edge of the sword until they all had perished, all Israel
+        returned to Ai and attacked it with the edge of the sword.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "All the people that fell on that day, both men and women, were twelve
+        thousand\u2014all the inhabitants of Ai. "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'For Joshua did not draw back his hand that was stretched out with
+        the sword until he had utterly destroyed all the inhabitants of Ai. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Only the livestock and the spoil of that city Israel took as booty
+        for themselves, according to the word of Yahweh that Joshua commanded. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'So Joshua burned Ai and made it an everlasting heap of rubbish, a
+        desolate place until this day. '
+      comments: []
+    - name: '29: Israel Renews the Covenant'
+      title: Israel Renews the Covenant
+      number: 29
+      content: 'The king of Ai he hanged on a tree until the time of evening, and
+        as the sun went down Joshua commanded them, and they brought down his dead
+        body from the tree. Then they threw it at the entrance of the gate of the
+        city, and they raised over it a great heap of stones that remains to this
+        day. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Then Joshua built an altar on Mount Ebal for Yahweh the God of Israel, '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: "as Moses Yahweh\u2019s servant commanded the Israelites, as it is
+        written in the scroll of the law of Moses: \u201Can altar of unhewn stones
+        on which no one has wielded an iron implement.\u201D And they offered burnt
+        offerings on it and sacrificed fellowship offerings. "
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'And there Joshua wrote on the stones a copy of the law of Moses,
+        which he had written, in the presence of the Israelites.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: "Then all Israel, foreigner as well as native, with the elders, officials,
+        and judges stood on either side of the ark before the priests and the Levites,
+        who carried the ark of the covenant of Yahweh. Half of them stood in front
+        of Mount Gerizim, and the other half in front of Mount Ebal, as Moses Yahweh\u2019s
+        servant had commanded before to bless the people of Israel. "
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'And afterward he read all the words of the law, the blessings and
+        the curses, according to all that was written in the scroll of the law. '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'There was not a word from all that Moses commanded that Joshua did
+        not read before the assembly of all Israel, and the women, the little children,
+        and the traveling foreigners among them. '
+      comments: []
+  - verses:
+    - name: '1: The Gibeonites Act with Cunning'
+      title: The Gibeonites Act with Cunning
+      number: 1
+      content: "Now when all the kings who were beyond the Jordan in the hill country
+        and in the Shephelah, and on all the coast of the great sea toward Lebanon\u2014the
+        Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites, and
+        the Jebusites\u2014heard of this, "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'they gathered themselves together to fight with one accord against
+        Joshua and Israel. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'But the inhabitants of Gibeon heard what Joshua did to Jericho and
+        Ai, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'and they acted on their part with cunning: they went and prepared
+        provisions, and took worn-out sacks for their donkeys and old wineskins that
+        were torn and mended. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The sandals on their feet were patched and old, their clothes were
+        old, and their food was dry and crumbled. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And they went to Joshua at the camp at Gilgal and said to him and
+        to the men of Israel, \u201CWe have come from a far land; so then make a
+        covenant with us.\u201D  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "And the men of Israel said to the Hivites, \u201CPerhaps you are
+        living among us; how can we make a covenant with you?\u201D "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "They said to Joshua, \u201CWe are your servants.\u201D And Joshua
+        said to them, \u201CWho are you, and from where do you come?\u201D "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And they said to him, \u201CYour servants have come from a very far
+        land because of the name of Yahweh your God; we have heard of his reputation,
+        of all that he did in Egypt, "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "and of all that he did to the two kings of the Amorites who were
+        beyond the Jordan\u2014to Sihon king of Heshbon and to Og king of Bashan,
+        who was in Ashtaroth. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "So our elders said to us and all the inhabitants of our land, \u2018Take
+        in your hand provisions for the journey, and go to meet them, and say to
+        them, \u201CWe are your servants; so then make a covenant with us.\u201D&nbsp;\u2019  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'This is our bread; it was hot when we took it from our houses as
+        provisions on the day we set out to come to you. But now, look, it is dry
+        and crumbled. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "These are the wineskins that we filled new, but look, they have burst;
+        and these are our clothes and sandals that have worn out from the very long
+        journey.\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'So the leaders took from their provisions, but they did not ask direction
+        from Yahweh.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And Joshua made peace with them, and he made a covenant with them
+        to allow them to live happily, and the leaders of the congregation swore
+        an oath to them. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'And it happened that at the end of three days, after they made a
+        covenant with them, they heard that they were their neighbors and living
+        among them. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And the Israelites set out and went to their cities on the third
+        day (their cities were Gibeon, Kephirah, Beeroth, and Kiriath Jearim). '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'But the Israelites did not attack them, because the leaders of the
+        congregation had sworn to them by Yahweh the God of Israel. And all the congregation
+        murmured against their leaders.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "But all the leaders of the congregation said, \u201CWe have sworn
+        to them by Yahweh the God of Israel, and so we cannot touch them. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "This we will do to them: we will let them live so that wrath will
+        not be on us because of the oath we swore to them.\u201D "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "And the leaders said to them, \u201CLet them live.\u201D So they
+        became woodcutters and water carriers for all the congregation, just as the
+        leaders had said to them. "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "And Joshua summoned them and said, \u201CWhy have you deceived us
+        saying, \u2018We are very far from you\u2019 when you are living among us? "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "Therefore you are cursed; some of you will always be slaves as woodcutters
+        and water carriers for the house of my God.\u201D "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "And they answered Joshua and said, \u201CBecause it was told with
+        certainty to your servants that Yahweh your God commanded Moses his servant
+        to give to you all the land and to destroy all the inhabitants of the land
+        before you, so we were very afraid for our lives because of you, and so we
+        did this thing. "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "So then, look, we are in your hand; do with us whatever seems good
+        and right in your eyes.\u201D "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'So he did this to them: he saved them from the hand of the Israelites,
+        and they did not kill them. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'And that day Joshua made them woodcutters and water carriers for
+        the congregation and for the altar of Yahweh, to this day, in the place that
+        he should choose. '
+      comments: []
+  - verses:
+    - name: '1: The Sun Stands Still at Gibeon'
+      title: The Sun Stands Still at Gibeon
+      number: 1
+      content: 'And it happened that when Adoni-Zedek king of Jerusalem heard that
+        Joshua captured Ai and had utterly destroyed it (just as he had done to Jericho
+        and its king, so he did to Ai and its king) and that the inhabitants of Gibeon
+        had made peace with Israel and were among them, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'he became very afraid because Gibeon was a very large city, like
+        one of the royal cities, and because it was larger than Ai, and all its men
+        were mighty warriors. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'So Adoni-Zedek king of Jerusalem sent word to Hohman king of Hebron,
+        to Piram king of Jarmuth, to Japhia king of Lachish, and to Debir king of
+        Eglon, saying, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CCome up and help me, and let us attack Gibeon, because it has
+        made peace with Joshua and the Israelites.\u201D  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And the five kings of the Amorites, the king of Jerusalem, the king
+        of Hebron, the king of Jarmuth, the king of Lachish, and the king of Eglon,
+        gathered together and went up, they and all their forces, and they laid siege
+        to Gibeon and made war against it. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And the men of Gibeon sent word to Joshua at the camp at Gilgal,
+        saying, \u201CDo not abandon your servant. Come up to us quickly and save
+        us! Help us, for all the kings of the Amorites who dwell in the hill country
+        have gathered against us.\u201D "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'So Joshua went up from Gilgal, he and all the fighting men with him,
+        all the best warriors.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And Yahweh said to Joshua, \u201CDo not be afraid of them, for I
+        have given them into your hand; no one will withstand you.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Joshua came upon them suddenly by marching up all night from Gilgal. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And Yahweh threw them into panic before Israel, who struck them with
+        a great blow at Gibeon and pursued them by the way of the ascent of Beth-horon
+        and struck them as far as Azekah and Makkedah. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And as they were fleeing from Israel, they were on the slope of Beth-horon,
+        and Yahweh threw huge stones from the heavens on them as far as Azekah; and
+        more died by the hail stones than those whom the Israelites killed by the
+        sword. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Then Joshua spoke to Yahweh, on the day Yahweh gave the Amorites
+        over to the Israelites, and he said in the sight of Israel, \u201CSun in
+        Gibeon, stand still, and moon, in the valley of Aijalon.\u201D "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And the sun stood still, and the moon stopped, until the nation took
+        vengeance on its enemies. Is it not written in the scroll of Jashar? The
+        sun stood still in the middle of the heaven and was not in haste to set for
+        about a full day. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'There has not been a day like this before it or after, that Yahweh
+        listened to the voice of a man; for Yahweh fought for Israel. '
+      comments: []
+    - name: '15: The Kings of the Amorites Are Killed'
+      title: The Kings of the Amorites Are Killed
+      number: 15
+      content: 'And Joshua returned and all Israel with him to the camp at Gilgal. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'But these five kings fled and hid themselves in the cave at Makkedah. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "And it was told to Joshua, saying, \u201CThe five kings were found
+        hidden in the cave at Makkedah.\u201D "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "And Joshua said, \u201CRoll large stones against the mouth of the
+        cave, and set men in front of it to guard them. "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "But do not stay there; pursue after your enemies and attack them
+        from the rear. Do not allow them to go into their cities, for Yahweh your
+        God has given them into your hand.\u201D "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'When Joshua and the Israelites had finished striking them with a
+        very great blow, until they perished, those of them who survived went into
+        the fortified cities, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'and all the people returned to the camp safely to Joshua at Makkedah.
+        No one spoke against the Israelites.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "And Joshua said, \u201COpen the mouth of the cave, and bring to me
+        those five kings from the cave.\u201D "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'And they did so, and brought him these five kings from the cave,
+        the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king
+        of Lachish, and the king of Eglon. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "And when they brought these kings to Joshua, Joshua called all the
+        men of Israel and said to the commanders of the fighting men who had gone
+        with him, \u201CCome near, put your feet on the necks of these kings.\u201D
+        So they came near and put their feet on their necks. "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "And Joshua said to them, \u201CDo not be afraid or dismayed! Be strong
+        and bold, for thus Yahweh will do to all your enemies whom you are about
+        to fight. "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'And after this Joshua struck them down and killed them, and he hanged
+        them on five trees. And they were hanging on the trees until the evening. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'And it happened at the time of sunset, Joshua commanded, and they
+        took them down from the trees and threw them into the cave where they had
+        hidden themselves, and they put large stones against the mouth of the cave,
+        which are there to this very day. '
+      comments: []
+    - name: "28: Joshua\u2019s Conquest of the South"
+      title: "Joshua\u2019s Conquest of the South"
+      number: 28
+      content: 'Joshua captured Makkedah on that day, and he struck it and its king
+        with the edge of the sword; he utterly destroyed it and everyone that was
+        in it. He did not leave behind a survivor. So he did to the king of Makkedah
+        just as he did to the king of Jericho. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'And Joshua passed on, and all of Israel with him, from Makkedah to
+        Libnah, and he fought against Libnah. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'And Yahweh also gave it into the hand of Israel, and its king and
+        all the people in it he struck with the edge of the sword. He left in it
+        no survivor. He did to its king just as he did to the king of Jericho. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'And Joshua passed on, and all of Israel with him, from Libnah to
+        Lachish, and he laid siege to it and fought against it. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'And Yahweh gave Lachish into the hand of Israel, and he captured
+        it on the second day. He struck it with the edge of the sword, and everyone
+        in it, just as he did to Libnah. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'Then Horam king of Gezer came up to help Lachish, and Joshua struck
+        him and his people until he left no survivor behind. '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'And Joshua passed on, and all of Israel with him, from Lachish to
+        Eglon, and they laid siege to it and fought against it. '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'And they captured it on that day, and he struck it with the edge
+        of the sword, and all the people that were in it on that day he utterly destroyed
+        as he had done to Lachish. '
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: 'And Joshua went up, and all Israel with him, from Eglon to Hebron,
+        and they fought against it '
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: 'and captured it, and they struck it with the edge of the sword, its
+        king and all its cities, and all the people that were in it; he left behind
+        no survivor, as he had done to Eglon, and he utterly destroyed it and all
+        the people that were in it. '
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: 'Then Joshua returned to Debir, and all of Israel with him, and they
+        fought against it, '
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: 'and he captured it and its king and all its cities, and they struck
+        them with the the edge of the sword, and they utterly destroyed all the people
+        that were in it; he left behind no survivor, just as he had done to Hebron.
+        Thus he did to Debir and its king what he had done to Libnah and its king. '
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: "So Joshua struck all the land\u2014the hill country, the Negev, the
+        Shephelah, and the slopes\u2014and all their kings; he left behind no survivor,
+        and all that breathed he utterly destroyed as Yahweh the God of Israel commanded. "
+      comments: []
+    - name: '41: '
+      title: 
+      number: 41
+      content: 'Joshua struck them from Kadesh Barnea to Gaza, and all the land of
+        Goshen up to Gibeon; '
+      comments: []
+    - name: '42: '
+      title: 
+      number: 42
+      content: 'all of these kings and their land Joshua captured at one time, because
+        Yahweh the God of Israel fought for Israel. '
+      comments: []
+    - name: '43: '
+      title: 
+      number: 43
+      content: 'And Joshua returned, and all Israel with him, to the camp at Gilgal. '
+      comments: []
+  - verses:
+    - name: "1: Joshua\u2019s Conquest of the North"
+      title: "Joshua\u2019s Conquest of the North"
+      number: 1
+      content: 'And it happened, when Jabin king of Hazor heard this, he sent to
+        Jobab king of Madon, to the king of Shimron, to the king of Acshaph, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'and to the kings who were in the north in the hill country, in the
+        Arabah south of Kinnereth, in the Shephelah, and in Naphoth Dor in the west, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'to the Canaanites in the east and west, the Amorites, the Hittites,
+        the Perizzites, and the Jebusites in the hill country, and the Hivites at
+        the foot of Hermon in the land of Mizpah. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'They came out, they and all their armies with them, as a great army
+        like the sand on the seashore, with very many horses and chariots. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And all these kings joined forces, and they came and camped together
+        by the waters of Merom to fight with Israel. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And Yahweh said to Joshua, \u201CDo not be afraid because of their
+        presence, for tomorrow at this time I will hand them over slain to Israel;
+        you will hamstring their horses and burn their chariots with fire.\u201D "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'So Joshua, and all the fighting men with him, came against them suddenly
+        at the waters of Merom, and they attacked them.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And Yahweh gave them into the hand of Israel, and they struck them
+        and pursued them up to Great Sidon and Misrephoth Maim, and eastward up to
+        the valley of Mizpeh. And they struck them until they left behind no survivor. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And Joshua did to them as Yahweh commanded him; he hamstrung their
+        horses and burned their chariots with fire. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Then Joshua turned back at that time, and he captured Hazor and struck
+        its king with the sword, because Hazor formerly was the head of all these
+        kingdoms. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'He struck all the people that were in it with the edge of the sword,
+        utterly destroying them. There was no one left who breathed, and he burned
+        Hazor with fire. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And Joshua captured all the cities of these kings, and all their
+        kings, and he utterly destroyed them with the edge of the sword, as Moses
+        the servant of Yahweh commanded. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Israel did not burn the cities standing on their mounds, except Hazor
+        alone, which Joshua burned. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And all the spoil and livestock of these cities the Israelites took
+        as booty; they struck the people with the edge of the sword, until they had
+        destroyed them\u2014they left behind no one who breathed. "
+      comments: []
+    - name: "15: A Review of Joshua\u2019s Conquests"
+      title: "A Review of Joshua\u2019s Conquests"
+      number: 15
+      content: 'Just as Yahweh commanded Moses his servant, so Moses commanded Joshua,
+        and Joshua did; he left nothing undone that Yahweh had commanded Moses. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'So Joshua took all this land: the hill country, all the Negev, all
+        the land of Goshen, the Shephelah, the Arabah, and the hill country of Israel
+        and its Shephelah,  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'from Mount Halak that rises to Seir and to Baal Gad in the valley
+        of Lebanon at the foot of Mount Hermon; he captured all their kings, struck
+        them, and killed them. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'For many days Joshua made war with all these kings. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "There was not a city that made peace with the Israelites besides
+        the Hivites and the inhabitants of Gibeon\u2014all were taken in battle.  "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'For it was Yahweh that hardened their hearts, to meet Israel in war
+        in order to utterly destroy them without mercy, that they would destroy them
+        just as Yahweh commanded Moses. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'At that time Joshua came and exterminated the Anakites from the hill
+        country, from Hebron, Debir, Anab, and from all the hill country of Judah,
+        and from all the hill country of Israel; Joshua utterly destroyed them with
+        their cities. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'None of the Anakites were left in the land of the Israelites; some
+        remained only in Gaza, Gath, and Ashdod. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Joshua took all the land according to all that Yahweh had spoken
+        to Moses; and Joshua gave it as an inheritance to Israel, according to their
+        tribal divisions, and the land rested from war. '
+      comments: []
+  - verses:
+    - name: '1: The Kings Conquered by Joshua'
+      title: The Kings Conquered by Joshua
+      number: 1
+      content: 'These are the kings of the land whom the Israelites defeated, and
+        of whose land they took possession beyond the Jordon to the east, from the
+        wadi of Arnon up to Mount Hermon, and all the Arabah to the east: '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Sihon king of the Amorites, who lived in Heshbon, and ruled from
+        Aroer, which is on the edge of the wadi of Arnon, from the middle of the
+        valley and half of Gilead, up to the Jabbok River, which marks the border
+        of the Ammonites;  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'and the Arabah up to the Kinnereth Sea to the east, and as far as
+        the sea of Arabah, the Salt Sea to the east, in the direction of Beth Jeshimoth,
+        and to the area southward, at the foot of the slopes of Pisgah;  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'the territory of Og king of Bashan, one of the last of the Rephaites,
+        who lived at Ashtaroth and Edrei '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'and ruled over Mount Hermon and Salecah and over all Bashan up to
+        the border of the Geshurites and the Maacathites, and half of Gilead, as
+        far as the border of Sihon king of Heshbon. '
+      comments: []
+    - name: '6: The Kings Conquered by Moses'
+      title: The Kings Conquered by Moses
+      number: 6
+      content: "Moses Yahweh\u2019s servant and the Israelites defeated them; and
+        Moses Yahweh\u2019s servant gave it as a possession to the Reubenites, the
+        Gadites, and the half-tribe of Manasseh. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'These are the kings of the land whom Joshua and the Israelites defeated
+        beyond to the Jordan to the west, from Baal Gad in the valley of Lebanon,
+        and up to Mount Halak, which rises to Seir. And Joshua gave it as a possession
+        to the tribes of Israel according to their allotments, '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'in the hill country, the Shephelah, the Arabah, on the slopes, in
+        the wilderness, and in the Negev; the Hittites, the Amorites, the Canaanites,
+        the Perizzites, the Hivites, and the Jebusites:  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'the king of Jericho, one; the king of Ai, which is beside Bethel,
+        one; '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'the king of Jerusalem, one; the king of Hebron, one; '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'the king of Jarmuth, one; the king of Lachish, one; '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'the king of Eglon, one; the king of Gezer, one; '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'the king of Debir, one; the king of Geder, one; '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'the king of Hormah, one; the king of Arad, one; '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'the king of Libnah, one; the king of Adullam, one; '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'the king of Makkedah, one; the king of Bethel, one; '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'the king of Tappuah, one; the king of Hepher, one; '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'the king of Aphek, one; the king of Lasharon, one; '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'the king of Madon, one; the king of Hazor, one; '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'the king of Shimron-meron, one; the king of Acshaph, one; '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'the king of Taanach, one; the king of Megiddo, one; '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'the king of Kedesh, one; the king of Jokneam in Carmel, one; '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'the king of Dor in Naphath Dor, one; the king of Goiim for Gilgal,
+        one; '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'the king of Tirzah, one; all the kings, thirty-one. '
+      comments: []
+  - verses:
+    - name: '1: Land Still Remains to be Conquered'
+      title: Land Still Remains to be Conquered
+      number: 1
+      content: "Now Joshua was old and advanced in years, and Yahweh said to him,
+        \u201CYou are old and advanced in years, and very much of the land remains
+        to be possessed. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'This is the remaining land: all the regions of the Philistines, and
+        all of the Geshurites,  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'from the Shihor, which is east of Egypt, up to the border of Ekron
+        to the north, which is reckoned as Canaanite; there are five Philistine rulers:
+        the Gazites, Ashdodites, Ashkelonites, Gittites, Ekronites, and the Avvim. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'In the south; all the land of the Canaanites, and Mearah, which belongs
+        to the Sidonians up to Aphek, to the border of the Amorites,  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'and the land of the Gebalites, and all the Lebanon, toward the east,
+        from Baal Gad at the foot of Mount Hermon up to Lebo-Hamath; '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'all the inhabitants of the hill country, from the Lebanon up to Misrephoth
+        Maim, and all the Sidonians. I will drive them out from before the Israelites;
+        only allocate it to Israel as an inheritance just as I have commanded you. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Therefore, divide this land as an inheritance to the nine tribes
+        and the half-tribe of Manasseh.\u201D "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "With it the Reubenites, and the Gadites received their inheritance,
+        which Moses gave them beyond the Jordan to the east, just as Moses Yahweh\u2019s
+        servant gave to them: "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'from Aroer, which is on the edge of the wadi of Arnon, and the city
+        which is in the middle of the wadi, and all the plateau from Medeba up to
+        Dibon; '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'and all the cities of Sihon king of the Amorites, who reigned in
+        Heshbon up to the border of the Ammonites;  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'and Gilead, and the border of the Geshurite and the Maacathites,
+        all of Mount Hermon, and Bashan up to Salecah; '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "all the kingdom of Og in Bashan, who reigned in Ashtaroth and Edrei\u2014he
+        was left over from the survivors of the Rephaim; these Moses had defeated
+        and driven out. "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'But the Israelites did not drive out the Geshurites or the Maacathites;
+        Geshur and Maacah live among Israel to this day. '
+      comments: []
+    - name: "14: Reuben\u2019s Inheritance"
+      title: "Reuben\u2019s Inheritance"
+      number: 14
+      content: 'Only the tribe of Levites Moses did not give an inheritance; the
+        offerings made by fire to Yahweh the God of Israel are their inheritance,
+        just as he promised to them.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Moses gave an inheritance to the tribe of the descendants of Reuben
+        according to their families. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Their territory was from Aroer, which was on the edge of the wadi
+        of Arnon, and the city that is in the middle of the valley, and all the plateau
+        by Medeba; '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Heshbon and its cities that are on the plateau; Dibon, Bamoth Baal,
+        Beth Baal Meon, '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Jahaz, Kedemoth, Mephaath, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Kiriathaim, Sibmah, and Zereth Shahar on the hill of the valley; '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Beth Peor, the slopes of Pisgah, and Beth Jeshimoth; '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'all of the cities of the plateau, and all the kingdom of Sihon king
+        of the Amorites, who reigned in Heshbon and whom Moses defeated with the
+        leaders of Midian, Evi, Rekem, Zur, Hur, and Reba, the princes of Sihon who
+        dwelled in the land. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'In addition to their slain, the Israelites killed with the sword
+        Balaam son of Beor, who practiced divination. '
+      comments: []
+    - name: "23: Gad\u2019s Inheritance"
+      title: "Gad\u2019s Inheritance"
+      number: 23
+      content: 'And the border of the descendants of Reuben was the Jordan and its
+        banks. This was the inheritance of the descendants of Reuben according to
+        their families, the cities, and their villages. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Moses gave an inheritance to the tribe of Gad, to the descendants
+        of Gad, according to their families. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Their territory was Jazer and all the cities of Gilead, and half
+        the land of the Ammonites up to Aroer, which is east of Rabbah;  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'and from Heshbon up to Ramah-Mizpeh and Betonim, and from Mahanaim
+        up to the territory to Debir; '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'in the valley of Beth Haram, Beth Nimrah, Succoth, Zaphon, and the
+        rest of the kingdom of Sihon king of Heshbon, the Jordan and its banks, up
+        to the lower end of the Kinnereth Sea beyond the Jordan to the east. '
+      comments: []
+    - name: "28: The Half-Tribe of Manasseh\u2019s Inheritance"
+      title: "The Half-Tribe of Manasseh\u2019s Inheritance"
+      number: 28
+      content: 'This is the inheritance of the Gadites according to their families,
+        the cities, and their villages. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Moses gave an inheritance to the half-tribe of Manasseh; it was for
+        the half-tribe of the descendants of Manasseh according to their families. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Their territory was from Mahanaim, all Bashan, all the kingdom of
+        Og king of Bashan, and all the settlements of Jair, which are in Bashan,
+        sixty cities, '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'and half of Gilead, with Ashtaroth, Edrei, and the cities of the
+        kingdom of Og in Bashan; these were allotted to the children of Makir son
+        of Manasseh, for half of the children of Makir according to their families. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'These are the territories that Moses gave as an inheritance on the
+        desert-plateau of Moab, beyond the Jordan, east of Jericho. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'But to the tribe of Levi Moses did not give an inheritance; Yahweh
+        the God of Israel, he is their inheritance, just as he promised them.  '
+      comments: []
+  - verses:
+    - name: '1: The Land Allotted West of the Jordan'
+      title: The Land Allotted West of the Jordan
+      number: 1
+      content: 'These are the territories that the Israelites inherited in the land
+        of Canaan, which Eleazar the priest, Joshua son of Nun, and the heads of
+        the families of the tribes of the Israelites gave as an inheritance to them. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Their inheritance was by lot, just as Yahweh commanded through the
+        hand of Moses, for the nine tribes and the half-tribe. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For Moses had given an inheritance of the two tribes and the half-tribe
+        beyond the Jordan, but to the Levites he gave no inheritance among them. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For the descendants of Joseph were two tribes, Manasseh and Ephraim,
+        and they did not give a plot of ground to the Levites in the land, only cities
+        to live in, with their pastureland for their flocks and for their goods. '
+      comments: []
+    - name: '5: Caleb Receives Hebron'
+      title: Caleb Receives Hebron
+      number: 5
+      content: 'Just as Yahweh commanded Moses, so the Israelites did; and they allotted
+        the land. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Then the descendants of Judah came to Joshua at Gilgal; and Caleb
+        son of Jephunneh the Kenizzite said to him, \u201CYou know the word that
+        Yahweh said to Moses the man of God at Kadesh Barnea concerning you and me. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "I was forty years old when Moses Yahweh\u2019s servant sent me from
+        Kadesh Barnea to spy out the land, and I returned with an honest report.  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'My companions who went up with me made the hearts of the people melt,
+        but I remained true to Yahweh my God. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And Moses swore on that day, saying, \u2018Surely the land that your
+        foot has trodden on will be an inheritance to you and your sons forever,
+        because you remained true to Yahweh my God.\u2019 "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'So then, look, Yahweh has kept me alive just as he promised these
+        forty-five years, from the time that Yahweh spoke this word to Moses while
+        Israel wandered in the wilderness. Now look, today I am eighty-five years
+        old.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Today I am still strong, just as on the day that Moses sent me; as
+        my strength was then, so now also is my strength for war and for daily activities.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "So now give me this hill country that Yahweh spoke of on that day,
+        for you heard on that day that the Anakites were there, with great and fortified
+        cities. Perhaps Yahweh is with me, and I will drive them out just as Yahweh
+        promised.\u201D  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And Joshua blessed him and gave Hebron to Caleb son of Jephunneh
+        as an inheritance. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Thus Hebron became the inheritance of Caleb son of Jephunneh the
+        Kenizzite to this day, because he remained true to Yahweh the God of Israel. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And the name of Hebron formerly was Kiriath Arba; Arba was the greatest
+        person among the Anakites. And the land rested from war. '
+      comments: []
+  - verses:
+    - name: '1: The Allotment of Judah'
+      title: The Allotment of Judah
+      number: 1
+      content: 'The allotment for the tribe of the descendants of Judah according
+        to their families reached to the border of Edom, to the wilderness of Zin,
+        to the far south.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Their southern border was from the end of the Salt Sea, from the
+        bay facing southward; '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'it continues to the south to the ascent of Akrabbim, passes along
+        to Zin, it goes up south of Kadesh Barnea, passes along Hezron, goes up to
+        Addar, and makes a turn to Karka; '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'it passes on to Azmon, continues by the wadi of Egypt, and it ends
+        at the sea. This will be your southern border. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The eastern border is the Salt Sea up to the mouth of the Jordan.
+        The border on the northern side runs from the bay of the sea at the mouth
+        of the Jordan; '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'the border goes up to Beth-hoglah and passes along north of Beth
+        Arabah; and the border goes up the stone of Bohan son of Reuben; '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'and the border goes up to Debir from the valley of Achor, and to
+        the north, turning to Gilgal, which is opposite the ascent of Adummim, which
+        is south of the wadi; and the border passes on to the waters of En Shemesh,
+        and it ends at En Rogel. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Then the border goes up by the Valley of Ben Hinnom to the slope
+        of the Jebusites from the south (that is, Jerusalem); and the border goes
+        up to the top of the mountain that lies opposite the valley of Hinnom to
+        the west, which is at the end of the valley of Rephaim to the north; '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'then the border turns from the top of the mountain to the spring
+        of the waters of Nephtoah, and continues from there to the cities of Mount
+        Ephron; the border then turns to Baalah (that is, Kiriath Jearim); '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'and the border goes around from Baalah to the west, to Mount Seir,
+        and passes on to the slope of Mount Jearim from the north (that is, Kesalon),
+        and goes down to Beth Shemesh, and passes along by Timnah. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The border continues to the slope of Ekron to the north, then bends
+        around to Shikkeron, it passes on to Mount Baalah and continues to Jabneel;
+        and the border ends at the sea. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And the western border is to the Great Sea and its coast. This is
+        the border surrounding the descendants of Judah according to their families. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "According to the commandment of Yahweh to Joshua, he gave to Caleb
+        son of Jephunneh a plot of ground among the descendants of Judah, Kiriath
+        Arba, which is Hebron (Arba was Anak\u2019s father). "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Caleb drove out from there three of Anak\u2019s sons, Sheshai, Ahiman,
+        and Talmai, the descendants of Anak. "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And from there he went up against the inhabitants of Debir (the former
+        name of Debir was Kiriath Sepher). '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "And Caleb said, \u201CWhoever attacks Kiriath Sepher and captures
+        it, I will give to him my daughter Acsah as a wife.\u201D "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Othniel son of Kenaz, the brother of Caleb, captured it, and he gave
+        to him Acsah his daughter as a wife. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "When she came to him she urged him to ask her father for a field.
+        So she dismounted from the donkey, and Caleb said to her, \u201CWhat do you
+        want?\u201D  "
+      comments: []
+    - name: '19: The Cities of Judah'
+      title: The Cities of Judah
+      number: 19
+      content: "And she said to him, \u201CGive to me a gift; you have given me the
+        land of the Negev, and you must give to me a spring of water.\u201D And he
+        gave to her the upper and lower spring.  "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'This is the inheritance of the tribe of the descendants of Judah
+        according to their families: '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'the cities belonging to the tribe of the descendants of Judah to
+        the far south, to the border of Edom to the south, were Kabzeel, Eder, Jagur, '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Kinah, Dimonah, Adadah, '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Kedesh, Hazor, Ithnan, '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Ziph, Telem, Bealoth, '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Hazor Hadattah, Kerioth Hezron (that is, Hazor), '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Amam, Shema, Moladah, '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Hazar Gaddah, Heshmon, Beth Pelet, '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Hazar Shual, Beersheba, Biziothiah, '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Baalah, Iim, Ezem, '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Eltolad, Kesil, Hormah, '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Ziklag, Madmannah, Sansannah, '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Lebaoth, Shilhim, Ain, and Rimmon; in all, twenty-nine cities and
+        their villages. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'In the Shephelah: Eshtaol, Zorah, Ashnah, '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'Zanoah, En Gannim, Tappuah, Enam, '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'Jarmuth, Adullam, Socoh, Azekah, '
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: 'Shaaraim, Adithaim, Gederah, and Gederothaim; fourteen cities and
+        their villages. '
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: 'Zenan, Hadashah, Migdal Gad, '
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: 'Dilean, Mizpah, Joktheel, '
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: 'Lachish, Bozkath, Eglon, '
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: 'Cabbon, Lahma, Kitlish, '
+      comments: []
+    - name: '41: '
+      title: 
+      number: 41
+      content: 'Gederoth, Beth Dagon, Naamah, and Makkedah; sixteen cities and their
+        villages. '
+      comments: []
+    - name: '42: '
+      title: 
+      number: 42
+      content: 'Libnah, Ether, Ashan, '
+      comments: []
+    - name: '43: '
+      title: 
+      number: 43
+      content: 'Jephthah, Ashnah, Nezib, '
+      comments: []
+    - name: '44: '
+      title: 
+      number: 44
+      content: 'Keilah, Aczib, and Mareshah; nine cities and their villages. '
+      comments: []
+    - name: '45: '
+      title: 
+      number: 45
+      content: 'Ekron, its towns and villages; '
+      comments: []
+    - name: '46: '
+      title: 
+      number: 46
+      content: 'from Ekron to the sea, and all that were near Ashdod and their villages. '
+      comments: []
+    - name: '47: '
+      title: 
+      number: 47
+      content: 'Ashdod, its towns and villages; Gaza, its towns and villages, up
+        to the wadi of Egypt and the Great Sea and its coast.  '
+      comments: []
+    - name: '48: '
+      title: 
+      number: 48
+      content: 'And in the hill country: Shamir, Jattir, Socoh, '
+      comments: []
+    - name: '49: '
+      title: 
+      number: 49
+      content: 'Dannah, Kiriath Sanna (that is, Debir), '
+      comments: []
+    - name: '50: '
+      title: 
+      number: 50
+      content: 'Anab, Eshtemoh, Anim, '
+      comments: []
+    - name: '51: '
+      title: 
+      number: 51
+      content: 'Goshen, Holon, and Giloh; eleven cities and their villages. '
+      comments: []
+    - name: '52: '
+      title: 
+      number: 52
+      content: 'Arab, Dumah, Eshan, '
+      comments: []
+    - name: '53: '
+      title: 
+      number: 53
+      content: 'Janim, Beth-tappuah, Aphekah, '
+      comments: []
+    - name: '54: '
+      title: 
+      number: 54
+      content: 'Humtah, Kiriath Arba (that is, Hebron), and Zior; nine cities and
+        their villages. '
+      comments: []
+    - name: '55: '
+      title: 
+      number: 55
+      content: 'Moan, Carmel, Ziph, Juttah, '
+      comments: []
+    - name: '56: '
+      title: 
+      number: 56
+      content: 'Jezreel, Jokdeam, Zanoah, '
+      comments: []
+    - name: '57: '
+      title: 
+      number: 57
+      content: 'Kain, Gibeah, and Timnah; ten cities and their villages. '
+      comments: []
+    - name: '58: '
+      title: 
+      number: 58
+      content: 'Halhul, Beth Zur, Gedor, '
+      comments: []
+    - name: '59: '
+      title: 
+      number: 59
+      content: 'Maarath, Beth Anoth, and Eltekon; six cities and their villages. '
+      comments: []
+    - name: '60: '
+      title: 
+      number: 60
+      content: 'Kiriath Baal (that is, Kiriath Jearim) and Rabbah; two cities and
+        their villages. '
+      comments: []
+    - name: '61: '
+      title: 
+      number: 61
+      content: 'In the wilderness: Beth Arabah, Middin, Secacah, '
+      comments: []
+    - name: '62: '
+      title: 
+      number: 62
+      content: 'Nibshan, the city of Salt, and En Gedi; six cities and their villages. '
+      comments: []
+    - name: '63: '
+      title: 
+      number: 63
+      content: 'But the descendants of Judah were unable to drive out the Jebusites,
+        the inhabitants of Jerusalem, so the Jebusites live with the descendants
+        of Judah in Jerusalem to this day. '
+      comments: []
+  - verses:
+    - name: '1: The Allotment of Ephraim and Manasseh'
+      title: The Allotment of Ephraim and Manasseh
+      number: 1
+      content: 'The allotment of the descendants of Joseph went from the Jordan by
+        Jericho, at the waters of Jericho to the east, into the wilderness, going
+        up from Jericho into the hill country to Bethel; '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'it continues from Bethel to Luz, and it passes along to the territory
+        of the Arkites at Ataroth. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Then it goes down, to the west, to the territory of the Japhletites,
+        up to the territory of Lower Beth-horon, then to Gezer, and it ends at the
+        sea. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And the descendants of Joseph, Manasseh and Ephraim, received their
+        inheritance. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'This was the border of the descendants of Ephraim according to their
+        families: the border of their inheritance to the east was Ataroth Addar,
+        up to Upper Beth-horon. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The border continues to the sea; from Micmethath to the north, the
+        border turns to the east to Taanath Shiloh, and it passes along it from the
+        east to Janoah. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Then it goes down from Janoah to Ataroth and to Naarah; it touches
+        Jericho and ends at the Jordan; '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'from Tappuah the border goes to the west, to the wadi of Kanah, and
+        it ends at the sea. This is the inheritance of the tribe of the descendants
+        of Ephraim according to their families, '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'with the cities that were set apart for the descendants of Ephraim
+        in the midst of the inheritance of the descendants of Manasseh, all the cities
+        and their villages. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'But they did not drive out the Canananites who were dwelling in Gezer,
+        and so the Canaanites live in the midst of Ephraim to this day, but they
+        became forced laborers. '
+      comments: []
+  - verses:
+    - name: '1: The Allotment of the Other Half-Tribe of Manasseh'
+      title: The Allotment of the Other Half-Tribe of Manasseh
+      number: 1
+      content: 'Then the allotment was made for the tribe of Manasseh, because he
+        was the firstborn of Joseph. To Makir, the firstborn of Manasseh, the father
+        of Gilead, were allotted Gilead and Bashan, because he was a warrior.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "An allotment was made for the remaining descendants of Manasseh,
+        according to their families: For the children of Abiezer, Helek, Asriel,
+        Shechem, Hepher, and Shemida\u2014these were the male descendants of Manasseh
+        son of Joseph according to their families. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'But Zelophehad son of Hepher, son of Gilead, son of Makir, son of
+        Manasseh, had no sons, only daughters. These are the names of his daughters:
+        Mahlah, Noah, Hoglah, Milcah, and Tirzah. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "They came before Eleazar the priest, Joshua son of Nun, and the leaders,
+        saying, \u201CYahweh commanded Moses to give an inheritance to us among our
+        kinsmen.\u201D Therefore, according to the command of Yahweh he gave them
+        an inheritance among the kinsmen of their father. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Thus ten shares fell to Manasseh, besides the land of Gilead and
+        Bashan, which is beyond the Jordan, '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'because the daughters of Manasseh received an inheritance among his
+        sons. And the land of Gilead was allotted to the remaining descendants of
+        Manasseh. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The border of Manasseh was from Asher to Micmethath, which is opposite
+        Shechem; then the border goes to the south, to the inhabitants of En Tappuah. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The land of Tappuah belonged to Manasseh, but Tuppuah on the border
+        of Manasseh belonged to the descendants of Ephraim.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Then the border goes down to the wadi of Kanah to the south of the
+        wadi. These cities belong to Ephraim among the cities of Manasseh. The border
+        of Manasseh is north of the wadi, and it ends at the sea. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "The south is Ephraim\u2019s, and the north is Manasseh\u2019s; the
+        sea is their border; Asher touches the north and on the east Issachar. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'In Issachar and Asher, Manasseh had Beth-shean and its villages,
+        Ibleam and its villages, the inhabitants of Dor and its villages, the inhabitants
+        of En-dor and its villages, the inhabitants of Taanach and its villages,
+        the inhabitants of Megiddo and its villages; the third is Napheth. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'But the descendants of Manasseh were not able to take possession
+        of these towns; the Canaanites were determined to live in this land. '
+      comments: []
+    - name: '13: The Tribes of Joseph Object'
+      title: The Tribes of Joseph Object
+      number: 13
+      content: 'And it happened, when the Israelites grew strong, they put the Canaanites
+        to forced labor but never drove them out completely. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "The descendants of Joseph spoke with Joshua, saying, \u201CWhy have
+        you given us one allotment and one share as an inheritance? We are many people,
+        which Yahweh has blessed.\u201D "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "And Joshua said to them, \u201CIf you are many people, go up to the
+        forest and clear a place there for yourselves in the land of the Perizzites
+        and Rephaim, since the hill country of Ephraim is too narrow for you.\u201D "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "And the descendants of Joseph said, \u201CThe hill country is not
+        enough for us, and all of the Canaanites living in the land of the valley
+        have chariots of iron, those in Beth-shean and its villages, and those in
+        the Jezreel Valley.\u201D "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "And Joshua said to the house of Joseph, to Ephraim and Manasseh,
+        \u201CYou are many people and have great power; you will not have one allotment
+        only; "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "the hill country will be yours. Even though it is a forest, you will
+        clear it, and it will be yours to its farthest borders. You will drive out
+        the Canaanites, even though they have iron chariots and are strong.\u201D "
+      comments: []
+  - verses:
+    - name: '1: The Last of the Land Is Divided'
+      title: The Last of the Land Is Divided
+      number: 1
+      content: 'The entire congregation of the Israelites assembled at Shiloh, and
+        they set up there the tent of meeting, and the land was subdued before them.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And seven tribes remained among the Israelites who had not been apportioned
+        their inheritance. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And Joshua said to the Israelites, \u201CHow long will you be slack
+        about going to take possession of the land that Yahweh, the God of your ancestors,
+        has given you? "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Provide three men from each tribe, and I will send them so that they
+        may begin to go through the land and write a description of it according
+        to their inheritance, and let them come to me. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'They will divide it among themselves into seven portions; Judah will
+        maintain its border from the south, and the house of Joseph will maintain
+        its border from the north. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Describe the land in seven divisions, and bring it to me here; I
+        will cast lots for you here before Yahweh our God. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "The Levites among you have no portion, for their inheritance is the
+        priesthood of Yahweh; Gad, Reuben, and the half-tribe of Manasseh received
+        their inheritance beyond the Jordan to the east, which Moses Yahweh\u2019s
+        servant gave to them.\u201D "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And the men went immediately, and Joshua commanded the ones going
+        to describe the land, saying, \u201CGo and walk about through the land, write
+        a description, and return to me, and here I will cast a lot for you before
+        Yahweh at Shiloh.\u201D "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And the men went and passed through the land, and they described
+        the cities in seven divisions in a book; and they came to Joshua to the camp
+        at Shiloh, '
+      comments: []
+    - name: '10: The Allotment of Benjamin'
+      title: The Allotment of Benjamin
+      number: 10
+      content: 'and Joshua cast a lot for them at Shiloh before Yahweh, and there
+        he divided the land for the Israelites, to each a portion.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And the allotment of the tribe of Benjamin came up according to their
+        families, and the border of their allotment fell between the descendants
+        of Judah and the descendants of Joseph. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Their northern border began at the Jordan and went up to the slope
+        of Jericho on the north and continued into the hill country to the west;
+        it ends at the wilderness of Beth Aven. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The border passes on from there to Luz, to the slope of Luz to the
+        south (that is, Bethel); then the border goes down to Ataroth Addar to the
+        mountain that is south of Lower Beth-Horon. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Then the border changes direction and turns to the western side southward,
+        from the mountain that is opposite Beth-Horon to the south. It ends at Kiriath
+        Baal (that is, Kiriath Jearim), a town belonging to the descendants of Judah.
+        This is the western side. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The southern side begins on the outskirts of Kiriath Jearim, and
+        the border continues to the west to the spring of the waters of Nephtoah; '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'the border goes down to the foot of the mountain, which is opposite
+        the Valley of Ben Hinnom, which is in the valley of Rephaim to the north;
+        then it does down the valley of Hinnom to the slope of the Jebusites to the
+        south, and then it goes down to En Rogel. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'It changes direction from the north, and it continues to En Shemesh;
+        it goes out to Geliloth, which is opposite the ascent of Adummim, and it
+        goes down to the stone of Bohan, son of Reuben. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'It passes on to the slope opposite the Arabah to the north, and it
+        goes down to the Arabah.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'The border passes on to the slope of Beth-hoglah to the north and
+        ends at the north bay of the Salt Sea at the south end of the Jordan. This
+        is the southern border. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'The Jordan forms its border on the eastern side. This is the inheritance
+        of the tribe of Benjamin, its borders that surrounds them, according to their
+        families. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Now the towns of the tribes of the descendants of Benjamin, according
+        to their families, were Jericho, Beth-hoglah, Emek Keziz, '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Beth Arabah, Zemaraim, Bethel, '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Avvim, Parah, Ophrah, '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Kephar Ammoni, Ophni, and Geba; twelve cities and their villages. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Gibeon, Ramah, Beeroth, '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Mizpeh, Kephirah, Mozah, '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Rekem, Irpeel, Taralah, '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Zela, Haeleph, Jebus (that is, Jerusalem), Gibeah, and Kiriath; fourteen
+        cities and their villages. This is the inheritance of the descendants of
+        Benjamin according to their families. '
+      comments: []
+  - verses:
+    - name: '1: The Allotment of Simeon'
+      title: The Allotment of Simeon
+      number: 1
+      content: 'The second allotment fell for Simeon, for the tribe of the descendants
+        of Simeon, according to their families. And their inheritance was in the
+        midst of the inheritance of the descendants of Judah. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And they had as their inheritance Beersheba, Sheba, Moladah, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Hazar Shual, Balah, Ezem, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Eltolad, Bethul, Hormah, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Ziklag, Beth Marcaboth, Hazar Susah, '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Beth Lebaoth, and Sharuhen; thirteen cities and their villages. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Ain, Rimmon, Ether, and Ashan; four cities and their villages, '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'and all the villages that were around these towns up to Baalat-Beor,
+        Ramath of the Negev. This was the inheritance of the tribe of the descendants
+        of Simeon according to their families. '
+      comments: []
+    - name: '9: The Allotment of Zebulun'
+      title: The Allotment of Zebulun
+      number: 9
+      content: 'Part of the portion allotted to the descendants of Judah became the
+        inheritance of the descendants of Simeon because the portion for the descendants
+        of Judah was too large for them, so the descendants of Simeon inherited from
+        their inheritance. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The third allotment came up for the descendants of Zebulun according
+        to their families. The border of their inheritance went up to Sarid. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Their border goes up to the west, to Maralah; it touches Dabbesheth,
+        then the wadi that is opposite Jokneam. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'It turns from Sarid to the east to the sunrise, to the border of
+        Kislot-Tabor; it continues to Daberath and goes up to Japhia. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'From there it passes along to the east toward the sunrise, to Gath
+        Hepher and to Eth Kazin, and continuing to Rimmon, it turns to Neah; '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'it changes direction from the north of Hannathon, and it ends at
+        the valley of Yiptah-El; '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Kattath, Nahalal, Shimron, Idalah, and Bethlehem; twelve cities and
+        their villages. '
+      comments: []
+    - name: '16: The Allotment of Issachar'
+      title: The Allotment of Issachar
+      number: 16
+      content: 'This is the inheritance of the descendants of Zebulun according to
+        their families, these cities and their villages. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'The fourth allotment fell for Issachar, for the descendants of Issachar,
+        according to their families. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Their border went to Jezreel, Chesulloth, Shunem, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Hapharaim, Shion, Anaharath, '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Rabbith, Kishion, Ebez, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Remeth, En Gannim, En Haddah, and Beth Pazzez; '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'and the border touches Tabor, Shahazumah, and Beth Shemesh. Its border
+        ends at the Jordan; sixteen cities and their villages. '
+      comments: []
+    - name: '23: The Allotment of Asher'
+      title: The Allotment of Asher
+      number: 23
+      content: 'This is the inheritance of the tribe of the descendants of Issachar
+        according to their families, the cities and their villages. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'The fifth allotment fell for the tribe of the descendants of Asher
+        according to their families. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Their border was Helkath, Hali, Beten, Acshaph, '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Allamelech, Amad, and Mishal; it touches Carmel to the west, and
+        Shihor-Libnat. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Then it turns eastward to Beth-dagon and touches Zebulun and the
+        valley of Yiptah-El to the north to Beth Emeck and Neiel; it continues to
+        Cabul from the north, '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'and Ebron, Rehob, Hammon, and Kanah up to Great Sidon; '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'then the border turns to Ramah, and up to the fortified city of Tyre,
+        where the border turns to Hosah; it ends at the sea, from Hebel to Aczib. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Included were Ummah, Aphek, and Rehob; twenty-two cities and their
+        villages. '
+      comments: []
+    - name: '31: The Allotment of Naphtali'
+      title: The Allotment of Naphtali
+      number: 31
+      content: 'This is the inheritance of the tribe of the descendants of Asher
+        according to their families, these cities and their villages. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'The sixth allotment fell for the children of Naphtali, for the children
+        of Naphtali according to their families. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'Their border was from Heleph, from the oak in Zaanannim, Adami Nekeb,
+        Jabneel, up to Lakkum; it ends at the Jordan; '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'then the border turns to the west, to Aznoth Tabor, and continues
+        from there to Hukok, and it touches Zebulun on the south, Asher on the west,
+        and Judah on the east at the Jordan. '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'The fortified cities are Ziddim, Zer, Hammath, Rakkath, Kinnereth, '
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: 'Adamah, Ramah, Hazor, '
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: 'Kedesh, Edrei, En Hazor, '
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: 'Yiron, Migdal El, Horem, Beth-anath, Beth Shemesh; nineteen cities
+        and their villages. '
+      comments: []
+    - name: '39: The Allotment of Dan'
+      title: The Allotment of Dan
+      number: 39
+      content: 'This is the inheritance of the tribe of the children of Naphtali
+        according to their families, the cities and their villages. '
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: 'The seventh lot fell for the tribe of the descendants of Dan according
+        to their families. '
+      comments: []
+    - name: '41: '
+      title: 
+      number: 41
+      content: 'The border of their inheritance was Zorah, Eshtaol, Ir Shemesh, '
+      comments: []
+    - name: '42: '
+      title: 
+      number: 42
+      content: 'Shaalabbin, Aijalon, Ithlah, '
+      comments: []
+    - name: '43: '
+      title: 
+      number: 43
+      content: 'Elon, Timnah, Ekron, '
+      comments: []
+    - name: '44: '
+      title: 
+      number: 44
+      content: 'Eltekeh, Gibbethon, Baalath, '
+      comments: []
+    - name: '45: '
+      title: 
+      number: 45
+      content: 'Jehud, Bene Berak, Gath Rimmon, '
+      comments: []
+    - name: '46: '
+      title: 
+      number: 46
+      content: 'Me Jarkon, Rakkon, with the border opposite Joppa. '
+      comments: []
+    - name: '47: '
+      title: 
+      number: 47
+      content: 'The border of the descendants of Dan continued beyond them, because
+        the descendants of Dan went up and fought with Lesham, and they captured
+        and struck it with the edge of the sword, and they took possession of it
+        and settled in it; and they called Leshem Dan, after the name of Dan their
+        ancestor.  '
+      comments: []
+    - name: '48: The Allotment Is Completed'
+      title: The Allotment Is Completed
+      number: 48
+      content: 'This is the inheritance of the tribe of the descendants of Dan according
+        to their families, these cities and their villages. '
+      comments: []
+    - name: '49: '
+      title: 
+      number: 49
+      content: 'They finished assigning the land according to its borders, and the
+        Israelites gave an inheritance from among them to Joshua son of Nun. '
+      comments: []
+    - name: '50: '
+      title: 
+      number: 50
+      content: 'According to the commandment of Yahweh, they gave him the city that
+        he requested, Timnath Serah, in the hill country of Ephraim, and he rebuilt
+        the city and settled in it. '
+      comments: []
+    - name: '51: '
+      title: 
+      number: 51
+      content: 'These are the inheritances that Eleazar the priest, Joshua son of
+        Nun, and the heads of the families of the tribes, distributed by allotment
+        to the Israelites, at Shiloh before Yahweh at the entrance of the tent of
+        meeting. And they finished dividing the land. '
+      comments: []
+  - verses:
+    - name: '1: Cities of Refuge Are Established'
+      title: Cities of Refuge Are Established
+      number: 1
+      content: 'And Yahweh spoke to Joshua, saying, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CSpeak to the Israelites, saying, \u2018Appoint for yourselves
+        cities of refuge, of which I spoke to you through the hand of Moses. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Anyone who kills a person by accident or unintentionally may flee
+        there; they will be for yourselves a refuge from the avenger of blood. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The killer will flee to one of these cities, stand at the entrance
+        of the gate of the city, and state his case to the elders of that city; and
+        they will take him into the city and give him a place, and he will dwell
+        among them. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And if the avenger of blood pursues after him, they will not hand
+        over the killer into his hand, because he killed his neighbor unintentionally,
+        and he did not hate him previously.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "The killer will stay in that city until he stands before the congregation
+        for the trial, until the death of the one who is the high priest in those
+        days. Then the killer will return to his city and to his house, to the city
+        from which he fled.\u2019&nbsp;\u201D "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'So they set apart Kedesh in Galilee in the hill country of Naphtali,
+        Shechem in the hill country of Ephraim, and Kiriath Arba (that is, Hebron)
+        in the hill country of Judah. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Beyond the Jordan east of Jericho, they appointed Bezer in the wilderness
+        on the plateau, from the tribe of Reuben, Ramoth in Gilead, from the tribe
+        of Gad, and Golan in the Bashan, from the tribe of Manasseh. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'These were the cities designated for all the Israelites, and for
+        the foreigners dwelling among them, for anyone that kills a person unintentionally
+        to flee there, and not die by the hand of the avenger of blood, until there
+        is a trial before the congregation. '
+      comments: []
+  - verses:
+    - name: '1: The Allotment of the Levites'
+      title: The Allotment of the Levites
+      number: 1
+      content: 'Then the heads of the families of the Levites came to Eleazar the
+        priest, to Joshua son of Nun, and to the heads of the families of the tribes
+        of the Israelites.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And they spoke to them at Shiloh in the land of Canaan, saying, \u201CYahweh
+        commanded through the hand of Moses to give us cities to live in, with their
+        pasturelands for our livestock.\u201D "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'So, by command of Yahweh, the Israelites gave the Levites these cities
+        and their pasturelands from their inheritance. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The allotment fell for the families of the Kohathites. The descendants
+        of Aaron the priest, who were of the Levites, received by lot thirteen towns
+        from the tribes of Judah, Simeon, and Benjamin. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The remaining descendants of Kohath received by lot ten cities from
+        the families of the tribes of Ephraim, Dan, and the half-tribe of Manasseh. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The descendants of Gershon received by lot thirteen cities from the
+        families of the tribes of Issachar, Asher, and Naphtali and from the half-tribe
+        of Manasseh in Bashan. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The descendants of the Merarites according to their families received
+        twelve cities from the tribes of Reuben, Gad, and Zebulun. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The Israelites gave to the Levites these cities and their pastureland
+        by lot, just as Yahweh commanded through the hand of Moses. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'They gave these cities, which are here mentioned by name, from the
+        tribe of the families of Judah and from the tribe of the families of Simeon; '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'and they were for the descendants of Aaron, from the families of
+        the Kohathites, from the descendants of Levi, because the first lot was theirs. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And they gave to them Kiriath Arba, Arba being the father of Anak
+        (that is, Hebron), in the hill country of Judah and the pasturelands surrounding
+        it. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'But the field of the city and its villages they gave to Caleb son
+        of Jephunneh as his property. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'To the descendants of Aaron the priest they gave Hebron, the city
+        of refuge for the killer, and its pasturelands, Libnah and its pasturelands, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Jattir and its pasturelands, Eshtemoa and its pasturelands, '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Holon and its pasturelands, Debir and its pasturelands, '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Ain and its pasturelands, Juttah and its pasturelands, and Beth Shemesh
+        and its pasturelands; nine cities from these two tribes. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'From the tribe of Benjamin, Gibeon and its pasturelands, Geba and
+        its pasturelands, '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Anathoth and its pasturelands, Almon and its pasturelands; four cities. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'All the cities of the descendants of Aaron the priests, thirteen
+        cities and their pasturelands. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'For the families of the descendants of Kohath, the remaining Levites
+        of the descendants of Kohath, they received the cities of their lot from
+        the tribe of Ephraim. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'They gave them Shechem, the city of refuge for the killer, and its
+        pasturelands in the hill country of Ephraim, Gezer and its pasturelands, '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Kibzaim and its pasturelands, and Beth-horon and its pasturelands;
+        four cities. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'From the tribe of Dan, Eltekeh and its pasturelands, Gibbethon and
+        its pasturelands, '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Aijalon and its pasturelands, and Gath Rimmon and its pasturelands;
+        four cities. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'From the half-tribe of Manasseh, Taanach and its pasturelands and
+        Gath Rimmon with its pasturelands; two cities. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'All the cities and their pasturelands for the remaining families
+        of the descendants of Kohath were ten. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'To the descendants of Gershon, one of the families of the Levites,
+        from the half-tribe of Manasseh, Golan in Bashan, a city of refuge for the
+        killer, and its pasturelands, and Eshtarah and its pasturelands; two cities. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'From the tribe of Issachar, Kishion and its pasturelands, Daberath
+        and its pasturelands, '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Jarmuth and its pasturelands, En Gannim and its pasturelands; four
+        cities. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'From the tribe of Asher, Mishal and its pasturelands, Abdon and its
+        pasturelands, '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Helkath and its pasturelands, Rehob and its pasturelands; four cities. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'From the tribe of Naphtali, Kedesh in Galilee, the city of refuge
+        for the killer, and its pasturelands, Hammoth Dor and its pasturelands, and
+        Kartan and its pasturelands; three cities. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'All the cities of the Gershonites according to their families were
+        thirteen cities and their pasturelands. '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'To the families of the descendants of Merarite, the remaining Levites,
+        from the tribe of Zebulun, Jokneam and its pasturelands, Kartah and its pasturelands, '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'Dimnah and its pasturelands, and Nahalal and its pasturelands; four
+        cities. '
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: 'From the tribe of Reuben, Bezer and its pasturelands, Jahaz and its
+        pasturelands, '
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: 'Kedemoth and its pasturelands, and Mephaath and its pasturelands;
+        four cities. '
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: 'From the tribe of Gad, Ramoth in Gilead, the city of refuge for the
+        killer, and its pasturelands, Mahanaim and its pasturelands, '
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: 'Heshbon and its pasturelands, and Jazer and its pasturelands; four
+        cities in all. '
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: 'All these were the cities of the descendants of Merarite according
+        to their families, the remaining families of the Levites; their allotment
+        was twelve cities. '
+      comments: []
+    - name: '41: '
+      title: 
+      number: 41
+      content: 'All the cities of the Levites among the property of the Israelites
+        were forty-eight cities and their pasturelands. '
+      comments: []
+    - name: '42: '
+      title: 
+      number: 42
+      content: 'Each of these cities had pasturelands surrounding them; so it was
+        for all of these cities. '
+      comments: []
+    - name: '43: '
+      title: 
+      number: 43
+      content: 'And Yahweh gave to Israel all the land that he swore to give to their
+        ancestors, and they took possession of it and settled in it.  '
+      comments: []
+    - name: '44: '
+      title: 
+      number: 44
+      content: 'Yahweh gave them rest on every side, according to all that he had
+        sworn to their ancestors, and nobody from all their enemies withstood them,
+        for Yahweh had given all their enemies into their hand. '
+      comments: []
+    - name: '45: '
+      title: 
+      number: 45
+      content: 'And nothing failed from all the good things that Yahweh promised
+        to the house of Israel; everything came to pass.  '
+      comments: []
+  - verses:
+    - name: '1: The Eastern Tribes Return'
+      title: The Eastern Tribes Return
+      number: 1
+      content: 'Then Joshua summoned the Reubenites, the Gadites, and the half-tribe
+        of Manasseh, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "and he said to them, \u201CYou have observed all that Moses Yahweh\u2019s
+        servant commanded you, and you have listened to my voice in all that I have
+        commanded you; "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'you have not forsaken your kinsmen these many days, up to this day,
+        and you have observed the obligation of the command of Yahweh your God. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "So then, Yahweh your God has given rest to your kinsmen, just as
+        he promised them; so then, turn and go to your tents to the land of your
+        possession, which Moses Yahweh\u2019s servant gave to you beyond the Jordan. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Only be very careful to observe the commandment and law that Moses
+        Yahweh\u2019s servant commanded you, to love Yahweh your God, to walk in
+        all his ways, to keep his commandments, to hold fast to him, and to serve
+        him with all your heart and with all your soul.\u201D  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And Joshua blessed them and sent them away, and they went to their
+        tents. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And to the half-tribe of Manasseh Moses had given a possession in
+        Bashan, but to the other half Joshua had given a possession with their kinsmen
+        beyond the Jordan to the west; and when Joshua sent them to their tents and
+        blessed them, '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "he said to them, \u201CReturn to your tents with much wealth, and
+        with very much livestock, with silver, gold, copper, iron, and with very
+        much clothing; divide the war-booty of your enemies with your kinsmen.\u201D  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'So the descendants of Reuben, Gad, and the half-tribe of Manasseh
+        returned home and departed with the Israelites at Shiloh, which is in the
+        land of Canaan, to go to the land of Gilead to the land of their possession,
+        which they had acquired according to the command of Yahweh through the hand
+        of Moses. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And they came to the region of the Jordan that is in the land of
+        Canaan, and the descendants of Reuben, Gad, and the half-tribe of Manasseh
+        built there an altar on the Jordan, a large and imposing altar.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And the Israelites heard it said that the descendants of Reuben,
+        Gad, and the half-tribe of Manasseh had built an altar next to the land of
+        Canaan, in the region of the Jordan, on the side belonging to the Israelites.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'When the Israelites heard of it, the whole congregation of the Israelites
+        gathered at Shiloh to go up against them for battle. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And the Israelites sent to the descendants of Reuben, Gad, and the
+        half-tribe of Manasseh, to the land of Gilead, Phinehas the priest son of
+        Eleazar, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'and ten leaders with him, one leader for each family from each of
+        the tribes of Israel; and each one was the head of his family among the clans
+        of Israel.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'They came to the descendants of Reuben, Gad, and the half-tribe of
+        Manasseh, to the land of Gilead, and they spoke with them, saying, '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "\u201CThus says all the congregation of Yahweh: \u2018What is this
+        treachery that you have committed against the God of Israel by turning away
+        today from following Yahweh, by building for yourselves an altar to rebel
+        today against Yahweh? "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Is not the sin of Peor enough for us, from which we have not cleansed
+        ourselves today, and for which a plague came to the congregation of Yahweh, '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'that you must turn today from following Yahweh? If you rebel today
+        against Yahweh, tomorrow he will be angry with all of the congregation of
+        Israel; '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "if, however, the land of your property is unclean, cross over to
+        the land of Yahweh\u2019s property, where Yahweh\u2019s tabernacle resides,
+        and take possession among us. But you must not rebel against Yahweh or against
+        us by building for yourselves an altar other than the altar of Yahweh our
+        God. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "Did not Achan son of Zerah commit treachery with devoted things,
+        and wrath fell on all the congregation of Israel? And he alone did not perish
+        because of his iniquity.\u2019&nbsp;\u201D "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'And the descendants of Reuben, Gad, and the half-tribe of Manasseh
+        spoke with the heads of the clans of Israel, '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "\u201CYahweh, God of gods! Yahweh, God of gods knows. And let Israel
+        itself know, if it was in rebellion or treachery against Yahweh, do not spare
+        us this day "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'for building for ourselves an altar to turn away from Yahweh, or
+        if it was to offer burnt offerings, grain offerings, or fellowship offerings
+        on it, may Yahweh himself take vengeance. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "But in fact, we have done this because of anxiety, because of a reason,
+        saying, \u2018In the future your children may say to our children, \u2018What
+        is the relationship between you and Yahweh the God of Israel?  "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "Yahweh has made the Jordan a border between us and you, the descendants
+        of Reuben and Gad; you have no portion in Yahweh.\u2019 So your children
+        may put an end to our children worshiping Yahweh. "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "So we said, \u2018Let us build immediately for ourselves an altar,
+        not for burnt offerings or for sacrifices;  "
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "instead, it is a witness between us and you, and between our generations
+        after us for performing the serving of Yahweh in his presence with our burnt
+        offerings, sacrifices, and fellowship offerings; so that your children may
+        not say in the future to our children, \u201CYou have no portion in Yahweh.\u201D&nbsp;\u2019 "
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "And we thought, if they say to us and to our children in the future,
+        we can say, \u2018Look at this replica of the altar of Yahweh, which our
+        ancestors made, not for burnt offerings or sacrifices; rather, it is a witness
+        between us and you.\u2019 "
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "Far be it from us to rebel against Yahweh, to turn today from following
+        Yahweh, to build an altar for burnt offerings, grain offerings, or sacrifices,
+        instead of the altar of Yahweh our God that is before his tabernacle.\u201D "
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Phinehas the priest, the leaders of the congregation, and the heads
+        of the clans of Israel who were with him heard the words that the descendants
+        of Reuben, Gad, and Manasseh spoke, and they were satisfied.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: "Phinehas the priest, son of Eleazar, said to the descendants of Reuben,
+        Gad, and Manasseh, \u201CToday we know that Yahweh is among us, because you
+        have not committed this treachery against Yahweh. Therefore you have rescued
+        the Israelites from the hand of Yahweh.\u201D "
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'And Phinehas the priest, son of Eleazar, and the leaders returned
+        from the descendants of Reuben and Gad, from the land of Gilead, to the land
+        of Canaan to the Israelites, and they gave them their report.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'The report satisfied the Israelites; they blessed God, and they did
+        not speak of going up for battle against them to destroy the land in which
+        the descendants of Reuben and Gad were living.  '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: "The descendants of Reuben and Gad called the altar Witness, \u201CBecause,\u201D
+        they said, \u201Cit is a witness between us that Yahweh is God.\u201D "
+      comments: []
+  - verses:
+    - name: "1: Joshua\u2019s Farewell Address"
+      title: "Joshua\u2019s Farewell Address"
+      number: 1
+      content: 'And it happened, after a long time, after Yahweh had given rest to
+        Israel from all their surrounding enemies, and after Joshua was old and well-advanced
+        in years,  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "Joshua summoned all Israel, their elders, heads, judges, and officials,
+        and he said to them, \u201CI am old and well-advanced in years,  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'and you have seen all that Yahweh your God has done to all these
+        nations for your sake, for Yahweh your God is fighting for you. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Look! I have allotted to you these remaining nations as an inheritance
+        for your tribes, from the Jordan, with all the nations that I have cut off,
+        to the Great Sea in the west.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And Yahweh your God will push them back before you and drive them
+        out of your sight, and you will possess their land, just as Yahweh your God
+        promised to you. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Be very strong to observe carefully all that is written in the scroll
+        of the law of Moses so as not to turn aside from it, to the right or left, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'so as not to go among these remaining nations with you; do not profess
+        the name of their gods, and do not swear by them, serve them, or bow down
+        to them.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'But hold fast to Yahweh your God, just as you have done up to this
+        day. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Yahweh has driven out before you great and strong nations; and as
+        for you, nobody has withstood you to this day. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'One of your men put to flight a thousand, for Yahweh your God is
+        fighting for you, just as he promised you. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Take utmost care for the sake of your life to love Yahweh your God, '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'for if indeed you turn back and join these remaining nations among
+        you, and you intermarry with them, marrying their women and they yours,  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'know for certain that Yahweh your God will not continue to drive
+        out these nations from before you; they will be for you a snare and a trap,
+        a whip on your sides and thorns in your eyes, until you perish from this
+        good land that Yahweh your God has given to you. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Look! I am about to die, and you know in all your hearts and souls
+        that not one thing failed from all the good things that Yahweh your God promised
+        concerning you; everything has been fulfilled; not one thing failed.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'But just as all the good things came to you that Yahweh your God
+        promised, so will Yahweh bring to you all the bad things until he has destroyed
+        you from this good land that Yahweh your God has given to you. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "If you transgress the covenant of Yahweh your God, which he commanded
+        to you, and you go and serve other gods and bow down to them, Yahweh\u2019s
+        anger will be kindled against you, and you will perish quickly from the good
+        land that he has given to you.\u201D "
+      comments: []
+  - verses:
+    - name: '1: Joshua Recounts Their History'
+      title: Joshua Recounts Their History
+      number: 1
+      content: 'And Joshua gathered all the tribes of Israel to Shechem; he summoned
+        the elders of Israel, their heads, their judges, and their officials, and
+        they presented themselves before God. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And Joshua said to all the people, \u201CThus says Yahweh the God
+        of Israel: \u2018Long ago your ancestors\u2014Terah the father of Abraham
+        and the father of Nahor\u2014lived beyond the river, and they served other
+        gods. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'I took your ancestor Abraham from beyond the river and led him through
+        all the land of Canaan, and I increased his offspring; I gave him Isaac, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'and to Isaac I gave Jacob and Esau. To Esau I gave the hill country
+        of Seir to possess, but Jacob and his children went down to Egypt. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And I sent Moses and Aaron, and I plagued Egypt with what I did in
+        its midst; and afterward I brought you out. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'When I brought out your ancestors from Egypt, you came to the sea,
+        and the Egyptians pursued after your ancestors with chariots and horsemen
+        to the Red Sea.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'They cried out to Yahweh, and he put darkness between you and the
+        Egyptians, and he brought the sea over them and covered them; your own eyes
+        saw what I did in Egypt. Then you lived in the wilderness for many days. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And I brought you to the land of the Amorites who lived beyond the
+        Jordan; they fought you, and I gave them into your hand; you took possession
+        of their land, and I destroyed them before you.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Then Balak son of Zippor, king of Moab, set out and fought against
+        Israel, and he sent and summoned Balaam son of Beor to curse you, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'but I was not willing to listen to Balaam, and he richly blessed
+        you. So I rescued you from his hand, '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'and you crossed the Jordan and came to Jericho. And the citizens
+        of Jericho, the Amorites, the Perizzites, the Canaanites, the Hittites, the
+        Girgashites, the Hivites, and the Jebusites, fought against you, and I gave
+        them into your hand. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I sent before you the hornet and they drove out before you two kings
+        of the Amorites; but not by your sword or bow. '
+      comments: []
+    - name: '13: The Israelites Promise to Serve Yahweh'
+      title: The Israelites Promise to Serve Yahweh
+      number: 13
+      content: "I gave to you a land that you have not labored on, and cities that
+        you have not built, and you live in them; you eat from vineyards and olive
+        groves that you have not planted.\u2019 "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201CSo now, revere Yahweh and serve him in sincerity and faithfulness;
+        remove the gods that your ancestors served beyond the river and in Egypt,
+        and serve Yahweh. "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "But if it is bad in your eyes to serve Yahweh, choose for yourselves
+        today whom you want to serve, whether it is the gods that your ancestors
+        served beyond the river, or the gods of the Amorites in whose land you are
+        living; but as for me and my household, we will serve Yahweh.\u201D "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "And the people answered and said, \u201CFar be it from us that we
+        would forsake Yahweh to serve other gods, "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'for Yahweh our God brought us and our ancestors from the land of
+        Egypt, from the house of slavery, and did these great signs before our eyes.
+        He protected us along the entire way that we went, and among all the peoples
+        through whose midst we passed. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "And Yahweh drove out all the people before us, the Amorites who live
+        in the land. We will serve Yahweh, for he is our God.\u201D "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "But Joshua said to the people, \u201CYou cannot serve Yahweh, for
+        he is a holy and jealous God; he will not forgive your transgressions or
+        your sins. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "If you forsake Yahweh and serve foreign gods, he will turn and bring
+        disaster to you; he will destroy you after he has done good to you.\u201D "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "And the people said to Joshua, \u201CNo, we will serve Yahweh.\u201D "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "And Joshua said to the people, \u201CYou are witnesses against yourselves
+        that you have chosen for yourselves to serve Yahweh.\u201D And they said,
+        \u201CWe are witnesses.\u201D "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "He said, \u201CRemove the foreign gods that are in your midst, and
+        incline your hearts to Yahweh the God of Israel.\u201D "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "And the people said to Joshua, \u201CWe will serve Yahweh our God,
+        and we will listen to his voice.\u201D "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'So Joshua made a covenant with the people on that day, and he established
+        for them a statute and a judgment at Shechem. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Then Joshua wrote these words in a scroll of the law of God, and
+        he took a large stone and set it up there under a large tree, which is at
+        the shrine of Yahweh. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "And Joshua said to all the people, \u201CLook, this stone will be
+        a witness against us, for it has heard all the words of Yahweh that he spoke
+        with us. It will be as a witness against you, so that you do not deny your
+        God.\u201D "
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Then Joshua sent the people away to their inheritance. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'After these things Joshua son of Nun servant of Yahweh died; he was
+        one hundred and ten years old.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'They buried him in the territory of his inheritance, at Timnath-Serah,
+        which is in the hill country of Ephraim, north of Mount Gaash. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Israel served Yahweh all the days of Joshua, and all the days of
+        the elders who lived long after Joshua, and who had known all the work that
+        Yahweh did for Israel.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'The bones of Jacob, which the Israelites had brought out from Egypt,
+        they buried at Shechem, in a piece of land that Jacob had bought from the
+        children of Hamor, the father of Shechem, for one hundred pieces of money;
+        it became an inheritance for the descendants of Joseph. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'And Eleazar son of Aaron died; and they buried him in Gibeah in the
+        hill country of Ephraim, which had been given to his son Phinehas. '
+      comments: []

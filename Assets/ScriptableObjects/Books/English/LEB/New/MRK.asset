@@ -1,0 +1,4165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: MRK
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Mark
+  fancyName: 
+  nickname: mrk
+  version: {fileID: 11400000, guid: d0ec49142d5c7c24fb05ee739840cab0, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: John the Baptist Begins His Ministry'
+      title: John the Baptist Begins His Ministry
+      number: 1
+      content: ' The beginning of the gospel of Jesus Christ.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "Just as it is written in the prophet Isaiah, \u201CBehold, I am sending
+        my messenger before your face, who will prepare your way, "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "the voice of one shouting in the wilderness, \u2018Prepare the way
+        of the Lord, make straight his paths!\u2019&nbsp;\u201D  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'John was there baptizing in the wilderness, proclaiming a baptism
+        of repentance for the forgiveness of sins. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And all the Judean region and all the inhabitants of Jerusalem went
+        out to him and were being baptized by him in the Jordan River, confessing
+        their sins. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And John was dressed in camel\u2019s hair and a belt made of leather
+        around his waist, and he ate locusts and wild honey. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "And he was preaching, saying, \u201COne who is more powerful than
+        I is coming after me, of whom I am not worthy to bend down and untie the
+        strap of his sandals. "
+      comments: []
+    - name: '8: The Baptism of Jesus'
+      title: The Baptism of Jesus
+      number: 8
+      content: "I baptized you with water, but he will baptize you with the Holy
+        Spirit.\u201D "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And it happened that in those days Jesus came from Nazareth in Galilee
+        and was baptized in the Jordan by John. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And immediately as he was coming up out of the water, he saw the
+        heavens being split apart and the Spirit descending like a dove on him. '
+      comments: []
+    - name: '11: The Temptation of Jesus'
+      title: The Temptation of Jesus
+      number: 11
+      content: "And a voice came from heaven, \u201CYou are my beloved Son; with
+        you I am well pleased.\u201D "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And immediately the Spirit drove him out into the wilderness. '
+      comments: []
+    - name: '13: Public Ministry in Galilee'
+      title: Public Ministry in Galilee
+      number: 13
+      content: 'And he was in the wilderness forty days being tempted by Satan. And
+        he was with the wild animals, and the angels were ministering to him. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And after John had been taken into custody, Jesus went into Galilee
+        proclaiming the gospel of God '
+      comments: []
+    - name: '15: Jesus Calls His First Disciples'
+      title: Jesus Calls His First Disciples
+      number: 15
+      content: "and saying, \u201CThe time is fulfilled and the kingdom of God has
+        come near. Repent and believe in the gospel!\u201D "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "And as he was passing by along the Sea of Galilee, he saw Simon and
+        Andrew, Simon\u2019s brother, casting a net into the sea (for they were fishermen). "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "And Jesus said to them, \u201CFollow me and I will make you become
+        fishers of people.\u201D "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And immediately they left their nets and followed him. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'And going on a little farther, he saw James the son of Zebedee and
+        his brother John, and they were in the boat mending the nets. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'And immediately he called them, and they left their father Zebedee
+        in the boat with the hired men and went away after him. '
+      comments: []
+    - name: '21: A Man with an Unclean Spirit Healed'
+      title: A Man with an Unclean Spirit Healed
+      number: 21
+      content: 'And they went into Capernaum and immediately on the Sabbath he began
+        to teach in the synagogue.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'And they were amazed at his teaching, because he was teaching them
+        like one who had authority, and not like the scribes. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'And so then there was a man in their synagogue with an unclean spirit,
+        and he cried out, '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "saying, \u201CLeave us alone, Jesus the Nazarene! Have you come to
+        destroy us? I know who you are\u2014the Holy One of God!\u201D "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "And Jesus rebuked him, saying, \u201CBe silent, and come out of him!\u201D "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'And after convulsing him and crying out with a loud voice, the unclean
+        spirit came out of him. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "And they were all amazed, so that they began to discuss with one
+        another, saying, \u201CWhat is this? A new teaching with authority! He even
+        commands the unclean spirits and they obey him.\u201D "
+      comments: []
+    - name: '28: Many at Capernaum Are Healed'
+      title: Many at Capernaum Are Healed
+      number: 28
+      content: 'And the report about him then went out everywhere in the whole surrounding
+        region of Galilee. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'And so then he departed from the synagogue and came into the house
+        of Simon and Andrew with James and John. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: "Now Simon\u2019s mother-in-law was lying down, suffering with a fever,
+        and at once they told him about her. "
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'And he came and raised her up by taking hold of her hand, and the
+        fever left her, and she began to serve them. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Now when it was evening, when the sun had set, they began bringing
+        to him all those who were sick and those who were demon-possessed. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'And the whole town was gathered together at the door. '
+      comments: []
+    - name: '34: Preaching Throughout Galilee'
+      title: Preaching Throughout Galilee
+      number: 34
+      content: 'And he healed many who were sick with various diseases and expelled
+        many demons. And he did not permit the demons to speak, because they knew
+        him. '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'And getting up early in the morning while it was very dark, he departed
+        and went to a deserted place, and there he was praying. '
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: 'And Simon and those who were with him searched diligently for him. '
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: "And they found him and said to him, \u201CEveryone is looking for
+        you!\u201D "
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: "And he said to them, \u201CLet us go elsewhere, into the neighboring
+        rural towns, so that I can preach there also, because I have come out for
+        this very reason.\u201D "
+      comments: []
+    - name: '39: A Leper Cleansed'
+      title: A Leper Cleansed
+      number: 39
+      content: 'And he went into all Galilee preaching in their synagogues and expelling
+        demons. '
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: "And a leper came to him, entreating him and kneeling down, saying
+        to him, \u201CIf you are willing, you are able to make me clean.\u201D "
+      comments: []
+    - name: '41: '
+      title: 
+      number: 41
+      content: "And becoming angry, he stretched out his hand and touched him, and
+        said to him, \u201CI am willing; be made clean.\u201D "
+      comments: []
+    - name: '42: '
+      title: 
+      number: 42
+      content: 'And immediately the leprosy went away from him and he was made clean. '
+      comments: []
+    - name: '43: '
+      title: 
+      number: 43
+      content: 'And warning him sternly, he sent him away at once. '
+      comments: []
+    - name: '44: '
+      title: 
+      number: 44
+      content: "And he said to him, \u201CSee to it that you say nothing to anyone,
+        but go, show yourself to the priest and bring for your cleansing the things
+        which Moses commanded, for a testimony to them. "
+      comments: []
+    - name: '45: '
+      title: 
+      number: 45
+      content: 'But he went out and began to proclaim it freely and to spread abroad
+        the account, so that he was no longer able to enter publicly into a town.
+        But he was staying outside in deserted places, and they were coming to him
+        from all directions. '
+      comments: []
+  - verses:
+    - name: '1: A Paralytic Healed'
+      title: A Paralytic Healed
+      number: 1
+      content: ' And when he entered again into Capernaum after some days, it became
+        known that he was at home. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And many had gathered, so that there was no longer room, not even
+        at the door, and he was speaking the word to them. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And they came bringing to him a paralytic, carried by four of them. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And when they were not able to bring him to him because of the crowd,
+        they removed the roof where he was. And after digging through, they lowered
+        the stretcher on which the paralytic was lying. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And when Jesus saw their faith, he said to the paralytic, \u201CChild,
+        your sins are forgiven.\u201D "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Now some of the scribes were sitting there and reasoning in their
+        hearts, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CWhy does this man speak like this? He is blaspheming! Who is
+        able to forgive sins except God alone?\u201D "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And immediately Jesus, perceiving in his spirit that they were reasoning
+        like this within themselves, said to them, \u201CWhy are you considering
+        these things in your hearts? "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Which is easier to say to the paralytic, \u2018Your sins are forgiven,\u2019
+        or to say \u2018Get up and pick up your stretcher and walk\u2019? "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "But so that you may know that the Son of Man has authority on earth
+        to forgive sins,\u201D\u2014he said to the paralytic\u2014"
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CI say to you, get up, pick up your stretcher, and go to your
+        home.\u201D "
+      comments: []
+    - name: '12: Levi Called to Follow Jesus'
+      title: Levi Called to Follow Jesus
+      number: 12
+      content: "And he got up and immediately picked up his stretcher and went out
+        in front of them all, so that they were all amazed and glorified God, saying,
+        \u201CWe have never seen anything like this!\u201D "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And he went out again beside the sea, and all the crowd was coming
+        to him, and he began to teach them. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And as he was passing by, he saw Levi the son of Alphaeus sitting
+        at the tax booth, and he said to him, \u201CFollow me!\u201D And he stood
+        up and followed him. "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And it happened that he was dining in his house, and many tax collectors
+        and sinners were dining with Jesus and his disciples, for there were many
+        and they were following him. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "And the scribes of the Pharisees, when they saw that he was eating
+        with sinners and tax collectors, began to say to his disciples, \u201CWhy
+        does he eat with tax collectors and sinners?\u201D "
+      comments: []
+    - name: '17: On Fasting'
+      title: On Fasting
+      number: 17
+      content: "And when Jesus heard it, he said to them, \u201CThose who are healthy
+        do not have need of a physician, but those who are sick. I have not come
+        to call the righteous, but sinners.\u201D "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "And John\u2019s disciples and the Pharisees were fasting, and they
+        came and said to him, \u201CWhy do the disciples of John and the disciples
+        of the Pharisees fast, but your disciples do not fast?\u201D "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "And Jesus said to them, \u201CThe bridegroom\u2019s attendants are
+        not able to fast while the bridegroom is with them, are they? As long a time
+        as they have the bridegroom with them, they are not able to fast. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'But days will come when the bridegroom is taken away from them, and
+        then they will fast in that day. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "No one sews a patch of unshrunken cloth on an old garment. Otherwise
+        the patch pulls away from it\u2014the new from the old\u2014and the tear
+        becomes worse. "
+      comments: []
+    - name: '22: Plucking Grain on the Sabbath'
+      title: Plucking Grain on the Sabbath
+      number: 22
+      content: "And no one puts new wine into old wineskins. Otherwise the wine will
+        burst the wineskins and the wine is destroyed and the wineskins too. But
+        new wine is put into new wineskins.\u201D "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'And it happened that he was going through the grain fields on the
+        Sabbath, and his disciples began to make their way while plucking off the
+        heads of grain. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "And the Pharisees began to say to him, \u201CBehold, why are they
+        doing what is not permitted on the Sabbath?\u201D "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "And he said to them, \u201CHave you never read what David did when
+        he had need and he and those who were with him were hungry\u2014"
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "how he entered into the house of God in the time of Abiathar the
+        high priest and ate the bread of the presentation, which it is not permitted
+        to eat (except the priests) and also gave it to those who were with him?\u201D "
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "And he said to them, \u201CThe Sabbath was established for people,
+        and not people for the Sabbath. "
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "So then, the Son of Man is lord even of the Sabbath.\u201D "
+      comments: []
+  - verses:
+    - name: '1: A Man with a Withered Hand Healed'
+      title: A Man with a Withered Hand Healed
+      number: 1
+      content: ' And he entered into the synagogue again, and a man who had a withered
+        hand was there. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And they were watching him closely to see if he would heal him on
+        the Sabbath, in order that they could accuse him. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And he said to the man who had the withered hand, \u201CCome into
+        the middle.\u201D "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "And he said to them, \u201CIs it permitted on the Sabbath to do good
+        or to do evil, to save life or to kill?\u201D But they were silent. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And looking around at them with anger, grieved at the hardness of
+        their hearts, he said to the man, \u201CStretch out your hand.\u201D And
+        he stretched it out, and his hand was restored. "
+      comments: []
+    - name: '6: Jesus Heals Crowds by the Sea'
+      title: Jesus Heals Crowds by the Sea
+      number: 6
+      content: 'And the Pharisees went out immediately with the Herodians and began
+        to conspire against him with regard to how they could destroy him. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And Jesus went away with his disciples to the sea, and a great crowd
+        from Galilee followed him. And from Judea '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'and from Jerusalem and from Idumea and the other side of the Jordan
+        and around Tyre and Sidon a great crowd came to him because they heard all
+        that he was doing. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And he told his disciples that a small boat should stand ready for
+        him because of the crowd, so that they would not press upon him. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For he had healed many, so that all those who were suffering from
+        diseases pressed about him in order that they could touch him. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "And the unclean spirits, whenever they saw him, were falling down
+        before him and crying out, saying, \u201CYou are the Son of God!\u201D "
+      comments: []
+    - name: '12: The Selection of the Twelve Apostles'
+      title: The Selection of the Twelve Apostles
+      number: 12
+      content: 'And he warned them strictly that they should not make him known. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And he went up on the mountain and summoned those whom he wanted,
+        and they came to him. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And he appointed twelve, so that they would be with him and so that
+        he could send them out to preach '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'and to have authority to expel demons. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'And he appointed the twelve. And to Simon he gave the name Peter, '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "and James the son of Zebedee and John the brother of James (and he
+        gave to them the name Boanerges, that is, \u201CSons of Thunder\u201D), "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'and Andrew, and Philip, and Bartholomew, and Matthew, and Thomas,
+        and James the son of Alphaeus, and Thaddaeus, and Simon the Zealot,  '
+      comments: []
+    - name: '19: A House Divided Cannot Stand'
+      title: A House Divided Cannot Stand
+      number: 19
+      content: 'and Judas Iscariot, who also betrayed him. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'And he went home, and the crowd gathered again, so that they were
+        not even able to eat a meal. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "And when his family heard this, they went out to restrain him, for
+        they were saying, \u201CHe has lost his mind!\u201D "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "And the scribes who had come down from Jerusalem were saying, \u201CHe
+        is possessed by Beelzebul!\u201D and \u201CBy the ruler of the demons he
+        expels the demons!\u201D "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "And he called them to himself and was speaking to them in parables,
+        \u201CHow can Satan expel Satan? "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'And if a kingdom is divided against itself, that kingdom is not able
+        to stand. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'And if a house is divided against itself, that house will not be
+        able to stand. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'And if Satan has risen up against himself and is divided, he is not
+        able to stand, but is at an end! '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'But no one is able to enter into the house of a strong man and plunder
+        his property unless he first ties up the strong man, and then he can thoroughly
+        plunder his house. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "\u201CTruly I say to you that all the sins and the blasphemies will
+        be forgiven the sons of men, however much they blaspheme. "
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "But whoever blasphemes against the Holy Spirit does not have forgiveness
+        forever, but is guilty of an eternal sin\u201D\u2014"
+      comments: []
+    - name: "30: Jesus\u2019 Mother and Brothers"
+      title: "Jesus\u2019 Mother and Brothers"
+      number: 30
+      content: "because they were saying, \u201CHe has an unclean spirit.\u201D "
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'And his mother and his brothers arrived, and standing outside, they
+        sent word to him to summon him. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: "And a crowd was sitting around him, and they told him, \u201CBehold,
+        your mother and your brothers are outside looking for you.\u201D "
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: "And he answered them and said, \u201CWho is my mother or my brothers?\u201D "
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: "And looking around at those who were sitting around him in a circle,
+        he said, \u201CBehold, my mother and my brothers! "
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: "For whoever does the will of God, this person is my brother and sister
+        and mother.\u201D "
+      comments: []
+  - verses:
+    - name: '1: The Parable of the Sower'
+      title: The Parable of the Sower
+      number: 1
+      content: ' And again he began to teach beside the sea, and a very large crowd
+        was gathered to him, so that he got into a boat and sat on the sea, and the
+        whole crowd was at the sea on the land. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And he began to teach them many things in parables, and was saying
+        to them in his teaching, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "\u201CListen! Behold, the sower went out to sow. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And it happened that while he was sowing, some seed fell on the side
+        of the path, and the birds came and devoured it. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And other seed fell on the rocky ground where it did not have much
+        soil, and it sprang up at once, because it did not have any depth of soil. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And when the sun rose it was scorched, and because it did not have
+        enough root, it withered. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And other seed fell among the thorn plants, and the thorn plants
+        came up and choked it, and it did not produce grain.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And other seed fell on the good soil, and produced grain, coming
+        up and increasing, and it bore a crop\u2014one thirty and one sixty and one
+        a hundred times as much.  "
+      comments: []
+    - name: '9: The Reason for the Parables'
+      title: The Reason for the Parables
+      number: 9
+      content: "And he said, \u201CWhoever has ears to hear, let him hear!\u201D "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And when he was alone, those around him together with the twelve
+        began asking him about the parables. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "And he said to them, \u201CTo you has been granted the secret of
+        the kingdom of God, but to those who are outside everything is in parables, "
+      comments: []
+    - name: '12: The Parable of the Sower Interpreted'
+      title: The Parable of the Sower Interpreted
+      number: 12
+      content: "so that \u2018they may look closely and not perceive, and they may
+        listen carefully and not understand, lest they turn and it be forgiven them.\u2019&nbsp;\u201D  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And he said to them, \u201CDo you not understand this parable? And
+        how will you understand all the parables? "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The sower sows the word. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And these are the ones beside the path where the word is sown, and
+        whenever they hear it, immediately Satan comes and takes away the word that
+        was sown in them. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'And these are like the ones sown on the rocky ground, who whenever
+        they hear the word immediately receive it with joy. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And they have no root in themselves, but are temporary. Then when
+        affliction or persecution comes because of the word, immediately they fall
+        away. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "And others are the ones sown among the thorn plants\u2014these are
+        the ones who hear the word, "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'and the cares of the world and the deceitfulness of wealth and the
+        desires for other things come in and choke the word and it becomes unproductive. '
+      comments: []
+    - name: '20: The Parable of the Lamp'
+      title: The Parable of the Lamp
+      number: 20
+      content: "And those are the ones sown on the good soil, who hear the word and
+        receive it and bear fruit\u2014one thirty and one sixty and one a hundred
+        times as much.\u201D  "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "And he said to them, \u201CSurely a lamp is not brought so that it
+        may be put under a bushel basket or under a bed, is it? Is it not so that
+        it may be put on a lampstand? "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'For nothing is secret except so that it may be revealed, nor has
+        become hidden except so that it will come to light. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "If anyone has ears to hear, let him hear!\u201D "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "And he said to them, \u201CTake care what you hear! With the measure
+        by which you measure out, it will be measured out to you, and will be added
+        to you. "
+      comments: []
+    - name: '25: The Parable of the Seed that Grows by Itself'
+      title: The Parable of the Seed that Grows by Itself
+      number: 25
+      content: "For whoever has, more will be given to him, and whoever does not
+        have, even what he has will be taken away from him.\u201D "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "And he said, \u201CThe kingdom of God is like this: like a man scatters
+        seed on the ground. "
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "And he sleeps and gets up, night and day, and the seed sprouts and
+        grows\u2014he does not know how.  "
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'By itself the soil produces a crop: first the grass, then the head
+        of grain, then the full grain in the head. '
+      comments: []
+    - name: '29: The Parable of the Mustard Seed'
+      title: The Parable of the Mustard Seed
+      number: 29
+      content: "But when the crop permits, he sends in the sickle right away, because
+        the harvest has come.\u201D "
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: "And he said, \u201CWith what can we compare the kingdom of God, or
+        by what parable can we present it? "
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'It is like a mustard seed that when sown on the ground, although
+        it is the smallest of all the seeds that are on the ground, '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: "but when it is sown it grows up and becomes the largest of all the
+        garden herbs, and sends out large branches so that the birds of the sky are
+        able to nest in its shade.\u201D "
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'And with many parables such as these he was speaking the word to
+        them, as they were able to hear it.  '
+      comments: []
+    - name: '34: Calming of a Storm'
+      title: Calming of a Storm
+      number: 34
+      content: 'And he did not speak to them without a parable, but in private he
+        explained everything to his own disciples. '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: "And on that day, when it was evening, he said to them, \u201CLet
+        us cross over to the other side.\u201D "
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: 'And leaving the crowd, they took him along, as he was, in the boat.
+        And other boats were with him. '
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: 'And a great storm of wind developed, and the waves were breaking
+        into the boat, so that the boat was already being filled with water.  '
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: "And he was in the stern sleeping on the cushion, and they woke him
+        up and said to him, \u201CTeacher, is it not a concern to you that we are
+        perishing?\u201D "
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: "And he woke up and rebuked the wind, and said to the sea, \u201CBe
+        quiet! Be silent!\u201D And the wind abated and there was a great calm. "
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: "And he said to them, \u201CWhy are you fearful? Do you not yet have
+        faith?\u201D "
+      comments: []
+    - name: '41: '
+      title: 
+      number: 41
+      content: "And they were terribly frightened and began to say to one another,
+        \u201CWho then is this, that even the wind and the sea obey him?\u201D "
+      comments: []
+  - verses:
+    - name: '1: A Demon-possessed Gerasene Healed'
+      title: A Demon-possessed Gerasene Healed
+      number: 1
+      content: ' And they came to the other side of the sea, to the region of the
+        Gerasenes.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And as he was getting out of the boat, immediately from the tombs
+        a man with an unclean spirit went to meet him, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'who lived among the tombs. And no one was able to bind him any longer,
+        not even with a chain, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'because he had often been bound with shackles and chains, and the
+        chains had been torn apart by him, and the shackles had been shattered. And
+        no one was strong enough to subdue him. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And during every night and day among the tombs and on the mountains
+        he was crying out and cutting himself with stones. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And when he saw Jesus from a distance, he ran and knelt down before
+        him. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "And crying out with a loud voice he said, \u201CWhat have I to do
+        with you, Jesus, Son of the Most High God? I implore you by God, do not torment
+        me!\u201D "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "(For he was saying to him, \u201CCome out of the man, unclean spirit!\u201D) "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And he was asking him \u201CWhat is your name?\u201D And he said
+        to him, \u201CMy name is Legion, because we are many.\u201D "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And he was imploring him many times that he would not send them out
+        of the region. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Now a large herd of pigs was there at the hill feeding, '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "and they implored him, saying, \u201CSend us to the pigs so that
+        we may enter into them.\u201D "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And he permitted them. And the unclean spirits came out and entered
+        into the pigs, and the herd\u2014about two thousand\u2014rushed headlong
+        down the steep slope into the sea and were drowned in the sea. "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And their herdsmen fled and reported it in the town and in the countryside,
+        and they came to see what it was that had happened. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "And they came to Jesus and saw the demon-possessed man sitting there
+        clothed and in his right mind\u2014the one who had had the legion\u2014and
+        they were afraid. "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'And those who had seen it described to them what had happened to
+        the demon-possessed man, and about the pigs. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And they began to urge him to depart from their region. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And as he was getting into the boat, the man who had been demon-possessed
+        began to implore him that he could go with him. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "And he did not permit him, but said to him, \u201CGo to your home
+        to your people and tell them all that the Lord has done for you, and that
+        he has had mercy on you.\u201D "
+      comments: []
+    - name: '20: A Woman Healed and a Daughter Raised'
+      title: A Woman Healed and a Daughter Raised
+      number: 20
+      content: 'And he went away and began to proclaim in the Decapolis all that
+        Jesus had done for him, and they were all astonished. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'And after Jesus had crossed over again in the boat to the other side,
+        a large crowd gathered to him, and he was beside the sea. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "And one of the rulers of the synagogue came\u2014Jairus by name\u2014and
+        when he saw him, he fell down at his feet. "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "And he was imploring him many times, saying, \u201CMy little daughter
+        is at the point of death! Come, lay your hands on her, so that she will get
+        well and will live.\u201D "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'And he went with him, and a large crowd was following him and pressing
+        around him. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'And there was a woman who was suffering from hemorrhages twelve years. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'And she had endured many things under many physicians, and had spent
+        all that she had and had received no help at all, but instead became worse.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'When she heard about Jesus, she came up in the crowd behind him and
+        touched his cloak, '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "for she was saying, \u201CIf I touch just his clothing, I will be
+        healed!\u201D "
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'And immediately her hemorrhage stopped and she realized in her body
+        that she was healed of her suffering. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: "And immediately Jesus, perceiving in himself that power had gone
+        out from himself, turned around in the crowd and said, \u201CWho touched
+        my clothing?\u201D "
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: "And his disciples said to him, \u201CYou see the crowd pressing upon
+        you, and you say \u2018Who touched me?\u2019&nbsp;\u201D "
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'And he was looking around to see the one who had done this. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'So the woman, frightened and trembling, knowing what had happened
+        to her, came and fell down before him and told him the whole truth. '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: "But he said to her, \u201CDaughter, your faith has healed you. Go
+        in peace and be well from your suffering.\u201D "
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: "While he was still speaking, they came from the synagogue ruler\u2019s
+        house saying, \u201CYour daughter has died. Why trouble the Teacher further?\u201D "
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: "But Jesus, ignoring what was said, told the ruler of the synagogue,
+        \u201CDo not be afraid\u2014only believe!\u201D "
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: 'And he did not allow anyone to follow along with him except Peter
+        and James and John, the brother of James. '
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: 'And they came to the house of the ruler of the synagogue and saw
+        a commotion, and people weeping and wailing loudly. '
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: "And when he entered, he said to them, \u201CWhy are you agitated
+        and weeping? The child is not dead, but is sleeping.\u201D "
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: 'And they began laughing at him. But he sent them all out and took
+        along the father and mother of the child, and those who were with him, and
+        went in to where the child was. '
+      comments: []
+    - name: '41: '
+      title: 
+      number: 41
+      content: "And taking hold of the child\u2019s hand, he said to her, \u201CTalitha
+        koum!\u201D (which is translated, \u201CLittle girl, I say to you, get up!\u201D), "
+      comments: []
+    - name: '42: '
+      title: 
+      number: 42
+      content: 'and immediately the girl stood up and began walking around (for she
+        was twelve years old). And immediately they were utterly and completely astonished.  '
+      comments: []
+    - name: '43: '
+      title: 
+      number: 43
+      content: 'And he commanded them strictly that no one should learn of this,
+        and said to give her something to eat. '
+      comments: []
+  - verses:
+    - name: '1: Rejected at Nazareth'
+      title: Rejected at Nazareth
+      number: 1
+      content: ' And he went out from there and came to his hometown, and his disciples
+        followed him. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And when the Sabbath came, he began to teach in the synagogue, and
+        many who heard him were amazed, saying, \u201CWhere did this man get these
+        things? And what is this wisdom that has been granted to this man, and the
+        miracles such as these performed through his hands? "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Is not this the carpenter, the son of Mary and brother of James and
+        Joses and Judas and Simon? And are not his sisters here with us?\u201D And
+        they were offended by him. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "And Jesus said to them, \u201CA prophet is not without honor except
+        in his hometown, and among his relatives, and in his own household.\u201D "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And he was not able to do any miracle in that place except to lay
+        his hands on a few sick people and heal them.  '
+      comments: []
+    - name: '6: The Twelve Commissioned and Sent Out'
+      title: The Twelve Commissioned and Sent Out
+      number: 6
+      content: 'And he was astonished because of their unbelief. And he was going
+        around among the villages teaching. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And he summoned the twelve and began to send them out two by two,
+        and gave them authority over the unclean spirits. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And he commanded them that they take along nothing for the journey
+        except only a staff\u2014no bread, no traveler\u2019s bag, no money in their
+        belts\u2014"
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'but to put on sandals and not to wear two tunics. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "And he said to them, \u201CWhenever you enter into a house, stay
+        there until you depart from there. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "And whatever place does not welcome you or listen to you, as you
+        go out from there, shake off the dust that is on your feet for a testimony
+        against them.\u201D "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And they went out and proclaimed that people should repent. '
+      comments: []
+    - name: '13: Herod Kills John the Baptist'
+      title: Herod Kills John the Baptist
+      number: 13
+      content: 'And they were expelling many demons and anointing many sick people
+        with olive oil and healing them.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And King Herod heard it, because his name had become known. And they
+        were saying, \u201CJohn, the one who baptizes, has been raised from the dead,
+        and because of this these miraculous powers are at work in him.\u201D "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "But others were saying, \u201CHe is Elijah,\u201D and others were
+        saying, \u201CHe is a prophet like one of the prophets.\u201D "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "But when Herod heard it, he said, \u201CJohn whom I beheaded\u2014this
+        one has been raised!\u201D "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'For Herod himself had sent and arrested John and bound him in prison
+        because of Herodias, the wife of Philip his brother, because he had married
+        her. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "For John had been saying to Herod, \u201CIt is not permitted for
+        you to have your brother\u2019s wife.\u201D "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'So Herodias held a grudge against him and was wanting to kill him,
+        and was not able to do so. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'For Herod was afraid of John, because he knew him to be a righteous
+        and holy man and protected him. And when he listened to him, he was greatly
+        perplexed, and yet he listened to him gladly. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'And a suitable day came when Herod, on his birthday, gave a banquet
+        for his courtiers and military tribunes and the most prominent men of Galilee. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "And when the daughter of Herodias herself came in and danced and
+        pleased Herod and his dinner guests, the king said to the girl, \u201CAsk
+        me for whatever you want, and I will give it to you.\u201D "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "And he swore to her, \u201CAnything whatever you ask me for I will
+        give you, up to half my kingdom!\u201D "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "And she went out and said to her mother, \u201CWhat should I ask
+        for?\u201D And she said, \u201CThe head of John the baptizer.\u201D "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "And she came in immediately with haste to the king and asked, saying,
+        \u201CI want you to give me the head of John the Baptist on a platter immediately.\u201D "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'And although he was deeply grieved, the king, because of his oaths
+        and dinner guests, did not want to refuse her. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'And immediately the king sent an executioner and ordered him to bring
+        his head. And he went and beheaded him in the prison. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'And he brought his head on a platter and gave it to the girl, and
+        the girl gave it to her mother. '
+      comments: []
+    - name: '29: The Feeding of Five Thousand'
+      title: The Feeding of Five Thousand
+      number: 29
+      content: 'And when his disciples heard this, they came and took away his corpse
+        and placed it in a tomb. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'And the apostles regathered to Jesus and reported to him everything
+        that they had done and that they had taught. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: "And he said to them, \u201CYou yourselves come privately to an isolated
+        place and rest for a short time.\u201D For those who were coming and going
+        were many, and they did not even have time to eat. "
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'And they went away in the boat to an isolated place by themselves. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'And many people saw them leaving and recognized them, and ran there
+        together by land from all the towns, and arrived ahead of them. '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'And getting out of the boat he saw the large crowd and had compassion
+        on them, because they were like sheep without a shepherd, and he began to
+        teach them many things. '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: "And the hour had already become late when his disciples came up to
+        him, saying, \u201CThe place is desolate and the hour is already late. "
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: "Send them away so that they can go into the surrounding farms and
+        villages and purchase something to eat for themselves.\u201D "
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: "But he answered and said to them, \u201CYou give them something to
+        eat.\u201D And they said to him, \u201CShould we go and purchase bread for
+        two hundred denarii and give it to them to eat?\u201D "
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: "And he said to them, \u201CHow many loaves do you have? Go look!\u201D
+        And when they found out, they said, \u201CFive, and two fish.\u201D "
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: 'And he ordered them all to recline in groups on the green grass. '
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: 'And they reclined in groups, by hundreds and by fifties. '
+      comments: []
+    - name: '41: '
+      title: 
+      number: 41
+      content: 'And taking the five loaves and the two fish and looking up to heaven,
+        he gave thanks and broke the loaves and gave them to his disciples so that
+        they could set them before them. And he distributed the two fish to them
+        all. '
+      comments: []
+    - name: '42: '
+      title: 
+      number: 42
+      content: 'And they all ate and were satisfied. '
+      comments: []
+    - name: '43: '
+      title: 
+      number: 43
+      content: 'And they picked up the broken pieces, twelve baskets full, and of
+        the fish. '
+      comments: []
+    - name: '44: Jesus Walks on the Water'
+      title: Jesus Walks on the Water
+      number: 44
+      content: 'And those who ate the loaves were five thousand men. '
+      comments: []
+    - name: '45: '
+      title: 
+      number: 45
+      content: 'And immediately he made his disciples get into the boat and go on
+        ahead to the other side, to Bethsaida, while he himself dismissed the crowd. '
+      comments: []
+    - name: '46: '
+      title: 
+      number: 46
+      content: 'And after he had said farewell to them, he went away to the mountain
+        to pray. '
+      comments: []
+    - name: '47: '
+      title: 
+      number: 47
+      content: 'And when evening came, the boat was in the middle of the sea and
+        he was alone on the land. '
+      comments: []
+    - name: '48: '
+      title: 
+      number: 48
+      content: 'And he saw them being beaten in their rowing because the wind was
+        against them. Around the fourth watch of the night he came to them, walking
+        on the sea, and he was wanting to pass by them. '
+      comments: []
+    - name: '49: '
+      title: 
+      number: 49
+      content: 'But when they saw him walking on the sea, they thought that it was
+        a ghost, and they cried out. '
+      comments: []
+    - name: '50: '
+      title: 
+      number: 50
+      content: "For they all saw him and were terrified. But immediately he spoke
+        with them and said to them, \u201CHave courage, I am he! Do not be afraid!\u201D "
+      comments: []
+    - name: '51: '
+      title: 
+      number: 51
+      content: 'And he went up with them into the boat, and the wind abated. And
+        they were extraordinarily astounded within themselves, '
+      comments: []
+    - name: '52: Many Healed at Gennesaret'
+      title: Many Healed at Gennesaret
+      number: 52
+      content: 'because they did not understand concerning the loaves, but their
+        hearts were hardened. '
+      comments: []
+    - name: '53: '
+      title: 
+      number: 53
+      content: 'And after they had crossed over, they came to land at Gennesaret
+        and anchored there. '
+      comments: []
+    - name: '54: '
+      title: 
+      number: 54
+      content: 'And as they were getting out of the boat, people recognized him immediately. '
+      comments: []
+    - name: '55: '
+      title: 
+      number: 55
+      content: 'They ran about through that whole region and began to carry around
+        those who were sick on stretchers, wherever they heard that he was. '
+      comments: []
+    - name: '56: '
+      title: 
+      number: 56
+      content: 'And wherever he would go, into villages or into towns or to farms,
+        they would put those who were sick in the marketplaces and would implore
+        him that if they could touch even the edge of his cloak. And all those who
+        touched it were healed. '
+      comments: []
+  - verses:
+    - name: "1: Human Traditions and God\u2019s Commandments"
+      title: "Human Traditions and God\u2019s Commandments"
+      number: 1
+      content: ' And the Pharisees and some of the scribes who had come from Jerusalem
+        gathered to him. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And they saw that some of his disciples were eating their bread with
+        unclean\u2014that is, unwashed\u2014hands. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '(For the Pharisees and all the Jews do not eat unless they wash their
+        hands ritually, thus holding fast to the traditions of the elders. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "And when they come from the marketplace, they do not eat unless they
+        wash. And there are many other traditions which they have received and hold
+        fast to\u2014for example, the washing of cups and pitchers and bronze kettles
+        and dining couches.)  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And the Pharisees and the scribes asked him, \u201CWhy do your disciples
+        not live according to the tradition of the elders, but eat their bread with
+        unclean hands?\u201D "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "So he said to them, \u201CIsaiah prophesied correctly about you hypocrites,
+        as it is written, \u2018This people honors me with their lips, but their
+        heart is far, far away from me. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "And they worship me in vain, teaching as doctrines the commandments
+        of men.\u2019  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Abandoning the commandment of God, you hold fast to the tradition
+        of men.\u201D "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And he said to them, \u201CYou splendidly ignore the commandment
+        of God so that you can keep your tradition. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "For Moses said, \u2018Honor your father and your mother,\u2019 and,
+        \u2018The one who speaks evil of father or mother must certainly die.\u2019  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "But you say, \u2018If a man says to his father or to his mother,
+        \u201CWhatever benefit you would have received from me is corban\u201D (that
+        is, a gift to God), "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'you no longer permit him to do anything for his father or his mother, '
+      comments: []
+    - name: '13: Defilement from Within'
+      title: Defilement from Within
+      number: 13
+      content: "thus making void the word of God by your tradition that you have
+        handed down, and you do many similar things such as this.\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And summoning the crowd again, he said to them, \u201CListen to me,
+        all of you, and understand: "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "There is nothing outside of a person that is able to defile him by
+        going into him. But the things that go out of a person are the things that
+        defile a person.\u201D  "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And when he entered into the house away from the crowd, his disciples
+        asked him about the parable. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "And he said to them, \u201CSo are you also without understanding?
+        Do you not understand that everything that is outside that goes into a person
+        is not able to defile him? "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "For it does not enter into his heart but into his stomach, and goes
+        out into the latrine\u201D\u2014thus declaring all foods clean. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "And he said, \u201CWhat comes out of a person, that defiles a person. "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'For from within, from the heart of people, come evil plans, sexual
+        immoralities, thefts, murders, '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'adulteries, acts of greed, malicious deeds, deceit, licentiousness,
+        envy, abusive speech, pride, foolishness. '
+      comments: []
+    - name: "23: A Syrophoenician Woman\u2019s Great Faith"
+      title: "A Syrophoenician Woman\u2019s Great Faith"
+      number: 23
+      content: "All these evil things come from within and defile a person.\u201D "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'And from there he set out and went to the region of Tyre. And when
+        he entered into a house, he wanted no one to know, and yet he was not able
+        to escape notice. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'But immediately a woman whose young daughter was possessed by an
+        unclean spirit, when she heard about him, came and fell down at his feet, '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "Now the woman was a Greek\u2014a Syrophoenician by nationality\u2014and
+        she was asking him that he would expel the demon from her daughter. "
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "And he said to her, \u201CLet the children be satisfied first, for
+        it is not right to take the children\u2019s bread and throw it to the dogs!\u201D "
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "But she answered and said to him, \u201CLord, even the dogs under
+        the table eat the children\u2019s crumbs.\u201D "
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "And he said to her, \u201CBecause of this statement, go! The demon
+        has gone out of your daughter.\u201D "
+      comments: []
+    - name: '30: A Man Deaf and Unable to Speak Healed'
+      title: A Man Deaf and Unable to Speak Healed
+      number: 30
+      content: 'And when she went to her home, she found the child lying on the bed
+        and the demon gone. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'And again he went away from the region of Tyre and came through Sidon
+        to the Sea of Galilee, within the region of the Decapolis. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'And they brought to him a man who was deaf and had difficulty speaking,
+        and they were imploring him that he would place his hand on him. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'And he took him away from the crowd by himself and put his fingers
+        into his ears, and after spitting, he touched his tongue. '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: "And looking up to heaven, he sighed and said to him, \u201CEphphatha!\u201D
+        (that is, \u201CBe opened!\u201D). "
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'And his ears were opened and his difficulty in speaking was removed
+        and he began to speak normally. '
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: 'And he ordered them that they should say nothing, but as much as
+        he ordered them not to, they proclaimed it even more instead. '
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: "And they were amazed beyond all measure, saying, \u201CHe has done
+        all things well! He even makes the deaf hear and the mute speak!\u201D "
+      comments: []
+  - verses:
+    - name: '1: The Feeding of Four Thousand'
+      title: The Feeding of Four Thousand
+      number: 1
+      content: ' In those days there was again a large crowd, and they did not have
+        anything they could eat. Summoning the disciples, he said to them, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CI have compassion on the crowd, because they have remained
+        with me three days already and do not have anything to eat. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And if I send them away hungry to their homes they will give out
+        on the way, and some of them have come from far away.\u201D "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "And his disciples answered him, \u201CWhere is anyone able to feed
+        these people with bread here in the desert?\u201D "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And he asked them, \u201CHow many loaves do you have?\u201D So they
+        said, \u201CSeven.\u201D "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And he commanded the crowd to recline for a meal on the ground, and
+        taking the seven loaves, after he had given thanks he broke them and began
+        giving them to his disciples so that they could set them before them. And
+        they set them before the crowd. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And they had a few small fish, and after giving thanks for them,
+        he said to set these before them also. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And they ate and were satisfied, and they picked up the broken pieces
+        that were left, seven baskets full. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Now there were about four thousand. And he sent them away. '
+      comments: []
+    - name: '10: Pharisees Demand a Sign'
+      title: Pharisees Demand a Sign
+      number: 10
+      content: 'And immediately he got into the boat with his disciples and went
+        to the district of Dalmanutha. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And the Pharisees came and began to argue with him, demanding from
+        him a sign from heaven in order to test him. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "And sighing deeply in his spirit, he said, \u201CWhy does this generation
+        demand a sign? Truly I say to you, no sign will be given to this generation!\u201D "
+      comments: []
+    - name: '13: Beware the Leaven of the Pharisees and Herod'
+      title: Beware the Leaven of the Pharisees and Herod
+      number: 13
+      content: 'And he left them, got into the boat again, and went to the other
+        side. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And they had forgotten to take bread, and except for one loaf, they
+        did not have any with them in the boat. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "And he ordered them, saying, \u201CWatch out! Beware of the leaven
+        of the Pharisees and the leaven of Herod!\u201D "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'And they began to discuss with one another that they had no bread. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "And knowing this, he said to them, \u201CWhy are you discussing that
+        you have no bread? Do you not yet perceive or understand? Have your hearts
+        been hardened? "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Although you have eyes, do you not see? And although you have ears,
+        do you not hear? And do you not remember? '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "When I broke the five loaves for the five thousand how many baskets
+        full of broken pieces did you pick up?\u201D They said to him, \u201CTwelve.\u201D "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "\u201CWhen I also broke the seven loaves for the four thousand, how
+        many baskets full of broken pieces did you pick up?\u201D And they said to
+        him, \u201CSeven.\u201D "
+      comments: []
+    - name: '21: A Blind Man Healed at Bethsaida'
+      title: A Blind Man Healed at Bethsaida
+      number: 21
+      content: "And he said to them, \u201CDo you not yet understand?\u201D "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'And they came to Bethsaida. And they brought to him a blind man and
+        implored him that he would touch him. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "And he took hold of the blind man\u2019s hand and led him outside
+        the village, and after spitting in his eyes, he placed his hands on him and
+        asked him, \u201CDo you see anything?\u201D "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "And looking up he said, \u201CI see people, for I see them like trees
+        walking around.\u201D "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Then he placed his hands on his eyes again, and he opened his eyes
+        and was cured, and could see everything clearly. '
+      comments: []
+    - name: "26: Peter\u2019s Confession at Caesarea Philippi"
+      title: "Peter\u2019s Confession at Caesarea Philippi"
+      number: 26
+      content: "And he sent him to his home, saying, \u201CDo not even go into the
+        village.\u201D "
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "And Jesus and his disciples went out to the villages of Caesarea
+        Philippi, and on the way he asked his disciples, saying to them, \u201CWho
+        do people say that I am?\u201D "
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "And they told him, saying, \u201CJohn the Baptist, and others Elijah,
+        and others that you are one of the prophets.\u201D "
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "And he asked them, \u201CBut who do you say that I am?\u201D Peter
+        answered and said to him, \u201CYou are the Christ!\u201D "
+      comments: []
+    - name: '30: Jesus Predicts His Death and Resurrection'
+      title: Jesus Predicts His Death and Resurrection
+      number: 30
+      content: 'And he warned them that they should tell no one about him. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'And he began to teach them that it was necessary for the Son of Man
+        to suffer many things and to be rejected by the elders and the chief priests
+        and the scribes, and to be killed, and after three days to rise. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'And he was speaking openly about the subject, and Peter took him
+        aside and began to rebuke him. '
+      comments: []
+    - name: "33: Taking Up One\u2019s Cross to Follow Jesus"
+      title: "Taking Up One\u2019s Cross to Follow Jesus"
+      number: 33
+      content: "But turning around and seeing his disciples, he rebuked Peter and
+        said, \u201CGet behind me, Satan, because you are not setting your mind on
+        the things of God, but the things of people!\u201D "
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: "And summoning the crowd together with his disciples, he said to them,
+        \u201CIf anyone wants to come after me, let him deny himself and take up
+        his cross and follow me. "
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'For whoever wants to save his life will lose it, but whoever loses
+        his life on account of me and of the gospel will save it. '
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: 'For what does it benefit a person to gain the whole world and forfeit
+        his life? '
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: 'For what can a person give in exchange for his life? '
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: "For whoever is ashamed of me and my words in this adulterous and
+        sinful generation, the Son of Man will also be ashamed of him when he comes
+        in the glory of his Father with the holy angels.\u201D "
+      comments: []
+  - verses:
+    - name: '1: The Transfiguration'
+      title: The Transfiguration
+      number: 1
+      content: " And he said to them, \u201CTruly I say to you, that there are some
+        of those standing here who will never experience death until they see the
+        kingdom of God having come with power.\u201D "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And after six days, Jesus took along Peter and James and John, and
+        led them to a high mountain by themselves alone. And he was transfigured
+        before them, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "and his clothing became radiant\u2014extremely white, like no cloth
+        refiner on earth can make so white.  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And Elijah appeared to them together with Moses, and they were talking
+        with Jesus. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And Peter answered and said to Jesus, \u201CRabbi, it is good that
+        we are here! And let us make three shelters, one for you and one for Moses
+        and one for Elijah.\u201D "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '(For he did not know what he should answer, because they were terrified.) '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "And a cloud came, overshadowing them, and a voice came from the cloud,
+        \u201CThis is my beloved Son. Listen to him!\u201D "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And suddenly, looking around, they no longer saw anyone with them
+        but Jesus alone. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And as they were coming down from the mountain, he ordered them that
+        they should tell no one the things that they had seen, except when the Son
+        of Man had risen from the dead. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And they kept the matter to themselves, discussing what this rising
+        from the dead meant.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "And they asked him, saying, \u201CWhy do the scribes say that Elijah
+        must come first?\u201D "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "And he said to them, \u201CElijah indeed does come first and restores
+        all things. And how is it written concerning the Son of Man that he should
+        suffer many things and be treated with contempt? "
+      comments: []
+    - name: '13: A Demon-possessed Boy Healed'
+      title: A Demon-possessed Boy Healed
+      number: 13
+      content: "But I tell you that indeed Elijah has come, and they did to him whatever
+        they wanted, just as it is written about him.\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And when they came to the disciples, they saw a large crowd around
+        them and scribes arguing with them. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And immediately the whole crowd, when they saw him, were amazed,
+        and ran up to him and greeted him. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "And he asked them, \u201CWhat are you arguing about with them?\u201D "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "And one individual from the crowd answered him, \u201CTeacher, I
+        brought to you my son who has a spirit that makes him mute.  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And whenever it seizes him, it throws him down and he foams at the
+        mouth and grinds his teeth and becomes paralyzed. And I told your disciples
+        that they should expel it, and they were not able to do so.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "And he answered them and said, \u201CO unbelieving generation! How
+        long will I be with you? How long must I put up with you? Bring him to me!\u201D "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'And they brought him to him. And when he saw him, the spirit immediately
+        convulsed him, and falling on the ground, he began to roll around, foaming
+        at the mouth. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "And he asked his father how long it was since this had been happening
+        to him. And he said, \u201CFrom childhood. "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "And often it has thrown him both into fire and into water, in order
+        that it could destroy him. But if you are able to do anything, have compassion
+        on us and help us!\u201D "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "But Jesus said to him, \u201CIf you are able! All things are possible
+        for the one who believes!\u201D "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "Immediately the father of the child cried out and said, \u201CI believe!
+        Help my unbelief!\u201D "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "Now when Jesus saw that a crowd was running together, he rebuked
+        the unclean spirit, saying to it, \u201CMute and deaf spirit, I command you,
+        come out of him, and enter into him no more!\u201D "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "And it came out, screaming and convulsing him greatly, and he became
+        as if he were dead, so that most of them said, \u201CHe has died!\u201D "
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'But Jesus took hold of his hand and raised him up, and he stood up. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "And after he had entered into the house, his disciples asked him
+        privately, \u201CWhy were we not able to expel it?\u201D "
+      comments: []
+    - name: '29: Jesus Predicts His Death and Resurrection a Second Time'
+      title: Jesus Predicts His Death and Resurrection a Second Time
+      number: 29
+      content: "And he said to them, \u201CThis kind can come out by nothing except
+        by prayer.\u201D  "
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'And from there they went out and passed through Galilee. And he did
+        not want anyone to know, '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: "for he was teaching his disciples and was telling them, \u201CThe
+        Son of Man is being betrayed into the hands of men, and they will kill him.
+        And when he is killed, after three days he will rise.\u201D "
+      comments: []
+    - name: '32: The Question About Who Is Greatest'
+      title: The Question About Who Is Greatest
+      number: 32
+      content: 'But they did not understand the statement, and they were afraid to
+        ask him. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: "And they came to Capernaum. And after he was in the house, he asked
+        them, \u201CWhat were you discussing on the way?\u201D "
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'But they were silent, because they had argued with one another on
+        the way about who was greatest. '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: "And he sat down and called the twelve and said to them, \u201CIf
+        anyone wants to be first, he will be last of all and servant of all.\u201D "
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: 'And he took a young child and had him stand among them. And taking
+        him in his arms, he said to them, '
+      comments: []
+    - name: '37: Whoever Is Not Against Us Is for Us'
+      title: Whoever Is Not Against Us Is for Us
+      number: 37
+      content: "\u201CWhoever welcomes one of the young children such as these in
+        my name welcomes me, and whoever welcomes me does not welcome me, but the
+        one who sent me.\u201D "
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: "John said to him, \u201CTeacher, we saw someone expelling demons
+        in your name, and we tried to prevent him because he was not following us.\u201D "
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: "But Jesus said, \u201CDo not prevent him, because there is no one
+        who does a miracle in my name and will be able soon afterward to speak evil
+        of me. "
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: 'For whoever is not against us is for us. '
+      comments: []
+    - name: '41: Temptations to Sin'
+      title: Temptations to Sin
+      number: 41
+      content: "For whoever gives you a cup of water to drink in my name because
+        you are Christ\u2019s, truly I say to you that he will never lose his reward. "
+      comments: []
+    - name: '42: '
+      title: 
+      number: 42
+      content: "\u201CAnd whoever causes one of these little ones who believe in
+        me to sin, it is better for him if instead a large millstone is placed around
+        his neck and he is thrown into the sea. "
+      comments: []
+    - name: '43: '
+      title: 
+      number: 43
+      content: "And if your hand causes you to sin, cut it off! It is better for
+        you to enter into life crippled than, having two hands, to go into hell\u2014into
+        the unquenchable fire!  "
+      comments: []
+    - name: '45: '
+      title: 
+      number: 45
+      content: 'And if your foot causes you to sin, cut it off! It is better for
+        you to enter into life lame than, having two feet, to be thrown into hell!  '
+      comments: []
+    - name: '47: '
+      title: 
+      number: 47
+      content: 'And if your eye causes you to sin, tear it out! It is better for
+        you to enter into the kingdom of God with one eye than, having two eyes,
+        to be thrown into hell, '
+      comments: []
+    - name: '48: '
+      title: 
+      number: 48
+      content: "\u2018where their worm does not die and the fire is not extinguished.\u2019  "
+      comments: []
+    - name: '49: '
+      title: 
+      number: 49
+      content: 'For everyone will be salted with fire. '
+      comments: []
+    - name: '50: '
+      title: 
+      number: 50
+      content: "Salt is good, but if the salt becomes deprived of its salt content,
+        by what can you make it salty? Have salt among yourselves, and be at peace
+        with one another.\u201D "
+      comments: []
+  - verses:
+    - name: '1: On Divorce'
+      title: On Divorce
+      number: 1
+      content: ' And from there he set out and came to the region of Judea and the
+        other side of the Jordan, and again crowds came together to him. And again,
+        as he was accustomed to do, he began to teach them. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And they asked him if it was permitted for a man to divorce his wife,
+        in order to test him. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And he answered and said to them, \u201CWhat did Moses command you?\u201D "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "So they said, \u201CMoses permitted a man to write a certificate
+        of divorce and to send her away.\u201D "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "But Jesus said to them, \u201CHe wrote this commandment for you because
+        of your hardness of heart. "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "But from the beginning of creation \u2018he made them male and female.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Because of this a man will leave his father and mother and will be
+        joined to his wife,  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "and the two will become one flesh,\u2019 so that they are no longer
+        two but one flesh. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Therefore what God has joined together, man must not separate.\u201D "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And in the house again the disciples began to ask him about this. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "And he said to them, \u201CWhoever divorces his wife and marries
+        another commits adultery against her. "
+      comments: []
+    - name: '12: Little Children Brought to Jesus'
+      title: Little Children Brought to Jesus
+      number: 12
+      content: "And if she divorces her husband and marries another, she commits
+        adultery.\u201D "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And they were bringing young children to him so that he could touch
+        them, but the disciples rebuked them. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "But when Jesus saw it, he was indignant, and said to them, \u201CLet
+        the young children come to me. Do not forbid them, for to such belongs the
+        kingdom of God. "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "Truly I say to you, whoever does not welcome the kingdom of God like
+        a young child will never enter into it.\u201D "
+      comments: []
+    - name: '16: A Rich Young Man'
+      title: A Rich Young Man
+      number: 16
+      content: 'And after taking them into his arms, he blessed them, placing his
+        hands on them. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "And as he was setting out on his way, one individual ran up and knelt
+        down before him and asked him, \u201CGood Teacher, what must I do so that
+        I will inherit eternal life?\u201D "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "So Jesus said to him, \u201CWhy do you call me good? No one is good
+        except God alone. "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "You know the commandments: \u2018Do not murder, do not commit adultery,
+        do not steal, do not give false testimony, do not defraud, honor your father
+        and mother.\u2019&nbsp;\u201D  "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "And he said to him, \u201CTeacher, all these I have observed from
+        my youth.\u201D "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "And Jesus, looking at him, loved him, and said to him, \u201CYou
+        lack one thing: Go, sell all that you have, and give the proceeds to the
+        poor\u2014and you will have treasure in heaven\u2014and come, follow me.\u201D "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'But he looked gloomy at the statement and went away sorrowful, because
+        he had many possessions. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "And Jesus looked around and said to his disciples, \u201CHow difficult
+        it is for those who possess wealth to enter into the kingdom of God!\u201D "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "And the disciples were astounded at his words. But Jesus answered
+        and said to them again, \u201CChildren, how difficult it is to enter into
+        the kingdom of God! "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "It is easier for a camel to go through the eye of a needle than for
+        a rich person to enter into the kingdom of God.\u201D "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "And they were very astounded, saying to one another, \u201CAnd who
+        can be saved?\u201D "
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "Jesus looked at them and said, \u201CWith human beings it is impossible,
+        but not with God. For all things are possible with God.\u201D "
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "Peter began to say to him, \u201CBehold, we have left everything
+        and followed you.\u201D "
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "Jesus said, \u201CTruly I say to you, there is no one who has left
+        house or brothers or sisters or mother or father or children or fields on
+        account of me and on account of the gospel "
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: "who will not receive a hundred times as much now in this time\u2014houses
+        and brothers and sisters and mothers and children and fields, together with
+        persecutions\u2014and in the age to come, eternal life. "
+      comments: []
+    - name: '31: Jesus Predicts His Death and Resurrection a Third Time'
+      title: Jesus Predicts His Death and Resurrection a Third Time
+      number: 31
+      content: "But many who are first will be last, and the last first.\u201D "
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Now they were on the road going up to Jerusalem, and Jesus was going
+        on ahead of them. And they were astounded, but those who were following him
+        were afraid. And taking aside the twelve again, he began to tell them the
+        things that were about to happen to him: '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: "\u201CBehold, we are going up to Jerusalem, and the Son of Man will
+        be handed over to the chief priests and the scribes, and they will condemn
+        him to death and will hand him over to the Gentiles. "
+      comments: []
+    - name: '34: A Request by James and John'
+      title: A Request by James and John
+      number: 34
+      content: "And they will mock him and spit on him and flog him and kill him,
+        and after three days he will rise.\u201D "
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: "And James and John, the sons of Zebedee, came up to him and said
+        to him, \u201CTeacher, we want you to do for us whatever we ask you.\u201D "
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: "And he said to them, \u201CWhat do you want that I do for you?\u201D "
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: "So they said to him, \u201CGrant to us that we may sit one at your
+        right hand and one at your left in your glory.\u201D "
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: "But Jesus said to them, \u201CYou do not know what you are asking!
+        Are you able to drink the cup that I drink, or to be baptized with the baptism
+        that I am baptized with?\u201D "
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: "And they said to him, \u201CWe are able.\u201D So Jesus said to them,
+        \u201CYou will drink the cup that I drink, and you will be baptized with
+        the baptism that I am baptized with, "
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: "but to sit at my right hand or at my left is not mine to grant, but
+        is for those for whom it has been prepared.\u201D "
+      comments: []
+    - name: '41: '
+      title: 
+      number: 41
+      content: 'And when they heard this, the ten began to be indignant about James
+        and John. '
+      comments: []
+    - name: '42: '
+      title: 
+      number: 42
+      content: "And Jesus called them to himself and said to them, \u201CYou know
+        that those who are considered to rule over the Gentiles lord it over them,
+        and their people in high positions exercise authority over them. "
+      comments: []
+    - name: '43: '
+      title: 
+      number: 43
+      content: 'But it is not like this among you! But whoever wants to become great
+        among you must be your servant, '
+      comments: []
+    - name: '44: '
+      title: 
+      number: 44
+      content: 'and whoever wants to be most prominent among you must be the slave
+        of all. '
+      comments: []
+    - name: '45: A Blind Man Healed at Jericho'
+      title: A Blind Man Healed at Jericho
+      number: 45
+      content: "For even the Son of Man did not come to be served, but to serve,
+        and to give his life as a ransom for many.\u201D "
+      comments: []
+    - name: '46: '
+      title: 
+      number: 46
+      content: 'And they came to Jericho. And as he was setting out from Jericho
+        along with his disciples and a large crowd, a blind beggar, Bartimaeus the
+        son of Timaeus, was sitting beside the road. '
+      comments: []
+    - name: '47: '
+      title: 
+      number: 47
+      content: "And when he heard that it was Jesus the Nazarene, he began to cry
+        out and say, \u201CJesus, Son of David, have mercy on me!\u201D "
+      comments: []
+    - name: '48: '
+      title: 
+      number: 48
+      content: "And many people warned him that he should be quiet. But he was crying
+        out even more loudly, \u201CSon of David, have mercy on me!\u201D "
+      comments: []
+    - name: '49: '
+      title: 
+      number: 49
+      content: "And Jesus stopped and said, \u201CCall him.\u201D And they called
+        the blind man and said to him, \u201CHave courage! Get up! He is calling
+        you.\u201D "
+      comments: []
+    - name: '50: '
+      title: 
+      number: 50
+      content: 'And he threw off his cloak, jumped up, and came to Jesus. '
+      comments: []
+    - name: '51: '
+      title: 
+      number: 51
+      content: "And Jesus answered him and said, \u201CWhat do you want me to do
+        for you?\u201D And the blind man said to him, \u201CRabboni, that I may regain
+        my sight.\u201D "
+      comments: []
+    - name: '52: '
+      title: 
+      number: 52
+      content: "And Jesus said to him, \u201CGo, your faith has healed you.\u201D
+        And immediately he regained his sight and began to follow him on the road. "
+      comments: []
+  - verses:
+    - name: '1: The Triumphal Entry'
+      title: The Triumphal Entry
+      number: 1
+      content: ' And when they came near to Jerusalem, to Bethphage and Bethany at
+        the Mount of Olives, he sent two of his disciples '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "and said to them, \u201CGo into the village before you, and right
+        away as you enter into it you will find a colt tied, on which no one has
+        ever sat. Untie it and bring it.  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And if anyone says to you, \u2018Why are you doing this?\u2019 say
+        \u2018The Lord has need of it, and will send it here again at once.\u2019&nbsp;\u201D "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And they went away and found a colt tied at a door outside in the
+        street, and they untied it. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And some of those who were standing there said to them, \u201CWhat
+        are you doing, untying the colt?\u201D "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'So they told them, just as Jesus had said, and they allowed them
+        to take it.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And they brought the colt to Jesus and threw their cloaks over it,
+        and he sat on it. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And many people spread their cloaks on the road, and others spread
+        leafy branches they had cut from the fields. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And those who went ahead and those who were following were shouting,
+        \u201CHosanna! Blessed is the one who comes in the name of the Lord!  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Blessed is the coming kingdom of our father David! Hosanna in the
+        highest heaven!\u201D  "
+      comments: []
+    - name: '11: A Barren Fig Tree Cursed'
+      title: A Barren Fig Tree Cursed
+      number: 11
+      content: 'And he went into Jerusalem to the temple, and after looking around
+        at everything, because the hour was already late, he went out to Bethany
+        with the twelve. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And on the next day as they were departing from Bethany, he was hungry. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And when he saw from a distance a fig tree that had leaves, he went
+        to see if perhaps he would find anything on it. And when he came up to it
+        he found nothing except leaves, because it was not the season for figs. '
+      comments: []
+    - name: '14: The Cleansing of the Temple'
+      title: The Cleansing of the Temple
+      number: 14
+      content: "And he responded and said to it, \u201CLet no one eat fruit from
+        you any more forever!\u201D And his disciples heard it.  "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And they came to Jerusalem. And he entered into the temple courts
+        and began to drive out those who were selling and those who were buying in
+        the temple courts, and overturned the tables of the money changers and the
+        chairs of those who were selling doves. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'And he did not permit anyone to carry objects through the temple
+        courts.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "And he began to teach and was saying to them, \u201CIs it not written,
+        \u2018My house will be called a house of prayer for all the nations,\u2019 
+        but you have made it a cave of robbers!\u201D "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And the chief priests and the scribes heard it, and began considering
+        how they could destroy him. For they were afraid of him because the whole
+        crowd was astounded by his teaching. '
+      comments: []
+    - name: '19: The Barren Fig Tree Withered'
+      title: The Barren Fig Tree Withered
+      number: 19
+      content: 'And when evening came they went out of the city. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'And as they passed by early in the morning, they saw the fig tree
+        withered from the roots. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "And Peter remembered and said to him, \u201CRabbi, look! The fig
+        tree that you cursed has withered!\u201D "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "And Jesus answered and said to them, \u201CHave faith in God! "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "Truly I say to you that whoever says to this mountain, \u2018Be lifted
+        up and thrown into the sea!\u2019 and does not doubt in his heart, but believes
+        that what he says will happen, it will be done for him. "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'For this reason I say to you, whatever you pray and ask for, believe
+        that you have received it, and it will be done for you. '
+      comments: []
+    - name: "25: Jesus\u2019 Authority Challenged"
+      title: "Jesus\u2019 Authority Challenged"
+      number: 25
+      content: "And whenever you stand praying, if you have anything against anyone,
+        forgive him, so that your Father who is in heaven will also forgive you your
+        sins.\u201D  "
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'And they came again to Jerusalem. And as he was walking in the temple
+        courts, the chief priests and the scribes and the elders came up to him '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "and said to him, \u201CBy what authority are you doing these things,
+        or who gave you this authority that you do these things?\u201D "
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "So Jesus said to them, \u201CI will ask you one question. Answer
+        me and I will tell you by what authority I am doing these things. "
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: "The baptism of John\u2014was it from heaven or from men? Answer me!\u201D "
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: "And they began to discuss this with one another, saying, \u201CWhat
+        should we say? If we say \u2018From heaven,\u2019 he will say, \u2018Why
+        then did you not believe him?\u2019 "
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: "But if we say, \u2018From men\u2019&nbsp;\u201D\u2014they were afraid
+        of the crowd, because they all looked upon John as truly a prophet.  "
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: "And they replied to Jesus saying, \u201CWe do not know.\u201D And
+        Jesus said to them, \u201CNeither will I tell you by what authority I am
+        doing these things.\u201D "
+      comments: []
+  - verses:
+    - name: '1: The Parable of the Tenant Farmers in the Vineyard'
+      title: The Parable of the Tenant Farmers in the Vineyard
+      number: 1
+      content: " And he began to speak to them in parables: \u201CA man planted a
+        vineyard, and put a fence around it, and dug a trough for the winepress,
+        and built a watchtower, and leased it to tenant farmers, and went on a journey. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And he sent a slave to the tenant farmers at the proper time, so
+        that he could collect some of the fruit of the vineyard from the tenant farmers. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And they seized him and beat him and sent him away empty-handed. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And again he sent to them another slave, and that one they struck
+        on the head and dishonored. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And he sent another, and that one they killed. And he sent many others,
+        some of whom they beat and some of whom they killed. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "He had one more, a beloved son. Last of all he sent him to them,
+        saying, \u2018They will respect my son.\u2019 "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "But those tenant farmers said to one another, \u2018This is the heir.
+        Come, let us kill him and the inheritance will be ours!\u2019 "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And they seized and killed him and threw him out of the vineyard. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'What will the owner of the vineyard do? He will come and destroy
+        the tenant farmers and give the vineyard to others. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Have you not read this scripture: \u2018The stone which the builders
+        rejected, this has become the cornerstone.  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "This came about from the Lord, and it is marvelous in our eyes\u2019?\u201D  "
+      comments: []
+    - name: '12: Paying Taxes to Caesar'
+      title: Paying Taxes to Caesar
+      number: 12
+      content: 'And they were seeking to arrest him, and they were afraid of the
+        crowd, because they knew that he had told the parable with reference to them.
+        And they left him and went away. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And they sent some of the Pharisees and the Herodians to him so that
+        they could catch him unawares in a statement. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And when they came, they said to him, \u201CTeacher, we know that
+        you are truthful and you do not care what anyone thinks, because you do not
+        regard the opinion of people but teach the way of God in truth. Is it permitted
+        to pay taxes to Caesar or not? Should we pay or should we not pay?\u201D "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "But because he knew their hypocrisy, he said to them, \u201CWhy are
+        you testing me? Bring me a denarius so that I can look at it!\u201D  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "So they brought one. And he said to them, \u201CWhose image and inscription
+        is this?\u201D And they said to him, \u201CCaesar\u2019s.\u201D "
+      comments: []
+    - name: '17: A Question About Marriage and the Resurrection'
+      title: A Question About Marriage and the Resurrection
+      number: 17
+      content: "And Jesus said to them, \u201CGive to Caesar the things of Caesar,
+        and to God the things of God!\u201D And they were utterly amazed at him. "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "And Sadducees\u2014who say there is no resurrection\u2014came up
+        to him and began to ask him, saying, "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "\u201CTeacher, Moses wrote for us that if someone\u2019s brother
+        dies and he leaves behind a wife and does not leave a child, that his brother
+        should take the wife and father descendants for his brother. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'There were seven brothers, and the first took a wife. And when he
+        died, he did not leave descendants. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'And the second took her, and he died without leaving descendants.
+        And the third likewise. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'And the seven did not leave descendants. Last of all the woman also
+        died. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'In the resurrection, when they rise, whose wife will she be? For
+        the seven had her as wife. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "Jesus said to them, \u201CAre you not deceived because of this, because
+        you do not know the scriptures or the power of God? "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'For when they rise from the dead, they neither marry nor are given
+        in marriage, but are like angels in heaven. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "Now concerning the dead, that they are raised, have you not read
+        in the book of Moses in the passage about the bush how God spoke to him,
+        saying, \u2018I am the God of Abraham and the God of Isaac and the God of
+        Jacob\u2019?  "
+      comments: []
+    - name: '27: The Greatest Commandment'
+      title: The Greatest Commandment
+      number: 27
+      content: "He is not God of the dead, but of the living. You are very much mistaken!\u201D "
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "And one of the scribes came up and heard them debating. When he saw
+        that he answered them well, he asked him, \u201CWhich commandment is the
+        most important of all?\u201D "
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "Jesus answered, \u201CThe most important is, \u2018Listen, Israel!
+        The Lord our God, the Lord is one. "
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: "And you shall love the Lord your God from your whole heart and from
+        your whole soul and from your whole mind and from your whole strength.\u2019  "
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: "The second is this: \u2018You shall love your neighbor as yourself.\u2019
+        There is no other commandment greater than these.\u201D "
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: "And the scribe said to him, \u201CThat is true, Teacher. You have
+        said correctly that he is one and there is no other except him. "
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: "And to love him from your whole heart and from your whole understanding
+        and from your whole strength, and to love your neighbor as yourself, is much
+        more than all whole burnt offerings and sacrifices.\u201D "
+      comments: []
+    - name: "34: David\u2019s Son and Lord"
+      title: "David\u2019s Son and Lord"
+      number: 34
+      content: "And Jesus, when he saw that he had answered thoughtfully, said to
+        him, \u201CYou are not far from the kingdom of God.\u201D And no one dared
+        to put a question to him any longer. "
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: "And continuing, Jesus said while teaching in the temple courts, \u201CHow
+        can the scribes say that the Christ is David\u2019s son? "
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: "David himself said by the Holy Spirit, \u2018The Lord said to my
+        Lord, \u201CSit at my right hand, until I put your enemies under your feet.\u201D&nbsp;\u2019  "
+      comments: []
+    - name: '37: Warning to Beware of the Scribes'
+      title: Warning to Beware of the Scribes
+      number: 37
+      content: "David himself calls him \u2018Lord,\u2019 and how is he his son?\u201D
+        And the large crowd was listening to him gladly. "
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: "And in his teaching he said, \u201CBeware of the scribes, who like
+        walking around in long robes and greetings in the marketplaces "
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: 'and the best seats in the synagogues and the places of honor at banquets, '
+      comments: []
+    - name: "40: A Poor Widow\u2019s Offering"
+      title: "A Poor Widow\u2019s Offering"
+      number: 40
+      content: "who devour the houses of widows and pray lengthy prayers for the
+        sake of appearance. These will receive more severe condemnation!\u201D "
+      comments: []
+    - name: '41: '
+      title: 
+      number: 41
+      content: 'And he sat down opposite the contribution box and was observing how
+        the crowd was putting coins into the contribution box. And many rich people
+        were putting in many coins.  '
+      comments: []
+    - name: '42: '
+      title: 
+      number: 42
+      content: 'And one poor widow came and put in two small copper coins (that is,
+        a penny).  '
+      comments: []
+    - name: '43: '
+      title: 
+      number: 43
+      content: "And summoning his disciples, he said to them, \u201CTruly I say to
+        you that this poor widow put in more than all those who put offerings into
+        the contribution box. "
+      comments: []
+    - name: '44: '
+      title: 
+      number: 44
+      content: "For they all contributed out of their abundance, but she out of her
+        poverty put in everything she had, her whole means of subsistence.\u201D "
+      comments: []
+  - verses:
+    - name: '1: The Destruction of the Temple Predicted'
+      title: The Destruction of the Temple Predicted
+      number: 1
+      content: " And as he was going out of the temple courts, one of his disciples
+        said to him, \u201CTeacher, look! What great stones and what wonderful buildings!\u201D "
+      comments: []
+    - name: '2: Signs of the End of the Age'
+      title: Signs of the End of the Age
+      number: 2
+      content: "And Jesus said to him, \u201CDo you see these great buildings? Not
+        one stone will be left here on another stone that will not be thrown down!\u201D "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And as he was sitting on the Mount of Olives opposite the temple,
+        Peter and James and John and Andrew asked him privately, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CTell us, when will these things happen, and what will be the
+        sign when all these things are about to be accomplished?\u201D "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "So Jesus began to say to them, \u201CWatch out that no one deceives
+        you! "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Many will come in my name, saying, \u2018I am he,\u2019 and they
+        will deceive many. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And when you hear about wars and rumors of wars, do not be alarmed.
+        This must happen, but the end is not yet. '
+      comments: []
+    - name: '8: Persecution of Disciples Predicted'
+      title: Persecution of Disciples Predicted
+      number: 8
+      content: 'For nation will rise up against nation and kingdom against kingdom.
+        There will be earthquakes in various places. There will be famines. These
+        things are the beginning of birth pains. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CBut you, watch out for yourselves! They will hand you over
+        to councils and you will be beaten in the synagogues and will have to stand
+        before governors and kings because of me, for a witness to them. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And the gospel must first be proclaimed to all the nations.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And when they arrest you and hand you over, do not be anxious beforehand
+        what you should say, but whatever is given to you at that hour, say this.
+        For you are not the ones who are speaking, but the Holy Spirit. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And brother will hand over brother to death, and a father his child,
+        and children will rise up against parents and have them put to death. '
+      comments: []
+    - name: '13: The Abomination of Desolation'
+      title: The Abomination of Desolation
+      number: 13
+      content: "And you will be hated by all because of my name. But the one who
+        endures to the end\u2014this one will be saved. "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201CBut when you see the abomination of desolation standing where
+        it should not be\u201D (let the one who reads understand), \u201Cthen those
+        in Judea must flee to the mountains! "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The one who is on his housetop must not come down or go inside to
+        take anything out of his house, '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'and the one who is in the field must not turn back to pick up his
+        cloak. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And woe to those who are pregnant and to those who are nursing their
+        babies in those days! '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'But pray that it will not happen in winter. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'For in those days there will be tribulation of such a kind as has
+        not happened from the beginning of the creation that God created until now,
+        and never will happen. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'And if the Lord had not shortened the days, no human being would
+        be saved. But for the sake of the elect, whom he chose, he has shortened
+        the days. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "\u201CAnd at that time if anyone should say to you, \u201CBehold,
+        here is the Christ,\u2019&nbsp;\u2018Behold, there he is,\u2019 do not believe
+        him!  "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'For false messiahs and false prophets will appear, and will produce
+        signs and wonders in order to mislead, if possible, the elect. '
+      comments: []
+    - name: '23: The Arrival of the Son of Man'
+      title: The Arrival of the Son of Man
+      number: 23
+      content: 'But you, watch out! I have told you everything ahead of time! '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "\u201CBut in those days, after that tribulation, \u2018the sun will
+        be darkened and the moon will not give its light, "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "and the stars will be falling from heaven, and the powers in the
+        heavens will be shaken.\u2019  "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'And then they will see the Son of Man arriving in the clouds with
+        great power and glory. '
+      comments: []
+    - name: '27: The Parable of the Fig Tree'
+      title: The Parable of the Fig Tree
+      number: 27
+      content: 'And then he will send out the angels, and will gather the elect together
+        from the four winds, from the end of the earth to the end of heaven. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "\u201CNow learn the parable from the fig tree: Whenever its branch
+        has already become tender and puts forth its leaves, you know that summer
+        is near. "
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'So also you, when you see these things happening, know that he is
+        near, at the door. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Truly I say to you that this generation will never pass away until
+        all these things take place! '
+      comments: []
+    - name: '31: The Unknown Day and Hour'
+      title: The Unknown Day and Hour
+      number: 31
+      content: 'Heaven and earth will pass away, but my words will never pass away. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: "\u201CBut concerning that day or hour no one knows\u2014not even
+        the angels in heaven nor the Son\u2014except the Father. "
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'Watch out! Be alert, because you do not know when the time is! '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: "It is like a man away on a journey, who left his house and gave his
+        slaves authority\u2014to each one his work\u2014and to the doorkeeper he
+        gave orders that he should be on the alert. "
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: "Therefore be on the alert, for you do not know when the master of
+        the house is coming\u2014whether in the evening, or at midnight, or when
+        the rooster crows, or early in the morning\u2014"
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: 'lest he arrive suddenly and find you sleeping. '
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: "And what I say to you, I say to everyone: Be on the alert!\u201D "
+      comments: []
+  - verses:
+    - name: '1: The Chief Priests and Scribes Plot to Kill Jesus'
+      title: The Chief Priests and Scribes Plot to Kill Jesus
+      number: 1
+      content: ' Now after two days it was the Passover and the feast of Unleavened
+        Bread, and the chief priests and the scribes were seeking how, after arresting
+        him by stealth, they could kill him.  '
+      comments: []
+    - name: "2: Jesus\u2019 Anointing at Bethany"
+      title: "Jesus\u2019 Anointing at Bethany"
+      number: 2
+      content: "For they said, \u201CNot at the feast, lest there be an uproar by
+        the people.\u201D "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And while he was at Bethany in the house of Simon the leper, as he
+        was reclining for a meal, a woman came holding an alabaster flask of very
+        costly perfumed oil of genuine nard. After breaking the alabaster flask,
+        she poured it out on his head. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "But some were expressing indignation to one another: \u201CWhy has
+        there been this waste of perfumed oil? "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "For this perfumed oil could have been sold for more than three hundred
+        denarii and given to the poor!\u201D And they began to scold her. "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "But Jesus said, \u201CLeave her alone. Why do you cause trouble for
+        her? She has done a good deed to me. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For the poor you always have with you, and you can do good for them
+        whenever you want, but you do not always have me. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'She has done what she could; she has anointed my body beforehand
+        for burial. '
+      comments: []
+    - name: '9: Judas Arranges to Betray Jesus'
+      title: Judas Arranges to Betray Jesus
+      number: 9
+      content: 'And truly I say to you, wherever the gospel is proclaimed in the
+        whole world, what she has done will also be told in memory of her. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And Judas Iscariot, who was one of the twelve, went to the chief
+        priests in order to betray him to them. '
+      comments: []
+    - name: "11: Jesus\u2019 Final Passover with the Disciples"
+      title: "Jesus\u2019 Final Passover with the Disciples"
+      number: 11
+      content: 'And when they heard this, they were delighted, and promised to give
+        him money. And he began seeking how he could betray him conveniently. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "And on the first day of the feast of Unleavened Bread, when they
+        sacrificed the Passover lamb, his disciples said to him, \u201CWhere do you
+        want us to go and prepare, so that you can eat the Passover?\u201D "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And he sent two of his disciples and said to them, \u201CGo into
+        the city and a man carrying a jar of water will meet you. Follow him, "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "and wherever he enters, say to the master of the house, \u2018The
+        Teacher says, \u201CWhere is my guest room where I may eat the Passover with
+        my disciples?\u201D&nbsp;\u2019 "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "And he will show you a large upstairs room furnished and ready, and
+        prepare for us there.\u201D "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'And the disciples went out and came into the city and found everything
+        just as he had told them, and they prepared the Passover. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And when it was evening, he arrived with the twelve. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "And while they were reclining at table and eating, Jesus said, \u201CTruly
+        I say to you, that one of you who is eating with me will betray me.\u201D "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "They began to be distressed and to say to him one by one, \u201CSurely
+        not I?\u201D  "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "But he said to them, \u201CIt is one of the twelve\u2014the one who
+        is dipping bread into the bowl with me. "
+      comments: []
+    - name: "21: The Lord\u2019s Supper"
+      title: "The Lord\u2019s Supper"
+      number: 21
+      content: "For the Son of Man is going just as it is written about him, but
+        woe to that man by whom the Son of Man is betrayed! It would be better for
+        him if that man had not been born.\u201D "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "And while they were eating, he took bread and, after giving thanks,
+        he broke it and gave it to them and said, \u201CTake it, this is my body.\u201D "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'And after taking the cup and giving thanks, he gave it to them, and
+        they all drank from it. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "And he said to them, \u201CThis is my blood of the covenant which
+        is poured out for many. "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "Truly I say to you that I will never drink of the fruit of the vine
+        any longer until that day when I drink it new in the kingdom of God.\u201D "
+      comments: []
+    - name: "26: Jesus Predicts Peter\u2019s Denial"
+      title: "Jesus Predicts Peter\u2019s Denial"
+      number: 26
+      content: 'And after they had sung the hymn, they went out to the Mount of Olives. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "And Jesus said to them, \u201CYou will all fall away, because it
+        is written, \u2018I will strike the shepherd and the sheep will be scattered.\u2019  "
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "But after I am raised, I will go ahead of you into Galilee.\u201D "
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "But Peter said to him, \u201CEven if they all fall away, certainly
+        I will not!\u201D "
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: "And Jesus said to him, \u201CTruly I say to you that today\u2014this
+        night\u2014before the rooster crows twice, you will deny me three times!\u201D "
+      comments: []
+    - name: '31: The Prayer in Gethsemane'
+      title: The Prayer in Gethsemane
+      number: 31
+      content: "But he kept saying emphatically, \u201CIf it is necessary for me
+        to die with you, I will never deny you!\u201D And they all were saying the
+        same thing also. "
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: "And they came to a place named Gethsemane, and he said to his disciples,
+        \u201CSit here while I pray.\u201D "
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'And he took along Peter and James and John with him, and he began
+        to be distressed and troubled. '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: "And he said to them, \u201CMy soul is deeply grieved, to the point
+        of death. Remain here and stay awake.\u201D "
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'And going forward a little he fell to the ground and began to pray
+        that, if it were possible, the hour would pass from him. '
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: "And he said, \u201CAbba, Father, all things are possible for you!
+        Take away this cup from me! Yet not what I will, but what you will.\u201D  "
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: "And he came and found them sleeping, and he said to Peter, \u201CSimon,
+        are you sleeping? Were you not able to stay awake one hour? "
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: "Stay awake and pray that you will not enter into temptation. The
+        spirit is willing, but the flesh is weak!\u201D "
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: 'And again he went away and prayed, saying the same thing. '
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: 'And again he came and found them sleeping, for they could not keep
+        their eyes open, and they did not know what to reply to him. '
+      comments: []
+    - name: '41: '
+      title: 
+      number: 41
+      content: "And he came the third time and said to them, \u201CAre you still
+        sleeping and resting? It is enough! The hour has come. Behold, the Son of
+        Man is being betrayed into the hands of sinners. "
+      comments: []
+    - name: '42: The Betrayal and Arrest of Jesus'
+      title: The Betrayal and Arrest of Jesus
+      number: 42
+      content: "Get up, let us go! Behold, the one who is betraying me is approaching!\u201D "
+      comments: []
+    - name: '43: '
+      title: 
+      number: 43
+      content: "And immediately, while he was still speaking, Judas\u2014one of the
+        twelve\u2014arrived, and with him a crowd with swords and clubs, from the
+        chief priests and the scribes and the elders. "
+      comments: []
+    - name: '44: '
+      title: 
+      number: 44
+      content: "Now the one who was betraying him had given them a sign, saying,
+        \u201CThe one whom I kiss\u2014he is the one. Arrest him and lead him away
+        under guard!\u201D "
+      comments: []
+    - name: '45: '
+      title: 
+      number: 45
+      content: "And when he arrived, he came up to him immediately and said, \u201CRabbi,\u201D
+        and kissed him. "
+      comments: []
+    - name: '46: '
+      title: 
+      number: 46
+      content: 'So they laid hands on him and arrested him. '
+      comments: []
+    - name: '47: '
+      title: 
+      number: 47
+      content: 'But a certain one of the bystanders, drawing his sword, struck the
+        slave of the high priest and cut off his ear. '
+      comments: []
+    - name: '48: '
+      title: 
+      number: 48
+      content: "And Jesus answered and said to them, \u201CHave you come out with
+        swords and clubs, as against a robber, to arrest me? "
+      comments: []
+    - name: '49: '
+      title: 
+      number: 49
+      content: 'Every day I was with you in the temple courts teaching, and you did
+        not arrest me! But this has happened in order that the scriptures would be
+        fulfilled. '
+      comments: []
+    - name: '50: '
+      title: 
+      number: 50
+      content: 'And they all abandoned him and fled. '
+      comments: []
+    - name: '51: '
+      title: 
+      number: 51
+      content: 'And a certain young man was following him, clothed only in a linen
+        cloth on his naked body. And they attempted to seize him, '
+      comments: []
+    - name: '52: Jesus Before the Sanhedrin'
+      title: Jesus Before the Sanhedrin
+      number: 52
+      content: 'but he left behind the linen cloth and fled naked. '
+      comments: []
+    - name: '53: '
+      title: 
+      number: 53
+      content: 'And they led Jesus away to the high priest, and all the chief priests
+        and the elders and the scribes came together. '
+      comments: []
+    - name: '54: '
+      title: 
+      number: 54
+      content: 'And Peter followed him from a distance, right inside, into the courtyard
+        of the high priest. And he was sitting with the officers and warming himself
+        by the fire. '
+      comments: []
+    - name: '55: '
+      title: 
+      number: 55
+      content: 'Now the chief priests and the whole Sanhedrin were looking for testimony
+        against Jesus in order to put him to death, and they did not find it.  '
+      comments: []
+    - name: '56: '
+      title: 
+      number: 56
+      content: 'For many gave false testimony against him, and their testimony was
+        not consistent. '
+      comments: []
+    - name: '57: '
+      title: 
+      number: 57
+      content: 'And some stood up and began to give false testimony against him,
+        saying, '
+      comments: []
+    - name: '58: '
+      title: 
+      number: 58
+      content: "\u201CWe heard him saying, \u2018I will destroy this temple made
+        by hands, and within three days I will build another not made by hands.\u201D "
+      comments: []
+    - name: '59: '
+      title: 
+      number: 59
+      content: 'And their testimony was not even consistent about this. '
+      comments: []
+    - name: '60: '
+      title: 
+      number: 60
+      content: "And the high priest stood up in the midst of them and asked Jesus,
+        saying, \u201CDo you not reply anything? What are these people testifying
+        against you?\u201D "
+      comments: []
+    - name: '61: '
+      title: 
+      number: 61
+      content: "But he was silent and did not reply anything. Again the high priest
+        asked him and said to him, \u201CAre you the Christ, the Son of the Blessed
+        One?\u201D "
+      comments: []
+    - name: '62: '
+      title: 
+      number: 62
+      content: "And Jesus said, \u201CI am, and you will see the Son of Man sitting
+        at the right hand of the Power and coming with the clouds of heaven.\u201D "
+      comments: []
+    - name: '63: '
+      title: 
+      number: 63
+      content: "And the high priest tore his clothes and said, \u201CWhat further
+        need do we have of witnesses? "
+      comments: []
+    - name: '64: '
+      title: 
+      number: 64
+      content: "You have heard the blasphemy! What do you think?\u201D And they all
+        condemned him as deserving death.  "
+      comments: []
+    - name: '65: Peter Denies Jesus Three Times'
+      title: Peter Denies Jesus Three Times
+      number: 65
+      content: "And some began to spit on him and to cover his face and to strike
+        him with their fists, and to say to him \u201CProphesy!\u201D And the officers
+        received him with slaps in the face.  "
+      comments: []
+    - name: '66: '
+      title: 
+      number: 66
+      content: 'And while Peter was below in the courtyard, one of the female slaves
+        of the high priest came up '
+      comments: []
+    - name: '67: '
+      title: 
+      number: 67
+      content: "And when she saw Peter warming himself, she looked intently at him
+        and said, \u201CYou also were with the Nazarene, Jesus.\u201D "
+      comments: []
+    - name: '68: '
+      title: 
+      number: 68
+      content: "But he denied it, saying, \u201CI neither know nor understand what
+        you mean!\u201D And he went out into the gateway, and a rooster crowed.  "
+      comments: []
+    - name: '69: '
+      title: 
+      number: 69
+      content: "And the female slave, when she saw him, began to say again to the
+        bystanders, \u201CThis man is one of them!\u201D "
+      comments: []
+    - name: '70: '
+      title: 
+      number: 70
+      content: "But he denied it again. And after a little while, again the bystanders
+        began to say to Peter, \u201CYou really are one of them, because you also
+        are a Galilean, and your accent shows it!\u201D  "
+      comments: []
+    - name: '71: '
+      title: 
+      number: 71
+      content: "And he began to curse and to swear with an oath, \u201CI do not know
+        this man whom you are talking about!\u201D "
+      comments: []
+    - name: '72: '
+      title: 
+      number: 72
+      content: "And immediately a rooster crowed for the second time. And Peter remembered
+        the statement, how Jesus had said to him, \u201CBefore the rooster crows
+        twice, you will deny me three times,\u201D and throwing himself down, he
+        began to weep.  "
+      comments: []
+  - verses:
+    - name: '1: Jesus Taken to Pilate'
+      title: Jesus Taken to Pilate
+      number: 1
+      content: ' And as soon as morning came, after formulating a plan, the chief
+        priests, with the elders and scribes and the whole Sanhedrin, tied up Jesus,
+        led him away, and handed him over to Pilate. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And Pilate asked him, \u201CAre you the king of the Jews?\u201D And
+        he answered him and said, \u201CYou say so.\u201D "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And the chief priests began to accuse him of many things. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "So Pilate asked him again, saying, \u201CDo you not answer anything?
+        See how many charges they are bringing against you!\u201D "
+      comments: []
+    - name: '5: Pilate Releases Barabbas'
+      title: Pilate Releases Barabbas
+      number: 5
+      content: 'But Jesus did not answer anything further, so that Pilate was astonished. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Now at each feast he customarily released for them one prisoner whom
+        they requested. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And the one named Barabbas was imprisoned with the rebels who had
+        committed murder in the rebellion. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And the crowd came up and began to ask him to do as he customarily
+        did for them. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "So Pilate answered them, saying, \u201CDo you want me to release
+        for you the king of the Jews?\u201D "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '(For he realized that the chief priests had handed him over because
+        of envy.) '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'But the chief priests incited the crowd so that he would release
+        for them Barabbas instead. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "So Pilate answered and said to them again, \u201CThen what do you
+        want me to do with the one whom you call the king of the Jews?\u201D "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And they shouted again, \u201CCrucify him!\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And Pilate said to them, \u201CWhy? What evil has he done?\u201D
+        But they shouted even louder, \u201CCrucify him!\u201D "
+      comments: []
+    - name: '15: Jesus Is Mocked'
+      title: Jesus Is Mocked
+      number: 15
+      content: 'So Pilate, because he wanted to satisfy the crowd, released for them
+        Barabbas. And after he had Jesus flogged, he handed him over so that he could
+        be crucified. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "So the soldiers led him away into the palace (that is, the governor\u2019s
+        residence) and called together the whole cohort. "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And they put a purple cloak on him, and after weaving a crown of
+        thorns they placed it on him. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "And they began to greet him, \u201CHail, king of the Jews!\u201D "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'And they repeatedly struck him on the head with a reed, and were
+        spitting on him, and they knelt down and did obeisance to him. '
+      comments: []
+    - name: '20: Jesus Is Crucified'
+      title: Jesus Is Crucified
+      number: 20
+      content: 'And when they had mocked him, they stripped him of the purple cloak
+        and put his own clothes on him, and they led him out so that they could crucify
+        him. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'And they forced a certain man who was passing by, Simon of Cyrene
+        (the father of Alexander and Rufus), who was coming from the country, to
+        carry his cross. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "And they brought him to the place Golgotha (which is translated \u201CPlace
+        of a Skull\u201D). "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'And they attempted to give him wine mixed with myrrh, but he did
+        not take it. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'And they crucified him and divided his clothes among themselves by
+        casting lots for them to see who should take what. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Now it was the third hour when they crucified him. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "And the inscription of the charge against him was written, \u201CThe
+        king of the Jews.\u201D "
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'And with him they crucified two robbers, one on his right and one
+        on his left.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "And those who passed by reviled him, shaking their heads and saying,
+        \u201CAha! The one who would destroy the temple and rebuild it in three days, "
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: "save yourself by coming down from the cross!\u201D "
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: "In the same way also the chief priests, along with the scribes, were
+        mocking him to one another, saying, \u201CHe saved others; he is not able
+        to save himself! "
+      comments: []
+    - name: '32: Jesus Dies on the Cross'
+      title: Jesus Dies on the Cross
+      number: 32
+      content: 'Let the Christ, the king of Israel, come down now from the cross,
+        so that we may see and believe! Even those who were crucified with him were
+        reviling him. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'And when the sixth hour came, darkness came over the whole land until
+        the ninth hour. '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: "And at the ninth hour Jesus cried out with a loud voice, \u201CEloi,
+        Eloi, lema sabachthani?\u201D (which is translated, \u201CMy God, my God,
+        why have you forsaken me?\u201D)  "
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: "And some of the bystanders, when they heard it, said, \u201CBehold,
+        he is summoning Elijah!\u201D "
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: "And someone ran and filled a sponge with sour wine, put it on a reed,
+        and gave it to him to drink, saying, \u201CLeave him alone! Let us see if
+        Elijah is coming to take him down.\u201D "
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: 'But Jesus uttered a loud cry and expired. '
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: 'And the curtain of the temple was torn in two from top to bottom. '
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: "And when the centurion who was standing opposite him saw that he
+        expired like this, he said, \u201CTruly this man was God\u2019s Son!\u201D "
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: 'And there were also women observing from a distance, among whom were
+        Mary Magdalene, and Mary the mother of James the younger and Joses, and Salome, '
+      comments: []
+    - name: '41: Jesus Is Buried'
+      title: Jesus Is Buried
+      number: 41
+      content: 'who used to follow him and serve him when he was in Galilee, and
+        many other women who went up with him to Jerusalem. '
+      comments: []
+    - name: '42: '
+      title: 
+      number: 42
+      content: 'And when it was already evening, since it was the day of preparation
+        (that is, the day before the Sabbath), '
+      comments: []
+    - name: '43: '
+      title: 
+      number: 43
+      content: 'Joseph of Arimathea, a prominent member of the council who was also
+        himself looking forward to the kingdom of God, came acting courageously and
+        went in to Pilate and asked for the body of Jesus. '
+      comments: []
+    - name: '44: '
+      title: 
+      number: 44
+      content: 'And Pilate was surprised that he was already dead, and summoning
+        the centurion, asked him whether he had died already. '
+      comments: []
+    - name: '45: '
+      title: 
+      number: 45
+      content: 'And when he learned of it from the centurion, he granted the corpse
+        to Joseph. '
+      comments: []
+    - name: '46: '
+      title: 
+      number: 46
+      content: 'And after purchasing a linen cloth and taking him down, he wrapped
+        him in the linen cloth and placed him in a tomb that had been cut from the
+        rock. And he rolled a stone over the entrance of the tomb. '
+      comments: []
+    - name: '47: '
+      title: 
+      number: 47
+      content: 'Now Mary Magdalene and Mary the mother of Joses saw where he was
+        placed. '
+      comments: []
+  - verses:
+    - name: '1: Jesus Is Raised'
+      title: Jesus Is Raised
+      number: 1
+      content: ' And when the Sabbath was over, Mary Magdalene, and Mary the mother
+        of James, and Salome purchased fragrant spices so that they could go and
+        anoint him. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And very early in the morning on the first day of the week they came
+        to the tomb after the sun had risen. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And they were saying to one another, \u201CWho will roll away the
+        stone for us from the entrance of the tomb?\u201D "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And when they looked up, they saw that the stone had been rolled
+        away (for it was very large). '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And as they were going into the tomb, they saw a young man dressed
+        in a white robe sitting on the right side, and they were alarmed. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "But he said to them, \u201CDo not be alarmed. You are looking for
+        Jesus the Nazarene who was crucified. He has been raised, he is not here!
+        See the place where they laid him! "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "But go, tell his disciples and Peter that he is going ahead of you
+        to Galilee. You will see him there, just as he told you.\u201D "
+      comments: []
+    - name: '8: The Shorter Ending of MarkThe Longer Ending of Mark'
+      title: The Shorter Ending of MarkThe Longer Ending of Mark
+      number: 8
+      content: "And they went out and fled from the tomb, because trembling and amazement
+        had seized them. And they said nothing to anyone, because they were afraid. 
+        \u301ASo they promptly reported all the things they had been commanded to
+        those around Peter. And after these things, Jesus himself also sent out through
+        them from the east even as far as the west the holy and imperishable proclamation
+        of eternal salvation. Amen.\u301B \u301A"
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Now early on the first day of the week, after he rose, he appeared
+        first to Mary Magdalene, from whom he had expelled seven demons. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'She went out and announced it to those who were with him while they
+        were mourning and weeping. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And those, when they heard that he was alive and had been seen by
+        her, refused to believe it.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And after these things, he appeared in a different form to two of
+        them as they were walking, while they were going out into the countryside. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And these went and reported it to the others, and they did not believe
+        them. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And later, while they were reclining at table, he appeared to the
+        eleven. And he reprimanded their unbelief and hardness of heart, because
+        they did not believe those who had seen him after he had been raised. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "And he said to them, \u201CGo into all the world and preach the gospel
+        to all creation. "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The one who believes and is baptized will be saved, but the one who
+        refuses to believe will be condemned. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And these signs will accompany those who believe: in my name they
+        will expel demons, they will speak in new tongues, '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "they will pick up snakes. And if they drink any deadly poison it
+        will never hurt them; they will lay hands on the sick and they will get well.\u201D "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Then the Lord Jesus, after he had spoken to them, was taken up into
+        heaven and sat down at the right hand of God. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "And they went out and proclaimed everywhere, while the Lord was working
+        together with them and confirming the message through the accompanying signs.\u301B "
+      comments: []

@@ -1,0 +1,329 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: JON
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Jonah
+  fancyName: 
+  nickname: jon
+  version: {fileID: 11400000, guid: f0e13320f8bc1254f8bca32b62d9305b, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: "1: Jonah\u2019s Disobedience"
+      title: "Jonah\u2019s Disobedience"
+      number: 1
+      content: 'Now the word of the Lord came to Jonah the son of Amittai, saying, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CArise, go to Nineveh, that great city, and cry out against
+        it; for their wickedness has come up before Me.\u201D "
+      comments: []
+    - name: '3: The Storm at Sea'
+      title: The Storm at Sea
+      number: 3
+      content: But Jonah arose to flee to Tarshish from the presence of the Lord.
+        He went down to Joppa, and found a ship going to Tarshish; so he paid the
+        fare, and went down into it, to go with them to Tarshish from the presence
+        of the Lord.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: But the Lord sent out a great wind on the sea, and there was a mighty
+        tempest on the sea, so that the ship was about to be broken up.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: Then the mariners were afraid; and every man cried out to his god,
+        and threw the cargo that was in the ship into the sea, to lighten the load.
+        But Jonah had gone down into the lowest parts of the ship, had lain down,
+        and was fast asleep.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "So the captain came to him, and said to him, \u201CWhat do you mean,
+        sleeper? Arise, call on your God; perhaps your God will consider us, so that
+        we may not perish.\u201D"
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "And they said to one another, \u201CCome, let us cast lots, that
+        we may know for whose cause this trouble has  come upon us.\u201D So they
+        cast lots, and the lot fell on Jonah. "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Then they said to him, \u201CPlease tell us! For whose cause is this
+        trouble upon us? What is your occupation? And where do you come from? What
+        is your country? And of what people are you?\u201D"
+      comments: []
+    - name: '9: Jonah Thrown into the Sea'
+      title: Jonah Thrown into the Sea
+      number: 9
+      content: "So he said to them, \u201CI am a Hebrew; and I fear the Lord, the
+        God of heaven, who made the sea and the dry land.\u201D"
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Then the men were exceedingly afraid, and said to him, \u201CWhy
+        have you done this?\u201D For the men knew that he fled from the presence
+        of the Lord, because he had told them. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Then they said to him, \u201CWhat shall we do to you that the sea
+        may be calm for us?\u201D\u2014for the sea was growing more tempestuous."
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "And he said to them, \u201CPick me up and throw me into the sea;
+        then the sea will become calm for you. For I know that this great tempest
+        is because of me.\u201D"
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Nevertheless the men rowed hard to return to land, but they could
+        not, for the sea continued to grow more tempestuous against them. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Therefore they cried out to the Lord and said, \u201CWe pray, O Lord,
+        please do not let us perish for this man\u2019s life, and do not charge us
+        with innocent blood; for You, O Lord, have done as it pleased You.\u201D "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'So they picked up Jonah and threw him into the sea, and the sea ceased
+        from its raging. '
+      comments: []
+    - name: "16: Jonah\u2019s Prayer and Deliverance"
+      title: "Jonah\u2019s Prayer and Deliverance"
+      number: 16
+      content: Then the men feared the Lord exceedingly, and offered a sacrifice
+        to the Lord and took vows.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Now the Lord had prepared a great fish to swallow Jonah. And Jonah
+        was in the belly of the fish three days and three nights.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "Then Jonah prayed to the Lord his God from the fish\u2019s belly. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And he said:\u201CI cried out to the Lord because of my affliction,And
+        He answered me.\u201COut of the belly of Sheol I cried,And You heard my voice."
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: For You cast me into the deep,Into the heart of the seas,And the floods
+        surrounded me;All Your billows and Your waves passed over me.
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Then I said, \u2018I have been cast out of Your sight;Yet I will
+        look again toward Your holy temple.\u2019"
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: The waters surrounded me, even to my soul;The deep closed around me;Weeds
+        were wrapped around my head.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: I went down to the moorings of the mountains;The earth with its bars
+        closed behind me forever;Yet You have brought up my life from the pit,O Lord,
+        my God.
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CWhen my soul fainted within me,I remembered the Lord;And my
+        prayer went up to You,Into Your holy temple."
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CThose who regard worthless idolsForsake their own Mercy."
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "But I will sacrifice to YouWith the voice of thanksgiving;I will
+        pay what I have vowed.Salvation is of the Lord.\u201D"
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: So the Lord spoke to the fish, and it vomited Jonah onto dry land.
+      comments: []
+  - verses:
+    - name: '1: Jonah Preaches at Nineveh'
+      title: Jonah Preaches at Nineveh
+      number: 1
+      content: 'Now the word of the Lord came to Jonah the second time, saying, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CArise, go to Nineveh, that great city, and preach to it the
+        message that I tell you.\u201D "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'So Jonah arose and went to Nineveh, according to the word of the
+        Lord. Now Nineveh was an exceedingly great city, a three-day journey in 
+        extent.  '
+      comments: []
+    - name: '4: The People of Nineveh Believe'
+      title: The People of Nineveh Believe
+      number: 4
+      content: "And Jonah began to enter the city on the first day\u2019s walk. Then
+        he cried out and said, \u201CYet forty days, and Nineveh shall be overthrown!\u201D"
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'So the people of Nineveh believed God, proclaimed a fast, and put
+        on sackcloth, from the greatest to the least of them. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Then word came to the king of Nineveh; and he arose from his throne
+        and laid aside his robe, covered himself with sackcloth and sat in ashes. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And he caused it to be proclaimed and published throughout Nineveh
+        by the decree of the king and his nobles, saying,Let neither man nor beast,
+        herd nor flock, taste anything; do not let them eat, or drink water. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'But let man and beast be covered with sackcloth, and cry mightily
+        to God; yes, let every one turn from his evil way and from the violence that
+        is in his hands. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: Who can tell if God will turn and relent, and turn away from His fierce
+        anger, so that we may not perish?
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Then God saw their works, that they turned from their evil way; and
+        God relented from the disaster that He had said He would bring upon them,
+        and He did not do it.
+      comments: []
+  - verses:
+    - name: "1: Jonah\u2019s Anger and God\u2019s Kindness"
+      title: "Jonah\u2019s Anger and God\u2019s Kindness"
+      number: 1
+      content: 'But it displeased Jonah exceedingly, and he became angry. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "So he prayed to the Lord, and said, \u201CAh, Lord, was not this
+        what I said when I was still in my country? Therefore I fled previously to
+        Tarshish; for I know that You are a gracious and merciful God, slow to anger
+        and abundant in lovingkindness, One who relents from doing harm. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Therefore now, O Lord, please take my life from me, for it  is better
+        for me to die than to live!\u201D"
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Then the Lord said, \u201CIs  it right for you to be angry?\u201D"
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'So Jonah went out of the city and sat on the east side of the city.
+        There he made himself a shelter and sat under it in the shade, till he might
+        see what would become of the city. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And the Lord God prepared a plant and made it come up over Jonah,
+        that it might be shade for his head to deliver him from his misery. So Jonah
+        was very grateful for the plant. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'But as morning dawned the next day God prepared a worm, and it so
+        damaged the plant that it withered. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And it happened, when the sun arose, that God prepared a vehement
+        east wind; and the sun beat on Jonah\u2019s head, so that he grew faint.
+        Then he wished death for himself, and said, \u201CIt  is better for me to
+        die than to live.\u201D"
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Then God said to Jonah, \u201CIs  it right for you to be angry about
+        the plant?\u201DAnd he said, \u201CIt  is right for me to be angry, even
+        to death!\u201D"
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "But the Lord said, \u201CYou have had pity on the plant for which
+        you have not labored, nor made it grow, which came up in a night and perished
+        in a night. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "And should I not pity Nineveh, that great city, in which are more
+        than one hundred and twenty thousand persons who cannot discern between their
+        right hand and their left\u2014and much livestock?\u201D"
+      comments: []

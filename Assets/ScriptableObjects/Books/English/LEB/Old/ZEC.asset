@@ -1,0 +1,1422 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: ZEC
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Zechariah
+  fancyName: 
+  nickname: zec
+  version: {fileID: 11400000, guid: d0ec49142d5c7c24fb05ee739840cab0, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' In the eighth month, in the second year of Darius, the word of Yahweh
+        came to the prophet Zechariah son of Berekiah, son of Iddo, saying, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CYahweh was very angry with your ancestors.  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "You must say to them: \u2018Thus says Yahweh of hosts: \u201CReturn
+        to me,\u201D declares Yahweh of hosts, \u201Cand I will return to you,\u201D
+        says Yahweh of hosts. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CDo not be like your ancestors, to whom the former prophets
+        proclaimed, saying, \u2018Thus says Yahweh of hosts: \u201CReturn from your
+        evil ways and your evil deeds!\u201D&nbsp;\u2019 But they did not hear and
+        they did not pay attention to me,\u201D declares Yahweh. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CYour ancestors, where are they? And the prophets, do they live
+        forever? "
+      comments: []
+    - name: "6: Zechariah\u2019s First Vision"
+      title: "Zechariah\u2019s First Vision"
+      number: 6
+      content: "However, did not my words and my regulations which I commanded my
+        servants the prophets overtake your ancestors? And they repented and said,
+        \u2018Yahweh of hosts planned to do with us according to our ways, and according
+        to our deeds so he has dealt with us.\u2019&nbsp;\u201D&nbsp;\u2019&nbsp;\u201D "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'On the twenty-fourth day of the eleventh month, the month of Shebat,
+        in the second year of Darius, the word of Yahweh came to Zechariah the prophet,
+        son of Berekiah, son of Iddo, saying, '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'I had a vision in the night, and look, a man riding on a red horse.
+        And he was standing between the myrtle shrubs that were in the ravine, and
+        behind him were red, reddish-brown, and white horses. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And I asked, \u201CWhat are these, my lord?\u201D And the angel who
+        was talking with me said, \u201CI will show you what these are.\u201D "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "And the man standing between the myrtle shrubs answered and said,
+        \u201CThese are those whom Yahweh has sent to patrol the earth.\u201D "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "And they answered the angel of Yahweh who was standing between the
+        myrtle shrubs, and they said, \u201CWe have patrolled the earth, and look,
+        all the earth is dwelling in peace.\u201D  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "The angel of Yahweh answered and said, \u201CO Yahweh of hosts, how
+        long will you have no compassion on Jerusalem and the cities of Judah, with
+        which you showed fury these seventy years?\u201D  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'With gracious and comforting words Yahweh answered the angel who
+        was talking with me. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And the angel who was talking with me said to me, \u201CProclaim,
+        saying, \u2018Thus says Yahweh of hosts: \u201CI am very jealous for Jerusalem
+        and for Zion! "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "And I am extremely angry with the nations that are at ease, for while
+        I was a little angry, they furthered disaster.\u201D  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Therefore, thus says Yahweh: \u201CI have returned to Jerusalem with
+        compassion. My temple will be built in it,\u201D declares Yahweh of hosts,
+        \u201Cand a measuring line will be stretched out over Jerusalem.\u201D&nbsp;\u2019 "
+      comments: []
+    - name: "17: Zechariah\u2019s Second Vision"
+      title: "Zechariah\u2019s Second Vision"
+      number: 17
+      content: "Proclaim again, saying, \u2018Thus says Yahweh of hosts: \u201CMy
+        cities shall again overflow from prosperity, and Yahweh will comfort Zion
+        again, and he will choose Jerusalem again.\u201D&nbsp;\u2019&nbsp;\u201D "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: ' And I looked up and I saw, and look, there were four horns! '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "And I said to the angel who was talking with me, \u201CWhat are these?\u201D
+        And he said to me, \u201CThese are the horns that have scattered Judah, Israel,
+        and Jerusalem.\u201D "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Then Yahweh showed me four skilled craftsmen, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "and I asked, \u201CWhat are these coming to do?\u201D And he answered,
+        saying, \u201CThese are the horns that scattered Judah, so that no man lifted
+        up his head; but these have come to frighten them, to strike down the horns
+        of the nations that lifted a horn against the land of Judah to scatter it.\u201D "
+      comments: []
+  - verses:
+    - name: "1: Zechariah\u2019s Third Vision"
+      title: "Zechariah\u2019s Third Vision"
+      number: 1
+      content: 'And I looked up and I saw, and look, a man, and in his hand was a
+        measuring rope! '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And I asked, \u201CWhere are you going?\u201D And he answered me,
+        \u201CTo measure Jerusalem to see what is its width and what is its length.\u201D "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And look, the angel who was talking to me was coming forward, and
+        another angel was coming forward to meet him. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "And he said to him, \u201CRun, say to that young man, \u2018Jerusalem
+        shall be inhabited like villages without walls because of the multitude of
+        people and animals in its midst. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And I will be for it a wall of fire all around,\u2019 declares Yahweh,
+        \u2018and I will be the glory in its midst.\u2019&nbsp;\u201D "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "\u201CWoe! Woe! Flee from the land of the north,\u201D declares Yahweh,
+        \u201Cfor I have scattered you like the four winds of the heavens,\u201D
+        declares Yahweh. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CWoe, Zion! Escape, you inhabitants of the daughter of Babylon!\u201D "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For thus said Yahweh of hosts, after glory he sent me against the
+        nations plundering you: Truly, the one touching you is touching the apple
+        of his eye. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CYes, look! I am going to wave my hand against them, and they
+        will become plunder for their servants, and you will know that Yahweh of
+        hosts has sent me. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Sing and rejoice, O daughter of Zion, for look, I am coming and I
+        will dwell in your midst,\u201D declares Yahweh. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CMany nations will join themselves to Yahweh on that day, and
+        they will be my people, and I will dwell in your midst. And you will know
+        that Yahweh of hosts has sent me to you. "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And Yahweh will inherit Judah as his portion in the holy land, and
+        he will again choose Jerusalem. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Be silent, all people, before Yahweh, for he is roused from his holy
+        dwelling.\u201D  "
+      comments: []
+  - verses:
+    - name: "1: Zechariah\u2019s Fourth Vision"
+      title: "Zechariah\u2019s Fourth Vision"
+      number: 1
+      content: 'And he showed me Joshua the high priest standing before the angel
+        of Yahweh; and Satan was standing on his right to accuse him. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "But Yahweh said to Satan, \u201CYahweh rebukes you, O Satan! Yahweh
+        who has chosen Jerusalem rebukes you! Is this not a stick snatched from the
+        fire?\u201D "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And Joshua was clothed in filthy garments and was standing before
+        the angel. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "And he answered and said to the ones standing before him, saying,
+        \u201CRemove the filthy garments from him.\u201D And he said to him, \u201CSee,
+        I have taken away your guilt from you, and will clothe you with rich garments.\u201D "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And I said, \u201CLet them put a clean headband on his head.\u201D
+        And they put a clean headband on his head, and they clothed him with garments.
+        And the angel of Yahweh was standing by. "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And the angel of Yahweh assured Joshua, saying, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CThus says Yahweh of hosts: \u2018If you will walk in my ways,
+        and if you will keep my requirements, then you will judge my house, and you
+        will also guard my courtyards, and I will give to you passageways among these
+        that are standing here. "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Listen, please, O Joshua the high priest, you and your companions
+        that are sitting before you. For the men are a sign that, look, I am going
+        to bring my servant the Branch.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "For consider, the stone that I set before Joshua, on one stone are
+        seven eyes. Look, I am going to engrave an inscription on it,\u2019 declares
+        Yahweh of hosts, \u2018and I will remove the guilt of that land in a single
+        day. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "On that day,\u2019 declares Yahweh of hosts, \u2018you will invite
+        one another under the vine and under the fig tree.\u2019&nbsp;\u201D "
+      comments: []
+  - verses:
+    - name: "1: Zechariah\u2019s Fifth Vision"
+      title: "Zechariah\u2019s Fifth Vision"
+      number: 1
+      content: 'And the angel who was talking with me returned, and he wakened me
+        as one who is wakened from his sleep. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And he said to me, \u201CWhat do you see?\u201D And I said, \u201CI
+        see, and look, a lampstand all of gold, and a bowl was on its top, and its
+        seven lamps on it, and seven lips on each of the lamps that are on its top. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And there are two olive trees by it, one on the right of the bowl
+        and the other on its left.\u201D "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "And I answered and said to the angel who was talking to me, \u201CWhat
+        are these, my lord?\u201D "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And the angel who was talking with me answered and said to me, \u201CDo
+        you not know what these are?\u201D And I said, \u201CNo, my lord.\u201D "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And he answered and said to me, \u201CThis is the word of Yahweh
+        to Zerubbabel, saying, \u2018Not by strength and not by power, but only by
+        my Spirit,\u2019 says Yahweh of hosts. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u2018Who are you O great mountain? Before Zerubbabel you will become
+        level ground, and he will bring out the top stone amid the shouts of \u201CGrace,
+        grace to it!\u201D&nbsp;\u2019&nbsp;\u201D "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And the word of Yahweh came to me, saying, '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CThe hands of Zerubbabel have founded this house, and his hands
+        will finish it. And you will know that Yahweh of hosts has sent me to you. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "For whoever has despised the day of small things will rejoice and
+        will see the plumb line in the hand of Zerubbabel.\u201D These seven are
+        the eyes of Yahweh which are ranging throughout the whole earth.  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "And I answered and said to him, \u201CWhat are these two olive trees
+        on the right of the lampstand and on its left?\u201D "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "And I replied a second time and asked him, \u201CWhat are these two
+        twigs of olive trees on the right of the lampstand and on its left?\u201D "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And he replied to me, \u201CDo you not know what these are?\u201D
+        And I said, \u201CNo, my lord.\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And he said, \u201CThese are the two anointed ones standing by the
+        Lord of the whole earth.\u201D "
+      comments: []
+  - verses:
+    - name: "1: Zechariah\u2019s Sixth Vision"
+      title: "Zechariah\u2019s Sixth Vision"
+      number: 1
+      content: "I looked up again, and I saw, and look!\u2014a flying scroll! "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And he asked me, \u201CWhat are you seeing?\u201D And I said, \u201CI
+        am seeing a flying scroll twenty cubits long and ten cubits wide.\u201D  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And he said to me, \u201CThis is the curse going out over the surface
+        of the whole earth. For everyone who steals has gone unpunished according
+        to it, and likewise everyone who swears falsely has gone unpunished according
+        to it. "
+      comments: []
+    - name: "4: Zechariah\u2019s Seventh Vision"
+      title: "Zechariah\u2019s Seventh Vision"
+      number: 4
+      content: "\u2018I have sent it out,\u2019 declares Yahweh of hosts, \u2018and
+        it will go into the house of the thief and into the house of the one swearing
+        falsely by my name, and it will spend the night in that house and will destroy
+        it, with its timber and its stone.\u2019&nbsp;\u201D "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And the angel who was speaking to me went out, and he said to me,
+        \u201CPlease look up! See what this is going out.\u201D "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And I asked, \u201CWhat is it?\u201D And he said, \u201CThis is a
+        basket going out. And he said, \u201CThis is their iniquity throughout all
+        the earth. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And look, the lead cover was lifted and a woman was sitting inside
+        the basket.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And he said, \u201CThis is Wickedness!\u201D And he thrust her back
+        down into the basket, and threw the lead cover on top of it.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And I looked up and saw, and look!\u2014two women coming forward,
+        and the wind was in their wings, and they had wings like those of a stork,
+        and they lifted up the basket between the earth and the sky.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "And I asked the angel who was talking to me, \u201CWhere are they
+        taking the basket?\u201D  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "And he said to me, \u201CTo build for it a house in the land of Shinar,
+        and when it is put in place, it will be placed there on its site.\u201D "
+      comments: []
+  - verses:
+    - name: "1: Zechariah\u2019s Eighth Vision"
+      title: "Zechariah\u2019s Eighth Vision"
+      number: 1
+      content: "I looked up again, and I saw, and look!\u2014four chariots coming
+        out from between two mountains, and the mountains were mountains of bronze. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'With the first chariot there were red horses, and with the second
+        chariot there were black horses. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And with the third chariot there were white horses, and with the
+        fourth chariot there were strong dappled horses. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "And I answered and said to the angel that was talking to me, \u201CWhat
+        are these, my lord?\u201D "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And the angel answered and said to me, \u201CThese are the four winds
+        of the heavens going out after presenting themselves before the Lord of all
+        the earth. "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "The one with the black horses is going out to the north country,
+        and the white horses go after them, while the dappled ones go to the south
+        country.\u201D "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "When the strong horses went out, they were anxious to go to patrol
+        the earth. And he said, \u201CGo, patrol the earth.\u201D And they patrolled
+        the earth. "
+      comments: []
+    - name: '8: The Branch is Crowned'
+      title: The Branch is Crowned
+      number: 8
+      content: "And he cried out to me and said to me, \u201CSee those going out
+        to the north country have set my spirit at rest in the north country.\u201D "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And the word of Yahweh came to me, saying, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201CCollect from the exiles\u2014from Heldai, Tobijah, and from
+        Jedaiah, all of whom came from Babylon\u2014and go on that day, go to the
+        house of Josiah son of Zephaniah. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Take the silver and gold and make a crown, and set it on the head
+        of Joshua son of Jehozadak, the high priest. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "And say to him, \u2018Thus says Yahweh of hosts: \u201CLook, here
+        is a man whose name is Branch, and from his place he will sprout, and he
+        will build the temple of Yahweh. "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And he will build the temple of Yahweh, and he will bear majesty
+        and will sit and rule on his throne. And he shall be a priest on his throne,
+        and the counsel of peace will be between the two of them.\u201D&nbsp;\u2019  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And the crown will be for Helem, for Tobijah, for Jedaiah, and for
+        Hen son of Zephaniah, as a memorial in the temple of Yahweh. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "And those who are far off will come and build the temple of Yahweh,
+        and you will know that Yahweh of hosts has sent me to you. And it will happen
+        if you will listen diligently to the voice of Yahweh your God.\u201D "
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' And then, in the fourth year of King Darius, the word of Yahweh
+        came to Zechariah on the fourth day of the ninth month, which is Kislev. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And the people of Bethel sent Sharezer and Regem-Melech, and their
+        men, to entreat the favor of Yahweh, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "saying to the priests of the house of Yahweh of hosts and to the
+        prophets, \u201CShould I mourn in the fifth month and keep myself separate
+        as I have done for these many years?\u201D "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And the word of Yahweh of hosts came to me, saying, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CSay to all the people of the land and to the priests: \u2018When
+        you fasted and lamented in the fifth and seventh months for these seventy
+        years, did you really fast for me? "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And when you eat and drink, are you not eating and drinking for yourselves? '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Are not these the words that Yahweh proclaimed through the former
+        prophets, when Jerusalem and its surrounding towns were inhabited and at
+        ease, and the Negev and the Shephelah were inhabited?\u2019&nbsp;\u201D "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And the word of Yahweh came to Zechariah, saying, '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CThus says Yahweh of hosts: \u2018Judge with trustworthy justice,
+        and show steadfast love and compassion to one another.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "You must not oppress the widow, the orphan, the foreigner, and the
+        needy. You must not devise evil in your heart against one another.\u2019  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'But they refused to listen, and turned a stubborn shoulder and stopped
+        their ears from listening.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'They made their hearts adamant in order not to hear the law and the
+        words that Yahweh of hosts had sent by his spirit through the former prophets;
+        therefore great wrath came from Yahweh of hosts. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u2018Thus, just as I called and they would not hear, so they will
+        call and I will not hear,\u2019 says Yahweh of hosts. "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u2018And I scattered them with a wind among all the nations that
+        they had not known; the land was made desolate behind them\u2014 no one crossing
+        through it or returning\u2014and they made the desirable land a desolation.\u2019&nbsp;\u201D "
+      comments: []
+  - verses:
+    - name: "1: Yahweh\u2019s Promise to Jerusalem"
+      title: "Yahweh\u2019s Promise to Jerusalem"
+      number: 1
+      content: 'And the word of Yahweh of hosts came, saying, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CThus says Yahweh of hosts: \u2018I am exceedingly jealous for
+        Zion; I am jealous for it with great wrath.\u2019 "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Thus says Yahweh: \u2018I have returned to Zion, and I will dwell
+        in the midst of Jerusalem; and Jerusalem will be called the faithful city,
+        and the mountain of Yahweh of hosts will be called the holy mountain.\u2019 "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Thus says Yahweh of hosts: \u2018Old men and old women shall again
+        sit in the public squares of Jerusalem, each with staff in hand because of
+        great age.  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And the public squares of the city will be filled with boys and girls
+        playing in its public squares.\u2019 "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Thus says Yahweh of hosts: \u2018Even if it seems impossible to the
+        remnant of this people in those days, should it also seem impossible to me?\u2019
+        declares Yahweh of hosts. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Thus says Yahweh of hosts: \u2018Look! I am going to save my people
+        from the land of the east, and from the land of the west, "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "and I will bring them and they will dwell in the midst of Jerusalem.
+        They will be my people and I will be their God in faithfulness and in righteousness.\u2019 "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CThus says Yahweh of hosts: \u2018Let your hands be strong,
+        you who are hearing in these days these words from the mouth of the prophets
+        who were present on the day the foundation was laid for the rebuilding of
+        the temple, the house of Yahweh of hosts.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For before those days there was no wage for people or for animals,
+        and there was no safety from the enemy for those who went out or those who
+        came in, and I sent each person against one another.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "But now I will not deal with the remnant of this people as in the
+        former days,\u2019 declares Yahweh of hosts. "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u2018For there will be a sowing of peace; the vine will give its
+        fruit, and the soil will give its produce, and the heavens will give their
+        dew. And I will cause the remnant of this people to inherit all these things. "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And then, just as you were a curse among the nations, O house of
+        Judah and house of Israel, so will I save you, and you will be a blessing.
+        You must not be afraid; let your hands be strong!\u2019&nbsp;\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "For thus says Yahweh of hosts: \u201CJust as I planned to bring disaster
+        on you when your ancestors provoked me to anger,\u201D says Yahweh of hosts,
+        \u201Cand I did not regret it, "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'so again I have planned in these days to do good to Jerusalem and
+        the house of Judah. Do not be afraid! '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'These are the things that you must do: speak truth, each of you,
+        with his neighbor; practice trustworthy judgment and peace in your gates. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "Do not devise evil in your hearts against your neighbor, and do not
+        love a false oath, because all these are things I hate,\u201D declares Yahweh. "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And the word of Yahweh of hosts came to me, saying '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "\u201CThus says Yahweh of hosts: \u2018The fast of the fourth month,
+        the fifth month, the seventh month, and the tenth month will be for the house
+        of Judah jubilation and joy and merry festivals; therefore love truth and
+        peace.\u2019 "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "Thus says Yahweh of hosts: \u2018It will happen again that nations
+        and the inhabitants of many cities will come. "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "And the inhabitants of one city will go to another city, saying,
+        \u201CLet us go immediately to entreat the favor of Yahweh, to seek Yahweh
+        of hosts\u2014I also will go!\u201D "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "And many peoples and powerful nations will come to seek Yahweh of
+        hosts in Jerusalem, and to entreat the favor of Yahweh.\u2019 "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "Thus says Yahweh of hosts: \u2018In those days ten men from all the
+        nations of every language will take hold of the hem of a Judean man, saying,
+        \u201CLet us go with you, for we have heard that God is with you!\u201D&nbsp;\u2019&nbsp;\u201D "
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' An oracle. The word of Yahweh is against the land of Hadrach, and
+        Damascus is its resting place. For to Yahweh belongs the eye of humankind, 
+        and all the tribes of Israel, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "and also Hamath, which borders on it; Tyre and Sidon\u2014yes, they
+        are very wise!  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Tyre has built a fortification for itself,  and it heaped up silver
+        like dust, and gold like the mud of the streets. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Look! The Lord will drive it out and will hurl its outer ramparts
+        into the sea, and it will be consumed by fire. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Ashkelon will see and will be afraid, and Gaza will writhe exceedingly,
+        and Ekron also, because its hope is ruined.  And the king from Gaza will
+        perish, and Ashkelon will not be inhabited. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'A mongrel people will dwell in Ashdod, and I will cut down the pride
+        of the Philistines. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'I will remove its blood from its mouth, and its abominations from
+        between its teeth. And it too will be a remnant for our God; and it will
+        be like a tribal chief in Judah, and Ekron will be like the Jebusite. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'But I will encamp at my temple like a guard, against those crossing
+        through and returning; no oppressor will cross through them again, for now
+        I have seen with my own eyes. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Rejoice greatly, O daughter of Zion! Shout aloud, O daughter of Jerusalem!
+        Look! Your king comes to you; he is righteous and victorious, humble and
+        riding on a donkey, and on a male donkey, the foal of a female donkey! '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And I will cut off the chariot from Ephraim, and the horse from Jerusalem;
+        the battle bow will be cut down, and he will announce peace to the nations.
+        His dominion will be from sea to sea, and from the River to the ends of the
+        earth. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'As for you also, because of the blood of your covenant, I will release
+        your prisoners from the waterless pit.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Return to the fortress, O prisoners of hope; today I am declaring
+        that I will repay you double. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'For I have bent Judah as my bow; I have set Ephraim as an arrow.
+        I will set in motion your sons, O Zion, against your sons, O Javan.  I will
+        wield you like the sword of a warrior. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Then Yahweh will appear over them, and his arrow will go forth like
+        lightning; and my Lord Yahweh will blow the trumpet, and he shall go out
+        in the storm winds of the south. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Yahweh of hosts will defend them, and they will devour and subdue
+        the slingstones;  they will drink, they will make noise like wine, and they
+        will be full like the sacrificial basin,  drenched like the corners of an
+        altar. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'And Yahweh their God will save them on that day, as the flock of
+        his people; for they are like the stones of a diadem, glittering on his land. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'For how great is his goodness, and how great is his beauty! Grain
+        will make the young men thrive, and new wine the young women. '
+      comments: []
+  - verses:
+    - name: '1: Yahweh Gives Rain'
+      title: Yahweh Gives Rain
+      number: 1
+      content: "Ask rain from Yahweh in the season of the spring rain\u2014 Yahweh,
+        who makes storm clouds, and he gives showers of rain to them, to everyone
+        vegetation in the field. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Because the household gods speak deceit, and those who practice divination
+        see a lie, and the dreamers of vanity speak in vain. Therefore the people
+        wander like sheep;  they are afflicted because there is no shepherd. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'My anger burns against the shepherds, and I will punish the leaders, 
+        because Yahweh of hosts watches over his flock,  the house of Judah; and
+        he will make them like his majestic horse in war. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'From them the cornerstone will go out, from them the tent peg, from
+        them the battle bow, from them every ruler, all together. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And they will be like warriors, trampling in the mud of the streets
+        in the battle. They will fight, because Yahweh is with them, and they will
+        put to shame the riders on horses. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And I will strengthen the house of Judah, and the house of Joseph
+        I will save. And I will bring them back, because I have compassion on them,
+        and they will be as if I had not rejected them, for I am Yahweh their God,
+        and I will answer them. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And the people of Ephraim will be like a warrior, and their heart
+        will be glad as with wine. And their children will see and rejoice; their
+        heart will shout in exultation in Yahweh. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'I will whistle to them and gather them, for I have redeemed them,
+        and they will become numerous as they have been numerous before. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Though I sow them among the nations, in the distant places they will
+        remember me, and they will stay alive with their children, and they will
+        return. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And I will bring them back from the land of Egypt, and from Assyria
+        I will gather them. To the land of Gilead and Lebanon I will bring them,
+        until no room will be found for them there. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And he will pass through the sea of distress, and he will strike
+        the waves of the sea, and all the depths of the Nile will dry up. The pride
+        of Assyria will be brought low, and the scepter of Egypt will depart. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I will make them strong in Yahweh, and in his name they will walk,
+        declares Yahweh. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' Open your doors, O Lebanon, so that fire will devour your cedars! '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Wail, O juniper, for the cedar has fallen, for the magnificent trees
+        are ruined! Wail, oaks of Bashan, for the impenetrable forest has come down! '
+      comments: []
+    - name: '3: The Two Shepherds'
+      title: The Two Shepherds
+      number: 3
+      content: 'Listen to the wailing of the shepherds, for their splendor is ruined!
+        Listen to the roar of the young lions, for the thickets of the Jordan are
+        ruined! '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Thus says Yahweh my God: \u201CShepherd the flock doomed to slaughter. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "The ones buying them kill them and go unpunished, and the ones selling
+        them say, \u2018Blessed be Yahweh, for I have become rich.\u2019 Their own
+        shepherds have no compassion for them. "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "For I will no longer have compassion on the inhabitants of the land,\u201D
+        declares Yahweh. \u201CLook, I am going to cause humankind to fall, each
+        into the hand of his neighbor, and into the hand of his king; and they will
+        devastate the land, and I will not deliver anyone from their hand.\u201D "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And I shepherded the flock doomed to slaughter, even the afflicted
+        of the flock. I took two staffs, one I called Kindness, and the other I called
+        Unity, and I shepherded the flock.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And I got rid of three shepherds in one month, for I grew impatient
+        with them, and they also became tired of me.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "So I said, \u201CI will not shepherd you! The one dying will die,
+        and the one to be destroyed will be destroyed. And the ones remaining, let
+        them devour the flesh of each other.\u201D  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And I took my staff Kindness and broke it, to break my covenant that
+        I had made with all the peoples. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And it was broken on that day. Then the afflicted of the flock, the
+        ones who were watching me, knew that it was the word of Yahweh. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "And I said to them, \u201CIf it seems right to you, give me my wages,
+        but if not, keep them.\u201D And they weighed out my wages, thirty silver
+        shekels. "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And Yahweh said to me, \u201CThrow it to the potter,\u201D this noble
+        price at which I was valued by them!\u201D So I took the thirty silver shekels
+        and I threw them to the potter in the house of Yahweh. "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Then I broke my second staff Unity to break the family ties between
+        Judah and Israel. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "And Yahweh said to me, \u201CTake again the implements of a foolish
+        shepherd. "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For look, I am raising up a shepherd in the land who will not attend
+        to the ones that are perishing; he will not seek the young man, he will not
+        heal the ones that are crushed and he will not sustain the healthy ones;
+        he will devour the flesh of the fattened ones and tear apart even their hoofs. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "\u201CWoe, my worthless shepherd who deserts the flock!  May a sword
+        fall on his arm and on his right eye!  May his arm wither completely and
+        his right eye be utterly blinded!\u201D "
+      comments: []
+  - verses:
+    - name: '1: The Day of Yahweh'
+      title: The Day of Yahweh
+      number: 1
+      content: "An oracle. The word of Yahweh concerning Israel. \u201CThus declares
+        Yahweh, who stretches out the heavens, founds the earth, and forms the spirit
+        of humankind in its midst:  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u2018Look, I am going to make Jerusalem a cup of reeling for all
+        the surrounding nations; it will also be against Judah in the siege against
+        Jerusalem. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And then on that day I will make Jerusalem a stone weight for all
+        the peoples. All those lifting it up will grievously hurt themselves, and
+        all the nations of the earth will assemble against it. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "On that day,\u2019 declares Yahweh, \u2018I will strike every horse
+        with confusion, and the one riding it with madness; but over the house of
+        Judah I will keep my eyes open, and I will strike every horse of the peoples
+        with blindness. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And the clans of Judah will say to themselves, \u201CThe inhabitants
+        of Jerusalem are a strength to us, through Yahweh of hosts, their God.\u201D "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "\u201C&nbsp;\u2018On that day I will make the clans of Judah like
+        a pan of fire among sticks of wood, and like a torch of fire among stalks
+        of grain, and they will devour to the right and to the left all the surrounding
+        peoples, and Jerusalem will be inhabited again in its place, in Jerusalem. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And Yahweh will save the tents of Judah first, so that the glory
+        of the house of David and the glory of the inhabitants of Jerusalem may not
+        be exalted over Judah. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'On that day Yahweh will put a shield around the inhabitants of Jerusalem,
+        and the one who stumbles among them on that day will be like David, and the
+        house of David will be like God, like the angel of Yahweh, before them.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And then on that day I will seek to destroy all the nations coming
+        against Jerusalem. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201C&nbsp;\u2018I will pour on the house of David and on the inhabitants
+        of Jerusalem a spirit of grace and supplication, and they will look to me
+        whom they pierced, and they shall mourn over him, as one wails over an only
+        child, and they will grieve bitterly over him as one grieves bitterly over
+        a firstborn. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'On that day the wailing will be great in Jerusalem, like the wailing
+        for Hadad Rimmon in the plain of Megiddo. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And the land shall mourn, each clan by itself; the clan of the house
+        of David by itself, and their wives by themselves; the clan of the house
+        of Nathan by itself, and their wives by themselves; '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'the clan of the house of Levi by itself, and their wives by themselves;
+        the clan of the Shimeites by itself, and their wives by themselves; '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "and all those clans remaining, each clan by itself, and their wives
+        by themselves.\u2019&nbsp;\u201D "
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: " \u201C&nbsp;\u2018On that day a well will be opened for the house
+        of David and for the inhabitants of Jerusalem, to cleanse them from sin and
+        from impurity.  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And then, on that day,\u2019 declares Yahweh of hosts, \u2018I will
+        cut off the names of the idols from the land, and they will no longer be
+        remembered; and also the prophets and the spirit of uncleanness I will banish
+        from the land. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And then, if anyone prophesies again, his father and his mother who
+        bore him will say to him, \u201CYou shall not live, because you have spoken
+        a lie in the name of Yahweh!\u201D And his father and his mother who bore
+        him will pierce him through when he prophesies. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And then on that day, each of the prophets will be ashamed because
+        of his vision when he was prophesying, and they will not put on a cloak of
+        hair in order to deceive, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "but he will say, \u201CI am not a prophet; I am a tiller of the soil,
+        for a man has acquired me since my youth.\u201D  "
+      comments: []
+    - name: '6: The Sword Shall Strike the Shepherd'
+      title: The Sword Shall Strike the Shepherd
+      number: 6
+      content: "And someone shall say to him, \u201CWhat are these wounds between
+        your arms?\u201D and he will say, \u201CThose I have received in the house
+        of the ones who love me.\u201D&nbsp;\u2019&nbsp;\u201D "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CO sword, awake against my shepherd, against the man who is
+        my associate,\u201D declares Yahweh of hosts. \u201CStrike the shepherd,
+        so that the sheep may be scattered, and I will turn my hand against the small
+        ones. "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And then in all the land,\u201D declares Yahweh, \u201Ctwo thirds
+        will be cut off and perish, and one third will be left alive in it. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And I will bring the remaining third into the fire, and I will refine
+        them like one refines silver, and I will test them like one tests gold. They
+        will call my name, and I will answer them.  I will say, \u2018They are my
+        people,\u2019 and they will say, \u2018Yahweh is my God.\u2019&nbsp;\u201D "
+      comments: []
+  - verses:
+    - name: "1: Zechariah\u2019s Apocalyptic Vision"
+      title: "Zechariah\u2019s Apocalyptic Vision"
+      number: 1
+      content: 'Look! A day is coming for Yahweh, when your plunder will be divided
+        in your midst. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'I will gather all the nations against Jerusalem to battle, and the
+        city will be captured, and they will loot the houses, and the women will
+        be raped; half of the city will go into exile, but the remainder of the people
+        will not be cut off from the city. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Then Yahweh will go forth and fight against those nations, like when
+        he fights on a day of battle. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'On that day his feet will stand on the Mount of Olives, which faces
+        Jerusalem on the east; and the Mount of Olives will be split in half, from
+        east to west, by a very great valley; and half of the mountain will withdraw
+        toward the north, and the other half toward the south. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And you will flee by the valley of my mountains, because the valley
+        of the mountains will reach to Azal, and you will flee like you fled from
+        the earthquake in the days of King Uzziah of Judah. And Yahweh my God will
+        come, and all the holy ones with him.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And then on that day there will not be light, the precious things
+        will congeal.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "There shall be continuous day\u2014it is known to Yahweh\u2014not
+        day and not night; and at evening time there will be light. "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And then on that day, living waters will flow out from Jerusalem,
+        half of them to the eastern sea, and the other half to the western sea; it
+        will happen both in the summer and in the winter. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And Yahweh will be king over all the earth; on that day Yahweh will
+        be one and his name one. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "All the land will be transformed into a desert plateau from Geba
+        to Rimmon south of Jerusalem. But it will rise up high and it will stay in
+        its place from the Gate of Benjamin to the place of the former gate, up to
+        the Corner Gate and from the Tower of Hananel to the king\u2019s winepresses. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And they will dwell in it, and there will be no more ban imposed,
+        and Jerusalem will dwell in security. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And this will be the plague with which Yahweh will strike all the
+        peoples that fight against Jerusalem: their flesh will rot while they are
+        standing on their feet; their eyes will rot in their sockets, and their tongues
+        will rot in their mouths.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And then on that day a great panic from Yahweh will fall on them,
+        and they will seize one another\u2019s hand, and the hand of the one will
+        be raised against the hand of another.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And Judah also will fight at Jerusalem. And the wealth of all the
+        surrounding nations will be collected\u2014gold and silver, and garments
+        in great abundance.  "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Like this plague will be the plague on the horse, the mule, the camel,
+        and the donkey, and every kind of animal in those camps. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'And then every survivor from all those nations coming against Jerusalem
+        will go up year after year to worship the king, Yahweh of hosts, and celebrate
+        the Feast of Booths.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And then whoever of the clans of the earth does not go up to Jerusalem
+        to worship the king, Yahweh of hosts, it will not rain on them. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And if the clan of Egypt will not go up and come in, on them will
+        be that plague Yahweh inflicts on the nations that do not go up to celebrate
+        the Feast of Booths. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'This will be the punishment of Egypt and the punishment of all the
+        nations that do not go up to celebrate the Feast of Booths. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "On that day there will be inscribed on the bells of the horses, \u201CHoly
+        to Yahweh.\u201D And the cooking pots in the house of Yahweh will be holy
+        like the sacrificial basins before the altar. "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'And every cooking pot in Jerusalem and in Judah will be holy to Yahweh
+        of hosts, and all those who sacrifice will come and will take from them,
+        and will cook in them, and there will be no longer a trader in the house
+        of Yahweh of hosts on that day. '
+      comments: []

@@ -1,0 +1,321 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: NAM
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Nahum
+  fancyName: 
+  nickname: nam
+  version: {fileID: 11400000, guid: d0ec49142d5c7c24fb05ee739840cab0, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: SuperscriptionHalf-Acrostic: Yahweh Takes Vengeance against His Enemies'
+      title: 'SuperscriptionHalf-Acrostic: Yahweh Takes Vengeance against His Enemies'
+      number: 1
+      content: "The oracle concerning Nineveh\u2014 the scroll of the vision of Nahum
+        the Elkoshite: "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Yahweh is a jealous God and avenging; Yahweh is avenging and full
+        of wrath.  Yahweh takes vengeance against his enemies; he rages against his
+        adversaries. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Yahweh is slow to anger but great in power; he will certainly not
+        allow the guilty to go unpunished. He marches in storm wind and in gale;
+        storm clouds are the dust of his feet. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'He rebukes the sea and he dries up the rivers; he makes all the rivers
+        run dry. Bashan and Carmel wither;  the blossom of Lebanon languishes. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Mountains quake before him; the hills shake apart.  The earth heaves
+        before him\u2014 the world and all her inhabitants. "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "His indignation\u2014who can stand before it? Who can endure his
+        fierce anger?  His wrath is poured out like fire; rocks are shattered before
+        him. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Yahweh is good\u2014a refuge in the day of distress; he knows those
+        who take refuge in him. "
+      comments: []
+    - name: '8: Yahweh Will Destroy Nineveh'
+      title: Yahweh Will Destroy Nineveh
+      number: 8
+      content: 'But with a rushing torrent he will bring Nineveh to an end; he will
+        chase his enemies into darkness. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'What do you plot against Yahweh? He will completely destroy it; 
+        trouble will not rise up a second time! '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For like entangled thorns, and like their drink which is drunk, they
+        will be consumed like fully dry chaff. '
+      comments: []
+    - name: '11: Yahweh Will Deliver Judah and Destroy Nineveh'
+      title: Yahweh Will Deliver Judah and Destroy Nineveh
+      number: 11
+      content: 'From you goes out one who plots evil against Yahweh, one who plans
+        wickedness. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Yahweh says this: \u201CEven though they are powerful and likewise
+        many, even so they will be cut off and pass away. Though I have afflicted
+        you,  I will afflict you no longer. "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And now, I will break his yoke from upon you; I will snap your bonds.\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Yahweh has commanded concerning you: \u201CYour name will no longer
+        be sown. I will cut off the idols and images from the temple of your gods;
+        I will send you to the grave because you are worthless.\u201D "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: " Look! On the mountains! The feet of the one who brings good tidings,
+        the one who proclaims peace! \u201CCelebrate a festival, O Judah, Fulfill
+        your vows! For he will not invade you again; the wicked one is cut off completely!\u201D "
+      comments: []
+  - verses:
+    - name: '1: The Divine Warrior Will Attack Nineveh'
+      title: The Divine Warrior Will Attack Nineveh
+      number: 1
+      content: 'One who shatters has come up against you! Guard the fortification!
+        Watch the road!  Gird your loins! Muster all your strength! '
+      comments: []
+    - name: '2: The Enemy Army Conquers the City of Nineveh'
+      title: The Enemy Army Conquers the City of Nineveh
+      number: 2
+      content: 'For Yahweh will restore the majesty of Jacob like the majesty of
+        Israel; for ravagers have ravaged them and ruined their branches. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'The shields of his warriors are dyed red; The powerful men are dressed
+        in scarlet. The metal of the chariots shines like fire on the day of battle, 
+        and their spears quiver. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The chariots race madly through the streets; they rush back and forth
+        in the public squares. Their appearance like lightning bolts, they dart about
+        like flashes of lightning. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'He calls his officers; they stumble as they march; they rush to her
+        wall; they set the covering in place. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The gates of the river are opened; the palace trembles. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Her goddess is taken out and taken into exile;  her maidservants
+        moan like doves; they beat on their breasts. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Nineveh is like a pool of water without its water.  As they flee,
+        she cries, \u201CStop! Stop!\u201D But there is no one who turns back. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Plunder the silver! Plunder the gold! There is no end to the spoils, 
+        an abundance of everything one could want!  '
+      comments: []
+    - name: '10: The Divine Warrior Will Hunt down the Mighty Lions'
+      title: The Divine Warrior Will Hunt down the Mighty Lions
+      number: 10
+      content: 'Emptiness and plundering and devastation! Their hearts faint and
+        their knees tremble,  All their loins shake and all their faces turn pale. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Where now is the den of the lions and the cave of the fierce lions?
+        There the lioness, the cub, and the lion once prowled,  and no one disturbed
+        them.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The lion tore apart enough prey for his cubs, he strangled prey for
+        his lioness; he filled his lair with prey and his den with mangled carcass. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CLook! I am against you!\u201D declares Yahweh of hosts. \u201CI
+        will burn her chariots with fire;  the sword will devour fierce lions. I
+        will cut off your prey from the earth; the voice of your messengers will
+        no longer be heard.\u201D "
+      comments: []
+  - verses:
+    - name: '1: The Doom of the Wicked City is Certain'
+      title: The Doom of the Wicked City is Certain
+      number: 1
+      content: 'Woe to the city that has shed much blood!  She is a deceiver,  She
+        is filled with plunder, She has hoarded her spoils of war.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'The crack of the whip! The rumbling of the chariot wheel! The galloping
+        of the horse! The racing of the chariot! '
+      comments: []
+    - name: '3: Harlot Nineveh Will Get What She Deserves'
+      title: Harlot Nineveh Will Get What She Deserves
+      number: 3
+      content: 'Chariots charge! Swords flash! Spears glitter! Many corpses are piled
+        high!  There is no end to the slain! They stumble over their dead! '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CBecause of the many idolatries of the prostitute, the beautiful
+        charm of a mistress of witchcraft, she who enslaves nations by her harlotries,
+        and peoples by her sorceries, "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CLook! I am against you!\u201D declaresYahweh. \u201CI will
+        strip up your skirts over your face; I will let nations look at your nakedness
+        and your shame. "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "\u201CI will throw filth upon you, I will treat you with contempt,
+        I will make you a spectacle. "
+      comments: []
+    - name: '7: Nineveh Will Suffer the Same Fate She Inflicted on Thebes'
+      title: Nineveh Will Suffer the Same Fate She Inflicted on Thebes
+      number: 7
+      content: "\u201CAnd it will be that everyone who sees you will flee from you,
+        And they will say, \u2018Nineveh is destroyed!\u2019 Who will mourn for her?
+        From whence shall I seek comforters for you?\u201D "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Are you better than Thebes?  She who sits at the Nile, surrounded
+        by her waters, her rampart was the sea and water was her wall. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Cush was her strength, Egypt without end; Put and Libya were among
+        your allies.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Yet she went into captivity as an exile; her children were dashed
+        to pieces at the head of the streets; they cast lots for all of her nobles;
+        all of her dignitaries were bound with chains. '
+      comments: []
+    - name: "11: Nineveh\u2019s Defenses Will Fail"
+      title: "Nineveh\u2019s Defenses Will Fail"
+      number: 11
+      content: 'You also will behave like a drunkard; You also will hide yourself;
+        You also will seek refuge from the enemy. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "All of your fortifications are like fig trees with ripe firstfruits\u2014
+        if they are shaken, they will fall into the mouth of the eater. "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Look! Your troops are like women in your midst. The gates of your
+        land are wide open to your enemies; fire will consume the bars of your gates. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Draw water for a siege! Strengthen your fortifications! Go to the
+        mud pit! Trample the clay! Grasp the brick mold! '
+      comments: []
+    - name: "15: Nineveh\u2019s Defenders Will Flee"
+      title: "Nineveh\u2019s Defenders Will Flee"
+      number: 15
+      content: 'There fire will consume you; the sword will cut you off. It will
+        consume you like the locust. Multiply yourself like the locust! Multiply
+        yourself like the grasshopper! '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'You have increased your merchants more than the stars of heaven;
+        like the locust they will shed their skin and fly away. '
+      comments: []
+    - name: '17: Nineveh Will Come to an End'
+      title: Nineveh Will Come to an End
+      number: 17
+      content: "Your officials are like locusts; your commanders are like a swarm
+        of locusts. They encamp on the walls on a cold day; when the sun rises, they
+        fly away\u2014 no one knows where they have gone. "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Your shepherds are sleeping, O king of Assyria! Your nobles slumber.
+        Your people are scattered on the mountains; no one can gather them. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'There is no healing for your wound; your injury is fatal. All who
+        hear the report of you will clap their hands for joy concerning you, For
+        who has not suffered at the hands of your endless cruelty?  '
+      comments: []

@@ -1,0 +1,1526 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: ECC
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Ecclesiastes
+  fancyName: 
+  nickname: ecc
+  version: {fileID: 11400000, guid: dd64eb842f3dd694bae8487ce6510215, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: All Is Vanity'
+      title: All Is Vanity
+      number: 1
+      content: '  The words of the Preacher,[[COMMENT(0)]] the son of David, king
+        in Jerusalem.  '
+      comments:
+      - number: '1:1 '
+        content: Or , or ; Hebrew (so throughout Ecclesiastes)
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  Vanity[[COMMENT(0)]] of vanities, says the Preacher,  vanity of
+        vanities! All is vanity.  '
+      comments:
+      - number: '1:2 '
+        content: "The Hebrew term , translated or , refers concretely to a \u201Cmist,\u201D
+          \u201Cvapor,\u201D or \u201Cmere breath,\u201D and metaphorically to something
+          that is fleeting or elusive (with different nuances depending on the context).
+          It appears five times in this verse and in 29 other verses in Ecclesiastes"
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  What does man gain by all the toilat which he toils under the sun?  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'A generation goes, and a generation comes,but the earth remains forever.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  The sun rises, and the sun goes down,and hastens[[COMMENT(0)]]
+        to the place where it rises.  '
+      comments:
+      - number: '1:5 '
+        content: 'Or '
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  The wind blows to the southand goes around to the north;around
+        and around goes the wind,and on its circuits the wind returns.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'All streams run to the sea,but the sea is not full;to the place where
+        the streams flow,there they flow again.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'All things are full of weariness;a man cannot utter it;  the eye
+        is not satisfied with seeing,nor the ear filled with hearing.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  What has been is what will be,and what has been done is what will
+        be done,and there is nothing new under the sun.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Is there a thing of which it is said,\u201CSee, this is new\u201D?It
+        has been alreadyin the ages before us.  "
+      comments: []
+    - name: '11: The Vanity of Wisdom'
+      title: The Vanity of Wisdom
+      number: 11
+      content: 'There is no remembrance of former things,[[COMMENT(0)]]nor will there
+        be any remembranceof later things yet to beamong those who come after.  '
+      comments:
+      - number: '1:11 '
+        content: 'Or Or '
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I the Preacher have been king over Israel in Jerusalem. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And I applied my heart[[COMMENT(0)]] to seek and to search out by
+        wisdom all that is done under heaven. It is an unhappy business that God
+        has given to the children of man to be busy with. '
+      comments:
+      - number: '1:13 '
+        content: "The Hebrew term denotes the center of one\u2019s inner life, including
+          mind, will, and emotions"
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'I have seen everything that is done under the sun, and behold, all
+        is vanity[[COMMENT(0)]] and a striving after wind.  '
+      comments:
+      - number: '1:14 '
+        content: "The Hebrew term can refer to a \u201Cvapor\u201D or \u201Cmere
+          breath\u201D (see note on 1:2)Or ; compare Hosea 12:1 (also in Ecclesiastes
+          1:17; 2:11, 17, 26; 4:4, 6, 16; 6:9)"
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  What is crooked cannot be made straight,and what is lacking cannot
+        be counted.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "I said in my heart, \u201CI have acquired great wisdom, surpassing
+        all who were over Jerusalem before me, and my heart has had great experience
+        of wisdom and knowledge.\u201D "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And I applied my heart to know wisdom and to know madness and folly.
+        I perceived that this also is but a striving after wind.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: For in much wisdom is much vexation,and he who increases knowledge
+        increases sorrow.
+      comments: []
+  - verses:
+    - name: '1: The Vanity of Self-Indulgence'
+      title: The Vanity of Self-Indulgence
+      number: 1
+      content: "  I said in my heart, \u201CCome now, I will test you with pleasure;
+        enjoy yourself.\u201D But behold, this also was vanity.[[COMMENT(0)]]  "
+      comments:
+      - number: '2:1 '
+        content: "The Hebrew term can refer to a \u201Cvapor\u201D or \u201Cmere
+          breath\u201D; also verses 11, 15, 17, 19, 21, 23, 26 (see note on 1:2)"
+    - name: '2: '
+      title: 
+      number: 2
+      content: "I said of laughter, \u201CIt is mad,\u201D and of pleasure, \u201CWhat
+        use is it?\u201D "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "I searched with my heart how to cheer my body with wine\u2014my heart
+        still guiding me with wisdom\u2014and how to lay hold on folly, till I might
+        see what was good for the children of man to do under heaven during the few
+        days of their life. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'I made great works. I built houses and planted vineyards for myself. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'I made myself gardens and parks, and planted in them all kinds of
+        fruit trees. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'I made myself pools from which to water the forest of growing trees. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'I bought male and female slaves, and had slaves who were born in
+        my house. I had also great possessions of herds and flocks, more than any
+        who had been before me in Jerusalem. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'I also gathered for myself silver and gold and the treasure of kings
+        and provinces. I got singers, both men and women, and many concubines,[[COMMENT(0)]]
+        the delight of the sons of man.  '
+      comments:
+      - number: '2:8 '
+        content: The meaning of the Hebrew word is uncertain
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'So I became great and surpassed all who were before me in Jerusalem.
+        Also my wisdom remained with me. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And whatever my eyes desired I did not keep from them. I kept my
+        heart from no pleasure, for my heart found pleasure in all my toil, and this
+        was my reward for all my toil. '
+      comments: []
+    - name: '11: The Vanity of Living Wisely'
+      title: The Vanity of Living Wisely
+      number: 11
+      content: 'Then I considered all that my hands had done and the toil I had expended
+        in doing it, and behold, all was vanity and a striving after wind, and there
+        was nothing to be gained under the sun.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  So I turned to consider wisdom and madness and folly. For what
+        can the man do who comes after the king? Only what has already been done. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Then I saw that there is more gain in wisdom than in folly, as there
+        is more gain in light than in darkness. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The wise person has his eyes in his head, but the fool walks in darkness.
+        And yet I perceived that the same event happens to all of them. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "Then I said in my heart, \u201CWhat happens to the fool will happen
+        to me also. Why then have I been so very wise?\u201D And I said in my heart
+        that this also is vanity. "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For of the wise as of the fool there is no enduring remembrance,
+        seeing that in the days to come all will have been long forgotten. How the
+        wise dies just like the fool! '
+      comments: []
+    - name: '17: The Vanity of Toil'
+      title: The Vanity of Toil
+      number: 17
+      content: 'So I hated life, because what is done under the sun was grievous
+        to me, for all is vanity and a striving after wind.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'I hated all my toil in which I toil under the sun, seeing that I
+        must leave it to the man who will come after me, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'and who knows whether he will be wise or a fool? Yet he will be master
+        of all for which I toiled and used my wisdom under the sun. This also is
+        vanity. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'So I turned about and gave my heart up to despair over all the toil
+        of my labors under the sun, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'because sometimes a person who has toiled with wisdom and knowledge
+        and skill must leave everything to be enjoyed by someone who did not toil
+        for it. This also is vanity and a great evil. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'What has a man from all the toil and striving of heart with which
+        he toils beneath the sun? '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'For all his days are full of sorrow, and his work is a vexation.
+        Even in the night his heart does not rest. This also is vanity.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: '  There is nothing better for a person than that he should eat and
+        drink and find enjoyment[[COMMENT(0)]] in his toil. This also, I saw, is
+        from the hand of God, '
+      comments:
+      - number: '2:24 '
+        content: 'Or '
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'for apart from him[[COMMENT(0)]] who can eat or who can have enjoyment? '
+      comments:
+      - number: '2:25 '
+        content: 'Some Hebrew manuscripts, Septuagint, Syriac; most Hebrew manuscripts '
+    - name: '26: '
+      title: 
+      number: 26
+      content: For to the one who pleases him God has given wisdom and knowledge
+        and joy, but to the sinner he has given the business of gathering and collecting,
+        only to give to one who pleases God. This also is vanity and a striving after
+        wind.
+      comments: []
+  - verses:
+    - name: '1: A Time for Everything'
+      title: A Time for Everything
+      number: 1
+      content: '  For everything there is a season, and a time for every matter under
+        heaven:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'a time to be born, and a time to die;a time to plant, and a time
+        to pluck up what is planted;  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'a time to kill, and a time to heal;a time to break down, and a time
+        to build up;  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'a time to weep, and a time to laugh;a time to mourn, and a time to
+        dance;  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'a time to cast away stones, and a time to gather stones together;a
+        time to embrace, and a time to refrain from embracing;  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'a time to seek, and a time to lose;a time to keep, and a time to
+        cast away;  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'a time to tear, and a time to sew;a time to keep silence, and a time
+        to speak;  '
+      comments: []
+    - name: '8: The God-Given Task'
+      title: The God-Given Task
+      number: 8
+      content: 'a time to love, and a time to hate;a time for war, and a time for
+        peace.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'What gain has the worker from his toil? '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'I have seen the business that God has given to the children of man
+        to be busy with. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "He has made everything beautiful in its time. Also, he has put eternity
+        into man\u2019s heart, yet so that he cannot find out what God has done from
+        the beginning to the end. "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I perceived that there is nothing better for them than to be joyful
+        and to do good as long as they live; '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "also that everyone should eat and drink and take pleasure in all
+        his toil\u2014this is God\u2019s gift to man.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'I perceived that whatever God does endures forever; nothing can be
+        added to it, nor anything taken from it. God has done it, so that people
+        fear before him. '
+      comments: []
+    - name: '15: From Dust to Dust'
+      title: From Dust to Dust
+      number: 15
+      content: 'That which is, already has been; that which is to be, already has
+        been; and God seeks what has been driven away.[[COMMENT(0)]]  '
+      comments:
+      - number: '3:15 '
+        content: 'Hebrew '
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Moreover, I saw under the sun that in the place of justice, even
+        there was wickedness, and in the place of righteousness, even there was wickedness. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'I said in my heart, God will judge the righteous and the wicked,
+        for there is a time for every matter and for every work. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'I said in my heart with regard to the children of man that God is
+        testing them that they may see that they themselves are but beasts. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'For what happens to the children of man and what happens to the beasts
+        is the same; as one dies, so dies the other. They all have the same breath,
+        and man has no advantage over the beasts, for all is vanity.[[COMMENT(0)]]  '
+      comments:
+      - number: '3:19 '
+        content: "The Hebrew term can refer to a \u201Cvapor\u201D or \u201Cmere
+          breath\u201D (see note on 1:2)"
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'All go to one place. All are from the dust, and to dust all return. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Who knows whether the spirit of man goes upward and the spirit of
+        the beast goes down into the earth? '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: So I saw that there is nothing better than that a man should rejoice
+        in his work, for that is his lot. Who can bring him to see what will be after
+        him?
+      comments: []
+  - verses:
+    - name: '1: Evil Under the Sun'
+      title: Evil Under the Sun
+      number: 1
+      content: '    Again I saw all the oppressions that are done under the sun.
+        And behold, the tears of the oppressed, and they had no one to comfort them!
+        On the side of their oppressors there was power, and there was no one to
+        comfort them. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And I thought the dead who are already dead more fortunate than the
+        living who are still alive. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'But better than both is he who has not yet been and has not seen
+        the evil deeds that are done under the sun.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Then I saw that all toil and all skill in work come from a man\u2019s
+        envy of his neighbor. This also is vanity[[COMMENT(0)]] and a striving after
+        wind.  "
+      comments:
+      - number: '4:4 '
+        content: "The Hebrew term can refer to a \u201Cvapor\u201D or \u201Cmere
+          breath\u201D; also verses 7, 8, 16 (see note on 1:2)"
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The fool folds his hands and eats his own flesh.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Better is a handful of quietness than two hands full of toil and
+        a striving after wind.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  Again, I saw vanity under the sun: '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "one person who has no other, either son or brother, yet there is
+        no end to all his toil, and his eyes are never satisfied with riches, so
+        that he never asks, \u201CFor whom am I toiling and depriving myself of pleasure?\u201D
+        This also is vanity and an unhappy business.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Two are better than one, because they have a good reward for their
+        toil. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For if they fall, one will lift up his fellow. But woe to him who
+        is alone when he falls and has not another to lift him up! '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Again, if two lie together, they keep warm, but how can one keep
+        warm alone? '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "And though a man might prevail against one who is alone, two will
+        withstand him\u2014a threefold cord is not quickly broken.  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Better was a poor and wise youth than an old and foolish king who
+        no longer knew how to take advice. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For he went from prison to the throne, though in his own kingdom
+        he had been born poor. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "I saw all the living who move about under the sun, along with that[[COMMENT(0)]]
+        youth who was to stand in the king\u2019s place. "
+      comments:
+      - number: '4:15 '
+        content: 'Hebrew Hebrew '
+    - name: '16: '
+      title: 
+      number: 16
+      content: There was no end of all the people, all of whom he led. Yet those
+        who come later will not rejoice in him. Surely this also is vanity and a
+        striving after wind.
+      comments: []
+  - verses:
+    - name: '1: Fear God'
+      title: Fear God
+      number: 1
+      content: '    [[COMMENT(0)]]  Guard your steps when you go to the house of
+        God. To draw near to listen is better than to offer the sacrifice of fools,
+        for they do not know that they are doing evil. '
+      comments:
+      - number: '5:1 '
+        content: '  Ch 4:17 in Hebrew  '
+    - name: '2: '
+      title: 
+      number: 2
+      content: '[[COMMENT(0)]] Be not rash with your mouth, nor let your heart be
+        hasty to utter a word before God, for God is in heaven and you are on earth.
+        Therefore let your words be few. '
+      comments:
+      - number: '5:2 '
+        content: Ch 5:1 in Hebrew
+    - name: '3: '
+      title: 
+      number: 3
+      content: "For a dream comes with much business, and a fool\u2019s voice with
+        many words.  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'When you vow a vow to God, do not delay paying it, for he has no
+        pleasure in fools. Pay what you vow. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'It is better that you should not vow than that you should vow and
+        not pay. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Let not your mouth lead you[[COMMENT(0)]] into sin, and do not say
+        before the messenger that it was a mistake. Why should God be angry at your
+        voice and destroy the work of your hands? '
+      comments:
+      - number: '5:6 '
+        content: 'Hebrew Or '
+    - name: '7: The Vanity of Wealth and Honor'
+      title: The Vanity of Wealth and Honor
+      number: 7
+      content: 'For when dreams increase and words grow many, there is vanity;[[COMMENT(0)]]
+        but  God is the one you must fear.  '
+      comments:
+      - number: '5:7 '
+        content: "The Hebrew term can refer to a \u201Cvapor\u201D or \u201Cmere
+          breath\u201D; also verse 10 (see note on 1:2)Or "
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  If you see in a province the oppression of the poor and the violation
+        of justice and righteousness, do not be amazed at the matter, for the high
+        official is watched by a higher, and there are yet higher ones over them. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'But this is gain for a land in every way: a king committed to cultivated
+        fields.[[COMMENT(0)]]  '
+      comments:
+      - number: '5:9 '
+        content: The meaning of the Hebrew verse is uncertain
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'He who loves money will not be satisfied with money, nor he who loves
+        wealth with his income; this also is vanity. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'When goods increase, they increase who eat them, and what advantage
+        has their owner but to see them with his eyes? '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Sweet is the sleep of a laborer, whether he eats little or much,
+        but the full stomach of the rich will not let him sleep.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  There is a grievous evil that I have seen under the sun: riches
+        were kept by their owner to his hurt, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'and those riches were lost in a bad venture. And he is father of
+        a son, but he has nothing in his hand. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "As he came from his mother\u2019s womb he shall go again, naked as
+        he came, and shall take nothing for his toil that he may carry away in his
+        hand. "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'This also is a grievous evil: just as he came, so shall he go, and
+        what gain is there to him who toils for the wind? '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Moreover, all his days he eats in darkness in much vexation and sickness
+        and anger.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Behold, what I have seen to be good and fitting is to eat and drink
+        and find enjoyment[[COMMENT(0)]] in all the toil with which one toils under
+        the sun the few days of his life that God has given him, for this is his
+        lot. '
+      comments:
+      - number: '5:18 '
+        content: 'Or '
+    - name: '19: '
+      title: 
+      number: 19
+      content: "Everyone also to whom God has given wealth and possessions and power
+        to enjoy them, and to accept his lot and rejoice in his toil\u2014this is
+        the gift of God. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: For he will not much remember the days of his life because God keeps
+        him occupied with joy in his heart.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '    There is an evil that I have seen under the sun, and it lies
+        heavy on mankind: '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'a man to whom God gives wealth, possessions, and honor, so that he
+        lacks nothing of all that he desires, yet God does not give him power to
+        enjoy them, but a stranger enjoys them. This is vanity;[[COMMENT(0)]] it
+        is a grievous evil. '
+      comments:
+      - number: '6:2 '
+        content: "The Hebrew term can refer to a \u201Cvapor\u201D or \u201Cmere
+          breath\u201D; also verses 4, 9, 11 (see note on 1:2)"
+    - name: '3: '
+      title: 
+      number: 3
+      content: "If a man fathers a hundred children and lives many years, so that
+        the days of his years are many, but his soul is not satisfied with life\u2019s
+        good things, and he also has no burial, I say that a stillborn child is better
+        off than he. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For it comes in vanity and goes in darkness, and in darkness its
+        name is covered. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Moreover, it has not seen the sun or known anything, yet it finds
+        rest rather than he. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Even though he should live a thousand years twice over, yet enjoy[[COMMENT(0)]]
+        no good\u2014do not all go to the one place?  "
+      comments:
+      - number: '6:6 '
+        content: 'Or '
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  All the toil of man is for his mouth, yet his appetite is not satisfied.[[COMMENT(0)]]  '
+      comments:
+      - number: '6:7 '
+        content: 'Hebrew '
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For what advantage has the wise man over the fool? And what does
+        the poor man have who knows how to conduct himself before the living? '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Better is the sight of the eyes than the wandering of the appetite:
+        this also is vanity and a striving after wind.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Whatever has come to be has already been named, and it is known what
+        man is, and that he is not able to dispute with one stronger than he. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The more words, the more vanity, and what is the advantage to man? '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: For who knows what is good for man while he lives the few days of
+        his vain[[COMMENT(0)]] life, which he passes like a shadow? For who can tell
+        man what will be after him under the sun?
+      comments:
+      - number: '6:12 '
+        content: "The Hebrew term can refer to a \u201Cvapor\u201D or \u201Cmere
+          breath\u201D (see note on 1:2)"
+  - verses:
+    - name: '1: The Contrast of Wisdom and Folly'
+      title: The Contrast of Wisdom and Folly
+      number: 1
+      content: '    A good name is better than precious ointment,and the day of death
+        than the day of birth.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'It is better to go to the house of mourningthan to go to the house
+        of feasting,for this is the end of all mankind,and the living will lay it
+        to heart.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Sorrow is better than laughter,  for by sadness of face the heart
+        is made glad.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The heart of the wise is in the house of mourning,but the heart of
+        fools is in the house of mirth.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'It is better for a man to hear the rebuke of the wisethan to hear
+        the song of fools.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  For as the crackling of thorns under a pot,so is the laughter of
+        the fools;this also is vanity.[[COMMENT(0)]]  '
+      comments:
+      - number: '7:6 '
+        content: "The Hebrew term can refer to a \u201Cvapor\u201D or \u201Cmere
+          breath\u201D (see note on 1:2)"
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Surely oppression drives the wise into madness,and a bribe corrupts
+        the heart.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Better is the end of a thing than its beginning,and the patient in
+        spirit is better than the proud in spirit.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Be not quick in your spirit to become angry,  for anger lodges
+        in the heart[[COMMENT(0)]] of fools.  '
+      comments:
+      - number: '7:9 '
+        content: 'Hebrew '
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Say not, \u201CWhy were the former days better than these?\u201DFor
+        it is not from wisdom that you ask this.  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Wisdom is good with an inheritance,an advantage to those who see
+        the sun.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'For the protection of wisdom is like the protection of money,and
+        the advantage of knowledge is that wisdom preserves the life of him who has
+        it.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Consider the work of God:  who can make straight what he has made
+        crooked?  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  In the day of prosperity be joyful, and in the day of adversity
+        consider: God has made the one as well as the other, so that man may not
+        find out anything that will be after him.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'In my vain[[COMMENT(0)]] life I have seen everything. There is a
+        righteous man who perishes in his righteousness, and there is a wicked man
+        who prolongs his life in his evildoing. '
+      comments:
+      - number: '7:15 '
+        content: "The Hebrew term can refer to a \u201Cvapor\u201D or \u201Cmere
+          breath\u201D (see note on 1:2)"
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Be not overly righteous, and do not make yourself too wise. Why should
+        you destroy yourself? '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Be not overly wicked, neither be a fool. Why should you die before
+        your time? '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'It is good that you should take hold of this, and from that withhold
+        not your hand, for the one who fears God shall come out from both of them.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: '  Wisdom gives strength to the wise man more than ten rulers who
+        are in a city.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Surely there is not a righteous man on earth who does good and never
+        sins.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Do not take to heart all the things that people say, lest you hear
+        your servant cursing you. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Your heart knows that many times you yourself have cursed others.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "All this I have tested by wisdom. I said, \u201CI will be wise,\u201D
+        but it was far from me. "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'That which has been is far off, and deep, very deep; who can find
+        it out?  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '  I turned my heart to know and to search out and to seek wisdom
+        and the scheme of things, and to know the wickedness of folly and the foolishness
+        that is madness. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'And I find something more bitter than death: the woman whose heart
+        is snares and nets, and whose hands are fetters. He who pleases God escapes
+        her, but the sinner is taken by her. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "Behold, this is what I found, says the Preacher, while adding one
+        thing to another to find the scheme of things\u2014 "
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'which my soul has sought repeatedly, but I have not found. One man
+        among a thousand I found, but a woman among all these I have not found. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: See, this alone I found, that God made man upright, but they have
+        sought out many schemes.
+      comments: []
+  - verses:
+    - name: "1: Keep the King\u2019s Command"
+      title: "Keep the King\u2019s Command"
+      number: 1
+      content: "  Who is like the wise?And who knows the interpretation of a thing? 
+        A man\u2019s wisdom makes his face shine,and the hardness of his face is
+        changed.  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "I say:[[COMMENT(0)]] Keep the king\u2019s command, because of God\u2019s
+        oath to him.  "
+      comments:
+      - number: '8:2 '
+        content: 'Hebrew lacks Or '
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Be not hasty to go from his presence. Do not take your stand in an
+        evil cause, for he does whatever he pleases. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "For the word of the king is supreme, and who may say to him, \u201CWhat
+        are you doing?\u201D "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Whoever keeps a command will know no evil thing, and the wise heart
+        will know the proper time and the just way.[[COMMENT(0)]]  '
+      comments:
+      - number: '8:5 '
+        content: 'Or '
+    - name: '6: '
+      title: 
+      number: 6
+      content: "For there is a time and a way for everything, although man\u2019s
+        trouble[[COMMENT(0)]] lies heavy on him. "
+      comments:
+      - number: '8:6 '
+        content: 'Or '
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For he does not know what is to be, for who can tell him how it will
+        be? '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'No man has power to retain the spirit, or power over the day of death.
+        There is no discharge from war, nor will wickedness deliver those who are
+        given to it. '
+      comments: []
+    - name: '9: Those Who Fear God Will Do Well'
+      title: Those Who Fear God Will Do Well
+      number: 9
+      content: 'All this I observed while applying my heart to all that is done under
+        the sun, when man had power over man to his hurt.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Then I saw the wicked buried. They used to go in and out of the holy
+        place and were praised[[COMMENT(0)]] in the city where they had done such
+        things. This also is vanity.  '
+      comments:
+      - number: '8:10 '
+        content: "Some Hebrew manuscripts, Septuagint, Vulgate; most Hebrew manuscripts
+          The Hebrew term can refer to a \u201Cvapor\u201D or \u201Cmere breath\u201D;
+          also twice in verse 14 (see note on 1:2)"
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Because the sentence against an evil deed is not executed speedily,
+        the heart of the children of man is fully set to do evil. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Though a sinner does evil a hundred times and prolongs his life,
+        yet I know that it will be well with those who fear God, because they fear
+        before him. '
+      comments: []
+    - name: "13: Man Cannot Know God\u2019s Ways"
+      title: "Man Cannot Know God\u2019s Ways"
+      number: 13
+      content: 'But it will not be well with the wicked, neither will he prolong
+        his days like a shadow, because he does not fear before God.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'There is a vanity that takes place on earth, that there are righteous
+        people to whom it happens according to the deeds of the wicked, and there
+        are wicked people to whom it happens according to the deeds of the righteous.
+        I said that this also is vanity. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And I commend joy, for man has nothing better under the sun but to
+        eat and drink and be joyful, for this will go with him in his toil through
+        the days of his life that God has given him under the sun.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "When I applied my heart to know wisdom, and to see the business that
+        is done on earth, how neither day nor night do one\u2019s eyes see sleep, "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: then I saw all the work of God, that man cannot find out the work
+        that is done under the sun. However much man may toil in seeking, he will
+        not find it out. Even though a wise man claims to know, he cannot find it
+        out.
+      comments: []
+  - verses:
+    - name: '1: Death Comes to All'
+      title: Death Comes to All
+      number: 1
+      content: '  But all this I laid to heart, examining it all, how the righteous
+        and the wise and their deeds are in the hand of God. Whether it is love or
+        hate, man does not know; both are before him. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'It is the same for all, since the same event happens to the righteous
+        and the wicked, to the good and the evil,[[COMMENT(0)]] to the clean and
+        the unclean, to him who sacrifices and him who does not sacrifice. As the
+        good one is, so is the sinner, and he who swears is as he who shuns an oath. '
+      comments:
+      - number: '9:2 '
+        content: 'Septuagint, Syriac, Vulgate; Hebrew lacks '
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'This is an evil in all that is done under the sun, that the same
+        event happens to all. Also, the hearts of the children of man are full of
+        evil, and madness is in their hearts while they live, and after that they
+        go to the dead. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'But he who is joined with all the living has hope, for a living dog
+        is better than a dead lion. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For the living know that they will die, but the dead know nothing,
+        and they have no more reward, for the memory of them is forgotten. '
+      comments: []
+    - name: '6: Enjoy Life with the One You Love'
+      title: Enjoy Life with the One You Love
+      number: 6
+      content: 'Their love and their hate and their envy have already perished, and
+        forever they have no more share in all that is done under the sun.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Go, eat your bread with joy, and drink your wine with a merry heart,
+        for God has already approved what you do.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Let your garments be always white. Let not oil be lacking on your
+        head.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Enjoy life with the wife whom you love, all the days of your vain[[COMMENT(0)]]
+        life that he has given you under the sun, because that is your portion in
+        life and in your toil at which you toil under the sun. '
+      comments:
+      - number: '9:9 '
+        content: "The Hebrew term can refer to a \u201Cvapor\u201D or \u201Cmere
+          breath\u201D (see note on 1:2)"
+    - name: '10: Wisdom Better Than Folly'
+      title: Wisdom Better Than Folly
+      number: 10
+      content: 'Whatever your hand finds to do, do it with your might,[[COMMENT(0)]] 
+        for there is no work or thought or knowledge or wisdom in Sheol, to which
+        you are going.  '
+      comments:
+      - number: '9:10 '
+        content: 'Or '
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Again I saw that under the sun the race is not to the swift, nor
+        the battle to the strong, nor bread to the wise, nor riches to the intelligent,
+        nor favor to those with knowledge, but time and chance happen to them all. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'For man does not know his time. Like fish that are taken in an evil
+        net, and like birds that are caught in a snare, so the children of man are
+        snared at an evil time, when it suddenly falls upon them.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'I have also seen this example of wisdom under the sun, and it seemed
+        great to me. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'There was a little city with few men in it, and a great king came
+        against it and besieged it, building great siegeworks against it. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'But there was found in it a poor, wise man, and he by his wisdom
+        delivered the city. Yet no one remembered that poor man. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "But I say that wisdom is better than might, though the poor man\u2019s
+        wisdom is despised and his words are not heard.  "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'The words of the wise heard in quiet are better than the shouting
+        of a ruler among fools. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: Wisdom is better than weapons of war, but one sinner destroys much
+        good.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "  Dead flies make the perfumer\u2019s ointment give off a stench;so
+        a little folly outweighs wisdom and honor.  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "  A wise man\u2019s heart inclines him to the right,but a fool\u2019s
+        heart to the left.  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Even when the fool walks on the road, he lacks sense,and he says
+        to everyone that he is a fool.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'If the anger of the ruler rises against you, do not leave your place, 
+        for calmness[[COMMENT(0)]] will lay great offenses to rest.  '
+      comments:
+      - number: '10:4 '
+        content: 'Hebrew '
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'There is an evil that I have seen under the sun, as it were an error
+        proceeding from the ruler: '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'folly is set in many high places, and the rich sit in a low place. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'I have seen slaves on horses, and princes walking on the ground like
+        slaves.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'He who digs a pit will fall into it,and a serpent will bite him who
+        breaks through a wall.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  He who quarries stones is hurt by them,and he who splits logs is
+        endangered by them.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'If the iron is blunt, and one does not sharpen the edge,he must use
+        more strength,but wisdom helps one to succeed.[[COMMENT(0)]]  '
+      comments:
+      - number: '10:10 '
+        content: 'Or '
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'If the serpent bites before it is charmed,there is no advantage to
+        the charmer.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "The words of a wise man\u2019s mouth win him favor,[[COMMENT(0)]]but
+        the lips of a fool consume him.  "
+      comments:
+      - number: '10:12 '
+        content: 'Or '
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The beginning of the words of his mouth is foolishness,and the end
+        of his talk is evil madness.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  A fool multiplies words,though no man knows what is to be,and who
+        can tell him what will be after him?  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The toil of a fool wearies him,for he does not know the way to the
+        city.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '  Woe to you, O land, when your king is a child,and your princes
+        feast in the morning!  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Happy are you, O land, when your king is the son of the nobility,and
+        your princes feast at the proper time,for strength, and not for drunkenness!  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Through sloth the roof sinks in,and through indolence the house leaks.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Bread is made for laughter,and wine gladdens life,and money answers
+        everything.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Even in your thoughts, do not curse the king,nor in your bedroom curse
+        the rich,for a bird of the air will carry your voice,or some winged creature
+        tell the matter.
+      comments: []
+  - verses:
+    - name: '1: Cast Your Bread upon the Waters'
+      title: Cast Your Bread upon the Waters
+      number: 1
+      content: '    Cast your bread upon the waters,  for you will find it after
+        many days.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  Give a portion to seven, or even to eight,  for you know not what
+        disaster may happen on earth.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'If the clouds are full of rain,they empty themselves on the earth,and
+        if a tree falls to the south or to the north,in the place where the tree
+        falls, there it will lie.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'He who observes the wind will not sow,and he who regards the clouds
+        will not reap.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'As you do not know the way the spirit comes to the bones in the womb[[COMMENT(0)]]
+        of a woman with child, so you do not know the work of God who makes everything.  '
+      comments:
+      - number: '11:5 '
+        content: 'Some Hebrew manuscripts, Targum; most Hebrew manuscripts '
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'In the morning sow your seed, and at evening withhold not your hand,
+        for you do not know which will prosper, this or that, or whether both alike
+        will be good.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Light is sweet, and it is pleasant for the eyes to see the sun.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'So if a person lives many years, let him rejoice in them all; but
+        let him remember that the days of darkness will be many. All that comes is
+        vanity.[[COMMENT(0)]]  '
+      comments:
+      - number: '11:8 '
+        content: "The Hebrew term can refer to a \u201Cvapor\u201D or \u201Cmere
+          breath\u201D; also verse 10 (see note on 1:2)"
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  Rejoice, O young man, in your youth, and let your heart cheer you
+        in the days of your youth. Walk in the ways of your heart and the sight of
+        your eyes. But know that for all these things God will bring you into judgment.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Remove vexation from your heart, and put away pain[[COMMENT(0)]] from
+        your body, for youth and the dawn of life are vanity.
+      comments:
+      - number: '11:10 '
+        content: 'Or '
+  - verses:
+    - name: '1: Remember Your Creator in Your Youth'
+      title: Remember Your Creator in Your Youth
+      number: 1
+      content: "  Remember also your Creator in the days of your youth, before the
+        evil days come and the years draw near of which you will say, \u201CI have
+        no pleasure in them\u201D; "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'before the sun and the light and the moon and the stars are darkened
+        and the clouds return after the rain, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'in the day when the keepers of the house tremble, and the strong
+        men are bent, and the grinders cease because they are few, and those who
+        look through the windows are dimmed, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "and the doors on the street are shut\u2014when the sound of the grinding
+        is low, and one rises up at the sound of a bird, and all the daughters of
+        song are brought low\u2014 "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "they are afraid also of what is high, and terrors are in the way;
+        the almond tree blossoms, the grasshopper drags itself along,[[COMMENT(0)]]
+        and desire fails, because man is going to his eternal home, and the mourners
+        go about the streets\u2014 "
+      comments:
+      - number: '12:5 '
+        content: 'Or '
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'before the silver cord is snapped, or the golden bowl is broken,
+        or the pitcher is shattered at the fountain, or the wheel broken at the cistern, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'and the dust returns to the earth as it was, and the spirit returns
+        to God who gave it. '
+      comments: []
+    - name: '8: Fear God and Keep His Commandments'
+      title: Fear God and Keep His Commandments
+      number: 8
+      content: 'Vanity[[COMMENT(0)]] of vanities, says the Preacher; all is vanity.  '
+      comments:
+      - number: '12:8 '
+        content: "The Hebrew term can refer to a \u201Cvapor\u201D or \u201Cmere
+          breath\u201D (three times in this verse); see note on 1:2"
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Besides being wise, the Preacher also taught the people knowledge,
+        weighing and studying and arranging many proverbs with great care. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The Preacher sought to find words of delight, and uprightly he wrote
+        words of truth.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  The words of the wise are like goads, and like nails firmly fixed
+        are the collected sayings; they are given by one Shepherd. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'My son, beware of anything beyond these. Of making many books there
+        is no end, and much study is a weariness of the flesh.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The end of the matter; all has been heard. Fear God and keep his
+        commandments, for this is the whole duty of man.[[COMMENT(0)]]  '
+      comments:
+      - number: '12:13 '
+        content: 'Or '
+    - name: '14: '
+      title: 
+      number: 14
+      content: For God will bring every deed into judgment, with[[COMMENT(0)]] every
+        secret thing, whether good or evil.
+      comments:
+      - number: '12:14 '
+        content: 'Or '

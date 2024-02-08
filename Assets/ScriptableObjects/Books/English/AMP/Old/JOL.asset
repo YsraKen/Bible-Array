@@ -1,0 +1,516 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: JOL
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Joel
+  fancyName: 
+  nickname: jol
+  version: {fileID: 11400000, guid: 255596ce6b91ac640b392e20dd4f8a9e, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: The Devastation of Locusts'
+      title: The Devastation of Locusts
+      number: 1
+      content: '  The word of the Lord that came to Joel, the son of Pethuel.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Hear this, O elders,Listen closely, all inhabitants of the land!Has
+        such a thing as this occurred in your days,Or even in the days of your fathers?  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Tell your children about it,And let your children tell their children,And
+        their children the next generation.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'What the gnawing locust has left, the swarming locust has eaten;And
+        what the swarming locust has left, the creeping locust has eaten;And what
+        the creeping locust has left, the stripping locust has eaten [in judgment
+        of Judah].  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Awake [from your intoxication], you drunkards, and weep;Wail, all
+        you drinkers of wine,Because of the [fresh] sweet wineThat is cut off from
+        your mouth.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For a [pagan and hostile] nation has invaded My land [like locusts],Mighty
+        and without number;Its teeth are the teeth of a lion,And it has the fangs
+        of a lioness.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'It has made My vine (My people) a waste and object of horror,And
+        splintered and broken My fig tree.It has stripped them completely bare and
+        thrown them away;Their branches have become white.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Wail like a virgin [bride] clothed with sackclothFor the bridegroom
+        of her youth [who has died].  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'The [daily] grain offering and the drink offering are cut offFrom
+        the house of the Lord;The priests mournWho minister to the Lord.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The field is ruined,The ground mourns;For the grain is ruined,The
+        new wine is dried up,The fresh oil fails.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Be ashamed, O farmers;Wail, O vinedressers,For the wheat and for
+        the barley,Because the harvest of the field has perished.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The vine dries upAnd the fig tree fails;The pomegranate, the palm
+        also, and the apple tree,All the trees of the field dry up,Indeed, joy dries
+        up and withdrawsFrom the sons of men.  '
+      comments: []
+    - name: '13: Starvation and Drought'
+      title: Starvation and Drought
+      number: 13
+      content: 'Clothe yourselves with sackclothAnd lament (cry out in grief), O
+        priests;Wail, O ministers of the altar!Come, spend the night in sackcloth
+        [and pray without ceasing],O ministers of my God,For the grain offering and
+        the drink offeringAre withheld from the house of your God.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Consecrate a fast,Proclaim a solemn assembly,Gather the eldersAnd
+        all the inhabitants of the landTo the house of the Lord your God,And cry
+        out to the Lord [in penitent pleadings].  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Alas for the day!For the [judgment] day of the Lord is at hand,And
+        it will come [upon the nation] as a destruction from the Almighty.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Has not the food been cut off before our eyes,Joy and gladness from
+        the house of our God?  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'The seeds [of grain] shrivel under the clods,The storehouses are
+        desolate and empty,The barns are in ruinsBecause the grain is dried up.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'How the animals groan!The herds of cattle are bewildered and wander
+        aimlesslyBecause they have no pasture;Even the flocks of sheep suffer.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'O Lord, I cry out to You,For fire has devoured the pastures of the
+        wilderness,And the flame has burned up all the trees of the field.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Even the wild animals pant [in longing] for You;For the water brooks
+        are dried upAnd fire has consumed the pastures of the wilderness.
+      comments: []
+  - verses:
+    - name: '1: The Terrible Visitation'
+      title: The Terrible Visitation
+      number: 1
+      content: '  Blow the trumpet in Zion [warning of impending judgment],Sound
+        an alarm on My holy mountain [Zion]!Let all the inhabitants of the land tremble
+        and shudder in fear,For the [judgment] day of the Lord is coming;It is close
+        at hand,  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'A day of darkness and gloom,A day of clouds and of thick [dark] mist,Like
+        the dawn spread over the mountains;There is a [pagan, hostile] people numerous
+        and mighty,The like of which has never been beforeNor will be again afterwardEven
+        for years of many generations.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Before them a fire devours,And behind them a flame burns;Before them
+        the land is like the Garden of Eden,But behind them a desolate wilderness;And
+        nothing at all escapes them.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Their appearance is like the appearance of horses,And they run like
+        war horses.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Like the noise of chariotsThey leap on the tops of the mountains,Like
+        the crackling of a flame of fire devouring the stubble,Like a mighty people
+        set in battle formation.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Before them the people are in anguish;All faces become pale [with
+        terror].  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'They run like warriors;They climb the wall like soldiers.They each
+        march [straight ahead] in line,And they do not deviate from their paths.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'They do not crowd each other;Each one marches in his path.When they
+        burst through the defenses (weapons),They do not break ranks.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'They rush over the city,They run on the wall;They climb up into the
+        houses,They enter at the windows like a thief.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The earth quakes before them,The heavens tremble,The sun and the
+        moon grow darkAnd the stars lose their brightness.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The Lord utters His voice before His army,For His camp is very great,Because
+        strong and powerful is he who [obediently] carries out His word.For the day
+        of the Lord is indeed great and very terrible [causing dread];Who can endure
+        it?  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CEven now,\u201D says the Lord,\u201CTurn and come to Me with
+        all your heart [in genuine repentance],With fasting and weeping and mourning
+        [until every barrier is removed and the broken fellowship is restored];  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Rip your heart to pieces [in sorrow and contrition] and not your
+        garments.\u201DNow return [in repentance] to the Lord your God,For He is
+        gracious and compassionate,Slow to anger, abounding in lovingkindness [faithful
+        to His covenant with His people];And He relents [His sentence of] evil [when
+        His people genuinely repent].  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Who knows whether He will relent [and revoke your sentence],And leave
+        a blessing behind Him,Even a grain offering and a drink offering [from the
+        bounty He provides you]For the Lord your God?  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Blow a trumpet in Zion [warning of impending judgment],Dedicate a
+        fast [as a day of restraint and humility], call a solemn assembly.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Gather the people, sanctify the congregation,Assemble the elders,Gather
+        the children and the nursing infants.Let the bridegroom come out of his roomAnd
+        the bride out of her bridal chamber. [No one is excused from the assembly.]  '
+      comments: []
+    - name: '17: Deliverance Promised'
+      title: Deliverance Promised
+      number: 17
+      content: "Let the priests, the ministers of the Lord,Weep between the porch
+        and the altar,And let them say, \u201CHave compassion and spare Your people,
+        O Lord,And do not make Your inheritance (Israel) an object of ridicule,Or
+        a [humiliating] byword among the [Gentile] nations.Why should they say among
+        the peoples,\u2018Where is their God?\u2019\u2009\u201D  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Then the Lord will be jealous for His land [ready to defend it since
+        it is rightfully and uniquely His]And will have compassion on His people
+        [and will spare them].  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "The Lord will answer and say to His people,\u201CBehold, I am going
+        to send you grain and new wine and oil,And you will be satisfied in full
+        with them;And I will never again make you an object of ridicule among the
+        [Gentile] nations.  "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "But I will remove the northern army far away from you,And I will
+        drive it into a parched and desolate land,With its forward guard into the
+        eastern sea (Dead Sea)And with its rear guard into the western sea (Mediterranean
+        Sea).And its stench will arise and its foul odor of decay will come up [this
+        is the fate of the northern army in the final day of the Lord],For He has
+        done great things.\u201D  "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Do not fear, O land; be glad and rejoice,For the Lord has done great
+        things!  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Do not be afraid, you animals of the field,For the pastures of the
+        wilderness have turned green;The tree has produced its fruit,And the fig
+        tree and the vine have yielded in full.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'So rejoice, O children of Zion,And delight in the Lord, your God;For
+        He has given you the early [autumn] rain in vindicationAnd He has poured
+        down the rain for you,The early [autumn] rain and the late [spring] rain,
+        as before.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'And the threshing floors shall be full of grain,And the vats shall
+        overflow with new wine and oil.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "\u201CAnd I will compensate you for the yearsThat the swarming locust
+        has eaten,The creeping locust, the stripping locust, and the gnawing locust\u2014My
+        great army which I sent among you.  "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'You will have plenty to eat and be satisfiedAnd praise the name of
+        the Lord your GodWho has dealt wondrously with you;And My people shall never
+        be put to shame.  '
+      comments: []
+    - name: '27: The Promise of the Spirit'
+      title: The Promise of the Spirit
+      number: 27
+      content: 'And you shall know [without any doubt] that I am in the midst of
+        Israel [to protect and bless you],And that I am the Lord your God,And there
+        is no other;My people will never be put to shame.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "\u201CIt shall come about after thisThat I shall pour out My Spirit
+        on all mankind;And your sons and your daughters will prophesy,Your old men
+        will dream dreams,Your young men will see visions.  "
+      comments: []
+    - name: '29: The Day of the Lord'
+      title: The Day of the Lord
+      number: 29
+      content: 'Even on the male and female servantsI will pour out My Spirit in
+        those days.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'I will show signs and wonders [displaying My power] in the heavens
+        and on the earth,Blood and fire and columns of smoke.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'The sun will be turned into darknessAnd the moon into bloodBefore
+        the great and terrible day of the Lord comes.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: And it shall come about that whoever calls on the name of the LordWill
+        be saved [from the coming judgment]For on Mount Zion and in JerusalemThere
+        will be those who escape,As the Lord has said,Even among the remnant [of
+        survivors] whom the Lord calls.
+      comments: []
+  - verses:
+    - name: '1: The Nations Will Be Judged'
+      title: The Nations Will Be Judged
+      number: 1
+      content: "  \u201CFor behold, in those [climactic] days and at that time,When
+        I restore the fortunes of Judah and Jerusalem,  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'I will gather together all the [Gentile] nations [that were hostile
+        to My people]And bring them down into the Valley of Jehoshaphat (the Lord
+        has judged).And there I will deal with them and enter into judgment with
+        them thereFor [their treatment of] My people, My inheritance, Israel,Whom
+        they have scattered among the nations,And [because] they have encroached
+        on My land and divided it up.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'They have also cast lots for My people,And have traded a boy for
+        a prostituteAnd have sold a girl for wine that they may drink.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Moreover, what are you to Me, O Tyre and Sidon and all the [five
+        small] regions of Philistia? Will you pay Me back for something [I have supposedly
+        done to you]? Even if you do pay Me back, I will swiftly and speedily return
+        your deed [of retaliation] on your own head. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Because you have taken My silver and My gold and have carried My
+        precious treasures to your temples and palaces, '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'and have sold the children of Judah and the children of Jerusalem
+        to the Greeks, so that you may send them far away from their territory, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'behold, I am going to stir them up from the place where you have
+        sold them [and return them to their land], and I shall return your action
+        [of retaliation] on your own head. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Also I will sell your sons and your daughters into the hand of the
+        children of Judah, and they will sell them to the Sabeans, to a distant nation,\u201D
+        for the Lord has spoken.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Proclaim this among the [pagan] nations:Prepare a war! Stir up the
+        mighty men!Let all the men of war come near, let them come up!  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Beat your plowshares into swordsAnd your pruning hooks into spears;Let
+        the weak say, \u201CI am strong!\u201D  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Hurry and come, all you surrounding nations,And gather yourselves
+        there;Bring down, O Lord, Your mighty ones (Your warriors).  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Let the nations be stirred [to action]And come up to the Valley of
+        Jehoshaphat,For there I will sit to judge and punishAll the surrounding nations.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Put in the sickle [of judgment], for the harvest is ripe;Come, tread
+        [the grapes], for the wine press is full;The vats overflow, for the wickedness
+        [of the people] is great.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Multitudes, multitudes in the valley of decision (judgment)!For the
+        day of the Lord is near in the valley of decision [when judgment is executed].  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The sun and the moon grow darkAnd the stars lose their brightness.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The Lord thunders and roars from ZionAnd utters His voice from Jerusalem
+        [in judgment of His enemies],And the heavens and the earth tremble and shudder;But
+        the Lord is a refuge for His peopleAnd a stronghold [of protection] to the
+        children of Israel.  '
+      comments: []
+    - name: '17: Judah Will Be Blessed'
+      title: Judah Will Be Blessed
+      number: 17
+      content: 'Then you will know and understand fully that I am the Lord your God,Dwelling
+        in Zion, My holy mountain.Then Jerusalem will be holy,And strangers [who
+        do not belong] will no longer pass through it.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And in that dayThe mountains will drip with sweet wineAnd the hills
+        will flow with milk;And all the brooks and riverbeds of Judah will flow with
+        water,And a fountain will go out from the house of the LordTo water the [desert]
+        Valley of Shittim.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Egypt will become a waste,And Edom will become a desolate wilderness,Because
+        of their violence against the children of Judah,In whose land they have shed
+        innocent blood.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'But Judah shall be inhabited foreverAnd Jerusalem from generation
+        to generation.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: And I shall avenge their blood which I have not avenged,For the Lord
+        dwells in Zion.
+      comments: []

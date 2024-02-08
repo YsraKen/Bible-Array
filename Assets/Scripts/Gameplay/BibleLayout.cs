@@ -8,6 +8,8 @@ public class BibleLayout : MonoBehaviour
 	public void Repaint()
 	{
 		var bibles = GameManager.Instance.BibleInstances;
+		if(bibles.IsNullOrEmpty()) return;
+		
 		Array.ForEach(bibles, bible => bible.UpdateVerseSizes());
 		
 		int numberOfVerses = bibles[0].Body.childCount;

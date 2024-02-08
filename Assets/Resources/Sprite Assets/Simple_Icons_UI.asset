@@ -54,7 +54,7 @@ MonoBehaviour:
   - m_ElementType: 2
     m_Unicode: 65534
     m_GlyphIndex: 2
-    m_Scale: 0.65
+    m_Scale: 0.8
     m_Name: Simple_Icons_UI_8
     m_HashCode: -1361980115
   - m_ElementType: 2
@@ -351,7 +351,7 @@ MonoBehaviour:
       m_Width: 75.390144
       m_Height: 67.67579
       m_HorizontalBearingX: 0
-      m_HorizontalBearingY: 85
+      m_HorizontalBearingY: 60
       m_HorizontalAdvance: 75.390144
     m_GlyphRect:
       m_X: 948

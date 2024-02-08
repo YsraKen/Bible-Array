@@ -19,7 +19,9 @@ MonoBehaviour:
   description: 
   chapters:
   - verses:
-    - title: "The King\u2019s Banquet"
+    - name: "1: The King\u2019s Banquet"
+      title: "The King\u2019s Banquet"
+      number: 1
       content: '  These events happened in the days of King Xerxes,[[COMMENT(0)]]
         who reigned over 127 provinces stretching from India to Ethiopia.[[COMMENT(1)]]  '
       comments:
@@ -28,126 +30,187 @@ MonoBehaviour:
           the book of Esther. Xerxes reigned 486\u2013465 <span class=\"ChapterContent_sc__Hg9da\">b.c.</span>"
       - number: '1:1b '
         content: Hebrew <b>to Cush.</b>
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'At that time Xerxes ruled his empire from his royal throne at the
         fortress of Susa. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'In the third year of his reign, he gave a banquet for all his nobles
         and officials. He invited all the military officers of Persia and Media as
         well as the princes and nobles of the provinces. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "The celebration lasted 180 days\u2014a tremendous display of the
         opulent wealth of his empire and the pomp and splendor of his majesty.  "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'When it was all over, the king gave a banquet for all the people,
         from the greatest to the least, who were in the fortress of Susa. It lasted
         for seven days and was held in the courtyard of the palace garden. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'The courtyard was beautifully decorated with white cotton curtains
         and blue hangings, which were fastened with white linen cords and purple
         ribbons to silver rings embedded in marble pillars. Gold and silver couches
         stood on a mosaic pavement of porphyry, marble, mother-of-pearl, and other
         costly stones.  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "Drinks were served in gold goblets of many designs, and there was
         an abundance of royal wine, reflecting the king\u2019s generosity. "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'By edict of the king, no limits were placed on the drinking, for
         the king had instructed all his palace officials to serve each man as much
         as he wanted.  '
       comments: []
-    - title: Queen Vashti Deposed
+    - name: '9: Queen Vashti Deposed'
+      title: Queen Vashti Deposed
+      number: 9
       content: 'At the same time, Queen Vashti gave a banquet for the women in the
         royal palace of King Xerxes.  '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "On the seventh day of the feast, when King Xerxes was in high spirits
         because of the wine, he told the seven eunuchs who attended him\u2014Mehuman,
         Biztha, Harbona, Bigtha, Abagtha, Zethar, and Carcas\u2014 "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'to bring Queen Vashti to him with the royal crown on her head. He
         wanted the nobles and all the other men to gaze on her beauty, for she was
         a very beautiful woman. '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "But when they conveyed the king\u2019s order to Queen Vashti, she
         refused to come. This made the king furious, and he burned with anger.  "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'He immediately consulted with his wise advisers, who knew all the
         Persian laws and customs, for he always asked their advice. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "The names of these men were Carshena, Shethar, Admatha, Tarshish,
         Meres, Marsena, and Memucan\u2014seven nobles of Persia and Media. They met
         with the king regularly and held the highest positions in the empire.  "
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "\u201CWhat must be done to Queen Vashti?\u201D the king demanded.
         \u201CWhat penalty does the law provide for a queen who refuses to obey the
         king\u2019s orders, properly sent through his eunuchs?\u201D  "
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "Memucan answered the king and his nobles, \u201CQueen Vashti has
         wronged not only the king but also every noble and citizen throughout your
         empire. "
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'Women everywhere will begin to despise their husbands when they learn
         that Queen Vashti has refused to appear before the king. '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: "Before this day is out, the wives of all the king\u2019s nobles throughout
         Persia and Media will hear what the queen did and will start treating their
         husbands the same way. There will be no end to their contempt and anger.  "
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: "\u201CSo if it please the king, we suggest that you issue a written
         decree, a law of the Persians and Medes that cannot be revoked. It should
         order that Queen Vashti be forever banished from the presence of King Xerxes,
         and that the king should choose another queen more worthy than she. "
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: "When this decree is published throughout the king\u2019s vast empire,
         husbands everywhere, whatever their rank, will receive proper respect from
         their wives!\u201D  "
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: "The king and his nobles thought this made good sense, so he followed
         Memucan\u2019s counsel. "
       comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: He sent letters to all parts of the empire, to each province in its
+        own script and language, proclaiming that every man should be the ruler of
+        his own home and should say whatever he pleases.[[COMMENT(0)]]
+      comments:
+      - number: '1:22 '
+        content: Or <b>and should speak in the language of his own people.</b>
   - verses:
-    - title: Esther Becomes Queen
+    - name: '1: Esther Becomes Queen'
+      title: Esther Becomes Queen
+      number: 1
       content: "  But after Xerxes\u2019 anger had subsided, he began thinking about
         Vashti and what she had done and the decree he had made. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "So his personal attendants suggested, \u201CLet us search the empire
         to find beautiful young virgins for the king. "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "Let the king appoint agents in each province to bring these beautiful
         young women into the royal harem at the fortress of Susa. Hegai, the king\u2019s
         eunuch in charge of the harem, will see that they are all given beauty treatments. "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "After that, the young woman who most pleases the king will be made
         queen instead of Vashti.\u201D This advice was very appealing to the king,
         so he put the plan into effect.  "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'At that time there was a Jewish man in the fortress of Susa whose
         name was Mordecai son of Jair. He was from the tribe of Benjamin and was
         a descendant of Kish and Shimei. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'His family[[COMMENT(0)]] had been among those who, with King Jehoiachin[[COMMENT(1)]]
         of Judah, had been exiled from Jerusalem to Babylon by King Nebuchadnezzar. '
       comments:
@@ -155,41 +218,57 @@ MonoBehaviour:
         content: Hebrew <b>He.</b>
       - number: '2:6b '
         content: Hebrew <b>Jeconiah, </b>a variant spelling of Jehoiachin.
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'This man had a very beautiful and lovely young cousin, Hadassah,
         who was also called Esther. When her father and mother died, Mordecai adopted
         her into his family and raised her as his own daughter.  '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "As a result of the king\u2019s decree, Esther, along with many other
         young women, was brought to the king\u2019s harem at the fortress of Susa
         and placed in Hegai\u2019s care. "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "Hegai was very impressed with Esther and treated her kindly. He quickly
         ordered a special menu for her and provided her with beauty treatments. He
         also assigned her seven maids specially chosen from the king\u2019s palace,
         and he moved her and her maids into the best place in the harem.  "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Esther had not told anyone of her nationality and family background,
         because Mordecai had directed her not to do so. '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Every day Mordecai would take a walk near the courtyard of the harem
         to find out about Esther and what was happening to her.  '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "Before each young woman was taken to the king\u2019s bed, she was
         given the prescribed twelve months of beauty treatments\u2014six months with
         oil of myrrh, followed by six months with special perfumes and ointments. "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "When it was time for her to go to the king\u2019s palace, she was
         given her choice of whatever clothing or jewelry she wanted to take from
         the harem. "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "That evening she was taken to the king\u2019s private rooms, and
         the next morning she was brought to the second harem,[[COMMENT(0)]] where
         the king\u2019s wives lived. There she would be under the care of Shaashgaz,
@@ -199,14 +278,18 @@ MonoBehaviour:
       comments:
       - number: '2:14 '
         content: Or <b>to another part of the harem.</b>
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "Esther was the daughter of Abihail, who was Mordecai\u2019s uncle.
         (Mordecai had adopted his younger cousin Esther.) When it was Esther\u2019s
         turn to go to the king, she accepted the advice of Hegai, the eunuch in charge
         of the harem. She asked for nothing except what he suggested, and she was
         admired by everyone who saw her.  "
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'Esther was taken to King Xerxes at the royal palace in early winter[[COMMENT(0)]]
         of the seventh year of his reign. '
       comments:
@@ -217,17 +300,23 @@ MonoBehaviour:
           of the ancient Hebrew lunar calendar occurred within the months of December
           479 <span class="ChapterContent_sc__Hg9da">b.c.</span> and January 478
           <span class="ChapterContent_sc__Hg9da">b.c.</span>
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'And the king loved Esther more than any of the other young women.
         He was so delighted with her that he set the royal crown on her head and
         declared her queen instead of Vashti. '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: "To celebrate the occasion, he gave a great banquet in Esther\u2019s
         honor for all his nobles and officials, declaring a public holiday for the
         provinces and giving generous gifts to everyone.  "
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'Even after all the young women had been transferred to the second
         harem[[COMMENT(0)]] and Mordecai had become a palace official,[[COMMENT(1)]]  '
       comments:
@@ -235,12 +324,16 @@ MonoBehaviour:
         content: The meaning of the Hebrew is uncertain.
       - number: '2:19b '
         content: Hebrew <b>and Mordecai was sitting in the gate of the king.</b>
-    - title: "Mordecai\u2019s Loyalty to the King"
+    - name: "20: Mordecai\u2019s Loyalty to the King"
+      title: "Mordecai\u2019s Loyalty to the King"
+      number: 20
       content: "Esther continued to keep her family background and nationality a
         secret. She was still following Mordecai\u2019s directions, just as she did
         when she lived in his home.  "
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: "One day as Mordecai was on duty at the king\u2019s gate, two of the
         king\u2019s eunuchs, Bigthana[[COMMENT(0)]] and Teresh\u2014who were guards
         at the door of the king\u2019s private quarters\u2014became angry at King
@@ -248,41 +341,64 @@ MonoBehaviour:
       comments:
       - number: '2:21 '
         content: Hebrew <b>Bigthan; </b>compare 6:2.
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'But Mordecai heard about the plot and gave the information to Queen
         Esther. She then told the king about it and gave Mordecai credit for the
         report. '
       comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "When an investigation was made and Mordecai\u2019s story was found
+        to be true, the two men were impaled on a sharpened pole. This was all recorded
+        in The Book of the History of King Xerxes\u2019 Reign."
+      comments: []
   - verses:
-    - title: "Haman\u2019s Plot against the Jews"
+    - name: "1: Haman\u2019s Plot against the Jews"
+      title: "Haman\u2019s Plot against the Jews"
+      number: 1
       content: '  Some time later King Xerxes promoted Haman son of Hammedatha the
         Agagite over all the other nobles, making him the most powerful official
         in the empire. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "All the king\u2019s officials would bow down before Haman to show
         him respect whenever he passed by, for so the king had commanded. But Mordecai
         refused to bow down or show him respect.  "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "Then the palace officials at the king\u2019s gate asked Mordecai,
         \u201CWhy are you disobeying the king\u2019s command?\u201D "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "They spoke to him day after day, but still he refused to comply with
         the order. So they spoke to Haman about this to see if he would tolerate
         Mordecai\u2019s conduct, since Mordecai had told them he was a Jew.  "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'When Haman saw that Mordecai would not bow down or show him respect,
         he was filled with rage. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "He had learned of Mordecai\u2019s nationality, so he decided it was
         not enough to lay hands on Mordecai alone. Instead, he looked for a way to
         destroy all the Jews throughout the entire empire of Xerxes.  "
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "So in the month of April,[[COMMENT(0)]] during the twelfth year of
         King Xerxes\u2019 reign, lots were cast in Haman\u2019s presence (the lots
         were called purim) to determine the best day and month to take action. And
@@ -298,14 +414,18 @@ MonoBehaviour:
           the month of Adar; </b>Hebrew reads <b>in the twelfth month, </b>of the
           ancient Hebrew lunar calendar. The date selected was March 7, 473 <span
           class="ChapterContent_sc__Hg9da">b.c.</span>; also see note on 2:16.
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "Then Haman approached King Xerxes and said, \u201CThere is a certain
         race of people scattered through all the provinces of your empire who keep
         themselves separate from everyone else. Their laws are different from those
         of any other people, and they refuse to obey the laws of the king. So it
         is not in the king\u2019s interest to let them live. "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "If it please the king, issue a decree that they be destroyed, and
         I will give 10,000 large sacks[[COMMENT(0)]] of silver to the government
         administrators to be deposited in the royal treasury.\u201D  "
@@ -313,16 +433,22 @@ MonoBehaviour:
       - number: '3:9 '
         content: Hebrew <b>10,000 talents</b>, about 375 tons or 340 metric tons
           in weight.
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'The king agreed, confirming his decision by removing his signet ring
         from his finger and giving it to Haman son of Hammedatha the Agagite, the
         enemy of the Jews. '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "The king said, \u201CThe money and the people are both yours to do
         with as you see fit.\u201D  "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "So on April 17[[COMMENT(0)]] the king\u2019s secretaries were summoned,
         and a decree was written exactly as Haman dictated. It was sent to the king\u2019s
         highest officers, the governors of the respective provinces, and the nobles
@@ -333,7 +459,9 @@ MonoBehaviour:
         content: Hebrew <b>On the thirteenth day of the first month, </b>of the ancient
           Hebrew lunar calendar. This day was April 17, 474 <span class="ChapterContent_sc__Hg9da">b.c.</span>;
           also see note on 2:16.
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Dispatches were sent by swift messengers into all the provinces of
         the empire, giving the order that all Jews\u2014young and old, including
         women and children\u2014must be killed, slaughtered, and annihilated on a
@@ -345,251 +473,384 @@ MonoBehaviour:
           of Adar, </b>of the ancient Hebrew lunar calendar. The date selected was
           March 7, 473 <span class="ChapterContent_sc__Hg9da">b.c.</span>; also see
           note on 2:16.
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'A copy of this decree was to be issued as law in every province and
         proclaimed to all peoples, so that they would be ready to do their duty on
         the appointed day. '
       comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "At the king\u2019s command, the decree went out by swift messengers,
+        and it was also proclaimed in the fortress of Susa. Then the king and Haman
+        sat down to drink, but the city of Susa fell into confusion."
+      comments: []
   - verses:
-    - title: "Mordecai Requests Esther\u2019s Help"
+    - name: "1: Mordecai Requests Esther\u2019s Help"
+      title: "Mordecai Requests Esther\u2019s Help"
+      number: 1
       content: '  When Mordecai learned about all that had been done, he tore his
         clothes, put on burlap and ashes, and went out into the city, crying with
         a loud and bitter wail. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'He went as far as the gate of the palace, for no one was allowed
         to enter the palace gate while wearing clothes of mourning. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "And as news of the king\u2019s decree reached all the provinces,
         there was great mourning among the Jews. They fasted, wept, and wailed, and
         many people lay in burlap and ashes.  "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "When Queen Esther\u2019s maids and eunuchs came and told her about
         Mordecai, she was deeply distressed. She sent clothing to him to replace
         the burlap, but he refused it. "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "Then Esther sent for Hathach, one of the king\u2019s eunuchs who
         had been appointed as her attendant. She ordered him to go to Mordecai and
         find out what was troubling him and why he was in mourning. "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'So Hathach went out to Mordecai in the square in front of the palace
         gate.  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Mordecai told him the whole story, including the exact amount of
         money Haman had promised to pay into the royal treasury for the destruction
         of the Jews. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Mordecai gave Hathach a copy of the decree issued in Susa that called
         for the death of all Jews. He asked Hathach to show it to Esther and explain
         the situation to her. He also asked Hathach to direct her to go to the king
         to beg for mercy and plead for her people. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "So Hathach returned to Esther with Mordecai\u2019s message.  "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Then Esther told Hathach to go back and relay this message to Mordecai: '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "\u201CAll the king\u2019s officials and even the people in the provinces
         know that anyone who appears before the king in his inner court without being
         invited is doomed to die unless the king holds out his gold scepter. And
         the king has not called for me to come to him for thirty days.\u201D "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "So Hathach[[COMMENT(0)]] gave Esther\u2019s message to Mordecai.  "
       comments:
       - number: '4:12 '
         content: As in Greek version; Hebrew reads <b>they.</b>
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Mordecai sent this reply to Esther: \u201CDon\u2019t think for a
         moment that because you\u2019re in the palace you will escape when all other
         Jews are killed. "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "If you keep quiet at a time like this, deliverance and relief for
         the Jews will arise from some other place, but you and your relatives will
         die. Who knows if perhaps you were made queen for just such a time as this?\u201D  "
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Then Esther sent this reply to Mordecai: '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "\u201CGo and gather together all the Jews of Susa and fast for me.
         Do not eat or drink for three days, night or day. My maids and I will do
         the same. And then, though it is against the law, I will go in to see the
         king. If I must die, I must die.\u201D "
       comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: So Mordecai went away and did everything as Esther had ordered him.
+      comments: []
   - verses:
-    - title: "Esther\u2019s Request to the King"
+    - name: "1: Esther\u2019s Request to the King"
+      title: "Esther\u2019s Request to the King"
+      number: 1
       content: "  On the third day of the fast, Esther put on her royal robes and
         entered the inner court of the palace, just across from the king\u2019s hall.
         The king was sitting on his royal throne, facing the entrance. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'When he saw Queen Esther standing there in the inner court, he welcomed
         her and held out the gold scepter to her. So Esther approached and touched
         the end of the scepter.  '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "Then the king asked her, \u201CWhat do you want, Queen Esther? What
         is your request? I will give it to you, even if it is half the kingdom!\u201D  "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "And Esther replied, \u201CIf it please the king, let the king and
         Haman come today to a banquet I have prepared for the king.\u201D  "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "The king turned to his attendants and said, \u201CTell Haman to come
         quickly to a banquet, as Esther has requested.\u201D So the king and Haman
         went to Esther\u2019s banquet.  "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "And while they were drinking wine, the king said to Esther, \u201CNow
         tell me what you really want. What is your request? I will give it to you,
         even if it is half the kingdom!\u201D  "
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "Esther replied, \u201CThis is my request and deepest wish. "
       comments: []
-    - title: "Haman\u2019s Plan to Kill Mordecai"
+    - name: "8: Haman\u2019s Plan to Kill Mordecai"
+      title: "Haman\u2019s Plan to Kill Mordecai"
+      number: 8
       content: "If I have found favor with the king, and if it pleases the king to
         grant my request and do what I ask, please come with Haman tomorrow to the
         banquet I will prepare for you. Then I will explain what this is all about.\u201D  "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Haman was a happy man as he left the banquet! But when he saw Mordecai
         sitting at the palace gate, not standing up or trembling nervously before
         him, Haman became furious. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'However, he restrained himself and went on home.Then Haman gathered
         together his friends and Zeresh, his wife, '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'and boasted to them about his great wealth and his many children.
         He bragged about the honors the king had given him and how he had been promoted
         over all the other nobles and officials.  '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "Then Haman added, \u201CAnd that\u2019s not all! Queen Esther invited
         only me and the king himself to the banquet she prepared for us. And she
         has invited me to dine with her and the king again tomorrow!\u201D "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Then he added, \u201CBut this is all worth nothing as long as I see
         Mordecai the Jew just sitting there at the palace gate.\u201D  "
       comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "So Haman\u2019s wife, Zeresh, and all his friends suggested, \u201CSet
+        up a sharpened pole that stands seventy-five feet[[COMMENT(0)]] tall, and
+        in the morning ask the king to impale Mordecai on it. When this is done,
+        you can go on your merry way to the banquet with the king.\u201D This pleased
+        Haman, and he ordered the pole set up."
+      comments:
+      - number: '5:14 '
+        content: Hebrew <b>50 cubits </b>[23 meters].
   - verses:
-    - title: The King Honors Mordecai
+    - name: '1: The King Honors Mordecai'
+      title: The King Honors Mordecai
+      number: 1
       content: '  That night the king had trouble sleeping, so he ordered an attendant
         to bring the book of the history of his reign so it could be read to him. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "In those records he discovered an account of how Mordecai had exposed
         the plot of Bigthana and Teresh, two of the eunuchs who guarded the door
         to the king\u2019s private quarters. They had plotted to assassinate King
         Xerxes.  "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "\u201CWhat reward or recognition did we ever give Mordecai for this?\u201D
         the king asked.His attendants replied, \u201CNothing has been done for him.\u201D  "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "\u201CWho is that in the outer court?\u201D the king inquired. As
         it happened, Haman had just arrived in the outer court of the palace to ask
         the king to impale Mordecai on the pole he had prepared.  "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "So the attendants replied to the king, \u201CHaman is out in the
         court.\u201D\u201CBring him in,\u201D the king ordered. "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "So Haman came in, and the king said, \u201CWhat should I do to honor
         a man who truly pleases me?\u201DHaman thought to himself, \u201CWhom would
         the king wish to honor more than me?\u201D "
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "So he replied, \u201CIf the king wishes to honor someone, "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "he should bring out one of the king\u2019s own royal robes, as well
         as a horse that the king himself has ridden\u2014one with a royal emblem
         on its head. "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "Let the robes and the horse be handed over to one of the king\u2019s
         most noble officials. And let him see that the man whom the king wishes to
         honor is dressed in the king\u2019s robes and led through the city square
         on the king\u2019s horse. Have the official shout as they go, \u2018This
         is what the king does for someone he wishes to honor!\u2019\u201D  "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "\u201CExcellent!\u201D the king said to Haman. \u201CQuick! Take
         the robes and my horse, and do just as you have said for Mordecai the Jew,
         who sits at the gate of the palace. Leave out nothing you have suggested!\u201D  "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "So Haman took the robes and put them on Mordecai, placed him on the
         king\u2019s own horse, and led him through the city square, shouting, \u201CThis
         is what the king does for someone he wishes to honor!\u201D "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Afterward Mordecai returned to the palace gate, but Haman hurried
         home dejected and completely humiliated.  '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "When Haman told his wife, Zeresh, and all his friends what had happened,
         his wise advisers and his wife said, \u201CSince Mordecai\u2014this man who
         has humiliated you\u2014is of Jewish birth, you will never succeed in your
         plans against him. It will be fatal to continue opposing him.\u201D  "
       comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "While they were still talking, the king\u2019s eunuchs arrived and
+        quickly took Haman to the banquet Esther had prepared."
+      comments: []
   - verses:
-    - title: The King Executes Haman
+    - name: '1: The King Executes Haman'
+      title: The King Executes Haman
+      number: 1
       content: "  So the king and Haman went to Queen Esther\u2019s banquet. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "On this second occasion, while they were drinking wine, the king
         again said to Esther, \u201CTell me what you want, Queen Esther. What is
         your request? I will give it to you, even if it is half the kingdom!\u201D  "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "Queen Esther replied, \u201CIf I have found favor with the king,
         and if it pleases the king to grant my request, I ask that my life and the
         lives of my people will be spared. "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "For my people and I have been sold to those who would kill, slaughter,
         and annihilate us. If we had merely been sold as slaves, I could remain quiet,
         for that would be too trivial a matter to warrant disturbing the king.\u201D  "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "\u201CWho would do such a thing?\u201D King Xerxes demanded. \u201CWho
         would be so presumptuous as to touch you?\u201D  "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "Esther replied, \u201CThis wicked Haman is our adversary and our
         enemy.\u201D Haman grew pale with fright before the king and queen. "
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Then the king jumped to his feet in a rage and went out into the
         palace garden.Haman, however, stayed behind to plead for his life with Queen
         Esther, for he knew that the king intended to kill him. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "In despair he fell on the couch where Queen Esther was reclining,
         just as the king was returning from the palace garden.The king exclaimed,
         \u201CWill he even assault the queen right here in the palace, before my
         very eyes?\u201D And as soon as the king spoke, his attendants covered Haman\u2019s
         face, signaling his doom.  "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "Then Harbona, one of the king\u2019s eunuchs, said, \u201CHaman has
         set up a sharpened pole that stands seventy-five feet[[COMMENT(0)]] tall
         in his own courtyard. He intended to use it to impale Mordecai, the man who
@@ -598,49 +859,73 @@ MonoBehaviour:
       comments:
       - number: '7:9 '
         content: Hebrew <b>50 cubits </b>[23 meters].
+    - name: '10: '
+      title: 
+      number: 10
+      content: "So they impaled Haman on the pole he had set up for Mordecai, and
+        the king\u2019s anger subsided."
+      comments: []
   - verses:
-    - title: A Decree to Help the Jews
+    - name: '1: A Decree to Help the Jews'
+      title: A Decree to Help the Jews
+      number: 1
       content: '  On that same day King Xerxes gave the property of Haman, the enemy
         of the Jews, to Queen Esther. Then Mordecai was brought before the king,
         for Esther had told the king how they were related. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "The king took off his signet ring\u2014which he had taken back from
         Haman\u2014and gave it to Mordecai. And Esther appointed Mordecai to be in
         charge of Haman\u2019s property.  "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Then Esther went again before the king, falling down at his feet
         and begging him with tears to stop the evil plot devised by Haman the Agagite
         against the Jews. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Again the king held out the gold scepter to Esther. So she rose and
         stood before him.  '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "Esther said, \u201CIf it please the king, and if I have found favor
         with him, and if he thinks it is right, and if I am pleasing to him, let
         there be a decree that reverses the orders of Haman son of Hammedatha the
         Agagite, who ordered that Jews throughout all the king\u2019s provinces should
         be destroyed. "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "For how can I endure to see my people and my family slaughtered and
         destroyed?\u201D  "
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "Then King Xerxes said to Queen Esther and Mordecai the Jew, \u201CI
         have given Esther the property of Haman, and he has been impaled on a pole
         because he tried to destroy the Jews. "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "Now go ahead and send a message to the Jews in the king\u2019s name,
         telling them whatever you want, and seal it with the king\u2019s signet ring.
         But remember that whatever has already been written in the king\u2019s name
         and sealed with his signet ring can never be revoked.\u201D  "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "So on June 25[[COMMENT(0)]] the king\u2019s secretaries were summoned,
         and a decree was written exactly as Mordecai dictated. It was sent to the
         Jews and to the highest officers, the governors, and the nobles of all the
@@ -655,18 +940,24 @@ MonoBehaviour:
           2:16.
       - number: '8:9b '
         content: Hebrew <b>to Cush.</b>
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "The decree was written in the name of King Xerxes and sealed with
         the king\u2019s signet ring. Mordecai sent the dispatches by swift messengers,
         who rode fast horses especially bred for the king\u2019s service.  "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "The king\u2019s decree gave the Jews in every city authority to unite
         to defend their lives. They were allowed to kill, slaughter, and annihilate
         anyone of any nationality or province who might attack them or their children
         and wives, and to take the property of their enemies. "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'The day chosen for this event throughout all the provinces of King
         Xerxes was March 7 of the next year.[[COMMENT(0)]]  '
       comments:
@@ -675,26 +966,44 @@ MonoBehaviour:
           Adar, </b>of the ancient Hebrew lunar calendar. The date selected was March
           7, 473 <span class="ChapterContent_sc__Hg9da">b.c.</span>; also see note
           on 2:16.
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'A copy of this decree was to be issued as law in every province and
         proclaimed to all peoples, so that the Jews would be ready to take revenge
         on their enemies on the appointed day. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "So urged on by the king\u2019s command, the messengers rode out swiftly
         on fast horses bred for the king\u2019s service. The same decree was also
         proclaimed in the fortress of Susa.  "
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "Then Mordecai left the king\u2019s presence, wearing the royal robe
         of blue and white, the great crown of gold, and an outer cloak of fine linen
         and purple. And the people of Susa celebrated the new decree. "
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'The Jews were filled with joy and gladness and were honored everywhere. '
       comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "In every province and city, wherever the king\u2019s decree arrived,
+        the Jews rejoiced and had a great celebration and declared a public festival
+        and holiday. And many of the people of the land became Jews themselves, for
+        they feared what the Jews might do to them."
+      comments: []
   - verses:
-    - title: The Victory of the Jews
+    - name: '1: The Victory of the Jews'
+      title: The Victory of the Jews
+      number: 1
       content: '  So on March 7[[COMMENT(0)]] the two decrees of the king were put
         into effect. On that day, the enemies of the Jews had hoped to overpower
         them, but quite the opposite happened. It was the Jews who overpowered their
@@ -705,61 +1014,89 @@ MonoBehaviour:
           of Adar, </b>of the ancient Hebrew lunar calendar. This day was March 7,
           473 <span class="ChapterContent_sc__Hg9da">b.c.</span>; also see note on
           2:16.
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "The Jews gathered in their cities throughout all the king\u2019s
         provinces to attack anyone who tried to harm them. But no one could make
         a stand against them, for everyone was afraid of them. "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'And all the nobles of the provinces, the highest officers, the governors,
         and the royal officials helped the Jews for fear of Mordecai. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "For Mordecai had been promoted in the king\u2019s palace, and his
         fame spread throughout all the provinces as he became more and more powerful.  "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'So the Jews went ahead on the appointed day and struck down their
         enemies with the sword. They killed and annihilated their enemies and did
         as they pleased with those who hated them. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'In the fortress of Susa itself, the Jews killed 500 men. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'They also killed Parshandatha, Dalphon, Aspatha, '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Poratha, Adalia, Aridatha, '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "Parmashta, Arisai, Aridai, and Vaizatha\u2014 "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'the ten sons of Haman son of Hammedatha, the enemy of the Jews. But
         they did not take any plunder.  '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'That very day, when the king was informed of the number of people
         killed in the fortress of Susa, '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "he called for Queen Esther. He said, \u201CThe Jews have killed 500
         men in the fortress of Susa alone, as well as Haman\u2019s ten sons. If they
         have done that here, what has happened in the rest of the provinces? But
         now, what more do you want? It will be granted to you; tell me and I will
         do it.\u201D  "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Esther responded, \u201CIf it please the king, give the Jews in Susa
         permission to do again tomorrow as they have done today, and let the bodies
         of Haman\u2019s ten sons be impaled on a pole.\u201D  "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "So the king agreed, and the decree was announced in Susa. And they
         impaled the bodies of Haman\u2019s ten sons. "
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Then the Jews at Susa gathered together on March 8[[COMMENT(0)]]
         and killed 300 more men, and again they took no plunder.  '
       comments:
@@ -767,13 +1104,17 @@ MonoBehaviour:
         content: Hebrew <b>the fourteenth day of the month of Adar, </b>of the ancient
           Hebrew lunar calendar. This day was March 8, 473 <span class="ChapterContent_sc__Hg9da">b.c.</span>;
           also see note on 2:16.
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "Meanwhile, the other Jews throughout the king\u2019s provinces had
         gathered together to defend their lives. They gained relief from all their
         enemies, killing 75,000 of those who hated them. But they did not take any
         plunder. "
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'This was done throughout the provinces on March 7, and on March 8
         they rested,[[COMMENT(0)]] celebrating their victory with a day of feasting
         and gladness. '
@@ -782,7 +1123,9 @@ MonoBehaviour:
         content: Hebrew <b>on the thirteenth day of the month of Adar, and on the
           fourteenth day they rested. </b>These days were March 7 and 8, 473 <span
           class="ChapterContent_sc__Hg9da">b.c.</span>; also see note on 2:16.
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: '(The Jews at Susa killed their enemies on March 7 and again on March
         8, then rested on March 9,[[COMMENT(0)]] making that their day of feasting
         and gladness.) '
@@ -790,7 +1133,9 @@ MonoBehaviour:
       - number: '9:18 '
         content: Hebrew <b>killed their enemies on the thirteenth day and the fourteenth
           day, and then rested on the fifteenth day, </b>of the Hebrew month of Adar.
-    - title: The Festival of Purim
+    - name: '19: The Festival of Purim'
+      title: The Festival of Purim
+      number: 19
       content: 'So to this day, rural Jews living in remote villages celebrate an
         annual festival and holiday on the appointed day in late winter,[[COMMENT(0)]]
         when they rejoice and send gifts of food to each other.  '
@@ -798,76 +1143,118 @@ MonoBehaviour:
       - number: '9:19 '
         content: Hebrew <b>on the fourteenth day of the month of Adar. </b>This day
           of the ancient Hebrew lunar calendar occurs in February or March.
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'Mordecai recorded these events and sent letters to the Jews near
         and far, throughout all the provinces of King Xerxes, '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: 'calling on them to celebrate an annual festival on these two days.[[COMMENT(0)]]  '
       comments:
       - number: '9:21 '
         content: Hebrew <b>on the fourteenth and fifteenth days of Adar, </b>of the
           ancient Hebrew lunar calendar.
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'He told them to celebrate these days with feasting and gladness and
         by giving gifts of food to each other and presents to the poor. This would
         commemorate a time when the Jews gained relief from their enemies, when their
         sorrow was turned into gladness and their mourning into joy.  '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: "So the Jews accepted Mordecai\u2019s proposal and adopted this annual
         custom. "
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: 'Haman son of Hammedatha the Agagite, the enemy of the Jews, had plotted
         to crush and destroy them on the date determined by casting lots (the lots
         were called purim). '
       comments: []
-    - title: 
+    - name: '25: '
+      title: 
+      number: 25
       content: "But when Esther came before the king, he issued a decree causing
         Haman\u2019s evil plot to backfire, and Haman and his sons were impaled on
         a sharpened pole. "
       comments: []
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: "That is why this celebration is called Purim, because it is the ancient
         word for casting lots.So because of Mordecai\u2019s letter and because of
         what they had experienced, "
       comments: []
-    - title: 
+    - name: '27: '
+      title: 
+      number: 27
       content: 'the Jews throughout the realm agreed to inaugurate this tradition
         and to pass it on to their descendants and to all who became Jews. They declared
         they would never fail to celebrate these two prescribed days at the appointed
         time each year. '
       comments: []
-    - title: 
+    - name: '28: '
+      title: 
+      number: 28
       content: 'These days would be remembered and kept from generation to generation
         and celebrated by every family throughout the provinces and cities of the
         empire. This Festival of Purim would never cease to be celebrated among the
         Jews, nor would the memory of what happened ever die out among their descendants.  '
       comments: []
-    - title: 
+    - name: '29: '
+      title: 
+      number: 29
       content: "Then Queen Esther, the daughter of Abihail, along with Mordecai the
         Jew, wrote another letter putting the queen\u2019s full authority behind
         Mordecai\u2019s letter to establish the Festival of Purim. "
       comments: []
-    - title: 
+    - name: '30: '
+      title: 
+      number: 30
       content: 'Letters wishing peace and security were sent to the Jews throughout
         the 127 provinces of the empire of Xerxes. '
       comments: []
-    - title: 
+    - name: '31: '
+      title: 
+      number: 31
       content: "These letters established the Festival of Purim\u2014an annual celebration
         of these days at the appointed time, decreed by both Mordecai the Jew and
         Queen Esther. (The people decided to observe this festival, just as they
         had decided for themselves and their descendants to establish the times of
         fasting and mourning.) "
       comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: So the command of Esther confirmed the practices of Purim, and it
+        was all written down in the records.
+      comments: []
   - verses:
-    - title: The Greatness of Xerxes and Mordecai
+    - name: '1: The Greatness of Xerxes and Mordecai'
+      title: The Greatness of Xerxes and Mordecai
+      number: 1
       content: '  King Xerxes imposed a tribute throughout his empire, even to the
         distant coastlands. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'His great achievements and the full account of the greatness of Mordecai,
         whom the king had promoted, are recorded in The Book of the History of the
         Kings of Media and Persia.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: Mordecai the Jew became the prime minister, with authority next to
+        that of King Xerxes himself. He was very great among the Jews, who held him
+        in high esteem, because he continued to work for the good of his people and
+        to speak up for the welfare of all their descendants.
       comments: []

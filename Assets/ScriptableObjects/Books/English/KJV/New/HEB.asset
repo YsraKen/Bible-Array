@@ -1,0 +1,1922 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: HEB
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Hebrews
+  fancyName: 
+  nickname: heb
+  version: {fileID: 11400000, guid: bd3f8ba6a2445b646991a3e44f7f687a, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  God, who at sundry times and in divers manners spake in time past
+        unto the fathers by the prophets, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'hath in these last days spoken unto us by <i>his</i> Son, whom he
+        hath appointed heir of all things, by whom also he made the worlds; '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'who being the brightness of <i>his</i> glory, and the express image
+        of his person, and upholding all things by the word of his power, when he
+        had by himself purged our sins, sat down on the right hand of the Majesty
+        on high; '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'being made so much better than the angels, as he hath by inheritance
+        obtained a more excellent name than they. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For unto which of the angels said he at any time,Thou art my Son,This
+        day have I begotten thee?And again,I will be to him a Father,And he shall
+        be to me a Son?  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And again, when he bringeth in the firstbegotten into the world,
+        he saith, And let all the angels of God worship him. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And of the angels he saith,Who maketh his angels spirits,And his
+        ministers a flame of fire.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'But unto the Son <i>he saith</i>,Thy throne, O God, <i>is</i> for
+        ever and ever:A sceptre of righteousness <i>is</i> the sceptre of thy kingdom.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Thou hast loved righteousness, and hated iniquity;Therefore God,
+        <i>even</i> thy God, hath anointed theeWith the oil of gladness above thy
+        fellows.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And,Thou, Lord, in the beginning hast laid the foundation of the
+        earth;And the heavens are the works of thine hands:  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'They shall perish; but thou remainest:And they all shall wax old
+        as doth a garment;  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'And as a vesture shalt thou fold them up,And they shall be changed:But
+        thou art the same,And thy years shall not fail.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'But to which of the angels said he at any time,Sit on my right hand,Until
+        I make thine enemies thy footstool?  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: Are they not all ministering spirits, sent forth to minister for them
+        who shall be heirs of salvation?
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Therefore we ought to give the more earnest heed to the things
+        which we have heard, lest at any time we should let <i>them</i> slip. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For if the word spoken by angels was stedfast, and every transgression
+        and disobedience received a just recompence of reward; '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'how shall we escape, if we neglect so great salvation; which at the
+        first began to be spoken by the Lord, and was confirmed unto us by them that
+        heard <i>him</i>; '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'God also bearing <i>them</i> witness, both with signs and wonders,
+        and with divers miracles, and gifts of the Holy Ghost, according to his own
+        will?  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For unto the angels hath he not put in subjection the world to come,
+        whereof we speak. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'But one in a certain place testified, saying,What is man, that thou
+        art mindful of him?Or the son of man, that thou visitest him?  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Thou madest him a little lower than the angels;Thou crownedst him
+        with glory and honour,And didst set him over the works of thy hands:  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Thou hast put all things in subjection under his feet.For in that
+        he put all in subjection under him, he left nothing <i>that is</i> not put
+        under him. But now we see not yet all things put under him. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'But we see Jesus, who was made a little lower than the angels for
+        the suffering of death, crowned with glory and honour; that he by the grace
+        of God should taste death for every man. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For it became him, for whom <i>are</i> all things, and by whom <i>are</i>
+        all things, in bringing many sons unto glory, to make the captain of their
+        salvation perfect through sufferings. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'For both he that sanctifieth and they who are sanctified <i>are</i>
+        all of one: for which cause he is not ashamed to call them brethren, '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'saying,I will declare thy name unto my brethren,In the midst of the
+        church will I sing praise unto thee.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And again, I will put my trust in him. And again, Behold I and the
+        children which God hath given me.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Forasmuch then as the children are partakers of flesh and blood,
+        he also himself likewise took part of the same; that through death he might
+        destroy him that had the power of death, that is, the devil; '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'and deliver them who through fear of death were all their lifetime
+        subject to bondage. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For verily he took not on <i>him the nature of</i> angels; but he
+        took on <i>him</i> the seed of Abraham. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Wherefore in all things it behoved him to be made like unto <i>his</i>
+        brethren, that he might be a merciful and faithful high priest in things
+        <i>pertaining</i> to God, to make reconciliation for the sins of the people. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: For in that he himself hath suffered being tempted, he is able to
+        succour them that are tempted.
+      comments: []
+  - verses:
+    - name: '1: Jesus and Moses'
+      title: Jesus and Moses
+      number: 1
+      content: '  Wherefore, holy brethren, partakers of the heavenly calling, consider
+        the Apostle and High Priest of our profession, Christ Jesus; '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'who was faithful to him that appointed him, as also Moses <i>was
+        faithful</i> in all his house. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For this <i>man</i> was counted worthy of more glory than Moses,
+        inasmuch as he who hath builded the house hath more honour than the house. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For every house is builded by some <i>man</i>; but he that built
+        all things <i>is</i> God. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And Moses verily <i>was</i> faithful in all his house, as a servant,
+        for a testimony of those things which were to be spoken after; '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'but Christ as a son over his own house; whose house are we, if we
+        hold fast the confidence and the rejoicing of the hope firm unto the end. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Wherefore (as the Holy Ghost saith,To day if ye will hear his voice,  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Harden not your hearts, as in the provocation,In the day of temptation
+        in the wilderness:  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'When your fathers tempted me, proved me,And saw my works forty years.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Wherefore I was grieved with that generation,And said, They do alway
+        err in <i>their</i> heart;And they have not known my ways.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'So I sware in my wrath,They shall not enter into my rest.)  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Take heed, brethren, lest there be in any of you an evil heart of
+        unbelief, in departing from the living God. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'But exhort one another daily, while it is called To day; lest any
+        of you be hardened through the deceitfulness of sin. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For we are made partakers of Christ, if we hold the beginning of
+        our confidence stedfast unto the end; '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'while it is said, To day if ye will hear his voice, harden not your
+        hearts, as in the provocation. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For some, when they had heard, did provoke: howbeit not all that
+        came out of Egypt by Moses. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'But with whom was he grieved forty years? <i>was it</i> not with
+        them that had sinned, whose carcases fell in the wilderness? '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And to whom sware he that they should not enter into his rest, but
+        to them that believed not? '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: So we see that they could not enter in because of unbelief.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Let us therefore fear, lest, a promise being left <i>us</i> of
+        entering into his rest, any of you should seem to come short of it. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For unto us was the gospel preached, as well as unto them: but the
+        word preached did not profit them, not being mixed with faith in them that
+        heard <i>it</i>. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For we which have believed do enter into rest, as he said,As I have
+        sworn in my wrath,If they shall enter into my rest:although the works were
+        finished from the foundation of the world. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For he spake in a certain place of the seventh <i>day</i> on this
+        wise, And God did rest the seventh day from all his works. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And in this <i>place</i> again,If they shall enter into my rest.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Seeing therefore it remaineth that some must enter therein, and they
+        to whom it was first preached entered not in because of unbelief: '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'again, he limiteth a certain day, saying in David, To day, after
+        so long a time; as it is said,To day if ye will hear his voice,Harden not
+        your hearts.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For if Jesus had given them rest, then would he not afterward have
+        spoken of another day. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'There remaineth therefore a rest to the people of God. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For he that is entered into his rest, he also hath ceased from his
+        own works, as God <i>did</i> from his. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Let us labour therefore to enter into that rest, lest any man fall
+        after the same example of unbelief. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'For the word of God <i>is</i> quick, and powerful, and sharper than
+        any twoedged sword, piercing even to the dividing asunder of soul and spirit,
+        and of the joints and marrow, and <i>is</i> a discerner of the thoughts and
+        intents of the heart. '
+      comments: []
+    - name: '13: Jesus our Great High Priest'
+      title: Jesus our Great High Priest
+      number: 13
+      content: 'Neither is there any creature that is not manifest in his sight:
+        but all things <i>are</i> naked and opened unto the eyes of him with whom
+        we have to do.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Seeing then that we have a great high priest, that is passed into
+        the heavens, Jesus the Son of God, let us hold fast <i>our</i> profession. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'For we have not an high priest which cannot be touched with the feeling
+        of our infirmities; but was in all points tempted like as <i>we are, yet</i>
+        without sin. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: Let us therefore come boldly unto the throne of grace, that we may
+        obtain mercy, and find grace to help in time of need.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  For every high priest taken from among men is ordained for men
+        in things <i>pertaining</i> to God, that he may offer both gifts and sacrifices
+        for sins: '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'who can have compassion on the ignorant, and on them that are out
+        of the way; for that he himself also is compassed with infirmity. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And by reason hereof he ought, as for the people, so also for himself,
+        to offer for sins. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And no man taketh this honour unto himself, but he that is called
+        of God, as <i>was</i> Aaron. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'So also Christ glorified not himself to be made an high priest; but
+        he that said unto him,Thou art my Son,To day have I begotten thee.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'As he saith also in another <i>place</i>,Thou <i>art</i> a priest
+        for everAfter the order of Melchisedec.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Who in the days of his flesh, when he had offered up prayers and
+        supplications with strong crying and tears unto him that was able to save
+        him from death, and was heard in that he feared; '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'though he were a Son, yet learned he obedience by the things which
+        he suffered; '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'and being made perfect, he became the author of eternal salvation
+        unto all them that obey him; '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'called of God an high priest after the order of Melchisedec.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Of whom we have many things to say, and hard to be uttered, seeing
+        ye are dull of hearing. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'For when for the time ye ought to be teachers, ye have need that
+        one teach you again which <i>be</i> the first principles of the oracles of
+        God; and are become such as have need of milk, and not of strong meat. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'For every one that useth milk <i>is</i> unskilful in the word of
+        righteousness: for he is a babe. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: But strong meat belongeth to them that are of full age, <i>even</i>
+        those who by reason of use have their senses exercised to discern both good
+        and evil.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Therefore leaving the principles of the doctrine of Christ, let
+        us go on unto perfection; not laying again the foundation of repentance from
+        dead works, and of faith toward God, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'of the doctrine of baptisms, and of laying on of hands, and of resurrection
+        of the dead, and of eternal judgment. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And this will we do, if God permit. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For <i>it is</i> impossible for those who were once enlightened,
+        and have tasted of the heavenly gift, and were made partakers of the Holy
+        Ghost, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'and have tasted the good word of God, and the powers of the world
+        to come, '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'if they shall fall away, to renew them again unto repentance; seeing
+        they crucify to themselves the Son of God afresh, and put <i>him</i> to an
+        open shame. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For the earth which drinketh in the rain that cometh oft upon it,
+        and bringeth forth herbs meet for them by whom it is dressed, receiveth blessing
+        from God: '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'but that which beareth thorns and briers <i>is</i> rejected, and
+        <i>is</i> nigh unto cursing; whose end <i>is</i> to be burned.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'But, beloved, we are persuaded better things of you, and things that
+        accompany salvation, though we thus speak. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For God <i>is</i> not unrighteous to forget your work and labour
+        of love, which ye have shewed toward his name, in that ye have ministered
+        to the saints, and do minister. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And we desire that every one of you do shew the same diligence to
+        the full assurance of hope unto the end: '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'that ye be not slothful, but followers of them who through faith
+        and patience inherit the promises.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'For when God made promise to Abraham, because he could swear by no
+        greater, he sware by himself, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'saying, Surely blessing I will bless thee, and multiplying I will
+        multiply thee. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And so, after he had patiently endured, he obtained the promise. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For men verily swear by the greater: and an oath for confirmation
+        <i>is</i> to them an end of all strife. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Wherein God, willing more abundantly to shew unto the heirs of promise
+        the immutability of his counsel, confirmed <i>it</i> by an oath: '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'that by two immutable things, in which <i>it was</i> impossible for
+        God to lie, we might have a strong consolation, who have fled for refuge
+        to lay hold upon the hope set before us: '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'which <i>hope</i> we have as an anchor of the soul, both sure and
+        stedfast, and which entereth into that within the veil; '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: whither the forerunner is for us entered, <i>even</i> Jesus, made
+        an high priest for ever after the order of Melchisedec.
+      comments: []
+  - verses:
+    - name: '1: Melchisedec'
+      title: Melchisedec
+      number: 1
+      content: '  For this Melchisedec, king of Salem, priest of the most high God,
+        who met Abraham returning from the slaughter of the kings, and blessed him; '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'to whom also Abraham gave a tenth part of all; first being by interpretation
+        King of righteousness, and after that also King of Salem, which is, King
+        of peace; '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'without father, without mother, without descent, having neither beginning
+        of days, nor end of life; but made like unto the Son of God; abideth a priest
+        continually.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Now consider how great this man <i>was</i>, unto whom even the patriarch
+        Abraham gave the tenth of the spoils. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And verily they that are of the sons of Levi, who receive the office
+        of the priesthood, have a commandment to take tithes of the people according
+        to the law, that is, of their brethren, though they come out of the loins
+        of Abraham: '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'but he whose descent is not counted from them received tithes of
+        Abraham, and blessed him that had the promises. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And without all contradiction the less is blessed of the better. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And here men that die receive tithes; but there he <i>receiveth them</i>,
+        of whom it is witnessed that he liveth. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And as I may so say, Levi also, who receiveth tithes, payed tithes
+        in Abraham. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For he was yet in the loins of his father, when Melchisedec met him.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'If therefore perfection were by the Levitical priesthood, (for under
+        it the people received the law,) what further need <i>was there</i> that
+        another priest should rise after the order of Melchisedec, and not be called
+        after the order of Aaron? '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'For the priesthood being changed, there is made of necessity a change
+        also of the law. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'For he of whom these things are spoken pertaineth to another tribe,
+        of which no man gave attendance at the altar. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For <i>it is</i> evident that our Lord sprang out of Juda; of which
+        tribe Moses spake nothing concerning priesthood. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And it is yet far more evident: for that after the similitude of
+        Melchisedec there ariseth another priest, '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'who is made, not after the law of a carnal commandment, but after
+        the power of an endless life. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'For he testifieth,Thou <i>art</i> a priest for everAfter the order
+        of Melchisedec.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'For there is verily a disannulling of the commandment going before
+        for the weakness and unprofitableness thereof. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'For the law made nothing perfect, but the bringing in of a better
+        hope <i>did</i>; by the which we draw nigh unto God. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'And inasmuch as not without an oath <i>he was made priest</i>: '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '(for those priests were made without an oath; but this with an oath
+        by him that said unto him,The Lord sware and will not repent,Thou <i>art</i>
+        a priest for everAfter the order of Melchisedec:)  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'By so much was Jesus made a surety of a better testament. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'And they truly were many priests, because they were not suffered
+        to continue by reason of death: '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'but this <i>man</i>, because he continueth ever, hath an unchangeable
+        priesthood. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Wherefore he is able also to save them to the uttermost that come
+        unto God by him, seeing he ever liveth to make intercession for them.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'For such an high priest became us, <i>who is</i> holy, harmless,
+        undefiled, separate from sinners, and made higher than the heavens; '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'who needeth not daily, as those high priests, to offer up sacrifice,
+        first for his own sins, and then for the people''s: for this he did once,
+        when he offered up himself. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: For the law maketh men high priests which have infirmity; but the
+        word of the oath, which was since the law, <i>maketh</i> the Son, who is
+        consecrated for evermore.
+      comments: []
+  - verses:
+    - name: '1: The Greatness of His Ministry'
+      title: The Greatness of His Ministry
+      number: 1
+      content: '  Now of the things which we have spoken <i>this is</i> the sum:
+        We have such an high priest, who is set on the right hand of the throne of
+        the Majesty in the heavens; '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'a minister of the sanctuary, and of the true tabernacle, which the
+        Lord pitched, and not man. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For every high priest is ordained to offer gifts and sacrifices:
+        wherefore <i>it is</i> of necessity that this man have somewhat also to offer. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For if he were on earth, he should not be a priest, seeing that there
+        are priests that offer gifts according to the law: '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'who serve unto the example and shadow of heavenly things, as Moses
+        was admonished of God when he was about to make the tabernacle: for, See,
+        saith he, <i>that</i> thou make all things according to the pattern shewed
+        to thee in the mount. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'But now hath he obtained a more excellent ministry, by how much also
+        he is the mediator of a better covenant, which was established upon better
+        promises. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For if that first <i>covenant</i> had been faultless, then should
+        no place have been sought for the second. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For finding fault with them, he saith,Behold, the days come, saith
+        the Lord,When I will make a new covenant with the house of Israel and with
+        the house of Judah:  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Not according to the covenant that I made with their fathersIn the
+        day when I took them by the hand to lead them out of the land of Egypt;Because
+        they continued not in my covenant,And I regarded them not, saith the Lord.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For this <i>is</i> the covenant that I will make with the house of
+        IsraelAfter those days, saith the Lord;I will put my laws into their mind,And
+        write them in their hearts:And I will be to them a God,And they shall be
+        to me a people:  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And they shall not teach every man his neighbour,And every man his
+        brother, saying, Know the Lord:For all shall know me,From the least to the
+        greatest.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'For I will be merciful to their unrighteousness,And their sins and
+        their iniquities will I remember no more.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: In that he saith, A new <i>covenant</i>, he hath made the first old.
+        Now that which decayeth and waxeth old <i>is</i> ready to vanish away.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Then verily the first <i>covenant</i> had also ordinances of divine
+        service, and a worldly sanctuary. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For there was a tabernacle made; the first, wherein <i>was</i> the
+        candlestick, and the table, and the shewbread; which is called the sanctuary. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And after the second veil, the tabernacle which is called the Holiest
+        of all; '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'which had the golden censer, and the ark of the covenant overlaid
+        round about with gold, wherein <i>was</i> the golden pot that had manna,
+        and Aaron''s rod that budded, and the tables of the covenant; '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'and over it the cherubims of glory shadowing the mercyseat; of which
+        we cannot now speak particularly. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Now when these things were thus ordained, the priests went always
+        into the first tabernacle, accomplishing the service <i>of God</i>. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'But into the second <i>went</i> the high priest alone once every
+        year, not without blood, which he offered for himself, and <i>for</i> the
+        errors of the people: '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'the Holy Ghost this signifying, that the way into the holiest of
+        all was not yet made manifest, while as the first tabernacle was yet standing: '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'which <i>was</i> a figure for the time then present, in which were
+        offered both gifts and sacrifices, that could not make him that did the service
+        perfect, as pertaining to the conscience; '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '<i>which stood</i> only in meats and drinks, and divers washings,
+        and carnal ordinances, imposed <i>on them</i> until the time of reformation.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'But Christ being come an high priest of good things to come, by a
+        greater and more perfect tabernacle, not made with hands, that is to say,
+        not of this building; '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'neither by the blood of goats and calves, but by his own blood he
+        entered in once into the holy place, having obtained eternal redemption <i>for
+        us</i>. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'For if the blood of bulls and of goats, and the ashes of an heifer
+        sprinkling the unclean, sanctifieth to the purifying of the flesh: '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'how much more shall the blood of Christ, who through the eternal
+        Spirit offered himself without spot to God, purge your conscience from dead
+        works to serve the living God?  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And for this cause he is the mediator of the new testament, that
+        by means of death, for the redemption of the transgressions <i>that were</i>
+        under the first testament, they which are called might receive the promise
+        of eternal inheritance. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For where a testament <i>is</i>, there must also of necessity be
+        the death of the testator. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'For a testament <i>is</i> of force after men are dead: otherwise
+        it is of no strength at all while the testator liveth. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Whereupon neither the first <i>testament</i> was dedicated without
+        blood. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'For when Moses had spoken every precept to all the people according
+        to the law, he took the blood of calves and of goats, with water, and scarlet
+        wool, and hyssop, and sprinkled both the book, and all the people, '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'saying, This <i>is</i> the blood of the testament which God hath
+        enjoined unto you. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Moreover he sprinkled with blood both the tabernacle, and all the
+        vessels of the ministry. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'And almost all things are by the law purged with blood; and without
+        shedding of blood is no remission.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  <i>It was</i> therefore necessary that the patterns of things in
+        the heavens should be purified with these; but the heavenly things themselves
+        with better sacrifices than these. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'For Christ is not entered into the holy places made with hands, <i>which
+        are</i> the figures of the true; but into heaven itself, now to appear in
+        the presence of God for us: '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'nor yet that he should offer himself often, as the high priest entereth
+        into the holy place every year with blood of others; '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'for then must he often have suffered since the foundation of the
+        world: but now once in the end of the world hath he appeared to put away
+        sin by the sacrifice of himself. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'And as it is appointed unto men once to die, but after this the judgment: '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: so Christ was once offered to bear the sins of many; and unto them
+        that look for him shall he appear the second time without sin unto salvation.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  For the law having a shadow of good things to come, <i>and</i>
+        not the very image of the things, can never with those sacrifices which they
+        offered year by year continually make the comers thereunto perfect. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For then would they not have ceased to be offered? because that the
+        worshippers once purged should have had no more conscience of sins. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'But in those <i>sacrifices there is</i> a remembrance again <i>made</i>
+        of sins every year. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For <i>it is</i> not possible that the blood of bulls and of goats
+        should take away sins. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Wherefore when he cometh into the world, he saith,Sacrifice and offering
+        thou wouldest not,But a body hast thou prepared me:  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'In burnt offerings and <i>sacrifices</i> for sin thou hast had no
+        pleasure.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Then said I, Lo, I come(In the volume of the book it is written of
+        me,)To do thy will, O God.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Above when he said, Sacrifice and offering and burnt offerings and
+        <i>offering</i> for sin thou wouldest not, neither hadst pleasure <i>therein</i>;
+        which are offered by the law; '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'then said he, Lo, I come to do thy will, O God. He taketh away the
+        first, that he may establish the second. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'By the which will we are sanctified through the offering of the body
+        of Jesus Christ once <i>for all</i>. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And every priest standeth daily ministering and offering oftentimes
+        the same sacrifices, which can never take away sins: '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'but this man, after he had offered one sacrifice for sins for ever,
+        sat down on the right hand of God; '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'from henceforth expecting till his enemies be made his footstool. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For by one offering he hath perfected for ever them that are sanctified. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '<i>Whereof</i> the Holy Ghost also is a witness to us: for after
+        that he had said before,  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'This <i>is</i> the covenant that I will make with themAfter those
+        days, saith the Lord,I will put my laws into their hearts,And in their minds
+        will I write them;  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And their sins and iniquities will I remember no more.  '
+      comments: []
+    - name: '18: Draw Near in Faith'
+      title: Draw Near in Faith
+      number: 18
+      content: 'Now where remission of these <i>is, there is</i> no more offering
+        for sin.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Having therefore, brethren, boldness to enter into the holiest by
+        the blood of Jesus, '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'by a new and living way, which he hath consecrated for us, through
+        the veil, that is to say, his flesh; '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'and <i>having</i> an high priest over the house of God; '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'let us draw near with a true heart in full assurance of faith, having
+        our hearts sprinkled from an evil conscience, and our bodies washed with
+        pure water. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Let us hold fast the profession of <i>our</i> faith without wavering;
+        (for he <i>is</i> faithful that promised;) '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'and let us consider one another to provoke unto love and to good
+        works: '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'not forsaking the assembling of ourselves together, as the manner
+        of some <i>is</i>; but exhorting <i>one another</i>: and so much the more,
+        as ye see the day approaching.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'For if we sin wilfully after that we have received the knowledge
+        of the truth, there remaineth no more sacrifice for sins, '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'but a certain fearful looking for of judgment and fiery indignation,
+        which shall devour the adversaries. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'He that despised Moses'' law died without mercy under two or three
+        witnesses: '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'of how much sorer punishment, suppose ye, shall he be thought worthy,
+        who hath trodden under foot the Son of God, and hath counted the blood of
+        the covenant, wherewith he was sanctified, an unholy thing, and hath done
+        despite unto the Spirit of grace? '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'For we know him that hath said, Vengeance <i>belongeth</i> unto me,
+        I will recompense, saith the Lord. And again, The Lord shall judge his people. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: '<i>It is</i> a fearful thing to fall into the hands of the living
+        God.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'But call to remembrance the former days, in which, after ye were
+        illuminated, ye endured a great fight of afflictions; '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'partly, whilst ye were made a gazingstock both by reproaches and
+        afflictions; and partly, whilst ye became companions of them that were so
+        used. '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'For ye had compassion of me in my bonds, and took joyfully the spoiling
+        of your goods, knowing in yourselves that ye have in heaven a better and
+        an enduring substance. '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'Cast not away therefore your confidence, which hath great recompence
+        of reward. '
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: 'For ye have need of patience, that, after ye have done the will of
+        God, ye might receive the promise.  '
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: 'For yet a little while,And he that shall come will come, and will
+        not tarry.  '
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: 'Now the just shall live by faith:But if <i>any man</i> draw back,
+        my soul shall have no pleasure in him.  '
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: But we are not of them who draw back unto perdition; but of them that
+        believe to the saving of the soul.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Now faith is the substance of things hoped for, the evidence of
+        things not seen. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For by it the elders obtained a good report.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Through faith we understand that the worlds were framed by the word
+        of God, so that things which are seen were not made of things which do appear. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'By faith Abel offered unto God a more excellent sacrifice than Cain,
+        by which he obtained witness that he was righteous, God testifying of his
+        gifts: and by it he being dead yet speaketh. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'By faith Enoch was translated that he should not see death; and was
+        not found, because God had translated him: for before his translation he
+        had this testimony, that he pleased God. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'But without faith <i>it is</i> impossible to please <i>him</i>: for
+        he that cometh to God must believe that he is, and <i>that</i> he is a rewarder
+        of them that diligently seek him. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'By faith Noah, being warned of God of things not seen as yet, moved
+        with fear, prepared an ark to the saving of his house; by the which he condemned
+        the world, and became heir of the righteousness which is by faith. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'By faith Abraham, when he was called to go out into a place which
+        he should after receive for an inheritance, obeyed; and he went out, not
+        knowing whither he went. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'By faith he sojourned in the land of promise, as <i>in</i> a strange
+        country, dwelling in tabernacles with Isaac and Jacob, the heirs with him
+        of the same promise: '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'for he looked for a city which hath foundations, whose builder and
+        maker <i>is</i> God. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Through faith also Sara herself received strength to conceive seed,
+        and was delivered of a child when she was past age, because she judged him
+        faithful who had promised. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Therefore sprang there even of one, and him as good as dead, <i>so
+        many</i> as the stars of the sky in multitude, and as the sand which is by
+        the sea shore innumerable.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'These all died in faith, not having received the promises, but having
+        seen them afar off, and were persuaded of <i>them</i>, and embraced <i>them</i>,
+        and confessed that they were strangers and pilgrims on the earth. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For they that say such things declare plainly that they seek a country. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And truly, if they had been mindful of that <i>country</i> from whence
+        they came out, they might have had opportunity to have returned. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'But now they desire a better <i>country</i>, that is, an heavenly:
+        wherefore God is not ashamed to be called their God: for he hath prepared
+        for them a city.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'By faith Abraham, when he was tried, offered up Isaac: and he that
+        had received the promises offered up his only begotten <i>son</i>, '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'of whom it was said, That in Isaac shall thy seed be called: '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'accounting that God <i>was</i> able to raise <i>him</i> up, even
+        from the dead; from whence also he received him in a figure. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'By faith Isaac blessed Jacob and Esau concerning things to come. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'By faith Jacob, when he was a dying, blessed both the sons of Joseph;
+        and worshipped, <i>leaning</i> upon the top of his staff. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'By faith Joseph, when he died, made mention of the departing of the
+        children of Israel; and gave commandment concerning his bones. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'By faith Moses, when he was born, was hid three months of his parents,
+        because they saw <i>he was</i> a proper child; and they were not afraid of
+        the king''s commandment. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'By faith Moses, when he was come to years, refused to be called the
+        son of Pharaoh''s daughter; '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'choosing rather to suffer affliction with the people of God, than
+        to enjoy the pleasures of sin for a season; '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'esteeming the reproach of Christ greater riches than the treasures
+        in Egypt: for he had respect unto the recompence of the reward. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'By faith he forsook Egypt, not fearing the wrath of the king: for
+        he endured, as seeing him who is invisible. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Through faith he kept the passover, and the sprinkling of blood,
+        lest he that destroyed the firstborn should touch them. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'By faith they passed through the Red sea as by dry <i>land</i>: which
+        the Egyptians assaying to do were drowned. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'By faith the walls of Jericho fell down, after they were compassed
+        about seven days. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'By faith the harlot Rahab perished not with them that believed not,
+        when she had received the spies with peace.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'And what shall I more say? for the time would fail me to tell of
+        Gedeon, and <i>of</i> Barak, and <i>of</i> Samson, and <i>of</i> Jephthae;
+        <i>of</i> David also, and Samuel, and <i>of</i> the prophets: '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'who through faith subdued kingdoms, wrought righteousness, obtained
+        promises, stopped the mouths of lions, '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'quenched the violence of fire, escaped the edge of the sword, out
+        of weakness were made strong, waxed valiant in fight, turned to flight the
+        armies of the aliens. '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'Women received their dead raised to life again: and others were tortured,
+        not accepting deliverance; that they might obtain a better resurrection: '
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: 'and others had trial of <i>cruel</i> mockings and scourgings, yea,
+        moreover of bonds and imprisonment: '
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: 'they were stoned, they were sawn asunder, were tempted, were slain
+        with the sword: they wandered about in sheepskins and goatskins; being destitute,
+        afflicted, tormented; '
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: '(of whom the world was not worthy:) they wandered in deserts, and
+        <i>in</i> mountains, and <i>in</i> dens and caves of the earth.  '
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: 'And these all, having obtained a good report through faith, received
+        not the promise: '
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: God having provided some better thing for us, that they without us
+        should not be made perfect.
+      comments: []
+  - verses:
+    - name: '1: Run with Patience'
+      title: Run with Patience
+      number: 1
+      content: '  Wherefore seeing we also are compassed about with so great a cloud
+        of witnesses, let us lay aside every weight, and the sin which doth so easily
+        beset <i>us</i>, and let us run with patience the race that is set before
+        us, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'looking unto Jesus the author and finisher of <i>our</i> faith; who
+        for the joy that was set before him endured the cross, despising the shame,
+        and is set down at the right hand of the throne of God. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For consider him that endured such contradiction of sinners against
+        himself, lest ye be wearied and faint in your minds. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Ye have not yet resisted unto blood, striving against sin. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And ye have forgotten the exhortation which speaketh unto you as
+        unto children,My son, despise not thou the chastening of the Lord,Nor faint
+        when thou art rebuked of him:  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For whom the Lord loveth he chasteneth,And scourgeth every son whom
+        he receiveth.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'If ye endure chastening, God dealeth with you as with sons; for what
+        son is he whom the father chasteneth not? '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'But if ye be without chastisement, whereof all are partakers, then
+        are ye bastards, and not sons. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Furthermore we have had fathers of our flesh which corrected <i>us</i>,
+        and we gave <i>them</i> reverence: shall we not much rather be in subjection
+        unto the Father of spirits, and live? '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For they verily for a few days chastened <i>us</i> after their own
+        pleasure; but he for <i>our</i> profit, that <i>we</i> might be partakers
+        of his holiness. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Now no chastening for the present seemeth to be joyous, but grievous:
+        nevertheless afterward it yieldeth the peaceable fruit of righteousness unto
+        them which are exercised thereby. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Wherefore lift up the hands which hang down, and the feeble knees; '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'and make straight paths for your feet, lest that which is lame be
+        turned out of the way; but let it rather be healed.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Follow peace with all <i>men</i>, and holiness, without which no
+        man shall see the Lord: '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'looking diligently lest any man fail of the grace of God; lest any
+        root of bitterness springing up trouble <i>you</i>, and thereby many be defiled; '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'lest there <i>be</i> any fornicator, or profane person, as Esau,
+        who for one morsel of meat sold his birthright. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'For ye know how that afterward, when he would have inherited the
+        blessing, he was rejected: for he found no place of repentance, though he
+        sought it carefully with tears.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'For ye are not come unto the mount that might be touched, and that
+        burned with fire, nor unto blackness, and darkness, and tempest, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'and the sound of a trumpet, and the voice of words; which <i>voice</i>
+        they that heard intreated that the word should not be spoken to them any
+        more: '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: '(for they could not endure that which was commanded, And if so much
+        as a beast touch the mountain, it shall be stoned, or thrust through with
+        a dart: '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'and so terrible was the sight, <i>that</i> Moses said, I exceedingly
+        fear and quake:) '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'but ye are come unto mount Sion, and unto the city of the living
+        God, the heavenly Jerusalem, and to an innumerable company of angels, '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'to the general assembly and church of the firstborn, which are written
+        in heaven, and to God the Judge of all, and to the spirits of just men made
+        perfect, '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'and to Jesus the mediator of the new covenant, and to the blood of
+        sprinkling, that speaketh better things than <i>that of</i> Abel. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'See that ye refuse not him that speaketh. For if they escaped not
+        who refused him that spake on earth, much more <i>shall not</i> we <i>escape</i>,
+        if we turn away from him that <i>speaketh</i> from heaven: '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'whose voice then shook the earth: but now he hath promised, saying,
+        Yet once more I shake not the earth only, but also heaven. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'And this <i>word</i>, Yet once more, signifieth the removing of those
+        things that are shaken, as of things that are made, that those things which
+        cannot be shaken may remain. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Wherefore we receiving a kingdom which cannot be moved, let us have
+        grace, whereby we may serve God acceptably with reverence and godly fear: '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: for our God <i>is</i> a consuming fire.
+      comments: []
+  - verses:
+    - name: '1: Perfect in Every Good Work'
+      title: Perfect in Every Good Work
+      number: 1
+      content: '  Let brotherly love continue. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Be not forgetful to entertain strangers: for thereby some have entertained
+        angels unawares. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Remember them that are in bonds, as bound with them; <i>and</i> them
+        which suffer adversity, as being yourselves also in the body. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Marriage <i>is</i> honourable in all, and the bed undefiled: but
+        whoremongers and adulterers God will judge. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '<i>Let your</i> conversation <i>be</i> without covetousness; <i>and
+        be</i> content with such things as ye have: for he hath said, I will never
+        leave thee, nor forsake thee. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'So that we may boldly say,The Lord <i>is</i> my helper, and I will
+        not fearWhat man shall do unto me.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Remember them which have the rule over you, who have spoken unto
+        you the word of God: whose faith follow, considering the end of <i>their</i>
+        conversation.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Jesus Christ the same yesterday, and to day, and for ever. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Be not carried about with divers and strange doctrines. For <i>it
+        is</i> a good thing that the heart be established with grace; not with meats,
+        which have not profited them that have been occupied therein. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'We have an altar, whereof they have no right to eat which serve the
+        tabernacle. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'For the bodies of those beasts, whose blood is brought into the sanctuary
+        by the high priest for sin, are burned without the camp. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Wherefore Jesus also, that he might sanctify the people with his
+        own blood, suffered without the gate. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Let us go forth therefore unto him without the camp, bearing his
+        reproach. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For here have we no continuing city, but we seek one to come. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'By him therefore let us offer the sacrifice of praise to God continually,
+        that is, the fruit of <i>our</i> lips giving thanks to his name. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'But to do good and to communicate forget not: for with such sacrifices
+        God is well pleased.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Obey them that have the rule over you, and submit yourselves: for
+        they watch for your souls, as they that must give account, that they may
+        do it with joy, and not with grief: for that <i>is</i> unprofitable for you.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Pray for us: for we trust we have a good conscience, in all things
+        willing to live honestly. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'But I beseech <i>you</i> the rather to do this, that I may be restored
+        to you the sooner.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Now the God of peace, that brought again from the dead our Lord Jesus,
+        that great shepherd of the sheep, through the blood of the everlasting covenant, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'make you perfect in every good work to do his will, working in you
+        that which is wellpleasing in his sight, through Jesus Christ; to whom <i>be</i>
+        glory for ever and ever. Amen.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'And I beseech you, brethren, suffer the word of exhortation: for
+        I have written a letter unto you in few words.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Know ye that <i>our</i> brother Timothy is set at liberty; with whom,
+        if he come shortly, I will see you. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Salute all them that have the rule over you, and all the saints.
+        They of Italy salute you. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: Grace <i>be</i> with you all. Amen.Written to the Hebrews from Italy
+        by Timothy.
+      comments: []

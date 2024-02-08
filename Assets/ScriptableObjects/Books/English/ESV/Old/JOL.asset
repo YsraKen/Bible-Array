@@ -1,0 +1,524 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: JOL
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Joel
+  fancyName: 
+  nickname: jol
+  version: {fileID: 11400000, guid: dd64eb842f3dd694bae8487ce6510215, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: An Invasion of Locusts'
+      title: An Invasion of Locusts
+      number: 1
+      content: '  The word of the <smallcaps>Lord</smallcaps> that came to Joel,
+        the son of Pethuel:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  Hear this, you elders;give ear, all inhabitants of the land!  Has
+        such a thing happened in your days,or in the days of your fathers?  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Tell your children of it,and let your children tell their children,and
+        their children to another generation.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'What the cutting locust left,  the swarming locust has eaten.What
+        the swarming locust left,  the hopping locust has eaten,and what the hopping
+        locust left,  the destroying locust has eaten.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Awake, you drunkards, and weep,and wail, all you drinkers of wine,because
+        of the sweet wine,for it is cut off from your mouth.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "For a nation has come up against my land,  powerful and beyond number; 
+        its teeth are lions\u2019 teeth,and it has the fangs of a lioness.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'It has laid waste my vineand splintered my fig tree;it has stripped
+        off their bark and thrown it down;their branches are made white.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Lament like a virgin[[COMMENT(0)]]  wearing sackclothfor the bridegroom
+        of her youth.  '
+      comments:
+      - number: '1:8 '
+        content: 'Or '
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  The grain offering and the drink offering are cut offfrom the house
+        of the <smallcaps>Lord</smallcaps>.  The priests mourn,  the ministers of
+        the <smallcaps>Lord</smallcaps>.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The fields are destroyed,  the ground mourns,because the grain is
+        destroyed,  the wine dries up,the oil languishes.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Be ashamed,[[COMMENT(0)]] O tillers of the soil;wail, O vinedressers,for
+        the wheat and the barley,  because the harvest of the field has perished.  '
+      comments:
+      - number: '1:11 '
+        content: "The Hebrew words for and in verses 10\u201312, 17 sound alike"
+    - name: '12: A Call to Repentance'
+      title: A Call to Repentance
+      number: 12
+      content: 'The vine dries up;  the fig tree languishes.Pomegranate, palm, and
+        apple,all the trees of the field are dried up,and gladness dries upfrom the
+        children of man.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Put on sackcloth and lament, O priests;  wail, O ministers of the
+        altar.Go in, pass the night in sackcloth,  O ministers of my God!  Because
+        grain offering and drink offeringare withheld from the house of your God.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Consecrate a fast;  call a solemn assembly.Gather the eldersand
+        all the inhabitants of the landto the house of the <smallcaps>Lord</smallcaps>
+        your God,and cry out to the <smallcaps>Lord</smallcaps>.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Alas for the day!  For the day of the <smallcaps>Lord</smallcaps>
+        is near,and as destruction from the Almighty[[COMMENT(0)]] it comes.  '
+      comments:
+      - number: '1:15 '
+        content: 'sounds like the Hebrew for '
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Is not the food cut offbefore our eyes,  joy and gladnessfrom the
+        house of our God?  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  The seed shrivels under the clods;[[COMMENT(0)]]the storehouses
+        are desolate;the granaries are torn downbecause the grain has dried up.  '
+      comments:
+      - number: '1:17 '
+        content: The meaning of the Hebrew line is uncertain
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'How the beasts groan!The herds of cattle are perplexedbecause there
+        is no pasture for them;even the flocks of sheep suffer.[[COMMENT(0)]]  '
+      comments:
+      - number: '1:18 '
+        content: 'Or '
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'To you, O <smallcaps>Lord</smallcaps>, I call.  For fire has devouredthe
+        pastures of the wilderness,  and flame has burnedall the trees of the field.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Even the beasts of the field pant for youbecause the water brooks
+        are dried up,  and fire has devouredthe pastures of the wilderness.
+      comments: []
+  - verses:
+    - name: '1: The Day of the '
+      title: 'The Day of the '
+      number: 1
+      content: '<smallcaps>Lord</smallcaps>    Blow a trumpet in Zion;sound an alarm
+        on my holy mountain!Let all the inhabitants of the land tremble,for the day
+        of the <smallcaps>Lord</smallcaps> is coming; it is near,  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: '  a day of darkness and gloom,  a day of clouds and thick darkness!Like
+        blackness there is spread upon the mountains  a great and powerful people; 
+        their like has never been before,nor will be again after themthrough the
+        years of all generations.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Fire devours before them,and behind them a flame burns.The land
+        is like the garden of Eden before them,but behind them a desolate wilderness,and
+        nothing escapes them.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Their appearance is like the appearance of horses,and like war
+        horses they run.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  As with the rumbling of chariots,they leap on the tops of the mountains,like
+        the crackling of a flame of firedevouring the stubble,  like a powerful armydrawn
+        up for battle.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Before them peoples are in anguish;  all faces grow pale.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Like warriors they charge;like soldiers they scale the wall.They
+        march each on his way;they do not swerve from their paths.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'They do not jostle one another;  each marches in his path;they burst
+        through the weaponsand are not halted.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  They leap upon the city,they run upon the walls,  they climb up
+        into the houses,  they enter through the windows like a thief.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  The earth quakes before them;the heavens tremble.  The sun and
+        the moon are darkened,and the stars withdraw their shining.  '
+      comments: []
+    - name: '11: Return to the '
+      title: 'Return to the '
+      number: 11
+      content: '  The <smallcaps>Lord</smallcaps> utters his voicebefore his army,for
+        his camp is exceedingly great;  he who executes his word is powerful.  For
+        the day of the <smallcaps>Lord</smallcaps> is great and very awesome;  who
+        can endure it?<smallcaps>Lord</smallcaps>  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CYet even now,\u201D declares the <smallcaps>Lord</smallcaps>, 
+        \u201Creturn to me with all your heart,  with fasting, with weeping, and
+        with mourning;  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "and rend your hearts and not your garments.\u201DReturn to the <smallcaps>Lord</smallcaps>
+        your God,  for he is gracious and merciful,slow to anger, and abounding in
+        steadfast love;  and he relents over disaster.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Who knows whether he will not turn and relent,and leave a blessing
+        behind him,  a grain offering and a drink offeringfor the <smallcaps>Lord</smallcaps>
+        your God?  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  Blow the trumpet in Zion;  consecrate a fast;call a solemn assembly;  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'gather the people.  Consecrate the congregation;assemble the elders; 
+        gather the children,even nursing infants.  Let the bridegroom leave his room,and
+        the bride her chamber.  '
+      comments: []
+    - name: '17: The  Had Pity'
+      title: The  Had Pity
+      number: 17
+      content: "  Between the vestibule and the altar  let the priests, the ministers
+        of the <smallcaps>Lord</smallcaps>, weepand say, \u201CSpare your people,
+        O <smallcaps>Lord</smallcaps>,and make not your heritage a reproach,a byword
+        among the nations.[[COMMENT(0)]]  Why should they say among the peoples,\u2018Where
+        is their God?\u2019\u201D<smallcaps>Lord</smallcaps>  "
+      comments:
+      - number: '2:17 '
+        content: 'Or '
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Then the <smallcaps>Lord</smallcaps> became jealous for his land 
+        and had pity on his people.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "The <smallcaps>Lord</smallcaps> answered and said to his people,\u201CBehold,
+        I am sending to yougrain, wine, and oil,  and you will be satisfied;and I
+        will no more make youa reproach among the nations.  "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "\u201CI will remove the northerner far from you,and drive him into
+        a parched and desolate land,his vanguard[[COMMENT(0)]] into the eastern sea,and
+        his rear guard into the western sea;  the stench and foul smell of him will
+        rise,for he has done great things.  "
+      comments:
+      - number: '2:20 '
+        content: 'Hebrew Hebrew '
+    - name: '21: '
+      title: 
+      number: 21
+      content: "\u201CFear not, O land;be glad and rejoice,for the <smallcaps>Lord</smallcaps>
+        has done great things!  "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Fear not, you beasts of the field,for the pastures of the wilderness
+        are green;  the tree bears its fruit;the fig tree and vine give their full
+        yield.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "  \u201CBe glad, O children of Zion,and rejoice in the <smallcaps>Lord</smallcaps>
+        your God,for he has given the early rain for your vindication;he has poured
+        down for you abundant rain,  the early and the latter rain, as before.  "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "\u201CThe threshing floors shall be full of grain;the vats shall
+        overflow with wine and oil.  "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'I will restore[[COMMENT(0)]] to you the yearsthat the swarming locust
+        has eaten,  the hopper, the destroyer, and the cutter,  my great army, which
+        I sent among you.  '
+      comments:
+      - number: '2:25 '
+        content: 'Or   '
+    - name: '26: '
+      title: 
+      number: 26
+      content: "  \u201CYou shall eat in plenty and be satisfied,and praise the name
+        of the <smallcaps>Lord</smallcaps> your God,who has dealt wondrously with
+        you.And my people shall never again be put to shame.  "
+      comments: []
+    - name: '27: The  Will Pour Out His Spirit'
+      title: The  Will Pour Out His Spirit
+      number: 27
+      content: '  You shall know that I am in the midst of Israel,and that I am the
+        <smallcaps>Lord</smallcaps> your God and there is none else.And my people
+        shall never again be put to shame.<smallcaps>Lord</smallcaps>  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "  [[COMMENT(0)]]  \u201CAnd it shall come to pass afterward,that
+        I will pour out my Spirit on all flesh;  your sons and your daughters shall
+        prophesy,your old men shall dream dreams,and your young men shall see visions.  "
+      comments:
+      - number: '2:28 '
+        content: '  Ch 3:1 in Hebrew  '
+    - name: '29: '
+      title: 
+      number: 29
+      content: '  Even on the male and female servantsin those days I will pour out
+        my Spirit.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: "\u201CAnd I will show wonders in the heavens and on the earth, blood
+        and fire and columns of smoke. "
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'The sun shall be turned to darkness, and the moon to blood, before
+        the great and awesome day of the <smallcaps>Lord</smallcaps> comes. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: And it shall come to pass that everyone who calls on the name of the
+        <smallcaps>Lord</smallcaps> shall be saved. For in Mount Zion and in Jerusalem
+        there shall be those who escape, as the <smallcaps>Lord</smallcaps> has said,
+        and among the survivors shall be those whom the <smallcaps>Lord</smallcaps>
+        calls.
+      comments: []
+  - verses:
+    - name: '1: The  Judges the Nations'
+      title: The  Judges the Nations
+      number: 1
+      content: "<smallcaps>Lord</smallcaps>    [[COMMENT(0)]] \u201CFor behold, in
+        those days and at that time, when I restore the fortunes of Judah and Jerusalem, "
+      comments:
+      - number: '3:1 '
+        content: '  Ch 4:1 in Hebrew  '
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'I will gather all the nations and bring them down to the Valley of
+        Jehoshaphat. And I will enter into judgment with them there, on behalf of
+        my people and my heritage Israel, because they have scattered them among
+        the nations and have divided up my land, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'and have cast lots for my people, and have traded a boy for a prostitute,
+        and have sold a girl for wine and have drunk it.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CWhat are you to me, O Tyre and Sidon, and all the regions of
+        Philistia? Are you paying me back for something? If you are paying me back,
+        I will return your payment on your own head swiftly and speedily. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For you have taken my silver and my gold, and have carried my rich
+        treasures into your temples.[[COMMENT(0)]]  '
+      comments:
+      - number: '3:5 '
+        content: 'Or '
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'You have sold the people of Judah and Jerusalem to the Greeks in
+        order to remove them far from their own border. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Behold, I will stir them up from the place to which you have sold
+        them, and I will return your payment on your own head. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "I will sell your sons and your daughters into the hand of the people
+        of Judah, and they will sell them to the Sabeans, to a nation far away, for
+        the <smallcaps>Lord</smallcaps> has spoken.\u201D  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Proclaim this among the nations:  Consecrate for war;[[COMMENT(0)]]stir
+        up the mighty men.Let all the men of war draw near;let them come up.  '
+      comments:
+      - number: '3:9 '
+        content: 'Or '
+    - name: '10: '
+      title: 
+      number: 10
+      content: "  Beat your plowshares into swords,and your pruning hooks into spears;let
+        the weak say, \u201CI am a warrior.\u201D  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Hasten and come,all you surrounding nations,and gather yourselves
+        there.  Bring down your warriors, O <smallcaps>Lord</smallcaps>.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Let the nations stir themselves upand come up to the Valley of Jehoshaphat; 
+        for there I will sit to judgeall the surrounding nations.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: '  Put in the sickle,  for the harvest is ripe.  Go in, tread,  for
+        the winepress is full.The vats overflow,for their evil is great.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Multitudes, multitudes,in the valley of decision!For the day of the
+        <smallcaps>Lord</smallcaps> is nearin the valley of decision.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  The sun and the moon are darkened,and the stars withdraw their
+        shining.  '
+      comments: []
+    - name: '16: The Glorious Future of Judah'
+      title: The Glorious Future of Judah
+      number: 16
+      content: '  The <smallcaps>Lord</smallcaps> roars from Zion,and utters his
+        voice from Jerusalem,  and the heavens and the earth quake.But the <smallcaps>Lord</smallcaps>
+        is a refuge to his people,a stronghold to the people of Israel.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "  \u201CSo you shall know that I am the <smallcaps>Lord</smallcaps>
+        your God,  who dwells in Zion, my holy mountain.And Jerusalem shall be holy,and
+        strangers shall never again pass through it.  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "\u201CAnd in that day  the mountains shall drip sweet wine,and the
+        hills shall flow with milk,and all the streambeds of Judahshall flow with
+        water;  and a fountain shall come forth from the house of the <smallcaps>Lord</smallcaps>and
+        water the Valley of Shittim.  "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "  \u201CEgypt shall become a desolationand Edom a desolate wilderness, 
+        for the violence done to the people of Judah,because they have shed innocent
+        blood in their land.  "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: '  But Judah shall be inhabited forever,and Jerusalem to all generations.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "  I will avenge their blood,blood I have not avenged,[[COMMENT(0)]] 
+        for the <smallcaps>Lord</smallcaps> dwells in Zion.\u201D"
+      comments:
+      - number: '3:21 '
+        content: 'Or '

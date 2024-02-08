@@ -1,0 +1,1478 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: HOS
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Hosea
+  fancyName: 
+  nickname: hos
+  version: {fileID: 11400000, guid: 433894a244f646848a22a9c7d127b66b, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: "1: Hosea\u2019s Wife and Children"
+      title: "Hosea\u2019s Wife and Children"
+      number: 1
+      content: '  The <smallcaps>Lord</smallcaps> gave this message to Hosea son
+        of Beeri during the years when Uzziah, Jotham, Ahaz, and Hezekiah were kings
+        of Judah, and Jeroboam son of Jehoash[[COMMENT(0)]] was king of Israel.  '
+      comments:
+      - number: '1:1 '
+        content: Hebrew <b>Joash, </b>a variant spelling of Jehoash.
+    - name: '2: '
+      title: 
+      number: 2
+      content: "When the <smallcaps>Lord</smallcaps> first began speaking to Israel
+        through Hosea, he said to him, \u201CGo and marry a prostitute,[[COMMENT(0)]]
+        so that some of her children will be conceived in prostitution. This will
+        illustrate how Israel has acted like a prostitute by turning against the
+        <smallcaps>Lord</smallcaps> and worshiping other gods.\u201D  "
+      comments:
+      - number: '1:2 '
+        content: 'Or <b>a promiscuous woman.</b>  '
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'So Hosea married Gomer, the daughter of Diblaim, and she became pregnant
+        and gave Hosea a son. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "And the <smallcaps>Lord</smallcaps> said, \u201CName the child Jezreel,
+        for I am about to punish King Jehu\u2019s dynasty to avenge the murders he
+        committed at Jezreel. In fact, I will bring an end to Israel\u2019s independence. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "I will break its military power in the Jezreel Valley.\u201D  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Soon Gomer became pregnant again and gave birth to a daughter. And
+        the <smallcaps>Lord</smallcaps> said to Hosea, \u201CName your daughter Lo-ruhamah\u2014\u2018Not
+        loved\u2019\u2014for I will no longer show love to the people of Israel or
+        forgive them. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "But I will show love to the people of Judah. I will free them from
+        their enemies\u2014not with weapons and armies or horses and charioteers,
+        but by my power as the <smallcaps>Lord</smallcaps> their God.\u201D  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'After Gomer had weaned Lo-ruhamah, she again became pregnant and
+        gave birth to a second son. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And the <smallcaps>Lord</smallcaps> said, \u201CName him Lo-ammi\u2014\u2018Not
+        my people\u2019\u2014for Israel is not my people, and I am not their God.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "  [[COMMENT(0)]]\u201CYet the time will come when Israel\u2019s people
+        will be like the sands of the seashore\u2014too many to count! Then, at the
+        place where they were told, \u2018You are not my people,\u2019 it will be
+        said, \u2018You are children of the living God.\u2019 "
+      comments:
+      - number: '1:10 '
+        content: '  Verses 1:10-11 are numbered 2:1-2 in Hebrew text.  '
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Then the people of Judah and Israel will unite together. They will
+        choose one leader for themselves, and they will return from exile together.
+        What a day that will be\u2014the day of Jezreel[[COMMENT(0)]]\u2014when God
+        will again plant his people in his land."
+      comments:
+      - number: '1:11 '
+        content: "<b>Jezreel </b>means \u201CGod plants.\u201D"
+  - verses:
+    - name: '1: Charges against an Unfaithful Wife'
+      title: Charges against an Unfaithful Wife
+      number: 1
+      content: "    [[COMMENT(0)]]\u201CIn that day you will call your brothers Ammi\u2014\u2018My
+        people.\u2019 And you will call your sisters Ruhamah\u2014\u2018The ones
+        I love.\u2019  "
+      comments:
+      - number: '2:1 '
+        content: '  Verses 2:1-23 are numbered 2:3-25 in Hebrew text.  '
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CBut now bring charges against Israel\u2014your mother\u2014for
+        she is no longer my wife,and I am no longer her husband.Tell her to remove
+        the prostitute\u2019s makeup from her faceand the clothing that exposes her
+        breasts.  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Otherwise, I will strip her as nakedas she was on the day she was
+        born.I will leave her to die of thirst,as in a dry and barren wilderness.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And I will not love her children,for they were conceived in prostitution.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Their mother is a shameless prostituteand became pregnant in a shameful
+        way.She said, \u2018I\u2019ll run after other loversand sell myself to them
+        for food and water,for clothing of wool and linen,and for olive oil and drinks.\u2019  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "\u201CFor this reason I will fence her in with thornbushes.I will
+        block her path with a wallto make her lose her way.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "When she runs after her lovers,she won\u2019t be able to catch them.She
+        will search for thembut not find them.Then she will think,\u2018I might as
+        well return to my husband,for I was better off with him than I am now.\u2019  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "She doesn\u2019t realize it was I who gave her everything she has\u2014the
+        grain, the new wine, the olive oil;I even gave her silver and gold.But she
+        gave all my gifts to Baal.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CBut now I will take back the ripened grain and new wineI generously
+        provided each harvest season.I will take away the wool and linen clothingI
+        gave her to cover her nakedness.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'I will strip her naked in public,while all her lovers look on.No
+        one will be ableto rescue her from my hands.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "I will put an end to her annual festivals,her new moon celebrations,
+        and her Sabbath days\u2014all her appointed festivals.  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I will destroy her grapevines and fig trees,things she claims her
+        lovers gave her.I will let them grow into tangled thickets,where only wild
+        animals will eat the fruit.  '
+      comments: []
+    - name: "13: The \u2019s Love for Unfaithful Israel"
+      title: "The \u2019s Love for Unfaithful Israel"
+      number: 13
+      content: "I will punish her for all those timeswhen she burned incense to her
+        images of Baal,when she put on her earrings and jewelsand went out to look
+        for her loversbut forgot all about me,\u201Dsays the <smallcaps>Lord</smallcaps>.<smallcaps>Lord</smallcaps>  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201CBut then I will win her back once again.I will lead her into
+        the desertand speak tenderly to her there.  "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'I will return her vineyards to herand transform the Valley of Trouble[[COMMENT(0)]]
+        into a gateway of hope.She will give herself to me there,as she did long
+        ago when she was young,when I freed her from her captivity in Egypt.  '
+      comments:
+      - number: '2:15 '
+        content: Hebrew <b>valley of Achor.</b>
+    - name: '16: '
+      title: 
+      number: 16
+      content: "When that day comes,\u201D says the <smallcaps>Lord</smallcaps>,\u201Cyou
+        will call me \u2018my husband\u2019instead of \u2018my master.\u2019[[COMMENT(0)]]  "
+      comments:
+      - number: '2:16 '
+        content: "Hebrew <b>\u2018my baal.\u2019</b>"
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'O Israel, I will wipe the many names of Baal from your lips,and you
+        will never mention them again.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'On that day I will make a covenantwith all the wild animals and the
+        birds of the skyand the animals that scurry along the groundso they will
+        not harm you.I will remove all weapons of war from the land,all swords and
+        bows,so you can live unafraidin peace and safety.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'I will make you my wife forever,showing you righteousness and justice,unfailing
+        love and compassion.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'I will be faithful to you and make you mine,and you will finally
+        know me as the <smallcaps>Lord</smallcaps>.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "\u201CIn that day, I will answer,\u201Dsays the <smallcaps>Lord</smallcaps>.\u201CI
+        will answer the sky as it pleads for clouds.And the sky will answer the earth
+        with rain.  "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "Then the earth will answer the thirsty criesof the grain, the grapevines,
+        and the olive trees.And they in turn will answer,\u2018Jezreel\u2019\u2014\u2018God
+        plants!\u2019  "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "At that time I will plant a crop of Israelitesand raise them for
+        myself.I will show loveto those I called \u2018Not loved.\u2019[[COMMENT(0)]]And
+        to those I called \u2018Not my people,\u2019[[COMMENT(1)]]I will say, \u2018Now
+        you are my people.\u2019And they will reply, \u2018You are our God!\u2019\u201D"
+      comments:
+      - number: '2:23a '
+        content: Hebrew <b>Lo-ruhamah; </b>see 1:6.
+      - number: '2:23b '
+        content: Hebrew <b>Lo-ammi; </b>see 1:9.
+  - verses:
+    - name: "1: Hosea\u2019s Wife Is Redeemed"
+      title: "Hosea\u2019s Wife Is Redeemed"
+      number: 1
+      content: "  Then the <smallcaps>Lord</smallcaps> said to me, \u201CGo and love
+        your wife again, even though she[[COMMENT(0)]] commits adultery with another
+        lover. This will illustrate that the <smallcaps>Lord</smallcaps> still loves
+        Israel, even though the people have turned to other gods and love to worship
+        them.[[COMMENT(1)]]\u201D  "
+      comments:
+      - number: '3:1a '
+        content: Or <b>Go and love a woman who.</b>
+      - number: '3:1b '
+        content: Hebrew <b>love their raisin cakes.</b>
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'So I bought her back for fifteen pieces of silver[[COMMENT(0)]] and
+        five bushels of barley and a measure of wine.[[COMMENT(1)]]  '
+      comments:
+      - number: '3:2a '
+        content: Hebrew <b>15 [shekels] of silver, </b>about 6 ounces or 171 grams
+          in weight.
+      - number: '3:2b '
+        content: As in Greek version, which reads <b>a homer of barley and a wineskin
+          full of wine; </b>Hebrew reads <b>a homer </b>[5 bushels or 220 liters]
+          <b>of barley and a lethek </b>[2.5 bushels or 110 liters] <b>of barley.</b>
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Then I said to her, \u201CYou must live in my house for many days
+        and stop your prostitution. During this time, you will not have sexual relations
+        with anyone, not even with me.[[COMMENT(0)]]\u201D  "
+      comments:
+      - number: '3:3 '
+        content: Or <b>and I will live with you.</b>
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'This shows that Israel will go a long time without a king or prince,
+        and without sacrifices, sacred pillars, priests,[[COMMENT(0)]] or even idols! '
+      comments:
+      - number: '3:4 '
+        content: Hebrew <b>ephod, </b>the vest worn by the priest.
+    - name: '5: '
+      title: 
+      number: 5
+      content: "But afterward the people will return and devote themselves to the
+        <smallcaps>Lord</smallcaps> their God and to David\u2019s descendant, their
+        king.[[COMMENT(0)]] In the last days, they will tremble in awe of the <smallcaps>Lord</smallcaps>
+        and of his goodness."
+      comments:
+      - number: '3:5 '
+        content: Hebrew <b>to David their king.</b>
+  - verses:
+    - name: "1: The \u2019s Case against Israel"
+      title: "The \u2019s Case against Israel"
+      number: 1
+      content: "<smallcaps>Lord</smallcaps>  Hear the word of the <smallcaps>Lord</smallcaps>,
+        O people of Israel!The <smallcaps>Lord</smallcaps> has brought charges against
+        you, saying:\u201CThere is no faithfulness, no kindness,no knowledge of God
+        in your land.  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "You make vows and break them;you kill and steal and commit adultery.There
+        is violence everywhere\u2014one murder after another.  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'That is why your land is in mourning,and everyone is wasting away.Even
+        the wild animals, the birds of the sky,and the fish of the sea are disappearing.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CDon\u2019t point your finger at someone elseand try to pass
+        the blame!My complaint, you priests,is with you.[[COMMENT(0)]]  "
+      comments:
+      - number: '4:4 '
+        content: Hebrew <b>Your people are like those with a complaint against the
+          priests.</b>
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'So you will stumble in broad daylight,and your false prophets will
+        fall with you in the night.And I will destroy Israel, your mother.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "My people are being destroyedbecause they don\u2019t know me.Since
+        you priests refuse to know me,I refuse to recognize you as my priests.Since
+        you have forgotten the laws of your God,I will forget to bless your children.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The more priests there are,the more they sin against me.They have
+        exchanged the glory of Godfor the shame of idols.[[COMMENT(0)]]  '
+      comments:
+      - number: '4:7 '
+        content: As in Syriac version and an ancient Hebrew tradition; Masoretic
+          Text reads <b>I will turn their glory into shame.</b>
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CWhen the people bring their sin offerings, the priests get
+        fed.So the priests are glad when the people sin!  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u2018And what the priests do, the people also do.\u2019So now I
+        will punish both priests and peoplefor their wicked deeds.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'They will eat and still be hungry.They will play the prostitute and
+        gain nothing from it,for they have deserted the <smallcaps>Lord</smallcaps>  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "to worship other gods.\u201CWine has robbed my peopleof their understanding.  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'They ask a piece of wood for advice!They think a stick can tell them
+        the future!Longing after idolshas made them foolish.They have played the
+        prostitute,serving other gods and deserting their God.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "They offer sacrifices to idols on the mountaintops.They go up into
+        the hills to burn incensein the pleasant shade of oaks, poplars, and terebinth
+        trees.\u201CThat is why your daughters turn to prostitution,and your daughters-in-law
+        commit adultery.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'But why should I punish themfor their prostitution and adultery?For
+        your men are doing the same thing,sinning with whores and shrine prostitutes.O
+        foolish people! You refuse to understand,so you will be destroyed.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "\u201CThough you, Israel, are a prostitute,may Judah not be guilty
+        of such things.Do not join the false worship at Gilgal or Beth-aven,[[COMMENT(0)]]and
+        do not take oaths there in the <smallcaps>Lord</smallcaps>\u2019s name.  "
+      comments:
+      - number: '4:15 '
+        content: "<b>Beth-aven </b>means \u201Chouse of wickedness\u201D; it is being
+          used as another name for Bethel, which means \u201Chouse of God.\u201D"
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Israel is stubborn,like a stubborn heifer.So should the <smallcaps>Lord</smallcaps>
+        feed herlike a lamb in a lush pasture?  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Leave Israel[[COMMENT(0)]] alone,because she is married to idolatry.  '
+      comments:
+      - number: '4:17 '
+        content: Hebrew <b>Ephraim, </b>referring to the northern kingdom of Israel.
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'When the rulers of Israel finish their drinking,off they go to find
+        some prostitutes.They love shame more than honor.[[COMMENT(0)]]  '
+      comments:
+      - number: '4:18 '
+        content: As in Greek version; the meaning of the Hebrew is uncertain.
+    - name: '19: '
+      title: 
+      number: 19
+      content: So a mighty wind will sweep them away.Their sacrifices to idols will
+        bring them shame.
+      comments: []
+  - verses:
+    - name: "1: The Failure of Israel\u2019s Leaders"
+      title: "The Failure of Israel\u2019s Leaders"
+      number: 1
+      content: "  \u201CHear this, you priests.Pay attention, you leaders of Israel.Listen,
+        you members of the royal family.Judgment has been handed down against you.For
+        you have led the people into a snareby worshiping the idols at Mizpah and
+        Tabor.  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'You have dug a deep pit to trap them at Acacia Grove.[[COMMENT(0)]]But
+        I will settle with you for what you have done.  '
+      comments:
+      - number: '5:2 '
+        content: Hebrew <b>at Shittim. </b>The meaning of the Hebrew for this sentence
+          is uncertain.
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'I know what you are like, O Ephraim.You cannot hide yourself from
+        me, O Israel.You have left me as a prostitute leaves her husband;you are
+        utterly defiled.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Your deeds won\u2019t let you return to your God.You are a prostitute
+        through and through,and you do not know the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CThe arrogance of Israel testifies against her;Israel and Ephraim
+        will stumble under their load of guilt.Judah, too, will fall with them.  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'When they come with their flocks and herdsto offer sacrifices to
+        the <smallcaps>Lord</smallcaps>,they will not find him,because he has withdrawn
+        from them.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'They have betrayed the honor of the <smallcaps>Lord</smallcaps>,bearing
+        children that are not his.Now their false religion will devour themalong
+        with their wealth.[[COMMENT(0)]]  '
+      comments:
+      - number: '5:7 '
+        content: The meaning of the Hebrew is uncertain.
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CSound the alarm in Gibeah!Blow the trumpet in Ramah!Raise the
+        battle cry in Beth-aven[[COMMENT(0)]]!Lead on into battle, O warriors of
+        Benjamin!  "
+      comments:
+      - number: '5:8 '
+        content: "<b>Beth-aven </b>means \u201Chouse of wickedness\u201D; it is being
+          used as another name for Bethel, which means \u201Chouse of God.\u201D"
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'One thing is certain, Israel[[COMMENT(0)]]:On your day of punishment,you
+        will become a heap of rubble.  '
+      comments:
+      - number: '5:9 '
+        content: Hebrew <b>Ephraim, </b>referring to the northern kingdom of Israel;
+          also in 5:11, 12, 13, 14.
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201CThe leaders of Judah have become like thieves.[[COMMENT(0)]]So
+        I will pour my anger on them like a waterfall.  "
+      comments:
+      - number: '5:10 '
+        content: Hebrew <b>like those who move a boundary marker.</b>
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The people of Israel will be crushed and broken by my judgmentbecause
+        they are determined to worship idols.[[COMMENT(0)]]  '
+      comments:
+      - number: '5:11 '
+        content: Or <b>determined to follow human commands. </b>The meaning of the
+          Hebrew is uncertain.
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I will destroy Israel as a moth consumes wool.I will make Judah as
+        weak as rotten wood.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CWhen Israel and Judah saw how sick they were,Israel turned
+        to Assyria\u2014to the great king there\u2014but he could neither help nor
+        cure them.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'I will be like a lion to Israel,like a strong young lion to Judah.I
+        will tear them to pieces!I will carry them off,and no one will be left to
+        rescue them.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "Then I will return to my placeuntil they admit their guilt and turn
+        to me.For as soon as trouble comes,they will earnestly search for me.\u201D"
+      comments: []
+  - verses:
+    - name: '1: A Call to Repentance'
+      title: A Call to Repentance
+      number: 1
+      content: "  \u201CCome, let us return to the <smallcaps>Lord</smallcaps>.He
+        has torn us to pieces;now he will heal us.He has injured us;now he will bandage
+        our wounds.  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'In just a short time he will restore us,so that we may live in his
+        presence.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Oh, that we might know the <smallcaps>Lord</smallcaps>!Let us press
+        on to know him.He will respond to us as surely as the arrival of dawnor the
+        coming of rains in early spring.\u201D  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CO Israel[[COMMENT(0)]] and Judah,what should I do with you?\u201D
+        asks the <smallcaps>Lord</smallcaps>.\u201CFor your love vanishes like the
+        morning mistand disappears like dew in the sunlight.  "
+      comments:
+      - number: '6:4 '
+        content: Hebrew <b>Ephraim, </b>referring to the northern kingdom of Israel.
+    - name: '5: '
+      title: 
+      number: 5
+      content: "I sent my prophets to cut you to pieces\u2014to slaughter you with
+        my words,with judgments as inescapable as light.  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'I want you to show love,[[COMMENT(0)]]not offer sacrifices.I want
+        you to know me[[COMMENT(1)]]more than I want burnt offerings.  '
+      comments:
+      - number: '6:6a '
+        content: Greek version translates this Hebrew term as <b>to show mercy. </b>Compare
+          Matt 9:13; 12:7.
+      - number: '6:6b '
+        content: Hebrew <b>to know God.</b>
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'But like Adam,[[COMMENT(0)]] you broke my covenantand betrayed my
+        trust.  '
+      comments:
+      - number: '6:7 '
+        content: Or <b>But at Adam.</b>
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CGilead is a city of sinners,tracked with footprints of blood.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Priests form bands of robbers,waiting in ambush for their victims.They
+        murder travelers along the road to Shechemand practice every kind of sin.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Yes, I have seen something horrible in Ephraim and Israel:My people
+        are defiled by prostituting themselves with other gods!  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CO Judah, a harvest of punishment is also waiting for you,though
+        I wanted to restore the fortunes of my people."
+      comments: []
+  - verses:
+    - name: "1: Israel\u2019s Love for Wickedness"
+      title: "Israel\u2019s Love for Wickedness"
+      number: 1
+      content: "  \u201CI want to heal Israel, but its[[COMMENT(0)]] sins are too
+        great.Samaria is filled with liars.Thieves are on the insideand bandits on
+        the outside!  "
+      comments:
+      - number: '7:1 '
+        content: "Hebrew <b>Ephraim\u2019s, </b>referring to the northern kingdom
+          of Israel; similarly in 7:8, 11."
+    - name: '2: '
+      title: 
+      number: 2
+      content: "Its people don\u2019t realizethat I am watching them.Their sinful
+        deeds are all around them,and I see them all.  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "\u201CThe people entertain the king with their wickedness,and the
+        princes laugh at their lies.  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'They are all adulterers,always aflame with lust.They are like an
+        oven that is kept hotwhile the baker is kneading the dough.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'On royal holidays, the princes get drunk with wine,carousing with
+        those who mock them.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Their hearts are like an ovenblazing with intrigue.Their plot smolders[[COMMENT(0)]]
+        through the night,and in the morning it breaks out like a raging fire.  '
+      comments:
+      - number: '7:6 '
+        content: Hebrew <b>Their baker sleeps.</b>
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Burning like an oven,they consume their leaders.They kill their kings
+        one after another,and no one cries to me for help.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CThe people of Israel mingle with godless foreigners,making
+        themselves as worthless as a half-baked cake!  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Worshiping foreign gods has sapped their strength,but they don\u2019t
+        even know it.Their hair is gray,but they don\u2019t realize they\u2019re
+        old and weak.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Their arrogance testifies against them,yet they don\u2019t return
+        to the <smallcaps>Lord</smallcaps> their Godor even try to find him.  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CThe people of Israel have become like silly, witless doves,first
+        calling to Egypt, then flying to Assyria for help.  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'But as they fly about,I will throw my net over themand bring them
+        down like a bird from the sky.I will punish them for all the evil they do.[[COMMENT(0)]]  '
+      comments:
+      - number: '7:12 '
+        content: Hebrew <b>I will punish them because of what was reported against
+          them in the assembly.</b>
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CWhat sorrow awaits those who have deserted me!Let them die,
+        for they have rebelled against me.I wanted to redeem them,but they have told
+        lies about me.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'They do not cry out to me with sincere hearts.Instead, they sit on
+        their couches and wail.They cut themselves,[[COMMENT(0)]] begging foreign
+        gods for grain and new wine,and they turn away from me.  '
+      comments:
+      - number: '7:14 '
+        content: As in Greek version; Hebrew reads <b>They gather together.</b>
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'I trained them and made them strong,yet now they plot evil against
+        me.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: They look everywhere except to the Most High.They are as useless as
+        a crooked bow.Their leaders will be killed by their enemiesbecause of their
+        insolence toward me.Then the people of Egyptwill laugh at them.
+      comments: []
+  - verses:
+    - name: '1: Israel Harvests the Whirlwind'
+      title: Israel Harvests the Whirlwind
+      number: 1
+      content: "  \u201CSound the alarm!The enemy descends like an eagle on the people
+        of the <smallcaps>Lord</smallcaps>,for they have broken my covenantand revolted
+        against my law.  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "Now Israel pleads with me,\u2018Help us, for you are our God!\u2019  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'But it is too late.The people of Israel have rejected what is good,and
+        now their enemies will chase after them.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The people have appointed kings without my consent,and princes without
+        my approval.By making idols for themselves from their silver and gold,they
+        have brought about their own destruction.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CO Samaria, I reject this calf\u2014this idol you have made.My
+        fury burns against you.How long will you be incapable of innocence?  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'This calf you worship, O Israel,was crafted by your own hands!It
+        is not God!Therefore, it must be smashed to bits.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CThey have planted the windand will harvest the whirlwind.The
+        stalks of grain witherand produce nothing to eat.And even if there is any
+        grain,foreigners will eat it.  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The people of Israel have been swallowed up;they lie among the nations
+        like an old discarded pot.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Like a wild donkey looking for a mate,they have gone up to Assyria.The
+        people of Israel[[COMMENT(0)]] have sold themselves\u2014sold themselves
+        to many lovers.  "
+      comments:
+      - number: '8:9 '
+        content: Hebrew <b>Ephraim, </b>referring to the northern kingdom of Israel;
+          also in 8:11.
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'But though they have sold themselves to many allies,I will now gather
+        them together for judgment.Then they will writheunder the burden of the great
+        king.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CIsrael has built many altars to take away sin,but these very
+        altars became places for sinning!  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Even though I gave them all my laws,they act as if those laws don\u2019t
+        apply to them.  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The people love to offer sacrifices to me,feasting on the meat,but
+        I do not accept their sacrifices.I will hold my people accountable for their
+        sins,and I will punish them.They will return to Egypt.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Israel has forgotten its Maker and built great palaces,and Judah
+        has fortified its cities.Therefore, I will send down fire on their citiesand
+        will burn up their fortresses.\u201D"
+      comments: []
+  - verses:
+    - name: "1: Hosea Announces Israel\u2019s Punishment"
+      title: "Hosea Announces Israel\u2019s Punishment"
+      number: 1
+      content: '  O people of Israel,do not rejoice as other nations do.For you have
+        been unfaithful to your God,hiring yourselves out like prostitutes,worshiping
+        other gods on every threshing floor.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'So now your harvests will be too small to feed you.There will be
+        no grapes for making new wine.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "You may no longer stay here in the <smallcaps>Lord</smallcaps>\u2019s
+        land.Instead, you will return to Egypt,and in Assyria you will eat foodthat
+        is ceremonially unclean.  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'There you will make no offerings of wine to the <smallcaps>Lord</smallcaps>.None
+        of your sacrifices there will please him.They will be unclean, like food
+        touched by a person in mourning.All who present such sacrifices will be defiled.They
+        may eat this food themselves,but they may not offer it to the <smallcaps>Lord</smallcaps>.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "What then will you do on festival days?How will you observe the <smallcaps>Lord</smallcaps>\u2019s
+        festivals?  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Even if you escape destruction from Assyria,Egypt will conquer you,
+        and Memphis[[COMMENT(0)]] will bury you.Nettles will take over your treasures
+        of silver;thistles will invade your ruined homes.  '
+      comments:
+      - number: '9:6 '
+        content: Memphis was the capital of northern Egypt.
+    - name: '7: '
+      title: 
+      number: 7
+      content: "The time of Israel\u2019s punishment has come;the day of payment
+        is here.Soon Israel will know this all too well.Because of your great sin
+        and hostility,you say, \u201CThe prophets are crazyand the inspired men are
+        fools!\u201D  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The prophet is a watchman over Israel[[COMMENT(0)]] for my God,yet
+        traps are laid for him wherever he goes.He faces hostility even in the house
+        of God.  '
+      comments:
+      - number: '9:8 '
+        content: Hebrew <b>Ephraim, </b>referring to the northern kingdom of Israel;
+          also in 9:11, 13, 16.
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'The things my people do are as depravedas what they did in Gibeah
+        long ago.God will not forget.He will surely punish them for their sins.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "The <smallcaps>Lord</smallcaps> says, \u201CO Israel, when I first
+        found you,it was like finding fresh grapes in the desert.When I saw your
+        ancestors,it was like seeing the first ripe figs of the season.But then they
+        deserted me for Baal-peor,giving themselves to that shameful idol.Soon they
+        became vile,as vile as the god they worshiped.  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The glory of Israel will fly away like a bird,for your children will
+        not be bornor grow in the wombor even be conceived.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Even if you do have children who grow up,I will take them from you.It
+        will be a terrible day when I turn awayand leave you alone.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "I have watched Israel become as beautiful as Tyre.But now Israel
+        will bring out her children for slaughter.\u201D  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "O <smallcaps>Lord</smallcaps>, what should I request for your people?I
+        will ask for wombs that don\u2019t give birthand breasts that give no milk.  "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "The <smallcaps>Lord</smallcaps> says, \u201CAll their wickedness
+        began at Gilgal;there I began to hate them.I will drive them from my landbecause
+        of their evil actions.I will love them no morebecause all their leaders are
+        rebels.  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "The people of Israel are struck down.Their roots are dried up,and
+        they will bear no more fruit.And if they give birth,I will slaughter their
+        beloved children.\u201D  "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: My God will reject the people of Israelbecause they will not listen
+        or obey.They will be wanderers,homeless among the nations.
+      comments: []
+  - verses:
+    - name: "1: The \u2019s Judgment against Israel"
+      title: "The \u2019s Judgment against Israel"
+      number: 1
+      content: "<smallcaps>Lord</smallcaps>  How prosperous Israel is\u2014a luxuriant
+        vine loaded with fruit.But the richer the people get,the more pagan altars
+        they build.The more bountiful their harvests,the more beautiful their sacred
+        pillars.  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'The hearts of the people are fickle;they are guilty and must be punished.The
+        <smallcaps>Lord</smallcaps> will break down their altarsand smash their sacred
+        pillars.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Then they will say, \u201CWe have no kingbecause we didn\u2019t fear
+        the <smallcaps>Lord</smallcaps>.But even if we had a king,what could he do
+        for us anyway?\u201D  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "They spout empty wordsand make covenants they don\u2019t intend to
+        keep.So injustice springs up among themlike poisonous weeds in a farmer\u2019s
+        field.  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The people of Samaria tremble in fearfor their calf idol at Beth-aven,[[COMMENT(0)]]and
+        they mourn for it.Though its priests rejoice over it,its glory will be stripped
+        away.[[COMMENT(1)]]  '
+      comments:
+      - number: '10:5a '
+        content: "<b>Beth-aven </b>means \u201Chouse of wickedness\u201D; it is being
+          used as another name for Bethel, which means \u201Chouse of God.\u201D"
+      - number: '10:5b '
+        content: Or <b>will be taken away into exile.</b>
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'This idol will be carted away to Assyria,a gift to the great king
+        there.Ephraim will be ridiculed and Israel will be shamed,because its people
+        have trusted in this idol.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Samaria and its king will be cut off;they will float away like driftwood
+        on an ocean wave.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And the pagan shrines of Aven,[[COMMENT(0)]] the place of Israel\u2019s
+        sin, will crumble.Thorns and thistles will grow up around their altars.They
+        will beg the mountains, \u201CBury us!\u201Dand plead with the hills, \u201CFall
+        on us!\u201D  "
+      comments:
+      - number: '10:8 '
+        content: <b>Aven </b>is a reference to Beth-aven; see 10:5a and the note
+          there.
+    - name: '9: '
+      title: 
+      number: 9
+      content: "The <smallcaps>Lord</smallcaps> says, \u201CO Israel, ever since
+        Gibeah,there has been only sin and more sin!You have made no progress whatsoever.Was
+        it not right that the wicked men of Gibeah were attacked?  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Now whenever it fits my plan,I will attack you, too.I will call out
+        the armies of the nationsto punish you for your multiplied sins.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CIsrael[[COMMENT(0)]] is like a trained heifer treading out
+        the grain\u2014an easy job she loves.But I will put a heavy yoke on her tender
+        neck.I will force Judah to pull the plowand Israel[[COMMENT(1)]] to break
+        up the hard ground.  "
+      comments:
+      - number: '10:11a '
+        content: Hebrew <b>Ephraim, </b>referring to the northern kingdom of Israel.
+      - number: '10:11b '
+        content: "Hebrew <b>Jacob. </b>The names \u201CJacob\u201D and \u201CIsrael\u201D
+          are often interchanged throughout the Old Testament, referring sometimes
+          to the individual patriarch and sometimes to the nation."
+    - name: '12: '
+      title: 
+      number: 12
+      content: "I said, \u2018Plant the good seeds of righteousness,and you will
+        harvest a crop of love.Plow up the hard ground of your hearts,for now is
+        the time to seek the <smallcaps>Lord</smallcaps>,that he may comeand shower
+        righteousness upon you.\u2019  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "\u201CBut you have cultivated wickednessand harvested a thriving
+        crop of sins.You have eaten the fruit of lies\u2014trusting in your military
+        might,believing that great armiescould make your nation safe.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Now the terrors of warwill rise among your people.All your fortifications
+        will fall,just as when Shalman destroyed Beth-arbel.Even mothers and childrenwere
+        dashed to death there.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: You will share that fate, Bethel,because of your great wickedness.When
+        the day of judgment dawns,the king of Israel will be completely destroyed.
+      comments: []
+  - verses:
+    - name: "1: The \u2019s Love for Israel"
+      title: "The \u2019s Love for Israel"
+      number: 1
+      content: "<smallcaps>Lord</smallcaps>  \u201CWhen Israel was a child, I loved
+        him,and I called my son out of Egypt.  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'But the more I called to him,the farther he moved from me,[[COMMENT(0)]]offering
+        sacrifices to the images of Baaland burning incense to idols.  '
+      comments:
+      - number: '11:2 '
+        content: As in Greek version; Hebrew reads <b>the more they called to him,
+          the farther he moved from them.</b>
+    - name: '3: '
+      title: 
+      number: 3
+      content: "I myself taught Israel[[COMMENT(0)]] how to walk,leading him along
+        by the hand.But he doesn\u2019t know or even carethat it was I who took care
+        of him.  "
+      comments:
+      - number: '11:3 '
+        content: 'Hebrew <b>Ephraim, </b>referring to the northern kingdom of Israel;
+          also in 11:8, 9, 12.  '
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'I led Israel alongwith my ropes of kindness and love.I lifted the
+        yoke from his neck,and I myself stooped to feed him.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CBut since my people refuse to return to me,they will return
+        to Egyptand will be forced to serve Assyria.  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'War will swirl through their cities;their enemies will crash through
+        their gates.They will destroy them,trapping them in their own evil plans.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "For my people are determined to desert me.They call me the Most High,but
+        they don\u2019t truly honor me.  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201COh, how can I give you up, Israel?How can I let you go?How
+        can I destroy you like Admahor demolish you like Zeboiim?My heart is torn
+        within me,and my compassion overflows.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'No, I will not unleash my fierce anger.I will not completely destroy
+        Israel,for I am God and not a mere mortal.I am the Holy One living among
+        you,and I will not come to destroy.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For someday the people will follow me.I, the <smallcaps>Lord</smallcaps>,
+        will roar like a lion.And when I roar,my people will return trembling from
+        the west.  '
+      comments: []
+    - name: '11: Charges against Israel and Judah'
+      title: Charges against Israel and Judah
+      number: 11
+      content: "Like a flock of birds, they will come from Egypt.Trembling like doves,
+        they will return from Assyria.And I will bring them home again,\u201Dsays
+        the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  [[COMMENT(0)]]Israel surrounds me with lies and deceit,but Judah
+        still obeys Godand is faithful to the Holy One.[[COMMENT(1)]]'
+      comments:
+      - number: '11:12a '
+        content: '  Verse 11:12 is numbered 12:1 in Hebrew text.  '
+      - number: '11:12b '
+        content: Or <b>and Judah is unruly against God, the faithful Holy One. </b>The
+          meaning of the Hebrew is uncertain.
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '    [[COMMENT(0)]]The people of Israel[[COMMENT(1)]] feed on the
+        wind;they chase after the east wind all day long.They pile up lies and violence;they
+        are making an alliance with Assyriawhile sending olive oil to buy support
+        from Egypt.  '
+      comments:
+      - number: '12:1a '
+        content: '  Verses 12:1-14 are numbered 12:2-15 in Hebrew text.  '
+      - number: '12:1b '
+        content: Hebrew <b>Ephraim, </b>referring to the northern kingdom of Israel;
+          also in 12:8, 14.
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Now the <smallcaps>Lord</smallcaps> is bringing charges against Judah.He
+        is about to punish Jacob[[COMMENT(0)]] for all his deceitful ways,and pay
+        him back for all he has done.  '
+      comments:
+      - number: '12:2 '
+        content: "<b>Jacob </b>sounds like the Hebrew word for \u201Cdeceiver.\u201D"
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Even in the womb,Jacob struggled with his brother;when he became
+        a man,he even fought with God.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Yes, he wrestled with the angel and won.He wept and pleaded for a
+        blessing from him.There at Bethel he met God face to face,and God spoke to
+        him[[COMMENT(0)]]\u2014  "
+      comments:
+      - number: '12:4 '
+        content: As in Greek and Syriac versions; Hebrew reads <b>to us.</b>
+    - name: '5: '
+      title: 
+      number: 5
+      content: "the <smallcaps>Lord</smallcaps> God of Heaven\u2019s Armies,the <smallcaps>Lord</smallcaps>
+        is his name!  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'So now, come back to your God.Act with love and justice,and always
+        depend on him.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "But no, the people are like crafty merchantsselling from dishonest
+        scales\u2014they love to cheat.  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Israel boasts, \u201CI am rich!I\u2019ve made a fortune all by myself!No
+        one has caught me cheating!My record is spotless!\u201D  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CBut I am the <smallcaps>Lord</smallcaps> your God,who rescued
+        you from slavery in Egypt.And I will make you live in tents again,as you
+        do each year at the Festival of Shelters.[[COMMENT(0)]]  "
+      comments:
+      - number: '12:9 '
+        content: Hebrew <b>as in the days of your appointed feast.</b>
+    - name: '10: '
+      title: 
+      number: 10
+      content: "I sent my prophets to warn youwith many visions and parables.\u201D  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'But the people of Gilead are worthlessbecause of their idol worship.And
+        in Gilgal, too, they sacrifice bulls;their altars are lined up like the heaps
+        of stonealong the edges of a plowed field.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Jacob fled to the land of Aram,and there he[[COMMENT(0)]] earned
+        a wife by tending sheep.  '
+      comments:
+      - number: '12:12 '
+        content: Hebrew <b>Israel. </b>See note on 10:11b.
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Then by a prophetthe <smallcaps>Lord</smallcaps> brought Jacob\u2019s
+        descendants[[COMMENT(0)]] out of Egypt;and by that prophetthey were protected.  "
+      comments:
+      - number: '12:13 '
+        content: Hebrew <b>brought Israel. </b>See note on 10:11b.
+    - name: '14: '
+      title: 
+      number: 14
+      content: But the people of Israelhave bitterly provoked the <smallcaps>Lord</smallcaps>,so
+        their Lord will now sentence them to deathin payment for their sins.
+      comments: []
+  - verses:
+    - name: "1: The \u2019s Anger against Israel"
+      title: "The \u2019s Anger against Israel"
+      number: 1
+      content: '<smallcaps>Lord</smallcaps>  When the tribe of Ephraim spoke,the
+        people shook with fear,for that tribe was important in Israel.But the people
+        of Ephraim sinned by worshiping Baaland thus sealed their destruction.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "Now they continue to sin by making silver idols,images shaped skillfully
+        with human hands.\u201CSacrifice to these,\u201D they cry,\u201Cand kiss
+        the calf idols!\u201D  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Therefore, they will disappear like the morning mist,like dew in
+        the morning sun,like chaff blown by the wind,like smoke from a chimney.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CI have been the <smallcaps>Lord</smallcaps> your Godever since
+        I brought you out of Egypt.You must acknowledge no God but me,for there is
+        no other savior.  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'I took care of you in the wilderness,in that dry and thirsty land.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'But when you had eaten and were satisfied,you became proud and forgot
+        me.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'So now I will attack you like a lion,like a leopard that lurks along
+        the road.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Like a bear whose cubs have been taken away,I will tear out your
+        heart.I will devour you like a hungry lionessand mangle you like a wild animal.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CYou are about to be destroyed, O Israel\u2014yes, by me, your
+        only helper.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Now where is[[COMMENT(0)]] your king?Let him save you!Where are all
+        the leaders of the land,the king and the officials you demanded of me?  '
+      comments:
+      - number: '13:10 '
+        content: As in Greek and Syriac versions and Latin Vulgate; Hebrew reads
+          <b>I will be.</b>
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'In my anger I gave you kings,and in my fury I took them away.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CEphraim\u2019s guilt has been collected,and his sin has been
+        stored up for punishment.  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Pain has come to the peoplelike the pain of childbirth,but they are
+        like a childwho resists being born.The moment of birth has arrived,but they
+        stay in the womb!  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201CShould I ransom them from the grave[[COMMENT(0)]]?Should I
+        redeem them from death?O death, bring on your terrors!O grave, bring on your
+        plagues![[COMMENT(1)]]For I will not take pity on them.  "
+      comments:
+      - number: '13:14a '
+        content: Hebrew <b>Sheol; </b>also in 13:14b.
+      - number: '13:14b '
+        content: 'Greek version reads <b>O death, where is your punishment? / O grave
+          </b>[Hades], <b>where is your sting? </b>Compare 1 Cor 15:55.  '
+    - name: '15: '
+      title: 
+      number: 15
+      content: "Ephraim was the most fruitful of all his brothers,but the east wind\u2014a
+        blast from the <smallcaps>Lord</smallcaps>\u2014will arise in the desert.All
+        their flowing springs will run dry,and all their wells will disappear.Every
+        precious thing they ownwill be plundered and carried away.  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "  [[COMMENT(0)]]The people of Samariamust bear the consequences of
+        their guiltbecause they rebelled against their God.They will be killed by
+        an invading army,their little ones dashed to death against the ground,their
+        pregnant women ripped open by swords.\u201D"
+      comments:
+      - number: '13:16 '
+        content: '  Verse 16 is numbered 14:1 in Hebrew text.  '
+  - verses:
+    - name: '1: Healing for the Repentant'
+      title: Healing for the Repentant
+      number: 1
+      content: '    [[COMMENT(0)]]Return, O Israel, to the <smallcaps>Lord</smallcaps>
+        your God,for your sins have brought you down.  '
+      comments:
+      - number: '14:1 '
+        content: '  Verses 14:1-9 are numbered 14:2-10 in Hebrew text.  '
+    - name: '2: '
+      title: 
+      number: 2
+      content: "Bring your confessions, and return to the <smallcaps>Lord</smallcaps>.Say
+        to him,\u201CForgive all our sins and graciously receive us,so that we may
+        offer you our praises.[[COMMENT(0)]]  "
+      comments:
+      - number: '14:2 '
+        content: As in Greek and Syriac versions, which read <b>may repay the fruit
+          of our lips; </b>Hebrew reads <b>may repay the bulls of our lips.</b>
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Assyria cannot save us,nor can our warhorses.Never again will we
+        say to the idols we have made,\u2018You are our gods.\u2019No, in you alonedo
+        the orphans find mercy.\u201D  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "The <smallcaps>Lord</smallcaps> says,\u201CThen I will heal you of
+        your faithlessness;my love will know no bounds,for my anger will be gone
+        forever.  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'I will be to Israellike a refreshing dew from heaven.Israel will
+        blossom like the lily;it will send roots deep into the soillike the cedars
+        in Lebanon.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Its branches will spread out like beautiful olive trees,as fragrant
+        as the cedars of Lebanon.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'My people will again live under my shade.They will flourish like
+        grain and blossom like grapevines.They will be as fragrant as the wines of
+        Lebanon.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CO Israel,[[COMMENT(0)]] stay away from idols!I am the one who
+        answers your prayers and cares for you.I am like a tree that is always green;all
+        your fruit comes from me.\u201D  "
+      comments:
+      - number: '14:8 '
+        content: Hebrew <b>Ephraim, </b>referring to the northern kingdom of Israel.
+    - name: '9: '
+      title: 
+      number: 9
+      content: Let those who are wise understand these things.Let those with discernment
+        listen carefully.The paths of the <smallcaps>Lord</smallcaps> are true and
+        right,and righteous people live by walking in them.But in those paths sinners
+        stumble and fall.
+      comments: []

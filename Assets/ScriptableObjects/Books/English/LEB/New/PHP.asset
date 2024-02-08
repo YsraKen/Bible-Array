@@ -1,0 +1,652 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: PHP
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Philippians
+  fancyName: 
+  nickname: php
+  version: {fileID: 11400000, guid: d0ec49142d5c7c24fb05ee739840cab0, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Greeting'
+      title: Greeting
+      number: 1
+      content: ' Paul and Timothy, slaves of Christ Jesus, to all the saints in Christ
+        Jesus who are in Philippi, together with the overseers and deacons. '
+      comments: []
+    - name: '2: Thanksgiving'
+      title: Thanksgiving
+      number: 2
+      content: 'Grace to you and peace from God our Father and the Lord Jesus Christ. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'I give thanks to my God upon my every remembrance of you,  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'always in my every prayer for all of you, making the prayer with
+        joy, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'because of your participation in the gospel from the first day until
+        now, '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'convinced of this same thing, that the one who began a good work
+        in you will finish it until the day of Christ Jesus, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'just as it is right for me to think this about all of you, because
+        I have you in my heart, since both in my imprisonment and in the defense
+        and confirmation of the gospel all of you are sharers of grace with me. '
+      comments: []
+    - name: '8: Prayer for Spiritual Maturity'
+      title: Prayer for Spiritual Maturity
+      number: 8
+      content: 'For God is my witness, that I long for all of you with the affection
+        of Christ Jesus. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And this I pray: that your love may abound still more and more in
+        knowledge and all discernment, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'so that you may approve what is superior, in order that you may be
+        sincere and blameless in the day of Christ, '
+      comments: []
+    - name: '11: The Progress of the Gospel'
+      title: The Progress of the Gospel
+      number: 11
+      content: 'having been filled with the fruit of righteousness which comes through
+        Jesus Christ to the glory and praise of God. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Now I want you to know, brothers, that my circumstances have happened
+        instead for the progress of the gospel, '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'so that my imprisonment in Christ has become known in the whole praetorium
+        and to all the rest, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'and most of the brothers, trusting in the Lord because of my imprisonment,
+        dare even more to speak the word without fear. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Some even because of envy and strife preach Christ, but some also
+        because of good will. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The latter do so from love, knowing that I am appointed for the defense
+        of the gospel. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'The former proclaim Christ from selfish ambition, not sincerely,
+        thinking to raise up affliction in my imprisonment. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'What is the result? Only that in every way, whether in pretense or
+        in truth, Christ is proclaimed, and in this I rejoice. But also I will rejoice, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'for I know that this will turn out to me for deliverance through
+        your prayer and the support of the Spirit of Jesus Christ, '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'according to my eager expectation and hope, that I will be put to
+        shame in nothing, but with all boldness, even now as always Christ will be
+        exalted in my body, whether through life or through death. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'For to me to live is Christ and to die is gain. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'But if it is to live in the flesh, this is fruitful work for me,
+        and which I will prefer I do not know. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'But I am hard pressed between the two options, having the desire
+        to depart and to be with Christ, for this is very much better. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'But to stay on in the flesh is more necessary for your sake. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'And because I am convinced of this, I know that I will remain and
+        continue with all of you for your progress and joy in the faith, '
+      comments: []
+    - name: '26: Stand Firm for the Gospel'
+      title: Stand Firm for the Gospel
+      number: 26
+      content: 'so that what you can be proud of may increase in Christ Jesus because
+        of me through my return again to you. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Only lead your lives in a manner worthy of the gospel of Christ,
+        so that whether I come and see you or am absent I hear your circumstances,
+        that you are standing firm in one spirit, with one soul contending side by
+        side for the faith of the gospel, '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'and not letting yourselves be intimidated in anything by your opponents,
+        which is a sign of destruction to them, but of your salvation, and this from
+        God, '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'because to you has been graciously granted on behalf of Christ not
+        only to believe in him, but also to suffer on behalf of him, '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'having the same struggle which you saw in me and now hear about in
+        me. '
+      comments: []
+  - verses:
+    - name: '1: Humility and Unity'
+      title: Humility and Unity
+      number: 1
+      content: ' Therefore, if there is any encouragement in Christ, if any consolation
+        of love, if any fellowship of the Spirit, if any affection and compassion, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'complete my joy, so that you are in agreement, having the same love,
+        united in spirit, having one purpose. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Do nothing according to selfish ambition or according to empty conceit,
+        but in humility considering one another better than yourselves, '
+      comments: []
+    - name: "4: Christ\u2019s Humiliation and Exaltation"
+      title: "Christ\u2019s Humiliation and Exaltation"
+      number: 4
+      content: 'each of you not looking out for your own interests, but also each
+        of you for the interests of others. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Think this in yourselves which was also in Christ Jesus, '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'who, existing in the form of God, did not consider being equal with
+        God something to be grasped, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'but emptied himself by taking the form of a slave, by becoming in
+        the likeness of people. And being found in appearance like a man, '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'he humbled himself by becoming obedient to the point of death, that
+        is, death on a cross. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Therefore also God exalted him and graciously granted him the name
+        above every name, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'so that at the name of Jesus every knee should bow, of those in heaven
+        and of those on earth and of those under the earth, '
+      comments: []
+    - name: '11: Holding Fast to the Word of Life'
+      title: Holding Fast to the Word of Life
+      number: 11
+      content: 'and every tongue confess that Jesus Christ is Lord, to the glory
+        of God the Father. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Therefore my dear friends, just as you have always obeyed, not as
+        in my presence only but now much more in my absence, work out your own salvation
+        with fear and trembling. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'For the one at work in you, both to will and to work for his good
+        pleasure, is God. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Do all things without grumbling and disputing, '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'in order that you may become blameless and innocent, children of
+        God without fault in the midst of a crooked and perverted generation, among
+        whom you shine as stars in the world,  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'holding fast to the word of life, for a source of pride to me in
+        the day of Christ, that I did not run in vain or labor in vain. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'But even if I am being poured out as a drink offering on the sacrifice
+        and service of your faith, I rejoice and rejoice with all of you. '
+      comments: []
+    - name: "18: Timothy\u2019s Proven Character"
+      title: "Timothy\u2019s Proven Character"
+      number: 18
+      content: 'And in the same way also you rejoice and rejoice with me. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'But I hope in the Lord Jesus to send Timothy to you soon, so that
+        I also may be encouraged when I know your circumstances. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'For I have no one like-minded who will sincerely be concerned about
+        your circumstances. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'For they all seek their own interests, not those of Jesus Christ. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'But you know his proven character, that like a child with a father
+        he served with me for the gospel. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Therefore I hope to send him at once, as soon as I see my circumstances. '
+      comments: []
+    - name: "24: Epaphroditus\u2019 Mission"
+      title: "Epaphroditus\u2019 Mission"
+      number: 24
+      content: 'And I am convinced in the Lord that I myself will arrive shortly
+        also. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'But I considered it necessary to send to you Epaphroditus, my brother
+        and fellow worker and fellow soldier, but your messenger and servant of my
+        need, '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'because he was longing for all of you and was distressed because
+        you had heard that he was sick. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'For indeed he was sick, coming near to death, but God had mercy on
+        him and not on him only, but also on me, so that I would not have grief upon
+        grief. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Therefore I am sending him with special urgency, in order that when
+        you see him again you may rejoice, and I may be less anxious. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Therefore welcome him in the Lord with all joy, and consider such
+        people highly honored, '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'because on account of the work of Christ he came near to the point
+        of death, risking his life in order that he might make up for your inability
+        to serve me. '
+      comments: []
+  - verses:
+    - name: '1: Warning Against Evil Workers'
+      title: Warning Against Evil Workers
+      number: 1
+      content: ' Finally, my brothers, rejoice in the Lord. To write the same things
+        to you is not troublesome to me, but is a safeguard for you. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Beware of the dogs, beware of the evil workers, beware of the mutilation.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For we are the circumcision, the ones who worship by the Spirit of
+        God and boast in Christ Jesus and do not put confidence in the flesh, '
+      comments: []
+    - name: '4: Righteousness Through Christ'
+      title: Righteousness Through Christ
+      number: 4
+      content: 'although I could have confidence even in the flesh. If anyone else
+        thinks to put confidence in the flesh, I can do so more: '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'circumcised on the eighth day, from the nation of Israel, of the
+        tribe of Benjamin, a Hebrew born from Hebrews, according to the law a Pharisee, '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'according to zeal persecuting the church, according to the righteousness
+        in the law being blameless. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'But whatever things were gain to me, these things I have considered
+        loss because of Christ. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'More than that, I even consider all things to be loss because of
+        the surpassing greatness of the knowledge of Christ Jesus my Lord, for the
+        sake of whom I have suffered the loss of all things, and consider them dung,
+        in order that I may gain Christ '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'and may be found in him, not having my righteousness which is from
+        the law, but which is through faith in Christ, the righteousness from God
+        on the basis of faith,  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'so that I may know him and the power of his resurrection and the
+        fellowship of his sufferings, being conformed to his death, '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'if somehow I may attain to the resurrection from the dead. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Not that I have already received this, or have already been made
+        perfect, but I press on if indeed I may lay hold of that for which also I
+        was laid hold of by Christ.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Brothers, I do not consider myself to have laid hold of it. But I
+        do one thing, forgetting the things behind and straining toward the things
+        ahead, '
+      comments: []
+    - name: '14: Imitate Paul'
+      title: Imitate Paul
+      number: 14
+      content: 'I press on toward the goal for the prize of the upward call of God
+        in Christ Jesus. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Therefore as many as are perfect, let us hold this opinion, and if
+        you think anything differently, God will reveal this also to you. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Only to what we have attained, to the same hold on. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Become fellow imitators of me, brothers, and observe those who walk
+        in this way, just as you have us as an example. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'For many live, of whom I spoke about to you many times, but now speak
+        about even weeping, as the enemies of the cross of Christ, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'whose end is destruction, whose God is the stomach, and whose glory
+        is in their shame, the ones who think on earthly things. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'For our commonwealth exists in heaven, from which also we eagerly
+        await a savior, the Lord Jesus Christ, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'who will transform our humble body to be conformed to his glorious
+        body, in accordance with the power that enables him even to subject all things
+        to himself. '
+      comments: []
+  - verses:
+    - name: '1: Appeal for Unity'
+      title: Appeal for Unity
+      number: 1
+      content: ' So then, my beloved and greatly desired brothers, my joy and crown,
+        thus stand firm in the Lord, dear friends. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'I appeal to Euodia and I appeal to Syntyche to be in agreement in
+        the Lord. '
+      comments: []
+    - name: '3: Be Anxious for Nothing'
+      title: Be Anxious for Nothing
+      number: 3
+      content: 'Yes, I ask also you, true yokefellow, help them, who struggled along
+        with me in the gospel with both Clement and the rest of my fellow workers
+        whose names are in the book of life. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Rejoice in the Lord always; again I say, rejoice. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Let your gentleness be made known to all people. The Lord is near. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Be anxious for nothing, but in everything by prayer and supplication
+        with thanksgiving let your requests be made known to God. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And the peace of God that surpasses all understanding will guard
+        your hearts and your minds in Christ Jesus. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Finally, brothers, whatever things are true, whatever things are
+        honorable, whatever things are right, whatever things are pure, whatever
+        things are pleasing, whatever things are commendable, if there is any excellence
+        of character and if anything praiseworthy, think about these things. '
+      comments: []
+    - name: "9: Support for Paul\u2019s Ministry"
+      title: "Support for Paul\u2019s Ministry"
+      number: 9
+      content: 'And the things which you have learned and received and heard about
+        and seen in me, practice these things, and the God of peace will be with
+        you. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'But I rejoiced in the Lord greatly that now at last you have renewed
+        your concern for me, for whom also you were thinking, but you had no opportunity
+        to express it. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Not that I speak from need, for I have learned to be content in whatever
+        circumstances I am. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I know how both to make do with little and I know how to have an
+        abundance. In everything and in all things I have learned the secret both
+        to be filled and to be hungry, both to have an abundance and to go without. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'I am able to do all things by the one who strengthens me. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Nevertheless you have done well by sharing with me in my affliction. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Now you also know, Philippians, that at the beginning of the gospel,
+        when I departed from Macedonia, no church shared with me in the matter of
+        giving and receiving except you alone, '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'because even in Thessalonica on more than one occasion you sent for
+        my need. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Not that I seek the gift, but I seek for the profit that increases
+        to your account. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'But I have received everything in full and have an abundance; I am
+        well supplied because I received from Epaphroditus what you had sent, a fragrant
+        offering, an acceptable sacrifice, well-pleasing to God. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'And my God will fulfill your every need according to his riches in
+        glory in Christ Jesus. '
+      comments: []
+    - name: '20: Final Greetings and Benediction'
+      title: Final Greetings and Benediction
+      number: 20
+      content: 'Now to our God and Father be the glory forever and ever. Amen. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Greet every saint in Christ Jesus. The brothers with me greet you. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "All the saints greet you, and especially those of Caesar\u2019s household. "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'The grace of the Lord Jesus Christ be with your spirit. '
+      comments: []

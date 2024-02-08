@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Events;
 using TMPro;
 
 public class GameManager : MonoBehaviour
@@ -13,10 +14,16 @@ public class GameManager : MonoBehaviour
 	private Collection[] _collections;
 	
 	[Space]
+	[SerializeField] private BibleUI2 _biblePrefab;
+	[SerializeField] private Version[] _onStartBibles;
+	
+	[Space]
 	[SerializeField] private BibleLayout _layout;
 	[SerializeField] private TMP_Text _chapterTmp;
 	
+	[field: SerializeField] public Color JesusWordColor { get; private set; } = Color.red;
 	[field: SerializeField] public string VerseCommentLink { get; private set; }
+	
 	[field: SerializeField] public BibleUI2[] BibleInstances { get; private set; }
 	
 	[field: SerializeField] public int CurrentBookIndex { get; private set; }
@@ -27,6 +34,9 @@ public class GameManager : MonoBehaviour
 		recents = new List<Version>(),
 		favorites = new List<Version>();
 	
+	[SerializeField] private ScrollRect _mainScroll;
+	[SerializeField] private float _hudReactionThresholdToMainScrollVelocity = 100f;
+	
 	[field: SerializeField]
 	public Sprite RecentIcon { get; private set; }
 	
@@ -35,8 +45,8 @@ public class GameManager : MonoBehaviour
 	
 	[SerializeField] private int _maxRecentCount = 3;
 	
-	[field: SerializeField]
-	public List<TMP_Dropdown.OptionData> BibleOptionsDefaultList { get; private set; } = new List<TMP_Dropdown.OptionData>();
+	// [field: SerializeField]
+	// public List<TMP_Dropdown.OptionData> BibleOptionsDefaultList { get; private set; } = new List<TMP_Dropdown.OptionData>();
 	
 	[Space]
 	[SerializeField] private GameObject _versionSelectPanel;
@@ -63,18 +73,43 @@ public class GameManager : MonoBehaviour
 	
 	[SerializeField] private Animation _hudAnimation;
 	private Vector2 _lastScrollPosition;
-	private bool _appearHud;
+	
+	private bool _appearHud_OneFrameGate;
+	public bool IsHudShown { get; private set; } = true;
 	
 	[Space]
 	[SerializeField] private TMP_Text _popupTitle;
 	[SerializeField] private TMP_Text _popup;
 	
+	[Space]
+	[SerializeField] private GameObject _verseOptions;
+	
 	Vector3 _repositionOffset;
 	
-	public static GameManager Instance { get; private set; }
-	void Awake() => Instance = this;
+	public List<VerseUI2> SelectedVerses { get; private set; } = new List<VerseUI2>(); // or use Dictionary
 	
-	void Start()
+	[SerializeField] private RectTransform _screenSizeRef;
+	
+	[field: SerializeField]
+	public Transform HeadersClampRef { get; private set; }
+	
+	public Vector2 ScreenSize => _screenSizeRef.rect.size;
+	public float DefaultMinWidth { get; private set; }
+	
+	public UnityEvent<ScreenOrientation> onScreenOrientationChanged;
+	public ScreenOrientation ScreenOrientation { get; private set; }
+	ScreenOrientation _previousScreenOrientation;
+	
+	public static GameManager Instance { get; private set; }
+	public bool Started { get; private set; }
+	
+	void Awake()
+	{
+		Started = false;
+		Instance = this;
+	}
+	
+	IEnumerator Start()
 	{
 		int count = _languages.Length;
 		_collections = new Collection[count];
@@ -100,8 +135,37 @@ public class GameManager : MonoBehaviour
 		}
 		
 		_languageSelector.AddOptions(languageSelectorOptions);
+		yield return null;
 		
+		Array.ForEach(_onStartBibles, osb => CreateBibleInstance(osb));
+		yield return null;
+		
+		DefaultMinWidth = Mathf.Min(ScreenSize.x, ScreenSize.y);
 		UpdateBibleContents();
+		
+		Started = true;
+	}
+	
+	void Update()
+	{
+		var screenSize = ScreenSize;
+		
+		ScreenOrientation = screenSize.x < screenSize.y?
+			ScreenOrientation.Vertical:
+			ScreenOrientation.Horizontal;
+		
+		if(ScreenOrientation != _previousScreenOrientation)
+			onScreenOrientationChanged?.Invoke(ScreenOrientation);
+		
+		_previousScreenOrientation = ScreenOrientation;
+	}
+	
+	BibleUI2 CreateBibleInstance(Version version)
+	{
+		var instance = Instantiate(_biblePrefab, _layout.transform, false);
+			instance.version = version;
+		
+		return instance;
 	}
 	
 	void UpdateBibleContents()
@@ -109,7 +173,12 @@ public class GameManager : MonoBehaviour
 		StartCoroutine(r());
 		IEnumerator r()
 		{
+			_chapterTmp.text = $"<b>{_versions[0].Books[CurrentBookIndex].nickname.ToUpper()}</b> {CurrentChapterIndex + 1}/{_versions[0].Books[CurrentBookIndex].chapters.Length}";
+			yield return null;
+			
 			BibleInstances = _layout.GetComponentsInChildren<BibleUI2>();
+			Array.ForEach(BibleInstances, instance => instance.Cover.SetActive(true));
+			
 			yield return null;
 			
 			foreach(var instance in BibleInstances)
@@ -122,7 +191,7 @@ public class GameManager : MonoBehaviour
 			_layout.Repaint();
 			
 			yield return null;
-			_chapterTmp.text = $"<b>{_versions[0].Books[CurrentBookIndex].nickname.ToUpper()}</b> {CurrentChapterIndex + 1}/{_versions[0].Books[CurrentBookIndex].chapters.Length}";
+			Array.ForEach(BibleInstances, instance => instance.Cover.SetActive(false));
 		}
 	}
 	
@@ -201,6 +270,12 @@ public class GameManager : MonoBehaviour
 	
 	public void OnVersionSelect(Version version)
 	{
+		if(!_versionSelectTargetBible)
+			_versionSelectTargetBible = CreateBibleInstance(version);
+			
+		else if(_versionSelectTargetBible.version == version)
+			return;
+		
 		_versionSelectTargetBible.SetVersion(version);
 		_versionSelectPanel.SetActive(false);
 		
@@ -215,6 +290,8 @@ public class GameManager : MonoBehaviour
 			
 			yield return null;
 			UpdateBibleContents();
+			
+			_versionSelectTargetBible = null;
 		}
 	}
 	
@@ -258,33 +335,44 @@ public class GameManager : MonoBehaviour
 	
 	public void OnScroll(Vector2 value)
 	{
+		float velocity = Mathf.Abs(_mainScroll.velocity.y);
+		
+		if(velocity < _hudReactionThresholdToMainScrollVelocity)
+			return;
+		
 		if(value.y > 0.95f || value.y < 0.05f)
 		{
-			if(!_appearHud)
+			if(!_appearHud_OneFrameGate)
 			{
 				_hudAnimation.Play("hudAppear");
-				_appearHud = true;
+				_appearHud_OneFrameGate = true;
 			}
 			
+			IsHudShown = true;
 			return;
 		}
 	
 		if(value.y > _lastScrollPosition.y)
 		{
-			if(!_appearHud)
+			if(!_appearHud_OneFrameGate)
 			{
 				_hudAnimation.Play("hudAppear");
-				_appearHud = true;
+				// _hudAnimation.gameObject.SetActive(true);
+				_appearHud_OneFrameGate = true;
 			}
+			
+			IsHudShown = true;
 		}
 		
 		else
 		{
-			if(_appearHud)
+			if(_appearHud_OneFrameGate)
 			{
 				_hudAnimation.Play("hudDisappear");
-				_appearHud = false;
+				_appearHud_OneFrameGate = false;
 			}
+			
+			IsHudShown = false;
 		}
 		
 		_lastScrollPosition = value;
@@ -293,7 +381,6 @@ public class GameManager : MonoBehaviour
 	public void IterateChapter(int dir)
 	{
 		dir = Mathf.Clamp(dir, -1, 1);
-		
 		CurrentChapterIndex += dir;
 		
 		var version = _versions[0];
@@ -321,14 +408,50 @@ public class GameManager : MonoBehaviour
 		UpdateBibleContents();
 	}
 	
-	public void ShowPopup(string title, string msg, Vector3 position)
+	public void NavigateTo(int bookIndex, int chapterIndex)
 	{
-		_popupTitle.text = title;
-		_popup.text = msg;
+		CurrentBookIndex = bookIndex;
+		CurrentChapterIndex = chapterIndex;
 		
-		var transform = _popup.transform.parent;
+		UpdateBibleContents();
+		
+		_mainScroll.verticalNormalizedPosition = 1;
+	}
+	
+	public void ShowVerseCommentPopup(Version version, int index, int commentIndex, Vector3 position)
+	{
+		var comment = version.Books[CurrentBookIndex][CurrentChapterIndex][index][commentIndex];
+		
+		_popupTitle.text = comment.number;
+		_popup.text = comment.content;
+		
+		var transform = _popupTitle.transform.parent;
 			transform.position = position;
 			transform.gameObject.SetActive(true);
+	}
+	
+	public void OnVerseSelect(VerseUI2 verseUI/* , Version version */)
+	{
+		/* if(SelectedVerses.TryFindIndex(selected => selected.Compare(verseUI.Index, version), out int selectedIndex))
+		{
+			verseUI.OnSelectionHighlight(false);
+			SelectedVerses.RemoveAt(selectedIndex);
+		}
+		else
+			SelectedVerses.Add(new SelectedVerse(verseUI, version));
+		
+		SelectedVerses.ForEach(selected => selected.verseUI.OnSelectionHighlight(true)); */
+		
+		if(SelectedVerses.Contains(verseUI, out int index))
+		{
+			verseUI.OnSelectionHighlight(false);
+			SelectedVerses.RemoveAt(index);
+		}
+		else
+			SelectedVerses.Add(verseUI);
+		
+		SelectedVerses.ForEach(selected => selected.OnSelectionHighlight(true));
+		_verseOptions.SetActive(SelectedVerses.Count > 0);
 	}
 	
 	public void Reposition_Start(Transform transform) => _repositionOffset = transform.position - Input.mousePosition;
@@ -339,4 +462,21 @@ public class GameManager : MonoBehaviour
 		public Language language;
 		public List<Version> versions;
 	}
+	
+	/* [System.Serializable]
+	public class SelectedVerse
+	{
+		public VerseUI2 verseUI;
+		public Version version;
+		
+		public SelectedVerse(VerseUI2 verseUI, Version version)
+		{
+			this.verseUI = verseUI;
+			this.version = version;
+		}
+		
+		public bool Compare(int index, Version version) =>	index == verseUI.Index && version == this.version;
+	} */
 }
+
+public enum ScreenOrientation { Vertical, Horizontal }

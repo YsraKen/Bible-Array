@@ -12,364 +12,552 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
   m_Name: 1PE
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: 1 Peter
+  <Name>k__BackingField: 1 Pedro
   fancyName: 
   nickname: 1pe
   version: {fileID: 11400000, guid: fc06489f21c1c3c43a353b052ba682a3, type: 2}
   description: 
   chapters:
   - verses:
-    - title: 
-      content: '    Mula kay Pedro na apostol ni Jesu-Cristo.  Mahal kong mga pinili
-        ng Dios na nangalat at naninirahan bilang mga dayuhan sa Pontus, Galacia,
-        Capadosia, Asia at Bitinia:  '
+    - name: '1: '
+      title: 
+      number: 1
+      content: '    <i>Mula kay</i> Pedro na apostol ni Jesu-Cristo.  <i>Mahal kong</i>
+        mga pinili ng Dios na nangalat at naninirahan bilang mga dayuhan sa Pontus,
+        Galacia, Capadosia, Asia at Bitinia:  '
       comments: []
-    - title: May Inihanda ang Dios para sa Atin
+    - name: '2: May Inihanda ang Dios para sa Atin'
+      title: May Inihanda ang Dios para sa Atin
+      number: 2
       content: "Pinili na kayo ng Dios Ama noon pa para maging mga anak niya sa pamamagitan
-        ng Banal na Espiritu, para sundin n\u02BCyo si Jesu-Cristo at upang linisin
-        kayo sa mga kasalanan n\u02BCyo sa pamamagitan ng kanyang dugo.Sumainyo nawa
-        ang higit pang biyaya at kapayapaan.  Purihin natin ang Dios at Ama ng ating
-        Panginoong Jesu-Cristo! Dahil sa dakila niyang awa sa atin, ipinanganak tayong
-        muli sa pamamagitan ng muling pagkabuhay ni Jesu-Cristo. Ito ang nagbibigay
-        sa atin ng malaking pag-asa na may nakahandang mana ang Dios para sa atin.
-        Ang manang ito\u02BCy nasa langit, walang kapintasan, hindi nasisira, at
-        hindi kumukupas. "
+        ng <i>Banal na</i> Espiritu, para sundin n\u02BCyo si Jesu-Cristo at upang
+        linisin kayo sa mga kasalanan n\u02BCyo sa pamamagitan ng kanyang dugo.Sumainyo
+        nawa ang higit pang biyaya at kapayapaan.  "
       comments: []
-    - title: 
+    - name: '3-4: '
+      title: 
+      number: 3-4
+      content: "Purihin natin ang Dios at Ama ng ating Panginoong Jesu-Cristo! Dahil
+        sa dakila niyang awa sa atin, ipinanganak tayong muli sa pamamagitan ng muling
+        pagkabuhay ni Jesu-Cristo. Ito ang nagbibigay sa atin ng malaking pag-asa
+        na may nakahandang mana ang Dios para sa atin. Ang manang ito\u02BCy nasa
+        langit, walang kapintasan, hindi nasisira, at hindi kumukupas. "
+      comments: []
+    - name: '3-4: '
+      title: 
+      number: 3-4
+      content: "Purihin natin ang Dios at Ama ng ating Panginoong Jesu-Cristo! Dahil
+        sa dakila niyang awa sa atin, ipinanganak tayong muli sa pamamagitan ng muling
+        pagkabuhay ni Jesu-Cristo. Ito ang nagbibigay sa atin ng malaking pag-asa
+        na may nakahandang mana ang Dios para sa atin. Ang manang ito\u02BCy nasa
+        langit, walang kapintasan, hindi nasisira, at hindi kumukupas. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
       content: "At sa pamamagitan ng pananampalataya n\u02BCyo, iniingatan kayo ng
         kapangyarihan ng Dios habang naghihintay kayo ng kaligtasang nakalaang ihayag
         sa huling panahon.  "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "Dahil dito, dapat kayong magalak sa kabila ng iba\u02BCt ibang pagsubok,
         dahil ang mga pagsubok na ito\u02BCy panandalian lang, at dapat ninyong maranasan, "
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "para masubukan kung talagang tunay ang pananampalataya ninyo. Katulad
         ng ginto, sinusubok ito sa apoy para malaman kung tunay o hindi. Pero mas
         mahalaga ang pananampalataya natin kaysa sa ginto na nawawala. Kaya kapag
         napatunayang tunay ang pananampalataya n\u02BCyo, papupurihan kayo\u02BCt
         pararangalan pagdating ni Jesu-Cristo. "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "Kahit hindi n\u02BCyo siya nakita ay mahal n\u02BCyo siya, at kahit
-        hindi n\u02BCyo pa siya nakikita hanggang ngayon, sumasampalataya pa rin
+        hindi n\u02BCyo pa siya nakikita hanggang ngayon, sumasampalataya <i>pa rin</i>
         kayo sa kanya. At nag-uumapaw ang inyong kagalakan na hindi kayang ipahayag
         ng bibig, "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "dahil tinatanggap n\u02BCyo ang bunga ng pananampalataya n\u02BCyo,
         na walang iba kundi ang inyong kaligtasan. "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "Ang kaligtasang ito\u02BCy pinagsikapang saliksikin ng mga propeta
         noon. Sila ang nagpahayag tungkol sa kaloob na ito ng Dios sa atin. "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Ipinahayag na sa kanila ng Espiritu ni Cristo na nasa kanila, na
         maghihirap siya bago parangalan. Kaya patuloy sa pagsasaliksik ang mga propeta
         noon kung kailan at kung papaano ito mangyayari. '
       comments: []
-    - title: Sundin Ninyo ang Dios
+    - name: '12: Sundin Ninyo ang Dios'
+      title: Sundin Ninyo ang Dios
+      number: 12
       content: "Ipinahayag din sa kanila na ang mga bagay na ipinaalam nila ay hindi
         para sa ikabubuti nila kundi para sa atin.[[COMMENT(0)]] At ngayon, napakinggan
         n\u02BCyo na sa mga nangangaral ng Magandang Balita ang mga ipinahayag nila.
-        Nagsalita sila sa inyo sa pamamagitan ng kapangyarihan ng Banal na Espiritung
-        sinugo sa kanila mula sa langit. Kahit ang mga anghel noon ay nagnais na
-        maunawaan ang Magandang Balitang ito na ipinangaral sa inyo.  "
+        Nagsalita sila sa inyo sa pamamagitan ng <i>kapangyarihan ng</i> Banal na
+        Espiritung sinugo sa kanila mula sa langit. Kahit ang mga anghel noon ay
+        nagnais na maunawaan ang Magandang Balitang ito na ipinangaral sa inyo.  "
       comments:
       - number: '1:12 '
         content: '<b>: </b>sa literal, <b>inyo.</b>'
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Kaya lagi kayong maging handa na gawin ang kalooban ng Dios. Magpakatatag
         kayo at lubos na umasa na matatanggap n\u02BCyo ang mga pagpapalang ibibigay
         sa inyo kapag dumating na si Jesu-Cristo. "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Bilang masunuring mga anak ng Dios, huwag kayong padadala sa masasamang
         hilig ninyo noong hindi pa kayo nakakakilala sa Dios. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Banal ang Dios na tumawag sa inyo, kaya dapat magpakabanal din kayo
         sa lahat ng ginagawa ninyo. '
       comments: []
-    - title: 
-      content: "Sapagkat sinasabi ng Dios sa Kasulatan, \u201CMagpakabanal kayo dahil
-        banal ako.\u201D[[COMMENT(0)]]  "
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Sapagkat sinasabi <i>ng Dios</i> sa Kasulatan, \u201CMagpakabanal
+        kayo dahil banal ako.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '1:16 '
         content: Lev. 11:44, 45; 19:2.
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: "Walang pinapaboran ang Dios. Hinahatulan niya ang mga tao ayon sa
         gawa ng bawat isa. Kaya kung tinatawag n\u02BCyo siyang Ama kapag nananalangin
         kayo sa kanya, igalang n\u02BCyo siya habang naninirahan pa kayo sa mundong
         ito. "
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: "Alam naman ninyo kung ano ang ipinangtubos sa inyo mula sa walang
         kabuluhang pamumuhay na minana n\u02BCyo sa mga ninuno ninyo. Ang ipinangtubos
         sa inyo\u02BCy hindi ang mga bagay na nawawala katulad ng ginto o pilak, "
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'kundi ang mahalagang dugo ni Cristo. Katulad siya ng isang tupa na
         walang dungis o kapintasan na inihandog sa Dios. '
       comments: []
-    - title: 
-      content: 'Bago pa likhain ang mundo, pinili na ng Dios si Cristo para maging
-        Tagapagligtas natin. At ipinahayag siya ng Dios nitong mga huling araw alang-alang
-        sa inyo. '
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Bago pa likhain ang mundo, pinili na ng Dios si Cristo <i>para maging
+        Tagapagligtas natin</i>. At ipinahayag siya ng Dios nitong mga huling araw
+        alang-alang sa inyo. '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: "Sa pamamagitan niya, sumasampalataya kayo sa Dios na muling bumuhay
         at nagparangal sa kanya. Kaya ang pananalig n\u02BCyo ay sa Dios, at umaasa
-        kayo sa kanya na muli niya rin kayong bubuhayin at pararangalan.  "
+        kayo sa kanya <i>na muli niya rin kayong bubuhayin at pararangalan</i>.  "
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: "At dahil sumusunod na kayo sa katotohanan, malinis na kayo sa mga
         kasalanan ninyo, at ngayon ay nagkaroon na kayo ng tapat na pagmamahal sa
-        mga kapatid n\u02BCyo kay Cristo. Magmahalan kayo ng taos-puso, "
+        mga kapatid n\u02BCyo <i>kay Cristo</i>. Magmahalan kayo ng taos-puso, "
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: "dahil ipinanganak na kayong muli. At ang kapanganakang ito\u02BCy
         hindi sa pamamagitan ng mga magulang ninyong namamatay, kundi sa pamamagitan
         ng buhay at walang hanggang salita ng Dios. "
       comments: []
-    - title: 
-      content: "Ayon sa Kasulatan,\u201CAng lahat ng tao ay parang damo,ang kanilang
-        katanyagan ay parang bulaklak nito.Ang damo ay nalalanta at ang bulaklak
-        nito ay nalalaglag,  "
+    - name: '24: '
+      title: 
+      number: 24
+      content: "<i>Ayon sa Kasulatan,</i>\u201CAng lahat ng tao ay parang damo,ang
+        kanilang katanyagan ay parang bulaklak nito.Ang damo ay nalalanta at ang
+        bulaklak nito ay nalalaglag,  "
       comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "ngunit ang salita ng Panginoon ay nananatili magpakailanman.\u201D[[COMMENT(0)]]At
+        ang salitang ito ay ang Magandang Balitang ipinangaral sa inyo."
+      comments:
+      - number: '1:25 '
+        content: Isa. 40:6-8.
   - verses:
-    - title: 
+    - name: '1: '
+      title: 
+      number: 1
       content: "  Dahil ipinanganak na kayong muli, talikuran n\u02BCyo na ang lahat
         ng uri ng kasamaan: pandaraya, pagkukunwari, pagkainggit, at lahat ng paninirang-puri. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "Gaya ng sanggol na bagong panganak, manabik kayo sa dalisay na gatas
-        na espiritwal, upang lumago kayo hanggang makamtan n\u02BCyo ang ganap na
-        kaligtasan "
+        na espiritwal, upang lumago kayo hanggang makamtan n\u02BCyo ang <i>ganap
+        na</i> kaligtasan "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'ngayong naranasan na ninyo ang kabutihan ng Panginoon. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Siya ang batong buhay na itinakwil ng mga tao pero pinili ng Dios
         at mahalaga sa paningin niya. At habang lumalapit kayo sa kanya, '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "kayo na tulad din ng batong buhay ay itinatayo ng Dios bilang isang
         gusaling espiritwal. At bilang mga banal na paring pinili ng Dios, nag-aalay
         kayo sa kanya ng mga espiritwal na handog na kalugod-lugod sa kanya dahil
         ginagawa n\u02BCyo ito sa pamamagitan ni Jesu-Cristo. "
       comments: []
-    - title: 
-      content: "Sapagkat sinasabi ng Dios sa Kasulatan,\u201CMay pinili akong maghahari
-        sa Zion.Tulad niya\u02BCy mahalagang bato na ginawa kong pundasyon.Ang sumasampalataya
-        sa kanya ay hindi mapapahiya.\u201D[[COMMENT(0)]]  "
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Sapagkat sinasabi <i>ng Dios</i> sa Kasulatan,\u201CMay pinili akong
+        maghahari sa Zion.Tulad niya\u02BCy mahalagang bato na ginawa kong pundasyon.Ang
+        sumasampalataya sa kanya ay hindi mapapahiya.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '2:6 '
         content: Isa. 28:16.
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "Kaya kayong sumasampalataya ay pararangalan ng Dios. Ngunit sa taong
         hindi sumasampalataya ay naganap ang sinasabi sa Kasulatan,\u201CAng batong
         itinakwil ng mga tagapagtayo ay siyang naging batong pundasyon.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '2:7 '
         content: Salmo 118:22.
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "\u201CAng batong ito ay naging katitisuran sa mga tao, at nakakapagpadapa
         sa kanila.\u201D[[COMMENT(0)]]Natitisod sila dahil ayaw nilang sundin ang
         salita ng Dios; ganoon ang nakatalaga para sa kanila. "
       comments:
       - number: '2:8 '
         content: Isa. 8:14.
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "Ngunit kayo\u02BCy mga taong pinili, mga maharlikang pari, at mga
         mamamayan ng Dios. Pinili kayo ng Dios na maging kanya upang ipahayag ninyo
         ang kahanga-hanga niyang mga gawa. Siya ang tumawag sa inyo mula sa kadiliman
         tungo sa kahanga-hanga niyang kaliwanagan. "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "Dati\u02BCy hindi kayo mga taong sakop ng Dios, pero ngayon, mga
         sakop na niya kayo. Noon, hindi kayo kinaawaan ng Dios, pero ngayon, kinaawaan
         na niya kayo.  "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Mga minamahal, mga dayuhan kayong nakikitira lang sa mundong ito.
         Kaya nakikiusap ako sa inyong talikuran na ninyo ang masasamang pagnanasa
         ng inyong katawan na nakikipaglaban sa inyong espiritu. '
       comments: []
-    - title: Magpasakop Kayo sa mga Tagapamahala ng Bayan
+    - name: '12: Magpasakop Kayo sa mga Tagapamahala ng Bayan'
+      title: Magpasakop Kayo sa mga Tagapamahala ng Bayan
+      number: 12
       content: "Sa lahat ng oras, ipakita n\u02BCyo sa mga taong hindi kumikilala
         sa Dios ang matuwid ninyong pamumuhay. Kahit pinararatangan nila kayo ngayon
         ng masama, sa bandang huli ay makikita nila ang mga kabutihang ginagawa n\u02BCyo
         at luluwalhatiin nila ang Dios sa araw ng pagdating niya.  "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Alang-alang sa Panginoon, magpasakop kayo sa lahat ng tagapamahala
         ng bayan, maging sa emperador na may pinakamataas na kapangyarihan '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'o sa mga gobernador na sinugo ng Dios para magparusa sa mga gumagawa
         ng masama at magparangal sa mga gumagawa ng mabuti. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Sapagkat ito ang kalooban ng Dios, na sa pamamagitan ng mabubuti
         ninyong gawa ay walang masabi ang mga hangal na walang alam sa katotohanan. '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'Malaya nga kayo, pero hindi ito nangangahulugang malaya na kayong
         gumawa ng masama, kundi mamuhay kayo bilang mga alipin ng Dios. '
       comments: []
-    - title: Tularan Ninyo si Cristo
+    - name: '17: Tularan Ninyo si Cristo'
+      title: Tularan Ninyo si Cristo
+      number: 17
       content: "Igalang n\u02BCyo ang lahat ng tao at mahalin n\u02BCyo ang mga kapatid
-        ninyo kay Cristo. Mamuhay kayo nang may takot sa Dios, at igalang ninyo ang
-        Emperador.  "
+        ninyo <i>kay Cristo</i>. Mamuhay kayo nang may takot sa Dios, at igalang
+        ninyo ang Emperador.  "
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Mga alipin, sundin ninyo nang may takot sa Dios ang mga amo ninyo,
         hindi lang ang mababait kundi pati ang malulupit. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'Sapagkat pagpapalain kayo ng Dios kung tinitiis ninyo ang mga pagpapahirap
         kahit wala kayong kasalanan dahil sa nais ninyong sundin ang kalooban niya. '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'Pero kung parusahan kayo dahil sa ginagawa ninyong masama, wala ring
         kabuluhan kahit tiisin ninyo ito. Ngunit kung pinaparusahan kayo kahit mabuti
         ang ginagawa ninyo, at tinitiis ninyo ito, kalulugdan kayo ng Dios. '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: 'Ang mga pagdurusa ni Cristo para sa atin ang halimbawang dapat nating
         tularan. Ito ang dahilan kung bakit tayo tinawag, para tularan natin ang
         buhay ni Cristo. '
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'Hindi siya nagkasala o nagsinungaling man. '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: 'Ininsulto siya pero hindi siya gumanti ng insulto. Pinahirapan siya
         pero hindi siya nagbanta. Ipinagkatiwala niya ang lahat sa Dios na humahatol
         nang makatarungan. '
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: 'Si Cristo ang umako sa mga kasalanan natin nang ipako siya sa krus,
         para iwanan na natin ang buhay na makasalanan at mamuhay nang matuwid. Dahil
         sa mga sugat niya, gumaling tayo. '
       comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: Para tayong mga tupang naligaw noon, pero nakabalik na tayo ngayon
+        sa <i>Panginoon na</i> Tagapag-alaga at Tagapagbantay ng ating buhay.
+      comments: []
   - verses:
-    - title: Sa mga Mag-asawa
+    - name: '1: Sa mga Mag-asawa'
+      title: Sa mga Mag-asawa
+      number: 1
       content: "  Kayong mga babae, magpasakop kayo sa asawa ninyo, upang kung ang
         asawa ninyo\u02BCy hindi pa naniniwala sa salita ng Dios, maaaring madala
         n\u02BCyo sila sa Panginoon sa pamamagitan ng mabuti ninyong pag-uugali kahit
         na hindi kayo magsalita. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Sapagkat nakikita nilang may takot kayo sa Dios at malinis ang pamumuhay
         ninyo. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "Kung gusto ninyong maging maganda, huwag sa panlabas lang tulad ng
         pag-aayos n\u02BCyo ng buhok na nilalagyan ng mamahaling alahas, at pagsusuot
         ng mamahaling damit. "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Sa halip, pagandahin ninyo ang inyong kalooban, ang mabuting pag-uugali
         na hindi nagbabago. Maging mahinhin kayo at maging mabait. Ito ang mahalaga
         sa paningin ng Dios. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'At ito ang ginagawa ng mga babaeng banal noong unang panahon. Nagpapaganda
         sila sa pamamagitan ng pagpapasakop nila sa kanilang asawa. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "Katulad ni Sara, sinunod niya si Abraham at tinawag pa niyang \u201Cpanginoon.\u201D
         Mga anak na kayo ni Sara, kaya dapat matuwid ang ginagawa n\u02BCyo, at huwag
         kayong matakot sa kahit anuman.  "
       comments: []
-    - title: Magmahalan Kayong Lahat
+    - name: '7: Magmahalan Kayong Lahat'
+      title: Magmahalan Kayong Lahat
+      number: 7
       content: "Kayo namang mga lalaki, pakisamahan ninyong mabuti ang inyong asawa,
         dahil ito ang nararapat bilang isang Cristiano. Igalang n\u02BCyo sila bilang
         mga babaeng mas mahina kaysa sa inyo, dahil binigyan din sila ng Dios ng
-        buhay na walang hanggan katulad ninyo. Kapag ginawa n\u02BCyo ito, sasagutin
-        ng Dios ang mga panalangin ninyo.  "
+        buhay <i>na walang hanggan</i> katulad ninyo. Kapag ginawa n\u02BCyo ito,
+        sasagutin <i>ng Dios</i> ang mga panalangin ninyo.  "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "Ngayon, narito ang ilan ko pang bilin sa inyong lahat: Dapat magkaisa
         kayo sa isip at damdamin, at magdamayan. Magmahalan kayo bilang magkakapatid.
         Maging maunawain at mapagpakumbaba kayo sa isa\u02BCt isa. "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Huwag ninyong gantihan ng masama ang gumagawa sa inyo ng masama,
         at huwag din ninyong gantihan ng pang-iinsulto ang mga nang-iinsulto sa inyo.
         Ang dapat ninyong gawin ay manalangin na kaawaan sila ng Dios, dahil pinili
         kayo ng Dios na gawin ito, at para kaawaan din niya kayo. '
       comments: []
-    - title: 
-      content: "Sapagkat sinasabi sa Kasulatan,\u201CAng sinumang nagnanais ng maligaya
-        at masaganang pamumuhay ay hindi dapat magsalita ng masama at kasinungalingan.  "
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Sapagkat <i>sinasabi sa Kasulatan</i>,\u201CAng sinumang nagnanais
+        ng maligaya at masaganang pamumuhay ay hindi dapat magsalita ng masama at
+        kasinungalingan.  "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Dapat lumayo siya sa masama at gawin ang mabuti.Pagsikapan niyang
         kamtin ang kapayapaan.  '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "Sapagkat iniingatan ng Panginoon ang matuwid, at sinasagot niya ang
         mga panalangin nila,ngunit galit siya sa mga gumagawa ng masama.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '3:12 '
         content: Salmo 34:12-16.
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Sino ang gagawa ng masama sa inyo kung laging mabuti ang ginagawa
         n\u02BCyo? "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "Pero kung usigin kayo dahil sa kabutihang ginagawa n\u02BCyo, mapalad
         kayo. Huwag kayong matakot o mag-alala sa ano mang gawin nila sa inyo. "
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "Alalahanin n\u02BCyo na si Cristo ang dapat ninyong parangalan at
         sundin. Dapat lagi kayong handang magpaliwanag sa sinumang magtatanong sa
         inyo tungkol sa pag-asa ninyo. "
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'At maging mahinahon at magalang kayo sa inyong pagsagot. Tiyakin
         ninyong laging malinis ang inyong konsensya, para mapahiya ang mga taong
         minamasama ang mabubuti ninyong gawa bilang mga tagasunod ni Cristo. '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'Mas mabuti pang magtiis kayo ng hirap dahil sa paggawa ng mabuti,
         kung ito talaga ang kalooban ng Dios, kaysa sa magtiis kayo ng hirap dahil
         sa paggawa ng masama. '
       comments: []
-    - title: 
-      content: "Sapagkat si Cristo nga\u02BCy pinatay kahit wala siyang nagawang
-        masama. At minsan lang siya namatay para mapatawad ang mga kasalanan natin.
-        Siya na walang kasalanan ay pinatay alang-alang sa atin na mga makasalanan,
+    - name: '18: '
+      title: 
+      number: 18
+      content: "Sapagkat si Cristo nga\u02BCy pinatay <i>kahit wala siyang nagawang
+        masama</i>. At minsan lang siya namatay para mapatawad ang mga kasalanan
+        natin. Siya na walang kasalanan ay pinatay alang-alang sa atin na mga makasalanan,
         para madala niya tayo sa Dios. Pinatay siya sa laman pero binuhay siya sa
-        espiritu. At sa kalagayan niyang espiritwal, nangaral siya kahit sa mga espiritu
-        ng mga taong nakabilanggo, na hindi sumunod sa Dios noong panahon ni Noe.
-        Sa panahong iyon, matiyagang hinintay ng Dios ang pagsampalataya nila sa
-        kanya habang ginagawa ang barko. Ngunit walong tao lang ang sumampalataya
-        at pumasok sa barko at nakaligtas sa tubig. "
+        espiritu. "
       comments: []
-    - title: 
+    - name: '19-20: '
+      title: 
+      number: 19-20
+      content: 'At sa kalagayan niyang espiritwal, nangaral siya kahit sa mga espiritu
+        ng mga taong nakabilanggo, na hindi sumunod sa Dios noong panahon ni Noe.
+        Sa panahong iyon, matiyagang hinintay ng Dios <i>ang pagsampalataya nila
+        sa kanya</i> habang ginagawa ang barko. Ngunit walong tao lang ang <i>sumampalataya
+        at pumasok sa barko at</i> nakaligtas sa tubig. '
+      comments: []
+    - name: '19-20: '
+      title: 
+      number: 19-20
+      content: 'At sa kalagayan niyang espiritwal, nangaral siya kahit sa mga espiritu
+        ng mga taong nakabilanggo, na hindi sumunod sa Dios noong panahon ni Noe.
+        Sa panahong iyon, matiyagang hinintay ng Dios <i>ang pagsampalataya nila
+        sa kanya</i> habang ginagawa ang barko. Ngunit walong tao lang ang <i>sumampalataya
+        at pumasok sa barko at</i> nakaligtas sa tubig. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
       content: "Ang tubig na ito\u02BCy larawan ng bautismong nagliligtas sa atin
         sa pamamagitan ng muling pagkabuhay ni Jesu-Cristo. Hindi ito paghuhugas
         ng dumi sa katawan, kundi pangako natin sa Dios na hindi na tayo gagawa ng
         anumang bagay na alam nating labag sa kalooban niya. "
       comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: Si Jesu-Cristo ay nasa langit na ngayon, sa kanan ng Dios,[[COMMENT(0)]]
+        at ipinasakop sa kanya ang lahat ng anghel at ang lahat ng <i>espiritung</i>
+        namumuno at may kapangyarihan.
+      comments:
+      - number: '3:22 '
+        content: '<b>: </b>Ang ibig sabihin, <b>si Jesus ang pinakadakila at pinakamakapangyarihan
+          sa lahat.</b>'
   - verses:
-    - title: Ang Bagong Buhay
+    - name: '1: Ang Bagong Buhay'
+      title: Ang Bagong Buhay
+      number: 1
       content: '  Dahil naghirap si Cristo sa katawang-tao niya, dapat ay handa rin
         kayong maghirap. Sapagkat hindi na gumagawa ng kasalanan ang taong nagtitiis
         ng hirap. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Hindi na siya sumusunod sa masasama niyang ugali kundi sumusunod
         na siya sa kalooban ng Dios. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "Kaya huwag na ninyong gawin ang mga ginagawa n\u02BCyo noon, ang
         mga bagay na gustong gawin ng mga taong hindi kumikilala sa Dios. Puno ng
         kahalayan ang buhay n\u02BCyo noon at sinunod n\u02BCyo ang nasa ng inyong
@@ -377,88 +565,129 @@ MonoBehaviour:
         bagay na kahiya-hiya. At sa pagsamba ninyo sa inyong mga dios-diosan, kung
         anu-ano pang masasamang bagay ang ginagawa ninyo. "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Pero nagtataka ngayon sa inyo ang mga taong hindi kumikilala sa Dios
         kung bakit hindi na kayo nakikisama sa magulo at maluho nilang pamumuhay.
         Kaya nagsasalita sila ng masama sa inyo. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Ngunit mananagot sila sa Dios sa ginagawa nila, dahil hahatulan ng
         Dios ang lahat ng tao, buhay man o patay. '
       comments: []
-    - title: Gamitin Ninyo ang Kaloob na Ibinigay ng Dios
+    - name: '6: Gamitin Ninyo ang Kaloob na Ibinigay ng Dios'
+      title: Gamitin Ninyo ang Kaloob na Ibinigay ng Dios
+      number: 6
       content: 'Ito ang dahilan kung bakit ipinangaral ang Magandang Balita sa mga
         taong patay na. Nang sa ganoon, kahit patay na sila sa laman, at mahatulan
         tulad ng lahat ng tao, mabubuhay pa rin sila sa espiritu gaya ng Dios.  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "Malapit na ang katapusan ng mundo. Kaya pigilan ninyo ang sarili
         n\u02BCyo para hindi kayo makagawa ng masama at nang walang maging hadlang
         sa mga panalangin ninyo. "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Higit sa lahat, magmahalan kayo nang tapat. Sapagkat kung mahal mo
         ang kapwa mo, mapapatawad mo siya kahit gaano pa karami ang nagawa niyang
         kasalanan. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "Tanggapin ninyo sa inyong tahanan ang isa\u02BCt isa nang maluwag
         sa puso. "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "Binigyan ng Dios ang bawat isa sa atin ng kaloob. Gamitin natin ito
         para sa ikabubuti ng lahat bilang mabubuting katiwala ng iba\u02BCt ibang
         kaloob ng Dios. "
       comments: []
-    - title: Ang Pagtitiis Bilang Cristiano
+    - name: '11: Ang Pagtitiis Bilang Cristiano'
+      title: Ang Pagtitiis Bilang Cristiano
+      number: 11
       content: 'Ang binigyan ng kaloob sa pangangaral ay dapat mangaral ng salita
         ng Dios. At ang binigyan ng kaloob para maglingkod ay dapat maglingkod ayon
         sa kakayahang ibinigay sa kanya ng Dios, upang mapapurihan ang Dios sa lahat
         ng ginagawa natin sa pamamagitan ni Jesu-Cristo. Makapangyarihan siya at
         karapat-dapat purihin magpakailanman! Amen.  '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Mga minamahal, huwag kayong magtaka sa mabibigat na pagsubok na nararanasan
         ninyo. Kapag sinusubok ang inyong pananampalataya, huwag ninyong isipin kung
         ano na ang mangyayari sa inyo. '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Sa halip, magalak kayo dahil nakikibahagi kayo sa mga hirap ni Cristo.
         At magiging lubos ang kagalakan n\u02BCyo kapag naipakita na niya ang kapangyarihan
         niya sa lahat. "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Kaya kung iniinsulto kayo dahil mga tagasunod kayo ni Cristo, mapalad
         kayo dahil nasa inyo ang makapangyarihang Espiritu, ang Espiritu ng Dios. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "Kung pinarusahan man kayo, sana\u02BCy hindi dahil nakapatay kayo
         ng tao, o nagnakaw, o nakagawa ng masama, o kaya\u02BCy nakialam sa ginagawa
         ng iba. "
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'Ngunit kung pinarusahan kayo dahil Cristiano kayo, huwag kayong mahiya;
         sa halip ay magpasalamat kayo sa Dios dahil tinatawag kayo sa pangalang ito. '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: "Dumating na ang panahong magsisimula na ang Dios sa paghatol sa mga
         anak niya. At kung ito\u02BCy magsisimula sa atin na mga anak niya, ano kaya
         ang sasapitin ng mga hindi sumusunod sa Magandang Balita ng Dios? "
       comments: []
-    - title: 
-      content: "Tulad ng sinasabi sa Kasulatan,\u201CKung ang mga matuwid ay halos
-        hindi maligtas, ano pa kaya ang mangyayari sa mga makasalanan at hindi kumikilala
-        sa Dios?\u201D[[COMMENT(0)]]  "
+    - name: '18: '
+      title: 
+      number: 18
+      content: "<i>Tulad ng sinasabi sa Kasulatan,</i>\u201CKung ang mga matuwid
+        ay halos hindi maligtas, ano pa kaya ang mangyayari sa mga makasalanan at
+        hindi kumikilala sa Dios?\u201D[[COMMENT(0)]]  "
       comments:
       - number: '4:18 '
         content: Kaw. 11:31.
+    - name: '19: '
+      title: 
+      number: 19
+      content: "Kaya kayong nagtitiis ngayon, dahil ito ang kalooban ng Dios para
+        sa inyo, ay magpatuloy sa paggawa ng mabuti. Ipagkatiwala ninyo ang sarili
+        n\u02BCyo sa Dios na lumikha sa inyo, dahil hinding-hindi niya kayo pababayaan."
+      comments: []
   - verses:
-    - title: Mga Bilin sa mga Namumuno sa Iglesya at sa mga Kabataan
+    - name: '1: Mga Bilin sa mga Namumuno sa Iglesya at sa mga Kabataan'
+      title: Mga Bilin sa mga Namumuno sa Iglesya at sa mga Kabataan
+      number: 1
       content: '  Sa mga namumuno sa iglesya, may nais akong ipakiusap sa inyo bilang
         isa ring namumuno sa iglesya at nakasaksi sa mga paghihirap ni Cristo, at
         makakabahagi rin sa kaluwalhatian niya sa kanyang pagdating. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Alagaan ninyong mabuti ang mga mananampalatayang[[COMMENT(0)]] kasama
         ninyo. Katulad sila ng mga tupa at kayo ang mga tagapag-alaga nila. Dapat
         taos-puso ninyo silang pangalagaan, dahil ito ang nais ng Dios. Hindi dahil
@@ -467,58 +696,88 @@ MonoBehaviour:
       comments:
       - number: '5:2 '
         content: '<b>: </b>sa literal, <b>kawan.</b>'
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Huwag kayong maghahari-harian sa mga mananampalatayang ipinagkatiwala
         sa inyo upang alagaan, kundi maging halimbawa kayo sa kanila. '
       comments: []
-    - title: 
-      content: 'At pagdating ni Cristo na siyang Pangulong Tagapag-alaga, tatanggap
-        kayo ng gantimpalang napakaganda at hindi kukupas kailanman.  '
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'At pagdating ni <i>Cristo na siyang</i> Pangulong Tagapag-alaga,
+        tatanggap kayo ng gantimpalang napakaganda at hindi kukupas kailanman.  '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "At kayo namang mga kabataan, magpasakop kayo sa matatanda. At kayong
-        lahat na mga mananampalataya, magpakumbaba kayo at maglingkod sa isa\u02BCt
+        lahat <i>na mga mananampalataya</i>, magpakumbaba kayo at maglingkod sa isa\u02BCt
         isa, dahil sinasabi sa Kasulatan, \u201CKinamumuhian ng Dios ang mga mapagmataas,
         ngunit kinakaawaan niya ang mga mapagpakumbaba.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '5:5 '
         content: Kaw. 3:34.
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Kaya magpasakop kayo sa kapangyarihan ng Dios, dahil darating ang
         araw na pararangalan niya kayo. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "Ipagkatiwala n\u02BCyo sa kanya ang lahat ng kabalisahan n\u02BCyo,
         dahil nagmamalasakit siya sa inyo. "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Humanda kayo at mag-ingat, dahil ang kaaway ninyong si Satanas ay
         umaali-aligid na parang leong umaatungal at naghahanap ng malalapa. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "Patatagin ninyo ang inyong pananampalataya sa Dios at labanan ninyo
         si Satanas. Alalahanin ninyong hindi lang kayo ang naghihirap kundi pati
-        ang mga kapatid n\u02BCyo kay Cristo sa buong mundo. Nararanasan din nila
-        ang mga paghihirap na ito. "
+        ang mga kapatid n\u02BCyo <i>kay Cristo</i> sa <i>buong</i> mundo. Nararanasan
+        din nila ang mga paghihirap na ito. "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Maikling panahon lang ang paghihirap ninyo. Pagkatapos nito, tutulungan
         kayo ng Dios para maging ganap ang buhay ninyo. At siya rin ang magpapatatag
         at magpapalakas sa inyo, dahil siya ang pinagmumulan ng lahat ng pagpapala.
         Pinili niya kayo upang makabahagi rin sa walang hanggang kaluwalhatian niya
         sa pamamagitan ng pakikipag-isa ninyo kay Cristo. '
       comments: []
-    - title: Mga Pangangamusta
+    - name: '11: Mga Pangangamusta'
+      title: Mga Pangangamusta
+      number: 11
       content: 'Purihin siya sa kapangyarihan niyang walang hanggan! Amen.  '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Isinulat ko sa inyo ang maikling sulat na ito sa tulong ni Silvanus.
         Kapatid natin siya kay Cristo at talagang mapagkakatiwalaan. Napalakas ko
         sana ang inyong loob sa pamamagitan ng sulat na ito at napatunayan ko ang
         kabutihan sa atin ng Dios. Manatili kayo sa kabutihan niya.  '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Kinukumusta kayo ng mga mananampalataya sa Babilonia. Katulad n\u02BCyo,
-        mga pinili rin sila ng Dios na maging mga anak niya. Kinukumusta rin kayo
-        ni Marcos na itinuturing kong anak. "
+        mga pinili rin sila ng Dios <i>na maging mga anak niya</i>. Kinukumusta rin
+        kayo ni Marcos na itinuturing kong anak. "
       comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: Magbatian kayo bilang magkakapatid kay Cristo.[[COMMENT(0)]]Sa inyong
+        lahat na nakay Cristo, sumainyo nawa ang kapayapaan.
+      comments:
+      - number: '5:14 '
+        content: '<b>: </b>sa literal, <b>sa pamamagitan ng banal na halik.</b>'

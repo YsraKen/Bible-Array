@@ -1,0 +1,938 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: LAM
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Lamentations
+  fancyName: 
+  nickname: lam
+  version: {fileID: 11400000, guid: d0ec49142d5c7c24fb05ee739840cab0, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: The Desolate City'
+      title: The Desolate City
+      number: 1
+      content: 'How desolate the city sits that was full of people! She has become
+        like a widow, once great among the nations! Like a woman of nobility in the
+        provinces, she has become a forced laborer. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'She weeps bitterly in the night, her tears are on her cheeks; she
+        has no comforter among all her lovers. All her friends have been unfaithful
+        to her; they have become her enemies. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Judah has gone into exile with misery and under hard servitude; she
+        lives among the nations, she has not found a resting place; all her pursuers
+        have overtaken her amidst her distress. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The roads of Zion are mourning because no one comes to the festival.
+        All her gates are desolate, her priests groan; her young women are worried,
+        and she herself suffers bitterly. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Her foes have become her master,  her enemies are at ease; Yahweh
+        has made her suffer because of the greatness of her transgressions. Her children
+        have gone away, captive before the foe. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'All her majesty has gone away from the daughter of Zion; her princes
+        have become like young stags that have not found pasture; they have gone
+        away without strength, before the pursuer. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Jerusalem remembers the days of her misery and wanderings, all her
+        treasures that were from the days of long ago. When her people fell into
+        the hand of the enemy, there was no one helping her; the enemies saw her,
+        they mocked at her destruction. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Jerusalem sinned grievously, thus she became an objection of derision;
+        all those who honored her despise her because they have seen her nakedness.
+        She herself groans and turns away. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Her uncleanness was in her skirts; she did not remember her future,
+        she has descended beyond understanding, there is no comforter for her. See,
+        O Yahweh, my persecution! My enemy has been made great! '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The enemy has stretched out his hand over all her treasures; for
+        she has seen the nations, they entered her sanctuary, those whom you commanded
+        not to enter in your assembly. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'All her people groan, they are searching for bread. They give their
+        treasures for food, to bring back life. See, O Yahweh, and look, how I am
+        despised. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Is it nothing to you, all who pass by?  Look and see if there is
+        sorrow like my sorrow,  which was dealt to me, which Yahweh inflicted on
+        the day of his wrath.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'From heaven he sent fire, into my bones he let it descend. He spread
+        out a net for my feet; he turned me back, he gave me devastation, fainting
+        all day. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'My rebellion was bound as a yoke, with his hand it was fastened together;
+        it was put on my neck and caused my strength to fail. The Lord gave me into
+        the hands of those whom I cannot withstand. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The Lord has rejected all my mighty ones in my midst. He called an
+        assembly against me, to crush my young men; like in a wine press, the Lord
+        has trodden on the virgin daughter of Judah. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For these things, I am weeping, my eyes flow with tears;  because
+        a comforter is far from me, one to restore my life. My sons are desolate
+        because the enemy has prevailed. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Zion stretches out her hands; there is no one to comfort her. Yahweh
+        has commanded against Jacob, that those surrounding him should be his enemies;
+        Jerusalem has become a defilement among them. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Yahweh is righteous; I have rebelled against his word.  Please hear,
+        all the nations, And see my pain; My young women and young men went into
+        captivity. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'I have called to my lovers, they themselves deceived me; my priests
+        and elders perished in the city when they sought food for themselves to revive
+        their life.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'See, O Yahweh, that I am in distress;  my stomach is in torment,
+        my heart has turned inside me because I have certainly rebelled. From outside
+        a sword brings bereavement, inside the house it is like death. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'They hear that I was groaning; there is no comforter for me. All
+        my enemies have heard my misery, they are pleased that you have done it.
+        Bring that day that you have proclaimed,  And let them be like me. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Let all their evil come before you; and deal with them just as you
+        have dealt with me because of all my crimes; for my groaning is much and
+        my heart is faint. '
+      comments: []
+  - verses:
+    - name: '1: The Lord is Angry'
+      title: The Lord is Angry
+      number: 1
+      content: 'How, in his anger,  the Lord has covered the daughter of Zion in
+        a cloud! He has thrown down from heavens to earth the splendor of Israel,
+        and he has not remembered his footstool in the day of his anger.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'The Lord has devoured; he has not shown mercy to all the dwellings
+        of Jacob; he has broken down in his wrath the fortifications of the daughter
+        of Judah; he has leveled to the ground, he has dishonored the kingdom and
+        its commanders.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'He has cut down in fierce anger  all the might of Israel; he has
+        withdrawn his right hand from the faces of the enemy, and he has burned in
+        Jacob like a flaming fire, it has consumed all around. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'He has bent his bow like an enemy; he has set his right hand like
+        a foe, and he has slain all the treasures of the eye;  in the tent of the
+        daughter of Zion, he has poured out his anger like fire. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The Lord has become like an enemy; he has destroyed Israel; he has
+        destroyed all its citadel fortresses;  he has ruined all its fortifications
+        and multiplied lamentation and mourning in the daughter of Judah. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'He has broken down his dwelling place like the garden; he has ruined
+        his appointed feasts; Yahweh has made them forget in Zion festival and Sabbath,
+        and he has despised in his anger king and priest. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The Lord has rejected his altar; he has rejected his sanctuary; he
+        has delivered into the hands of the enemy the walls of its citadel fortresses. 
+        They have cried out in the house of Yahweh like a day of an appointed feast. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Yahweh has planned to destroy the wall of the daughter of Zion. He
+        measured with a line; he has not restrained his hand from destroying; he
+        caused rampart and wall to mourn; together they have languished away. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Her gates have sunk into the earth; he has ruined and broken her
+        bars, her kings and its princes are among the nations; there is no more law. 
+        Also, her prophets have not found a revelation from Yahweh. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'They sit on the ground, the elders of the daughter of Zion are silent.
+        They cast dust on their head, they have put on sackcloth; the young women
+        of Jerusalem have bowed their head down to the ground. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'My eyes have spent all their tears;  my stomach is in torment, my
+        heart is poured out on the earth because of the destruction of the daughter
+        of my people, because child and babe faint in the public squares of a city. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "To their mothers they say, \u201CWhere is the bread and wine?\u201D
+        as they faint like the wounded in the public squares of a city, as their
+        life is being poured out onto the bosom of their mothers. "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'What can I say for you? What can I compare to you, O daughter of
+        Jerusalem? To what can I liken you so that I can comfort you, O virgin daughter
+        of Zion? For your destruction is as vast as the sea; who can heal you? '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Your prophets had a vision for you, false and worthless; they have
+        not exposed your sin, to restore your fortune; they have seen oracles for
+        you, false and misleading. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "They clap hands over you, all who pass along the way; they hiss and
+        they shake their head, at the daughter of Jerusalem. Is this the city of
+        which it is said, \u201CA perfection of beauty, a joy for all the earth?\u201D "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "They have opened their mouths against you, all your enemies. They
+        hiss and gnash a tooth, and they say, \u201CWe have destroyed her! Surely
+        this is the day we have hoped for; we have found it, we have seen it!\u201D "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Yahweh has done what he has planned; he has fulfilled his promise
+        that he ordained from the days of old; he has demolished and not shown mercy;
+        he has made an enemy rejoice over you, he has exalted the might of your foes. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "Their heart cried to the Lord, \u201CO wall of the daughter of Zion,
+        let tears stream down like a river; day and night, do not give yourself relief,
+        do not give your eyes rest. "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "\u201CArise, cry out in the night, at the beginning of the night
+        watches; pour out your heart like water, before the face of the Lord. Lift
+        to him your hands, for the life of your children, who faint in starvation,
+        at the head of all streets.\u201D "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'See, Yahweh, and take note! With whom have you dealt thus? Should
+        women eat their young children of tender care? Should priest and prophet
+        be slain in the sanctuary of the Lord? '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'They lie in the soil of the streets, young and old; my young women
+        and young men, they have fallen by the sword; you have slain on the day of
+        your anger,  you have slaughtered and not shown mercy. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "You have summoned my horror from all around, as if for a feast day;
+        no one on the day of Yahweh\u2019s anger is a fugitive and a survivor; whoever
+        I have cared for and reared, my enemy has destroyed. "
+      comments: []
+  - verses:
+    - name: "1: Israel\u2019s Affliction"
+      title: "Israel\u2019s Affliction"
+      number: 1
+      content: 'I am a man who has seen misery, under the rod of his wrath. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'He has driven me along, he brought darkness and not light. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Surely he has turned his hand against me, all day long. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'He has worn out my flesh and skin, he has broken my bones. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'He has besieged and engulfed me with bitterness and hardship. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'In darkness he has let me dwell like the dead of long ago. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'He has built a wall around me, I cannot go out; he has made my bronze
+        fetters heavy. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Though I cry out for help, he shuts out my prayers. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'He has blocked my ways with dressed stones; he has made my paths
+        crooked. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'To me he is like a bear lying in wait, a lion in hiding. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'He has forsaken my way and torn me to pieces; he has caused me desolation. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'He has bent his bow and set me as the target for the arrow. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'He shot the arrows of his quiver  into my kidneys. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'I have become a laughingstock for all the people, their mocking song
+        all day long. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'He has filled me with bitterness, he has drenched me with wormwood. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'He has broken my teeth on grit, he has trampled me down in ash. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'My life has been removed from peace, I have forgotten goodness. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "And I have said, \u201CMy glory is ruined, my expectation from Yahweh.\u201D "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Remember my misery and bitterness, the wormwood and venom! '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Surely my soul remembers and bows down within me. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'This I have reminded myself,  therefore I will hope. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'The loyal love of Yahweh does not cease; his compassions do not come
+        to an end. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'They are new in the morning, great is your faithfulness. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "\u201CYahweh is my portion,\u201D says my soul, \u201CThus I will
+        hope on him.\u201D "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Yahweh is good to those who wait on him, to the person that seeks
+        him. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'It is good to wait in silence for the salvation of Yahweh. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'It is good for a man who carries the yoke of his childhood. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Let him sit alone and be silent when he has laid it on him. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Let him put his mouth in the dust; perhaps there is hope. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Let him give a cheek to his smiter, let him be filled with disgrace. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'For the Lord will not reject forever. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'For even though he causes grief he has compassion according to the
+        greatness of his royal love. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'He does not afflict willingly,  or grieve anyone.  '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'To crush under his feet all the prisoners of the earth; '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'to deprive one of justice  before the face of the Most High; '
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: "to subvert a person in a legal dispute \u2014the Lord has not found
+        delight in these things. "
+      comments: []
+    - name: '37: '
+      title: 
+      number: 37
+      content: 'Who can speak and it will happen if the Lord has not commanded it? '
+      comments: []
+    - name: '38: '
+      title: 
+      number: 38
+      content: 'Is it not from the mouth of the Most High that disaster and good
+        will come? '
+      comments: []
+    - name: '39: '
+      title: 
+      number: 39
+      content: 'Why should any living person complain about his sin? '
+      comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: 'Let us test and examine our ways; let us return to Yahweh. '
+      comments: []
+    - name: '41: '
+      title: 
+      number: 41
+      content: 'Let us lift up our hearts with our hands to God in the heavens. '
+      comments: []
+    - name: '42: '
+      title: 
+      number: 42
+      content: 'We ourselves have transgressed and rebelled, you have not forgiven. '
+      comments: []
+    - name: '43: '
+      title: 
+      number: 43
+      content: 'You have covered yourself in anger and pursued us, you have slain
+        and not shown mercy. '
+      comments: []
+    - name: '44: '
+      title: 
+      number: 44
+      content: 'You have covered yourself in a cloud so that prayer cannot pass through.  '
+      comments: []
+    - name: '45: '
+      title: 
+      number: 45
+      content: 'You have made us scum and refuse in the midst of the nations. '
+      comments: []
+    - name: '46: '
+      title: 
+      number: 46
+      content: 'All our enemies have opened their mouth against us. '
+      comments: []
+    - name: '47: '
+      title: 
+      number: 47
+      content: 'Fear and a pit have come upon us, desolation and destruction. '
+      comments: []
+    - name: '48: '
+      title: 
+      number: 48
+      content: 'Channels of water run down my eyes because of the destruction of
+        the daughter of my people. '
+      comments: []
+    - name: '49: '
+      title: 
+      number: 49
+      content: 'My eyes have poured down unceasingly without respite, '
+      comments: []
+    - name: '50: '
+      title: 
+      number: 50
+      content: 'until Yahweh looks down and sees from heaven. '
+      comments: []
+    - name: '51: '
+      title: 
+      number: 51
+      content: 'My eyes inflict my soul because of all the daughters of my city. '
+      comments: []
+    - name: '52: '
+      title: 
+      number: 52
+      content: 'My enemies hunt me without cause, like a bird. '
+      comments: []
+    - name: '53: '
+      title: 
+      number: 53
+      content: 'They have silenced me in a pit,  they have thrown a stone at me. '
+      comments: []
+    - name: '54: '
+      title: 
+      number: 54
+      content: "Water has flown over my head, I said, \u201CI am cut off.\u201D "
+      comments: []
+    - name: '55: '
+      title: 
+      number: 55
+      content: 'I have called your name, O Yahweh, from the depths of the pit. '
+      comments: []
+    - name: '56: '
+      title: 
+      number: 56
+      content: "You have heard my cry, \u201CDo not shut your ear to my cry for help,
+        for my relief!\u201D "
+      comments: []
+    - name: '57: '
+      title: 
+      number: 57
+      content: "You came near on a day when I called you, you said, \u201CDo not
+        fear!\u201D "
+      comments: []
+    - name: '58: '
+      title: 
+      number: 58
+      content: 'O Lord, you have pleaded for my cause,  you have redeemed my life. '
+      comments: []
+    - name: '59: '
+      title: 
+      number: 59
+      content: 'You have seen my injustice, O Yahweh; judge my case. '
+      comments: []
+    - name: '60: '
+      title: 
+      number: 60
+      content: 'You have seen all their vengeance, all there plans against me. '
+      comments: []
+    - name: '61: '
+      title: 
+      number: 61
+      content: 'You have heard their disgrace, O Yahweh, all their plans against
+        me. '
+      comments: []
+    - name: '62: '
+      title: 
+      number: 62
+      content: 'The lips and meditation of my assailants are against me all day long. '
+      comments: []
+    - name: '63: '
+      title: 
+      number: 63
+      content: 'Look at their sitting and their standing, I am their mocking song. '
+      comments: []
+    - name: '64: '
+      title: 
+      number: 64
+      content: 'Return to them what is deserved, O Yahweh, according to the work
+        of their hands. '
+      comments: []
+    - name: '65: '
+      title: 
+      number: 65
+      content: 'Give them a stubborn heart; curse them! '
+      comments: []
+    - name: '66: '
+      title: 
+      number: 66
+      content: 'Pursue them in anger and destroy them from under the heavens of Yahweh. '
+      comments: []
+  - verses:
+    - name: '1: Zion Is Punished'
+      title: Zion Is Punished
+      number: 1
+      content: 'How the gold has grown dim, the pure gold has changed. The stones
+        of holiness are scattered at the head of every street. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "The precious sons of Zion weighed against fine gold, how they are
+        thought of as earthen vessels of clay, the work of the potter\u2019s hands. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Even the jackal bears the beast and nurses their cubs; but the daughter
+        of my people has become ruthless, like ostriches in the wilderness. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The tongue of the nursling cleaves to its palate in thirst. Children
+        beg for food, no one lays it out before them.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The ones who eat delicacies, they are ruined in the streets; the
+        ones nurtured in purple lie on piles of trash. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The iniquity of the daughter of my people is greater than the sin
+        of Sodom; it was overthrown in a moment and no hands were laid on her. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Her princes were purer than snow, they were whiter than milk; their
+        bodies were more ruddy than rubies, sapphire their appearance. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Now their appearance is blacker than soot, they are not recognized
+        in the streets; their skin has shriveled on their bones, it has become dry
+        like wood. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Happier were the victims of the sword than the victims of famine;
+        they have pined away, very hungry for the crops of my field. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The hands of compassionate women, have cooked their children; they
+        became as something to eat in the destruction of the daughter of my people. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Yahweh has completed his anger, he has poured out his fierce anger; 
+        he has kindled a fire in Zion, it consumed her foundations. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The kings of the earth did not believe, and all the inhabitants of
+        the world, that a foe and an enemy could enter into the gates of Jerusalem. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Because of the sins of her prophets, the guilt of her priests, who
+        shed blood in her midst, of righteous people. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'They wander blindly in the streets; they were defiled with the blood,
+        their clothes could not be touched. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "\u201CGo away! Defiled!\u201D they shout to them. \u201CGo away!
+        Go away! Do not touch!\u201D so they left, they left; it was said among the
+        nations, \u201CThey will no longer dwell with us.\u201D  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The presence of Yahweh has scattered them, he will no longer watch
+        over them; they did not honor the priests,  they did not show mercy to elders. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Still our eyes failed, looking for our help in vain; in our watchtower,
+        we kept watch for a nation that could not save. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'They hunted our steps, from walking in our streets; our end has come
+        near, our days are finished,  our end has come. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Our pursuers were swifter than the eagles of the heavens; they chased
+        us on the mountains, they have set an ambush for us in the desert. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "The breath of our nostrils, the anointed one of Yahweh, was captured
+        in their pits; of whom we said, \u201CIn his shadow we will live among the
+        nations.\u201D "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Rejoice and be glad, O daughter of Edom, you who dwell in the land
+        of Uz; but to you also the cup will pass, you will become drunk and strip
+        yourself bare. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'The punishment of your iniquity is completed, O daughter of Zion,
+        your exile will not continue; but he will punish your iniquity, O daughter
+        of Edom, he will reveal your sins. '
+      comments: []
+  - verses:
+    - name: '1: A Request for Mercy'
+      title: A Request for Mercy
+      number: 1
+      content: 'Remember, O Yahweh, what has become of us; take note, and see our
+        disgrace! '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Our inheritance has been turned over to strangers, our houses, to
+        foreigners. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'We have become orphans, fatherless, our mothers are like widows. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'We pay for water with money,  our wood comes to us at a price. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'We are driven on our necks; we are weary, there is no rest for us. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'We have made a deal with Egypt and Assyria to be satisfied with food. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Our fathers have sinned, they are no more; we bear their iniquity. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Slaves rule over us; there is no one to deliver us from their hand. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'We risk our life for food  because of the sword of the desert. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Our skin is hot like an oven because of the scorching famine. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'They raped women in Zion, young women in the cities of Judah. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'They hang princes by their hand; they do not show respect before
+        elders. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Young men must carry a hand-mill and boys stumble under the wood. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Elders are no longer at the gate, young men no longer play stringed
+        instruments. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The joy of our hearts has stopped; our circle-dancing has changed
+        to a mourning ceremony. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The crown has fallen from our head; woe to us, for we have sinned! '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Because of this, our heart has become faint, because of these, our
+        eyes have become dim. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Because of Mount Zion, which lies desolate, foxes tread on it.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'You, O Yahweh, will sit forever on your throne for generation to
+        generation. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Why have you forgotten us forever? Why have you forsaken us for so
+        long?  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Restore us to you, O Yahweh, that we will be restored; renew our
+        days as of old. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Unless you have utterly rejected us, unless you are angry with us
+        beyond measure. '
+      comments: []

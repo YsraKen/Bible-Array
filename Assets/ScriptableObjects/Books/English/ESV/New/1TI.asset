@@ -1,0 +1,751 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: 1TI
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 1 Timothy
+  fancyName: 
+  nickname: 1ti
+  version: {fileID: 11400000, guid: dd64eb842f3dd694bae8487ce6510215, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Greeting'
+      title: Greeting
+      number: 1
+      content: '  Paul, an apostle of Christ Jesus by command of God our Savior and
+        of Christ Jesus our hope,  '
+      comments: []
+    - name: '2: Warning Against False Teachers'
+      title: Warning Against False Teachers
+      number: 2
+      content: 'To Timothy, my true child in the faith:  Grace, mercy, and peace
+        from God the Father and Christ Jesus our Lord.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  As I urged you when I was going to Macedonia, remain at Ephesus
+        so that you may charge certain persons not to teach any different doctrine, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'nor to devote themselves to myths and endless genealogies, which
+        promote speculations rather than the stewardship[[COMMENT(0)]] from God that
+        is by faith. '
+      comments:
+      - number: '1:4 '
+        content: 'Or '
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The aim of our charge is love that issues from a pure heart and a
+        good conscience and a sincere faith. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Certain persons, by swerving from these, have wandered away into
+        vain discussion, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'desiring to be teachers of the law, without understanding either
+        what they are saying or the things about which they make confident assertions.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Now we know that the law is good, if one uses it lawfully, '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'understanding this, that the law is not laid down for the just but
+        for the lawless and disobedient, for the ungodly and sinners, for the unholy
+        and profane, for those who strike their fathers and mothers, for murderers, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'the sexually immoral, men who practice homosexuality, enslavers,[[COMMENT(0)]]
+        liars, perjurers, and whatever else is contrary to sound doctrine, '
+      comments:
+      - number: '1:10 '
+        content: 'That is, those who take someone captive in order to sell him into
+          slaveryOr '
+    - name: '11: Christ Jesus Came to Save Sinners'
+      title: Christ Jesus Came to Save Sinners
+      number: 11
+      content: 'in accordance with the gospel of the glory of the blessed God with
+        which I have been entrusted.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I thank him who has given me strength, Christ Jesus our Lord, because
+        he judged me faithful, appointing me to his service, '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'though formerly I was a blasphemer, persecutor, and insolent opponent.
+        But I received mercy because I had acted ignorantly in unbelief, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'and the grace of our Lord overflowed for me with the faith and love
+        that are in Christ Jesus. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The saying is trustworthy and deserving of full acceptance, that
+        Christ Jesus came into the world to save sinners, of whom I am the foremost. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'But I received mercy for this reason, that in me, as the foremost,
+        Jesus Christ might display his perfect patience as an example to those who
+        were to believe in him for eternal life. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'To the King of the ages, immortal, invisible, the only God, be honor
+        and glory forever and ever.[[COMMENT(0)]] Amen.  '
+      comments:
+      - number: '1:17 '
+        content: 'Greek '
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'This charge I entrust to you, Timothy, my child, in accordance with
+        the prophecies previously made about you, that by them you may wage the good
+        warfare, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'holding faith and a good conscience. By rejecting this, some have
+        made shipwreck of their faith, '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: among whom are Hymenaeus and Alexander, whom I have handed over to
+        Satan that they may learn not to blaspheme.
+      comments: []
+  - verses:
+    - name: '1: Pray for All People'
+      title: Pray for All People
+      number: 1
+      content: '  First of all, then, I urge that supplications, prayers, intercessions,
+        and thanksgivings be made for all people, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'for kings and all who are in high positions, that we may lead a peaceful
+        and quiet life, godly and dignified in every way. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'This is good, and it is pleasing in the sight of God our Savior, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'who desires all people to be saved and to come to the knowledge of
+        the truth. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For there is one God, and there is one mediator between God and men,
+        the man[[COMMENT(0)]] Christ Jesus, '
+      comments:
+      - number: '2:5 '
+        content: and render the same Greek word that is translated in verses 1 and
+          4
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'who gave himself as a ransom for all, which is the testimony given
+        at the proper time. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For this I was appointed a preacher and an apostle (I am telling
+        the truth, I am not lying), a teacher of the Gentiles in faith and truth.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'I desire then that in every place the men should pray, lifting holy
+        hands without anger or quarreling; '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'likewise also that women should adorn themselves in respectable apparel,
+        with modesty and self-control, not with braided hair and gold or pearls or
+        costly attire, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "but with what is proper for women who profess godliness\u2014with
+        good works. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Let a woman learn quietly with all submissiveness. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I do not permit a woman to teach or to exercise authority over a
+        man; rather, she is to remain quiet. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'For Adam was formed first, then Eve; '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'and Adam was not deceived, but the woman was deceived and became
+        a transgressor. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "Yet she will be saved through childbearing\u2014if they continue
+        in faith and love and holiness, with self-control."
+      comments: []
+  - verses:
+    - name: '1: Qualifications for Overseers'
+      title: Qualifications for Overseers
+      number: 1
+      content: '  The saying is trustworthy: If anyone aspires to the office of overseer,
+        he desires a noble task. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Therefore an overseer[[COMMENT(0)]] must be above reproach, the husband
+        of one wife,  sober-minded, self-controlled, respectable, hospitable, able
+        to teach, '
+      comments:
+      - number: '3:2 '
+        content: Or ; Greek ; a similar term occurs in verse 1Or ; also verse 12
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'not a drunkard, not violent but gentle, not quarrelsome, not a lover
+        of money. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'He must manage his own household well, with all dignity keeping his
+        children submissive, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "for if someone does not know how to manage his own household, how
+        will he care for God\u2019s church? "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'He must not be a recent convert, or he may become puffed up with
+        conceit and fall into the condemnation of the devil. '
+      comments: []
+    - name: '7: Qualifications for Deacons'
+      title: Qualifications for Deacons
+      number: 7
+      content: 'Moreover, he must be well thought of by outsiders, so that he may
+        not fall into disgrace, into a snare of the devil.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: '  Deacons likewise must be dignified, not double-tongued,[[COMMENT(0)]] 
+        not addicted to much wine, not greedy for dishonest gain. '
+      comments:
+      - number: '3:8 '
+        content: 'Or '
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'They must hold the mystery of the faith with a clear conscience. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And let them also be tested first; then let them serve as deacons
+        if they prove themselves blameless. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Their wives likewise[[COMMENT(0)]] must be dignified, not slanderers,
+        but sober-minded, faithful in all things. '
+      comments:
+      - number: '3:11 '
+        content: 'Or , or '
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Let deacons each be the husband of one wife, managing their children
+        and their own households well. '
+      comments: []
+    - name: '13: The Mystery of Godliness'
+      title: The Mystery of Godliness
+      number: 13
+      content: 'For those who serve well as deacons gain a good standing for themselves
+        and also great confidence in the faith that is in Christ Jesus.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'I hope to come to you soon, but I am writing these things to you
+        so that, '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'if I delay, you may know how one ought to behave in the household
+        of God, which is the church of the living God, a pillar and buttress of the
+        truth. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Great indeed, we confess, is the mystery of godliness:  He[[COMMENT(0)]]
+        was manifested in the flesh,vindicated by the Spirit,  seen by angels,  proclaimed
+        among the nations,  believed on in the world,  taken up in glory.'
+      comments:
+      - number: '3:16 '
+        content: 'Greek ; some manuscripts ; others Or Or '
+  - verses:
+    - name: '1: Some Will Depart from the Faith'
+      title: Some Will Depart from the Faith
+      number: 1
+      content: '  Now the Spirit expressly says that in later times some will depart
+        from the faith by devoting themselves to deceitful spirits and teachings
+        of demons, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'through the insincerity of liars whose consciences are seared, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'who forbid marriage and require abstinence from foods that God created
+        to be received with thanksgiving by those who believe and know the truth. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For everything created by God is good, and nothing is to be rejected
+        if it is received with thanksgiving, '
+      comments: []
+    - name: '5: A Good Servant of Christ Jesus'
+      title: A Good Servant of Christ Jesus
+      number: 5
+      content: 'for it is made holy by the word of God and prayer.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  If you put these things before the brothers,[[COMMENT(0)]] you
+        will be a good servant of Christ Jesus, being trained in the words of the
+        faith and of the good doctrine that you have followed. '
+      comments:
+      - number: '4:6 '
+        content: "Or . In New Testament usage, depending on the context, the plural
+          Greek word (translated \u201Cbrothers\u201D) may refer either to or to "
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Have nothing to do with irreverent, silly myths. Rather train yourself
+        for godliness; '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'for while bodily training is of some value, godliness is of value
+        in every way, as it holds promise for the present life and also for the life
+        to come. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'The saying is trustworthy and deserving of full acceptance. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For to this end we toil and strive,[[COMMENT(0)]] because we have
+        our hope set on the living God, who is the Savior of all people, especially
+        of those who believe.  '
+      comments:
+      - number: '4:10 '
+        content: 'Some manuscripts '
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Command and teach these things. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Let no one despise you for your youth, but set the believers an example
+        in speech, in conduct, in love, in faith, in purity. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Until I come, devote yourself to the public reading of Scripture,
+        to exhortation, to teaching. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Do not neglect the gift you have, which was given you by prophecy
+        when the council of elders laid their hands on you. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Practice these things, immerse yourself in them,[[COMMENT(0)]] so
+        that all may see your progress. '
+      comments:
+      - number: '4:15 '
+        content: 'Greek '
+    - name: '16: '
+      title: 
+      number: 16
+      content: Keep a close watch on yourself and on the teaching. Persist in this,
+        for by so doing you will save both yourself and your hearers.
+      comments: []
+  - verses:
+    - name: '1: Instructions for the Church'
+      title: Instructions for the Church
+      number: 1
+      content: '    Do not rebuke an older man but encourage him as you would a father,
+        younger men as brothers, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'older women as mothers, younger women as sisters, in all purity.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Honor widows who are truly widows. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'But if a widow has children or grandchildren, let them first learn
+        to show godliness to their own household and to make some return to their
+        parents, for this is pleasing in the sight of God. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'She who is truly a widow, left all alone, has set her hope on God
+        and continues in supplications and prayers night and day, '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'but she who is self-indulgent is dead even while she lives. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Command these things as well, so that they may be without reproach. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'But if anyone does not provide for his relatives, and especially
+        for members of his household, he has denied the faith and is worse than an
+        unbeliever.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Let a widow be enrolled if she is not less than sixty years of age,
+        having been the wife of one husband,[[COMMENT(0)]]  '
+      comments:
+      - number: '5:9 '
+        content: 'Or '
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'and having a reputation for good works: if she has brought up children,
+        has shown hospitality, has washed the feet of the saints, has cared for the
+        afflicted, and has devoted herself to every good work. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'But refuse to enroll younger widows, for when their passions draw
+        them away from Christ, they desire to marry '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'and so incur condemnation for having abandoned their former faith. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Besides that, they learn to be idlers, going about from house to
+        house, and not only idlers, but also gossips and busybodies, saying what
+        they should not. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'So I would have younger widows marry, bear children, manage their
+        households, and give the adversary no occasion for slander. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'For some have already strayed after Satan. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'If any believing woman has relatives who are widows, let her care
+        for them. Let the church not be burdened, so that it may care for those who
+        are truly widows.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Let the elders who rule well be considered worthy of double honor,
+        especially those who labor in preaching and teaching. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "For the Scripture says, \u201CYou shall not muzzle an ox when it
+        treads out the grain,\u201D and, <JESUS>\u201CThe laborer deserves his wages.\u201D</JESUS>  "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Do not admit a charge against an elder except on the evidence of
+        two or three witnesses. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'As for those who persist in sin, rebuke them in the presence of all,
+        so that the rest may stand in fear. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'In the presence of God and of Christ Jesus and of the elect angels
+        I charge you to keep these rules without prejudging, doing nothing from partiality. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Do not be hasty in the laying on of hands, nor take part in the sins
+        of others; keep yourself pure. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '(No longer drink only water, but use a little wine for the sake of
+        your stomach and your frequent ailments.) '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'The sins of some people are conspicuous, going before them to judgment,
+        but the sins of others appear later. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: So also good works are conspicuous, and even those that are not cannot
+        remain hidden.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '    Let all who are under a yoke as bondservants[[COMMENT(0)]] regard
+        their own masters as worthy of all honor, so that the name of God and the
+        teaching may not be reviled. '
+      comments:
+      - number: '6:1 '
+        content: For the contextual rendering of the Greek word , see Preface
+    - name: '2: False Teachers and True Contentment'
+      title: False Teachers and True Contentment
+      number: 2
+      content: 'Those who have believing masters must not be disrespectful on the
+        ground that they are brothers; rather they must serve all the better since
+        those who benefit by their good service are believers and beloved.  Teach
+        and urge these things. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'If anyone teaches a different doctrine and does not agree with the
+        sound[[COMMENT(0)]] words of our Lord Jesus Christ and the teaching that
+        accords with godliness, '
+      comments:
+      - number: '6:3 '
+        content: 'Or '
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'he is puffed up with conceit and understands nothing. He has an unhealthy
+        craving for controversy and for quarrels about words, which produce envy,
+        dissension, slander, evil suspicions, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'and constant friction among people who are depraved in mind and deprived
+        of the truth, imagining that godliness is a means of gain. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'But godliness with contentment is great gain, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'for we brought nothing into the world, and[[COMMENT(0)]] we cannot
+        take anything out of the world. '
+      comments:
+      - number: '6:7 '
+        content: Greek ; some manuscripts insert [it is] [that]
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'But if we have food and clothing, with these we will be content. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'But those who desire to be rich fall into temptation, into a snare,
+        into many senseless and harmful desires that plunge people into ruin and
+        destruction. '
+      comments: []
+    - name: '10: Fight the Good Fight of Faith'
+      title: Fight the Good Fight of Faith
+      number: 10
+      content: 'For the love of money is a root of all kinds of evils. It is through
+        this craving that some have wandered away from the faith and pierced themselves
+        with many pangs.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'But as for you, O man of God, flee these things. Pursue righteousness,
+        godliness, faith, love, steadfastness, gentleness. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Fight the good fight of the faith. Take hold of the eternal life
+        to which you were called and about which you made the good confession in
+        the presence of many witnesses. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'I charge you in the presence of God, who gives life to all things,
+        and of Christ Jesus, who in his testimony before[[COMMENT(0)]] Pontius Pilate
+        made the good confession, '
+      comments:
+      - number: '6:13 '
+        content: 'Or '
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'to keep the commandment unstained and free from reproach until the
+        appearing of our Lord Jesus Christ, '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "which he will display at the proper time\u2014he who is the blessed
+        and only Sovereign, the King of kings and Lord of lords, "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'who alone has immortality, who dwells in unapproachable light, whom
+        no one has ever seen or can see. To him be honor and eternal dominion. Amen.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'As for the rich in this present age, charge them not to be haughty,
+        nor to set their hopes on the uncertainty of riches, but on God, who richly
+        provides us with everything to enjoy. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'They are to do good, to be rich in good works, to be generous and
+        ready to share, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'thus storing up treasure for themselves as a good foundation for
+        the future, so that they may take hold of that which is truly life.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "O Timothy, guard the deposit entrusted to you. Avoid the irreverent
+        babble and contradictions of what is falsely called \u201Cknowledge,\u201D "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: for by professing it some have swerved from the faith.  Grace be with
+        you.[[COMMENT(0)]]
+      comments:
+      - number: '6:21 '
+        content: The Greek for is plural

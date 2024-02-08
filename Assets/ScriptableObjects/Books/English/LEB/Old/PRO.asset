@@ -1,0 +1,5386 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: PRO
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Proverbs
+  fancyName: 
+  nickname: pro
+  version: {fileID: 11400000, guid: d0ec49142d5c7c24fb05ee739840cab0, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Prologue'
+      title: Prologue
+      number: 1
+      content: 'Proverbs of Solomon, son of David, king of Israel: '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'To know wisdom and instruction, to understand sayings of understanding, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'to gain insightful instruction,  righteousness and justice and equity, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'to give shrewdness to the simple, knowledge and purpose to the young, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'may the wise hear and increase learning, and the one who understands
+        gain direction,  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'to understand a proverb and an expression, words of wisdom and their
+        riddles. '
+      comments: []
+    - name: '7: Lecture Against Gang Behavior'
+      title: Lecture Against Gang Behavior
+      number: 7
+      content: 'Fear of Yahweh is the beginning of knowledge; wisdom and instruction,
+        fools despise. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "My child, may you keep your father\u2019s instruction, and do not
+        reject your mother\u2019s teachings, "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'for they are a garland of favor for your head, and pendants for your
+        neck. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'My child, if sinners entice you, do not consent. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "If they say, \u201CCome with us! We shall lie in wait for blood;
+        we shall ambush the innocent without cause.  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Like Sheol, we will swallow them alive and whole, like those who
+        descend to the pit.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'We shall find all precious wealth, we shall fill our houses with
+        booty, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "you shall throw your lot in our midst, there will be one purse for
+        all of us.\u201D "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'My child, do not walk in their way.  Keep your foot from their paths, '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'for their feet run to evil, and they hurry to shed blood, '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "for \u201Cin vain is the net scattered, in the sight of any winged
+        bird.\u201D  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'They lie in wait for their own blood. They ambush their own lives. '
+      comments: []
+    - name: '19: The Call of Lady Wisdom'
+      title: The Call of Lady Wisdom
+      number: 19
+      content: "Thus are the ways of all who are greedy for gain\u2014 it will take
+        the life of its possessors. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Wisdom calls out in the streets, in the squares she raises her voice. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'On a busy corner she cries out, at the entrances of the gates in
+        the city, she speaks her sayings: '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "\u201CHow long, O simple ones, will you love simplicity? And how
+        long will scoffers delight in their scoffing, and fools hate knowledge? "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'May you turn to my argument!  Behold, I shall pour out my spirit
+        upon you; I will make my words known to you. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Because I called out and you refused me, I stretched out my hand,
+        yet there is none who heeds. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'You have ignored all my counsel, and my reproof you are not willing
+        to accept. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'I will also laugh at your calamity;  I will mock when panic comes
+        upon you. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'When your panic comes like a storm, and your calamity arrives like
+        a whirlwind, when distress and anguish come upon you, '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'then they will call me, but I will not answer; they will seek me
+        diligently but not find me. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Since they hated knowledge, and did not choose the fear of Yahweh, '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'they were not willing to accept my counsel, they despised all my
+        reproof. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'They shall eat from the fruit of their way, and they shall be sated
+        from their own schemes, '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'for the waywardness of the simple ones will kill them, and the complacency
+        of fools will destroy them. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: "Whoever listens to me will dwell in security and rest securely from
+        dread and disaster.\u201D "
+      comments: []
+  - verses:
+    - name: '1: The Benefits of Wisdom'
+      title: The Benefits of Wisdom
+      number: 1
+      content: 'My child, if you will receive my sayings, and hide my commands with
+        you, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'in order to incline your ear toward wisdom, then you shall apply
+        your heart to understanding. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For if you cry out for understanding,  if you lift your voice for
+        insight, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'if you seek her like silver and search her out like treasure,  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'then you will understand the fear of Yahweh, and the knowledge of
+        God you will find. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For Yahweh will give wisdom; from his mouth come knowledge and understanding. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For the upright, he stores sound judgment, a shield for those who
+        walk uprightly, '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'in order to guard paths of justice and keep the way of his faithful
+        ones. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Then you will understand righteousness and justice and uprightness\u2014every
+        good course\u2014 "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'for wisdom will enter your heart, and knowledge will be pleasing
+        to your soul.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Discretion will watch over you; understanding will protect you, '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "in order to deliver you from the way of evil,  from a man who speaks
+        devious things\u2014 "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'those who forsake the paths of uprightness to walk in ways of darkness, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'those who are happy to do evil, for they delight in the deviousness
+        of evil, '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'who are crooked in their ways,  and devious in their paths; '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'in order to deliver you from a strange woman, from a foreign woman
+        who flatters with her sayings, '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'she who forsakes the partner of her youth and has forgotten the covenant
+        of her God, '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'for her house sinks to death, and to the dead are her paths. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Of all who go to her, none shall return, nor do they reach paths
+        of life. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'So that you will walk on the road of those who are good, and the
+        paths of those who are righteous you shall keep. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'For those who are upright will dwell in the land,  and those who
+        are blameless will remain in it. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'And those who are wicked will be cut off from the land, and those
+        who are treacherous will be uprooted from it. '
+      comments: []
+  - verses:
+    - name: '1: Wisdom and Piety'
+      title: Wisdom and Piety
+      number: 1
+      content: 'My child, do not forget my instruction, and may your heart guard
+        my commands. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For length of days, years of life, and peace they shall add to you. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'May loyal love and truth not forsake you; bind them around your neck,
+        write them upon your heart. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And you shall find favor and good sense  in the eyes of God and humankind. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Trust Yahweh with all your heart; do not lean toward your own understanding. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'In all your ways acknowledge him, and he will straighten your paths. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Do not be wise in your own eyes; fear Yahweh and retreat from evil. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'There shall be healing for your flesh,  and refreshment for your
+        body. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Honor Yahweh from your substance,  and from the firstfruits of all
+        that will come to you, '
+      comments: []
+    - name: '10: Happy Is the One Who Finds Wisdom'
+      title: Happy Is the One Who Finds Wisdom
+      number: 10
+      content: 'and your barns shall be full of plenty, and your vats shall burst
+        with new wine. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Do not despise the discipline of Yahweh, my child. Do not be weary
+        of his reproof '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'because whomever Yahweh will love, he will rebuke, as a father delights
+        in his son. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Happy is the one who finds wisdom, and one who obtains understanding. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For her income is better than the income of silver, and her revenue
+        than that of gold. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'She is more precious than rubies, and all your desires shall not
+        compare with her. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Length of days is in her right hand; in her left hand are riches
+        and honor. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Her ways are ways of pleasantness, and all her paths are peace. '
+      comments: []
+    - name: '18: Role of Wisdom in Creation and Society'
+      title: Role of Wisdom in Creation and Society
+      number: 18
+      content: 'She is a tree of life for those who seize her; those who take hold
+        of her are considered happy. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Yahweh in wisdom founded the earth; he established the heavens in
+        understanding. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'With his knowledge, depths broke open, and clouds dropped dew. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'My child, may they not escape from your sight;  may you keep sound
+        wisdom and prudence. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'They shall be life for your soul  and adornment for your neck. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Then you will walk in the confidence of your ways, and your foot
+        will not stumble. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'If you sit down, you will not panic,  and if you lie down, then your
+        sleep shall be sweet. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Do not be afraid of sudden panic,  or the storm of wickedness that
+        will come. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Yahweh will be your confidence  and guard your foot from capture. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Do not withhold good from its owner  when it is in the power of your
+        hand to do. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: "Do not say to your neighbor, \u201CGo and return and tomorrow I will
+        give it,\u201D when it is with you.  "
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Do not plot harm against your neighbor who dwells in confidence beside
+        you. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Do not quarrel with anyone without cause, when he did not do you
+        harm. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Do not envy a man of violence, and do not choose any of his ways, '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'for he who is perverse is an abomination of Yahweh, but those who
+        are upright are his confidence. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'The curse of Yahweh is on the house of the wicked, and the abode
+        of the righteous ones he blesses. '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'With those who scorn, he is scornful, but to those who are humble,
+        he gives favor. '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'They will inherit the honor of the wise, but stubborn fools, disgrace. '
+      comments: []
+  - verses:
+    - name: "1: The Father\u2019s Wisdom"
+      title: "The Father\u2019s Wisdom"
+      number: 1
+      content: 'Children, listen to the instruction of a father, and be attentive
+        in order to know insight. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For I have given you good instruction; do not forsake my teaching. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'When I was a son to my father, tender and alone before my mother, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "he taught me and said to me, \u201CMay your heart hold fast to my
+        words; guard my commandments and live. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Get wisdom and insight; do not forget and do not turn from the sayings
+        of my mouth. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Do not forsake her\u2014then she will guard you; love her and she
+        will keep you. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The beginning of wisdom: Get wisdom! With all that is in your possession,
+        gain insight. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Cherish her and she will exalt you; she will honor you if you embrace
+        her. '
+      comments: []
+    - name: '9: The Right Path'
+      title: The Right Path
+      number: 9
+      content: "She will give a garland for your head; she shall bestow a crown of
+        glory upon you.\u201D "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Listen, my child, take my sayings, and the years of your life shall
+        be great. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'In the way of wisdom I have instructed you; I have led you in the
+        path of uprightness. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'When you walk, your step will not be hampered, and if you run, you
+        will not stumble. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Seize the instruction! Do not let go! Guard her, for she is your
+        life. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'In the path of the wicked do not go; do not walk in the way of those
+        who do evil. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Avoid it; do not transgress it; turn away from it and pass by. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For they will not sleep if they have not done wrong, and they are
+        robbed of their sleep if they do not cause stumbling. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'For they ate the bread of wickedness, and they drank the wine of
+        violence. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'But the path of the righteous ones is like the light of dawn, leading
+        and shining until the day is full.  '
+      comments: []
+    - name: '19: Staying the Course'
+      title: Staying the Course
+      number: 19
+      content: 'The way of the wicked ones is like deep darkness; they do not know
+        what they stumble over. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'My child, be attentive to my words; to my sayings incline your ear. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'May they not escape from your sight;  keep them in the midst of your
+        heart. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'For they are life to those who find them and healing to the entire
+        body.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'With all vigilance, keep your heart, for from it comes the source
+        of life. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Remove from yourself deceitful speech,  and abolish devious talk
+        from yourself. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'May your eyes look forward  and your gaze be straight before you. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'May the path of your foot be balanced and all your ways be sure. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Do not swerve right or left; remove your foot from evil. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' My child, be attentive to my wisdom, and to my understanding incline
+        your ear; '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'in order to keep prudence, and knowledge will guard your lips. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For the lips of the strange woman will drip honey, and smoother than
+        oil is her mouth.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'But her end is bitter as the wormwood, sharp as a two-edged sword. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Her feet go down to death; her steps take hold of Sheol.  '
+      comments: []
+    - name: '6: Do Not Commit Adultery Against Wisdom'
+      title: Do Not Commit Adultery Against Wisdom
+      number: 6
+      content: 'She does not observe the path of life; her ways wander, and she does
+        not know it. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Now, O children, listen to me; do not depart from the sayings of
+        my mouth. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Keep your paths far from her, and do not go near to the door of her
+        house, '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'lest you give your honor to the others, and your years to the merciless, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'lest strangers take their fill of your strength, and your labors
+        go to the house of a foreigner, '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'and you groan at your end, when your flesh and body are consumed, '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "and say \u201CHow I hated discipline, and I despised reproof!\u201D "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "and \u201CI did not listen to the voice of my teachers, and I did
+        not incline my ear to my instructors! "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "I was almost at utter ruin  in the midst of the assembly and congregation.\u201D "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Drink water from your own cistern and flowing waters from inside
+        your own well. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Shall your springs be scattered outward? In the streets, shall there
+        be streams of water? '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'May they be yours alone, and not for strangers who are with you. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'May your fountain be blessed, and rejoice in the wife of your youth. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'She is a deer of love and a doe of grace; may her breasts satisfy
+        you always;  by her love may you be intoxicated continually. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Why should you be intoxicated, my child, by a strange woman, and
+        embrace the bosom of a foreigner? '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'For before the eyes of Yahweh are human ways,  and all his paths
+        he examines. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'His iniquities shall ensnare him, the evildoer, and in the vanity
+        of his sin he shall be caught. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'He shall die for lack of discipline, and in the greatness of his
+        folly he shall be lost. '
+      comments: []
+  - verses:
+    - name: '1: Against Pledges'
+      title: Against Pledges
+      number: 1
+      content: 'My child, if you have pledged to your neighbor, if you have bound
+        yourself to the stranger, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'if you are snared by the sayings of your mouth, if you are caught
+        by the sayings of your mouth, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "do this, then, my child, and save yourself, for you have come into
+        the palm of your neighbor\u2019s hand:  Go, humble yourself, plead with your
+        neighbor. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Do not give sleep to your eyes, or slumber to your eyelids. '
+      comments: []
+    - name: '5: Against Sloth'
+      title: Against Sloth
+      number: 5
+      content: 'Save yourself like a gazelle from a hand, or like a bird from the
+        hand of a fowler. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Go to the ant, lazy! Consider its ways and be wise. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'It has no chief, officer, or ruler. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'In the summer, it prepares its food; in the harvest, it gathers its
+        sustenance. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'How long will you lie down, lazy? When will you rise up from your
+        sleep? '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "A little sleep, a little slumber, a little folding of the hands for
+        rest\u2014 "
+      comments: []
+    - name: '11: Against Worthlessness'
+      title: Against Worthlessness
+      number: 11
+      content: 'like a robber shall your poverty come, and what you lack like an
+        armed man. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'A worthless man, an evil man, goes around with deceitful speech.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Winking in his eye, shuffling in his foot, pointing in his fingers, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'perversion in his heart, he devises evil; at all times he will send
+        out discord.  '
+      comments: []
+    - name: '15: What Yahweh Hates'
+      title: What Yahweh Hates
+      number: 15
+      content: 'Upon such a man, suddenly shall his calamity come; in a moment he
+        will be damaged and there is no healing.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'There are six things Yahweh hates, and seven things are abominations
+        of his soul:  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'haughty eyes, a lying tongue, and hands that shed innocent blood, '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'a devising heart, plans of deception, feet that hurry to run to evil,  '
+      comments: []
+    - name: '19: Commandment and Instruction as Guardians'
+      title: Commandment and Instruction as Guardians
+      number: 19
+      content: 'a false witness who breathes lies and sends out discord between brothers. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'My child, keep the commandment of your father, and do not disregard
+        the instruction of your mother. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Bind them on your heart continually; tie them upon your neck. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'When you walk, she will lead you, When you lie down, she will watch
+        over you, and when you awake, she will converse with you. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'For like a lamp is a commandment, and instruction is light, and the
+        way of life is the reproof of discipline, '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'in order to preserve you from an evil woman,  from the smoothness
+        of the tongue of an adulteress.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Do not desire her beauty in your heart; may she not capture you with
+        her eyelashes. '
+      comments: []
+    - name: '26: Warning Against Relations with a Married Woman'
+      title: Warning Against Relations with a Married Woman
+      number: 26
+      content: 'For the price of a woman, a prostitute, is the price of a loaf of
+        bread, but the woman belonging to a man hunts precious life. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Can a man carry fire in his lap, and his clothes not burn? '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'If a man walks upon the hot coals, will his feet not be burned? '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Thus, he who goes to the wife of his neighbor, any who touches her
+        shall not go unpunished. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'People do not despise a thief when he steals to fill himself when
+        he is hungry. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'But if he is found, he will pay sevenfold, every possession of his
+        house he shall give. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'He who commits adultery with a woman lacks sense,  he destroys himself
+        who does it. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'A wound and dishonor he will find, and his disgrace will not be wiped
+        out. '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'For jealousy is the fury of a husband, and he will not show restraint
+        on the day of revenge. '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'He will not accept any compensation,  and he will not be willing,
+        though the bribe is large. '
+      comments: []
+  - verses:
+    - name: '1: Warning Against the Strange Woman'
+      title: Warning Against the Strange Woman
+      number: 1
+      content: 'My child, guard my sayings; store my commandments with you. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Keep my commands and live, and my teaching like the apple of your
+        eye.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Bind them on your fingers; write them on the tablet of your heart. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Say to wisdom, \u201Cyou are my sister,\u201D and you shall call
+        insight, \u201Cintimate friend.\u201D  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'In order to guard yourself from an adulteress,  from the foreigner
+        who makes her words smooth.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For at the window of my house, through my lattice, I looked down. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'And I saw among the simple, I observed among the youth, a young man
+        lacking sense,  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'passing on the street at her corner, and he takes the road to her
+        house, '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "at twilight, at the day\u2019s evening, in the midst of night and
+        the darkness. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Then behold! A woman comes to meet him with the garment of a prostitute
+        and a secret heart.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'She is loud and stubborn; her feet do not stay at her house. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Now in the street, now in the square, at every corner she lies in
+        wait. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'She took hold of  him and kissed him. Her face was impudent, and
+        she said to him, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201CSacrifices of peace offerings are upon me; today I completed
+        my vows. "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'So I have come out to meet you, to seek your face, and I have found
+        you. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'With coverings I have adorned my couch, spreads of the linen of Egypt; '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'I have perfumed my bed with myrrh, aloes, and cinnamon. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Come, let us take our fill of love making, until the morning let
+        us delight in love. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'For there is no man in his home; he has gone on a long journey.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "The bag of money he took in his hand, for on the day of the full
+        moon he will come home.\u201D "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'She persuades him with the greatness of her teachings; with her smooth
+        lips she compels him. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'He goes after her suddenly; like an ox to the slaughter he goes,
+        and like a stag to the instruction of a fool, '
+      comments: []
+    - name: '23: Reiteration of the Warning Against a Strange Woman'
+      title: Reiteration of the Warning Against a Strange Woman
+      number: 23
+      content: 'until an arrow pierces his entrails,  like a bird rushing into a
+        snare, but he does not know that it will cost him his life.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'And now, my children, listen to me, and be attentive to the sayings
+        of my mouth. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'May your heart not turn aside to her ways; do not stray into her
+        path. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'For many slain she has laid low, and countless are all of her killings. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'The ways of Sheol are her house, descending to chambers of death. '
+      comments: []
+  - verses:
+    - name: '1: Wisdom Calls'
+      title: Wisdom Calls
+      number: 1
+      content: 'Does not wisdom call, and understanding raise its voice? '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Atop the heights beside the road, at the crossroads she stands. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Beside gates, before towns, at the entrance of doors, she cries out: '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CTo you, O people, I call, and my cry is to the children of
+        humankind. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Learn prudence, O simple ones; fools, learn intelligence.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Listen! For noble things I will speak, and upright things from the
+        opening of my lips. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'My mouth will utter truth, and wickedness is an abomination to my
+        lips. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'All sayings of my mouth are in righteousness; none of them are twisted
+        and crooked. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'All of them are straight to him who understands, and upright to those
+        who find knowledge. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Take my teaching and not silver; may you choose knowledge rather
+        than choice gold. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'For wisdom is better than jewels, and all desires shall not compare
+        with her. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I, wisdom, live with prudence, and I find knowledge and discretion. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The fear of Yahweh is hatred of evil, pride, and arrogance and an
+        evil way. And I hate a mouth of perversity. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Advice and sound judgment are mine; I am understanding, strength
+        is mine.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'By me kings reign, and rulers decree righteousness. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "By me rulers rule, and nobles\u2014all judges of righteousness. "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'I love those who love me,  and those who seek me diligently shall
+        find me. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Fortune and glory are with me, enduring wealth and righteousness. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'My fruit is better than gold, even refined gold, and my yield than
+        choice silver. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'In the way of righteousness I walk, in the midst of paths of justice, '
+      comments: []
+    - name: '21: Wisdom at Creation'
+      title: Wisdom at Creation
+      number: 21
+      content: 'in order to endow those who love me with wealth, and I will fill
+        their treasuries. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "\u201CYahweh possessed me, the first of his ways, before his acts
+        of old.  "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'From eternity, I was set up from the first, from the beginning of
+        the earth. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'When there were no depths, I was brought forth, when there were no
+        springs of abounding water. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Before mountains had been shaped, before hills, I was brought forth. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'When he had not yet made earth and fields, or the first dust of the
+        world, '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'when he established the heavens, there I was, when he drew a circle
+        upon the face of the deep, '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'when he made skies from above, when he founded fountains of the deep, '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'when he assigned his limits to the sea, that waters shall not transgress
+        his command,  when he marked the foundations of the earth, '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'I was beside him, a master workman, and I was delighting day by day,
+        rejoicing before him always,  '
+      comments: []
+    - name: '31: Benefits of Following Wisdom'
+      title: Benefits of Following Wisdom
+      number: 31
+      content: 'rejoicing in the world of his earth, and my delight was with the
+        children of humankind. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: "\u201CAnd now, children, listen to me; happy are those who will keep
+        my ways. "
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'Hear teaching and be wise; do not neglect it. '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'Happy is the person who listens to me, in order to keep watch at
+        my doors day by day, in order to guard the frames of my entrances. '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'For he who finds me is he who finds life, and he obtains favor from
+        Yahweh. '
+      comments: []
+    - name: '36: '
+      title: 
+      number: 36
+      content: "But he who misses me injures himself.  All those who hate me love
+        death.\u201D "
+      comments: []
+  - verses:
+    - name: "1: Wisdom\u2019s Banquet"
+      title: "Wisdom\u2019s Banquet"
+      number: 1
+      content: 'Wisdom has built her house; she has hewn her seven pillars. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'She has slaughtered her slaughtering, mixed her wine, and also set
+        her table. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'She has sent her servant girls, she calls upon the wings of the high
+        places of town, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CWhoever is simple, let him turn here.\u201D As for the one
+        who lacks sense, she says to him, "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CCome, eat with my bread; drink with the wine I have mixed. "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Lay aside simplicity and live; walk in the way of understanding.\u201D "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'He who corrects a scoffer gains abuse for himself, and he who rebukes
+        the wicked gets hurt.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Do not rebuke a scoffer, lest he hate you; rebuke the wise and he
+        will love you. '
+      comments: []
+    - name: "9: Foolishness\u2019 Banquet"
+      title: "Foolishness\u2019 Banquet"
+      number: 9
+      content: 'Give to a wise one and he will become more wise; teach a righteous
+        one and he will increase learning. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The start of wisdom is fear of Yahweh, and knowledge of the Holy
+        One, insight. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'For by me your days shall increase, and years of life shall multiply
+        for you. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'If you are wise, you are wise for yourself, and if you scoff, alone
+        you shall bear it. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'A woman of foolishness is loud, simple, and does not know it.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'She sits at the door of her house, upon a throne at the high places
+        of town, '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'in order to call to those who pass by the road, those who go straight
+        on their way: '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "\u201CWhoever is simple, may he turn here!\u201D As for he who lacks
+        sense, she says to him, "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "\u201CStolen waters are sweet, and bread of secrecy is pleasant.\u201D "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'But he does not know that the dead are there, in the depths of Sheol
+        are her guests. '
+      comments: []
+  - verses:
+    - name: '1: Proverbs of Solomon'
+      title: Proverbs of Solomon
+      number: 1
+      content: 'The proverbs of Solomon: A wise child makes a father glad, but a
+        foolish child grieves his mother. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Treasures of wickedness do not profit, but righteousness delivers
+        from death. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Yahweh will not cause a righteous person to go hungry, but the craving
+        of the wicked he will thwart. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'A slack hand causes poverty, but the hand of the diligent enriches. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'He who gathers in the summer is a child who is prudent; he who sleeps
+        at the harvest is a child who brings shame. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Blessings belong to the head of the righteous, but the mouth of the
+        wicked conceals violence. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The memory of righteousness is like a blessing, but the name of the
+        wicked will rot. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'A heart of wisdom will heed commandments, but a babbling fool will
+        come to ruin. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Whoever walks in integrity will walk securely, but whoever follows
+        perversity, his ways will be made known. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The winking of an eye causes trouble, and the foolishness of lips
+        comes to ruin. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'A fountain of life is a mouth of righteousness, and a mouth of wickedness
+        conceals violence. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Hatred stirs up strife, but love covers over all offenses. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'On the lips of one who has understanding, wisdom is found, but a
+        rod is for the back of one who lacks sense.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Those who are wise lay up knowledge, but to the mouth of the fool,
+        ruin draws near. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The wealth of the rich is the city of his strength; the ruin of the
+        poor is their poverty. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The wage of the righteous leads to life; the gain of the wicked to
+        sin. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'On the path to life is he who guards instruction, but he who rejects
+        rebuke goes astray. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "He who conceals hatred has lips of deceit, and he who utters slander\u2014he
+        is a fool. "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'In many words, transgression is not lacking, but he who restrains
+        his lips is prudent. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Choice silver is a tongue of righteousness, a heart of wickedness
+        is of little worth.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Lips of righteousness feed many, but fools die for lack of sense.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'The blessing of Yahweh makes one rich, and he does not increase sorrow
+        with it. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'It is like a sport for a fool to do wrong, wisdom for a person of
+        understanding. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'The dread of the wicked will come upon him, but the desire of the
+        righteous will be granted. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'With the passing of the tempest, there is no wickedness, but the
+        righteous have a foundation forever. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Like vinegar to the tooth and like smoke to the eyes, thus is the
+        lazy to one who employs him. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'The fear of Yahweh adds life, but the years of the wicked are shortened. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'The hope of the righteous is gladness, but the expectation of the
+        wicked comes to nothing. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'A stronghold for the upright is the way of Yahweh, but ruin belongs
+        to evildoers.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'The righteous one is forever; he will not be removed. But the wicked
+        will not remain in the land.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'The mouth of the righteous brings forth wisdom, but a tongue of perversity
+        will be cut off. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'The lips of the righteous know the acceptable, but the mouth of the
+        wicked, the perverse. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' Balances of deceit are an abomination of Yahweh, but an accurate
+        weight delights him. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Pride comes, then disgrace comes, but wisdom is with the humble. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'The integrity of the upright guides them, but the crookedness of
+        the treacherous destroys them. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Wealth does not profit on the day of wrath, but righteousness will
+        deliver from death. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The righteousness of the blameless will keep his ways straight, but
+        the wicked will fall by his wickedness. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The righteousness of the upright will save them, but by a scheme
+        the treacherous will be taken captive. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'With the death of a wicked person, hope will die, and the expectation
+        of the godless perishes. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The righteous is delivered from trouble, but the wicked enters into
+        it. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'With a mouth, the godless shall destroy his neighbor, but by knowledge
+        the righteous are delivered. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'When good is with the righteous, the city rejoices, and with the
+        perishing of the wicked, jubilation. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'By the blessing of the upright, a city will be exalted, but by the
+        mouth of the wicked, it will be overthrown. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'He who lacks sense belittles his neighbor, but a person of intelligence
+        will remain silent. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'A gossip walks about telling a secret, but the trustworthy in spirit
+        keeps the matter. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Where there is no guidance, a nation shall fall, but there is safety
+        in an abundance of counsel. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'He will suffer trouble when he loans to a stranger, but he who refuses
+        a pledge is safe. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'A woman of grace receives honor, but the ruthless gets wealth. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'A person of kindness rewards himself,  but a cruel person harms his
+        own flesh. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'The wicked earns deceptive gain,  but he who sows righteousness,
+        a true reward.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'He who is steadfast in righteousness is to life as he who pursues
+        evil is to death. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'An abomination of Yahweh are the crooked of heart,  but his delight
+        are those with blameless ways.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Rest assured, the wicked will not go unpunished, but the offspring
+        of the righteous will escape. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'A ring of gold in the snout of a pig is a woman who is beautiful
+        but without discretion. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'The desire of the righteous is only good, but the expectation of
+        the wicked, wrath. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'There is one who gives yet grows richer,  but he who withholds what
+        is right only finds need. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'A person of blessing will be enriched, and he who gives water also
+        will be refreshed. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'He who withholds grain, the people curse him, but a blessing is for
+        the head of him who sells. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'He who diligently seeks good seeks favor, but he who inquires of
+        evil, it will come to him. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'He who trusts in his wealth is he who will fall, but like a green
+        leaf the righteous will flourish. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'He who brings trouble to his household, he will inherit wind,  and
+        a fool will serve the wise of heart. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'The fruit of righteousness is a tree of life, and he who captures
+        souls is wise. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'If the righteous on earth will be repaid, how much more the wicked
+        and sinner. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' He who loves discipline loves knowledge, but he who hates rebuke
+        is stupid. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'The good obtains favor from Yahweh, but anyone who schemes, he condemns. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'A person will not be established by wickedness, but the root of the
+        righteous will not be moved. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'A woman of strength is the crown of her master,  but like rot in
+        his bones is she who brings shame. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The thoughts of the righteous are just; the advice of the wicked
+        is treacherous. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The words of the wicked are an ambush of blood, but the mouth of
+        the upright delivers them. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The wicked are overthrown and are no more,  but the house of the
+        righteous shall stand. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For his mouth of good sense, a man will be recommended, but he who
+        is of perverse mind will be despised. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'It is better to be lowly and a servant to someone  than self-glorifying
+        and lacking food. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The righteous knows the life of his animal, but the compassion of
+        the wicked is cruel. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'He who works his land will have plenty of food, but he who follows
+        worthless things lacks sense.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The wicked covets the proceeds of evil, but the root of the righteous
+        bears fruit.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'By the transgression of lips, evil is ensnared, but the righteous
+        escapes from trouble. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "From the fruit of the mouth of a man, he is filled with good, and
+        the reward of a man\u2019s labor will return to him. "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The way of a fool is upright in his own eyes, but he who listens
+        to advice is wise. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'As for a fool, on that very day he makes his anger known, but he
+        who ignores an insult is prudent. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'He who will speak truth will reveal righteousness, but the witness
+        of falsehood, deceit. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'There is one who speaks rashly, like the thrust of a sword, but the
+        tongue of the wise brings healing. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'A lip of truth endures forever, but a tongue of deception lasts only
+        a moment. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Deceit is in the heart of those who plan evil, but to those who plan
+        peace, there is joy. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'No evil will happen to the righteous, but the wicked are filled with
+        trouble. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'An abomination of Yahweh are lips of deceit, but they who act faithfully
+        are his delight. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'A clever person conceals knowledge, but the heart of a fool announces
+        folly. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'The hand of the diligent ones will rule, but the lazy will belong
+        to forced labor. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Anxiety in the heart of a man will weigh him down, but a good word
+        will cheer him. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'A righteous person will seek out his neighbor, but the way of the
+        wicked will lead them astray. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'The lazy will not roast his game, but diligence is the precious wealth
+        of a man. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'On the road of righteousness is life, and on the way of the path,
+        may there be no death. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' A wise child hears the discipline of a father, but a scoffer does
+        not listen to a rebuke. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'From the fruit of the mouth of a man, he shall eat what is good,
+        but the desire of the treacherous, wrongdoing. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'He who keeps his mouth guards his life;  he who opens his lips, ruin
+        belongs to him. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The soul of the lazy craves, but there is nothing, but the person
+        of diligence is richly supplied. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The righteous hates a word of falsehood; the wicked will bring shame
+        and disgrace.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Righteousness will guard the upright of way, but wickedness will
+        overthrow sin. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'There is one who acts rich but has nothing;  another who pretends
+        to be poor but has wealth. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The ransom of the life of a man is his wealth, but the poor does
+        not receive a threat. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'The light of the righteous will rejoice, but the lamp of the wicked
+        will die out. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Only by insolence is strife set up, and wisdom is with those who
+        take advice. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Wealth gained from haste will dwindle, but he who gathers little
+        by little will increase it. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Hope that is deferred makes the heart sick, but a desire fulfilled
+        is a tree of life. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'He who despises a word will bring destruction on himself, but he
+        who respects a commandment will be rewarded. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The teaching of the wise is a fountain of life, in order to avoid
+        the snares of death. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Good sense grants favor, but the way of the faithless is coarse. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Anyone who is clever will act with intelligence, but the fool will
+        display folly. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'A messenger of wickedness will fall into trouble, but an envoy of
+        the faithful brings healing. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Poverty and disgrace belong to him who ignores instruction, but he
+        who guards reproof will be honored. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'A desire fulfilled will be sweet to the soul, but an abomination
+        of fools is turning from evil. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Walk with the wise and be wise, but as for the companion of fools,
+        he will suffer harm. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Misfortune will pursue sinners, but the righteous will be rewarded
+        with prosperity.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'He who is good will leave an inheritance to his grandchildren,  and
+        stored up for the righteous is the wealth of a sinner. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'There is much food in the field of the poor, but it is swept away
+        by injustice.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'He who withholds his rod hates his child, but he who loves him gives
+        him discipline. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'The righteous eats to satisfy his life,  but the belly of the wicked
+        will lack. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' The wisest of women builds her house, but the foolish tears it down
+        with her hands. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'He who walks in uprightness fears Yahweh, but he who is devious in
+        his ways displeases him. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'In the mouth of a fool is the rod of pride, but the lips of the wise
+        preserve them. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'When there are no oxen the manger is empty, but an abundance of crops
+        comes by the strength of an ox.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'A faithful witness does not lie, but he who breathes out falsehood
+        is a witness of deceit. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'A scoffer seeks wisdom, but there is none, but knowledge comes easily
+        to him who understands.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Leave the presence of a foolish man,  for you will not come to know
+        words of knowledge.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The wisdom of the clever is understanding his ways, but the folly
+        of fools is deceit. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Fools mock the guilt offering, but among the upright, it is favorable. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The heart knows the bitterness of its soul,  but in its joy, it will
+        not share itself with a stranger. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The house of the wicked will be destroyed, but the tent of the upright
+        will flourish. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'There is a way that seems upright to a man, but its end is the way
+        of death. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Even in laughter, a heart may be sad, and the end of joy may be grief. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'From his ways, the perverse of heart will be satisfied, and from
+        his own, so shall a good man. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The simple will believe every word, but the clever will consider
+        his step. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The wise is cautious and turns from evil, but the fool throws off
+        restraint and is confident. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'He who is short of temper will act foolishly, and the man who schemes
+        will be hated. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'The simple are adorned with folly, but the clever are crowned with
+        knowledge. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'The evil bow down before the good, and the wicked at the gates of
+        the righteous. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'The poor is disliked even by his neighbor, but the lovers of the
+        rich are many. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'He who despises his neighbor is a sinner, but he who has mercy on
+        the poor blesses him. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Have they not erred, those who plan evil? But loyalty and faithfulness
+        belong to those who plan good. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'In all toil, there is profit, but the talk of lips leads only to
+        poverty. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'The crown of the wise is their wealth; the folly of fools is folly. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'He who saves lives is a witness of truth, but he who utters lies
+        is a betrayer. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'In the fear of Yahweh, there is confidence of strength, and for his
+        children, there will be refuge. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'The fear of Yahweh is a fountain of life, in order to turn from the
+        snares of death. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'In the multitude of people is the glory of the king, but without
+        a population, a prince is ruined. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'He who is slow to anger has great understanding, but the hasty of
+        spirit exalts folly. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'A heart of tranquility is life to the flesh, but causes bones of
+        passion to rot. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'He who oppresses the poor insults him who made him, but he who has
+        mercy on the poor honors him. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'By his evildoing, the wicked will be overthrown, and the righteous
+        will find refuge in his death. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'In the heart of him who has understanding, wisdom rests, but even
+        in the midst of fools it becomes known. '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'Righteousness will exalt a nation, but sin is a reproach to a people. '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: 'The favor of a king is for the servant who deals wisely, but his
+        wrath will be on him who acts shamefully. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' A soft answer will turn away wrath, but a word of trouble will stir
+        anger.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'The tongue of the wise will dispense knowledge, but the mouth of
+        fools will pour out folly. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'In every place, the eyes of Yahweh keep watch over the evil and the
+        good. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Gentleness of tongue is a tree of life, but perverseness in it causes
+        a break in spirit. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'A fool will despise the instruction of his father, but he who guards
+        reproof is prudent. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'In the house of the righteous there is much treasure, but the income
+        of the wicked brings trouble. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The lips of the wise will spread knowledge, but the heart of fools,
+        not so. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The sacrifice of the wicked is an abomination of Yahweh, but the
+        prayer of the upright is his delight. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'An abomination of Yahweh is the way of the wicked, but he who pursues
+        righteousness he will love. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Severe discipline belongs to him who forsakes the way; he who hates
+        a rebuke will die. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Sheol and Abaddon are before Yahweh, how much more the hearts of
+        the children of men! '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'A scoffer does not like his rebuke;  to the wise he will not go. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'A heart of gladness will make good countenance,  but in sorrow of
+        heart a spirit is broken. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The heart of him who understands will seek knowledge, but the faces
+        of fools, they will feed on folly. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'All the days of the poor are hard, but goodness of heart is a continuous
+        feast. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Better is little with the fear of Yahweh than great treasure and
+        trouble with it.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Better is a dinner of vegetables when love is there than a fattened
+        ox and hatred with it.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'A man who is hot-tempered will stir up strife, but he who is slow
+        to anger, he will calm contention. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'The way of the lazy is like a hedge of thorns,  but the path of the
+        upright is a highway. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'A child of wisdom will make a father glad, but a foolish person,
+        he despises his mother. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Folly is a joy to him who lacks sense,  and a person of understanding
+        will walk upright.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Plans go wrong when there is no counsel, but with many advisors it
+        will succeed. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Joy belongs to a man with answers in his mouth, and a word in its
+        time, how good it is! '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'The path of life leads upward for him who has insight, in order to
+        turn away from Sheol below. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'The house of the proud, Yahweh will tear it down, but he will maintain
+        the property line of the widow. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Plans of evil are an abomination of Yahweh, but gracious words are
+        pure. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'He who makes trouble for his house is he who is greedy for unjust
+        gain, but he who hates bribes will live. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'A heart of righteousness will ponder the answer, but a mouth of wickedness
+        will pour out deceit. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Yahweh is far from the wicked, but the prayers of the righteous he
+        will hear. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'From the light of the eyes, the heart will rejoice, and good news
+        will enliven the bones.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'The ear of him who listens to admonitions of life, in the midst of
+        the wise it will lodge. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'He who ignores instruction despises himself,  but he who hears admonition
+        gains heart.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'Fear of Yahweh is the instruction of the wise, and before honor comes
+        humility. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' To mortals belong the plans of the heart, but from Yahweh comes
+        the answer of the tongue. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'All the ways of a man are pure in his own eyes, but Yahweh weighs
+        the spirit.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Commit your work to Yahweh, and your plans will be established. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'All Yahweh has made is for his purpose, and even the wicked for the
+        day of trouble. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'An abomination of Yahweh are all who are arrogant of heart;  rest
+        assured, he will not go unpunished. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'By loyalty and faithfulness, iniquity will be covered over,  and
+        by fear of Yahweh one turns from evil. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'When the ways of a man are pleasing to Yahweh, even his enemies he
+        will cause to make peace with him. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Better is little with righteousness than great income with no justice. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'The mind of a person will plan his ways, and Yahweh will direct his
+        steps. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'A decision is upon the lips of a king; in judgment his mouth will
+        not sin. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'A balance and scales of justice belong to Yahweh; all the weights
+        of the bag are his work. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'An abomination to kings is doing evil, for by righteousness the throne
+        will be established. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The delight of kings are the lips of righteousness, and he who speaks
+        what is upright he will love. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The wrath of a king is a messenger of death, but one who is wise
+        will appease it. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'In the light of the face of the king there is life, and his favor
+        is like a cloud of spring rain. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Getting wisdom: how much better than gold! And getting understanding:
+        it is chosen over silver. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'The highway of the upright, it turns from evil, he who guards himself
+        keeps his way. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Before destruction comes pride, and before a fall, a haughty spirit.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Better a lowly spirit with the poor than dividing the spoil with
+        the proud. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'He who is attentive to a matter will find goodness, and he who trusts
+        in Yahweh, his own happiness. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'The wise of heart is called perceptive, but he who is pleasant of
+        lips will increase persuasiveness. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'A fountain of life is wisdom for its owner,  but the instruction
+        of fools is folly. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'The heart of the wise will make his mouth judicious, and upon his
+        lips, it will add persuasiveness. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Pleasant sayings are a honeycomb, sweetness to the soul and healing
+        to the bones. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'There is a way that seems upright to a man, but its end is the way
+        of death. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'The life of a worker works for him, for his hunger urges him. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'A man of wickedness concocts evil, and his lips are like a scorching
+        fire. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'A person of perversity will spread dissent, and he who whispers separates
+        a close friend. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'A person of violence will entice his neighbor and cause him to walk
+        on a way that is not good. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'He who winks his eyes does so in order to plan perverse things; he
+        who purses his lips will bring evil to pass. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'A crown of glory is gray hair; by a righteous life it is gained. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'He who is slow to anger is better than him who is mighty, and he
+        who controls his spirit than him who captures a city. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'The lot will be cast into the lap, but all of its decisions are from
+        Yahweh. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' Better a dry morsel and quiet with it than a house filled with feasts
+        of strife. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'A slave who deals wisely will rule over a child who acts shamefully,
+        and in the midst of brothers he will share his inheritance. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'A crucible is for the silver, and a furnace is for the gold, but
+        Yahweh will test hearts. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'He who does evil listens to lips of wickedness, and the liar gives
+        heed to the tongue of mischief. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'He who mocks the poor insults him who made him; he who rejoices at
+        calamity will not go unpunished. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The crown of the elderly are grandchildren,  and the glory of children
+        is their fathers. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Fine speech is not becoming a fool, still less is false speech for
+        a ruler. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The bribe is a stone of magic in the eyes of its owner;  everywhere
+        he will turn, he will prosper. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'He who forgives an affront fosters love, but he who waits on a matter
+        will alienate a friend. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'A rebuke strikes him who understands deeper than one hundred blows
+        to a fool. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'An evil person will seek only rebellion, and a cruel messenger will
+        be sent against him. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'May a man meet a she-bear robbed of offspring and not a fool in his
+        folly. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'For he who returns evil for good, evil will not depart from his house. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Like the release of water is the beginning of strife; before it breaks
+        out, stop the quarrel. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'He who justifies the wicked and he who condemns the righteous, the
+        two of them are both abominations of Yahweh. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Why is this? A price in the hand of a fool, in order to buy wisdom
+        where there is no sense.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'The friend loves at all times, but a brother is born for adversity. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'A person who lacks sense pledges;  he becomes security before his
+        neighbor. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'He who loves transgression loves strife; he who builds his high thresholds
+        seeks destruction. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'He who is crooked of heart will not find goodness, and he who is
+        perverse, by his tongue he will fall into calamity. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'He who begets a fool, there is trouble for him; the father of a fool
+        will not rejoice. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'A cheerful heart is good medicine, but a downcast spirit will dry
+        out bones. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'The wicked will accept a bribe from the lap, in order to pervert
+        the ways of justice. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'He who understands sets his face toward wisdom, but the eyes of a
+        fool, to the end of the earth.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'A grief to his father is the child of a fool, and bitterness to her
+        who bore him. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Also, imposing a fine on the righteous is not good, nor to flog nobles
+        for uprightness. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'He who spares his sayings knows knowledge, and a cool spirit is a
+        man of understanding. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Even a fool who keeps silent shall be considered wise;  he who closes
+        his lips is intelligent. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' He who is selfish seeks a craving;  against all sound judgment he
+        shows contempt. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'A fool will not take pleasure in understanding, but in expressing
+        his heart.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'With the coming of wickedness comes contempt also, and with dishonor,
+        disgrace. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Deep waters are words of the mouth of a man; a gushing stream is
+        a fountain of wisdom. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Being partial to faces of evil is not good, nor to subvert the righteous
+        at the judgment. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The lips of a fool will bring strife, and his mouth calls out for
+        a flogging. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The mouth of a fool is ruin to him, and his lips are a snare to his
+        soul.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'The words of a whisper are like delicious morsels, and they themselves
+        go down to inner parts of the body. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Even he who is slack in his work, he is brother to a master of destruction. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'A tower of strength is the name of Yahweh; into him the righteous
+        will run and be safe. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The wealth of the rich is his strong city,  and like a wall, it is
+        high in his imagination. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'In the presence of destruction, the heart of a man will be haughty,
+        but in the presence of honor, humble. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'He who returns a word before he will hear, folly itself belongs to
+        him as well as shame. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The spirit of a man will endure his sickness, but a broken spirit,
+        who may bear it? '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'An intelligent mind will acquire knowledge, and the ear of the wise
+        will seek knowledge. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The gift of a person will open doors for him, and before the great,
+        it gives him access. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'The first in his dispute is deemed righteous, but his neighbor will
+        come and examine him. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'The lot will put an end to disputes, and between powerful contenders
+        it will decide. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'A brother who is offended is worse than a city of strength, and quarrels
+        are like the bars of a fortification. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "From the fruit of a man\u2019s mouth, his stomach will be satisfied,
+        as for the yield of his lips, it will satisfy. "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Death and life are in the power of the tongue, and those who love
+        her will eat of her fruit. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'He who finds a wife finds good, and he will obtain favor from Yahweh. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'The poor may speak entreaties, but the rich will answer roughly. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'A man of many friends will come to ruin, but there is a friend who
+        sticks closer than a brother. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' Better a poor person walking in integrity than one who is perverse
+        in his speech and is a fool. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Also, a life without knowledge is not good, and he who moves quickly
+        with his feet misses the mark.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'As for the folly of humankind, its way leads to ruin, and against
+        Yahweh his heart will rage. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Wealth adds many friends, but the poor will be left by his friends. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'A witness of falsehood will not go unpunished, and he who breathes
+        lies will not escape. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Many will seek favor before the generous, and everyone is the friend
+        of a man of gifts.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'All the brothers of the poor, if they hate him, how much more will
+        his friends keep away from him. He pursues them with words, and they are
+        gone.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'He who acquires wisdom loves himself;  he who guards understanding
+        loves to find good. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'A false witness will not go unpunished, and he who breathes lies
+        will perish. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For a fool living in luxury is not fitting, any more than it is for
+        a slave to rule over princes. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The understanding of a person makes him slow to his anger,  and his
+        glory overlooks offense. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The rage of a king growls like a lion, but his favor is like dew
+        on the grass. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'A foolish child is a ruin to his father, and the quarreling of a
+        woman is a continuous dripping. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'A house and wealth are an inheritance from fathers, but from Yahweh
+        comes a woman who is prudent. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Laziness will bring on a deep sleep, and a person of idleness will
+        suffer hunger. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'He who guards commandments guards his life;  he who is careless of
+        his ways will be killed. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'He who lends to Yahweh is he who is kind to the poor, and his benefits
+        he will repay to him. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Discipline your child, for there is hope, but on his destruction
+        do not set your desire.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'A hot-tempered person pays a penalty; if you rescue him, you will
+        do it yet again. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Listen to advice and accept instruction so that you will gain wisdom
+        for your future.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Many plans are in the heart of a man, but the purpose of Yahweh will
+        be established. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'The craving of a man is his steadfast loyalty, and it is better to
+        be poor than a liar.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "Fear of Yahweh leads to life; he who is filled with it will rest\u2014he
+        will not suffer harm. "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'A lazy person buries his hand in the dish, and even to his mouth
+        he will not bring it back. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'The scoffer you shall strike, and the simple, may they learn prudence,
+        and reprove the intelligent and he will gain knowledge. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'He who does violence to a father, he who chases away a mother, is
+        a child who causes shame and brings reproach. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Cease to listen to instruction, my child, and you will stray from
+        sayings of knowledge. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'A worthless witness will mock justice, and the mouth of the wicked
+        will devour iniquity. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Judgments are prepared for the scoffers, and flogging for the back
+        of fools. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' Wine is a mocker, strong drink a brawler, and any who go astray
+        by it are not wise. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Roaring like the lion is the dreaded anger of a king; he who provokes
+        him forfeits his life.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'It is honorable for the man to refrain from strife, but every fool
+        will be quick to quarrel. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The lazy person will not plow in season; he will expect at the harvest,
+        but there will be nothing. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Deep waters are like purpose in the heart of a man, and a man of
+        understanding will draw it out. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Many a person will proclaim his loyalty for himself, but a man who
+        is trustworthy, who can find? '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'He who walks in his integrity is righteous; happy are his children
+        who follow him. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'A king who sits on the throne of judgment winnows all evil with his
+        eyes. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Who will say \u201CI have made my heart clean; I am pure from my
+        sin\u201D? "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Stone and stone, measure and measure, both of them are an abomination
+        of Yahweh. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Even by his acts, a young man will make himself known, whether his
+        acts are pure and upright. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The ear that hears and the eye that sees, Yahweh has made them both.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Do not love sleep, lest you become poor; open your eyes and have
+        plenty bread. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201CBad, bad,\u201D the buyer will say, but when one goes to him,
+        then he will boast. "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'There is gold and many costly stones, but precious jewels are lips
+        of knowledge. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Take his garment, for he has given security to a stranger, and on
+        behalf of a foreigner\u2014take it as pledge. "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Bread gained by deceit is sweet for the man, but afterward, his mouth
+        will be filled with gravel. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'A plan will be established by advice, and with guidance make war. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "He reveals a secret, he who walks about with gossip, and do not associate
+        with a babbler\u2019s lips. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'He who curses his father and his mother, his lamp will be extinguished
+        in the midst of darkness.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'An inheritance acquired hastily at the beginning  will not be blessed
+        at its end. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "Do not say \u201CI will repay evil\u201D; wait for Yahweh and he
+        will deliver you. "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'An abomination of Yahweh is a stone and a weight,  and scales of
+        falsehood are not good. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Away from Yahweh are the steps of a strong man, and how will humankind
+        understand his ways? '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "It is a snare to humankind to say rashly \u201CIt is holy,\u201D
+        and after vows, to scrutinize. "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'A wise king winnows the wicked, and he will drive a wheel over them. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'The lamp of Yahweh is the spirit of humankind, he who searches every
+        innermost part.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Loyalty and faithfulness will preserve a king, and he is upheld with
+        the righteousness of his throne. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'The glory of young men is their strength,  but the beauty of the
+        aged is gray hair. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'The blows of a wound will cleanse evil, as will beatings of the innermost
+        part.  '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' Streams of water are the heart of a king in the hand of Yahweh;
+        wherever he will desire, he will turn. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Every way of a man is upright in his own eyes, but Yahweh weighs
+        hearts.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Doing righteousness and justice is more acceptable to Yahweh than
+        sacrifice. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Haughtiness of the eyes and pride of heart, the lamp of the wicked
+        are sin. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The plans of the diligent only lead to abundance, but all who are
+        hasty, only to want. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'He who makes treasure by a lying tongue is a fleeting vapor and seeker
+        of death. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The violence of the wicked will sweep them away, for they refuse
+        to do justice. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Crooked is the way of a man and a foreigner, but the pure is upright
+        in his conduct. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Better to dwell on the corner of a roof than to share a house with
+        a woman of contention. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The soul of the wicked desires evil; his neighbor will not find mercy
+        in his eyes. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'With the punishment of a scoffer, the simple will become wise, and
+        with the instruction of the wise, he will obtain knowledge. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The righteous observes the house of the wicked; he throws the wicked
+        to ruin. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'He who closes his ear from the cry of the poor, he also will cry
+        out and not be heard. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'A gift in secret will avert anger,  and a concealed bribe, strong
+        wrath. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'It is a joy to the righteous to do justice, but dismay to those who
+        do evil. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Whoever wanders from the way of understanding, in the assembly of
+        the dead he will rest. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'A man of want is he who loves pleasure; he who loves wine and oil
+        will not become rich. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'A ransom for the righteous is the wicked, and the faithless instead
+        of the upright. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Better to live in a land of wilderness than with a wife of quarrels
+        and provocation. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Precious treasure and oil are in the house of the wise, but the foolish
+        person will devour them.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'He who pursues righteousness and kindness will find life, righteousness,
+        and honor. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "To a city of warriors, the wise ascends, and he will bring down the
+        stronghold\u2014its object of trust. "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'He who guards his mouth and his tongue, he guards his life from danger. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "The proud, haughty one: \u201Cscoffer\u201D is his name; he acts
+        with arrogance of pride. "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'The craving of a lazy person will kill him, for his hands refuse
+        to work.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'All day he craves a craving, but the righteous will give and not
+        hold back. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'The sacrifice of the wicked is an abomination; how much more when
+        he brings it in divisiveness! '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'A false witness will perish, but a man who listens will testify with
+        success. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'A wicked man is strong in his countenance,  but the upright will
+        appoint his paths. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'There is no wisdom, nor understanding, nor counsel to oppose Yahweh. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'A horse is prepared for the day of battle, but to Yahweh belongs
+        the victory. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' A reputation is to be chosen rather than great riches; favor is
+        better than silver and gold.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Rich and poor have much in common; Yahweh is the maker of all of
+        them. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'The clever sees danger and hides, but the simple go on and suffer. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "The reward of humility is the fear of Yahweh\u2014 wealth and honor
+        and life. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Thorns and snares are in the way of the perverse; he who guards himself
+        will keep away from them. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Train the child concerning his way;  even when he is old, he will
+        not stray from it. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The rich will rule over the poor, and the borrower is a slave of
+        the lender.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'He who sows injustice will reap calamity, and the rod of his anger
+        will fail. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'He who is generous will be blessed, for he gives to the poor from
+        his own bread. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Drive out a scoffer and strife will go out; quarrel and abuse will
+        cease. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'He who loves purity of heart and hasgracious speech, his friend is
+        the king. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The eyes of Yahweh keep watch over knowledge, but he will overthrow
+        the words of the faithless. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "A lazy person says \u201CA lion in the street! In the middle of the
+        highway, I shall be killed!\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'A deep pit is the mouth of an adulteress,  he with whom Yahweh is
+        angry will fall there. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Folly is bound up in the heart of a boy;  the rod of discipline will
+        drive it from him. '
+      comments: []
+    - name: '16: Words of the Wise'
+      title: Words of the Wise
+      number: 16
+      content: 'He who oppresses the poor in order to enrich himself, or gives to
+        the rich, will come to poverty.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Incline your ear and hear the words of the wise; you shall apply
+        your heart to my teaching. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'For it is pleasant if you guard them within you;  together they will
+        be ready upon your lips. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "In order for your trust to be in Yahweh, I have made them known to
+        you today\u2014even you. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Have I not written for you thirty sayings with admonitions and knowledge? '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "In order to show you what is right\u2014sayings of truth\u2014 in
+        order to return a true saying to him who sent you. "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Do not rob the poor because he is poor, and do not crush the afflicted
+        at the gate; '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'For Yahweh will plead their case and despoil those who despoil them
+        of life.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Do not befriend an owner of anger,  and with a man of wrath you shall
+        not associate; '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'lest you learn his way and become entangled in a snare to yourself.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Do not be with those who give a pledge  by becoming surety. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'If there is nothing for you to pay,  why will he take your bed from
+        under you? '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Do not remove an ancient boundary marker which your ancestors made. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'A man who is skillful in his work, you shall see: before kings, he
+        will serve; he will not serve before the commoners. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' When you sit to eat with a ruler, you shall surely observe what
+        is before you, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'and you shall put a knife to your throat if you have a big appetite.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Do not desire his delicacies, for it is food of deception. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Do not tire in order to become rich; out of your understanding, may
+        you desist. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Your eyes will alight on it, but there is nothing to it, for suddenly
+        it will make for itself wings like an eagle and it will be exhausted in the
+        heavens. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Do not eat the bread of the stingy,  and do not desire his delicacies. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "For, like hair in his throat, so it is.  \u201CEat and drink!\u201D
+        he will say to you, but his heart will not be with you. "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Your morsel you have eaten, you will vomit it up, and you will waste
+        your pleasant words. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'In the ears of a fool do not speak, for he will despise the wisdom
+        of your words. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Do not remove an ancient boundary marker, and on the fields of orphans
+        do not encroach; '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'For their redeemer is strong, he himself will plead their cause against
+        you. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Apply your heart to instruction, and your ear to sayings of knowledge. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Do not withhold discipline from a child, if you will beat him with
+        the rod, he will not die. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'As for you, with the rod you shall beat him, and his life you will
+        save from Sheol.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "My child, if your heart is wise, my heart will be glad\u2014even
+        me! "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'And my insides will rejoice when your lips speak what is upright. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'May your heart not envy the sinners, but live in fear of Yahweh all
+        day.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Surely there is a future, and your hope will not be cut off. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'You, my child, hear and be wise, and direct your heart on the road. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Do not be among drinkers of wine, among gluttonous eaters of their
+        meat.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'For the drunkard and gluttonous, they will become poor, and with
+        rags, drowsiness will clothe them. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "Listen to your father\u2014he who gave you life,  and do not despise
+        your mother when she is old. "
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Buy truth and do not sell it, wisdom and instruction and understanding. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'The father of the righteous will surely rejoice; he who bears a wise
+        person will be happy with him. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'May your father and your mother be glad, and may she who bore you
+        rejoice. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'My child, may you give your heart to me, and may your eyes delight
+        in my ways. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'For a deep pit is a prostitute,  and a narrow well is an adulteress.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'She is also like a robber lying in wait, and the faithless among
+        mankind she increases. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'To whom is woe? To whom is sorrow? To whom are quarrels? To whom
+        is complaint? To whom are wounds without cause? To whom is redness of the
+        eyes? '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'To those who linger over wine, to those who come to try mixed wine. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Do not look at wine when it is red, when it sparkles on the cup,
+        going down smoothly. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'In the end, it will bite like a serpent, and it will sting like an
+        adder. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'Your eyes will see strange things, and your heart will speak perverse
+        things. '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'And you will be like him who lies down in the heart of the sea, and
+        like him who lies down on top of a mast. '
+      comments: []
+    - name: '35: '
+      title: 
+      number: 35
+      content: "\u201CThey struck me; I was not hurt. They beat me; I did not know
+        it. When I will awake, I will continue; I will seek it again.\u201D "
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' Do not envy men of evil, and do not desire to be with them. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For their minds will devise violence, and their lips will speak mischief. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'By wisdom a house is built, and by understanding it is established. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And by knowledge, rooms are filled with all riches, precious and
+        pleasant. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The warrior of wisdom is in strength, and a man of knowledge is strong
+        in power. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'For with wise guidance you shall make war for yourself, and victory
+        is in an abundance of counsel. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Wisdom is too high for fools; at the gate he will not open his mouth. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "He who plans to do evil for himself, they will call him \u201Cmaster
+        of mischief.\u201D "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Devising folly is a sin, and an abomination to humankind is a scoffer. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'If you faint on the day of adversity, little is your strength. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Rescue those who are led away to the death and those who stagger
+        to the slaughter. If you hold back, '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "if you say, \u201CLook, we do not know this,\u201D does not he who
+        weighs hearts perceive it? And he who keeps your soul,  he knows and will
+        repay humankind according to his deeds. "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'My child, eat honey, for it is good, and the dripping of the honeycomb
+        is sweet to your taste. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Thus know wisdom for the sake of your soul,  if you find it, then
+        there is a future, and your hope will not be cut off. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Do not lie in wait like an outlaw against the home of the righteous;
+        do not do violence to his dwelling place. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For seven times the righteous will fall, but he will rise, but the
+        wicked will be overthrown by calamity. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'While your enemies are falling, do not rejoice; when he trips himself,
+        may your heart not be glad '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'lest Yahweh see and it be evil in his eyes, and turn his anger away
+        from him. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Do not fret because of the evildoers; do not envy the wicked. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'For there will not be a future for the evil; the lamp of the wicked
+        will die out. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Fear Yahweh, my son, and the king; with those who change, do not
+        associate. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'For suddenly their disaster will come, and the ruin of both of them,
+        who knows? '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'These sayings are also for the wise: Partiality in judgment is not
+        good. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "Whoever says to the guilty, \u201CYou are righteous,\u201D the people
+        will curse him; the nations will abhor him. "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'But they who rebuke will have delight, and upon them blessings of
+        goodness will come. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'He will kiss the lips, he who gives an honest answer. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Prepare your work in the street and get it ready for yourself in
+        the field; afterward, then you shall build your house. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Do not be a witness without cause against your neighbor nor deceive
+        with your lips. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "Do not say, \u201CJust as he has done to me, so shall I do to him;
+        I will pay back the man according to his deed.\u201D "
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'I passed by the field of a lazy person, and over the vineyard of
+        a person lacking sense;  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: "and behold, it was overgrown\u2014all of it was covered with thorns,
+        its surface with nettles, and its stone wall was broken down. "
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Then I myself saw and my heart considered; I looked, and I took hold
+        of instruction: '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'A little sleep, a little slumber, a little folding of the hands for
+        rest, '
+      comments: []
+    - name: '34: '
+      title: 
+      number: 34
+      content: 'and your poverty will come running, and your lack like an armed warrior. '
+      comments: []
+  - verses:
+    - name: '1: More Proverbs of Solomon'
+      title: More Proverbs of Solomon
+      number: 1
+      content: 'These are also proverbs of Solomon which officials of Hezekiah king
+        of Judah copied: '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'The glory of God conceals things, but the glory of kings searches
+        out things. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "As heaven is to height and the earth is to depth, so is the heart
+        of kings\u2014there is no searching. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Remove the dross from silver, and it will become a vessel for the
+        smith. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Remove the wicked before a king, and his throne will be established
+        in righteousness.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Do not promote yourself before the king, and in the place of the
+        great ones do not stand. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "For it is better that he say to you, \u201CAscend here,\u201D than
+        he humble you before a noble. What your eyes have seen, "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'do not hastily bring out to court, for what will you do at its end,
+        when your neighbor puts you to shame? '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Argue your argument with your neighbor himself, the secret of another
+        do not disclose, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'lest he who hears shame you and your ill repute will not end. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Apples of gold in a setting of silver is a matter spoken at its proper
+        time. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'A ring of gold and an ornament of fine gold is a rebuke of the wise
+        to the ear of a listener. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Like the cold of snow on a day of harvest is a faithful messenger
+        to those who send him, and the soul of his master is refreshed.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Like clouds and wind when there is no rain, so too is a man who boasts
+        in a gift of deception. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'With patience a ruler may be persuaded, and a soft tongue will break
+        a bone.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'If you find honey, eat what is sufficient for you, lest you have
+        your fill of it and vomit it out. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Make your foot scarce in the house of your neighbor, lest he become
+        weary of you and hate you. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Like a club and sword and a sharp arrow is a man who bears false
+        witness against his neighbor. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'A bad tooth and a lame foot is the trust of a faithless person in
+        a time of trouble. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Like one who removes a garment on a cold day, or like vinegar on
+        natron,  is he who sings songs to a heavy heart. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'If your enemy is hungry, feed him bread, and if thirsty, let him
+        drink water. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'For coals of fire you will heap upon his head, and Yahweh will reward
+        you. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'The wind of the north produces rain, and a backbiting tongue, angry
+        faces. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Better to live upon the corner of a roof than with a woman of contention
+        and in a shared house. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Like cold water upon a weary soul,  so too is good news from a distant
+        place. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Like a muddied spring or a polluted fountain is the righteous who
+        gives way before the wicked. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "To eat much honey is not good, nor is seeking one\u2019s honor honorable. "
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'A breached city where there is no wall is like a man who has no self-control
+        for his spirit. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' Like snow in the summer and like rain at the harvest, so honor is
+        not fitting for a fool. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Like the sparrow is to fluttering and like the swallow is to flying,
+        so an undeserved curse does not go forth. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'A whip for the horse, a bridle for the donkey, and a rod for the
+        back of fools. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Do not answer a fool according to his folly lest you become like
+        him\u2014even you. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Answer a fool according to his folly, or else he will be wise in
+        his own eyes. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Like cutting off feet or drinking violence, so is he who sends messages
+        in the hand of a fool. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Like legs that hang limp from a lame person, so is a proverb in the
+        mouth of fools. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Like binding a stone in a sling, so is giving honor to a fool. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Like a thorn that goes up in the hand of a drunkard, so is a proverb
+        in the mouth of fools. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Like an archer who wounds everyone, so is he who hires a fool or
+        he who hires passersby. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Like a dog returning to his vomit is a fool reverting to his folly. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Do you see a man wise in his own eyes? There is more hope for a fool
+        than for him. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "A lazy person says \u201CA lion is in the road! A lion among the
+        streets!\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The door turns on its hinge, and a lazy person on his bed. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'A lazy person buries his hands in the dish; he is too tired to return
+        it to his mouth. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'A lazy person is wiser in his eyes than seven who answer discreetly. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Grabbing onto the ears of a dog passing by is one who meddles in
+        a quarrel that is not his own. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Like a maniac who shoots firebrands, arrows, and death, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "so is a man who deceives his neighbor, but says \u201CAm I not joking?\u201D "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'For lack of wood, a fire goes out, and where there is no whisperer,
+        quarreling will cease. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'As charcoal is to hot embers and wood is to fire, so a man of quarrels
+        is to kindling strife. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'The words of a whisperer are like delicious morsels, and they go
+        down to the inner parts of the body. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Like impure silver which overlays an earthen vessel, so are smooth
+        lips and an evil heart. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'On his lips, an enemy will pretend, but inside he will harbor deceit. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'When he makes his voice gracious, do not believe him, for seven abominations
+        are in his heart. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Though hatred is covered with guile, its evil will be exposed in
+        the assembly. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'He who digs a pit, in it he will fall, and he who rolls a stone,
+        on him it will come back. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'A tongue of deceit hates its victim, and a flattering mouth makes
+        ruin. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' Do not boast about tomorrow,  for you do not know what the day will
+        bring. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'May another praise you and not your own mouth, a stranger and not
+        your own lips. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Heavy is a stone and weighty is sand, but the provocation of a fool
+        is heavier than both of them. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Cruel is wrath and overwhelming is anger, but who will stand before
+        jealousy? '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Better a rebuke that is open than a love that is hidden. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The wounds of a friend mean well, but the kisses of an enemy are
+        profane. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'An appetite that is sated spurns honey, but to an appetite that is
+        ravenous, all bitterness is sweet. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Like a bird that strays from its nest, so is a man who strays from
+        his place. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Perfume and incense will gladden a heart, and the pleasantness of
+        one\u2019s friend is personal advice.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'As for your friend and a friend of your father, do not forsake them,
+        and the house of your brother, do not enter on the day of your calamity.
+        Better is a close neighbor than a distant brother. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Be wise, my child, and make my heart glad, and I will answer him
+        who reproaches me with a word. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'When the clever sees danger, he hides; the simple go on and suffer. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Take his garment, for he gives surety to a stranger, and to an adulteress\u2014so
+        take his pledge. "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'He who blesses his neighbor with a loud voice early in the morning,
+        a curse will be reckoned to him. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Dripping constantly on a day of heavy rain and a woman of contention
+        are alike. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'In restraining her, he restrains wind,  and his right hand will grasp
+        oil. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'As iron sharpens iron, so one man sharpens another.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'He who tends a fig tree will eat its fruit, and he who guards his
+        master will be honored. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'As the waters reflect face to face,  so the heart of a person reflects
+        the person. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Sheol and Abaddon will not be satisfied, and the eyes of a person
+        will not be satisfied either. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'A crucible is for the silver, and a furnace for the gold, but a man
+        is tested by the mouth of him who praises him. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'If you crush a fool in the mortar with the pestle along with the
+        crushed grain, it will not drive folly from upon him. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'You will surely know the condition of your flock; your heart attends
+        to the herds. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'For riches are not forever, nor a crown for generation after generation. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'When the grass is gone, then green growth will appear, and the herbs
+        of the mountains will be gathered. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Lambs will be your clothing, and goats the price of the field. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "And there will be enough goats\u2019 milk for your food, for the
+        food of your household and the nourishment of your maidservants. "
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: ' The wicked flee, but no one pursues, but the righteous is bold like
+        a lion. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'By the rebellion of a land, her rulers increase, but by a person
+        of intelligence who knows justice, it will last. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'A man who is poor and oppresses the impoverished is a beating rain
+        that leaves no food. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Those who forsake instruction will praise the wicked, but they who
+        guard instruction will struggle against them. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Men of evil do not understand justice, but seekers of Yahweh understand
+        completely.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Better to be poor and walking in one\u2019s integrity than to be
+        crooked of ways when one is rich. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'He who keeps instruction is a child of understanding, but the companion
+        of gluttons will shame his father. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'He who augments his wealth with interest and with usury gathers it
+        for him who is kind to the poor. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'He who turns his ear from listening to instruction, even his prayer
+        is an abomination. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'He who misleads the upright onto the way of evil, into his pits he
+        will fall. But as for the blameless, they will inherit good. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'A man of wealth is wise in his own eyes, but the intelligent poor
+        sees through him. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'When the righteous triumphs, great is the glory, but with the rising
+        of the wicked, a person will be hidden. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'He who conceals his transgression will not prosper, but he who confesses
+        and forsakes will obtain mercy. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Happy is the person who fears continuously, but he who is stubborn
+        of heart, will fall into calamity. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Like a roaring lion and a charging bear is a wicked ruler over a
+        poor people. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'A ruler who lacks understanding is a cruel oppressor, but those who
+        hate unjust gain will have long days. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'A person who is burdened with the blood of another,  until death
+        he will flee; do not take hold of him. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'He who walks in integrity will be safe, but he who takes crooked
+        paths will fall in one. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'He who tills his ground will have plenty bread, but he who follows
+        fantasies will have plenty of poverty. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'A man of faithfulness has abundant blessings, but he who hurries
+        to become rich will not go unpunished. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Showing partiality is not good, and over a morsel of bread, a strong
+        man will do wrong. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'He who hurries for wealth is a man with an evil eye,  but he does
+        not know that poverty will come upon him. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'He who rebukes a person will afterward find more favor than he who
+        flatters with the tongue. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "He who robs his father and his mother and says, \u201CThere is no
+        crime,\u201D is partner to a man who corrupts. "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'The greedy person will stir up strife, but he who trusts in Yahweh
+        will be enriched. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'He who trusts in his own heart is a fool, but he who walks in wisdom
+        will be saved. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'For he who gives to the poor, there is no lacking, but for he who
+        turns his eyes, there are many curses. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'With the rising of the wicked, humankind will be hidden, and with
+        their perishing, the righteous will multiply. '
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: " A man who is reproved, being stubborn of neck\u2014 suddenly he
+        will be broken, and there will not be healing. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'When the righteous are numerous, the people will rejoice, but when
+        the wicked are ruling, people will groan. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'A man who loves wisdom will make his parents glad, but the friend
+        of prostitutes will squander his wealth. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'By justice a king gives stability to a land, but a man of bribes
+        will ruin it. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'A strong man who flatters his neighbor is spreading a net for his
+        feet. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'In transgression, an evil man is a snare, but the righteous will
+        sing and rejoice.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The righteous knows the case of the poor, but the wicked does not
+        understand knowledge. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Men of scoffing set a city aflame, but the wise turn away wrath. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'If a wise man goes to court with a foolish man, then there is rankling
+        and ridicule, but there is no relief. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Men of blood hate the blameless, and they seek the life of the upright.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'A fool gives all his breath,  but the wise holds back in quiet. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'A ruler listening to a word of falsehood, all his officials are wicked. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The poor and a man of oppression have this in common: Yahweh gives
+        light to the eyes of them both.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'A king who judges with truthfulness to the poor, his throne will
+        be established forever. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'As for a rod and reproof, they will give wisdom, but a neglected
+        child is disgraced by his mother. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'With the increase of the wicked, transgression will increase, but
+        the righteous will look on his downfall. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Discipline your children, and they will give you rest, and they will
+        give delight to your soul.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'When there is no prophecy, the people cast off restraint, but as
+        for he who guards instruction, happiness is his. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'By words, a servant is not disciplined, for he will understand, but
+        there is no giving heed. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'You see a man who is hasty in his words: there is more hope for a
+        fool than him. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'He who pampers his servant from childhood, arrogance will be his
+        end.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'A man of anger will stir strife, and the owner of anger, much transgression. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'The pride of a person will bring him humiliation, and the lowly of
+        spirit will obtain honor. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "Being a partner with a thief is hating one\u2019s life;  a curse
+        he will hear, but not disclose. "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'The fear of a person will lay a snare, but he who trusts in Yahweh
+        will be secure. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Many are those who seek the favor of a ruler, but from Yahweh one
+        obtains justice.  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'A man of injustice is an abomination to the righteous, but the upright
+        is an abomination to the wicked. '
+      comments: []
+  - verses:
+    - name: '1: The Oracle of Agur'
+      title: The Oracle of Agur
+      number: 1
+      content: 'The words of Agur, son of Yakeh, the oracle. Thus says the man to
+        Ithiel, to Ithiel, and Ucal:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Certainly I am more stupid than a man, and the understanding of humankind
+        is not for me. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And I have not learned wisdom, nor will I know knowledge of the Holy
+        One.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Who has ascended to heaven and come down? Who has gathered the wind
+        in the hollow of his hand? Who has wrapped water in a garment? Who has established
+        all the ends of the earth? What is his name and what is the name of his child?
+        For surely you know. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Every word of God is flawless; he is a shield for him who takes refuge
+        in him. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Do not add to his words lest he rebuke you and you be found a liar. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Two things I ask from you; do not deny me before I die: '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Keep falsehood and a lying word far from me; do not give me poverty
+        or wealth; provide me with food only for my need. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Or else I will be satisfied and will deny him and say \u201CWho is
+        Yahweh?\u201D Or I will be poor and will steal and profane the name of my
+        God. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Do not slander a servant to his master, or else he will curse you
+        and you will be guilty. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'There is a generation that will curse its father, and its mother
+        it will not bless. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'There is a generation that is pure in its own eyes, but from its
+        filthiness it will not be cleansed. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "There is a generation\u2014how lofty are their eyes! And their eyelids
+        they will lift. "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'There is a generation whose teeth are swords, and its jawbones, knives,
+        in order to devour the poor from the earth  and the needy from humankind. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "For the leech, there are two daughters; \u201CGive, give!\u201D they
+        cry. As for three of these, they are not satisfied; as for four, they do
+        not say enough. "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Sheol and barrenness of womb, the land is not satisfied with water,
+        and fire does not say \u201Cenough!\u201D "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "The eye that mocks a father and scorns the obedience of a mother\u2014
+        the ravens of the valley will peck it out, and the offspring of vultures
+        will eat it. "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Three of these are too wonderful for me, and four, I do not understand
+        them: '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'the way of the eagle in the sky, the way of a snake on a rock, the
+        way of a ship in the heart of the sea, and the way of a man with a young
+        woman. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "This is the way of a woman committing adultery: she eats and wipes
+        her mouth, and says \u201CI have not done wrong.\u201D "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Under three things the earth trembles, and under four, it is not
+        able to bear up: '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'under a slave when he becomes king, and a fool when he is satisfied
+        with food; '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'under an unloved woman when she gets married, and a maid when she
+        succeeds her mistress. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'There are four small things on the earth, and they are exceedingly
+        wise:  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'The ants are a people who are not strong, yet they prepare their
+        food in the summer; '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'the badgers are a people who are not mighty, yet they set their house
+        on the rock; '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'there is no king for the locust, yet it marches in rank; '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'a lizard you can seize with hands, yet it is in palaces of kings. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'There are three things that are magnificent of stride, and four that
+        are magnificent when moving: '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'a mighty lion among the beasts,  but he will not turn back from any
+        face;  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'a strutting rooster or he-goat, and a king whose army is with him. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'If you have been foolish by exalting yourself, and if you have devised
+        evil, put your hand to your mouth. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: 'For pressing milk produces curd, and pressing the nose produces blood,
+        so pressing anger produces strife. '
+      comments: []
+  - verses:
+    - name: '1: The Oracle of King Lemuel'
+      title: The Oracle of King Lemuel
+      number: 1
+      content: "The words of Lemuel, the king\u2014an oracle that his mother taught
+        him: "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'What, my son? And what, my son in my womb? And what, son of my vows? '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Do not give your strength to the women, and your ways to destroy
+        kings. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'It is not for the kings, O Lemuel; drinking wine is not for the kings,
+        nor is strong drink for rulers. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Or else he will drink and forget what has been decreed, and he will
+        pervert the rights of all the afflicted.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Give strong drink to him who is perishing, and wine to those in bitter
+        distress.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'He will drink and forget his poverty, and his misery he will not
+        remember any more. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Open your mouth for the mute, for the rights of all the needy.  '
+      comments: []
+    - name: "9: An Excellent WomanProv 31:10\u201331 is an acrostic poem"
+      title: "An Excellent WomanProv 31:10\u201331 is an acrostic poem"
+      number: 9
+      content: 'Open your mouth, judge righteousness, and defend the poor and needy. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'A woman of excellence, who will find? For her worth is far more than
+        precious jewels. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The heart of her husband trusts in her, and gain he will not lack. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'She does him good, but not harm all the days of her life. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'She seeks wool and flax, and she works with the diligence of her
+        hands.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'She is like the ships of a merchant; from far off she brings her
+        food;  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And she arises while it is still night, and gives food to her household,
+        and tasks to her servant girls. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'She considers a field and buys it, from the fruit of her hand she
+        plants a vineyard. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'She girds her waist in strength, and makes her arms strong. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'She perceives that her merchandise is good; her lamp does not go
+        out in the night. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Her hands she puts onto the distaff,  and her palms hold a spindle. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Her palm she opens to the poor, and her hand she reaches out to the
+        needy. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'She does not fear for her house when it snows, for her entire household
+        is clothed in crimson. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'She makes for herself coverings; her clothing is fine linen and purple. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Her husband is known at the gates, in his seat among the elders of
+        the land. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Linen garments she makes and sells, and she supplies sashes for the
+        merchants. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Strength and dignity are her clothing, and she laughs at the future.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'She opens her mouth with wisdom, and instruction of kindness is upon
+        her tongue. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'She looks after the ways of her household, and the bread of idleness
+        she will not eat. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Her children rise and consider her happy, her husband also, and he
+        praises her; '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "\u201CMany daughters have done excellence,  but you surpass all of
+        them.\u201D "
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Charm is deceit and beauty is vain;  but a woman who fears Yahweh
+        shall be praised. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Give to her from the fruit of her hand, and may they praise her works
+        in the city gates. '
+      comments: []

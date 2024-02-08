@@ -1,0 +1,307 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: 2TH
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: II Thessalonians
+  fancyName: 
+  nickname: 2th
+  version: {fileID: 11400000, guid: f0e13320f8bc1254f8bca32b62d9305b, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Greeting'
+      title: Greeting
+      number: 1
+      content: 'Paul, Silvanus, and Timothy,To the church of the Thessalonians in
+        God our Father and the Lord Jesus Christ:'
+      comments: []
+    - name: "2: God\u2019s Final Judgment and Glory"
+      title: "God\u2019s Final Judgment and Glory"
+      number: 2
+      content: Grace to you and peace from God our Father and the Lord Jesus Christ.
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'We are bound to thank God always for you, brethren, as it is fitting,
+        because your faith grows exceedingly, and the love of every one of you all
+        abounds toward each other, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'so that we ourselves boast of you among the churches of God for your
+        patience and faith in all your persecutions and tribulations that you endure, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'which  is  manifest evidence of the righteous judgment of God, that
+        you may be counted worthy of the kingdom of God, for which you also suffer; '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'since it  is a righteous thing with God to repay with tribulation
+        those who trouble you, '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'and to give you who are troubled rest with us when the Lord Jesus
+        is revealed from heaven with His mighty angels, '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'in flaming fire taking vengeance on those who do not know God, and
+        on those who do not obey the gospel of our Lord Jesus Christ. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'These shall be punished with everlasting destruction from the presence
+        of the Lord and from the glory of His power, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: when He comes, in that Day, to be glorified in His saints and to be
+        admired among all those who believe, because our testimony among you was
+        believed.
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Therefore we also pray always for you that our God would count you
+        worthy of this calling, and fulfill all the good pleasure of His goodness
+        and the work of faith with power, '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: that the name of our Lord Jesus Christ may be glorified in you, and
+        you in Him, according to the grace of our God and the Lord Jesus Christ.
+      comments: []
+  - verses:
+    - name: '1: The Great Apostasy'
+      title: The Great Apostasy
+      number: 1
+      content: 'Now, brethren, concerning the coming of our Lord Jesus Christ and
+        our gathering together to Him, we ask you, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'not to be soon shaken in mind or troubled, either by spirit or by
+        word or by letter, as if from us, as though the day of Christ had come. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Let no one deceive you by any means; for that  Day  will  not  come 
+        unless the falling away comes first, and the man of sin is revealed, the
+        son of perdition, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: who opposes and exalts himself above all that is called God or that
+        is worshiped, so that he sits as God in the temple of God, showing himself
+        that he is God.
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Do you not remember that when I was still with you I told you these
+        things? '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And now you know what is restraining, that he may be revealed in
+        his own time. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For the mystery of lawlessness is already at work; only He who now
+        restrains will  do  so until He is taken out of the way. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And then the lawless one will be revealed, whom the Lord will consume
+        with the breath of His mouth and destroy with the brightness of His coming. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'The coming of the lawless  one is according to the working of Satan,
+        with all power, signs, and lying wonders, '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'and with all unrighteous deception among those who perish, because
+        they did not receive the love of the truth, that they might be saved. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And for this reason God will send them strong delusion, that they
+        should believe the lie, '
+      comments: []
+    - name: '12: Stand Fast'
+      title: Stand Fast
+      number: 12
+      content: that they all may be condemned who did not believe the truth but had
+        pleasure in unrighteousness.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'But we are bound to give thanks to God always for you, brethren beloved
+        by the Lord, because God from the beginning chose you for salvation through
+        sanctification by the Spirit and belief in the truth, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'to which He called you by our gospel, for the obtaining of the glory
+        of our Lord Jesus Christ. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Therefore, brethren, stand fast and hold the traditions which you
+        were taught, whether by word or our epistle.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Now may our Lord Jesus Christ Himself, and our God and Father, who
+        has loved us and given us everlasting consolation and good hope by grace, '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: comfort your hearts and establish you in every good word and work.
+      comments: []
+  - verses:
+    - name: '1: Pray for Us'
+      title: Pray for Us
+      number: 1
+      content: 'Finally, brethren, pray for us, that the word of the Lord may run
+        swiftly and be glorified, just as it  is with you, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: and that we may be delivered from unreasonable and wicked men; for
+        not all have faith.
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'But the Lord is faithful, who will establish you and guard you from
+        the evil one. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: And we have confidence in the Lord concerning you, both that you do
+        and will do the things we command you.
+      comments: []
+    - name: '5: Warning Against Idleness'
+      title: Warning Against Idleness
+      number: 5
+      content: Now may the Lord direct your hearts into the love of God and into
+        the patience of Christ.
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'But we command you, brethren, in the name of our Lord Jesus Christ,
+        that you withdraw from every brother who walks disorderly and not according
+        to the tradition which he received from us. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For you yourselves know how you ought to follow us, for we were not
+        disorderly among you; '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "nor did we eat anyone\u2019s bread free of charge, but worked with
+        labor and toil night and day, that we might not be a burden to any of you, "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: not because we do not have authority, but to make ourselves an example
+        of how you should follow us.
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For even when we were with you, we commanded you this: If anyone
+        will not work, neither shall he eat. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'For we hear that there are some who walk among you in a disorderly
+        manner, not working at all, but are busybodies. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: Now those who are such we command and exhort through our Lord Jesus
+        Christ that they work in quietness and eat their own bread.
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'But as  for you, brethren, do not grow weary in doing good. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And if anyone does not obey our word in this epistle, note that person
+        and do not keep company with him, that he may be ashamed. '
+      comments: []
+    - name: '15: Benediction'
+      title: Benediction
+      number: 15
+      content: Yet do not count him as an enemy, but admonish him as a brother.
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: Now may the Lord of peace Himself give you peace always in every way.
+        The Lord be with you all.
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: The salutation of Paul with my own hand, which is a sign in every
+        epistle; so I write.
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: The grace of our Lord Jesus Christ be with you all. Amen.
+      comments: []

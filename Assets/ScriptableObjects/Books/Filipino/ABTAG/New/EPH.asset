@@ -1,0 +1,989 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: EPH
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: EFESO
+  fancyName: 
+  nickname: eph
+  version: {fileID: 11400000, guid: b1692a818c1891646a9fe3db3324e541, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Si Pablo, na apostol ni Cristo Jesus sa pamamagitan ng kalooban
+        ng Dios, sa mga banal na nangasa Efeso, at sa mga tapat kay Cristo Jesus:  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Sumainyo nawa ang biyaya at kapayapaang mula sa Dios na ating Ama
+        at sa Panginoong Jesucristo.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Purihin nawa ang Dios at Ama ng ating Panginoong Jesucristo, na
+        siyang nagpala sa atin ng bawa''t pagpapalang ukol sa espiritu sa sangkalangitan
+        kay Cristo:  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Ayon sa pagkapili niya sa atin sa kaniya bago itinatag ang sanglibutan,
+        upang tayo''y maging mga banal at mga walang dungis sa harapan niya sa pagibig:  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Na tayo''y itinalaga niya nang una pa sa pagkukupkop na tulad sa
+        mga anak sa pamamagitan ni Jesucristo sa ganang kaniya, ayon sa minagaling
+        ng kaniyang kalooban,  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Sa ikapupuri ng kaluwalhatian ng kaniyang biyaya, na sa atin ay ipinagkaloob
+        na masagana sa Minamahal:  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Na sa kaniya''y mayroon tayo ng ating katubusan sa pamamagitan ng
+        kaniyang dugo, na kapatawaran ng ating mga kasalanan, ayon sa mga kayamanan
+        ng kaniyang biyaya,  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Na pinasagana niya sa atin, sa buong karunungan at katalinuhan,  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Na ipinakikilala niya sa atin ang hiwaga ng kaniyang kalooban, ayon
+        sa kaniyang minagaling na ipinasiya niya sa kaniya rin.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Sa pagiging katiwala sa kaganapan ng mga panahon, upang tipunin ang
+        lahat ng mga bagay kay Cristo, ang mga bagay na nangasa sangkalangitan, at
+        ang mga bagay na nangasa ibabaw ng lupa; sa kaniya, sinasabi ko,  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Tayo rin naman sa kaniya ay ginawang mana, na itinalaga na niya tayo
+        nang una pa ayon sa pasiya niyaong gumagawa ng lahat ng mga bagay ayon sa
+        pasiya ng kaniyang kalooban;  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  Upang tayo''y maging kapurihan ng kaniyang kaluwalhatian, tayong
+        nagsiasa nang una kay Cristo:  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Na sa kaniya'y kayo rin naman, pagkarinig ng aral ng katotohanan,
+        ng evangelio ng inyong kaligtasan,\u2014na sa kaniya rin naman, mula nang
+        kayo'y magsisampalataya, ay kayo'y tinatakan ng Espiritu Santo, na ipinangako,  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Na siyang patotoo sa ating mana, hanggang sa ikatutubos ng sariling
+        pagaari ng Dios, sa ikapupuri ng kaniyang kaluwalhatian.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Dahil dito ako rin naman, pagkarinig ng pananampalataya sa Panginoong
+        Jesus na nasa inyo, at ng pagibig na inyong ipinakita sa lahat ng mga banal,  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Ay hindi ako tumitigil ng pagpapasalamat dahil sa inyo, na aking
+        binabanggit kayo sa aking mga panalangin;  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Upang ipagkaloob sa inyo ng Dios ng ating Panginoong Jesucristo,
+        ng Ama ng kaluwalhatian, ang espiritu ng karunungan at ng pahayag sa pagkakilala
+        sa kaniya;  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Yamang naliwanagan ang mga mata ng inyong puso, upang maalaman ninyo
+        kung ano ang pagasa sa kaniyang pagtawag, kung ano ang mga kayamanan ng kaluwalhatian
+        ng kaniyang pamana sa mga banal,  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'At kung ano ang dakilang kalakhan ng kaniyang kapangyarihan sa ating
+        nagsisisampalataya, ayon sa gawa ng kapangyarihan ng kaniyang lakas,  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Na kaniyang ginawa kay Cristo, nang ito''y kaniyang buhaying maguli
+        sa mga patay, at pinaupo sa kaniyang kanan sa sangkalangitan,  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Sa kaibaibabawan ng lahat na pamunuan, at kapamahalaan, at kapangyarihan,
+        at pagkasakop, at sa bawa''t pangalan na ipinangungusap, hindi lamang sa
+        sanglibutang ito, kundi naman sa darating:  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'At ang lahat ng mga bagay ay pinasuko niya sa ilalim ng kaniyang
+        mga paa, at siyang pinagkaloobang maging pangulo ng lahat ng mga bagay sa
+        iglesia,  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: '  Na siyang katawan niya, na kapuspusan niyaong pumupuspos ng lahat
+        sa lahat.'
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  At kayo''y binuhay niya, nang kayo''y mga patay dahil sa inyong
+        mga pagsalangsang at mga kasalanan,  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Na inyong nilakaran noong una ayon sa lakad ng sanglibutang ito,
+        ayon sa pangulo ng mga kapangyarihan ng hangin, ng espiritu na ngayon ay
+        gumagawa sa mga anak ng pagsuway;  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Sa gitna ng mga yaon, tayo rin naman, ng ibang panahon ay nangabubuhay
+        sa mga kahalayan ng ating laman, na ating ginagawa ang mga pita ng laman
+        at ng pagiisip, at tayo noo'y katutubong mga anak ng kagalitan, gaya naman
+        ng mga iba:\u2014  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Nguni''t ang Dios, palibhasa''y mayaman sa awa, dahil sa kaniyang
+        malaking pagibig na kaniyang iniibig sa atin,  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Bagama''t tayo''y mga patay dahil sa ating mga kasalanan, tayo''y
+        binuhay na kalakip ni Cristo (sa pamamagitan ng biyaya kayo''y nangaligtas),  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'At tayo''y ibinangong kalakip niya, at pinaupong kasama niya sa sangkalangitan,
+        kay Cristo Jesus:  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Upang sa mga panahong darating ay maihayag niya ang dakilang kayamanan
+        ng kaniyang biyaya sa kagandahang-loob sa atin kay Cristo Jesus:  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Sapagka''t sa biyaya kayo''y nangaligtas sa pamamagitan ng pananampalataya;
+        at ito''y hindi sa inyong sarili, ito''y kaloob ng Dios;  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Hindi sa pamamagitan ng mga gawa, upang ang sinoman ay huwag magmapuri.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Sapagka''t tayo''y kaniyang gawa, na nilalang kay Cristo Jesus para
+        sa mabubuting gawa, na mga inihanda ng Dios nang una upang siya nating lakaran.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Kaya nga alalahanin ninyo, na kayo noong una, mga Gentil sa laman,
+        tinatawag na Di-pagtutuli niyaong tinatawag na Pagtutuli sa laman, na ginawa
+        ng mga kamay:  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Na kayo nang panahong yaon ay mga hiwalay kay Cristo, na mga di kabilang
+        sa bansa ng Israel, at mga taga ibang lupa tungkol sa mga tipan ng pangako,
+        na walang pagasa at walang Dios sa sanglibutan.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Datapuwa''t ngayon kay Cristo Jesus kayo na noong panahon ay nalalayo
+        ay inilapit sa dugo ni Cristo.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Sapagka''t siya ang ating kapayapaan, na kaniyang pinagisa ang dalawa,
+        at iginiba ang pader na nasa gitna na nagpapahiwalay,  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Na inalis ang pagkakaalit sa pamamagitan ng kaniyang laman, kahit
+        kautusan na may mga batas at ang palatuntunan; upang sa dalawa ay lalangin
+        sa kaniyang sarili ang isang taong bago, sa ganito''y ginagawa ang kapayapaan;  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'At upang papagkasunduin silang dalawa sa isang katawan sa Dios sa
+        pamamagitan ng krus, na sa kaniya''y pinatay ang pagkakaalit.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'At siya''y naparito at ipinangaral ang kapayapaan sa inyong nalalayo,
+        at ang kapayapaan sa nangalalapit:  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Sapagka''t sa pamamagitan niya tayo''y may pagpasok sa isang Espiritu
+        rin sa Ama.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Kaya nga hindi na kayo mga taga ibang lupa at mga manglalakbay, kundi
+        kayo''y mga kababayan na kasama ng mga banal, at sangbahayan ng Dios,  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: '  Na mga itinatayo sa ibabaw ng kinasasaligan ng mga apostol at ng
+        mga propeta, na si Cristo Jesus din ang pangulong bato sa panulok;  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Na sa kaniya''y ang buong gusali, na nakalapat na mabuti, ay lumalago
+        upang maging  isang templong banal sa Panginoon;  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: Na sa kaniya'y itinayo naman kayo upang maging tahanan ng Dios sa
+        Espiritu.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "  Dahil dito, akong si Pablo, na bilanggo ni Cristo Jesus dahil sa
+        inyong mga Gentil,\u2014  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Kung tunay na inyong narinig yaong pagiging katiwala sa biyaya ng
+        Dios na sa akin ay ibinigay sa ikagagaling ninyo;  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Kung paanong sa pahayag ay ipinakilala sa akin ang hiwaga, gaya
+        ng isinulat ko nang una sa ilang salita.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Sa pamamagitan niyaon, sa pagbasa ninyo, ay inyong mapagtatalastas
+        ang aking pagkakilala sa hiwaga ni Cristo;  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Na nang ibang panahon ay hindi ipinakilala sa mga anak ng mga tao,
+        na gaya ngayon na ipinahayag sa kaniyang mga banal na apostol at propeta
+        sa Espiritu;  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Na ang mga Gentil ay mga tagapagmana, at mga kasangkap ng katawan,
+        at mga may bahagi sa pangako na kay Cristo Jesus sa pamamagitan ng evangelio,  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  Na dito''y ginawa akong ministro, ayon sa kaloob ng biyayang yaon
+        ng Dios na sa akin ay ibinigay ayon sa paggawa ng kaniyang kapangyarihan.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Sa akin, na ako ang kababababaan sa lahat ng lalong mababa sa mga
+        banal, ay ibinigay ang biyayang ito, upang ipangaral sa mga Gentil ang mga
+        di malirip na mga kayamanan ni Cristo;  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'At maipakita sa lahat ng mga tao kung ano ang pagiging katiwala sa
+        hiwaga na sa lahat ng panahon ay inilihim ng Dios na lumalang ng lahat ng
+        mga bagay;  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Upang ngayo''y sa pamamagitan ng iglesia, ay maipakikilala sa mga
+        pamunuan at sa mga kapangyarihan sa sangkalangitan ang kapuspusan ng karunungan
+        ng Dios,  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Ayon sa panukalang walang hanggan na ipinanukala kay Cristo Jesus
+        na Panginoon natin:  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Na sa kaniya''y mayroon tayong lakas ng loob at pagpasok na may pagasa
+        sa pamamagitan ng ating pananampalataya sa kaniya.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Kaya nga ipinamamanhik ko na huwag kayong manglupaypay sa mga kapighatian
+        ko dahil sa inyo, na pawang kapurihan ninyo.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Dahil dito ay iniluluhod ko ang aking mga tuhod sa Ama,  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Na sa kaniya''y kumukuha ng pangalan ang bawa''t sangbahayan sa langit
+        at sa lupa,  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Upang sa inyo''y ipagkaloob niya, ayon sa mga kayamanan ng kaniyang
+        kaluwalhatian, na kayo''y palakasin ng kapangyarihan sa pamamagitan ng kaniyang
+        Espiritu sa pagkataong loob;  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Na si Cristo ay manahan sa inyong mga puso sa pamamagitan ng pananampalataya;
+        upang kung kayo''y magugat at magtumibay sa pagibig.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Ay lumakas upang matalastas pati ng lahat ng mga banal kung ano ang
+        luwang at ang haba at ang taas at lalim,  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'At makilala ang pagibig ni Cristo na di masayod ng kaalaman, upang
+        kayo''y mangapuspos hanggang sa buong kapuspusan ng Dios.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Ngayon sa makapangyarihang gumawa ng lubhang sagana ng higit sa lahat
+        ng ating hinihingi o iniisip, ayon sa kapangyarihang gumagawa sa atin,  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: Ay sumakaniya nawa ang kaluwalhatian sa iglesia at kay Cristo Jesus
+        sa buong panahon magpakailan man. Siya nawa.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Namamanhik nga sa inyo akong bilanggo sa Panginoon, na kayo''y
+        magsilakad ng nararapat sa pagkatawag na sa inyo''y itinawag,  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Ng buong kapakumbabaan at kaamuan, na may pagpapahinuhod, na mangagbatahan
+        kayo-kayo sa pagibig;  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Na pagsakitan ninyong ingatan ang pakikipagkaisa sa Espiritu sa tali
+        ng kapayapaan.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'May isang katawan, at isang Espiritu, gaya naman ng pagkatawag sa
+        inyo sa isang pagasa ng pagtawag sa inyo;  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Isang Panginoon, isang pananampalataya, isang bautismo,  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  Isang Dios at Ama ng lahat, na siyang sumasa ibabaw sa lahat, at
+        sumasa lahat, at nasa lahat.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Datapuwa''t ang bawa''t isa sa atin ay binigyan ng biyaya ayon sa
+        sukat na kaloob ni Cristo.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Kaya''t sinasabi niya,  Nang umakyat siya sa itaas ay dinala niyang
+        bihag ang pagkabihag,At nagbigay ng mga kaloob sa mga tao.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '(Ngayon ito, Umakyat Siya, ano ito, kundi siya''y bumaba rin naman
+        sa mga dakong kalaliman ng lupa?  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Ang bumaba ay siya rin namang umakyat sa kaitaasan ng buong sangkalangitan,
+        upang kaniyang mapuspos ang lahat ng mga bagay.)  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'At pinagkalooban niya ang mga iba na maging  mga apostol; at ang
+        mga iba''y propeta; at ang mga iba''y evangelista; at ang mga iba''y pastor
+        at mga guro;  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Sa ikasasakdal ng mga banal, sa gawaing paglilingkod sa ikatitibay
+        ng katawan ni Cristo:  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Hanggang sa abutin nating lahat ang pagkakaisa ng pananampalataya,
+        at ang pagkakilala sa Anak ng Dios, hanggang sa lubos na paglaki ng tao,
+        hanggang sa sukat ng pangangatawan ng kapuspusan ni Cristo:  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Upang tayo''y huwag nang maging mga bata pa, na napapahapay dito''t
+        doon at dinadala sa magkabikabila ng lahat na hangin ng aral, sa pamamagitan
+        ng mga daya ng mga tao, sa katusuhan, ayon sa mga lalang ng kamalian;  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Kundi sa pagsasalita ng katotohanan na may pagibig, ay mangagsilaki
+        sa lahat ng mga bagay sa kaniya, na siyang pangulo, sa makatuwid baga''y
+        si Cristo;  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Na dahil sa kaniya''y ang buong katawan na nakalapat na mabuti at
+        nagkakalakip sa pamamagitan ng tulong ng bawa''t kasukasuan, ayon sa paggawang
+        nauukol sa bawa''t iba''t ibang sangkap, ay nagpapalaki sa katawan sa ikatitibay
+        ng kaniyang sarili sa pagibig.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Ito nga ang sinasabi ko, at sinasaksihan sa Panginoon, na kayo''y
+        hindi na nagsisilakad pa na gaya naman ng lakad ng mga Gentil, sa pagpapalalo
+        sa kanilang pagiisip,  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Na sa kadiliman ng kanilang pagiisip, ay nangahiwalay sa buhay ng
+        Dios, dahil sa kahangalang nasa kanila, dahil sa pagmamatigas ng kanilang
+        puso;  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Na sila sa di pagkaramdam ng kahihiyan ay napahikayat sa kalibugan,
+        upang kalakalin ang lahat ng karumihan ng buong kasakiman.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Nguni''t kayo''y hindi nangatuto ng ganito kay Cristo;  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Kung tunay na siya''y inyong pinakinggan, at kayo''y tinuruan sa
+        kaniya, gaya ng katotohanan na kay Jesus.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'At inyong iwan, tungkol sa paraan ng inyong pamumuhay na nakaraan,
+        ang dating pagkatao, na sumama ng sumama ayon sa mga kahalayan ng pagdaraya;  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'At kayo''y mangagbago sa espiritu ng inyong pagiisip,  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'At kayo''y mangagbihis ng bagong pagkatao, na ayon sa Dios ay nilalang
+        sa katuwiran at sa kabanalan ng katotohanan.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Kaya nga, pagkatakuwil ng kasinungalingan, ay magsasalita ang bawa''t
+        isa sa inyo ng katotohanan sa kaniyang kapuwa: sapagka''t tayo''y mga sangkap
+        na isa''t isa sa atin.  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Kayo''y mangagalit at huwag kayong mangakasala: huwag lumubog ang
+        araw sa inyong galit:  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Ni bigyan daan man ang diablo.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Ang nagnanakaw ay huwag nang magnakaw pa: bagkus magpagal, na igawa
+        ang kaniyang mga kamay ng mabuting bagay, upang siya''y may maibigay sa nangangailangan.  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: '  Anomang salitang mahalay ay huwag lumabas sa inyong bibig, kundi
+        ang mabuting ikatitibay ayon sa pangangailangan, upang makinabang ng biyaya
+        ang mga nagsisipakinig.  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'At huwag ninyong pighatiin ang Espiritu Santo ng Dios, na sa kaniya
+        kayo''y tinatakan hanggang sa kaarawan ng pagkatubos.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Ang lahat ng kapaitan, at kagalitan, at pagkakaalit, at kadaldalan,
+        at panglilibak, ay mangaalis nawa sa inyo, pati ng lahat ng masasamang akala:  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: At magmagandang-loob kayo sa isa't isa, mga mahabagin, na mangagpatawaran
+        kayo sa isa't isa, gaya naman ng pagpapatawad sa inyo ng Dios kay Cristo.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Kayo nga''y magsitulad sa Dios, na gaya ng mga anak na minamahal;  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'At magsilakad kayo sa pagibig, gaya rin naman ng pagibig ni Cristo
+        sa inyo, at ibinigay dahil sa atin ang kaniyang sarili, na hain at handog
+        sa Dios upang maging samyo ng masarap na amoy.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Nguni''t ang pakikiapid, at ang lahat ng karumihan, o kasakiman,
+        ay huwag man lamang masambit sa inyo, gaya ng nararapat sa mga banal;  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'O ang karumihan man, o mga mangmang na pananalita, o ang mga pagbibiro,
+        na di nangararapat: kundi kayo''y magpasalamat.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Sapagka''t talastas ninyong lubos, na sinomang mapakiapid, o mahalay,
+        o masakim, na isang mapagsamba sa mga diosdiosan, ay walang anomang mamanahin
+        sa kaharian ni Cristo at ng Dios.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Huwag kayong madaya ng sinoman ng mga salitang walang kabuluhan:
+        sapagka''t dahil sa mga bagay na ito''y dumarating ang galit ng Dios sa mga
+        anak ng pagsuway.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Huwag kayong makibahagi sa kanila;  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Sapagka''t noong panahon kayo''y kadiliman, datapuwa''t ngayon kayo''y
+        kaliwanagan sa Panginoon: magsilakad kayong gaya ng mga anak ng kaliwanagan  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '(Sapagka''t ang bunga ng kaliwanagan ay nabubuo ng kabutihan at katuwiran
+        at katotohanan),  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Na inyong pinatutunayan ang kinalulugdan ng Panginoon;  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'At huwag kayong makibahagi sa mga walang mapapakinabang na gawa ng
+        kadiliman, kundi bagkus inyong sawatain;  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Sapagka''t ang mga bagay na ginagawa nila sa lihim ay mahalay na
+        salitain man lamang.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Datapuwa''t ang lahat ng mga bagay pagka sawata ay itinatanyag ng
+        kaliwanagan: sapagka''t ang lahat ng mga bagay na itinatanyag ay kaliwanagan.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Kaya sinasabi niya, Gumising kang natutulog, at magbangon ka sa gitna
+        ng mga patay, at liliwanagan ka ni Cristo.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Mangagingat nga kayong lubos kung paano kayo lumalakad, huwag gaya
+        ng mga mangmang, kundi gaya ng marurunong;  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Na inyong samantalahin ang panahon, sapagka''t ang mga araw ay masasama.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Kaya huwag kayong maging mga mangmang, kundi unawain ninyo kung ano
+        ang kalooban ng Panginoon.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'At huwag kayong magsipaglasing ng alak na kinaroroonan ng kaguluhan,
+        kundi kayo''y mangapuspos ng Espiritu;  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Na kayo''y mangagusapan ng mga salmo at mga himno at mga awit na
+        ukol sa espiritu, na nangagaawitan at nangagpupuri sa inyong mga puso sa
+        Panginoon;  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Na kayo''y laging magpasalamat sa lahat ng mga bagay sa pangalan
+        ng ating Panginoong Jesucristo sa Dios na ating Ama;  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Na pasakop kayo sa isa''t isa sa takot kay Cristo.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Mga babae, pasakop kayo sa inyo-inyong sariling asawa, na gaya ng
+        sa Panginoon.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Sapagka''t ang lalake ay pangulo ng kaniyang asawa, gaya naman ni
+        Cristo na pangulo ng iglesia, na siya rin ang tagapagligtas ng katawan.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Datapuwa''t kung paanong ang iglesia ay nasasakop ni Cristo, ay gayon
+        din naman ang mga babae ay pasakop sa kani-kaniyang asawa sa lahat ng mga
+        bagay.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Mga lalake, ibigin ninyo ang inyo-inyong asawa, gaya naman ni Cristo
+        na umibig sa iglesia, at ibinigay ang kaniyang sarili dahil sa kaniya;  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Upang kaniyang pakabanalin ito, na nilinis sa pamamagitan ng paghuhugas
+        ng tubig na may salita,  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'Upang ang iglesia ay maiharap sa kaniyang sarili na maluwalhati,
+        na walang dungis o kulubot o anomang gayong bagay; kundi ito''y nararapat
+        maging banal at walang kapintasan.  '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Gayon din naman nararapat ibigin ng mga lalake ang kani-kaniyang
+        sariling asawa, na gaya ng kanilang sariling mga katawan. Ang umiibig sa
+        kaniyang sariling asawa ay umiibig sa kaniyang sarili:  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Sapagka''t walang sinoman na napoot kailan man sa kaniyang sariling
+        katawan; kundi kinakandili at minamahal, gaya naman ni Cristo sa iglesia;  '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Sapagka''t tayo ay mga sangkap ng kaniyang katawan.  '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Dahil dito''y iiwan ng lalake ang kaniyang ama at ina, at makikisama
+        sa kaniyang asawa; at ang dalawa ay magiging isang laman.  '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'Ang hiwagang ito ay dakila: datapuwa''t sinasalita ko ang tungkol
+        kay Cristo at tungkol sa iglesia.  '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: '  Gayon man ay umibig naman ang bawa''t isa sa inyo sa kani-kaniyang
+        sariling asawa gaya ng sa kaniyang sarili; at ang babae ay gumalang sa kaniyang
+        asawa.'
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Mga anak, magsitalima kayo sa inyong mga magulang sa Panginoon:
+        sapagka''t ito''y matuwid.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Igalang mo ang iyong ama at ina (na siyang unang utos na may pangako),  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Upang yumaon kang mabuti, at ikaw ay mabuhay na malaon sa lupa.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'At, kayong mga ama, huwag ninyong ipamungkahi sa galit ang inyong
+        mga anak: kundi inyong turuan sila ayon sa saway at aral ng Panginoon.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Mga alipin, magsitalima kayo sa mga yaong ayon sa laman ay inyong
+        mga panginoon, na may takot at panginginig, sa katapatan ng inyong puso,
+        na gaya ng kay Cristo;  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Hindi ang paglilingkod sa paningin, na gaya ng pagbibigay lugod sa
+        mga tao; kundi bagkus gaya ng mga alipin ni Cristo, na ginagawa mula sa puso
+        ang kalooban ng Dios;  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  Maglingkod na may mabuting kalooban, na gaya ng sa Panginoon, at
+        hindi sa mga tao:  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Yamang napagaalaman na anomang mabuting bagay na gawin ng bawa''t
+        isa, ay gayon din ang muling tatanggapin niya sa Panginoon, maging alipin
+        o laya.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'At kayong mga panginoon, gayon din ang inyong gawin sa kanila, at
+        iwan ninyo ang mga pagbabala: yamang napagaalaman na ang Panginoon nila at
+        ninyo ay nasa langit, at sa kaniya''y walang itinatanging tao.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Sa katapustapusa''y magpakalakas kayo sa Panginoon, at sa kapangyarihan
+        ng kaniyang kalakasan.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Mangagbihis kayo ng buong kagayakan ng Dios, upang kayo''y magsitibay
+        laban sa mga lalang ng diablo.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Sapagka''t ang ating pakikibaka ay hindi laban sa laman at dugo,
+        kundi laban sa mga pamunuan, laban sa mga kapangyarihan, laban sa mga namamahala
+        ng kadilimang ito sa sanglibutan, laban sa mga ukol sa espiritu ng kasamaan
+        sa mga dakong kaitaasan.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Dahil dito magsikuha kayo ng buong kagayakan ng Dios, upang kayo''y
+        mangakatagal sa araw na masama, at kung magawa ang lahat, ay magsitibay.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Magsitibay nga kayo, na ang inyong mga baywang ay may bigkis na
+        katotohanan, na may sakbat na baluti ng katuwiran,  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'At ang inyong mga paa ay may panyapak na paghahanda ng evangelio
+        ng kapayapaan;  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Bukod dito ay taglayin ninyo ang kalasag ng pananampalataya, na siyang
+        ipapatay ninyo sa lahat ng nangagniningas na suligi ng masama.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'At magsikuha rin naman kayo ng turbante ng kaligtasan, at ng tabak
+        ng Espiritu, na siyang salita ng Dios:  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Na magsipanalangin kayo sa Espiritu ng lahat ng panalangin at daing
+        sa buong panahon, at mangagpuyat sa buong katiyagaan at daing na patungkol
+        sa lahat ng mga banal,  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'At sa akin, upang ako''y pagkalooban ng pananalita sa pagbubuka ng
+        aking bibig, upang ipakilalang may katapangan ang hiwaga ng evangelio,  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Na dahil dito ako''y isang sugong natatanikalaan; upang sa ganito
+        ako''y magsalita na may katapangan gaya ng nararapat na aking salitain.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Datapuwa''t upang mangaalaman ninyo naman ang mga bagay na ukol sa
+        akin, at ang kalagayan ko, si Tiquico na aking minamahal na kapatid at tapat
+        na ministro sa Panginoon, ay siyang magpapakilala sa inyo ng lahat ng mga
+        bagay:  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Na siyang aking sinugo sa inyo sa bagay na ito, upang makilala ninyo
+        ang aming kalagayan, at upang kaniyang aliwin ang inyong mga puso.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Kapayapaan nawa sa mga kapatid, at pagibig na may pananampalataya,
+        mula sa Dios Ama at sa Panginoong Jesucristo.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: Ang biyaya nawa'y sumalahat ng mga nagsisiibig sa ating Panginoong
+        Jesucristo ng pagibig na walang pagkasira. Siya nawa.
+      comments: []

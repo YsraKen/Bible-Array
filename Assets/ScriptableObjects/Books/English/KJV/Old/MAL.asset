@@ -1,0 +1,416 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: MAL
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Malachi
+  fancyName: 
+  nickname: mal
+  version: {fileID: 11400000, guid: bd3f8ba6a2445b646991a3e44f7f687a, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  The burden of the word of the <smallcaps>LORD</smallcaps> to Israel
+        by Malachi.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'I have loved you, saith the <smallcaps>LORD</smallcaps>. Yet ye say,
+        Wherein hast thou loved us? <i>Was</i> not Esau Jacob''s brother? saith the
+        <smallcaps>LORD</smallcaps>: yet I loved Jacob, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'and I hated Esau, and laid his mountains and his heritage waste for
+        the dragons of the wilderness. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Whereas Edom saith, We are impoverished, but we will return and build
+        the desolate places; thus saith the <smallcaps>LORD</smallcaps> of hosts,
+        They shall build, but I will throw down; and they shall call them, The border
+        of wickedness, and, The people against whom the <smallcaps>LORD</smallcaps>
+        hath indignation for ever. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And your eyes shall see, and ye shall say, The <smallcaps>LORD</smallcaps>
+        will be magnified from the border of Israel.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'A son honoureth <i>his</i> father, and a servant his master: if then
+        I <i>be</i> a father, where <i>is</i> mine honour? and if I <i>be</i> a master,
+        where <i>is</i> my fear? saith the <smallcaps>LORD</smallcaps> of hosts unto
+        you, O priests, that despise my name. And ye say, Wherein have we despised
+        thy name? '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Ye offer polluted bread upon mine altar; and ye say, Wherein have
+        we polluted thee? In that ye say, The table of the <smallcaps>LORD</smallcaps> 
+        <i>is</i> contemptible. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And if ye offer the blind for sacrifice, <i>is it</i> not evil? and
+        if ye offer the lame and sick, <i>is it</i> not evil? offer it now unto thy
+        governor; will he be pleased with thee, or accept thy person? saith the <smallcaps>LORD</smallcaps>
+        of hosts. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And now, I pray you, beseech God that he will be gracious unto us:
+        this hath been by your means: will he regard your persons? saith the <smallcaps>LORD</smallcaps>
+        of hosts.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Who <i>is there</i> even among you that would shut the doors <i>for
+        nought?</i> neither do ye kindle <i>fire</i> on mine altar for nought. I
+        have no pleasure in you, saith the <smallcaps>LORD</smallcaps> of hosts,
+        neither will I accept an offering at your hand. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'For from the rising of the sun even unto the going down of the same
+        my name <i>shall be</i> great among the Gentiles; and in every place incense
+        <i>shall be</i> offered unto my name, and a pure offering: for my name <i>shall
+        be</i> great among the heathen, saith the <smallcaps>LORD</smallcaps> of
+        hosts.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'But ye have profaned it, in that ye say, The table of the <smallcaps>LORD</smallcaps> 
+        <i>is</i> polluted; and the fruit thereof, <i>even</i> his meat, <i>is</i>
+        contemptible. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Ye said also, Behold, what a weariness <i>is it!</i> and ye have
+        snuffed at it, saith the <smallcaps>LORD</smallcaps> of hosts; and ye brought
+        <i>that which was</i> torn, and the lame, and the sick; thus ye brought an
+        offering: should I accept this of your hand? saith the <smallcaps>LORD</smallcaps>. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'But cursed <i>be</i> the deceiver, which hath in his flock a male,
+        and voweth, and sacrificeth unto the Lord a corrupt thing: for I <i>am</i>
+        a great King, saith the <smallcaps>LORD</smallcaps> of hosts, and my name
+        <i>is</i> dreadful among the heathen.'
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  And now, O ye priests, this commandment <i>is</i> for you. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'If ye will not hear, and if ye will not lay <i>it</i> to heart, to
+        give glory unto my name, saith the <smallcaps>LORD</smallcaps> of hosts,
+        I will even send a curse upon you, and I will curse your blessings: yea,
+        I have cursed them already, because ye do not lay <i>it</i> to heart. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Behold, I will corrupt your seed, and spread dung upon your faces,
+        <i>even</i> the dung of your solemn feasts; and <i>one</i> shall take you
+        away with it. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And ye shall know that I have sent this commandment unto you, that
+        my covenant might be with Levi, saith the <smallcaps>LORD</smallcaps> of
+        hosts.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'My covenant was with him of life and peace; and I gave them to him
+        <i>for</i> the fear wherewith he feared me, and was afraid before my name. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The law of truth was in his mouth, and iniquity was not found in
+        his lips: he walked with me in peace and equity, and did turn many away from
+        iniquity. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For the priest''s lips should keep knowledge, and they should seek
+        the law at his mouth: for he <i>is</i> the messenger of the <smallcaps>LORD</smallcaps>
+        of hosts. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'But ye are departed out of the way; ye have caused many to stumble
+        at the law; ye have corrupted the covenant of Levi, saith the <smallcaps>LORD</smallcaps>
+        of hosts. '
+      comments: []
+    - name: '9: One Father'
+      title: One Father
+      number: 9
+      content: 'Therefore have I also made you contemptible and base before all the
+        people, according as ye have not kept my ways, but have been partial in the
+        law.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Have we not all one father? hath not one God created us? why do we
+        deal treacherously every man against his brother, by profaning the covenant
+        of our fathers? '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Judah hath dealt treacherously, and an abomination is committed in
+        Israel and in Jerusalem; for Judah hath profaned the holiness of the <smallcaps>LORD</smallcaps>
+        which he loved, and hath married the daughter of a strange god. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The <smallcaps>LORD</smallcaps> will cut off the man that doeth this,
+        the master and the scholar, out of the tabernacles of Jacob, and him that
+        offereth an offering unto the <smallcaps>LORD</smallcaps> of hosts. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And this have ye done again, covering the altar of the <smallcaps>LORD</smallcaps>
+        with tears, with weeping, and with crying out, insomuch that he regardeth
+        not the offering any more, or receiveth <i>it</i> with good will at your
+        hand.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Yet ye say, Wherefore? Because the <smallcaps>LORD</smallcaps> hath
+        been witness between thee and the wife of thy youth, against whom thou hast
+        dealt treacherously: yet <i>is</i> she thy companion, and the wife of thy
+        covenant. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And did not he make one? Yet had he the residue of the spirit. And
+        wherefore one? That he might seek a godly seed. Therefore take heed to your
+        spirit, and let none deal treacherously against the wife of his youth. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For the <smallcaps>LORD</smallcaps>, the God of Israel, saith that
+        he hateth putting away: for <i>one</i> covereth violence with his garment,
+        saith the <smallcaps>LORD</smallcaps> of hosts: therefore take heed to your
+        spirit, that ye deal not treacherously.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Ye have wearied the <smallcaps>LORD</smallcaps> with your words. Yet
+        ye say, Wherein have we wearied <i>him?</i> When ye say, Every one that doeth
+        evil <i>is</i> good in the sight of the <smallcaps>LORD</smallcaps>, and
+        he delighteth in them; or, Where <i>is</i> the God of judgment?
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Behold, I will send my messenger, and he shall prepare the way
+        before me: and the Lord, whom ye seek, shall suddenly come to his temple,
+        even the messenger of the covenant, whom ye delight in: behold, he shall
+        come, saith the <smallcaps>LORD</smallcaps> of hosts. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'But who may abide the day of his coming? and who shall stand when
+        he appeareth? for he <i>is</i> like a refiner''s fire, and like fullers''
+        soap: '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'and he shall sit <i>as</i> a refiner and purifier of silver: and
+        he shall purify the sons of Levi, and purge them as gold and silver, that
+        they may offer unto the <smallcaps>LORD</smallcaps> an offering in righteousness.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Then shall the offering of Judah and Jerusalem be pleasant unto the
+        <smallcaps>LORD</smallcaps>, as in the days of old, and as in former years. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And I will come near to you to judgment; and I will be a swift witness
+        against the sorcerers, and against the adulterers, and against false swearers,
+        and against those that oppress the hireling in <i>his</i> wages, the widow,
+        and the fatherless, and that turn aside the stranger <i>from his right</i>,
+        and fear not me, saith the <smallcaps>LORD</smallcaps> of hosts. '
+      comments: []
+    - name: '6: Return Unto Me'
+      title: Return Unto Me
+      number: 6
+      content: 'For I <i>am</i> the <smallcaps>LORD</smallcaps>, I change not; therefore
+        ye sons of Jacob are not consumed.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Even from the days of your fathers ye are gone away from mine ordinances,
+        and have not kept <i>them</i>. Return unto me, and I will return unto you,
+        saith the <smallcaps>LORD</smallcaps> of hosts. But ye said, Wherein shall
+        we return?  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Will a man rob God? Yet ye have robbed me. But ye say, Wherein have
+        we robbed thee? In tithes and offerings. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Ye <i>are</i> cursed with a curse: for ye have robbed me, <i>even</i>
+        this whole nation. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Bring ye all the tithes into the storehouse, that there may be meat
+        in mine house, and prove me now herewith, saith the <smallcaps>LORD</smallcaps>
+        of hosts, if I will not open you the windows of heaven, and pour you out
+        a blessing, that <i>there shall</i> not <i>be room</i> enough <i>to receive
+        it</i>. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And I will rebuke the devourer for your sakes, and he shall not destroy
+        the fruits of your ground; neither shall your vine cast her fruit before
+        the time in the field, saith the <smallcaps>LORD</smallcaps> of hosts. '
+      comments: []
+    - name: '12: Final Triumph'
+      title: Final Triumph
+      number: 12
+      content: 'And all nations shall call you blessed: for ye shall be a delightsome
+        land, saith the <smallcaps>LORD</smallcaps> of hosts.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Your words have been stout against me, saith the <smallcaps>LORD</smallcaps>.
+        Yet ye say, What have we spoken <i>so much</i> against thee? '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Ye have said, It <i>is</i> vain to serve God: and what profit <i>is
+        it</i> that we have kept his ordinance, and that we have walked mournfully
+        before the <smallcaps>LORD</smallcaps> of hosts? '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'And now we call the proud happy; yea, they that work wickedness are
+        set up; yea, <i>they that</i> tempt God are even delivered.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Then they that feared the <smallcaps>LORD</smallcaps> spake often
+        one to another: and the <smallcaps>LORD</smallcaps> hearkened, and heard
+        <i>it</i>, and a book of remembrance was written before him for them that
+        feared the <smallcaps>LORD</smallcaps>, and that thought upon his name. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And they shall be mine, saith the <smallcaps>LORD</smallcaps> of
+        hosts, in that day when I make up my jewels; and I will spare them, as a
+        man spareth his own son that serveth him. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: Then shall ye return, and discern between the righteous and the wicked,
+        between him that serveth God and him that serveth him not.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  For, behold, the day cometh, that shall burn as an oven; and all
+        the proud, yea, and all that do wickedly, shall be stubble: and the day that
+        cometh shall burn them up, saith the <smallcaps>LORD</smallcaps> of hosts,
+        that it shall leave them neither root nor branch. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'But unto you that fear my name shall the Sun of righteousness arise
+        with healing in his wings; and ye shall go forth, and grow up as calves of
+        the stall. '
+      comments: []
+    - name: '3: A Call to Remembrance'
+      title: A Call to Remembrance
+      number: 3
+      content: 'And ye shall tread down the wicked; for they shall be ashes under
+        the soles of your feet in the day that I shall do <i>this</i>, saith the
+        <smallcaps>LORD</smallcaps> of hosts.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Remember ye the law of Moses my servant, which I commanded unto him
+        in Horeb for all Israel, <i>with</i> the statutes and judgments. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Behold, I will send you Elijah the prophet before the coming of the
+        great and dreadful day of the <smallcaps>LORD</smallcaps>: '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: and he shall turn the heart of the fathers to the children, and the
+        heart of the children to their fathers, lest I come and smite the earth with
+        a curse.
+      comments: []

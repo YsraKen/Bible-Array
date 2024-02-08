@@ -12,222 +12,327 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
   m_Name: TIT
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: Titus
+  <Name>k__BackingField: Tito
   fancyName: 
   nickname: tit
   version: {fileID: 11400000, guid: fc06489f21c1c3c43a353b052ba682a3, type: 2}
   description: 
   chapters:
   - verses:
-    - title: 
-      content: '    Mula kay Pablo, na lingkod[[COMMENT(0)]] ng Dios at apostol ni
-        Jesu-Cristo. Sinugo ako ng Dios upang patibayin ang pananampalataya ng kanyang
-        mga pinili, at ipaunawa sa kanila ang katotohanan tungkol sa uri ng buhay
-        na katanggap-tanggap sa kanya. '
+    - name: '1: '
+      title: 
+      number: 1
+      content: '    <i>Mula kay</i> Pablo, na lingkod[[COMMENT(0)]] ng Dios at apostol
+        ni Jesu-Cristo. Sinugo ako ng Dios upang patibayin ang pananampalataya ng
+        kanyang mga pinili, at ipaunawa sa kanila ang katotohanan tungkol sa uri
+        ng buhay na katanggap-tanggap sa kanya. '
       comments:
       - number: '1:1 '
         content: '<b>: </b>sa literal, <b>alipin.</b>'
-    - title: 
-      content: "Ang pananampalataya at pang-unawang ito ang siyang nagbibigay sa
-        atin ng pag-asa na makakamtan natin ang buhay na walang hanggan. Ang buhay
+    - name: '2: '
+      title: 
+      number: 2
+      content: "<i>Ang pananampalataya at pang-unawang ito</i> ang siyang nagbibigay
+        sa atin ng pag-asa na makakamtan natin ang buhay na walang hanggan. Ang buhay
         na ito\u02BCy ipinangako na ng Dios bago pa man niya likhain ang mundo, at
         hindi siya nagsisinungaling. "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'At ngayon na ang panahon na itinakda niya upang maihayag ang kanyang
         salita tungkol sa buhay na ito. At sa akin ipinagkatiwala ng Dios na ating
         Tagapagligtas ang pangangaral ng salitang ito.  '
       comments: []
-    - title: Ang mga Gawain ni Tito sa Crete
-      content: '  Mahal kong Tito, aking tunay na anak sa iisang pananampalataya:Sumaiyo
+    - name: '4: Ang mga Gawain ni Tito sa Crete'
+      title: Ang mga Gawain ni Tito sa Crete
+      number: 4
+      content: '  <i>Mahal kong</i> Tito, <i>aking</i> tunay na anak sa iisang pananampalataya:Sumaiyo
         nawa ang biyaya at kapayapaang galing sa Dios Ama at sa ating Tagapagligtas
         na si Cristo Jesus.  '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Iniwan kita sa Crete upang tapusin ang mga gawaing hindi ko natapos,
         gaya ng bilin ko sa iyo na pumili ng mga mamumuno sa iglesya sa bawat bayan. '
       comments: []
-    - title: 
-      content: 'Piliin mo ang may magandang reputasyon,[[COMMENT(0)]] isa lang ang
-        asawa, ang mga anak ay mananampalataya at hindi napaparatangang magulo o
-        matigas ang ulo. '
+    - name: '6: '
+      title: 
+      number: 6
+      content: '<i>Piliin mo</i> ang may magandang reputasyon,[[COMMENT(0)]] isa
+        lang ang asawa, ang mga anak ay mananampalataya at hindi napaparatangang
+        magulo o matigas ang ulo. '
       comments:
       - number: '1:6 '
         content: '<b>: </b>o, <b>walang kapintasan.</b>'
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Sapagkat kailangang maganda ang reputasyon ng isang namumuno bilang
         tagapangasiwa sa gawain ng Dios. Dapat ay hindi siya mayabang, hindi mainitin
         ang ulo, hindi lasenggo, hindi basagulero, at hindi gahaman sa pera. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Sa halip ay dapat bukas ang kanyang tahanan sa kapwa, maibigin sa
         kabutihan, marunong magpasya kung ano ang nararapat,[[COMMENT(0)]] matuwid,
         banal at marunong magpigil sa sarili. '
       comments:
       - number: '1:8 '
         content: '<b>: </b>o, <b>mapagpigil sa sarili.</b>'
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Dapat ay pinanghahawakan niyang mabuti ang mapagkakatiwalaang mensahe
         na itinuro sa kanya, upang maituro rin niya sa iba at maituwid ang mga sumasalungat
         dito. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Sapagkat marami ang hindi naniniwala sa aral na ito, lalo na ang
         grupong ipinipilit na magpatuli ang mga mananampalataya. Walang kabuluhan
         ang kanilang mga sinasabi at mga mandaraya sila. '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Kinakailangang pigilan sila, dahil nanggugulo sila sa mga sambahayan
         sa pangangaral ng mga bagay na hindi naman dapat ituro, para lang kumita
         ng salapi. '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "Isa mismo sa kanilang mga propeta ang nagsabi: \u201CAng mga taga-Crete
         ay sinungaling, asal-hayop, at mga batugang matatakaw.\u201D "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Tama ang kanyang sinabi. Kaya mahigpit mo silang pagsabihan upang
         maging wasto ang kanilang pananampalataya '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'at huwag nang pansinin ang mga kathang-isip ng mga Judio o mga kautusang
         gawa-gawa lamang ng mga taong tumalikod sa katotohanan. '
       comments: []
-    - title: 
-      content: 'Sa mga malilinis ang isip, lahat ng bagay ay malinis. Ngunit sa mga
-        marurumi ang isip at hindi sumasampalataya ay walang anumang malinis. Ang
-        totoo, narumihan ang kanilang isipan at budhi. '
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Sa mga malilinis <i>ang isip</i>, lahat ng bagay ay malinis. Ngunit
+        sa mga marurumi <i>ang isip</i> at hindi sumasampalataya ay walang anumang
+        malinis. Ang totoo, narumihan ang kanilang isipan at budhi. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Sinasabi nilang kilala nila ang Dios, ngunit hindi naman nakikita
+        sa kanilang mga gawa. Sila\u02BCy kasuklam-suklam, masuwayin at walang mabuting
+        ginagawa."
       comments: []
   - verses:
-    - title: Ang Wastong Pagtuturo
-      content: '  Ngunit ikaw, Tito, ituro mo ang naaayon sa wastong aral. '
+    - name: '1: Ang Wastong Pagtuturo'
+      title: Ang Wastong Pagtuturo
+      number: 1
+      content: '  Ngunit ikaw, <i>Tito,</i> ituro mo ang naaayon sa wastong aral. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Ang mga nakatatandang lalaki ay turuan mong maging mahinahon, marangal,
         marunong magpasya kung ano ang nararapat,[[COMMENT(0)]] at matatag sa pananampalataya,
         sa pag-ibig at sa pagtitiis. '
       comments:
       - number: '2:2 '
         content: '<b>: </b>o, <b>mapagpigil sa sarili.</b>'
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Ganoon din sa mga nakatatandang babae: turuan mo silang mamuhay nang
         maayos bilang mga mananampalataya. Huwag silang mapanira sa kapwa, at huwag
         maging mahilig sa alak. Dapat ay ituro nila ang mabuti, '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'upang maturuan nila ang mga nakababatang babae na mahalin ang kanilang
         asawa at mga anak, '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'marunong magpasya kung ano ang nararapat, malinis ang isipan, masipag
         sa tahanan, mabait, at nagpapasakop sa asawa, upang hindi mapintasan ang
-        salita ng Dios na ating itinuturo.  '
+        salita ng Dios <i>na ating itinuturo</i>.  '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Ganoon din, hikayatin mo ang mga nakababatang lalaki na magpasya
         kung ano ang nararapat. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Magpakita ka ng mabuting halimbawa sa lahat ng bagay. Maging tapat
         ka at taos-puso sa iyong pagtuturo. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Tiyakin mong tama ang iyong pananalita at walang maipipintas dito,
         upang ang mga sumasalungat sa atin ay mapahiya dahil wala silang masabing
         masama laban sa atin.  '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Turuan mo rin ang mga alipin na maging masunurin sa kanilang mga
         amo sa lahat ng bagay, upang masiyahan ang mga ito. At huwag silang maging
         palasagot. '
       comments: []
-    - title: 
-      content: "Huwag din silang mangungupit sa kanilang amo, kundi ipakita nilang
-        sila\u02BCy tapat at mapagkakatiwalaan. Nang sa ganoon, maipapakita nila
-        sa lahat ng kanilang ginagawa ang kagandahan ng ating mga itinuturo tungkol
-        sa Dios na ating Tagapagligtas.  "
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Huwag din silang mangungupit <i>sa kanilang amo</i>, kundi ipakita
+        nilang sila\u02BCy tapat at mapagkakatiwalaan. Nang sa ganoon, maipapakita
+        nila sa lahat <i>ng kanilang ginagawa</i> ang kagandahan ng ating mga itinuturo
+        tungkol sa Dios na ating Tagapagligtas.  "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Sapagkat ang biyaya ng Dios na nagbibigay ng kaligtasan ay inihayag
         na sa lahat ng tao. '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Ito ang nagtuturo sa atin na talikuran ang kasamaan at makamundong
         pagnanasa. Kaya mamuhay tayo sa mundong ito nang maayos, matuwid at makadios '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'habang hinihintay natin ang napakagandang pag-asa, na walang iba
         kundi ang maluwalhating pagbabalik ng ating dakilang Dios at Tagapagligtas
         na si Jesu-Cristo. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "Ibinigay niya ang kanyang sarili para sa atin upang tubusin tayo
         sa lahat ng kasamaan, at upang tayo\u02BCy maging mamamayan niya na malinis
         at handang gumawa ng mabuti.  "
       comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Ituro mo sa kanila ang mga bagay na ito. Gamitin mo ang iyong kapangyarihan
+        sa paghimok at pagsaway. At huwag mong hayaang hamakin ka ninuman.
+      comments: []
   - verses:
-    - title: Ang Ugaling Cristiano
+    - name: '1: Ang Ugaling Cristiano'
+      title: Ang Ugaling Cristiano
+      number: 1
       content: '  Paalalahanan mo ang mga mananampalataya na magpasakop at sumunod
         sa mga may kapangyarihan. Kinakailangang lagi silang handa sa paggawa ng
         anumang mabuti. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Huwag nilang siraan ang sinuman, at huwag silang maging palaaway,
         sa halip, dapat silang maging maunawain at mapagpakumbaba sa lahat. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Sapagkat noong una, tayo rin ay kulang sa pang-unawa tungkol sa katotohanan
         at mga masuwayin. Nilinlang at inalipin tayo ng lahat ng uri ng kahalayan
         at kalayawan. Naghari sa atin ang masamang isipan at pagkainggit. Kinapootan
         tayo ng iba, at kinapootan din natin sila. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Ngunit nang mahayag ang biyaya at pag-ibig ng Dios na ating Tagapagligtas, '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'iniligtas niya tayo, hindi dahil sa ating mabubuting gawa, kundi
         dahil sa kanyang awa. Iniligtas niya tayo sa pamamagitan ng Banal na Espiritu
         na naghugas sa atin at nagbigay ng bagong buhay. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Masaganang ibinigay sa atin ng Dios ang Banal na Espiritu sa pamamagitan
         ni Jesu-Cristo na ating Tagapagligtas, '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "upang sa kanyang biyaya\u02BCy maituring tayong matuwid at makamtan
         natin ang buhay na walang hanggan na ating inaasahan. "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "Ang mga aral na ito\u02BCy totoo at mapagkakatiwalaan. Kaya gusto
         kong ituro mo ang mga bagay na ito upang ang mga sumasampalataya sa Dios
         ay maging masigasig sa paggawa ng mabuti. Ang mga ito\u02BCy mabuti at kapaki-pakinabang
         sa lahat. "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Ngunit iwasan mo ang mga walang kwentang pagtatalo-talo, ang pagsusuri
         kung sinu-sino ang mga ninuno, at ang mga diskusyon at debate tungkol sa
         Kautusan, dahil wala itong naidudulot na mabuti. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "Pagsabihan mo ang taong sumisira sa inyong pagkakaisa. Itakwil mo
         siya kung pagkatapos ng dalawang babala\u02BCy hindi pa rin siya nagbabago. "
       comments: []
-    - title: Mga Huling Bilin
+    - name: '11: Mga Huling Bilin'
+      title: Mga Huling Bilin
+      number: 11
       content: "Alam n\u02BCyo na masama ang ganyang tao, at ang kanyang mga kasalanan
         mismo ang nagpapatunay na parurusahan siya.  "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Papupuntahin ko riyan si Artemas o si Tykicus. Kapag dumating na
         ang sinuman sa kanila, sikapin mong makapunta agad sa akin sa Nicopolis,
         dahil napagpasyahan kong doon magpalipas ng taglamig. '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Gawin mo ang iyong magagawa para matulungan sina Zenas na abogado
-        at Apolos sa kanilang paglalakbay, at tiyakin mo na hindi sila kukulangin
-        sa kanilang mga pangangailangan. '
+        at Apolos sa kanilang paglalakbay, at <i>tiyakin mo na</i> hindi sila kukulangin
+        <i>sa kanilang mga pangangailangan</i>. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'At turuan mo ang ating mga kapatid na maging masigasig sa paggawa
         ng mabuti, para makatulong sila sa mga nangangailangan. Sa ganitong paraan,
         magiging kapaki-pakinabang ang kanilang buhay.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: Kinukumusta ka ng mga kasama ko rito. Ikumusta mo rin kami sa mga
+        kapatid diyan na nagmamahal sa amin.Pagpalain nawa kayong lahat <i>ng Dios</i>.
       comments: []

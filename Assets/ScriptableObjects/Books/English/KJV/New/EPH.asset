@@ -1,0 +1,955 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: EPH
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Ephesians
+  fancyName: 
+  nickname: eph
+  version: {fileID: 11400000, guid: bd3f8ba6a2445b646991a3e44f7f687a, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Paul, an apostle of Jesus Christ by the will of God, to the saints
+        which are at Ephesus, and to the faithful in Christ Jesus: '
+      comments: []
+    - name: '2: The Gospel of Your Salvation'
+      title: The Gospel of Your Salvation
+      number: 2
+      content: 'grace <i>be</i> to you, and peace, from God our Father, and <i>from</i>
+        the Lord Jesus Christ.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Blessed <i>be</i> the God and Father of our Lord Jesus Christ, who
+        hath blessed us with all spiritual blessings in heavenly <i>places</i> in
+        Christ: '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'according as he hath chosen us in him before the foundation of the
+        world, that we should be holy and without blame before him in love: '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'having predestinated us unto the adoption of children by Jesus Christ
+        to himself, according to the good pleasure of his will, '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'to the praise of the glory of his grace, wherein he hath made us
+        accepted in the beloved. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'In whom we have redemption through his blood, the forgiveness of
+        sins, according to the riches of his grace; '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'wherein he hath abounded toward us in all wisdom and prudence; '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'having made known unto us the mystery of his will, according to his
+        good pleasure which he hath purposed in himself: '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'that in the dispensation of the fulness of times he might gather
+        together in one all things in Christ, both which are in heaven, and which
+        are on earth; <i>even</i> in him: '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'in whom also we have obtained an inheritance, being predestinated
+        according to the purpose of him who worketh all things after the counsel
+        of his own will: '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'that we should be to the praise of his glory, who first trusted in
+        Christ. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'In whom ye also <i>trusted</i>, after that ye heard the word of truth,
+        the gospel of your salvation: in whom also after that ye believed, ye were
+        sealed with that holy Spirit of promise, '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'which is the earnest of our inheritance until the redemption of the
+        purchased possession, unto the praise of his glory.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Wherefore I also, after I heard of your faith in the Lord Jesus,
+        and love unto all the saints, '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'cease not to give thanks for you, making mention of you in my prayers; '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'that the God of our Lord Jesus Christ, the Father of glory, may give
+        unto you the spirit of wisdom and revelation in the knowledge of him: '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'the eyes of your understanding being enlightened; that ye may know
+        what is the hope of his calling, and what the riches of the glory of his
+        inheritance in the saints, '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'and what <i>is</i> the exceeding greatness of his power to us-ward
+        who believe, according to the working of his mighty power, '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'which he wrought in Christ, when he raised him from the dead, and
+        set <i>him</i> at his own right hand in the heavenly <i>places</i>, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'far above all principality, and power, and might, and dominion, and
+        every name that is named, not only in this world, but also in that which
+        is to come: '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'and hath put all <i>things</i> under his feet, and gave him <i>to
+        be</i> the head over all <i>things</i> to the church, '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: which is his body, the fulness of him that filleth all in all.
+      comments: []
+  - verses:
+    - name: '1: The Household of God'
+      title: The Household of God
+      number: 1
+      content: '  And you <i>hath he quickened</i>, who were dead in trespasses and
+        sins; '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'wherein in time past ye walked according to the course of this world,
+        according to the prince of the power of the air, the spirit that now worketh
+        in the children of disobedience: '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'among whom also we all had our conversation in times past in the
+        lusts of our flesh, fulfilling the desires of the flesh and of the mind;
+        and were by nature the children of wrath, even as others. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'But God, who is rich in mercy, for his great love wherewith he loved
+        us, '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'even when we were dead in sins, hath quickened us together with Christ,
+        (by grace ye are saved;) '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'and hath raised <i>us</i> up together, and made <i>us</i> sit together
+        in heavenly <i>places</i> in Christ Jesus: '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'that in the ages to come he might shew the exceeding riches of his
+        grace in <i>his</i> kindness toward us through Christ Jesus. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For by grace are ye saved through faith; and that not of yourselves:
+        <i>it is</i> the gift of God: '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'not of works, lest any man should boast. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'For we are his workmanship, created in Christ Jesus unto good works,
+        which God hath before ordained that we should walk in them.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Wherefore remember, that ye <i>being</i> in time past Gentiles in
+        the flesh, who are called Uncircumcision by that which is called the Circumcision
+        in the flesh made by hands; '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'that at that time ye were without Christ, being aliens from the commonwealth
+        of Israel, and strangers from the covenants of promise, having no hope, and
+        without God in the world: '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'but now in Christ Jesus ye who sometimes were far off are made nigh
+        by the blood of Christ. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For he is our peace, who hath made both one, and hath broken down
+        the middle wall of partition <i>between us</i>; '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'having abolished in his flesh the enmity, <i>even</i> the law of
+        commandments <i>contained</i> in ordinances; for to make in himself of twain
+        one new man, <i>so</i> making peace; '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'and that he might reconcile both unto God in one body by the cross,
+        having slain the enmity thereby: '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'and came and preached peace to you which were afar off, and to them
+        that were nigh. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'For through him we both have access by one Spirit unto the Father. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Now therefore ye are no more strangers and foreigners, but fellowcitizens
+        with the saints, and of the household of God; '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'and are built upon the foundation of the apostles and prophets, Jesus
+        Christ himself being the chief corner <i>stone</i>; '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'in whom all the building fitly framed together groweth unto an holy
+        temple in the Lord: '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: in whom ye also are builded together for an habitation of God through
+        the Spirit.
+      comments: []
+  - verses:
+    - name: '1: The Apostle of this Gospel'
+      title: The Apostle of this Gospel
+      number: 1
+      content: '  For this cause I Paul, the prisoner of Jesus Christ for you Gentiles, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'if ye have heard of the dispensation of the grace of God which is
+        given me to you-ward: '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'how that by revelation he made known unto me the mystery; (as I wrote
+        afore in few words, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'whereby, when ye read, ye may understand my knowledge in the mystery
+        of Christ) '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'which in other ages was not made known unto the sons of men, as it
+        is now revealed unto his holy apostles and prophets by the Spirit; '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'that the Gentiles should be fellowheirs, and of the same body, and
+        partakers of his promise in Christ by the gospel: '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'whereof I was made a minister, according to the gift of the grace
+        of God given unto me by the effectual working of his power. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Unto me, who am less than the least of all saints, is this grace
+        given, that I should preach among the Gentiles the unsearchable riches of
+        Christ; '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'and to make all <i>men</i> see what <i>is</i> the fellowship of the
+        mystery, which from the beginning of the world hath been hid in God, who
+        created all things by Jesus Christ: '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'to the intent that now unto the principalities and powers in heavenly
+        <i>places</i> might be known by the church the manifold wisdom of God, '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'according to the eternal purpose which he purposed in Christ Jesus
+        our Lord: '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'in whom we have boldness and access with confidence by the faith
+        of him. '
+      comments: []
+    - name: '13: His Prayer and Appeal'
+      title: His Prayer and Appeal
+      number: 13
+      content: 'Wherefore I desire that ye faint not at my tribulations for you,
+        which is your glory.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For this cause I bow my knees unto the Father of our Lord Jesus Christ, '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'of whom the whole family in heaven and earth is named, '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'that he would grant you, according to the riches of his glory, to
+        be strengthened with might by his Spirit in the inner man; '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'that Christ may dwell in your hearts by faith; that ye, being rooted
+        and grounded in love, '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'may be able to comprehend with all saints what <i>is</i> the breadth,
+        and length, and depth, and height; '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'and to know the love of Christ, which passeth knowledge, that ye
+        might be filled with all the fulness of God. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Now unto him that is able to do exceeding abundantly above all that
+        we ask or think, according to the power that worketh in us, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: unto him <i>be</i> glory in the church by Christ Jesus throughout
+        all ages, world without end. Amen.
+      comments: []
+  - verses:
+    - name: '1: Prisoner of the Lord'
+      title: Prisoner of the Lord
+      number: 1
+      content: '  I therefore, the prisoner of the Lord, beseech you that ye walk
+        worthy of the vocation wherewith ye are called, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'with all lowliness and meekness, with longsuffering, forbearing one
+        another in love; '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'endeavouring to keep the unity of the Spirit in the bond of peace. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '<i>There is</i> one body, and one Spirit, even as ye are called in
+        one hope of your calling; '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'one Lord, one faith, one baptism, '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'one God and Father of all, who <i>is</i> above all, and through all,
+        and in you all. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'But unto every one of us is given grace according to the measure
+        of the gift of Christ. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Wherefore he saith,When he ascended up on high, he led captivity
+        captive,And gave gifts unto men.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '(Now that he ascended, what is it but that he also descended first
+        into the lower parts of the earth? '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'He that descended is the same also that ascended up far above all
+        heavens, that he might fill all things.) '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And he gave some, apostles; and some, prophets; and some, evangelists;
+        and some, pastors and teachers; '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'for the perfecting of the saints, for the work of the ministry, for
+        the edifying of the body of Christ: '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'till we all come in the unity of the faith, and of the knowledge
+        of the Son of God, unto a perfect man, unto the measure of the stature of
+        the fulness of Christ: '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'that we <i>henceforth</i> be no more children, tossed to and fro,
+        and carried about with every wind of doctrine, by the sleight of men, <i>and</i>
+        cunning craftiness, whereby they lie in wait to deceive; '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'but speaking the truth in love, may grow up into him in all things,
+        which is the head, <i>even</i> Christ: '
+      comments: []
+    - name: '16: Christian Living'
+      title: Christian Living
+      number: 16
+      content: 'from whom the whole body fitly joined together and compacted by that
+        which every joint supplieth, according to the effectual working in the measure
+        of every part, maketh increase of the body unto the edifying of itself in
+        love.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'This I say therefore, and testify in the Lord, that ye henceforth
+        walk not as other Gentiles walk, in the vanity of their mind, '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'having the understanding darkened, being alienated from the life
+        of God through the ignorance that is in them, because of the blindness of
+        their heart: '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'who being past feeling have given themselves over unto lasciviousness,
+        to work all uncleanness with greediness. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'But ye have not so learned Christ; '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'if so be that ye have heard him, and have been taught by him, as
+        the truth is in Jesus: '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'that ye put off concerning the former conversation the old man, which
+        is corrupt according to the deceitful lusts; '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'and be renewed in the spirit of your mind; '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'and that ye put on the new man, which after God is created in righteousness
+        and true holiness.  '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Wherefore putting away lying, speak every man truth with his neighbour:
+        for we are members one of another. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'Be ye angry, and sin not: let not the sun go down upon your wrath: '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'neither give place to the devil. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'Let him that stole steal no more: but rather let him labour, working
+        with <i>his</i> hands the thing which is good, that he may have to give to
+        him that needeth. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'Let no corrupt communication proceed out of your mouth, but that
+        which is good to the use of edifying, that it may minister grace unto the
+        hearers. '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'And grieve not the holy Spirit of God, whereby ye are sealed unto
+        the day of redemption. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'Let all bitterness, and wrath, and anger, and clamour, and evil speaking,
+        be put away from you, with all malice: '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: and be ye kind one to another, tenderhearted, forgiving one another,
+        even as God for Christ's sake hath forgiven you.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Be ye therefore followers of God, as dear children; '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'and walk in love, as Christ also hath loved us, and hath given himself
+        for us an offering and a sacrifice to God for a sweetsmelling savour.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'But fornication, and all uncleanness, or covetousness, let it not
+        be once named among you, as becometh saints; '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'neither filthiness, nor foolish talking, nor jesting, which are not
+        convenient: but rather giving of thanks. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For this ye know, that no whoremonger, nor unclean person, nor covetous
+        man, who is an idolater, hath any inheritance in the kingdom of Christ and
+        of God.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Let no man deceive you with vain words: for because of these things
+        cometh the wrath of God upon the children of disobedience. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Be not ye therefore partakers with them. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'For ye were sometimes darkness, but now <i>are ye</i> light in the
+        Lord: walk as children of light: '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: '(for the fruit of the Spirit <i>is</i> in all goodness and righteousness
+        and truth;) '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'proving what is acceptable unto the Lord. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And have no fellowship with the unfruitful works of darkness, but
+        rather reprove <i>them</i>. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'For it is a shame even to speak of those things which are done of
+        them in secret. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'But all things that are reproved are made manifest by the light:
+        for whatsoever doth make manifest is light. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Wherefore he saith, Awake thou that sleepest, and arise from the
+        dead, and Christ shall give thee light.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'See then that ye walk circumspectly, not as fools, but as wise, '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'redeeming the time, because the days are evil. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Wherefore be ye not unwise, but understanding what the will of the
+        Lord <i>is</i>. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And be not drunk with wine, wherein is excess; but be filled with
+        the Spirit; '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'speaking to yourselves in psalms and hymns and spiritual songs, singing
+        and making melody in your heart to the Lord; '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'giving thanks always for all things unto God and the Father in the
+        name of our Lord Jesus Christ; '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'submitting yourselves one to another in the fear of God.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Wives, submit yourselves unto your own husbands, as unto the Lord. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'For the husband is the head of the wife, even as Christ is the head
+        of the church: and he is the saviour of the body. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Therefore as the church is subject unto Christ, so <i>let</i> the
+        wives <i>be</i> to their own husbands in every thing. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Husbands, love your wives, even as Christ also loved the church,
+        and gave himself for it; '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'that he might sanctify and cleanse it with the washing of water by
+        the word, '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: 'that he might present it to himself a glorious church, not having
+        spot, or wrinkle, or any such thing; but that it should be holy and without
+        blemish. '
+      comments: []
+    - name: '28: '
+      title: 
+      number: 28
+      content: 'So ought men to love their wives as their own bodies. He that loveth
+        his wife loveth himself. '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: 'For no man ever yet hated his own flesh; but nourisheth and cherisheth
+        it, even as the Lord the church: '
+      comments: []
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'for we are members of his body, of his flesh, and of his bones. '
+      comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: 'For this cause shall a man leave his father and mother, and shall
+        be joined unto his wife, and they two shall be one flesh. '
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: 'This is a great mystery: but I speak concerning Christ and the church. '
+      comments: []
+    - name: '33: '
+      title: 
+      number: 33
+      content: Nevertheless, let every one of you in particular so love his wife
+        even as himself; and the wife <i>see</i> that she reverence <i>her</i> husband.
+      comments: []
+  - verses:
+    - name: '1: Domestic Relationships'
+      title: Domestic Relationships
+      number: 1
+      content: '  Children, obey your parents in the Lord: for this is right. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Honour thy father and mother; which is the first commandment with
+        promise; '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'that it may be well with thee, and thou mayest live long on the earth. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And, ye fathers, provoke not your children to wrath: but bring them
+        up in the nurture and admonition of the Lord.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Servants, be obedient to them that are <i>your</i> masters according
+        to the flesh, with fear and trembling, in singleness of your heart, as unto
+        Christ; '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'not with eyeservice, as menpleasers; but as the servants of Christ,
+        doing the will of God from the heart; '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'with good will doing service, as to the Lord, and not to men: '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'knowing that whatsoever good thing any man doeth, the same shall
+        he receive of the Lord, whether <i>he be</i> bond or free. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And, ye masters, do the same things unto them, forbearing threatening:
+        knowing that your Master also is in heaven; neither is there respect of persons
+        with him.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Finally, my brethren, be strong in the Lord, and in the power of
+        his might. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Put on the whole armour of God, that ye may be able to stand against
+        the wiles of the devil. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'For we wrestle not against flesh and blood, but against principalities,
+        against powers, against the rulers of the darkness of this world, against
+        spiritual wickedness in high <i>places</i>. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Wherefore take unto you the whole armour of God, that ye may be able
+        to withstand in the evil day, and having done all, to stand. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Stand therefore, having your loins girt about with truth, and having
+        on the breastplate of righteousness; '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'and your feet shod with the preparation of the gospel of peace; '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'above all, taking the shield of faith, wherewith ye shall be able
+        to quench all the fiery darts of the wicked. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And take the helmet of salvation, and the sword of the Spirit, which
+        is the word of God: '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'praying always with all prayer and supplication in the Spirit, and
+        watching thereunto with all perseverance and supplication for all saints; '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'and for me, that utterance may be given unto me, that I may open
+        my mouth boldly, to make known the mystery of the gospel, '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'for which I am an ambassador in bonds: that therein I may speak boldly,
+        as I ought to speak.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'But that ye also may know my affairs, <i>and</i> how I do, Tychicus,
+        a beloved brother and faithful minister in the Lord, shall make known to
+        you all things: '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'whom I have sent unto you for the same purpose, that ye might know
+        our affairs, and <i>that</i> he might comfort your hearts.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'Peace <i>be</i> to the brethren, and love with faith, from God the
+        Father and the Lord Jesus Christ. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: Grace <i>be</i> with all them that love our Lord Jesus Christ in sincerity.
+        Amen.Written from Rome unto the Ephesians by Tychicus.
+      comments: []

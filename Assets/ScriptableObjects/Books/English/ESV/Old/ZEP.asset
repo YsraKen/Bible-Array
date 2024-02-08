@@ -1,0 +1,402 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: ZEP
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Zephaniah
+  fancyName: 
+  nickname: zep
+  version: {fileID: 11400000, guid: dd64eb842f3dd694bae8487ce6510215, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: The Coming Judgment on Judah'
+      title: The Coming Judgment on Judah
+      number: 1
+      content: '  The word of the <smallcaps>Lord</smallcaps> that came to Zephaniah
+        the son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the
+        days of Josiah the son of Amon, king of Judah.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "  \u201CI will utterly sweep away everythingfrom the face of the
+        earth,\u201D declares the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "\u201CI will sweep away man and beast;I will sweep away the birds
+        of the heavensand the fish of the sea,and the rubble[[COMMENT(0)]] with the
+        wicked.I will cut off mankindfrom the face of the earth,\u201D declares the
+        <smallcaps>Lord</smallcaps>.  "
+      comments:
+      - number: '1:3 '
+        content: Or (that is, idols)
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CI will stretch out my hand against Judahand against all the
+        inhabitants of Jerusalem;  and I will cut off from this place the remnant
+        of Baaland the name of the idolatrous priests along with the priests,  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '  those who bow down on the roofsto the host of the heavens,  those
+        who bow down and swear to the <smallcaps>Lord</smallcaps>and yet swear by
+        Milcom,[[COMMENT(0)]]  '
+      comments:
+      - number: '1:5 '
+        content: 'Or '
+    - name: '6: The Day of the  Is Near'
+      title: The Day of the  Is Near
+      number: 6
+      content: "  those who have turned back from following the <smallcaps>Lord</smallcaps>, 
+        who do not seek the <smallcaps>Lord</smallcaps> or inquire of him.\u201D<smallcaps>Lord</smallcaps>  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  Be silent before the Lord <smallcaps>God</smallcaps>!For the day
+        of the <smallcaps>Lord</smallcaps> is near;  the <smallcaps>Lord</smallcaps>
+        has prepared a sacrificeand consecrated his guests.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And on the day of the <smallcaps>Lord</smallcaps>\u2019s sacrifice\u2014 
+        \u201CI will punish the officials and the king\u2019s sonsand all who array
+        themselves in foreign attire.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "On that day I will punisheveryone who leaps over the threshold,and
+        those who fill their master\u2019s[[COMMENT(0)]] housewith violence and fraud.  "
+      comments:
+      - number: '1:9 '
+        content: 'Or '
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201COn that day,\u201D declares the <smallcaps>Lord</smallcaps>,\u201Ca
+        cry will be heard from the Fish Gate,  a wail from the Second Quarter,a loud
+        crash from the hills.  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '  Wail, O inhabitants of the Mortar!For all the traders[[COMMENT(0)]]
+        are no more;all who weigh out silver are cut off.  '
+      comments:
+      - number: '1:11 '
+        content: 'Or '
+    - name: '12: '
+      title: 
+      number: 12
+      content: "At that time I will search Jerusalem with lamps,and I will punish
+        the men  who are complacent,[[COMMENT(0)]]  those who say in their hearts,\u2018The
+        <smallcaps>Lord</smallcaps> will not do good,nor will he do ill.\u2019  "
+      comments:
+      - number: '1:12 '
+        content: Hebrew [of their wine]
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Their goods shall be plundered,and their houses laid waste.  Though
+        they build houses,they shall not inhabit them;  though they plant vineyards,they
+        shall not drink wine from them.\u201D  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  The great day of the <smallcaps>Lord</smallcaps> is near,near and
+        hastening fast;the sound of the day of the <smallcaps>Lord</smallcaps> is
+        bitter;  the mighty man cries aloud there.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '  A day of wrath is that day,a day of distress and anguish,a day
+        of ruin and devastation,  a day of darkness and gloom,  a day of clouds and
+        thick darkness,  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '  a day of trumpet blast and battle cry  against the fortified citiesand
+        against the lofty battlements.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  I will bring distress on mankind,so that they shall walk like the
+        blind,because they have sinned against the <smallcaps>Lord</smallcaps>; 
+        their blood shall be poured out like dust,and their flesh like dung.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: '  Neither their silver nor their goldshall be able to deliver themon
+        the day of the wrath of the <smallcaps>Lord</smallcaps>.  In the fire of
+        his jealousy,  all the earth shall be consumed;  for a full and sudden endhe
+        will make of all the inhabitants of the earth.'
+      comments: []
+  - verses:
+    - name: "1: Judgment on Judah\u2019s Enemies"
+      title: "Judgment on Judah\u2019s Enemies"
+      number: 1
+      content: '  Gather together, yes, gather,O shameless nation,  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "  before the decree takes effect[[COMMENT(0)]]\u2014before the day
+        passes away like chaff\u2014  before there comes upon youthe burning anger
+        of the <smallcaps>Lord</smallcaps>,before there comes upon youthe day of
+        the anger of the <smallcaps>Lord</smallcaps>.  "
+      comments:
+      - number: '2:2 '
+        content: 'Hebrew '
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Seek the <smallcaps>Lord</smallcaps>, all you humble of the land,who
+        do his just commands;[[COMMENT(0)]]  seek righteousness; seek humility; 
+        perhaps you may be hiddenon the day of the anger of the <smallcaps>Lord</smallcaps>.  '
+      comments:
+      - number: '2:3 '
+        content: 'Or '
+    - name: '4: '
+      title: 
+      number: 4
+      content: "  For Gaza shall be deserted,and Ashkelon shall become a desolation;Ashdod\u2019s
+        people shall be driven out at noon,and Ekron shall be uprooted.  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Woe to you inhabitants of the seacoast,you nation of the Cherethites! 
+        The word of the <smallcaps>Lord</smallcaps> is against you,  O Canaan, land
+        of the Philistines;and I will destroy you until no inhabitant is left.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '  And you, O seacoast, shall be pastures,with meadows[[COMMENT(0)]]
+        for shepherdsand folds for flocks.  '
+      comments:
+      - number: '2:6 '
+        content: 'Or '
+    - name: '7: '
+      title: 
+      number: 7
+      content: '  The seacoast shall become the possessionof the remnant of the house
+        of Judah,  on which they shall graze,and in the houses of Ashkelonthey shall
+        lie down at evening.For the <smallcaps>Lord</smallcaps> their God will be
+        mindful of themand restore their fortunes.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CI have heard the taunts of Moaband the revilings of the Ammonites,how
+        they have taunted my peopleand made boasts against their territory.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Therefore, as I live,\u201D declares the <smallcaps>Lord</smallcaps>
+        of hosts,the God of Israel,\u201CMoab shall become like Sodom,and the Ammonites
+        like Gomorrah,a land possessed by nettles and salt pits,and a waste forever.The
+        remnant of my people shall plunder them,and the survivors of my nation shall
+        possess them.\u201D  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'This shall be their lot in return for their pride,because they taunted
+        and boastedagainst the people of the <smallcaps>Lord</smallcaps> of hosts.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The <smallcaps>Lord</smallcaps> will be awesome against them;  for
+        he will famish all the gods of the earth,and to him shall bow down,each in
+        its place,all the lands of the nations.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: '  You also, O Cushites,shall be slain by my sword.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And he will stretch out his hand against the north  and destroy Assyria,and
+        he will make Nineveh a desolation,a dry waste like the desert.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Herds shall lie down in her midst,all kinds of beasts;[[COMMENT(0)]] 
+        even the owl and the hedgehogshall lodge in her capitals;a voice shall hoot
+        in the window;devastation will be on the threshold;for her cedar work will
+        be laid bare.  '
+      comments:
+      - number: '2:14 '
+        content: Hebrew The identity of the animals rendered and is uncertain
+    - name: '15: '
+      title: 
+      number: 15
+      content: "This is the exultant city  that lived securely,that said in her heart,\u201CI
+        am, and there is no one else.\u201DWhat a desolation she has become,  a lair
+        for wild beasts!  Everyone who passes by herhisses and shakes his fist."
+      comments: []
+  - verses:
+    - name: '1: Judgment on Jerusalem and the Nations'
+      title: Judgment on Jerusalem and the Nations
+      number: 1
+      content: '  Woe to her who is rebellious and defiled,  the oppressing city!  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'She listens to no voice;  she accepts no correction.  She does not
+        trust in the <smallcaps>Lord</smallcaps>;she does not draw near to her God.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '  Her officials within herare roaring lions;her judges are evening
+        wolvesthat leave nothing till the morning.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: '  Her prophets are fickle, treacherous men;  her priests profane
+        what is holy;they do violence to the law.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'The <smallcaps>Lord</smallcaps> within her is righteous;he does no
+        injustice;every morning he shows forth his justice;each dawn he does not
+        fail;but the unjust knows no shame.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "  \u201CI have cut off nations;their battlements are in ruins;I have
+        laid waste their streets  so that no one walks in them;their cities have
+        been made desolate,without a man, without an inhabitant.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "  I said, \u2018Surely you will fear me;  you will accept correction.Then
+        your[[COMMENT(0)]] dwelling would not be cut offaccording to all that I have
+        appointed against you.\u2019But all the more they were eagerto make all their
+        deeds corrupt.  "
+      comments:
+      - number: '3:7 '
+        content: 'Hebrew Hebrew '
+    - name: '8: The Conversion of the Nations'
+      title: The Conversion of the Nations
+      number: 8
+      content: "\u201CTherefore wait for me,\u201D declares the <smallcaps>Lord</smallcaps>,\u201Cfor
+        the day when I rise up to seize the prey.For my decision is to gather nations,to
+        assemble kingdoms,to pour out upon them my indignation,all my burning anger;for
+        in the fire of my jealousy  all the earth shall be consumed.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CFor at that time I will change the speech of the peoplesto
+        a pure speech,that all of them may call upon the name of the <smallcaps>Lord</smallcaps>and
+        serve him with one accord.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: '  From beyond the rivers of Cushmy worshipers, the daughter of my
+        dispersed ones,shall bring my offering.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "  \u201COn that day you shall not be put to shamebecause of the deeds
+        by which you have rebelled against me;for then I will remove from your midstyour
+        proudly exultant ones,and you shall no longer be haughtyin my holy mountain.  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'But I will leave in your midsta people humble and lowly.  They shall
+        seek refuge in the name of the <smallcaps>Lord</smallcaps>,  '
+      comments: []
+    - name: "13: Israel\u2019s Joy and Restoration"
+      title: "Israel\u2019s Joy and Restoration"
+      number: 13
+      content: "  those who are left in Israel;they shall do no injusticeand speak
+        no lies,  nor shall there be found in their moutha deceitful tongue.  For
+        they shall graze and lie down,and none shall make them afraid.\u201D  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: '  Sing aloud, O daughter of Zion;shout, O Israel!Rejoice and exult
+        with all your heart,O daughter of Jerusalem!  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The <smallcaps>Lord</smallcaps> has taken away the judgments against
+        you;he has cleared away your enemies.  The King of Israel, the <smallcaps>Lord</smallcaps>,
+        is in your midst;you shall never again fear evil.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "  On that day it shall be said to Jerusalem:\u201CFear not, O Zion; 
+        let not your hands grow weak.  "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: '  The <smallcaps>Lord</smallcaps> your God is in your midst,  a mighty
+        one who will save;  he will rejoice over you with gladness;he will quiet
+        you by his love;he will exult over you with loud singing.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'I will gather those of you who mourn for the festival,so that you
+        will no longer suffer reproach.[[COMMENT(0)]]  '
+      comments:
+      - number: '3:18 '
+        content: The meaning of the Hebrew is uncertain
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Behold, at that time I will dealwith all your oppressors.And I will
+        save the lameand gather the outcast,and I will change their shame into praiseand
+        renown in all the earth.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "  At that time I will bring you in,at the time when I gather you
+        together;for I will make you renowned and praisedamong all the peoples of
+        the earth,  when I restore your fortunesbefore your eyes,\u201D says the
+        <smallcaps>Lord</smallcaps>."
+      comments: []

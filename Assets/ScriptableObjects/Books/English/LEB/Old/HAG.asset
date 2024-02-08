@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: HAG
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Haggai
+  fancyName: 
+  nickname: hag
+  version: {fileID: 11400000, guid: d0ec49142d5c7c24fb05ee739840cab0, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: The Temple Lies in Ruins'
+      title: The Temple Lies in Ruins
+      number: 1
+      content: 'In the second year of King Darius, in the sixth month, on the first
+        day, the word of Yahweh came through Haggai the prophet to Zerubbabel the
+        son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak,
+        the high priest, saying, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CThus says Yahweh of hosts: \u2018This people says, \u201CThe
+        time has not come to rebuild the temple of Yahweh.\u2019&nbsp;\u201D   "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And the word of Yahweh came through Haggai the prophet, saying, '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CIs it a time for you yourselves to dwell in your houses that
+        have been paneled while this house is desolate?\u201D "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And so then, thus says Yahweh of hosts: \u2018Consider your ways!  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "You have sown much but have harvested little. You have eaten without
+        being satisfied; you have drunk without being satiated; you have worn clothes
+        without being warm; the one who earns wages puts it in a pouch with holes.\u2019  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Thus says Yahweh of hosts: \u2018Consider your ways!  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Go up the mountain and bring wood and build the house so that I may
+        be pleased with it and honored,\u2019 says Yahweh. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u2018You have looked for much, and look! It came to little; and
+        when you brought it home, I blew it away. Why?\u2019 declares Yahweh of hosts.
+        \u2018Because my house is desolate and you are running each to your own house! "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Therefore, because of you the heavens have withheld the dew and the
+        earth has withheld its produce. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "I have called for a drought on the land and the hills, on the grain,
+        the new wine, the olive oil, on what the soil produces, on human beings and
+        wild animals, and on all their labor.\u2019&nbsp;\u201D  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Zerubbabel son of Shealtiel, Joshua son of Jehozadak, the high priest,
+        and all the remnant of the people gave heed to the voice of Yahweh their
+        God and to the words of Haggai the prophet, as Yahweh their God had sent
+        him, and the people feared Yahweh.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And Haggai the messenger of Yahweh spoke to the people with the message
+        of Yahweh, saying, \u201C&nbsp;\u2018I am with you\u2019 declares Yahweh.\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And Yahweh stirred up the spirit of Zerubbabel son of Shealtiel,
+        governor of Judah, and the spirit of Joshua son of Jehozadak, the high priest,
+        and the spirit of all the remnant of the people. And they came and did the
+        work on the house of Yahweh of hosts, their God, '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'on the twenty-fourth day of the sixth month in the second year of
+        King Darius. '
+      comments: []
+  - verses:
+    - name: '1: A Promise to Rebuild'
+      title: A Promise to Rebuild
+      number: 1
+      content: 'In the seventh month on the twenty-first day, the word of Yahweh
+        came through Haggai the prophet, saying, '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CSpeak now to Zerubbabel son of Shealtiel, governor of Judah,
+        and to Joshua son of Jehozadak, the high priest, and to the remnant of the
+        people, saying, "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "\u2018Who among you is left that saw this house in its former glory?
+        And how do you see it now? Does it seem like nothing to you?  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u2018But now take courage, Zerubbabel,\u2019 declares Yahweh. \u2018Take
+        courage, Joshua son of Jehozadak, the high priest, and take courage, all
+        the people of the land,\u2019 declares Yahweh. \u2018Do the work, because
+        I am with you,\u2019 declares Yahweh of hosts, "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u2018according to the promise that I covenanted with you when you
+        came out of Egypt. My spirit is with you; do not be afraid.\u2019 "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "For thus says Yahweh of hosts: \u2018Once again, in a little while,
+        I will shake the heavens and the earth and the sea and dry land. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "I will shake all the nations so that the treasure of all the nations
+        will come, and I will fill this house with glory,\u2019 says Yahweh of hosts. "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u2018The silver is mine and the gold is mine,\u2019 declares Yahweh
+        of hosts. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u2018The latter glory of this house will be greater than the former,\u2019
+        says Yahweh of hosts, \u2018and in this place I will give peace\u2019 declares
+        Yahweh of hosts.\u2019&nbsp;\u201D "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'On the twenty-fourth day of the ninth month, in the second year of
+        Darius, the word of Yahweh came to the prophet Haggai, saying, '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CThus says Yahweh of hosts: \u2018Ask now the priests for a
+        ruling:  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "If a man carries consecrated meat in the hem of his garment, and
+        his hem touches bread, or stew, or wine, or olive oil, or any kind of food,
+        will it become holy?\u2019&nbsp;\u201D The priests answered, \u201CNo.\u201D "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Then Haggai said, \u201CIf one who is unclean from contact with a
+        corpse touches any of these, will it become unclean?\u201D The priests answered,
+        \u201CYes, it will be become unclean.\u201D "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And Haggai answered and said, \u201C&nbsp;\u2018So it is with this
+        people, and with this nation before me,\u2019 declares Yahweh, \u2018and
+        so it is with every kind of work of their hands; and what they offer there
+        is unclean. "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'But now, please consider from this day forward, before one stone
+        was placed on another in the temple of Yahweh, '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'from that time when one came to a heap of twenty measures, there
+        were only ten, and when one came to the wine vat to draw out fifty measures,
+        there were only twenty. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "I struck you with blight, and with plant mildew, and hail, all the
+        work of your hands. But you did not come back to me,\u2019 declares Yahweh. "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "\u2018Please consider from this day forward, from the twenty-fourth
+        day of the ninth month, from the day that the foundation of Yahweh\u2019s
+        temple was laid, consider:  "
+      comments: []
+    - name: '19: The Coming Kingdom'
+      title: The Coming Kingdom
+      number: 19
+      content: "Is there still seed in the store chamber? Do the vine, the fig tree,
+        the pomegranate, and the olive tree still produce nothing? From this day
+        forward I will bless you.\u2019&nbsp;\u201D "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'And the word of Yahweh came to Haggai a second time on the twenty-fourth
+        day of the month saying, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "\u201CSay to Zerubbabel, governor of Judah: I am going to shake the
+        heavens and the earth, "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'and I will overthrow the thrones of kingdoms and destroy the military
+        strength of the kingdoms of the nations. I will overthrow chariots and their
+        drivers; horses and their riders will fall, every one by the sword of another! '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "\u2018On that day,\u2019 declares Yahweh of hosts, \u2018I will take
+        you, Zerubbabel son of Shealtiel, my servant,\u2019 declares Yahweh, \u2018and
+        I will make you a signet ring, for I have chosen you,\u2019 declares Yahweh
+        of hosts.\u201D "
+      comments: []

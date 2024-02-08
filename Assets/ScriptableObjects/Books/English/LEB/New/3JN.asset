@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: 3JN
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 3 John
+  fancyName: 
+  nickname: 3jn
+  version: {fileID: 11400000, guid: d0ec49142d5c7c24fb05ee739840cab0, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Greeting'
+      title: Greeting
+      number: 1
+      content: 'The elder, to Gaius the beloved, whom I love in the truth. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Dear friend, I pray you may prosper concerning everything and be
+        healthy, just as your soul prospers. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For I rejoiced exceedingly when the brothers came and testified to
+        your truth, just as you are walking in the truth. '
+      comments: []
+    - name: '4: Instructions to Gaius'
+      title: Instructions to Gaius
+      number: 4
+      content: 'I have no greater joy than this: that I hear my children are walking
+        in the truth. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Dear friend, you act faithfully in whatever you do for the brothers,
+        even though they are strangers. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'They have testified to your love before the church; you will do well
+        to send them on their way in a manner worthy of God. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For they have gone out on behalf of the name, accepting nothing from
+        the pagans.  '
+      comments: []
+    - name: '8: Diotrephes Causes Trouble'
+      title: Diotrephes Causes Trouble
+      number: 8
+      content: 'Therefore we ought to support such people, so that we become fellow
+        workers with the truth. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'I wrote something to the church, but Diotrephes, who wants to be
+        first among them, does not acknowledge us. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Therefore, if I come, I will call attention to the deeds he is doing,
+        disparaging us with evil words. And not being content with these, he does
+        not receive the brothers himself, and he hinders those wanting to do so and
+        throws them out of the church. '
+      comments: []
+    - name: '11: Demetrius Commended'
+      title: Demetrius Commended
+      number: 11
+      content: 'Dear friend, do not imitate what is evil, but what is good. The one
+        who does good is of God; the one who does evil has not seen God. '
+      comments: []
+    - name: '12: Conclusion and Final Greeting'
+      title: Conclusion and Final Greeting
+      number: 12
+      content: 'Demetrius has been testified to by all, even by the truth itself.
+        And we also testify to him, and you know that our testimony is true. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'I have many things to write to you, but I do not want to write to
+        you by means of ink and pen. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'But I hope to see you right away, and to speak face to face. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Peace be to you. The friends greet you. Greet the friends by name. '
+      comments: []

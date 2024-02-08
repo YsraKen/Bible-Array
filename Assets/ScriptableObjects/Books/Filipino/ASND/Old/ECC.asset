@@ -12,114 +12,171 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
   m_Name: ECC
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: Ecclesiastes
+  <Name>k__BackingField: Mangangaral
   fancyName: 
   nickname: ecc
   version: {fileID: 11400000, guid: fc06489f21c1c3c43a353b052ba682a3, type: 2}
   description: 
   chapters:
   - verses:
-    - title: Walang Kabuluhan ang Lahat
+    - name: '1: Walang Kabuluhan ang Lahat'
+      title: Walang Kabuluhan ang Lahat
+      number: 1
       content: '  Ito ang sinabi ng mangangaral[[COMMENT(0)]] na anak ni David na
         hari ng Jerusalem:  '
       comments:
       - number: '1:1 '
         content: '<b>: </b>o, <b>guro; </b>o, <b>isang matalinong tao.</b>'
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Walang kabuluhan! Walang kabuluhan ang lahat! '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Ano ang pakinabang ng tao sa pagpapakahirap niyang magtrabaho sa
         mundong ito? '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Lumilipas ang isang henerasyon at napapalitan, pero ang mundo ay
         hindi nagbabago. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Sumisikat ang araw at pagkatapos ay lumulubog; pabalik-balik lang
         sa kanyang pinanggalingan. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Umiihip ang hangin sa timog at pagkatapos ay iihip naman sa hilaga.
         Paikot-ikot lang ito at pabalik-balik. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Lahat ng ilog ay umaagos sa dagat, pero hindi naman napupuno ang
         dagat kahit na patuloy ang pag-agos ng ilog. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "Ang lahat ng ito\u02BCy nakakabagot at ayaw na ngang pag-usapan.
         Hindi nagsasawa ang mga mata natin sa katitingin at ang mga tainga natin
         sa pakikinig. "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Ang mga nangyari noon, nangyayari ulit ngayon. Ang mga ginawa noon,
         ginagawa ulit ngayon. Walang nangyayaring bago sa mundo. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'May mga bagay pa ba na masasabi mong bago? Nariyan na iyan noon pa,
         kahit noong hindi pa tayo ipinapanganak. '
       comments: []
-    - title: Ang Karunungan ng Tao ay Walang Kabuluhan
+    - name: '11: Ang Karunungan ng Tao ay Walang Kabuluhan'
+      title: Ang Karunungan ng Tao ay Walang Kabuluhan
+      number: 11
       content: 'Hindi na natin naaalala ang mga nangyari noon; ganoon din sa hinaharap,
         hindi rin ito maaalala ng mga tao sa bandang huli.  '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Ako na isang mangangaral ay naging hari ng Israel. Tumira ako sa
         Jerusalem. '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Sa aking karunungan, pinag-aralan kong mabuti ang lahat ng nangyayari
         rito sa mundo. At nakita kong napakahirap ng gawaing ibinigay ng Dios sa
         mga tao. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Nakita kong walang kabuluhan ang lahat ng ginagawa ng tao rito sa
-        mundo. Para kang humahabol sa hangin. '
+        mundo. Para <i>kang</i> humahabol sa hangin. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Ang baluktot ay hindi mo maitutuwid at ang wala ay hindi mo maibibilang.  '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "Sinabi ko sa aking sarili, \u201CMas marunong ako kaysa sa lahat
         ng naging hari sa Jerusalem. Marami akong alam.\u201D "
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'Pinag-aralan kong mabuti ang pagkakaiba ng karunungan at kamangmangan,
-        pero nakita kong wala rin itong kabuluhan. Para kang humahabol sa hangin. '
+        pero nakita kong wala rin itong kabuluhan. Para <i>kang</i> humahabol sa
+        hangin. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: Dahil habang nadadagdagan ang kaalaman ko, nadadagdagan din ang aking
+        kalungkutan.
       comments: []
   - verses:
-    - title: Ang Kasayahan ay Walang Kabuluhan
+    - name: '1: Ang Kasayahan ay Walang Kabuluhan'
+      title: Ang Kasayahan ay Walang Kabuluhan
+      number: 1
       content: '  Sinubukan kong magpakasaya sa mga layaw ng buhay. Pero nakita kong
         wala rin itong kabuluhan. '
       comments: []
-    - title: 
-      content: 'Kamangmangan ang sobrang pagtawa at ang pagpapakasaya ay wala ring
-        kabuluhan. '
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Kamangmangan ang <i>sobrang</i> pagtawa at ang pagpapakasaya ay wala
+        ring kabuluhan. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Sinubukan kong magpakasaya sa pag-inom ng alak. Kahit na marunong
         ako, sinubukan kong gumawa ng kamangmangan. Naisip ko lang na baka iyon ang
         pinakamabuting gawin ng tao sa maikling buhay niya dito sa mundo.  '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Gumawa ako ng mga dakilang bagay: Nagpagawa ako ng mga bahay at nagtanim
         ng mga ubas. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Nagpagawa ako ng mga taniman at pinataniman ko ito ng sari-saring
         puno na namumunga. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Nagpagawa ako ng mga imbakan ng tubig para patubigan ang mga pananim. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Bumili ako ng mga lalaki at babaeng alipin, at may mga alipin din
         ako na ipinanganak sa aking bahay. At ako ang may pinakamaraming kawan ng
         hayop sa lahat ng naging mamamayan ng Jerusalem. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "Nakaipon ako ng napakaraming ginto, pilak at iba pang mga kayamanang
         galing sa mga hari at mga lugar na aking nasasakupan. Marami akong mang-aawit,
         lalaki man o babae at marami rin akong mga asawa[[COMMENT(0)]] \u202F\u2013\u202Fang
@@ -127,236 +184,368 @@ MonoBehaviour:
       comments:
       - number: '2:8 '
         content: '<b>: </b>Hindi malinaw ang ibig sabihin nito sa Hebreo.'
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Ako ang pinakamayaman at pinakamarunong na taong nabuhay sa buong
         Jerusalem.  '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Nakukuha ko ang lahat ng magustuhan ko. Ginawa ko ang lahat ng inakala
         kong makapagpapaligaya sa akin. Nasiyahan ako sa lahat ng pinaghirapan ko.
         Ito ang gantimpala sa lahat ng pagsusumikap ko. '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Pero nang isipin kong mabuti ang lahat ng ginawa at pinaghirapan
         ko, naisip ko na walang kabuluhan ang lahat ng pinagsikapan ko rito sa mundo. '
       comments: []
-    - title: Ang Karunungan at Kamangmangan ay Walang Kabuluhan
+    - name: '12: Ang Karunungan at Kamangmangan ay Walang Kabuluhan'
+      title: Ang Karunungan at Kamangmangan ay Walang Kabuluhan
+      number: 12
       content: 'Ano pa ba ang magagawa ng susunod na hari? Ano pa nga ba, kundi iyong
         nagawa na rin noong una.Sinubukan ko ring ihambing ang karunungan at ang
         kamangmangan. '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'At nakita kong mas mabuti ang karunungan kaysa sa kamangmangan, gaya
         ng liwanag na mas mabuti kaysa sa kadiliman. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Alam ng marunong ang patutunguhan niya, ngunit ang hangal ay lumalakad
         sa kadiliman. Pero nalaman ko ring pareho lang silang mamamatay. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "Kaya sinabi ko sa aking sarili, \u201CAng sinapit ng mangmang ay
         sasapitin ko rin. Kaya anong kabutihan ang mapapala ng pagiging marunong
         ko? Wala talaga itong kabuluhan!\u201D "
       comments: []
-    - title: Walang Kabuluhan ang Pagsusumikap
+    - name: '16: Walang Kabuluhan ang Pagsusumikap'
+      title: Walang Kabuluhan ang Pagsusumikap
+      number: 16
       content: 'Lahat tayo, marunong man o mangmang ay pare-parehong mamamatay at
         makakalimutan.  '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'Kaya kinamuhian ko ang buhay, dahil kahirapan ang dulot ng lahat
         ng ginagawa rito sa mundo. Ang lahat ng ito ay walang kabuluhan, para ka
         lang humahabol sa hangin. '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Kinaiinisan ko ang lahat ng pinaghirapan ko dito sa mundo, dahil
         maiiwan ko lang ang mga ito sa susunod sa akin. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'At sino ang nakakaalam kung marunong siya o mangmang? Maging ano
         man siya, siya pa rin ang magmamay-ari ng lahat ng pinaghirapan ko ng buong
         lakas at karunungan. Wala rin itong kabuluhan! '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'Kaya nanghinayang ako sa lahat ng pinaghirapan ko rito sa mundo. '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: 'Dahil kahit magsikap ka gamit ang buo mong talino, isip at kakayahan,
         iiwan mo rin ang lahat ng pinaghirapan mo sa taong hindi naghirap para sa
         mga bagay na ito. Ito man ay wala ring kabuluhan at hindi makatarungan. '
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'Kaya ano ang makukuha ng tao sa lahat ng pagsusumikap niya rito sa
         mundo? '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: "Lahat ng pinagsumikapan niya sa buong buhay niya\u02BCy makapagpapasama
         lang ng kanyang kalooban. Kaya kahit sa gabi ay hindi siya makatulog. Wala
         rin itong kabuluhan!  "
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: 'Ang pinakamagandang gawin ng tao ay kumain, uminom at pakinabangan
         ang mga pinaghirapan niya. Nalaman ko na galing ito sa Dios, '
       comments: []
-    - title: 
-      content: 'dahil paano natin makakain at mapapakinabangan ang mga pinaghirapan
-        natin kung hindi ito ibibigay ng Dios? '
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'dahil paano natin makakain at mapapakinabangan <i>ang mga pinaghirapan
+        natin</i> kung hindi ito ibibigay ng Dios? '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: Dahil ang taong nagbibigay-lugod sa Dios ay binibigyan niya ng karunungan,
+        kaalaman at kagalakan. At ang makasalanan ay binibigyan ng Dios ng trabaho
+        upang mag-ipon ng kayamanan para ibigay sa taong nagbibigay-lugod sa Dios.
+        Kaya lahat ng pagsisikap ng makasalanan ay walang kabuluhan. Para <i>siyang</i>
+        humahabol sa hangin.
       comments: []
   - verses:
-    - title: May Kanya-kanyang Oras ang Lahat
+    - name: '1: May Kanya-kanyang Oras ang Lahat'
+      title: May Kanya-kanyang Oras ang Lahat
+      number: 1
       content: '  May oras na nakatakda para sa lahat ng gawain dito sa mundo:  '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'May oras ng pagsilang at may oras ng kamatayan;may oras ng pagtatanim
         at may oras ng pag-aani.  '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'May oras ng pagpatay at may oras ng pagpapagaling;may oras ng pagsira
         at may oras ng pagpapatayo.  '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'May oras ng pagluha at may oras ng pagtawa;may oras ng pagluluksa
         at may oras ng pagdiriwang.  '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'May oras ng pagkakalat ng bato at may oras ng pagtitipon nito;may
         oras ng pagsasama[[COMMENT(0)]] at may oras ng paghihiwalay.  '
       comments:
       - number: '3:5 '
         content: '<b>: </b>sa literal, <b>pagyayakapan.</b>'
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'May oras ng paghahanap at may oras ng paghinto ng paghahanap;may
         oras ng pagtatago at may oras ng pagtatapon.  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'May oras ng pagpunit at may oras ng pagtahi;may oras ng pagtahimik
         at may oras ng pagsasalita.  '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'May oras ng pagmamahal at may oras ng pagkagalit;may oras ng digmaan
         at may oras ng kapayapaan.  '
       comments: []
-    - title: 
-      content: '  Kung ang mga oras na ito ay itinakda na ng Dios, ano ngayon ang
-        kabuluhan ng pagsisikap ng tao? '
+    - name: '9: '
+      title: 
+      number: 9
+      content: '  <i>Kung ang mga oras na ito ay itinakda na ng Dios,</i> ano ngayon
+        ang kabuluhan ng pagsisikap ng tao? '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Nakita ko ang mga gawaing itinakda ng Dios para sa tao. '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'At lahat ng ito ay itinadhana ng Dios na mangyari sa takdang panahon.
         Binigyan niya tayo ng pagnanais na malaman ang hinaharap, pero hindi talaga
         natin mauunawaan ang mga ginawa niya mula noong simula hanggang wakas. '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Naisip ko na walang pinakamabuting gawin ang tao kundi magsaya at
         gumawa ng mabuti habang nabubuhay. '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Gusto ng Dios na kumain tayo, uminom at magpakasaya sa mga pinaghirapan
         natin dahil ang mga bagay na ito\u02BCy regalo niya sa atin. "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Alam kong ang lahat ng ginagawa ng Dios ay magpapatuloy magpakailanman
         at wala tayong maaaring idagdag o ibawas dito. Ginagawa ito ng Dios para
         magkaroon tayo ng paggalang sa kanya. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Ang mga nangyayari ngayon at ang mga mangyayari pa lang ay nangyari
         na noon. Inuulit lang ng Dios ang mga pangyayari.  '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'Nakita ko rin na ang kasamaan ang naghahari rito sa mundo sa halip
         na katarungan at katuwiran. '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: "Sinabi ko sa sarili ko, \u201CHahatulan ng Dios ang matutuwid at
         masasamang tao, dahil may itinakda siyang oras sa lahat ng bagay. "
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Sinusubok ng Dios ang mga tao para ipakita sa kanila na tulad sila
         ng mga hayop. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'Ang kapalaran ng tao ay tulad ng sa hayop; pareho silang mamamatay.
         Pareho silang may hininga, kaya walang inilamang ang tao sa hayop. Talagang
         walang kabuluhan ang lahat! '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'Iisa lang ang patutunguhan ng lahat. Lahat ay nagmula sa lupa at
         sa lupa rin babalik. '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: "Sino ang nakakaalam kung ang espiritu ng tao\u02BCy umaakyat sa itaas
         at ang espiritu ng hayop ay bumababa sa ilalim ng lupa?\u201D "
       comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: Kaya naisip ko na ang pinakamabuting gawin ng tao ay magpakasaya sa
+        pinaghirapan niya, dahil para sa kanya iyon. Walang sinumang makapagsasabi
+        sa kanya kung ano ang mangyayari kapag siya ay namatay.
+      comments: []
   - verses:
-    - title: 
+    - name: '1: '
+      title: 
+      number: 1
       content: '  Nakita ko ulit ang mga pang-aapi rito sa mundo. Umiiyak ang mga
         inaapi, pero walang tumutulong sa kanila dahil makapangyarihan ang mga umaapi
         sa kanila. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Kaya nasabi kong mas mabuti pa ang mga patay kaysa sa mga buhay. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Pero higit na mabuti ang mga hindi pa ipinapanganak, na hindi pa
         nakakakita ng kasamaan dito sa mundo.  '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Nakita ko rin na nagsusumikap ang mga tao at ginagawa ang lahat ng
         makakaya dahil naiinggit sila sa kanilang kapwa. Wala itong kabuluhan; para
         silang humahabol sa hangin.  '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Hangal ang taong tamad, kaya halos mamatay sa gutom. '
       comments: []
-    - title: 
-      content: 'Mas mabuti pang magkaroon ng isang dakot na pagkain pero may kapayapaan,
-        kaysa sa maraming pagkain pero hirap na hirap naman sa pagtatrabaho at nauuwi
-        lang sa wala ang lahat. Para ka lang humahabol sa hangin.  '
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Mas mabuti pang magkaroon ng isang dakot na <i>pagkain pero</i> may
+        kapayapaan, kaysa sa maraming <i>pagkain pero</i> hirap na hirap naman sa
+        pagtatrabaho <i>at nauuwi lang sa wala ang lahat</i>. Para ka lang humahabol
+        sa hangin.  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'May nakita pa ako sa mundong ito na walang kabuluhan. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "May isang taong nag-iisa sa buhay. Wala siyang anak at wala ring
         kapatid. Pero wala siyang tigil sa pagtatrabaho at hindi nakokontento sa
-        kanyang kayamanan. Sinabi niya sa kanyang sarili, \u201CHindi na ako nakakapagsaya
-        dahil sa sobrang pagtatrabaho. Pero wala naman akong mapag-iiwanan ng aking
-        mga pinaghirapan.\u201D Wala itong kabuluhan! At napakalungkot ng ganitong
-        klase ng buhay.  "
+        kanyang kayamanan. <i>Sinabi niya sa kanyang sarili,</i> \u201CHindi na ako
+        nakakapagsaya dahil sa sobrang pagtatrabaho. Pero wala naman akong mapag-iiwanan
+        ng aking mga pinaghirapan.\u201D Wala itong kabuluhan! At napakalungkot ng
+        ganitong klase ng buhay.  "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Mas mabuti ang may kasama kaysa mag-isa; mas marami silang magagawa. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Kapag nadapa ang isa sa kanila maitatayo siya ng kanyang kasama.
         Kaya nakakaawa ang taong nag-iisa at nadapa, dahil walang tutulong sa kanya. '
       comments: []
-    - title: 
-      content: 'Kapag malamig, pwede kayong matulog nang magkatabi at pareho kayong
-        maiinitan. Pero kung nag-iisa ka, papaano ka maiinitan? '
+    - name: '11: '
+      title: 
+      number: 11
+      content: '<i>Kapag malamig,</i> pwede kayong matulog nang magkatabi at pareho
+        kayong maiinitan. Pero kung nag-iisa ka, papaano ka maiinitan? '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Madali kang matalo kung nag-iisa ka, pero kung may kasama ka, mahirap
         kayong talunin. Tulad din ng lubid na may tatlong pilipit na hibla, mahirap
         itong malagot.  '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Mas mabuti pa ang isang batang mahirap pero marunong, kaysa sa isang
         matandang hari pero hangal at ayaw tumanggap ng payo. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'At maaaring maging hari ang batang iyon kahit siya ay nakulong at
         ang matandang hari namang iyon ay maaaring maghirap kahit na ipinanganak
         pa siyang dugong bughaw. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Pero naisip ko na kahit maraming tao dito sa mundo ang susunod sa
         batang iyon na pumalit sa hari, '
       comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: at hindi mabilang ang mga taong paghaharian niya, maaaring hindi rin
+        masisiyahan sa kanya ang susunod na henerasyon. Ito man ay wala ring kabuluhan.
+        Para kang humahabol sa hangin.
+      comments: []
   - verses:
-    - title: Huwag Pabigla-bigla sa Pangako
+    - name: '1: Huwag Pabigla-bigla sa Pangako'
+      title: Huwag Pabigla-bigla sa Pangako
+      number: 1
       content: '  Mag-ingat ka sa ikikilos mo kung pupunta ka sa templo ng Dios.
         Mas mabuting pumunta ka roon na handang sumunod[[COMMENT(0)]] sa Dios, kaysa
         sa maghandog na gaya ng paghahandog ng isang mangmang na hindi alam kung
@@ -364,25 +553,35 @@ MonoBehaviour:
       comments:
       - number: '5:1 '
         content: '<b>: </b>o, <b>makinig.</b>'
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Huwag kang pabigla-bigla sa pagsasalita. Mag-isip ka muna nang mabuti
         bago ka mangako sa Dios. Tandaan mo na ang Dios ay nasa langit at ikaw ay
         nandito sa lupa. Kaya mag-ingat ka sa pagsasalita. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Kung papaanong madaling managinip kapag maraming alalahanin, madali
         ring makapagsalita ng kamangmangan kung padalos-dalos ka sa iyong pagsasalita. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Kapag nangako ka sa Dios, tuparin mo agad ito. Tuparin mo ang ipinangako
-        mo sa kanya dahil hindi siya natutuwa sa mga hangal na hindi tumutupad sa
-        mga pangako. '
+        mo sa kanya dahil hindi siya natutuwa sa mga hangal <i>na hindi tumutupad
+        sa mga pangako</i>. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Mas mabuti pang huwag ka na lang mangako kaysa mangako ka at hindi
         mo naman tutuparin. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Huwag kang magkasala sa iyong pagsasalita. At huwag mong sabihin
         sa pari[[COMMENT(0)]] na nasa templo na hindi mo sinasadya ang iyong pangako
         sa Dios. Dahil magagalit ang Dios kung gagawin mo ito at sisirain niya ang
@@ -391,237 +590,386 @@ MonoBehaviour:
       - number: '5:6 '
         content: '<b>: </b>sa literal, <b>mensahero; </b>o, <b>anghel. </b>Sa tekstong
           Septuagint at Syriac, <b>Dios.</b>'
-    - title: Walang Kabuluhan ang Kayamanan
+    - name: '7: Walang Kabuluhan ang Kayamanan'
+      title: Walang Kabuluhan ang Kayamanan
+      number: 7
       content: 'Ang sobrang pananaginip at pagsasalita ay walang kabuluhan. Sa halip,
         matakot ka sa Dios.  '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Huwag kang magtaka kung makita mo sa inyong lugar na ang mga mahihirap
         ay inaapi at pinagkakaitan ng katarungan at karapatan. Dahil ang mga pinunong
-        gumigipit sa kanila ay inaalagaan ng mas nakatataas na pinuno, at ang dalawang
-        ito ay inaalagaan ng mas mataas pang pinuno. '
+        <i>gumigipit sa kanila</i> ay inaalagaan ng mas nakatataas na pinuno, at
+        ang dalawang ito ay inaalagaan ng mas mataas pang pinuno. '
       comments: []
-    - title: 
-      content: 'Pero mas lamang pa rin ang nakukuha ng hari sa kita ng lupain ng
-        mahihirap, kaysa sa lahat ng mga pinuno.  '
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Pero mas lamang pa rin ang nakukuha ng hari sa kita ng lupain <i>ng
+        mahihirap</i>, kaysa sa lahat <i>ng mga pinuno</i>.  '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Ang taong maibigin sa pera at iba pang kayamanan, kailanman ay hindi
         masisiyahan. Wala rin itong kabuluhan. '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Kung dumarami ang kayamanan mo, dumarami rin ang nakikinabang nito,
         kaya wala kang mapapala sa kayamanan mo kundi pagmasdan lang ito. '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Mahimbing ang tulog ng isang manggagawa, marami man o kaunti ang
         pagkain niya; pero ang mayaman, hindi makatulog nang mahimbing dahil sa kanyang
         kayamanan.  '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'May nakita akong hindi maganda rito sa mundo: Ang kayamanang iniipon
         ng tao ay nakapagpapahamak sa kanya. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Nauubos ito dahil sa hindi mabuting negosyo at wala ng matitira para
         sa mga anak niya. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Kung paanong hubad tayong ipinanganak mula sa sinapupunan ng ating
         ina, hubad din tayong mamamatay. Hindi natin madadala ang ating mga pinaghirapan. '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'Napakalungkot isipin! Ipinanganak tayong walang dala, mamamatay tayong
-        walang dala. Kaya ano pa ang saysay ng mga pagpapakahirap natin? Para lang
-        tayong humahabol sa hangin na walang napapala. '
+        walang dala. Kaya ano pa ang saysay ng mga pagpapakahirap natin? <i>Para
+        lang tayong</i> humahabol sa hangin <i>na walang napapala</i>. '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'Ang buhay natin ay puno ng kahirapan, kaguluhan, sakit at galit.  '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: "Kaya naisip ko na ang pinakamabuting gawin ng tao sa maiksing buhay
         na ibinigay sa kanya ng Dios ay kumain, uminom at magpakasaya sa kanyang
         pinaghirapan habang siya\u02BCy nabubuhay, dahil para naman talaga sa kanya
         ang mga iyon. "
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'Binibigyan ng Dios ang bawat tao ng mga pag-aari at kayamanan. Hinahayaan
         niyang pakinabangan nila ang mga ito para matanggap nila ang para sa kanila
         at magpakasaya sa mga pinaghirapan nila. Ito ang regalo ng Dios sa kanila. '
       comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: At dahil ginagawa ng Dios na abala ang tao sa mga bagay na nakapagpapasaya
+        sa kanila, hindi sila nag-aalala na maiksi ang buhay nila.
+      comments: []
   - verses:
-    - title: 
+    - name: '1: '
+      title: 
+      number: 1
       content: '  May nakita pa akong isang hindi magandang pangyayari rito sa mundo
         na nagpapahirap sa mga tao. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'May mga taong binibigyan ng Dios ng kanilang mga hinahangad tulad
         ng karangalan, ari-arian at kayamanan. Pero hindi niya hinahayaang pakinabangan
         nila ito, sa halip, ibang tao ang nakikinabang nito. Hindi ito maganda at
         walang kabuluhan. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Masasabi kong mas mabuti pa ang isang sanggol na ipinanganak na patay
         kaysa sa taong nabuhay nga nang matagal at nagkaanak pa ng marami, pero hindi
         naman nagkaroon ng kasiyahan sa buhay at hindi nailibing nang maayos. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Kahit walang saysay ang pagkakapanganak sa sanggol, at kahit na siya
         ay nasa lugar ng mga patay at hindi na maaalala pa, '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'at kahit hindi siya nakakita ng liwanag ng araw o nalaman ang buhay,
         mas may kapayapaan pa siya kaysa sa taong iyon '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'na walang kasiyahan sa mga magagandang bagay na kanyang natanggap
         at kahit na mabuhay pa ang taong iyon ng ilang libong taon. Ang totoo ay
         iisa ang hahantungan ng lahat.  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Nagtatrabaho ang tao para may makain, pero hindi pa rin siya nasisiyahan. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Kaya ano ang lamang ng marunong sa mangmang? Ano ang mapapala ng
         mahirap kahit alam niya ang pasikot-sikot sa buhay? '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Wala itong kabuluhan! Para siyang humahabol sa hangin. Kaya mas mabuting
         masiyahan ka sa mga bagay na mayroon ka, kaysa sa maghangad ka nang maghangad
         ng mga bagay na wala sa iyo. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "Lahat ng pangyayari sa mundo at mangyayari sa isang tao\u02BCy nakatakda
         na noon pa. Kaya walang saysay na makipagtalo pa tayo sa Dios na higit na
         makapangyarihan kaysa sa atin. "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'At habang nakikipagtalo tayo, dadami lang ang sasabihin nating walang
         kabuluhan. Kaya ano ang pakinabang nito? '
       comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Walang sinumang nakakaalam kung ano ang mabuti para sa isang taong
+        maikli at walang kabuluhan ang buhay\u2009\u2013\u2009lumilipas lang ito
+        na parang anino. Sino ang makapagsasabi sa kanya kung ano ang mangyayari
+        sa mundo pagkamatay niya?"
+      comments: []
   - verses:
-    - title: Ang mga Paalala sa Buhay
+    - name: '1: Ang mga Paalala sa Buhay'
+      title: Ang mga Paalala sa Buhay
+      number: 1
       content: '  Ang malinis na pangalan ay mas mabuti kaysa sa mamahaling pabango;
         at ang araw ng kamatayan ay mas mabuti kaysa sa araw ng kapanganakan. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Mas mabuting pumunta sa namatayan kaysa sa isang handaan, dahil ang
         lahat ay mamamatay. Dapat ay lagi itong isipin ng mga buhay pa. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Ang kalungkutan ay mas mabuti kaysa sa kaligayahan dahil ang kalungkutan
         ay nakakatuwid ng buhay ng tao. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Laging iniisip ng marunong ang kamatayan; pero ang hangal, ang laging
         iniisip ay kasiyahan. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Mas mabuting makinig sa pagsaway ng marunong kaysa makinig sa papuri
         ng hangal. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Ang tawa ng hangal ay parang tinik na pag-iginatong ay nagsasaltikan
         ang apoy. Ito ay walang kabuluhan. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Ang marunong kapag nandaya ay para na ring hangal. Kung tumatanggap
         ka ng suhol, sinisira mo ang sarili mong dangal. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Mas mabuti ang pagtatapos kaysa sa pagsisimula. Ang pagiging matiisin
         ay mas mabuti kaysa sa pagiging mapagmataas. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Huwag maging magagalitin dahil ang pagiging magagalitin ay ugali
         ng mga hangal. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "Huwag mong sabihin, \u201CBakit mas mabuti pa noon kaysa ngayon?\u201D
-        Dahil ang tanong na iyan ay walang katuturan. Ang karunungan ay mabuti gaya
-        ng isang pamana, pareho itong nakakatulong sa mga namumuhay dito sa mundo.
-        Nagbibigay din ito ng proteksyon gaya ng pera. Pero higit pa roon, iniingatan
-        nito ang buhay ng nagtataglay nito. "
+        Dahil ang tanong na iyan ay walang katuturan. "
       comments: []
-    - title: 
+    - name: '11-12: '
+      title: 
+      number: 11-12
+      content: 'Ang karunungan ay mabuti gaya ng isang pamana, pareho itong nakakatulong
+        sa mga namumuhay dito sa mundo. Nagbibigay din ito ng proteksyon gaya ng
+        pera. Pero higit pa roon, iniingatan nito ang buhay ng nagtataglay nito. '
+      comments: []
+    - name: '11-12: '
+      title: 
+      number: 11-12
+      content: 'Ang karunungan ay mabuti gaya ng isang pamana, pareho itong nakakatulong
+        sa mga namumuhay dito sa mundo. Nagbibigay din ito ng proteksyon gaya ng
+        pera. Pero higit pa roon, iniingatan nito ang buhay ng nagtataglay nito. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Pag-isipan mo ang ginawa ng Dios. Sino ang makapagtutuwid ng kanyang
         binaluktot? '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Magalak ka kung mabuti ang kalagayan mo. Pero kung naghihirap ka,
         isipin mong ang Dios ang gumawa sa dalawang bagay na ito. Para hindi natin
         malaman kung ano ang mangyayari sa araw ng bukas. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Sa buhay kong walang saysay, nakita ko ang lahat ng bagay. Ang matuwid
         ay maagang namamatay sa kabila ng kanilang matuwid na pamumuhay, at ang mga
         masasama sa kabila ng kanilang kasamaan ay nabubuhay nang matagal. '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'Huwag mong ituring ang iyong sarili na sobrang matuwid at marunong,
         dahil kung gagawin mo iyon, sinisira mo lang ang iyong sarili. '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'At huwag ka rin namang magpakasama o magpakamangmang, dahil baka
         mamatay ka naman nang wala sa oras. '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Huwag kang pasobra sa mga bagay na iyon; dapat balanse lang, dahil
         ang taong may takot sa Dios ay hindi nagpapasobra sa anumang bagay. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'Higit na malaki ang magagawa ng karunungan sa isang tao, kaysa sa
         sampung pinuno ng isang bayan. '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'Wala ni isang tao rito sa mundo ang laging gumagawa ng mabuti at
         hindi nagkakasala. '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: 'Huwag mong pakikinggan ang lahat ng sinasabi ng tao at baka mismong
         alipin mo ang marinig mong nagsasalita laban sa iyo. '
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'Dahil alam mo sa sarili mo na marami ka ring pinagsalitaan ng masama.  '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: "Sinubukan kong intindihin ang lahat ng nangyayari rito sa mundo sa
         pamamagitan ng aking karunungan. Akala ko\u02BCy maiintindihan ko pero hindi
         pala. "
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: 'Hindi ko kayang intindihin ang mga nangyayari dahil mahirap talagang
         maintindihan. At walang sinuman ang makakaintindi nito. '
       comments: []
-    - title: 
+    - name: '25: '
+      title: 
+      number: 25
       content: 'Pero patuloy akong nag-aral at nag-usisa, para makamit ko ang karunungan
         at masagot ang aking mga katanungan, at para malaman ko kung gaano kahangal
         ang taong gumagawa ng masama at kung gaano kasama ang isipan ng taong gumagawa
         ng kahangalan.  '
       comments: []
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: "Napag-alaman kong ang babaeng nanunukso ay mas mapait kaysa sa kamatayan.
         Ang pag-ibig niya\u02BCy parang bitag, at ang mga kamay niya na yumayakap
         sa iyo ay parang kadena. Ang taong nakalulugod sa Dios ay makakatakas sa
-        kanya, pero ang taong masama ay mabibitag niya. Sinasabi ko bilang isang
-        mangangaral, \u201CIniisip kong mabuti ang bawat bagay sa paghahanap ko ng
-        kasagutan sa aking mga katanungan. Pero hindi ko pa rin natagpuan ang mga
-        kasagutan. Ngunit ito ang aking natuklasan, sa 1,000 lalaki isa lang ang
-        matuwid,[[COMMENT(0)]] pero sa 1,000 babae wala ni isang matuwid. "
+        kanya, pero ang taong masama ay mabibitag niya. "
+      comments: []
+    - name: '27-28: '
+      title: 
+      number: 27-28
+      content: "Sinasabi ko bilang isang mangangaral, \u201CIniisip kong mabuti ang
+        bawat bagay sa paghahanap ko ng kasagutan sa aking mga katanungan. Pero hindi
+        ko pa rin natagpuan ang mga kasagutan. Ngunit ito ang aking natuklasan, sa
+        1,000 lalaki isa lang ang matuwid,[[COMMENT(0)]] pero sa 1,000 babae wala
+        ni isang matuwid. "
       comments:
       - number: '7:27-28 '
         content: '<b>: </b>o, <b>marunong.</b>'
+    - name: '27-28: '
+      title: 
+      number: 27-28
+      content: "Sinasabi ko bilang isang mangangaral, \u201CIniisip kong mabuti ang
+        bawat bagay sa paghahanap ko ng kasagutan sa aking mga katanungan. Pero hindi
+        ko pa rin natagpuan ang mga kasagutan. Ngunit ito ang aking natuklasan, sa
+        1,000 lalaki isa lang ang matuwid,[[COMMENT(0)]] pero sa 1,000 babae wala
+        ni isang matuwid. "
+      comments:
+      - number: '7:27-28 '
+        content: '<b>: </b>o, <b>marunong.</b>'
+    - name: '29: '
+      title: 
+      number: 29
+      content: "Higit sa lahat, ito ang nalaman ko: Ginawa ng Dios ang tao na matuwid,
+        pero nag-iisip ang tao ng maraming paraan para maging masama.\u201D"
+      comments: []
   - verses:
-    - title: Sundin ang Hari
+    - name: '1: Sundin ang Hari'
+      title: Sundin ang Hari
+      number: 1
       content: "  Walang katulad ang taong marunong na kayang magpaliwanag ng mga
         bagay. Ang karunungan ng tao\u02BCy nakapagpapasaya ng mukha, at ang simangot
         ay nawawala.  "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Sundin mo ang utos ng hari, dahil ipinangako mo sa Dios na gagawin
         mo ito. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Huwag mong pababayaan ang tungkulin mo sa hari, at huwag kang sasama
         sa mga nagpaplano ng masama laban sa kanya,[[COMMENT(0)]] dahil kayang gawin
         ng hari ang anumang gustuhin niya. '
@@ -629,22 +977,32 @@ MonoBehaviour:
       - number: '8:3 '
         content: '<b>: </b>o, <b>Huwag kang aalis sa harapan ng hari; huwag kang
           pumunta sa delikadong lugar.</b>'
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Makapangyarihan ang utos ng hari at walang makakatutol dito. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Ang sinumang sumusunod sa kanyang utos ay hindi mapapahamak. Alam
         ng taong marunong kung kailan at kung paano gagawin ang isang bagay. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Dahil ang bawat bagay ay may kanya-kanyang tamang oras at pamamaraan
         ng paggawa gaano man kabigat ang kinakaharap ng tao.  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Dahil walang sinuman ang nakakaalam ng hinaharap, walang makapagsasabi
         kung ano ang mangyayari. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "Kung paanong hindi mapipigilan ng tao ang hangin,[[COMMENT(0)]] hindi
         rin niya mapipigilan ang kanyang kamatayan. Tulad sa isang labanan, hindi
         siya makakaatras. At ang kasamaan niya\u02BCy hindi makapagliligtas sa kanya
@@ -652,55 +1010,83 @@ MonoBehaviour:
       comments:
       - number: '8:8 '
         content: "<b>: </b>o, <b>kanyang espiritu kapag ito\u02BCy umaalis.</b>"
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "Pinagmasdan ko ang mga bagay na nangyayari rito sa mundo, nakita
         kong ang mga tao ay may kakayahang saktan ang isa\u02BCt isa. "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Nakita ko ring ibinuburol ang masasama. Sila ang laging pumapasok
-        sa banal na lungsod ng Jerusalem at doon gumagawa ng kasamaan. At pinupuri[[COMMENT(0)]]
-        pa sila ng mga taong taga-roon mismo sa lugar na ginagawan nila ng kasamaan.
-        Wala itong kabuluhan.  '
+        sa banal na lungsod <i>ng Jerusalem</i> at doon gumagawa ng kasamaan. At
+        pinupuri[[COMMENT(0)]] pa sila ng mga taong taga-roon mismo sa lugar na ginagawan
+        nila ng kasamaan. Wala itong kabuluhan.  '
       comments:
       - number: '8:10 '
         content: '<b>: </b>Ito ang nasa Septuagint at ibang tekstong Hebreo. Pero
           karamihan sa tekstong Hebreo, <b>kinakalimutan.</b>'
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "Kapag ang taong nagkasala\u02BCy hindi agad pinarusahan, naiisip
         din ng iba na gumawa ng kasalanan. "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "Kahit ang isang tao\u02BCy magkasala ng isandaang beses at mabuhay
         pa nang matagal, alam kong mas mabuti pa rin ang kahihinatnan ng taong may
         takot sa Dios. "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Hindi magtatagal ang buhay ng taong masama na walang takot sa Dios.
         Magiging parang anino ang buhay niya, sandali lang at agad mawawala. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Ang problema lang sa mundong ito ay kung minsan ang mga taong matuwid
         pa ang siyang napaparusahan ng parusang para sana sa masasama. At ang masasama
         naman ang siyang tumatanggap ng gantimpalang para sana sa mga matuwid. Ito
         man ay walang kabuluhan.  '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Kaya para sa akin, mas mabuting magpakasaya ang tao sa buhay. Walang
         mas mabuti para sa kanya dito sa mundo kundi ang kumain, uminom at magsaya.
         Sa ganitong paraan mararanasan niya ang kasiyahan habang nagpapakapagod siya
         sa buong buhay niya na ibinigay ng Dios sa kanya dito sa mundo.  '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'Habang pinagsisikapan kong intindihin ang mga nangyayari rito sa
         mundo, nalaman ko kung gaano kaabala sa trabaho ang mga tao araw at gabi. '
       comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Nakita ko rin ang mga ginagawa ng Dios dito sa mundo. Walang sinuman
+        ang makakaintindi nito. Kahit ano pa ang gawin ng tao para intindihin ito,
+        hindi pa rin niya ito maiintindihan. Kahit sabihin pa ng marunong na naiintindihin
+        niya, pero ang totoo, hindi niya talaga naiintindihan.
+      comments: []
   - verses:
-    - title: 
+    - name: '1: '
+      title: 
+      number: 1
       content: '  Inisip kong mabuti ang lahat ng bagay at nalaman kong nasa patnubay
         ng Dios ang matutuwid at marurunong, pati na ang kanilang mga ginagawa. Pero
         hindi nila alam kung ang kasasapitan ba nila ay pag-ibig o poot. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "Iisa lang ang kasasapitan ng lahat ng klase ng tao\u2009\u2013\u2009ang
         matuwid at ang masama, ang tama at ang mali,[[COMMENT(0)]] ang malinis at
         ang marumi, ang naghahandog at ang hindi naghahandog. Pareho lang ang matuwid
@@ -710,222 +1096,334 @@ MonoBehaviour:
         content: '<b>: </b>Wala ito sa Hebreo, pero makikita sa ibang mga lumang
           teksto.<b>: </b>Ang mga karapat-dapat at hindi karapat-dapat makisama sa
           mga seremonyang pangrelihiyon ng Israel.'
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Ito ang hindi maganda sa lahat ng nangyayari rito sa mundo: iisa
         lang ang kasasapitan ng lahat. At hindi lang iyan, kundi pawang kasamaan
         at kamangmangan ang iniisip ng tao habang nabubuhay, at pagkatapos ay mamamatay
         din siya. '
       comments: []
-    - title: 
-      content: "Habang may buhay ang tao, may pag-asa. May kasabihan nga, \u201CMas
-        mabuti pa ang buhay na aso kaysa sa patay na leon.\u201D "
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Habang may buhay ang tao, may pag-asa. <i>May kasabihan nga,</i>
+        \u201CMas mabuti pa ang buhay na aso kaysa sa patay na leon.\u201D "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Ang totoo, alam ng buhay na tao na mamamatay siya. Pero ang patay
         ay walang nalalaman. Wala na rin siyang gantimpalang matatanggap at makakalimutan
         na. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Ang pag-ibig nila, poot at inggit noong nabubuhay pa ay wala na.
         At wala na rin silang malay sa lahat ng nangyayari rito sa mundo.  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Sige, magpakasaya ka sa pagkain at pag-inom dahil iyan ang gusto
         ng Dios na gawin mo. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Palagi ka sanang maging maligaya.[[COMMENT(0)]]  '
       comments:
       - number: '9:8 '
         content: '<b>: </b>sa literal, <b>magsuot ka ng puting damit at pahiran mo
           ng langis ang ulo mo.</b>'
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Magpakasaya ka kasama ang minamahal mong asawa, sa buhay mong walang
         kabuluhan na ibinigay ng Dios dito sa mundo. Sapagkat para sa iyo naman iyan,
         para sa pagpapagal mo rito sa mundo. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Gawin mo ng buo mong makakaya ang iyong ginagawa, dahil wala ng trabaho
         roon sa lugar ng mga patay na patutunguhan mo. Wala ng pagpaplano roon, wala
         ring kaalaman at karunungan.  '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Mayroon pa akong nakita rito sa mundo: Hindi lahat ng mabibilis ay
         nananalo sa takbuhan, at hindi lahat ng malalakas ay nananalo sa labanan.
         Hindi rin lahat ng matatalino ay nagkakaroon ng hanapbuhay, hindi lahat ng
         marurunong ay nagiging mayaman at hindi rin lahat ng may kakayahan ay nagtatagumpay.
         Dahil ang bawat tao ay may kanya-kanyang kapalaran. '
       comments: []
-    - title: Mas Mabuti ang Karunungan Kaysa Kamangmangan
+    - name: '12: Mas Mabuti ang Karunungan Kaysa Kamangmangan'
+      title: Mas Mabuti ang Karunungan Kaysa Kamangmangan
+      number: 12
       content: 'Pero hindi niya alam kung kailan darating ang takdang oras. Tulad
         siya ng isang ibong nabitag o ng isdang nahuli sa lambat. Biglang dumarating
         sa tao ang masamang pagkakataon na para siyang nahuli sa isang patibong.  '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Mayroon pang isang halimbawa ng karunungan na aking nagustuhan. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'May isang maliit na lungsod na kakaunti lang ang mga mamamayan. Nilusob
-        ito ng makapangyarihang hari kasama ng kanyang mga kawal at pinalibutan. '
+        ito ng makapangyarihang hari <i>kasama ng kanyang mga kawal</i> at pinalibutan. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Sa lungsod na iyon ay may isang lalaking marunong pero mahirap. Maaari
         sana niyang iligtas ang lungsod sa pamamagitan ng kanyang karunungan pero
         walang nakaalala sa kanya. '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "Sinabi kong mas mabuti ang karunungan kaysa sa kapangyarihan, pero
         ang karunungan ng isang taong mahirap ay hindi binibigyang halaga at ang
         mga sinasabi niya\u02BCy hindi pinapansin. "
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'Ang marahang salita ng marunong ay mas magandang pakinggan kaysa
         sa sigaw ng isang pinunong hangal. '
       comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: Mas makapangyarihan ang karunungan kaysa sa mga sandata ng digmaan.
+        Pero ang isang makasalanan ay makakasira ng maraming kabutihan.
+      comments: []
   - verses:
-    - title: 
+    - name: '1: '
+      title: 
+      number: 1
       content: '  Kung paanong napapabaho ng isang patay na langaw ang isang boteng
         pabango, ganoon din ang kaunting kamangmangan, nakakasira ng karunungan at
         karangalan. '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Ang taong marunong ay gustong gumawa ng kabutihan, pero ang hangal
         ay gustong gumawa ng kasamaan. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'At kahit sa paglalakad ng hangal, nakikita ang kawalan niya ng karunungan
         at ipinapakita sa lahat ang kanyang kahangalan.  '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "Kung nagalit sa iyo ang iyong pinuno, huwag ka agad magbitiw sa tungkulin,
         dahil kapag nawala na ang galit niya\u02BCy baka patawarin ka niya gaano
         man kalaki ang iyong kasalanang nagawa. "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "May isa pa akong nakitang hindi maganda rito sa mundo at ito\u02BCy
         ginagawa ng mga pinuno: "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Ang mga mangmang ay binibigyan ng mataas na tungkulin, pero ang mga
         mayayaman[[COMMENT(0)]] ay binibigyan ng mababang tungkulin. '
       comments:
       - number: '10:6 '
         content: '<b>: </b>o, <b>mga dakila.</b>'
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "Nakakita rin ako ng mga aliping nakasakay sa kabayo habang ang mga
         dakilang tao\u02BCy naglalakad na parang alipin.  "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Kapag ikaw ang naghukay, baka ikaw din ang mahulog doon. Kapag lumusot
-        ka sa butas ng pader, baka tuklawin ka ng ahas doon. '
+        ka sa <i>butas ng</i> pader, baka tuklawin ka ng ahas doon. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Kapag nagtibag ka ng bato, baka mabagsakan ka nito. Kapag nagsibak
         ka ng kahoy, baka masugatan ka nito. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "Kapag palakol mo\u02BCy mapurol at hindi mo hinahasa, buong lakas
         ang kailangan mo sa paggamit nito. Mas nakakahigit ka kung marunong ka, dahil
         sa pamamagitan nito\u02BCy magtatagumpay ka.  "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Walang saysay ang kakayahan mong magpaamo ng ahas, kung tutuklawin
         ka lang naman nito. '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Ang sinasabi ng marunong ay magbibigay sa kanya ng kabutihan, pero
         ang sinasabi ng hangal ay magpapahamak sa kanya. '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Sa umpisa pa lang kamangmangan na ang sinasabi niya, at kinalaunan
         ay naging masamang-masama na, na parang nawawala na siya sa sarili. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "At wala siyang tigil sa kasasalita.Walang nakakaalam tungkol sa mga
         mangyayari sa hinaharap, kaya walang makapagsasabi kung ano ang mangyayari
         kapag tayo\u02BCy patay na. "
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Napapagod ang mangmang sa kanyang trabaho, kaya naiisip niyang huwag
-        nang pumunta sa bayan para magtrabaho.[[COMMENT(0)]]  '
+        nang pumunta sa bayan <i>para magtrabaho</i>.[[COMMENT(0)]]  '
       comments:
       - number: '10:15 '
         content: '<b>: </b>o, <b>hindi niya alam ang daan papunta sa bayan.</b>'
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "Nakakaawa ang isang bansa na ang hari ay isip-bata at ang mga pinuno\u02BCy
         puro handaan ang inaatupag. "
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'Pero mapalad ang bansa na ang hari ay ipinanganak sa marangal na
         pamilya at ang mga pinuno ay naghahanda lang sa tamang panahon para sa ikalalakas
         at hindi sa paglalasing.  '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Pinapabayaan ng taong tamad na tumutulo ang bubong ng kanyang bahay
         hanggang sa mawasak na ang buong bahay niya. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'Makapagpapasaya sa tao ang handaan at inuman; at ang pera ay makapagbibigay
         ng lahat niyang pangangailangan. '
       comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Huwag mong susumpain ang hari kahit sa isip mo lang o ang mayayaman
+        kahit na palihim lang, dahil baka may magsabi sa kanila.[[COMMENT(0)]]
+      comments:
+      - number: '10:20 '
+        content: '<b>: </b>sa literal, <b>baka may munting ibon na magsabi sa kanila.</b>'
   - verses:
-    - title: Ang Gawain ng Taong Marunong
+    - name: '1: Ang Gawain ng Taong Marunong'
+      title: Ang Gawain ng Taong Marunong
+      number: 1
       content: '  Ipuhunan mo ang pera mo sa negosyo at sa kalaunan ay kikita ka.[[COMMENT(0)]]  '
       comments:
       - number: '11:1 '
         content: '<b>: </b>o, <b>Bukas-palad kang magbigay at hindi magtatagal ikaw
           din ay magkakaroon.</b>'
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "Ilagay mo ang pera mo sa iba\u02BCt ibang[[COMMENT(0)]] negosyo,
         dahil hindi mo alam kung anong kalamidad ang darating dito sa mundo. "
       comments:
       - number: '11:2 '
         content: '<b>: </b>sa literal, <b>pito o walo.</b><b>: </b>o, <b>Magbigay
           ka sa maraming tao.</b>'
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Kapag makapal na ang ulap, magbubuhos ito ng ulan sa mundo. At kung
         saan natumba ang puno, doon iyon mananatili.[[COMMENT(0)]]  '
       comments:
       - number: '11:3 '
         content: Maaaring ang tinutukoy dito ay ang mga nangyayari sa mundo, katulad
           ng mga kalamidad na hindi mapipigilan ng tao.
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Kung palagi ka lang maghihintay ng magandang panahon, hindi ka makakapagtanim
         at wala kang aanihin.  '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Kung paanong hindi mo nalalaman ang direksyon ng hangin o kung paano
         lumalaki ang sanggol sa sinapupunan ng kanyang ina, ganoon din ang ginagawa
         ng Dios na gumagawa ng lahat ng bagay, hindi mo rin ito maiintindihan.  '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Maghasik ka ng binhi sa umaga hanggang gabi, dahil hindi mo alam
         kung alin sa itinanim mo ang tutubo, o kung lahat ito ay tutubo. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Masarap mabuhay, kaya mas mabuting mabuhay. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Kaya sa buong buhay mo ay maging masaya ka, gaano man ito kahaba.
         Ngunit, alalahanin mong darating ang kamatayan at magtatagal iyon. Lahat
         ng mangyayari ay walang kabuluhan.  '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "Kayong mga kabataan, magsaya kayo habang kayo\u02BCy bata pa. Gawin
         ninyo ang gusto ninyong gawin, pero alalahanin ninyong hahatulan kayo ng
         Dios ayon sa inyong mga ginawa. "
       comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: Huwag kayong mag-alala o mabalisa man dahil ang panahon ng kabataan
+        ay lumilipas lang.
+      comments: []
   - verses:
-    - title: 
+    - name: '1: '
+      title: 
+      number: 1
       content: "  Alalahanin mo ang lumikha sa iyo habang bata ka pa at bago dumating
         ang panahon ng kahirapan at masabi mong, \u201CHindi ako masaya sa buhay
         ko.\u201D "
       comments: []
-    - title: 
-      content: 'Alalahanin mo siya bago dumilim ang araw, ang buwan at ang mga bituin
-        na parang natatakpan ng makakapal na ulap. '
+    - name: '2: '
+      title: 
+      number: 2
+      content: '<i>Alalahanin mo siya</i> bago dumilim ang araw, ang buwan at ang
+        mga bituin na parang natatakpan ng makakapal na ulap. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Darating ang araw na manginginig ang iyong mga bisig[[COMMENT(0)]]
         at manghihina ang iyong mga tuhod. Hindi ka na makakanguyang mabuti dahil
         iilan na lang ang iyong ngipin. At lalabo na ang iyong paningin.  '
@@ -934,59 +1432,85 @@ MonoBehaviour:
         content: '<b>: </b>sa literal, <b>mga bantay ng bahay.</b><b>: </b>sa literal,
           <b>malalakas na lalaki.</b><b>: </b>sa literal, <b>mga babaeng tagagiling
           ng butil.</b><b>: </b>sa literal, <b>mga babaeng nakasilip sa bintana.</b>'
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "Ang tainga[[COMMENT(0)]] mo\u02BCy hindi na halos makarinig, kahit
-        ang ingay ng gilingan o huni ng mga ibon o mga awitin ay hindi na marinig. "
+        ang ingay ng gilingan o huni ng mga ibon o mga awitin <i>ay hindi na marinig</i>. "
       comments:
       - number: '12:4 '
         content: '<b>: </b>sa literal, <b>mga pintuang bayan.</b>'
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Matatakot ka ng umakyat sa matataas na lugar o lumakad sa lansangan
         ng nag-iisa. Puputi na ang iyong buhok, hindi ka na halos makakalakad at
         mawawala na ang lahat ng iyong pagnanasa. Sa bandang huli, pupunta ka sa
         iyong tahanang walang hanggan at marami ang magluluksa para sa iyo sa mga
         lansangan. '
       comments: []
-    - title: 
-      content: 'Kaya alalahanin mo ang Dios habang nabubuhay ka, habang hindi pa
-        nalalagot ang kadenang pilak at hindi pa nababasag ang gintong lalagyan,
+    - name: '6: '
+      title: 
+      number: 6
+      content: '<i>Kaya alalahanin mo ang Dios habang nabubuhay ka,</i> habang hindi
+        pa nalalagot ang kadenang pilak at hindi pa nababasag ang gintong lalagyan,
         o hindi pa nalalagot ang tali ng timba sa balon, at nasisira ang kalo nito. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "Kung magkagayon, babalik ka sa lupa kung saan ka nagmula at ang espiritu[[COMMENT(0)]]
         mo\u02BCy babalik sa Dios na siyang nagbigay nito.  "
       comments:
       - number: '12:7 '
         content: '<b>: </b>o, <b>hininga. </b>Tingnan sa Salmo 104:29 at Job 12:10.'
-    - title: Paggalang at Pagsunod sa Dios
+    - name: '8: Paggalang at Pagsunod sa Dios'
+      title: Paggalang at Pagsunod sa Dios
+      number: 8
       content: "Sabi ng mangangaral,[[COMMENT(0)]] \u201CWalang kabuluhan! Tunay
         na walang kabuluhan ang lahat!\u201D  "
       comments:
       - number: '12:8 '
         content: '<b>: </b>o, <b>guro; </b>o, <b>isang matalinong tao.</b>'
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Bukod sa pagiging marunong nitong mangangaral, itinuturo din niya
         sa mga tao ang lahat ng kanyang nalalaman. Pinag-aralan niyang mabuti ang
         mga kasabihang binanggit niya rito. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Pinagsikapan niyang gamitin ang mga nararapat na salita, at ang lahat
         ng isinulat niya rito ay tama at totoo. '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Ang mga salita ng marunong ay parang matulis na tungkod na pantaboy
         ng pastol sa paggabay sa kanyang kawan o parang pakong nakabaon. Ibinigay
         ito ng Dios na tangi nating tagabantay.  '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Anak, mag-ingat ka sa isa pang bagay na ito: Ang pagsusulat ng aklat
         ay walang katapusan, at ang labis na pag-aaral ay nakakapagod.  '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Ngayong nabasa[[COMMENT(0)]] mo na ang lahat ng ito, ito ang aking
         huling payo: Matakot ka sa Dios at sundin mo ang kanyang mga utos, dahil
-        ito ang tungkulin ng bawat tao. '
+        ito ang <i>tungkulin</i> ng bawat tao. '
       comments:
       - number: '12:13 '
         content: '<b>: </b>sa Hebreo, <b>narinig. </b>Nag-aaral noon ang mga Israelita
           sa pamamagitan ng pakikinig.'
+    - name: '14: '
+      title: 
+      number: 14
+      content: Sapagkat hahatulan tayo ng Dios ayon sa lahat ng ating ginagawa, mabuti
+        man o masama, hayag man o lihim.
+      comments: []

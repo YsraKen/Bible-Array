@@ -1,0 +1,412 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: ZEP
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Zephaniah
+  fancyName: 
+  nickname: zep
+  version: {fileID: 11400000, guid: 433894a244f646848a22a9c7d127b66b, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Coming Judgment against Judah'
+      title: Coming Judgment against Judah
+      number: 1
+      content: '  The <smallcaps>Lord</smallcaps> gave this message to Zephaniah
+        when Josiah son of Amon was king of Judah. Zephaniah was the son of Cushi,
+        son of Gedaliah, son of Amariah, son of Hezekiah.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CI will sweep away everythingfrom the face of the earth,\u201D
+        says the <smallcaps>Lord</smallcaps>.  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "\u201CI will sweep away people and animals alike.I will sweep away
+        the birds of the sky and the fish in the sea.I will reduce the wicked to
+        heaps of rubble,[[COMMENT(0)]]and I will wipe humanity from the face of the
+        earth,\u201D says the <smallcaps>Lord</smallcaps>.  "
+      comments:
+      - number: '1:3 '
+        content: The meaning of the Hebrew is uncertain.
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CI will crush Judah and Jerusalem with my fistand destroy every
+        last trace of their Baal worship.I will put an end to all the idolatrous
+        priests,so that even the memory of them will disappear.  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For they go up to their roofsand bow down to the sun, moon, and stars.They
+        claim to follow the <smallcaps>Lord</smallcaps>,but then they worship Molech,[[COMMENT(0)]]
+        too.  '
+      comments:
+      - number: '1:5 '
+        content: Hebrew <b>Malcam, </b>a variant spelling of Molech; or it could
+          possibly mean <b>their king.</b>
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And I will destroy those who used to worship mebut now no longer
+        do.They no longer ask for the <smallcaps>Lord</smallcaps>\u2019s guidanceor
+        seek my blessings.\u201D  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Stand in silence in the presence of the Sovereign <smallcaps>Lord</smallcaps>,for
+        the awesome day of the <smallcaps>Lord</smallcaps>\u2019s judgment is near.The
+        <smallcaps>Lord</smallcaps> has prepared his people for a great slaughterand
+        has chosen their executioners.[[COMMENT(0)]]  "
+      comments:
+      - number: '1:7 '
+        content: Hebrew <b>has prepared a sacrifice and sanctified his guests.</b>
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201COn that day of judgment,\u201Dsays the <smallcaps>Lord</smallcaps>,\u201CI
+        will punish the leaders and princes of Judahand all those following pagan
+        customs.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Yes, I will punish those who participate in pagan worship ceremonies,and
+        those who fill their masters\u2019 houses with violence and deceit.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201COn that day,\u201D says the <smallcaps>Lord</smallcaps>,\u201Ca
+        cry of alarm will come from the Fish Gateand echo throughout the New Quarter
+        of the city.[[COMMENT(0)]]And a great crash will sound from the hills.  "
+      comments:
+      - number: '1:10 '
+        content: Or <b>the Second Quarter, </b>a newer section of Jerusalem. Hebrew
+          reads <b>the Mishneh.</b>
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Wail in sorrow, all you who live in the market area,[[COMMENT(0)]]for
+        all the merchants and traders will be destroyed.  '
+      comments:
+      - number: '1:11 '
+        content: Or <b>in the valley, </b>a lower section of Jerusalem. Hebrew reads
+          <b>the Maktesh.</b>
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CI will search with lanterns in Jerusalem\u2019s darkest cornersto
+        punish those who sit complacent in their sins.They think the <smallcaps>Lord</smallcaps>
+        will do nothing to them,either good or bad.  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'So their property will be plundered,their homes will be ransacked.They
+        will build new homesbut never live in them.They will plant vineyardsbut never
+        drink wine from them.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201CThat terrible day of the <smallcaps>Lord</smallcaps> is near.Swiftly
+        it comes\u2014a day of bitter tears,a day when even strong men will cry out.  "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "It will be a day when the <smallcaps>Lord</smallcaps>\u2019s anger
+        is poured out\u2014a day of terrible distress and anguish,a day of ruin and
+        desolation,a day of darkness and gloom,a day of clouds and blackness,  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'a day of trumpet calls and battle cries.Down go the walled citiesand
+        the strongest battlements!  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "\u201CBecause you have sinned against the <smallcaps>Lord</smallcaps>,I
+        will make you grope around like the blind.Your blood will be poured into
+        the dust,and your bodies will lie rotting on the ground.\u201D  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "Your silver and gold will not save youon that day of the <smallcaps>Lord</smallcaps>\u2019s
+        anger.For the whole land will be devouredby the fire of his jealousy.He will
+        make a terrifying endof all the people on earth.[[COMMENT(0)]]"
+      comments:
+      - number: '1:18 '
+        content: Or <b>the people living in the land.</b>
+  - verses:
+    - name: '1: A Call to Repentance'
+      title: A Call to Repentance
+      number: 1
+      content: "  Gather together\u2014yes, gather together,you shameless nation.  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "Gather before judgment begins,before your time to repent is blown
+        away like chaff.Act now, before the fierce fury of the <smallcaps>Lord</smallcaps>
+        fallsand the terrible day of the <smallcaps>Lord</smallcaps>\u2019s anger
+        begins.  "
+      comments: []
+    - name: '3: Judgment against Philistia'
+      title: Judgment against Philistia
+      number: 3
+      content: "Seek the <smallcaps>Lord</smallcaps>, all who are humble,and follow
+        his commands.Seek to do what is rightand to live humbly.Perhaps even yet
+        the <smallcaps>Lord</smallcaps> will protect you\u2014protect you from his
+        anger on that day of destruction.  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Gaza and Ashkelon will be abandoned,Ashdod and Ekron torn down.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And what sorrow awaits you Philistines[[COMMENT(0)]]who live along
+        the coast and in the land of Canaan,for this judgment is against you, too!The
+        <smallcaps>Lord</smallcaps> will destroy youuntil not one of you is left.  '
+      comments:
+      - number: '2:5 '
+        content: Hebrew <b>Kerethites.</b>
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The Philistine coast will become a wilderness pasture,a place of
+        shepherd campsand enclosures for sheep and goats.  '
+      comments: []
+    - name: '7: Judgment against Moab and Ammon'
+      title: Judgment against Moab and Ammon
+      number: 7
+      content: 'The remnant of the tribe of Judah will pasture there.They will rest
+        at night in the abandoned houses in Ashkelon.For the <smallcaps>Lord</smallcaps>
+        their God will visit his people in kindnessand restore their prosperity again.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CI have heard the taunts of the Moabitesand the insults of the
+        Ammonites,mocking my peopleand invading their borders.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Now, as surely as I live,\u201Dsays the <smallcaps>Lord</smallcaps>
+        of Heaven\u2019s Armies, the God of Israel,\u201CMoab and Ammon will be destroyed\u2014destroyed
+        as completely as Sodom and Gomorrah.Their land will become a place of stinging
+        nettles,salt pits, and eternal desolation.The remnant of my people will plunder
+        themand take their land.\u201D  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "They will receive the wages of their pride,for they have scoffed
+        at the people of the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies.  "
+      comments: []
+    - name: '11: Judgment against Ethiopia and Assyria'
+      title: Judgment against Ethiopia and Assyria
+      number: 11
+      content: 'The <smallcaps>Lord</smallcaps> will terrify themas he destroys all
+        the gods in the land.Then nations around the world will worship the <smallcaps>Lord</smallcaps>,each
+        in their own land.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CYou Ethiopians[[COMMENT(0)]] will also be slaughteredby my
+        sword,\u201D says the <smallcaps>Lord</smallcaps>.  "
+      comments:
+      - number: '2:12 '
+        content: Hebrew <b>Cushites.</b>
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And the <smallcaps>Lord</smallcaps> will strike the lands of the
+        north with his fist,destroying the land of Assyria.He will make its great
+        capital, Nineveh, a desolate wasteland,parched like a desert.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The proud city will become a pasture for flocks and herds,and all
+        sorts of wild animals will settle there.The desert owl and screech owl will
+        roost on its ruined columns,their calls echoing through the gaping windows.Rubble
+        will block all the doorways,and the cedar paneling will be exposed to the
+        weather.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "This is the boisterous city,once so secure.\u201CI am the greatest!\u201D
+        it boasted.\u201CNo other city can compare with me!\u201DBut now, look how
+        it has become an utter ruin,a haven for wild animals.Everyone passing by
+        will laugh in derisionand shake a defiant fist."
+      comments: []
+  - verses:
+    - name: "1: Jerusalem\u2019s Rebellion and Redemption"
+      title: "Jerusalem\u2019s Rebellion and Redemption"
+      number: 1
+      content: '  What sorrow awaits rebellious, polluted Jerusalem,the city of violence
+        and crime!  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'No one can tell it anything;it refuses all correction.It does not
+        trust in the <smallcaps>Lord</smallcaps>or draw near to its God.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Its leaders are like roaring lionshunting for their victims.Its judges
+        are like ravenous wolves at evening time,who by dawn have left no trace of
+        their prey.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Its prophets are arrogant liars seeking their own gain.Its priests
+        defile the Temple by disobeying God\u2019s instructions.  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'But the <smallcaps>Lord</smallcaps> is still there in the city,and
+        he does no wrong.Day by day he hands down justice,and he does not fail.But
+        the wicked know no shame.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "\u201CI have wiped out many nations,devastating their fortress walls
+        and towers.Their streets are now deserted;their cities lie in silent ruin.There
+        are no survivors\u2014none at all.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "I thought, \u2018Surely they will have reverence for me now!Surely
+        they will listen to my warnings.Then I won\u2019t need to strike again,destroying
+        their homes.\u2019But no, they get up earlyto continue their evil deeds.  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Therefore, be patient,\u201D says the <smallcaps>Lord</smallcaps>.\u201CSoon
+        I will stand and accuse these evil nations.For I have decided to gather the
+        kingdoms of the earthand pour out my fiercest anger and fury on them.All
+        the earth will be devouredby the fire of my jealousy.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CThen I will purify the speech of all people,so that everyone
+        can worship the <smallcaps>Lord</smallcaps> together.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'My scattered people who live beyond the rivers of Ethiopia[[COMMENT(0)]]will
+        come to present their offerings.  '
+      comments:
+      - number: '3:10 '
+        content: Hebrew <b>Cush.</b>
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'On that day you will no longer need to be ashamed,for you will no
+        longer be rebels against me.I will remove all proud and arrogant people from
+        among you.There will be no more haughtiness on my holy mountain.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Those who are left will be the lowly and humble,for it is they who
+        trust in the name of the <smallcaps>Lord</smallcaps>.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "The remnant of Israel will do no wrong;they will never tell lies
+        or deceive one another.They will eat and sleep in safety,and no one will
+        make them afraid.\u201D  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Sing, O daughter of Zion;shout aloud, O Israel!Be glad and rejoice
+        with all your heart,O daughter of Jerusalem!  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'For the <smallcaps>Lord</smallcaps> will remove his hand of judgmentand
+        will disperse the armies of your enemy.And the <smallcaps>Lord </smallcaps>himself,
+        the King of Israel,will live among you!At last your troubles will be over,and
+        you will never again fear disaster.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "On that day the announcement to Jerusalem will be,\u201CCheer up,
+        Zion! Don\u2019t be afraid!  "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "For the <smallcaps>Lord</smallcaps> your God is living among you.He
+        is a mighty savior.He will take delight in you with gladness.With his love,
+        he will calm all your fears.[[COMMENT(0)]]He will rejoice over you with joyful
+        songs.\u201D  "
+      comments:
+      - number: '3:17 '
+        content: Or <b>He will be silent in his love. </b>Greek and Syriac versions
+          read <b>He will renew you with his love.</b>
+    - name: '18: '
+      title: 
+      number: 18
+      content: "\u201CI will gather you who mourn for the appointed festivals;you
+        will be disgraced no more.[[COMMENT(0)]]  "
+      comments:
+      - number: '3:18 '
+        content: The meaning of the Hebrew for this verse is uncertain.
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'And I will deal severely with all who have oppressed you.I will save
+        the weak and helpless ones;I will bring togetherthose who were chased away.I
+        will give glory and fame to my former exiles,wherever they have been mocked
+        and shamed.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "On that day I will gather you togetherand bring you home again.I
+        will give you a good name, a name of distinction,among all the nations of
+        the earth,as I restore your fortunes before their very eyes.I, the <smallcaps>Lord</smallcaps>,
+        have spoken!\u201D"
+      comments: []

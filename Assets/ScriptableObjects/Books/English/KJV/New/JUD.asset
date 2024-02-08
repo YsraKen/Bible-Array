@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: JUD
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Jude
+  fancyName: 
+  nickname: jud
+  version: {fileID: 11400000, guid: bd3f8ba6a2445b646991a3e44f7f687a, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Jude, the servant of Jesus Christ, and brother of James, to them
+        that are sanctified by God the Father, and preserved in Jesus Christ, <i>and</i>
+        called: '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'mercy unto you, and peace, and love, be multiplied.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Beloved, when I gave all diligence to write unto you of the common
+        salvation, it was needful for me to write unto you, and exhort <i>you</i>
+        that ye should earnestly contend for the faith which was once delivered unto
+        the saints. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'For there are certain men crept in unawares, who were before of old
+        ordained to this condemnation, ungodly men, turning the grace of our God
+        into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'I will therefore put you in remembrance, though ye once knew this,
+        how that the Lord, having saved the people out of the land of Egypt, afterward
+        destroyed them that believed not. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And the angels which kept not their first estate, but left their
+        own habitation, he hath reserved in everlasting chains under darkness unto
+        the judgment of the great day. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Even as Sodom and Gomorrha, and the cities about them in like manner,
+        giving themselves over to fornication, and going after strange flesh, are
+        set forth for an example, suffering the vengeance of eternal fire.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Likewise also these <i>filthy</i> dreamers defile the flesh, despise
+        dominion, and speak evil of dignities. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Yet Michael the archangel, when contending with the devil he disputed
+        about the body of Moses, durst not bring against him a railing accusation,
+        but said, The Lord rebuke thee. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'But these speak evil of those things which they know not: but what
+        they know naturally, as brute beasts, in those things they corrupt themselves. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Woe unto them! for they have gone in the way of Cain, and ran greedily
+        after the error of Balaam for reward, and perished in the gainsaying of Core. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'These are spots in your feasts of charity, when they feast with you,
+        feeding themselves without fear: clouds <i>they are</i> without water, carried
+        about of winds; trees whose fruit withereth, without fruit, twice dead, plucked
+        up by the roots; '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'raging waves of the sea, foaming out their own shame; wandering stars,
+        to whom is reserved the blackness of darkness for ever.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And Enoch also, the seventh from Adam, prophesied of these, saying,
+        Behold, the Lord cometh with ten thousands of his saints, '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'to execute judgment upon all, and to convince all that are ungodly
+        among them of all their ungodly deeds which they have ungodly committed,
+        and of all their hard <i>speeches</i> which ungodly sinners have spoken against
+        him.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'These are murmurers, complainers, walking after their own lusts;
+        and their mouth speaketh great swelling <i>words</i>, having men''s persons
+        in admiration because of advantage.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'But, beloved, remember ye the words which were spoken before of the
+        apostles of our Lord Jesus Christ; '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'how that they told you there should be mockers in the last time,
+        who should walk after their own ungodly lusts. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'These be they who separate themselves, sensual, having not the Spirit. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'But ye, beloved, building up yourselves on your most holy faith,
+        praying in the Holy Ghost, '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'keep yourselves in the love of God, looking for the mercy of our
+        Lord Jesus Christ unto eternal life. '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'And of some have compassion, making a difference: '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'and others save with fear, pulling <i>them</i> out of the fire; hating
+        even the garment spotted by the flesh.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'Now unto him that is able to keep you from falling, and to present
+        <i>you</i> faultless before the presence of his glory with exceeding joy, '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: to the only wise God our Saviour, <i>be</i> glory and majesty, dominion
+        and power, both now and ever. Amen.
+      comments: []

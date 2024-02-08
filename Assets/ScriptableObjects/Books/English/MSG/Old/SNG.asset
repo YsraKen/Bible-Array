@@ -1,0 +1,789 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: SNG
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Song of Songs
+  fancyName: 
+  nickname: sng
+  version: {fileID: 11400000, guid: 433894a244f646848a22a9c7d127b66b, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Young Woman1:1 The headings identifying the speakers are not in the
+        original text, though the Hebrew usually gives clues by means of the gender
+        of the person speaking.'
+      title: Young Woman1:1 The headings identifying the speakers are not in the
+        original text, though the Hebrew usually gives clues by means of the gender
+        of the person speaking.
+      number: 1
+      content: "  This is Solomon\u2019s song of songs, more wonderful than any other.[[COMMENT(0)]]  "
+      comments:
+      - number: <span class="ChapterContent_heading__xBDcs">1:1 </span>
+        content: <span class="ChapterContent_heading__xBDcs">The headings identifying
+          the speakers are not in the original text, though the Hebrew usually gives
+          clues by means of the gender of the person speaking.</span>
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Kiss me and kiss me again,for your love is sweeter than wine.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'How pleasing is your fragrance;your name is like the spreading fragrance
+        of scented oils.No wonder all the young women love you!  '
+      comments: []
+    - name: '4: Young Women of JerusalemYoung Woman'
+      title: Young Women of JerusalemYoung Woman
+      number: 4
+      content: "Take me with you; come, let\u2019s run!The king has brought me into
+        his bedroom.How happy we are for you, O king.We praise your love even more
+        than wine.How right they are to adore you.  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "I am dark but beautiful,O women of Jerusalem\u2014dark as the tents
+        of Kedar,dark as the curtains of Solomon\u2019s tents.  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Don\u2019t stare at me because I am dark\u2014the sun has darkened
+        my skin.My brothers were angry with me;they forced me to care for their vineyards,so
+        I couldn\u2019t care for myself\u2014my own vineyard.  "
+      comments: []
+    - name: '7: Young Man'
+      title: Young Man
+      number: 7
+      content: 'Tell me, my love, where are you leading your flock today?Where will
+        you rest your sheep at noon?For why should I wander like a prostitute[[COMMENT(0)]]among
+        your friends and their flocks?  '
+      comments:
+      - number: '1:7 '
+        content: Hebrew <b>like a veiled woman.</b>
+    - name: '8: '
+      title: 
+      number: 8
+      content: "If you don\u2019t know, O most beautiful woman,follow the trail of
+        my flock,and graze your young goats by the shepherds\u2019 tents.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "You are as exciting, my darling,as a mare among Pharaoh\u2019s stallions.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'How lovely are your cheeks;your earrings set them afire!How lovely
+        is your neck,enhanced by a string of jewels.  '
+      comments: []
+    - name: '11: Young Woman'
+      title: Young Woman
+      number: 11
+      content: 'We will make for you earrings of goldand beads of silver.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The king is lying on his couch,enchanted by the fragrance of my perfume.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'My lover is like a sachet of myrrhlying between my breasts.  '
+      comments: []
+    - name: '14: Young Man'
+      title: Young Man
+      number: 14
+      content: 'He is like a bouquet of sweet henna blossomsfrom the vineyards of
+        En-gedi.  '
+      comments: []
+    - name: '15: Young Woman'
+      title: Young Woman
+      number: 15
+      content: 'How beautiful you are, my darling,how beautiful!Your eyes are like
+        doves.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'You are so handsome, my love,pleasing beyond words!The soft grass
+        is our bed;  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: fragrant cedar branches are the beams of our house,and pleasant smelling
+        firs are the rafters.
+      comments: []
+  - verses:
+    - name: '1: Young WomanYoung Man'
+      title: Young WomanYoung Man
+      number: 1
+      content: '  I am the spring crocus blooming on the Sharon Plain,[[COMMENT(0)]]the
+        lily of the valley.  '
+      comments:
+      - number: '2:1 '
+        content: Traditionally rendered <b>I am the rose of Sharon. </b>Sharon Plain
+          is a region in the coastal plain of Palestine.
+    - name: '2: Young Woman'
+      title: Young Woman
+      number: 2
+      content: 'Like a lily among thistlesis my darling among young women.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Like the finest apple tree in the orchardis my lover among other
+        young men.I sit in his delightful shadeand taste his delicious fruit.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "He escorts me to the banquet hall;it\u2019s obvious how much he loves
+        me.  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Strengthen me with raisin cakes,refresh me with apples,for I am weak
+        with love.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'His left arm is under my head,and his right arm embraces me.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Promise me, O women of Jerusalem,by the gazelles and wild deer,not
+        to awaken love until the time is right.[[COMMENT(0)]]  '
+      comments:
+      - number: '2:7 '
+        content: Or <b>not to awaken love until it is ready.</b>
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Ah, I hear my lover coming!He is leaping over the mountains,bounding
+        over the hills.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'My lover is like a swift gazelleor a young stag.Look, there he is
+        behind the wall,looking through the window,peering into the room.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "My lover said to me,\u201CRise up, my darling!Come away with me,
+        my fair one!  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Look, the winter is past,and the rains are over and gone.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The flowers are springing up,the season of singing birds[[COMMENT(0)]]
+        has come,and the cooing of turtledoves fills the air.  '
+      comments:
+      - number: '2:12 '
+        content: Or <b>the season of pruning vines.</b>
+    - name: '13: Young Man'
+      title: Young Man
+      number: 13
+      content: "The fig trees are forming young fruit,and the fragrant grapevines
+        are blossoming.Rise up, my darling!Come away with me, my fair one!\u201D  "
+      comments: []
+    - name: '14: Young Women of Jerusalem'
+      title: Young Women of Jerusalem
+      number: 14
+      content: 'My dove is hiding behind the rocks,behind an outcrop on the cliff.Let
+        me see your face;let me hear your voice.For your voice is pleasant,and your
+        face is lovely.  '
+      comments: []
+    - name: '15: Young Woman'
+      title: Young Woman
+      number: 15
+      content: 'Catch all the foxes,those little foxes,before they ruin the vineyard
+        of love,for the grapevines are blossoming!  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'My lover is mine, and I am his.He browses among the lilies.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Before the dawn breezes blowand the night shadows flee,return to me,
+        my love, like a gazelleor a young stag on the rugged mountains.[[COMMENT(0)]]
+      comments:
+      - number: '2:17 '
+        content: Or <b>on the hills of Bether.</b>
+  - verses:
+    - name: '1: Young Woman'
+      title: Young Woman
+      number: 1
+      content: '  One night as I lay in bed, I yearned for my lover.I yearned for
+        him, but he did not come.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "So I said to myself, \u201CI will get up and roam the city,searching
+        in all its streets and squares.I will search for the one I love.\u201DSo
+        I searched everywhere but did not find him.  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "The watchmen stopped me as they made their rounds,and I asked, \u201CHave
+        you seen the one I love?\u201D  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Then scarcely had I left themwhen I found my love!I caught and held
+        him tightly,then I brought him to my mother\u2019s house,into my mother\u2019s
+        bed, where I had been conceived.  "
+      comments: []
+    - name: '5: Young Women of Jerusalem'
+      title: Young Women of Jerusalem
+      number: 5
+      content: 'Promise me, O women of Jerusalem,by the gazelles and wild deer,not
+        to awaken love until the time is right.[[COMMENT(0)]]  '
+      comments:
+      - number: '3:5 '
+        content: Or <b>not to awaken love until it is ready.</b>
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Who is this sweeping in from the wildernesslike a cloud of smoke?Who
+        is it, fragrant with myrrh and frankincenseand every kind of spice?  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Look, it is Solomon\u2019s carriage,surrounded by sixty heroic men,the
+        best of Israel\u2019s soldiers.  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'They are all skilled swordsmen,experienced warriors.Each wears a
+        sword on his thigh,ready to defend the king against an attack in the night.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "King Solomon\u2019s carriage is builtof wood imported from Lebanon.  "
+      comments: []
+    - name: '10: Young Woman'
+      title: Young Woman
+      number: 10
+      content: 'Its posts are silver,its canopy gold;its cushions are purple.It was
+        decorated with loveby the young women of Jerusalem.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: Come out to see King Solomon,young women of Jerusalem.[[COMMENT(0)]]He
+        wears the crown his mother gave him on his wedding day,his most joyous day.
+      comments:
+      - number: '3:11 '
+        content: Hebrew <b>of Zion.</b>
+  - verses:
+    - name: '1: Young Man'
+      title: Young Man
+      number: 1
+      content: '  You are beautiful, my darling,beautiful beyond words.Your eyes
+        are like dovesbehind your veil.Your hair falls in waves,like a flock of goats
+        winding down the slopes of Gilead.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Your teeth are as white as sheep,recently shorn and freshly washed.Your
+        smile is flawless,each tooth matched with its twin.[[COMMENT(0)]]  '
+      comments:
+      - number: '4:2 '
+        content: Hebrew <b>Not one is missing; each has a twin.</b>
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Your lips are like scarlet ribbon;your mouth is inviting.Your cheeks
+        are like rosy pomegranatesbehind your veil.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Your neck is as beautiful as the tower of David,jeweled with the
+        shields of a thousand heroes.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Your breasts are like two fawns,twin fawns of a gazelle grazing among
+        the lilies.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Before the dawn breezes blowand the night shadows flee,I will hurry
+        to the mountain of myrrhand to the hill of frankincense.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'You are altogether beautiful, my darling,beautiful in every way.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Come with me from Lebanon, my bride,come with me from Lebanon.Come
+        down[[COMMENT(0)]] from Mount Amana,from the peaks of Senir and Hermon,where
+        the lions have their densand leopards live among the hills.  '
+      comments:
+      - number: '4:8 '
+        content: Or <b>Look down.</b>
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'You have captured my heart,my treasure,[[COMMENT(0)]] my bride.You
+        hold it hostage with one glance of your eyes,with a single jewel of your
+        necklace.  '
+      comments:
+      - number: '4:9 '
+        content: Hebrew <b>my sister; </b>also in 4:10, 12.
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Your love delights me,my treasure, my bride.Your love is better than
+        wine,your perfume more fragrant than spices.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Your lips are as sweet as nectar, my bride.Honey and milk are under
+        your tongue.Your clothes are scentedlike the cedars of Lebanon.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'You are my private garden, my treasure, my bride,a secluded spring,
+        a hidden fountain.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Your thighs shelter a paradise of pomegranateswith rare spices\u2014henna
+        with nard,  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'nard and saffron,fragrant calamus and cinnamon,with all the trees
+        of frankincense, myrrh, and aloes,and every other lovely spice.  '
+      comments: []
+    - name: '15: Young Woman'
+      title: Young Woman
+      number: 15
+      content: "You are a garden fountain,a well of fresh waterstreaming down from
+        Lebanon\u2019s mountains.  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: Awake, north wind!Rise up, south wind!Blow on my gardenand spread
+        its fragrance all around.Come into your garden, my love;taste its finest
+        fruits.
+      comments: []
+  - verses:
+    - name: '1: Young ManYoung Women of JerusalemYoung Woman'
+      title: Young ManYoung Women of JerusalemYoung Woman
+      number: 1
+      content: '  I have entered my garden, my treasure,[[COMMENT(0)]] my bride!I
+        gather myrrh with my spicesand eat honeycomb with my honey.I drink wine with
+        my milk.Oh, lover and beloved, eat and drink!Yes, drink deeply of your love!  '
+      comments:
+      - number: '5:1 '
+        content: Hebrew <b>my sister; </b>also in 5:2.
+    - name: '2: '
+      title: 
+      number: 2
+      content: "I slept, but my heart was awake,when I heard my lover knocking and
+        calling:\u201COpen to me, my treasure, my darling,my dove, my perfect one.My
+        head is drenched with dew,my hair with the dampness of the night.\u201D  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "But I responded,\u201CI have taken off my robe.Should I get dressed
+        again?I have washed my feet.Should I get them soiled?\u201D  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'My lover tried to unlatch the door,and my heart thrilled within me.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'I jumped up to open the door for my love,and my hands dripped with
+        perfume.My fingers dripped with lovely myrrhas I pulled back the bolt.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'I opened to my lover,but he was gone!My heart sank.I searched for
+        himbut could not find him anywhere.I called to him,but there was no reply.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The night watchmen found meas they made their rounds.They beat and
+        bruised meand stripped off my veil,those watchmen on the walls.  '
+      comments: []
+    - name: '8: Young Women of Jerusalem'
+      title: Young Women of Jerusalem
+      number: 8
+      content: "Make this promise, O women of Jerusalem\u2014If you find my lover,tell
+        him I am weak with love.  "
+      comments: []
+    - name: '9: Young Woman'
+      title: Young Woman
+      number: 9
+      content: 'Why is your lover better than all others,O woman of rare beauty?What
+        makes your lover so specialthat we must promise this?  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'My lover is dark and dazzling,better than ten thousand others!  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'His head is finest gold,his wavy hair is black as a raven.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'His eyes sparkle like dovesbeside springs of water;they are set like
+        jewelswashed in milk.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'His cheeks are like gardens of spicesgiving off fragrance.His lips
+        are like lilies,perfumed with myrrh.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'His arms are like rounded bars of gold,set with beryl.His body is
+        like bright ivory,glowing with lapis lazuli.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'His legs are like marble pillarsset in sockets of finest gold.His
+        posture is stately,like the noble cedars of Lebanon.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: His mouth is sweetness itself;he is desirable in every way.Such, O
+        women of Jerusalem,is my lover, my friend.
+      comments: []
+  - verses:
+    - name: '1: Young Women of JerusalemYoung Woman'
+      title: Young Women of JerusalemYoung Woman
+      number: 1
+      content: '  Where has your lover gone,O woman of rare beauty?Which way did
+        he turnso we can help you find him?  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'My lover has gone down to his garden,to his spice beds,to browse
+        in the gardensand gather the lilies.  '
+      comments: []
+    - name: '3: Young Man'
+      title: Young Man
+      number: 3
+      content: "I am my lover\u2019s, and my lover is mine.He browses among the lilies.  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'You are beautiful, my darling,like the lovely city of Tirzah.Yes,
+        as beautiful as Jerusalem,as majestic as an army with billowing banners.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Turn your eyes away,for they overpower me.Your hair falls in waves,like
+        a flock of goats winding down the slopes of Gilead.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Your teeth are as white as sheepthat are freshly washed.Your smile
+        is flawless,each tooth matched with its twin.[[COMMENT(0)]]  '
+      comments:
+      - number: '6:6 '
+        content: Hebrew <b>Not one is missing; each has a twin.</b>
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Your cheeks are like rosy pomegranatesbehind your veil.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Even among sixty queensand eighty concubinesand countless young women,  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "I would still choose my dove, my perfect one\u2014the favorite of
+        her mother,dearly loved by the one who bore her.The young women see her and
+        praise her;even queens and royal concubines sing her praises:  "
+      comments: []
+    - name: '10: Young Woman'
+      title: Young Woman
+      number: 10
+      content: "\u201CWho is this, arising like the dawn,as fair as the moon,as bright
+        as the sun,as majestic as an army with billowing banners?\u201D  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'I went down to the grove of walnut treesand out to the valley to
+        see the new spring growth,to see whether the grapevines had buddedor the
+        pomegranates were in bloom.  '
+      comments: []
+    - name: '12: Young Women of Jerusalem'
+      title: Young Women of Jerusalem
+      number: 12
+      content: 'Before I realized it,my strong desires had taken me to the chariot
+        of a noble man.[[COMMENT(0)]]  '
+      comments:
+      - number: '6:12 '
+        content: 'Or <b>to the royal chariots of my people, </b>or <b>to the chariots
+          of Amminadab. </b>The meaning of the Hebrew is uncertain.  '
+    - name: '13: Young Man'
+      title: Young Man
+      number: 13
+      content: '  [[COMMENT(0)]]Return, return to us, O maid of Shulam.Come back,
+        come back, that we may see you again.Why do you stare at this young woman
+        of Shulam,as she moves so gracefully between two lines of dancers?[[COMMENT(1)]]'
+      comments:
+      - number: '6:13a '
+        content: '  Verse 6:13 is numbered 7:1 in Hebrew text.  '
+      - number: '6:13b '
+        content: Or <b>as you would at the movements of two armies? </b>or <b>as
+          you would at the dance of Mahanaim? </b>The meaning of the Hebrew is uncertain.
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '    [[COMMENT(0)]]How beautiful are your sandaled feet,O queenly
+        maiden.Your rounded thighs are like jewels,the work of a skilled craftsman.  '
+      comments:
+      - number: '7:1 '
+        content: '  Verses 7:1-13 are numbered 7:2-14 in Hebrew text.  '
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Your navel is perfectly formedlike a goblet filled with mixed wine.Between
+        your thighs lies a mound of wheatbordered with lilies.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Your breasts are like two fawns,twin fawns of a gazelle.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Your neck is as beautiful as an ivory tower.Your eyes are like the
+        sparkling pools in Heshbonby the gate of Bath-rabbim.Your nose is as fine
+        as the tower of Lebanonoverlooking Damascus.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Your head is as majestic as Mount Carmel,and the sheen of your hair
+        radiates royalty.The king is held captive by its tresses.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Oh, how beautiful you are!How pleasing, my love, how full of delights!  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'You are slender like a palm tree,and your breasts are like its clusters
+        of fruit.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "I said, \u201CI will climb the palm treeand take hold of its fruit.\u201DMay
+        your breasts be like grape clusters,and the fragrance of your breath like
+        apples.  "
+      comments: []
+    - name: '9: Young Woman'
+      title: Young Woman
+      number: 9
+      content: "May your kisses be as exciting as the best wine\u2014Yes, wine that
+        goes down smoothly for my lover,flowing gently over lips and teeth.[[COMMENT(0)]]  "
+      comments:
+      - number: '7:9 '
+        content: As in Greek and Syriac versions and Latin Vulgate; Hebrew reads
+          <b>over lips of sleepers.</b>
+    - name: '10: '
+      title: 
+      number: 10
+      content: "I am my lover\u2019s,and he claims me as his own.  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Come, my love, let us go out to the fieldsand spend the night among
+        the wildflowers.[[COMMENT(0)]]  '
+      comments:
+      - number: '7:11 '
+        content: Or <b>in the villages.</b>
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Let us get up early and go to the vineyardsto see if the grapevines
+        have budded,if the blossoms have opened,and if the pomegranates have bloomed.There
+        I will give you my love.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: There the mandrakes give off their fragrance,and the finest fruits
+        are at our door,new delights as well as old,which I have saved for you, my
+        lover.
+      comments: []
+  - verses:
+    - name: '1: Young Woman'
+      title: Young Woman
+      number: 1
+      content: "  Oh, I wish you were my brother,who nursed at my mother\u2019s breasts.Then
+        I could kiss you no matter who was watching,and no one would criticize me.  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'I would bring you to my childhood home,and there you would teach
+        me.[[COMMENT(0)]]I would give you spiced wine to drink,my sweet pomegranate
+        wine.  '
+      comments:
+      - number: '8:2 '
+        content: Or <b>there she will teach me.</b>
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Your left arm would be under my head,and your right arm would embrace
+        me.  '
+      comments: []
+    - name: '4: Young Women of Jerusalem'
+      title: Young Women of Jerusalem
+      number: 4
+      content: 'Promise me, O women of Jerusalem,not to awaken love until the time
+        is right.[[COMMENT(0)]]  '
+      comments:
+      - number: '8:4 '
+        content: Or <b>not to awaken love until it is ready.</b>
+    - name: '5: Young Woman'
+      title: Young Woman
+      number: 5
+      content: 'Who is this sweeping in from the desert,leaning on her lover?I aroused
+        you under the apple tree,where your mother gave you birth,where in great
+        pain she delivered you.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Place me like a seal over your heart,like a seal on your arm.For
+        love is as strong as death,its jealousy[[COMMENT(0)]] as enduring as the
+        grave.[[COMMENT(1)]]Love flashes like fire,the brightest kind of flame.  '
+      comments:
+      - number: '8:6a '
+        content: Or <b>its passion.</b>
+      - number: '8:6b '
+        content: Hebrew <b>as Sheol.</b>
+    - name: "7: The Young Woman\u2019s Brothers"
+      title: "The Young Woman\u2019s Brothers"
+      number: 7
+      content: 'Many waters cannot quench love,nor can rivers drown it.If a man tried
+        to buy lovewith all his wealth,his offer would be utterly scorned.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'We have a little sistertoo young to have breasts.What will we do
+        for our sisterif someone asks to marry her?  '
+      comments: []
+    - name: '9: Young Woman'
+      title: Young Woman
+      number: 9
+      content: 'If she is a virgin, like a wall,we will protect her with a silver
+        tower.But if she is promiscuous, like a swinging door,we will block her door
+        with a cedar bar.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'I was a virgin, like a wall;now my breasts are like towers.When my
+        lover looks at me,he is delighted with what he sees.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Solomon has a vineyard at Baal-hamon,which he leases out to tenant
+        farmers.Each of them pays a thousand pieces of silverfor harvesting its fruit.  '
+      comments: []
+    - name: '12: Young Man'
+      title: Young Man
+      number: 12
+      content: 'But my vineyard is mine to give,and Solomon need not pay a thousand
+        pieces of silver.But I will give two hundred piecesto those who care for
+        its vines.  '
+      comments: []
+    - name: '13: Young Woman'
+      title: Young Woman
+      number: 13
+      content: 'O my darling, lingering in the gardens,your companions are fortunate
+        to hear your voice.Let me hear it, too!  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: Come away, my love! Be like a gazelleor a young stag on the mountains
+        of spices.
+      comments: []

@@ -4,12 +4,15 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.Networking;
+using UnityEngine.UI;
+
+#if UNITY_EDITOR
+using UnityEditor;
+#endif
 
 public class BibleDownloader : MonoBehaviour
 {
 	public Book[] books;
-	public Book[] booksArrangeCopy;
-	public List<Book> arrangedBooks = new List<Book>();
 	
 	public string urlPre;
 	public string urlPost;
@@ -17,14 +20,55 @@ public class BibleDownloader : MonoBehaviour
 	
 	[Space]
 	public Book currentBook;
+	public int currentChapter;
+	
 	public BibleExtractor extractor;
+	public GeneralInformation genInfo;
 	
 	[Range(0,1)]
 	public float bookProgress, allProgress;
 	
+	public float StartTime { get; private set; }
+	public float BookStartTime { get; private set; }
+	public bool IsDone { get; private set; }
+	
+	#region UI
+	
+	private static Text _urlTxt;
+	private static Image _graphTemplate;
+	
+	public static float longestTime;
+	public static float graphMultiplierNormalized { get; set; } = 1f;
+	
+	public static List<GraphInstance> graphInstances = new List<GraphInstance>();
+	
+	public class GraphInstance
+	{
+		public Image img;
+		public float sec;
+		
+		public GraphInstance(Image img, float sec)
+		{
+			this.img = img;
+			this.sec = sec;
+		}
+	}
+	
+	#endregion
+	
+	void Awake()
+	{
+		if(!_urlTxt)
+			_urlTxt = GameObject.FindWithTag("Download URL").GetComponent<Text>();
+		
+		if(!_graphTemplate)
+			_graphTemplate = GameObject.FindWithTag("Download Graph").GetComponent<Image>();
+	}
+	
 	IEnumerator Start()
 	{
-		float startTime = Time.time;
+		IsDone = false;
+		StartTime = Time.time;
 		
 		for(int i = 0; i < books.Length; i++)
 		{
@@ -34,19 +78,31 @@ public class BibleDownloader : MonoBehaviour
 			yield return Download(currentBook);
 		}
 		
-		float duration = Time.time - startTime;
+		var version = books[0].version;
+			version.SetBooks(GetArrangedBooks());
+		
+		yield return null;
+		
+		float duration = Time.time - StartTime;
 		Debug.Log($"<b>EXIT! duration: <color=green>'{duration} seconds'</color></b>");
+		
+		IsDone = true;
 	}
 	
 	IEnumerator Download(Book book)
 	{
 		int numberOfChapters = book.chapters.Length;
-		float startTime = Time.time;
+		BookStartTime = Time.time;
 		
 		for(int i = 0; i < numberOfChapters; i++)
 		{
+			currentChapter = i + 1;
+			
 			string url = $"{urlPre}{book.name}.{i + 1}{urlPost}";
 			string html = "";
+			
+			if(_urlTxt)
+				_urlTxt.text = url;
 			
 			yield return GetWebData(url, downloadData => html = downloadData);
 			
@@ -55,7 +111,6 @@ public class BibleDownloader : MonoBehaviour
 			
 			yield return null;
 			
-			// Debug.Log($"{i} / {numberOfChapters}");
 			extractor.text = html;
 			extractor.Extract();
 			
@@ -67,12 +122,19 @@ public class BibleDownloader : MonoBehaviour
 			bookProgress = (float) i / (float) (numberOfChapters - 1);
 		}
 		
-		float duration = Time.time - startTime;
-		Debug.Log($"Done: <b><color=cyan>{book.name}</color></b>. duration: <color=yellow>'{duration} seconds'</color>");
+		book.SetName(extractor.bookName);
+		
+		float duration = Time.time - BookStartTime;
+		Debug.Log($"Done: <b>{book.version.NameCode}: <color=cyan>{book.name}</color></b>. duration: <color=yellow>'{duration.ToString("0.00")} seconds'</color>");
 		
 		#if UNITY_EDITOR
-		UnityEditor.EditorUtility.SetDirty(book);
+		EditorUtility.SetDirty(book);
 		#endif
+		
+		if(_graphTemplate)
+			UpdateGraphUI(duration, book);
+		
+		yield return null;
 	}
 	
 	IEnumerator GetWebData(string url, Action<string> onLoad)
@@ -98,221 +160,85 @@ public class BibleDownloader : MonoBehaviour
 		foreach(var book in books)
 			book.ToJson();
 	}
-	#endif
-	
-	/* Chapter Extract(string html)
-	{
-		var infos = new List<Info>();
-		var verses = new List<Verse>();
-		
-		int index = 0;
-		
-		while(index < html.Length)
-		{
-			index = html.IndexOf("<span", index);
-			if(index < 0) break;
-			
-			string tag = "";
-			
-			// Tag
-			while(true)
-			{
-				char c = html[index ++];
-				tag += c;
-				
-				if(c == '>') break;
-			}
-			
-			// Identify Tag
-			int typeIndex = Array.FindIndex(tags, t => t == tag);
-			if(typeIndex < 0) continue;
-			
-			var info = new Info((InfoType) typeIndex);
-				infos.Add(info);
-			
-			// Content
-			while(true)
-			{
-				char c = html[index];
-				
-				if(c == '<')
-				{
-					#region Search for special tags "LORD" smallcaps
-					
-					string potentialLordTag = "";
-					string closing = "</span>";
-					
-					if(index + closing.Length + lordTag.Length < html.Length)
-						potentialLordTag = html.Substring(index + closing.Length, lordTag.Length);
-					
-					if(potentialLordTag == lordTag)
-					{
-						info.content[typeIndex] += "<smallcaps>";
-						index += lordTag.Length + closing.Length;
-						
-						string lordContent = "";
-						c = html[index ++];
-						
-						while(c != '<')
-						{
-							lordContent += c;
-							c = html[index ++];
-							
-							// if() break;
-						}
-						
-						info.content[typeIndex] += lordContent;
-						info.content[typeIndex] += "</smallcaps>";
-						
-						index += closing.Length * 2;
-						index -= 1;
-					}
-					#endregion
-					
-					break;
-				}
-				
-				info.content[typeIndex] += c;
-				index ++;
-			}
-		}
-		
-		string titleCache = "";
-		int currentVerseIndex = 0;
-		List<Verse.Comment> currentComments = new List<Verse.Comment>();
-		InfoType previousType = default;
-		
-		for(int i = 0; i < infos.Count; i++)
-		{
-			var info = infos[i];
-			
-			switch(info.type)
-			{
-				case InfoType.Title:
-					titleCache = info.Content;
-					break;
-				
-				case InfoType.VerseNumber:
-					if(int.TryParse(info.Content, out int number))
-					{
-						var verse = new Verse();
-						
-						if(!string.IsNullOrEmpty(titleCache))
-						{
-							verse.title = titleCache;
-							titleCache = null;
-						}
-						
-						verses.Add(verse);
-						currentVerseIndex = verses.Count - 1;
-					}
-					break;
-				
-				case InfoType.VerseBody:
-				{
-					if(verses.IsInsideRange(currentVerseIndex))
-					{
-						var verse = verses[currentVerseIndex];
-						string value = info.Content;
-						// string value = previousType == InfoType.VerseBody? "\n	" + info.Content: info.Content;
-						// string value = previousType == InfoType.VerseBody? " " + info.Content: info.Content;
-						
-						if(previousType == InfoType.VerseBody)
-						{
-							char first = value[0];
-							
-							if(first != ' ')
-								value = value.Insert(0, "\n	");
-						}
-					
-						verse.content += value;
-					}
-				}
-				break;
-				
-				case InfoType.CommentNumber:
-				{
-					if(!verses.IsInsideRange(currentVerseIndex))
-						verses.Add(new Verse());
-						
-					var verse = verses[currentVerseIndex];
-					
-					var comment = new Verse.Comment();
-						comment.number = info.Content;
-					
-					var comments = verse.comments != null? verse.comments.ToList(): new List<Verse.Comment>();
-						comments.Add(comment);
-					
-					verse.comments = comments.ToArray();
-					verse.content += "[COMMENT[" + (comments.Count - 1) + "]]";
-				}
-				break;
-				
-				case InfoType.CommentFt:
-				{
-					if(!verses.IsInsideRange(currentVerseIndex))
-						verses.Add(new Verse());
-					
-					var verse = verses[currentVerseIndex];
-					
-					if(verse.comments.IsNullOrEmpty())
-						verse.comments = new Verse.Comment[]{ new Verse.Comment() };
-				
-					int commentIndex = verse.comments.Length - 1;
-					var comment = verse.comments[commentIndex];
-					
-					var commentContent = new Verse.Comment.Content();
-						commentContent.ft = info.Content;
-					
-					var commentContents = comment.contents != null? comment.contents.ToList(): new List<Verse.Comment.Content>();
-						commentContents.Add(commentContent);
-					
-					comment.contents = commentContents.ToArray();
-				}
-				break;
-				
-				case InfoType.CommentBody:
-				{
-					var verse = verses[currentVerseIndex];
-					
-					int commentIndex = verse.comments.Length - 1;
-					var comment = verse.comments[commentIndex];
-					
-					var commentContents = comment.contents != null? comment.contents.ToList(): new List<Verse.Comment.Content>();
-					
-					if(commentContents.Count > 0)
-					{
-						var commentContent = commentContents[commentContents.Count - 1];
-							commentContent.body = info.Content;
-					}
-					else
-					{
-						var commentContent = new Verse.Comment.Content();
-							commentContent.body = info.Content;
-						
-						commentContents.Add(commentContent);
-					}
-					
-					comment.contents = commentContents.ToArray();
-				}
-				break;
-			}
-			previousType = info.type;
-		}
-		
-		return new Chapter(){ verses = verses.ToArray() };
-	} */
 	
 	[ContextMenu("Arrange Books")]
 	void ArrangeBooks()
 	{
-		arrangedBooks.Clear();
+		var version = books[0].version;
+			version.SetBooks(GetArrangedBooks());
 		
-		foreach(var book in booksArrangeCopy)
+		EditorUtility.SetDirty(version);
+	}
+	#endif
+	
+	Book[] GetArrangedBooks()
+	{
+		int count = genInfo.bookChapterVerseInfos.Length;
+		var arrangedBooks = new Book[count];
+		
+		for(int i = 0; i < count; i++)
 		{
-			var target = Array.Find(books, b => b.name == book.name);
+			var target = Array.Find(books, b => b.name == genInfo.bookChapterVerseInfos[i].name);	
+			arrangedBooks[i] = target;
+		}
+		
+		return arrangedBooks;
+	}
+	
+	#region UI
+	
+	private void UpdateGraphUI(float duration, Book book)
+	{
+		_graphTemplate.gameObject.SetActive(true);
+		{
+			var graph = Instantiate(_graphTemplate, _graphTemplate.transform.parent, false);
 			
-			arrangedBooks.Add(target);
+			if(duration > longestTime)
+			{
+				longestTime = duration;
+				UpdateAllGraphs();
+			}
+			
+			float percent = Mathf.Clamp01(duration / (longestTime * graphMultiplierNormalized));
+			
+			graph.fillAmount = percent;
+			graph.color = Color.HSVToRGB(Mathf.Lerp(0, 0.8f, percent), 1, 1);
+			graph.GetComponentInChildren<Text>().text = $"<b>{book.version.NameCode}:</b> <i>{book.nickname.ToUpper()}</i> - {(duration).ToString("0.0")} s";
+			
+			graphInstances.Add(new GraphInstance(graph, duration));
+		}
+		_graphTemplate.gameObject.SetActive(false);	
+	}
+	
+	public static void UpdateAllGraphs()
+	{
+		if(!Application.isPlaying) return;
+		
+		foreach(var instance in graphInstances)
+		{
+			float newPercent = Mathf.Clamp01(instance.sec / (longestTime * graphMultiplierNormalized));
+			
+			var img = instance.img;
+				img.fillAmount = newPercent;
+				img.color = Color.HSVToRGB(Mathf.Lerp(0, 0.8f, newPercent), 1, 1);
 		}
 	}
+	
+	public static void SortGraphInstances(bool sort)
+	{
+		if(sort)
+		{
+			var sorted = graphInstances.OrderBy(instance => instance.sec).ToList();
+			
+			for(int i = 0; i < sorted.Count; i++)
+				sorted[i].img.transform.SetSiblingIndex(i);
+		}
+		else
+		{
+			for(int i = 0; i < graphInstances.Count; i++)
+				graphInstances[i].img.transform.SetSiblingIndex(i);
+		}
+	}
+	
+	#endregion
 }

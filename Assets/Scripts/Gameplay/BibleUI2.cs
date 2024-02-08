@@ -1,24 +1,34 @@
-using UnityEngine;
-using UnityEngine.UI;
-using TMPro;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.Serialization;
+using TMPro;
 
 public class BibleUI2 : MonoBehaviour
 {
 	public Version version;
 	
+	[SerializeField] private TMP_Text _chapterTmp;
 	[SerializeField] private VerseUI2 _verseTemplate;
 	
+	[HideInInspector]
 	public List<VerseUI2> _verseInstances = new List<VerseUI2>();
 	
+	[SerializeField] private Transform _header;
+	[SerializeField] private Transform _headerClampTarget;
+	
 	[SerializeField] private TMP_Text _versionTmp;
-	[SerializeField] private TMP_Dropdown _options;
+	// [SerializeField] private TMP_Dropdown _options;
 	
 	[Space]
 	[SerializeField] private RectTransform _rectTransform;
 	[SerializeField] private RectTransform _body;
 	
+	[field: SerializeField, FormerlySerializedAs("_cover")]
+	public GameObject Cover { get; private set; }
+	
+	[Space]
 	[SerializeField] private float _headSizeOffset = 40f;
 	[SerializeField] private float _footSizeOffset = 5f;
 	
@@ -27,28 +37,85 @@ public class BibleUI2 : MonoBehaviour
 	
 	public RectTransform Body => _body;
 	
+	static GameManager _mgr;
+	
+	IEnumerator Start()
+	{
+		Cover.SetActive(true);
+		
+		_mgr = GameManager.Instance;
+		yield return new WaitUntil(()=> _mgr.Started);
+		
+		var sizeDelta = _rectTransform.sizeDelta;
+			sizeDelta.x = _mgr.ScreenSize.x;
+		
+		if(sizeDelta.x > _mgr.DefaultMinWidth)
+			sizeDelta.x = _mgr.DefaultMinWidth;
+		
+		sizeDelta.x -= (sizeDelta.x * 0.0375f);
+		_rectTransform.sizeDelta = sizeDelta;
+		
+		yield return null;
+		Cover.SetActive(false);
+	}
+	
+	void LateUpdate()
+	{
+		// Clamping header
+		float headClampTarget = _headerClampTarget.position.y;
+		float screenTopPos = _mgr.HeadersClampRef.position.y;
+		float hudHeaderOffset = screenTopPos - 65f;
+		
+		float positionY = _header.position.y;
+		positionY = headClampTarget > screenTopPos? screenTopPos: headClampTarget;
+		
+		_header.position = new Vector3(_header.position.x, positionY, _header.position.z);
+	}
+	
 	[ContextMenu("Update Contents")]
 	public void UpdateContents()
 	{
-		int bookIndex = GameManager.Instance.CurrentBookIndex;
-		int chapterIndex = GameManager.Instance.CurrentChapterIndex;
-		
-		var book = version.Books[bookIndex];
-		var chapter = book.chapters[chapterIndex];
-		
-		_versionTmp.text = $"<b>[{version.NameCode}]</b> {book.Name} {chapterIndex + 1}";
-		
 		foreach(var verseInstance in _verseInstances)
 			Destroy(verseInstance.gameObject);
 		
 		_verseInstances.Clear();
 		
+		int bookIndex = _mgr.CurrentBookIndex;
+		int chapterIndex = _mgr.CurrentChapterIndex;
+		
+		var book = version.Books[bookIndex];
+		// _versionTmp.text = $"<b>[{version.NameCode}]</b>";
+		_versionTmp.text = version.Name;
+		
+		if(!book) return;
+		
+		var chapter = book.chapters[chapterIndex];
+		
+		// _versionTmp.text += $" {book.Name} {chapterIndex + 1}";
+		
+		string bookName = book.fancyName;
+		
+		if(string.IsNullOrEmpty(bookName))
+			bookName = book.Name;
+		
+		_chapterTmp.text = $"<size={_chapterTmp.fontSize * 2f}>{chapterIndex + 1}</size>\n{bookName}";
+		
 		_verseTemplate.gameObject.SetActive(true);
 		{
 			int index = 0;
 			
+			Verse previousVerse = null;
+			_verseTemplate.bible = this;
+			
 			foreach(var verse in chapter.verses)
-				_verseInstances.Add(_verseTemplate.Create(verse, index ++));
+			{
+				bool isDuplicated = previousVerse != null? verse.number == previousVerse.number: false;
+				
+				var instance = _verseTemplate.Create(index ++, verse, isDuplicated);
+				
+				_verseInstances.Add(instance);
+				previousVerse = verse;
+			}
 		}		
 		_verseTemplate.gameObject.SetActive(false);
 		_verseTemplate.transform.SetAsLastSibling();
@@ -97,7 +164,7 @@ public class BibleUI2 : MonoBehaviour
 		);
 	}
 	
-	public void OpenVersionSelector() => GameManager.Instance.OpenVersionSelector(this);
+	public void OpenVersionSelector() => _mgr.OpenVersionSelector(this);
 	
 	public void SetVersion(Version version)
 	{
@@ -110,26 +177,26 @@ public class BibleUI2 : MonoBehaviour
 		UpdateContents();
 	}
 	
-	public void OnOptionsOpen()
+	/* public void OnOptionsOpen()
 	{
 		_options.ClearOptions();
 		
 		var options = new List<TMP_Dropdown.OptionData>();
-		var mgr = GameManager.Instance;
+		var _mgr = _mgr;
 		
-		foreach(var option in mgr.BibleOptionsDefaultList)
+		foreach(var option in _mgr.BibleOptionsDefaultList)
 			options.Add(option);
 		
-		int recents = mgr.recents.Count;
+		int recents = _mgr.recents.Count;
 		
 		if(recents > 0)
 		{
-			var recent = mgr.recents[recents - 1];
-			options.Add(new TMP_Dropdown.OptionData(recent.NameCode, mgr.RecentIcon));
+			var recent = _mgr.recents[recents - 1];
+			options.Add(new TMP_Dropdown.OptionData(recent.NameCode, _mgr.RecentIcon));
 		}
 		
-		foreach(var favorite in mgr.favorites)
-			options.Add(new TMP_Dropdown.OptionData(favorite.NameCode, mgr.FavoritesIcon));
+		foreach(var favorite in _mgr.favorites)
+			options.Add(new TMP_Dropdown.OptionData(favorite.NameCode, _mgr.FavoritesIcon));
 		
 		_options.AddOptions(options);
 	}
@@ -159,5 +226,7 @@ public class BibleUI2 : MonoBehaviour
 					break;
 			}
 		}
-	}
+	} */
+	
+	public void OnDelete() => Destroy(gameObject);
 }

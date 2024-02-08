@@ -19,19 +19,27 @@ MonoBehaviour:
   description: 
   chapters:
   - verses:
-    - title: Sinira ng mga Balang ang mga Tanim
+    - name: '1: Sinira ng mga Balang ang mga Tanim'
+      title: Sinira ng mga Balang ang mga Tanim
+      number: 1
       content: '  Ito ang mensahe ng <smallcaps>Panginoon</smallcaps> na ipinahayag
         niya kay Joel na anak ni Petuel.  '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Kayong mga tagapamahala ng Juda at ang lahat ng inyong mamamayan,
         pakinggan ninyo ang sasabihin ko sa inyo. Wala pang nangyari na katulad nito
         noong kapanahunan ng inyong mga ninuno o sa panahon ninyo ngayon. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Kailangang isalaysay ito sa bawat henerasyon ng inyong lahi.  '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Sunud-sunod na sumalakay ang mga pulutong ng balang. Ang mga naiwan
         na tanim na hindi naubos ng unang pulutong ay kinain ng sumunod na pulutong
         hanggang sa naubos ang mga tanim.[[COMMENT(0)]]  '
@@ -39,11 +47,15 @@ MonoBehaviour:
       - number: '1:4 '
         content: "Maaari rin na ang sinasabi ng talatang ito ay ang apat na klaseng
           balang o ang apat na \u201Cstages\u201D ng paglaki ng balang."
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Kayong mga lasenggo, bumangon kayo at umiyak nang malakas! Sapagkat
-        wala na kayong maiinom; wala nang bunga ang mga ubas na gagawing alak. '
+        wala na kayong maiinom; wala nang <i>bunga ang mga ubas na gagawing</i> alak. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Ang lupain ng <smallcaps>Panginoon</smallcaps>[[COMMENT(0)]]<smallcaps>sa
         literal, </smallcaps> ay sinalakay ng napakaraming balang. Matalas ang kanilang
         mga ngipin na parang mga ngipin ng leon. '
@@ -53,77 +65,114 @@ MonoBehaviour:
           </b><b>aking lupain, </b>na siyang Juda.<b>: </b>sa literal, <b>mga bansa.
           </b>Maaaring ang mga balang na ito ay kumakatawan sa mga bansang sasalakay
           sa Juda.'
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Sinira nila ang mga tanim na ubas ng <smallcaps>Panginoon</smallcaps>
         at ang kanyang mga puno ng igos. Nginatngat nila ang mga balat nito hanggang
         sa mamuti ang mga sanga.  '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Umiyak kayo katulad ng isang dalaga[[COMMENT(0)]] na nakadamit ng
         sako na namatayan ng binatang mapapangasawa. '
       comments:
       - number: '1:8 '
         content: '<b>: </b>o, <b>birhen.</b><b>: </b>tanda ng pagluluksa.'
-    - title: 
-      content: 'Sapagkat wala nang butil o inumin na maihahandog sa templo ng <smallcaps>Panginoon</smallcaps>,
-        kaya nalulungkot ang mga paring naglilingkod sa kanya. '
+    - name: '9: '
+      title: 
+      number: 9
+      content: '<i>Sapagkat</i> wala nang butil o inumin na maihahandog sa templo
+        ng <smallcaps>Panginoon</smallcaps>, <i>kaya</i> nalulungkot ang mga paring
+        naglilingkod sa kanya. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Nasira ang mga bukirin na parang taong nagdadalamhati. Nasira na
         ang mga trigo, at wala na ang katas ng ubas at langis.  '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'Kayong mga magsasaka, dapat kayong malungkot! Kayong mga tagapangalaga
         ng ubasan, umiyak kayo nang malakas! Sapagkat nasira ang aanihing mga trigo
         at sebada. '
       comments: []
-    - title: Panawagan ng Pagsisisi
+    - name: '12: Panawagan ng Pagsisisi'
+      title: Panawagan ng Pagsisisi
+      number: 12
       content: 'Nalanta ang mga tanim na ubas at ang lahat ng puno, pati na ang mga
         igos, pomegranata, palma, at mansanas. Talagang nawala ang kaligayahan ng
         mga tao.  '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Kayong mga pari na naglilingkod sa altar ng aking Dios, magsuot kayo
         ng sako at pumunta sa templo at umiyak buong magdamag. Sapagkat wala nang
         butil o inumin na ihahandog sa templo ng inyong Dios. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Sabihin ninyo sa mga tagapamahala ng Juda at sa lahat ng kanyang
         mamamayan na pumunta silang lahat sa templo ng <smallcaps>Panginoon</smallcaps>
         na inyong Dios at mag-ayuno. Humingi sila ng tulong sa <smallcaps>Panginoon</smallcaps>.  '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Naku! Malapit na ang araw ng pagpaparusa ng <smallcaps>Panginoong</smallcaps>
         Makapangyarihan. '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'Nakita natin mismo kung paano tayo nawalan ng pagkain at kung paano
         nawala ang kagalakan sa templo ng Dios. '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'Namatay ang mga binhi sa tigang na lupa. At dahil natuyo ang mga
         butil, wala nang laman ang mga bodega, kaya nagiba na lamang ang mga ito. '
       comments: []
-    - title: 
-      content: 'Umaatungal ang mga hayop dahil sa gutom. Gumagala ang mga baka na
-        naghahanap ng makakain, pati ang mga tupa ay nahihirapan na rin.  '
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Umaatungal ang mga hayop <i>dahil sa gutom</i>. Gumagala ang mga
+        baka na naghahanap ng makakain, pati ang mga tupa ay nahihirapan na rin.  '
       comments: []
-    - title: 
-      content: '  Nanalangin si Joel:  <smallcaps>Panginoon</smallcaps>, nananawagan
+    - name: '19: '
+      title: 
+      number: 19
+      content: '  <i>Nanalangin si Joel:</i>  <smallcaps>Panginoon</smallcaps>, nananawagan
         po ako sa inyo, dahil natuyo na ang mga pastulan at ang lahat ng punongkahoy
         sa bukirin, na parang nilamon ng apoy. '
       comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: Maging ang mga hayop sa gubat ay dumadaing sa inyo, dahil tuyong-tuyo
+        na ang mga ilog at mga sapa, at tuyo na rin ang mga pastulan, na parang nilamon
+        ng apoy.
+      comments: []
   - verses:
-    - title: Ang Pagparusa ng <smallcaps>Panginoon</smallcaps> ay Inihalintulad sa
-        Pagsalakay ng mga Balang
-      content: '  Hipan ninyo ang trumpeta upang bigyang babala ang mga tao sa Zion,[[COMMENT(0)]]
-        ang banal na bundok ng <smallcaps>Panginoon</smallcaps>. Lahat kayong nakatira
-        sa Juda, manginig kayo sa takot, dahil malapit na ang araw ng paghatol ng
-        <smallcaps>Panginoon</smallcaps>. '
+    - name: '1: Ang Pagparusa ng  ay Inihalintulad sa Pagsalakay ng mga Balang'
+      title: Ang Pagparusa ng  ay Inihalintulad sa Pagsalakay ng mga Balang
+      number: 1
+      content: '<smallcaps>Panginoon</smallcaps>  Hipan ninyo ang trumpeta upang
+        bigyang babala <i>ang mga tao</i> sa Zion,[[COMMENT(0)]] ang banal na bundok
+        ng <smallcaps>Panginoon</smallcaps>. Lahat kayong nakatira sa Juda, manginig
+        kayo sa takot, dahil malapit na ang araw <i>ng paghatol</i> ng <smallcaps>Panginoon</smallcaps>. '
       comments:
       - number: '2:1 '
         content: '<b>: </b>Isa ito sa mga tawag sa Jerusalem.<b>: </b>o, <b>pinili.</b>'
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Magiging maulap at madilim ang araw na iyon. Kakalat ang napakaraming
         balang[[COMMENT(0)]] sa mga kabundukan na parang sinag ng araw kapag nagbubukang-liwayway.
         Wala pang nangyaring kagaya nito noon, at hindi na mangyayari ang katulad
@@ -132,7 +181,9 @@ MonoBehaviour:
       - number: '2:2 '
         content: '<b>: </b>sa literal, <b>tao o bansa. </b>Maaaring ang mga balang
           na ito ay kumakatawan sa mga taong sasalakay sa Juda.'
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Sunud-sunod na sumalakay ang mga balang na parang apoy.[[COMMENT(0)]]
         Bago sila dumating ang lupain ay parang halamanan ng Eden. Pero nang masalakay
         na nila, para na itong disyerto. Wala silang halaman na itinira. '
@@ -142,77 +193,120 @@ MonoBehaviour:
           apoy na sumusunog. </b>Maaaring ang ibig sabihin ay sa harapan at sa likuran
           ng isang kawan ng mga balang ay mayroon pang mga kawan ng balang. Tingnan
           sa 1:4 at 2:20.'
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Parang kabayo ang kanilang anyo, at mabilis sila tulad ng mga kabayong
         pandigma. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Ang ingay ng kanilang paglukso sa ibabaw ng mga bundok ay parang
         mga karwaheng tumatakbo at parang ingay ng nasusunog na dayami. Tulad sila
         ng makapangyarihang hukbo na handang makipagdigma. '
       comments: []
-    - title: 
-      content: 'Ang mga taong makakakita sa kanila ay mamumutla sa takot. Sumasalakay
-        sila at umaakyat sa mga pader na parang mga sundalo. Diretso ang kanilang
-        paglakad at hindi lumilihis sa kanilang dinadaanan. Hindi sila nagtutulakan,
-        at kahit masalubong nila ang mga sandata ng kaaway, hindi sila naghihiwa-hiwalay. '
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Ang mga taong makakakita sa kanila ay mamumutla sa takot. '
       comments: []
-    - title: 
+    - name: '7-8: '
+      title: 
+      number: 7-8
+      content: 'Sumasalakay sila at umaakyat sa mga pader na parang mga sundalo.
+        Diretso ang kanilang paglakad at hindi lumilihis sa kanilang dinadaanan.
+        Hindi sila nagtutulakan, at kahit masalubong nila ang mga sandata ng kaaway,
+        hindi sila naghihiwa-hiwalay. '
+      comments: []
+    - name: '7-8: '
+      title: 
+      number: 7-8
+      content: 'Sumasalakay sila at umaakyat sa mga pader na parang mga sundalo.
+        Diretso ang kanilang paglakad at hindi lumilihis sa kanilang dinadaanan.
+        Hindi sila nagtutulakan, at kahit masalubong nila ang mga sandata ng kaaway,
+        hindi sila naghihiwa-hiwalay. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Sinasalakay nila ang lungsod at inaakyat ang mga pader nito. Inaakyat
         nila ang mga bahay at pumapasok sa mga bintana na parang magnanakaw. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Nayayanig ang lupa at ang langit sa kanilang pagdating. At nagdidilim
         ang araw at ang buwan, at nawawalan ng liwanag ang mga bituin.  '
       comments: []
-    - title: Panawagan upang Magbalik-loob sa Dios
+    - name: '11: Panawagan upang Magbalik-loob sa Dios'
+      title: Panawagan upang Magbalik-loob sa Dios
+      number: 11
       content: "Inuutusan ng <smallcaps>Panginoon</smallcaps> ang kanyang hukbo\u2009\u2013\u2009ang
         napakarami at makapangyarihang mga balang\u2009\u2013\u2009at sumusunod sila
         sa kanyang utos. Nakakatakot ang araw ng pagpaparusa ng <smallcaps>Panginoon</smallcaps>.
         Sino ang makakatagal dito?  "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Sinabi ng <smallcaps>Panginoon</smallcaps> na ito na ang panahon
         para magbalik-loob kayo sa kanya nang buong puso, na nag-aayuno, nananangis
         at nagdadalamhati. '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Magsisi kayo nang buong puso at hindi pakitang-tao lamang sa pamamagitan
         ng pagpunit ng inyong mga damit. Magbalik-loob kayo sa <smallcaps>Panginoon</smallcaps>
         na inyong Dios, dahil mahabagin siya at maalalahanin. Mapagmahal siya at
         hindi madaling magalit. Handa siyang magbago ng isip upang hindi na magpadala
         ng parusa. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Baka sakaling magbago ang isip ng <smallcaps>Panginoon</smallcaps>
-        na inyong Dios at pagpalain kayo ng masaganang ani, para makapaghandog kayo
-        sa kanya ng mga butil at inumin.  '
+        na inyong Dios at pagpalain <i>kayo ng masaganang ani</i>, para makapaghandog
+        kayo sa kanya ng mga butil at inumin.  '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Hipan ninyo ang trumpeta sa Zion upang ipaalam sa mga tao na magtipon
         sila at mag-ayuno. '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'Gawin ninyo ang seremonya ng paglilinis at magtipon kayong lahat,
         bata at matanda, pati mga sanggol at maging ang mga bagong kasal. '
       comments: []
-    - title: Pagpapalain ng <smallcaps>Panginoon</smallcaps> ang Juda
+    - name: '17: Pagpapalain ng  ang Juda'
+      title: Pagpapalain ng  ang Juda
+      number: 17
       content: "Umiyak sa pagitan ng altar at ng balkonahe ng templo ang mga pari
         na naglilingkod sa <smallcaps>Panginoon</smallcaps>, at manalangin sila ng
         ganito: \u201C<smallcaps>Panginoon</smallcaps>, maawa po kayo sa mga mamamayang
         pag-aari ninyo. Huwag n\u02BCyo pong payagan na hiyain sila at sakupin ng
-        ibang bansa na nagsasabing, \u2018Nasaan ang inyong Dios?\u2019\u2009\u201D  "
+        ibang bansa na nagsasabing, \u2018Nasaan ang inyong Dios?\u2019\u2009\u201D<smallcaps>Panginoon</smallcaps>  "
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Nagmamalasakit ang <smallcaps>Panginoon</smallcaps> sa kanyang bayan
         at naaawa siya sa kanyang mga mamamayan. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: "At bilang sagot sa kanilang dalangin sasabihin niya sa kanila, \u201CBibigyan
         ko kayo ng mga butil, bagong katas ng ubas, at langis, at mabubusog kayo.
         Hindi ko papayagang hiyain kayo ng ibang bansa. "
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: "Palalayasin ko ang mga sasalakay sa inyo mula sa hilaga at itataboy
         ko sila sa disyerto. Itataboy ko ang unang pulutong nila sa Dagat na Patay[[COMMENT(0)]]
         at ang huling pulutong ay itataboy ko sa Dagat ng Mediteraneo. At babaho
@@ -221,67 +315,101 @@ MonoBehaviour:
       - number: '2:20 '
         content: '<b>: </b>sa Hebreo, <b>dagat sa silangan.</b><b>: </b>sa Hebreo,
           <b>dagat sa kanluran.</b>'
-    - title: 
-      content: 'Hindi dapat matakot ang lupain ng Juda, sa halip dapat itong magalak
-        dahil sa kamangha-manghang ginawa ng <smallcaps>Panginoon</smallcaps>. '
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Hindi dapat matakot ang lupain <i>ng Juda</i>, sa halip dapat itong
+        magalak dahil sa kamangha-manghang ginawa ng <smallcaps>Panginoon</smallcaps>. '
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'Huwag matakot ang mga hayop, dahil luntian na ang mga pastulan at
         namumunga na ang mga punongkahoy, pati na ang mga igos, gayon din ang mga
         ubas.  '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: 'Kayong mga taga-Zion, magalak kayo sa ginawa sa inyo ng <smallcaps>Panginoon</smallcaps>
         na inyong Dios. Sapagkat binigyan niya kayo ng unang ulan at nasundan pa
         ito gaya ng dati para ipakita na matuwid siya. '
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: 'Mapupuno ng butil ang mga giikan, at aapaw ang bagong katas ng ubas
         at langis sa mga pisaan nito. '
       comments: []
-    - title: 
-      content: "Sapagkat sinasabi ng <smallcaps>Panginoon</smallcaps>, \u201CIbabalik
+    - name: '25: '
+      title: 
+      number: 25
+      content: "<i>Sapagkat sinasabi ng </i><smallcaps>Panginoon</smallcaps>, \u201CIbabalik
         ko ang lahat ng nawala sa inyo noong mga panahon na sinalakay ang inyong
         mga pananim ng sunud-sunod na pulutong ng mga balang na iyon. Ako ang nagpadala
         sa inyo ng napakalaking pulutong ng mga balang. "
       comments: []
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: 'Magkakaroon na kayo ngayon ng saganang pagkain at lubusang mabubusog.
         At dahil dito, pupurihin ninyo ako na inyong Dios, na gumawa ng mga kamangha-manghang
         bagay na iyon. At kayo na aking mga mamamayan ay hindi na mapapahiya kailanman. '
       comments: []
-    - title: Ang mga Pagpapalang Espiritwal
+    - name: '27: Ang mga Pagpapalang Espiritwal'
+      title: Ang mga Pagpapalang Espiritwal
+      number: 27
       content: "Malalaman ninyo na ako\u02BCy sumasainyo na mga taga-Israel, at ako
         lamang ang <smallcaps>Panginoon</smallcaps> na inyong Dios at wala nang iba
         pa. Kayo na aking mga mamamayan ay hindi na nga mapapahiya kailanman.  "
       comments: []
-    - title: 
+    - name: '28: '
+      title: 
+      number: 28
       content: "\u201CAt pagkatapos, ibibigay ko ang aking Espiritu sa lahat ng tao.
         Ang inyong mga anak na lalaki at babae ay magpapahayag ng aking mga salita.
         Ang inyong matatandang lalaki ay mananaginip, at ang inyong mga binata ay
         makakakita ng mga pangitain. "
       comments: []
-    - title: 
+    - name: '29: '
+      title: 
+      number: 29
       content: 'Sa mga araw na iyon, ibibigay ko rin ang aking Espiritu sa mga utusang
         lalaki at babae. '
       comments: []
-    - title: 
-      content: 'Magpapakita ako ng mga himala sa langit at sa lupa: May makikitang
+    - name: '30: '
+      title: 
+      number: 30
+      content: 'Magpapakita ako ng mga himala sa langit at sa lupa: <i>May makikitang</i>
         dugo, apoy, at makapal na usok. '
       comments: []
-    - title: 
+    - name: '31: '
+      title: 
+      number: 31
       content: "Magdidilim ang araw at pupula ang buwan na parang dugo. Mangyayari
-        ito bago dumating ang nakakatakot na araw ng paghuhukom ng  <smallcaps>Panginoon</smallcaps>.\u201D  "
+        ito bago dumating ang nakakatakot na araw ng <i>paghuhukom ng</i>  <smallcaps>Panginoon</smallcaps>.\u201D  "
+      comments: []
+    - name: '32: '
+      title: 
+      number: 32
+      content: Ang sinumang hihingi ng tulong sa <smallcaps>Panginoon</smallcaps>
+        ay maliligtas <i>sa parusang darating</i>. Sapagkat ayon sa sinabi ng <smallcaps>Panginoon</smallcaps>,
+        may matitirang mga Israelita sa Bundok ng Zion, ang Jerusalem. Sila ang mga
+        pinili ng <smallcaps>Panginoon</smallcaps> na maliligtas.
       comments: []
   - verses:
-    - title: Parurusahan ang mga Bansa
-      content: "    Sinabi ng <smallcaps>Panginoon</smallcaps>, \u201CSa panahong
+    - name: '1: Parurusahan ang mga Bansa'
+      title: Parurusahan ang mga Bansa
+      number: 1
+      content: "    <i>Sinabi ng </i><smallcaps>Panginoon</smallcaps>, \u201CSa panahong
         iyon na ibabalik ko ang mabuting kalagayan ng Juda at Jerusalem,[[COMMENT(0)]]  "
       comments:
       - number: '3:1 '
         content: '<b>: </b>o, <b>pababalikin ko ang mga mamamayan ng Juda at Jerusalem
           sa kanilang lupain mula sa pagkabihag.</b>'
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "titipunin ko ang mga bansa at dadalhin ko sila sa Lambak ni Jehoshafat.[[COMMENT(0)]]<smallcaps>
         Doon ko sila hahatulan dahil sa kanilang ginawa sa mga Israelita na aking
         mamamayan na pag-aari ko. Pinangalat nila ang mga Israelita sa iba\u02BCt
@@ -289,12 +417,16 @@ MonoBehaviour:
       comments:
       - number: '3:2 '
         content: '<b>: </b>Ang ibig sabihin, <b>naghahatol ang <span class="ChapterContent_nd__ECPAf">Panginoon</span>.</b>'
-    - title: 
-      content: 'Nagpalabunutan sila para paghati-hatian ang aking mga mamamayan,
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Nagpalabunutan sila para <i>paghati-hatian</i> ang aking mga mamamayan,
         at ipinagbili nila bilang alipin ang mga batang lalaki at babae, upang ibili
         ng alak at ibayad sa babaeng bayaran.  '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "\u201CKayong mga taga-Tyre, taga-Sidon, at ang lahat ng lugar ng
         Filistia, ano ba itong ginagawa ninyo laban sa akin? Ginagantihan ba ninyo
         ako sa mga bagay na aking ginawa? Kung ganoon, gagantihan ko agad kayo sa
@@ -303,93 +435,137 @@ MonoBehaviour:
       - number: '3:4 '
         content: Ang ginagawa ng mga bansang ito laban sa Israel ay para na rin nilang
           ginagawa laban sa <span class="ChapterContent_nd__ECPAf">Panginoon</span>.
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Sapagkat kinuha ninyo ang aking mga ginto at pilak at iba pang mamahaling
         bagay at dinala ninyo ito roon sa inyong mga templo. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Ipinagbili ninyo sa mga Griego ang mga mamamayan ng Juda at Jerusalem
-        bilang mga alipin, upang mailayo ninyo sila sa sarili nilang bayan. '
+        <i>bilang mga alipin</i>, upang mailayo ninyo sila sa sarili nilang bayan. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Pero tutulungan ko silang makaalis sa mga bayang sa mga bayang pinagbilhan
-        ninyo sa kanila, at gagawin ko sa inyo ang inyong ginawa sa kanila. '
+        ninyo sa kanila, at gagawin ko sa inyo ang inyong ginawa <i>sa kanila</i>. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "Ipagbibili ko ang inyong mga anak sa mga taga-Juda, at ipagbibili
         naman nila ang mga ito sa mga taga-Sabea[[COMMENT(0)]] na nakatira sa malayong
-        lugar.\u201D Mangyayari nga ito, dahil ako, ang <smallcaps>Panginoon</smallcaps>,
+        lugar.\u201D <i>Mangyayari nga ito,</i> dahil <i>ako,</i> ang <smallcaps>Panginoon</smallcaps>,
         ang nagsasabi nito.  "
       comments:
       - number: '3:8 '
         content: '<b>: </b>Isang lugar sa timog-kanluran ng Arabia.'
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Ipaalam ito sa mga bansa: Humanda kayo sa pakikipagdigma. Tawagin
         ninyo ang inyong mga sundalo upang sumalakay. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Gawin ninyong mga espada ang sudsod ng inyong mga araro at gawin
         ninyong mga sibat ang inyong mga panggapas. Kahit ang mahihina ay kailangang
         makipaglaban. '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "Pumarito kayo, lahat kayong mga bansang nasa paligid, at magtipon
-        kayo doon sa Lambak ni Jehoshafat. <smallcaps>Panginoon</smallcaps>, papuntahin
-        n\u02BCyo na po roon ang inyong hukbo.[[COMMENT(0)]]<smallcaps>Sa Syriac,
-        </smallcaps><smallcaps>  </smallcaps>"
+        kayo doon <i>sa Lambak ni Jehoshafat</i>. <smallcaps>Panginoon</smallcaps>,
+        papuntahin n\u02BCyo na po <i>roon</i> ang inyong hukbo.[[COMMENT(0)]]<smallcaps>Sa
+        Syriac, </smallcaps><smallcaps>  </smallcaps>"
       comments:
       - number: '3:11 '
         content: "<b><span class=\"ChapterContent_nd__ECPAf\">Panginoon</span> \u202F\u2026\u202Fhukbo:
           </b><b>At doon ay lilipulin ng <span class=\"ChapterContent_nd__ECPAf\">Panginoon</span>
           ang inyong mga kawal.</b>"
-    - title: 
-      content: "  Sinabi ng <smallcaps>Panginoon</smallcaps>, \u201CKailangang hikayatin
-        ang mga bansa sa paligid na pumunta sa Lambak ni Jehoshafat, dahil doon ko
-        sila hahatulan. "
+    - name: '12: '
+      title: 
+      number: 12
+      content: "  <i>Sinabi ng </i><smallcaps>Panginoon</smallcaps>, \u201CKailangang
+        hikayatin ang mga bansa sa paligid na pumunta sa Lambak ni Jehoshafat, dahil
+        doon ko sila hahatulan. "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Para silang mga aanihin na kailangan nang gapasin dahil hinog na,
         o parang ubas na kailangan nang pisain dahil puno na ng ubas ang pisaan.
         Ubod sila ng sama; ang kanilang kasalanan ay parang katas ng ubas na umaapaw
         sa sisidlan nito.\u201D  "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Napakaraming tao ang naroon sa Lambak ng Paghatol, dahil malapit
         nang dumating ang araw ng pagpaparusa ng <smallcaps>Panginoon</smallcaps>. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Magdidilim ang araw at ang buwan, at hindi na magliliwanag ang mga
         bituin. '
       comments: []
-    - title: Ang mga Pagpapalang para sa mga Mamamayan ng Dios
-      content: 'Aatungal na parang leon ang <smallcaps>Panginoon</smallcaps> mula
-        sa Zion;[[COMMENT(0)]] dadagundong ang kanyang tinig mula sa Jerusalem. Kaya
-        mayayanig ang lupa at langit. Pero ang <smallcaps>Panginoon</smallcaps> ang
-        matibay na kanlungan para sa mga Israelita na kanyang mamamayan.  '
+    - name: '16: Ang mga Pagpapalang para sa mga Mamamayan ng Dios'
+      title: Ang mga Pagpapalang para sa mga Mamamayan ng Dios
+      number: 16
+      content: 'Aatungal <i>na parang leon</i> ang <smallcaps>Panginoon</smallcaps>
+        mula sa Zion;[[COMMENT(0)]] dadagundong ang kanyang tinig mula sa Jerusalem.
+        Kaya mayayanig ang lupa at langit. Pero ang <smallcaps>Panginoon</smallcaps>
+        ang matibay na kanlungan para sa mga Israelita na kanyang mamamayan.  '
       comments:
       - number: '3:16 '
         content: '<b>: </b>Isa sa mga tawag sa Jerusalem.'
-    - title: 
-      content: "  Sinabi ng <smallcaps>Panginoon</smallcaps>, \u201CMalalaman ninyong
-        mga taga-Juda na ako, ang <smallcaps>Panginoon</smallcaps> na inyong Dios,
-        ay nakatira sa Zion, ang aking banal na bundok. Magiging banal muli ang Jerusalem;
-        hindi na ito muling lulusubin ng ibang bansa. "
+    - name: '17: '
+      title: 
+      number: 17
+      content: "  <i>Sinabi ng </i><smallcaps>Panginoon</smallcaps>, \u201CMalalaman
+        ninyong <i>mga taga-Juda na</i> ako, ang <smallcaps>Panginoon</smallcaps>
+        na inyong Dios, ay nakatira sa Zion, ang aking banal na bundok. Magiging
+        banal <i>muli</i> ang Jerusalem; hindi na ito muling lulusubin ng ibang bansa. "
       comments: []
-    - title: 
-      content: 'Sa panahong iyon, pagpapalain ko kayo. Magiging sagana ang inyong
-        bagong katas ng ubas na mula sa maraming ubas sa mga bundok. Magiging sagana
-        rin ang inyong gatas mula sa maraming baka at kambing na nanginginain sa
-        mga burol. At hindi na matutuyuan ang inyong mga sapa at ilog. At may bukal
-        mula sa templo ng <smallcaps>Panginoon</smallcaps> na dadaloy sa lambak na
-        may mga punong akasya.[[COMMENT(0)]]  '
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'Sa panahong iyon, <i>pagpapalain ko kayo</i>. Magiging sagana ang
+        inyong bagong katas ng ubas <i>na mula sa maraming ubas</i> sa mga bundok.
+        Magiging sagana rin ang inyong gatas <i>mula sa maraming baka at kambing
+        na nanginginain</i> sa mga burol. At hindi na matutuyuan ang inyong mga sapa
+        at ilog. At may bukal mula sa templo ng <smallcaps>Panginoon</smallcaps>
+        na dadaloy sa lambak na may mga punong akasya.[[COMMENT(0)]]  '
       comments:
       - number: '3:18 '
         content: '<b>: </b>o, <b>ng Shitim.</b>'
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: "\u201CAng Egipto ay magiging malungkot na lugar at ang Edom ay magiging
         ilang, dahil pinagmalupitan nila ang mga taga-Juda; pinatay nila ang mga
         taong walang kasalanan. "
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'Pero ang Juda at ang Jerusalem ay titirhan magpakailanman. '
       comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "Ipaghihiganti ko ang mga pinatay sa aking mga mamamayan. Parurusahan
+        ko ang mga gumawa nito sa kanila.[[COMMENT(0)]]  <i>Ako,</i> ang <smallcaps>Panginoon</smallcaps>
+        na nakatira sa Zion.\u201D"
+      comments:
+      - number: '3:21 '
+        content: '<b>: </b>Ito ang nasa Septuagint at Syriac. Sa Hebreo, <b>Ituturing
+          ko na walang kasalanan ang mga pinatay sa kanila na hindi ko pa naituring
+          na walang kasalanan. </b>O, <b>Patatawarin ko ang mga pagpatay nila na
+          hindi ko pa napapatawad.</b>'

@@ -1,0 +1,417 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: HAB
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Habakkuk
+  fancyName: 
+  nickname: hab
+  version: {fileID: 11400000, guid: 433894a244f646848a22a9c7d127b66b, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: "1: Habakkuk\u2019s Complaint"
+      title: "Habakkuk\u2019s Complaint"
+      number: 1
+      content: '  This is the message that the prophet Habakkuk received in a vision.  '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "How long, O <smallcaps>Lord</smallcaps>, must I call for help?But
+        you do not listen!\u201CViolence is everywhere!\u201D I cry,but you do not
+        come to save.  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Must I forever see these evil deeds?Why must I watch all this misery?Wherever
+        I look,I see destruction and violence.I am surrounded by peoplewho love to
+        argue and fight.  '
+      comments: []
+    - name: "4: The \u2019s Reply"
+      title: "The \u2019s Reply"
+      number: 4
+      content: 'The law has become paralyzed,and there is no justice in the courts.The
+        wicked far outnumber the righteous,so that justice has become perverted.<smallcaps>Lord</smallcaps>  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "The <smallcaps>Lord</smallcaps> replied,\u201CLook around at the
+        nations;look and be amazed![[COMMENT(0)]]For I am doing something in your
+        own day,something you wouldn\u2019t believeeven if someone told you about
+        it.  "
+      comments:
+      - number: '1:5 '
+        content: Greek version reads <b>Look, you mockers; / look and be amazed and
+          die. </b>Compare Acts 13:41.
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'I am raising up the Babylonians,[[COMMENT(0)]]a cruel and violent
+        people.They will march across the worldand conquer other lands.  '
+      comments:
+      - number: '1:6 '
+        content: Or <b>Chaldeans.</b>
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'They are notorious for their crueltyand do whatever they like.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Their horses are swifter than cheetahs[[COMMENT(0)]]and fiercer than
+        wolves at dusk.Their charioteers charge from far away.Like eagles, they swoop
+        down to devour their prey.  '
+      comments:
+      - number: '1:8 '
+        content: Or <b>leopards.</b>
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201COn they come, all bent on violence.Their hordes advance like
+        a desert wind,sweeping captives ahead of them like sand.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'They scoff at kings and princesand scorn all their fortresses.They
+        simply pile ramps of earthagainst their walls and capture them!  '
+      comments: []
+    - name: "11: Habakkuk\u2019s Second Complaint"
+      title: "Habakkuk\u2019s Second Complaint"
+      number: 11
+      content: "They sweep past like the windand are gone.But they are deeply guilty,for
+        their own strength is their god.\u201D  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "O <smallcaps>Lord</smallcaps> my God, my Holy One, you who are eternal\u2014surely
+        you do not plan to wipe us out?O <smallcaps>Lord</smallcaps>, our Rock, you
+        have sent these Babylonians to correct us,to punish us for our many sins.  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'But you are pure and cannot stand the sight of evil.Will you wink
+        at their treachery?Should you be silent while the wickedswallow up people
+        more righteous than they?  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Are we only fish to be caught and killed?Are we only sea creatures
+        that have no leader?  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Must we be strung up on their hooksand caught in their nets while
+        they rejoice and celebrate?  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "Then they will worship their netsand burn incense in front of them.\u201CThese
+        nets are the gods who have made us rich!\u201Dthey will claim.  "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: Will you let them get away with this forever?Will they succeed forever
+        in their heartless conquests?
+      comments: []
+  - verses:
+    - name: "1: The \u2019s Second Reply"
+      title: "The \u2019s Second Reply"
+      number: 1
+      content: '  I will climb up to my watchtowerand stand at my guardpost.There
+        I will wait to see what the <smallcaps>Lord</smallcaps> saysand how he[[COMMENT(0)]]
+        will answer my complaint.<smallcaps>Lord</smallcaps>  '
+      comments:
+      - number: '2:1 '
+        content: As in Syriac version; Hebrew reads <b>I.</b>
+    - name: '2: '
+      title: 
+      number: 2
+      content: "Then the <smallcaps>Lord</smallcaps> said to me,\u201CWrite my answer
+        plainly on tablets,so that a runner can carry the correct message to others.  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'This vision is for a future time.It describes the end, and it will
+        be fulfilled.If it seems slow in coming, wait patiently,for it will surely
+        take place.It will not be delayed.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "\u201CLook at the proud!They trust in themselves, and their lives
+        are crooked.But the righteous will live by their faithfulness to God.[[COMMENT(0)]]  "
+      comments:
+      - number: '2:3b-4 '
+        content: Greek version reads <b>If the vision is delayed, wait patiently,
+          / for it will surely come and not delay. / </b><b>I will take no pleasure
+          in anyone who turns away. / But the righteous person will live by my faith.
+          </b>Compare Rom 1:17; Gal 3:11; Heb 10:37-38.
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Wealth[[COMMENT(0)]] is treacherous,and the arrogant are never at
+        rest.They open their mouths as wide as the grave,[[COMMENT(1)]]and like death,
+        they are never satisfied.In their greed they have gathered up many nationsand
+        swallowed many peoples.  '
+      comments:
+      - number: '2:5a '
+        content: As in Dead Sea Scroll 1QpHab; other Hebrew manuscripts read <b>Wine.</b>
+      - number: '2:5b '
+        content: Hebrew <b>as Sheol.</b>
+    - name: '6: '
+      title: 
+      number: 6
+      content: "\u201CBut soon their captives will taunt them.They will mock them,
+        saying,\u2018What sorrow awaits you thieves!Now you will get what you deserve!You\u2019ve
+        become rich by extortion,but how much longer can this go on?\u2019  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Suddenly, your debtors will take action.They will turn on you and
+        take all you have,while you stand trembling and helpless.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Because you have plundered many nations,now all the survivors will
+        plunder you.You committed murder throughout the countrysideand filled the
+        towns with violence.  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CWhat sorrow awaits you who build big houseswith money gained
+        dishonestly!You believe your wealth will buy security,putting your family\u2019s
+        nest beyond the reach of danger.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'But by the murders you committed,you have shamed your name and forfeited
+        your lives.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The very stones in the walls cry out against you,and the beams in
+        the ceilings echo the complaint.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "\u201CWhat sorrow awaits you who build citieswith money gained through
+        murder and corruption!  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Has not the <smallcaps>Lord</smallcaps> of Heaven\u2019s Armies promisedthat
+        the wealth of nations will turn to ashes?They work so hard,but all in vain!  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'For as the waters fill the sea,the earth will be filled with an awarenessof
+        the glory of the <smallcaps>Lord</smallcaps>.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "\u201CWhat sorrow awaits you who make your neighbors drunk!You force
+        your cup on themso you can gloat over their shameful nakedness.  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "But soon it will be your turn to be disgraced.Come, drink and be
+        exposed![[COMMENT(0)]]Drink from the cup of the <smallcaps>Lord</smallcaps>\u2019s
+        judgment,and all your glory will be turned to shame.  "
+      comments:
+      - number: '2:16 '
+        content: Dead Sea Scrolls and Greek and Syriac versions read <b>and stagger!</b>
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'You cut down the forests of Lebanon.Now you will be cut down.You
+        destroyed the wild animals,so now their terror will be yours.You committed
+        murder throughout the countrysideand filled the towns with violence.  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "\u201CWhat good is an idol carved by man,or a cast image that deceives
+        you?How foolish to trust in your own creation\u2014a god that can\u2019t
+        even talk!  "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "What sorrow awaits you who say to wooden idols,\u2018Wake up and
+        save us!\u2019To speechless stone images you say,\u2018Rise up and teach
+        us!\u2019Can an idol tell you what to do?They may be overlaid with gold and
+        silver,but they are lifeless inside.  "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "But the <smallcaps>Lord</smallcaps> is in his holy Temple.Let all
+        the earth be silent before him.\u201D"
+      comments: []
+  - verses:
+    - name: "1: Habakkuk\u2019s Prayer"
+      title: "Habakkuk\u2019s Prayer"
+      number: 1
+      content: '  This prayer was sung by the prophet Habakkuk[[COMMENT(0)]]:  '
+      comments:
+      - number: '3:1 '
+        content: Hebrew adds <b>according to shigionoth, </b>probably indicating
+          the musical setting for the prayer.
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'I have heard all about you, <smallcaps>Lord</smallcaps>.I am filled
+        with awe by your amazing works.In this time of our deep need,help us again
+        as you did in years gone by.And in your anger,remember your mercy.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'I see God moving across the deserts from Edom,[[COMMENT(0)]]the Holy
+        One coming from Mount Paran.[[COMMENT(1)]]His brilliant splendor fills the
+        heavens,and the earth is filled with his praise.  '
+      comments:
+      - number: '3:3a '
+        content: Hebrew <b>Teman.</b>
+      - number: '3:3b '
+        content: Hebrew adds <b>selah; </b>also in 3:9, 13. The meaning of this Hebrew
+          term is uncertain; it is probably a musical or literary term.
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'His coming is as brilliant as the sunrise.Rays of light flash from
+        his hands,where his awesome power is hidden.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Pestilence marches before him;plague follows close behind.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'When he stops, the earth shakes.When he looks, the nations tremble.He
+        shatters the everlasting mountainsand levels the eternal hills.He is the
+        Eternal One![[COMMENT(0)]]  '
+      comments:
+      - number: '3:6 '
+        content: Or <b>The ancient paths belong to him.</b>
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'I see the people of Cushan in distress,and the nation of Midian trembling
+        in terror.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Was it in anger, <smallcaps>Lord</smallcaps>, that you struck the
+        riversand parted the sea?Were you displeased with them?No, you were sending
+        your chariots of salvation!  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'You brandished your bowand your quiver of arrows.You split open the
+        earth with flowing rivers.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'The mountains watched and trembled.Onward swept the raging waters.The
+        mighty deep cried out,lifting its hands in submission.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The sun and moon stood still in the skyas your brilliant arrows flewand
+        your glittering spear flashed.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'You marched across the land in angerand trampled the nations in your
+        fury.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'You went out to rescue your chosen people,to save your anointed ones.You
+        crushed the heads of the wickedand stripped their bones from head to toe.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'With his own weapons,you destroyed the chief of thosewho rushed out
+        like a whirlwind,thinking Israel would be easy prey.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'You trampled the sea with your horses,and the mighty waters piled
+        high.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'I trembled inside when I heard this;my lips quivered with fear.My
+        legs gave way beneath me,[[COMMENT(0)]]and I shook in terror.I will wait
+        quietly for the coming daywhen disaster will strike the people who invade
+        us.  '
+      comments:
+      - number: '3:16 '
+        content: Hebrew <b>Decay entered my bones.</b>
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Even though the fig trees have no blossoms,and there are no grapes
+        on the vines;even though the olive crop fails,and the fields lie empty and
+        barren;even though the flocks die in the fields,and the cattle barns are
+        empty,  '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'yet I will rejoice in the <smallcaps>Lord</smallcaps>!I will be joyful
+        in the God of my salvation!  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'The Sovereign <smallcaps>Lord</smallcaps> is my strength!He makes
+        me as surefooted as a deer,[[COMMENT(0)]]able to tread upon the heights.(For
+        the choir director: This prayer is to be accompanied by stringed instruments.)'
+      comments:
+      - number: '3:19 '
+        content: Or <b>He gives me the speed of a deer.</b>

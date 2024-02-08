@@ -1,0 +1,558 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: 2TI
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 2 Timothy
+  fancyName: 
+  nickname: 2ti
+  version: {fileID: 11400000, guid: 433894a244f646848a22a9c7d127b66b, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Greetings from Paul'
+      title: Greetings from Paul
+      number: 1
+      content: '  This letter is from Paul, chosen by the will of God to be an apostle
+        of Christ Jesus. I have been sent out to tell others about the life he has
+        promised through faith in Christ Jesus.  '
+      comments: []
+    - name: '2: Encouragement to Be Faithful'
+      title: Encouragement to Be Faithful
+      number: 2
+      content: 'I am writing to Timothy, my dear son.May God the Father and Christ
+        Jesus our Lord give you grace, mercy, and peace.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Timothy, I thank God for you\u2014the God I serve with a clear conscience,
+        just as my ancestors did. Night and day I constantly remember you in my prayers. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'I long to see you again, for I remember your tears as we parted.
+        And I will be filled with joy when we are together again.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'I remember your genuine faith, for you share the faith that first
+        filled your grandmother Lois and your mother, Eunice. And I know that same
+        faith continues strong in you. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'This is why I remind you to fan into flames the spiritual gift God
+        gave you when I laid my hands on you. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'For God has not given us a spirit of fear and timidity, but of power,
+        love, and self-discipline.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "So never be ashamed to tell others about our Lord. And don\u2019t
+        be ashamed of me, either, even though I\u2019m in prison for him. With the
+        strength God gives you, be ready to suffer with me for the sake of the Good
+        News. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "For God saved us and called us to live a holy life. He did this,
+        not because we deserved it, but because that was his plan from before the
+        beginning of time\u2014to show us his grace through Christ Jesus. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'And now he has made all of this plain to us by the appearing of Christ
+        Jesus, our Savior. He broke the power of death and illuminated the way to
+        life and immortality through the Good News. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And God chose me to be a preacher, an apostle, and a teacher of this
+        Good News.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'That is why I am suffering here in prison. But I am not ashamed of
+        it, for I know the one in whom I trust, and I am sure that he is able to
+        guard what I have entrusted to him[[COMMENT(0)]] until the day of his return.  '
+      comments:
+      - number: '1:12 '
+        content: Or <b>what has been entrusted to me.</b>
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Hold on to the pattern of wholesome teaching you learned from me\u2014a
+        pattern shaped by the faith and love that you have in Christ Jesus. "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Through the power of the Holy Spirit who lives within us, carefully
+        guard the precious truth that has been entrusted to you.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "As you know, everyone from the province of Asia has deserted me\u2014even
+        Phygelus and Hermogenes.  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'May the Lord show special kindness to Onesiphorus and all his family
+        because he often visited and encouraged me. He was never ashamed of me because
+        I was in chains. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'When he came to Rome, he searched everywhere until he found me. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "May the Lord show him special kindness on the day of Christ\u2019s
+        return. And you know very well how helpful he was in Ephesus."
+      comments: []
+  - verses:
+    - name: '1: A Good Soldier of Christ Jesus'
+      title: A Good Soldier of Christ Jesus
+      number: 1
+      content: '  Timothy, my dear son, be strong through the grace that God gives
+        you in Christ Jesus. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'You have heard me teach things that have been confirmed by many reliable
+        witnesses. Now teach these truths to other trustworthy people who will be
+        able to pass them on to others.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Endure suffering along with me, as a good soldier of Christ Jesus. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Soldiers don\u2019t get tied up in the affairs of civilian life,
+        for then they cannot please the officer who enlisted them. "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'And athletes cannot win the prize unless they follow the rules. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And hardworking farmers should be the first to enjoy the fruit of
+        their labor. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Think about what I am saying. The Lord will help you understand all
+        these things.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Always remember that Jesus Christ, a descendant of King David, was
+        raised from the dead. This is the Good News I preach. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And because I preach this Good News, I am suffering and have been
+        chained like a criminal. But the word of God cannot be chained. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'So I am willing to endure anything if it will bring salvation and
+        eternal glory in Christ Jesus to those God has chosen.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'This is a trustworthy saying:If we die with him,we will also live
+        with him.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'If we endure hardship,we will reign with him.If we deny him,he will
+        deny us.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'If we are unfaithful,he remains faithful,for he cannot deny who he
+        is.  '
+      comments: []
+    - name: '14: An Approved Worker'
+      title: An Approved Worker
+      number: 14
+      content: "Remind everyone about these things, and command them in God\u2019s
+        presence to stop fighting over words. Such arguments are useless, and they
+        can ruin those who hear them.  "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Work hard so you can present yourself to God and receive his approval.
+        Be a good worker, one who does not need to be ashamed and who correctly explains
+        the word of truth. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'Avoid worthless, foolish talk that only leads to more godless behavior. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'This kind of talk spreads like cancer,[[COMMENT(0)]] as in the case
+        of Hymenaeus and Philetus. '
+      comments:
+      - number: '2:17 '
+        content: Greek <b>gangrene.</b>
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'They have left the path of truth, claiming that the resurrection
+        of the dead has already occurred; in this way, they have turned some people
+        away from the faith.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "But God\u2019s truth stands firm like a foundation stone with this
+        inscription: \u201CThe <smallcaps>Lord</smallcaps> knows those who are his,\u201D[[COMMENT(0)]]
+        and \u201CAll who belong to the <smallcaps>Lord</smallcaps> must turn away
+        from evil.\u201D[[COMMENT(1)]]  "
+      comments:
+      - number: '2:19a '
+        content: Num 16:5.
+      - number: '2:19b '
+        content: See Isa 52:11.
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'In a wealthy home some utensils are made of gold and silver, and
+        some are made of wood and clay. The expensive utensils are used for special
+        occasions, and the cheap ones are for everyday use. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'If you keep yourself pure, you will be a special utensil for honorable
+        use. Your life will be clean, and you will be ready for the Master to use
+        you for every good work.  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'Run from anything that stimulates youthful lusts. Instead, pursue
+        righteous living, faithfulness, love, and peace. Enjoy the companionship
+        of those who call on the Lord with pure hearts.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: "Again I say, don\u2019t get involved in foolish, ignorant arguments
+        that only start fights. "
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'A servant of the Lord must not quarrel but must be kind to everyone,
+        be able to teach, and be patient with difficult people. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: "Gently instruct those who oppose the truth. Perhaps God will change
+        those people\u2019s hearts, and they will learn the truth. "
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: "Then they will come to their senses and escape from the devil\u2019s
+        trap. For they have been held captive by him to do whatever he wants."
+      comments: []
+  - verses:
+    - name: '1: The Dangers of the Last Days'
+      title: The Dangers of the Last Days
+      number: 1
+      content: '  You should know this, Timothy, that in the last days there will
+        be very difficult times. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'For people will love only themselves and their money. They will be
+        boastful and proud, scoffing at God, disobedient to their parents, and ungrateful.
+        They will consider nothing sacred. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'They will be unloving and unforgiving; they will slander others and
+        have no self-control. They will be cruel and hate what is good. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'They will betray their friends, be reckless, be puffed up with pride,
+        and love pleasure rather than God. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'They will act religious, but they will reject the power that could
+        make them godly. Stay away from people like that!  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "They are the kind who work their way into people\u2019s homes and
+        win the confidence of[[COMMENT(0)]] vulnerable women who are burdened with
+        the guilt of sin and controlled by various desires. "
+      comments:
+      - number: '3:6 '
+        content: Greek <b>and take captive.</b>
+    - name: '7: '
+      title: 
+      number: 7
+      content: '(Such women are forever following new teachings, but they are never
+        able to understand the truth.) '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'These teachers oppose the truth just as Jannes and Jambres opposed
+        Moses. They have depraved minds and a counterfeit faith. '
+      comments: []
+    - name: "9: Paul\u2019s Charge to Timothy"
+      title: "Paul\u2019s Charge to Timothy"
+      number: 9
+      content: "But they won\u2019t get away with this for long. Someday everyone
+        will recognize what fools they are, just as with Jannes and Jambres.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'But you, Timothy, certainly know what I teach, and how I live, and
+        what my purpose in life is. You know my faith, my patience, my love, and
+        my endurance. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "You know how much persecution and suffering I have endured. You know
+        all about how I was persecuted in Antioch, Iconium, and Lystra\u2014but the
+        Lord rescued me from all of it. "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Yes, and everyone who wants to live a godly life in Christ Jesus
+        will suffer persecution. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'But evil people and impostors will flourish. They will deceive others
+        and will themselves be deceived.  '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'But you must remain faithful to the things you have been taught.
+        You know they are true, for you know you can trust those who taught you. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'You have been taught the holy Scriptures from childhood, and they
+        have given you the wisdom to receive the salvation that comes by trusting
+        in Christ Jesus. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'All Scripture is inspired by God and is useful to teach us what is
+        true and to make us realize what is wrong in our lives. It corrects us when
+        we are wrong and teaches us to do what is right. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: God uses it to prepare and equip his people to do every good work.
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  I solemnly urge you in the presence of God and Christ Jesus, who
+        will someday judge the living and the dead when he comes to set up his Kingdom: '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'Preach the word of God. Be prepared, whether the time is favorable
+        or not. Patiently correct, rebuke, and encourage your people with good teaching.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'For a time is coming when people will no longer listen to sound and
+        wholesome teaching. They will follow their own desires and will look for
+        teachers who will tell them whatever their itching ears want to hear. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'They will reject the truth and chase after myths.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "But you should keep a clear mind in every situation. Don\u2019t be
+        afraid of suffering for the Lord. Work at telling others the Good News, and
+        fully carry out the ministry God has given you.  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'As for me, my life has already been poured out as an offering to
+        God. The time of my death is near. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'I have fought the good fight, I have finished the race, and I have
+        remained faithful. '
+      comments: []
+    - name: "8: Paul\u2019s Final Words"
+      title: "Paul\u2019s Final Words"
+      number: 8
+      content: "And now the prize awaits me\u2014the crown of righteousness, which
+        the Lord, the righteous Judge, will give me on the day of his return. And
+        the prize is not just for me but for all who eagerly look forward to his
+        appearing.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Timothy, please come as soon as you can. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Demas has deserted me because he loves the things of this life and
+        has gone to Thessalonica. Crescens has gone to Galatia, and Titus has gone
+        to Dalmatia. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Only Luke is with me. Bring Mark with you when you come, for he will
+        be helpful to me in my ministry. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I sent Tychicus to Ephesus. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'When you come, be sure to bring the coat I left with Carpus at Troas.
+        Also bring my books, and especially my papers.[[COMMENT(0)]]  '
+      comments:
+      - number: '4:13 '
+        content: Greek <b>especially the parchments.</b>
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Alexander the coppersmith did me much harm, but the Lord will judge
+        him for what he has done. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Be careful of him, for he fought against everything we said.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The first time I was brought before the judge, no one came with me.
+        Everyone abandoned me. May it not be counted against them. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'But the Lord stood with me and gave me strength so that I might preach
+        the Good News in its entirety for all the Gentiles to hear. And he rescued
+        me from certain death.[[COMMENT(0)]]  '
+      comments:
+      - number: '4:17 '
+        content: Greek <b>from the mouth of a lion.</b>
+    - name: "18: Paul\u2019s Final Greetings"
+      title: "Paul\u2019s Final Greetings"
+      number: 18
+      content: 'Yes, and the Lord will deliver me from every evil attack and will
+        bring me safely into his heavenly Kingdom. All glory to God forever and ever!
+        Amen.  '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Give my greetings to Priscilla and Aquila and those living in the
+        household of Onesiphorus. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Erastus stayed at Corinth, and I left Trophimus sick at Miletus.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'Do your best to get here before winter. Eubulus sends you greetings,
+        and so do Pudens, Linus, Claudia, and all the brothers and sisters.[[COMMENT(0)]]  '
+      comments:
+      - number: '4:21 '
+        content: Greek <b>brothers.</b>
+    - name: '22: '
+      title: 
+      number: 22
+      content: May the Lord be with your spirit. And may his grace be with all of
+        you.
+      comments: []

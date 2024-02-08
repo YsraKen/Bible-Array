@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: OBA
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Obadiah
+  fancyName: 
+  nickname: oba
+  version: {fileID: 11400000, guid: d0ec49142d5c7c24fb05ee739840cab0, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: "1: God\u2019s Judgment on EdomEdom\u2019s Approaching Destruction"
+      title: "God\u2019s Judgment on EdomEdom\u2019s Approaching Destruction"
+      number: 1
+      content: "The vision of Obadiah. Thus says my Lord Yahweh concerning Edom:
+        We have heard a report from Yahweh, and a messenger has been sent among the
+        nations: \u201CRise up and let us rise against it for battle.\u201D "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "\u201CLook, I will make you insignificant among the nations. You
+        will be utterly despised! "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "The pride of your heart has deceived you, you who live in the clefts
+        of a rock, the heights of its dwelling, you who say in your heart: \u2018Who
+        can bring me down to the ground?\u2019 "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Even if you soar like the eagle, even if your nest is set among the
+        stars, from there I will bring you down!\u201D declares Yahweh: "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "\u201CIf thieves came to you, if plunderers of the night\u2014How
+        you have been destroyed!\u2014would they not steal what they wanted? If grape
+        gatherers came, would they not leave gleanings? "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'How Esau has been pillaged; his treasures have been ransacked! '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'All of your allies have driven you up to the boundary; your confederates
+        have deceived you and have prevailed against you. Those who eat your bread
+        have set an ambush for you, there is no understanding of it.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "On that day,\u201D declares Yahweh, \u201Cwill I not destroy the
+        wise men from Edom, and understanding from the mountain of Esau? "
+      comments: []
+    - name: "9: Edom\u2019s Treachery against Judah"
+      title: "Edom\u2019s Treachery against Judah"
+      number: 9
+      content: 'And your warriors will be shattered, O Teman, so that everyone from
+        the mountain of Esau will be cut off because of the slaughter! '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "\u201CBecause of the violence done to your brother Jacob, shame will
+        cover you and you will be cut off forever. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'On the day you stood nearby, on the day strangers took his wealth,
+        and foreigners entered his gates and cast lots over Jerusalem, you were also
+        like one of them. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "But you should not have gloated over your brother\u2019s day, on
+        the day of his misfortune, and you should not have rejoiced over the people
+        of Judah on the day of their perishing, and you should not have opened your
+        mouth wide on the day of distress. "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'You should not have entered the gate of my people on the day of their
+        disaster. You also should not have gloated over his misery on the day of
+        his disaster, and you should not have stretched out your hands on the day
+        of his disaster. '
+      comments: []
+    - name: '14: Future Judgment of the Nations'
+      title: Future Judgment of the Nations
+      number: 14
+      content: 'And you should not have stood at the crossroads to cut off his fugitives
+        and you should not have handed over his survivors on the day of distress. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "\u201CFor the day of Yahweh is near against all the nations! Just
+        as you have done, it will be done to you. Your deeds will return on your
+        own head. "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'For just as you have drunk on my holy mountain, all the nations will
+        drink continually. They will drink and they will slurp, and they will be
+        as if they had never been. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'But on Mount Zion there will be an escape, and it will be holy, and
+        the house of Jacob will take possession of their dispossessors. '
+      comments: []
+    - name: '18: Future Blessing for Israel'
+      title: Future Blessing for Israel
+      number: 18
+      content: "And the house of Jacob will be a fire and the house of Joseph a flame,
+        and the house of Esau stubble; and they will set them on fire and will consume
+        them. And there will not be a survivor for the house of Esau,\u201D for Yahweh
+        has spoken. "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Those of the Negev will take possession of the mountain of Esau,
+        and those of the Shephelah will possess the land of the Philistines, and
+        they shall take possession of the territory of Ephraim and the territory
+        of Samaria, and Benjamin will take possession of Gilead. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'And the exiles of this army of the people of Israel will possess
+        Canaan up to Zarephath, and the exiles of Jerusalem who are in Sepharad will
+        take possession of the cities of the Negev. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: 'And those who have been saved will go up on Mount Zion to rule the
+        mountain of Esau. And the kingdom will belong to Yahweh. '
+      comments: []

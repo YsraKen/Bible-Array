@@ -1,0 +1,2918 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d464ededf4134c847abc300a02088, type: 3}
+  m_Name: REV
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Revelation
+  fancyName: 
+  nickname: rev
+  version: {fileID: 11400000, guid: 433894a244f646848a22a9c7d127b66b, type: 2}
+  description: 
+  chapters:
+  - verses:
+    - name: '1: Prologue'
+      title: Prologue
+      number: 1
+      content: '  This is a revelation from[[COMMENT(0)]] Jesus Christ, which God
+        gave him to show his servants the events that must soon[[COMMENT(1)]] take
+        place. He sent an angel to present this revelation to his servant John, '
+      comments:
+      - number: '1:1a '
+        content: Or <b>of.</b>
+      - number: '1:1b '
+        content: Or <b>suddenly, </b>or <b>quickly.</b>
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'who faithfully reported everything he saw. This is his report of
+        the word of God and the testimony of Jesus Christ.  '
+      comments: []
+    - name: "3: John\u2019s Greeting to the Seven Churches"
+      title: "John\u2019s Greeting to the Seven Churches"
+      number: 3
+      content: 'God blesses the one who reads the words of this prophecy to the church,
+        and he blesses all who listen to its message and obey what it says, for the
+        time is near.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'This letter is from John to the seven churches in the province of
+        Asia.[[COMMENT(0)]]Grace and peace to you from the one who is, who always
+        was, and who is still to come; from the sevenfold Spirit[[COMMENT(1)]] before
+        his throne; '
+      comments:
+      - number: '1:4a '
+        content: <b>Asia </b>was a Roman province in what is now western Turkey.
+      - number: '1:4b '
+        content: Greek <b>the seven spirits.</b>
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'and from Jesus Christ. He is the faithful witness to these things,
+        the first to rise from the dead, and the ruler of all the kings of the world.All
+        glory to him who loves us and has freed us from our sins by shedding his
+        blood for us. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'He has made us a Kingdom of priests for God his Father. All glory
+        and power to him forever and ever! Amen.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "Look! He comes with the clouds of heaven.And everyone will see him\u2014even
+        those who pierced him.And all the nations of the worldwill mourn for him.Yes!
+        Amen!  "
+      comments: []
+    - name: '8: Vision of the Son of Man'
+      title: Vision of the Son of Man
+      number: 8
+      content: "\u201CI am the Alpha and the Omega\u2014the beginning and the end,\u201D[[COMMENT(0)]]
+        says the Lord God. \u201CI am the one who is, who always was, and who is
+        still to come\u2014the Almighty One.\u201D  "
+      comments:
+      - number: '1:8 '
+        content: Greek <b>I am the Alpha and the Omega, </b>referring to the first
+          and last letters of the Greek alphabet.
+    - name: '9: '
+      title: 
+      number: 9
+      content: "I, John, am your brother and your partner in suffering and in God\u2019s
+        Kingdom and in the patient endurance to which Jesus calls us. I was exiled
+        to the island of Patmos for preaching the word of God and for my testimony
+        about Jesus. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "It was the Lord\u2019s Day, and I was worshiping in the Spirit.[[COMMENT(0)]]
+        Suddenly, I heard behind me a loud voice like a trumpet blast. "
+      comments:
+      - number: '1:10 '
+        content: Or <b>in spirit.</b>
+    - name: '11: '
+      title: 
+      number: 11
+      content: "It said, <JESUS>\u201CWrite in a book</JESUS>[[COMMENT(0)]]  <JESUS>everything
+        you see, and send it to the seven churches in the cities of Ephesus, Smyrna,
+        Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea.\u201D</JESUS>  "
+      comments:
+      - number: '1:11 '
+        content: Or <b>on a scroll.</b>
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'When I turned to see who was speaking to me, I saw seven gold lampstands. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And standing in the middle of the lampstands was someone like the
+        Son of Man.[[COMMENT(0)]] He was wearing a long robe with a gold sash across
+        his chest. '
+      comments:
+      - number: '1:13 '
+        content: "Or <b>like a son of man. </b>See Dan 7:13. \u201CSon of Man\u201D
+          is a title Jesus used for himself."
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'His head and his hair were white like wool, as white as snow. And
+        his eyes were like flames of fire. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'His feet were like polished bronze refined in a furnace, and his
+        voice thundered like mighty ocean waves. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'He held seven stars in his right hand, and a sharp two-edged sword
+        came from his mouth. And his face was like the sun in all its brilliance.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "When I saw him, I fell at his feet as if I were dead. But he laid
+        his right hand on me and said, <JESUS>\u201CDon\u2019t be afraid! I am the
+        First and the Last.</JESUS>  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "<JESUS>I am the living one. I died, but look\u2014I am alive forever
+        and ever! And I hold the keys of death and the grave.</JESUS>[[COMMENT(0)]]  "
+      comments:
+      - number: '1:18 '
+        content: 'Greek <b>and Hades.</b>  '
+    - name: '19: '
+      title: 
+      number: 19
+      content: "  <JESUS>\u201CWrite down what you have seen\u2014both the things
+        that are now happening and the things that will happen.</JESUS>  [[COMMENT(0)]]  "
+      comments:
+      - number: '1:19 '
+        content: "  Or   <b>what you have seen and what they mean\u2014the things
+          that have already begun to happen.</b>  "
+    - name: '20: '
+      title: 
+      number: 20
+      content: '<JESUS>This is the meaning of the mystery of the seven stars you
+        saw in my right hand and the seven gold lampstands: The seven stars are the
+        angels</JESUS>[[COMMENT(0)]]  <JESUS>of the seven churches, and the seven
+        lampstands are the seven churches.</JESUS>'
+      comments:
+      - number: '1:20 '
+        content: Or <b>the messengers.</b>
+  - verses:
+    - name: '1: The Message to the Church in Ephesus'
+      title: The Message to the Church in Ephesus
+      number: 1
+      content: "    <JESUS>\u201CWrite this letter to the angel</JESUS>  [[COMMENT(0)]] 
+        <JESUS>of the church in Ephesus. This is the message from the one who holds
+        the seven stars in his right hand, the one who walks among the seven gold
+        lampstands:</JESUS>  "
+      comments:
+      - number: '2:1 '
+        content: '  Or   <b>the messenger; </b>  also in 2:8, 12, 18.    '
+    - name: '2: '
+      title: 
+      number: 2
+      content: "  <JESUS>\u201CI know all the things you do. I have seen your hard
+        work and your patient endurance. I know you don\u2019t tolerate evil people.
+        You have examined the claims of those who say they are apostles but are not.
+        You have discovered they are liars.</JESUS>  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: '<JESUS>You have patiently suffered for me without quitting.</JESUS>  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "  <JESUS>\u201CBut I have this complaint against you. You don\u2019t
+        love me or each other as you did at first!</JESUS>  [[COMMENT(0)]]  "
+      comments:
+      - number: '2:4 '
+        content: '  Greek   <b>You have lost your first love.</b>    '
+    - name: '5: '
+      title: 
+      number: 5
+      content: "<JESUS>Look how far you have fallen! Turn back to me and do the works
+        you did at first. If you don\u2019t repent, I will come and remove your lampstand
+        from its place among the churches.</JESUS>  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: '<JESUS>But this is in your favor: You hate the evil deeds of the
+        Nicolaitans, just as I do.</JESUS>  '
+      comments: []
+    - name: '7: The Message to the Church in Smyrna'
+      title: The Message to the Church in Smyrna
+      number: 7
+      content: "  <JESUS>\u201CAnyone with ears to hear must listen to the Spirit
+        and understand what he is saying to the churches. To everyone who is victorious
+        I will give fruit from the tree of life in the paradise of God.</JESUS>  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "  <JESUS>\u201CWrite this letter to the angel of the church in Smyrna.
+        This is the message from the one who is the First and the Last, who was dead
+        but is now alive:</JESUS>  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "  <JESUS>\u201CI know about your suffering and your poverty\u2014but
+        you are rich! I know the blasphemy of those opposing you. They say they are
+        Jews, but they are not, because their synagogue belongs to Satan.</JESUS>  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "<JESUS>Don\u2019t be afraid of what you are about to suffer. The
+        devil will throw some of you into prison to test you. You will suffer for
+        ten days. But if you remain faithful even when facing death, I will give
+        you the crown of life.</JESUS>  "
+      comments: []
+    - name: '11: The Message to the Church in Pergamum'
+      title: The Message to the Church in Pergamum
+      number: 11
+      content: "  <JESUS>\u201CAnyone with ears to hear must listen to the Spirit
+        and understand what he is saying to the churches. Whoever is victorious will
+        not be harmed by the second death.</JESUS>  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "  <JESUS>\u201CWrite this letter to the angel of the church in Pergamum.
+        This is the message from the one with the sharp two-edged sword:</JESUS>  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "  <JESUS>\u201CI know that you live in the city where Satan has his
+        throne, yet you have remained loyal to me. You refused to deny me even when
+        Antipas, my faithful witness, was martyred among you there in Satan\u2019s
+        city.</JESUS>  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "  <JESUS>\u201CBut I have a few complaints against you. You tolerate
+        some among you whose teaching is like that of Balaam, who showed Balak how
+        to trip up the people of Israel. He taught them to sin by eating food offered
+        to idols and by committing sexual sin.</JESUS>  "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: '<JESUS>In a similar way, you have some Nicolaitans among you who
+        follow the same teaching.</JESUS>  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '<JESUS>Repent of your sin, or I will come to you suddenly and fight
+        against them with the sword of my mouth.</JESUS>  '
+      comments: []
+    - name: '17: The Message to the Church in Thyatira'
+      title: The Message to the Church in Thyatira
+      number: 17
+      content: "  <JESUS>\u201CAnyone with ears to hear must listen to the Spirit
+        and understand what he is saying to the churches. To everyone who is victorious
+        I will give some of the manna that has been hidden away in heaven. And I
+        will give to each one a white stone, and on the stone will be engraved a
+        new name that no one understands except the one who receives it.</JESUS>  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "  <JESUS>\u201CWrite this letter to the angel of the church in Thyatira.
+        This is the message from the Son of God, whose eyes are like flames of fire,
+        whose feet are like polished bronze:</JESUS>  "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "  <JESUS>\u201CI know all the things you do. I have seen your love,
+        your faith, your service, and your patient endurance. And I can see your
+        constant improvement in all these things.</JESUS>  "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "  <JESUS>\u201CBut I have this complaint against you. You are permitting
+        that woman\u2014that Jezebel who calls herself a prophet\u2014to lead my
+        servants astray. She teaches them to commit sexual sin and to eat food offered
+        to idols.</JESUS>  "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '<JESUS>I gave her time to repent, but she does not want to turn away
+        from her immorality.</JESUS>  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "  <JESUS>\u201CTherefore, I will throw her on a bed of suffering,</JESUS> 
+        [[COMMENT(0)]]  <JESUS>and those who commit adultery with her will suffer
+        greatly unless they repent and turn away from her evil deeds.</JESUS>  "
+      comments:
+      - number: '2:22 '
+        content: '  Greek   <b>a bed.</b>    '
+    - name: '23: '
+      title: 
+      number: 23
+      content: '<JESUS>I will strike her children dead. Then all the churches will
+        know that I am the one who searches out the thoughts and intentions of every
+        person. And I will give to each of you whatever you deserve.</JESUS>  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "  <JESUS>\u201CBut I also have a message for the rest of you in Thyatira
+        who have not followed this false teaching (\u2018deeper truths,\u2019 as
+        they call them\u2014depths of Satan, actually). I will ask nothing more of
+        you</JESUS>  "
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: '<JESUS>except that you hold tightly to what you have until I come.</JESUS>  '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: '<JESUS>To all who are victorious, who obey me to the very end,</JESUS> 
+        <JESUS>To them I will give authority over all the nations.</JESUS>  '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: '  <JESUS>They will rule the nations with an iron rod</JESUS>  <JESUS>and
+        smash them like clay pots.</JESUS>  [[COMMENT(0)]]  '
+      comments:
+      - number: '2:26-27 '
+        content: '  Ps 2:8-9 (Greek version).  '
+    - name: '28: '
+      title: 
+      number: 28
+      content: '  <JESUS>They will have the same authority I received from my Father,
+        and I will also give them the morning star!</JESUS>  '
+      comments: []
+    - name: '29: '
+      title: 
+      number: 29
+      content: "  <JESUS>\u201CAnyone with ears to hear must listen to the Spirit
+        and understand what he is saying to the churches.</JESUS>"
+      comments: []
+  - verses:
+    - name: '1: The Message to the Church in Sardis'
+      title: The Message to the Church in Sardis
+      number: 1
+      content: "    <JESUS>\u201CWrite this letter to the angel</JESUS>  [[COMMENT(0)]] 
+        <JESUS>of the church in Sardis. This is the message from the one who has
+        the sevenfold Spirit</JESUS>[[COMMENT(1)]]  <JESUS>of God and the seven stars:</JESUS> 
+        <JESUS>\u201CI know all the things you do, and that you have a reputation
+        for being alive\u2014but you are dead.</JESUS>  "
+      comments:
+      - number: '3:1a '
+        content: '  Or   <b>the messenger; </b>  also in 3:7, 14.  '
+      - number: '3:1b '
+        content: 'Greek <b>the seven spirits.</b>  '
+    - name: '2: '
+      title: 
+      number: 2
+      content: '<JESUS>Wake up! Strengthen what little remains, for even what is
+        left is almost dead. I find that your actions do not meet the requirements
+        of my God.</JESUS>  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "<JESUS>Go back to what you heard and believed at first; hold to it
+        firmly. Repent and turn to me again. If you don\u2019t wake up, I will come
+        to you suddenly, as unexpected as a thief.</JESUS>  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "  <JESUS>\u201CYet there are some in the church in Sardis who have
+        not soiled their clothes with evil. They will walk with me in white, for
+        they are worthy.</JESUS>  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: '<JESUS>All who are victorious will be clothed in white. I will never
+        erase their names from the Book of Life, but I will announce before my Father
+        and his angels that they are mine.</JESUS>  '
+      comments: []
+    - name: '6: The Message to the Church in Philadelphia'
+      title: The Message to the Church in Philadelphia
+      number: 6
+      content: "  <JESUS>\u201CAnyone with ears to hear must listen to the Spirit
+        and understand what he is saying to the churches.</JESUS>  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "  <JESUS>\u201CWrite this letter to the angel of the church in Philadelphia.</JESUS> 
+        <JESUS>This is the message from the one who is holy and true,</JESUS>  <JESUS>the
+        one who has the key of David.</JESUS>  <JESUS>What he opens, no one can close;</JESUS> 
+        <JESUS>and what he closes, no one can open:</JESUS>  [[COMMENT(0)]]  "
+      comments:
+      - number: '3:7 '
+        content: '  Isa 22:22.  '
+    - name: '8: '
+      title: 
+      number: 8
+      content: "  <JESUS>\u201CI know all the things you do, and I have opened a
+        door for you that no one can close. You have little strength, yet you obeyed
+        my word and did not deny me.</JESUS>  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "<JESUS>Look, I will force those who belong to Satan\u2019s synagogue\u2014those
+        liars who say they are Jews but are not\u2014to come and bow down at your
+        feet. They will acknowledge that you are the ones I love.</JESUS>  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "  <JESUS>\u201CBecause you have obeyed my command to persevere, I
+        will protect you from the great time of testing that will come upon the whole
+        world to test those who belong to this world.</JESUS>  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: '<JESUS>I am coming soon.</JESUS>[[COMMENT(0)]]  <JESUS>Hold on to
+        what you have, so that no one will take away your crown.</JESUS>  '
+      comments:
+      - number: '3:11 '
+        content: 'Or <b>suddenly</b>, or <b>quickly.</b>  '
+    - name: '12: '
+      title: 
+      number: 12
+      content: "<JESUS>All who are victorious will become pillars in the Temple of
+        my God, and they will never have to leave it. And I will write on them the
+        name of my God, and they will be citizens in the city of my God\u2014the
+        new Jerusalem that comes down from heaven from my God. And I will also write
+        on them my new name.</JESUS>  "
+      comments: []
+    - name: '13: The Message to the Church in Laodicea'
+      title: The Message to the Church in Laodicea
+      number: 13
+      content: "  <JESUS>\u201CAnyone with ears to hear must listen to the Spirit
+        and understand what he is saying to the churches.</JESUS>  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "  <JESUS>\u201CWrite this letter to the angel of the church in Laodicea.
+        This is the message from the one who is the Amen\u2014the faithful and true
+        witness, the beginning</JESUS>  [[COMMENT(0)]]  <JESUS>of God\u2019s new
+        creation:</JESUS>  "
+      comments:
+      - number: '3:14 '
+        content: '  Or   <b>the ruler, </b>  or   <b>the source.</b>  '
+    - name: '15: '
+      title: 
+      number: 15
+      content: "  <JESUS>\u201CI know all the things you do, that you are neither
+        hot nor cold. I wish that you were one or the other!</JESUS>  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: '<JESUS>But since you are like lukewarm water, neither hot nor cold,
+        I will spit you out of my mouth!</JESUS>  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "<JESUS>You say, \u2018I am rich. I have everything I want. I don\u2019t
+        need a thing!\u2019 And you don\u2019t realize that you are wretched and
+        miserable and poor and blind and naked.</JESUS>  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "<JESUS>So I advise you to buy gold from me\u2014gold that has been
+        purified by fire. Then you will be rich. Also buy white garments from me
+        so you will not be shamed by your nakedness, and ointment for your eyes so
+        you will be able to see.</JESUS>  "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: '<JESUS>I correct and discipline everyone I love. So be diligent and
+        turn from your indifference.</JESUS>  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "  <JESUS>\u201CLook! I stand at the door and knock. If you hear my
+        voice and open the door, I will come in, and we will share a meal together
+        as friends.</JESUS>  "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: '<JESUS>Those who are victorious will sit with me on my throne, just
+        as I was victorious and sat with my Father on his throne.</JESUS>  '
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: "  <JESUS>\u201CAnyone with ears to hear must listen to the Spirit
+        and understand what he is saying to the churches.\u201D</JESUS>"
+      comments: []
+  - verses:
+    - name: '1: Worship in Heaven'
+      title: Worship in Heaven
+      number: 1
+      content: "  Then as I looked, I saw a door standing open in heaven, and the
+        same voice I had heard before spoke to me like a trumpet blast. The voice
+        said, <JESUS>\u201CCome up here, and I will show you what must happen after
+        this.\u201D</JESUS>  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And instantly I was in the Spirit,[[COMMENT(0)]] and I saw a throne
+        in heaven and someone sitting on it. '
+      comments:
+      - number: '4:2 '
+        content: Or <b>in spirit.</b>
+    - name: '3: '
+      title: 
+      number: 3
+      content: "The one sitting on the throne was as brilliant as gemstones\u2014like
+        jasper and carnelian. And the glow of an emerald circled his throne like
+        a rainbow. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Twenty-four thrones surrounded him, and twenty-four elders sat on
+        them. They were all clothed in white and had gold crowns on their heads. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'From the throne came flashes of lightning and the rumble of thunder.
+        And in front of the throne were seven torches with burning flames. This is
+        the sevenfold Spirit[[COMMENT(0)]] of God. '
+      comments:
+      - number: '4:5 '
+        content: Greek <b>They are the seven spirits.</b>
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'In front of the throne was a shiny sea of glass, sparkling like crystal.In
+        the center and around the throne were four living beings, each covered with
+        eyes, front and back. '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The first of these living beings was like a lion; the second was
+        like an ox; the third had a human face; and the fourth was like an eagle
+        in flight. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Each of these living beings had six wings, and their wings were covered
+        all over with eyes, inside and out. Day after day and night after night they
+        keep on saying,\u201CHoly, holy, holy is the Lord God, the Almighty\u2014the
+        one who always was, who is, and who is still to come.\u201D  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Whenever the living beings give glory and honor and thanks to the
+        one sitting on the throne (the one who lives forever and ever), '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'the twenty-four elders fall down and worship the one sitting on the
+        throne (the one who lives forever and ever). And they lay their crowns before
+        the throne and say,  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CYou are worthy, O Lord our God,to receive glory and honor and
+        power.For you created all things,and they exist because you created what
+        you pleased.\u201D"
+      comments: []
+  - verses:
+    - name: '1: The Lamb Opens the Scroll'
+      title: The Lamb Opens the Scroll
+      number: 1
+      content: '  Then I saw a scroll[[COMMENT(0)]] in the right hand of the one
+        who was sitting on the throne. There was writing on the inside and the outside
+        of the scroll, and it was sealed with seven seals. '
+      comments:
+      - number: '5:1 '
+        content: Or <b>book; </b>also in 5:2, 3, 4, 5, 7, 8, 9.
+    - name: '2: '
+      title: 
+      number: 2
+      content: "And I saw a strong angel, who shouted with a loud voice: \u201CWho
+        is worthy to break the seals on this scroll and open it?\u201D "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'But no one in heaven or on earth or under the earth was able to open
+        the scroll and read it.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Then I began to weep bitterly because no one was found worthy to
+        open the scroll and read it. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "But one of the twenty-four elders said to me, \u201CStop weeping!
+        Look, the Lion of the tribe of Judah, the heir to David\u2019s throne,[[COMMENT(0)]]
+        has won the victory. He is worthy to open the scroll and its seven seals.\u201D  "
+      comments:
+      - number: '5:5 '
+        content: Greek <b>the root of David. </b>See Isa 11:10.
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Then I saw a Lamb that looked as if it had been slaughtered, but
+        it was now standing between the throne and the four living beings and among
+        the twenty-four elders. He had seven horns and seven eyes, which represent
+        the sevenfold Spirit[[COMMENT(0)]] of God that is sent out into every part
+        of the earth. '
+      comments:
+      - number: '5:6 '
+        content: Greek <b>which are the seven spirits.</b>
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'He stepped forward and took the scroll from the right hand of the
+        one sitting on the throne. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And when he took the scroll, the four living beings and the twenty-four
+        elders fell down before the Lamb. Each one had a harp, and they held gold
+        bowls filled with incense, which are the prayers of God\u2019s people. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And they sang a new song with these words:\u201CYou are worthy to
+        take the scrolland break its seals and open it.For you were slaughtered,
+        and your blood has ransomed people for Godfrom every tribe and language and
+        people and nation.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "And you have caused them to becomea Kingdom of priests for our God.And
+        they will reign[[COMMENT(0)]] on the earth.\u201D  "
+      comments:
+      - number: '5:10 '
+        content: Some manuscripts read <b>they are reigning.</b>
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Then I looked again, and I heard the voices of thousands and millions
+        of angels around the throne and of the living beings and the elders. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "And they sang in a mighty chorus:\u201CWorthy is the Lamb who was
+        slaughtered\u2014to receive power and richesand wisdom and strengthand honor
+        and glory and blessing.\u201D  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "And then I heard every creature in heaven and on earth and under
+        the earth and in the sea. They sang:\u201CBlessing and honor and glory and
+        powerbelong to the one sitting on the throneand to the Lamb forever and ever.\u201D  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And the four living beings said, \u201CAmen!\u201D And the twenty-four
+        elders fell down and worshiped the Lamb."
+      comments: []
+  - verses:
+    - name: '1: The Lamb Breaks the First Six Seals'
+      title: The Lamb Breaks the First Six Seals
+      number: 1
+      content: "  As I watched, the Lamb broke the first of the seven seals on the
+        scroll.[[COMMENT(0)]] Then I heard one of the four living beings say with
+        a voice like thunder, \u201CCome!\u201D "
+      comments:
+      - number: '6:1 '
+        content: Or <b>book.</b>
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'I looked up and saw a white horse standing there. Its rider carried
+        a bow, and a crown was placed on his head. He rode out to win many battles
+        and gain the victory.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "When the Lamb broke the second seal, I heard the second living being
+        say, \u201CCome!\u201D "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Then another horse appeared, a red one. Its rider was given a mighty
+        sword and the authority to take peace from the earth. And there was war and
+        slaughter everywhere.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "When the Lamb broke the third seal, I heard the third living being
+        say, \u201CCome!\u201D I looked up and saw a black horse, and its rider was
+        holding a pair of scales in his hand. "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And I heard a voice from among the four living beings say, \u201CA
+        loaf of wheat bread or three loaves of barley will cost a day\u2019s pay.[[COMMENT(0)]]
+        And don\u2019t waste[[COMMENT(1)]] the olive oil and wine.\u201D  "
+      comments:
+      - number: '6:6a '
+        content: "Greek <b>A choinix </b>[1 quart or 1 liter] <b>of wheat for a denarius,
+          and 3 choinix of barley for a denarius. </b>A denarius was equivalent to
+          a laborer\u2019s full day\u2019s wage."
+      - number: '6:6b '
+        content: Or <b>harm.</b>
+    - name: '7: '
+      title: 
+      number: 7
+      content: "When the Lamb broke the fourth seal, I heard the fourth living being
+        say, \u201CCome!\u201D "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'I looked up and saw a horse whose color was pale green. Its rider
+        was named Death, and his companion was the Grave.[[COMMENT(0)]] These two
+        were given authority over one-fourth of the earth, to kill with the sword
+        and famine and disease[[COMMENT(1)]] and wild animals.  '
+      comments:
+      - number: '6:8a '
+        content: Greek <b>was Hades.</b>
+      - number: '6:8b '
+        content: Greek <b>death.</b>
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'When the Lamb broke the fifth seal, I saw under the altar the souls
+        of all who had been martyred for the word of God and for being faithful in
+        their testimony. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "They shouted to the Lord and said, \u201CO Sovereign Lord, holy and
+        true, how long before you judge the people who belong to this world and avenge
+        our blood for what they have done to us?\u201D "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Then a white robe was given to each of them. And they were told to
+        rest a little longer until the full number of their brothers and sisters[[COMMENT(0)]]\u2014their
+        fellow servants of Jesus who were to be martyred\u2014had joined them.  "
+      comments:
+      - number: '6:11 '
+        content: Greek <b>their brothers.</b>
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'I watched as the Lamb broke the sixth seal, and there was a great
+        earthquake. The sun became as dark as black cloth, and the moon became as
+        red as blood. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Then the stars of the sky fell to the earth like green figs falling
+        from a tree shaken by a strong wind. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The sky was rolled up like a scroll, and all of the mountains and
+        islands were moved from their places.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "Then everyone\u2014the kings of the earth, the rulers, the generals,
+        the wealthy, the powerful, and every slave and free person\u2014all hid themselves
+        in the caves and among the rocks of the mountains. "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "And they cried to the mountains and the rocks, \u201CFall on us and
+        hide us from the face of the one who sits on the throne and from the wrath
+        of the Lamb. "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "For the great day of their wrath has come, and who is able to survive?\u201D"
+      comments: []
+  - verses:
+    - name: "1: God\u2019s People Will Be Preserved"
+      title: "God\u2019s People Will Be Preserved"
+      number: 1
+      content: '  Then I saw four angels standing at the four corners of the earth,
+        holding back the four winds so they did not blow on the earth or the sea,
+        or even on any tree. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And I saw another angel coming up from the east, carrying the seal
+        of the living God. And he shouted to those four angels, who had been given
+        power to harm land and sea, '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "\u201CWait! Don\u2019t harm the land or the sea or the trees until
+        we have placed the seal of God on the foreheads of his servants.\u201D  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "And I heard how many were marked with the seal of God\u2014144,000
+        were sealed from all the tribes of Israel:"
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: from Judah12,000from Reuben12,000from Gad12,000
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: from Asher12,000from Naphtali12,000from Manasseh12,000
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: from Simeon12,000from Levi12,000from Issachar12,000
+      comments: []
+    - name: '8: Praise from the Great Crowd'
+      title: Praise from the Great Crowd
+      number: 8
+      content: 'from Zebulun12,000from Joseph12,000from Benjamin12,000  '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'After this I saw a vast crowd, too great to count, from every nation
+        and tribe and people and language, standing in front of the throne and before
+        the Lamb. They were clothed in white robes and held palm branches in their
+        hands. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "And they were shouting with a great roar,\u201CSalvation comes from
+        our God who sits on the throneand from the Lamb!\u201D  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And all the angels were standing around the throne and around the
+        elders and the four living beings. And they fell before the throne with their
+        faces to the ground and worshiped God. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "They sang,\u201CAmen! Blessing and glory and wisdomand thanksgiving
+        and honorand power and strength belong to our Godforever and ever! Amen.\u201D  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Then one of the twenty-four elders asked me, \u201CWho are these
+        who are clothed in white? Where did they come from?\u201D  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And I said to him, \u201CSir, you are the one who knows.\u201DThen
+        he said to me, \u201CThese are the ones who died in[[COMMENT(0)]] the great
+        tribulation.[[COMMENT(1)]] They have washed their robes in the blood of the
+        Lamb and made them white.  "
+      comments:
+      - number: '7:14a '
+        content: Greek <b>who came out of.</b>
+      - number: '7:14b '
+        content: Or <b>the great suffering.</b>
+    - name: '15: '
+      title: 
+      number: 15
+      content: "\u201CThat is why they stand in front of God\u2019s throneand serve
+        him day and night in his Temple.And he who sits on the thronewill give them
+        shelter.  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'They will never again be hungry or thirsty;they will never be scorched
+        by the heat of the sun.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "For the Lamb on the throne[[COMMENT(0)]]will be their Shepherd.He
+        will lead them to springs of life-giving water.And God will wipe every tear
+        from their eyes.\u201D"
+      comments:
+      - number: '7:17 '
+        content: Greek <b>on the center of the throne.</b>
+  - verses:
+    - name: '1: The Lamb Breaks the Seventh Seal'
+      title: The Lamb Breaks the Seventh Seal
+      number: 1
+      content: '  When the Lamb broke the seventh seal on the scroll,[[COMMENT(0)]]
+        there was silence throughout heaven for about half an hour. '
+      comments:
+      - number: '8:1 '
+        content: Or <b>book.</b>
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'I saw the seven angels who stand before God, and they were given
+        seven trumpets.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "Then another angel with a gold incense burner came and stood at the
+        altar. And a great amount of incense was given to him to mix with the prayers
+        of God\u2019s people as an offering on the gold altar before the throne. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "The smoke of the incense, mixed with the prayers of God\u2019s holy
+        people, ascended up to God from the altar where the angel had poured them
+        out. "
+      comments: []
+    - name: '5: The First Four Trumpets'
+      title: The First Four Trumpets
+      number: 5
+      content: 'Then the angel filled the incense burner with fire from the altar
+        and threw it down upon the earth; and thunder crashed, lightning flashed,
+        and there was a terrible earthquake.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Then the seven angels with the seven trumpets prepared to blow their
+        mighty blasts.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The first angel blew his trumpet, and hail and fire mixed with blood
+        were thrown down on the earth. One-third of the earth was set on fire, one-third
+        of the trees were burned, and all the green grass was burned.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Then the second angel blew his trumpet, and a great mountain of fire
+        was thrown into the sea. One-third of the water in the sea became blood, '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'one-third of all things living in the sea died, and one-third of
+        all the ships on the sea were destroyed.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Then the third angel blew his trumpet, and a great star fell from
+        the sky, burning like a torch. It fell on one-third of the rivers and on
+        the springs of water. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The name of the star was Bitterness.[[COMMENT(0)]] It made one-third
+        of the water bitter, and many people died from drinking the bitter water.  '
+      comments:
+      - number: '8:11 '
+        content: Greek <b>Wormwood.</b>
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Then the fourth angel blew his trumpet, and one-third of the sun
+        was struck, and one-third of the moon, and one-third of the stars, and they
+        became dark. And one-third of the day was dark, and also one-third of the
+        night.  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Then I looked, and I heard a single eagle crying loudly as it flew
+        through the air, \u201CTerror, terror, terror to all who belong to this world
+        because of what will happen when the last three angels blow their trumpets.\u201D"
+      comments: []
+  - verses:
+    - name: '1: The Fifth Trumpet Brings the First Terror'
+      title: The Fifth Trumpet Brings the First Terror
+      number: 1
+      content: '  Then the fifth angel blew his trumpet, and I saw a star that had
+        fallen to earth from the sky, and he was given the key to the shaft of the
+        bottomless pit.[[COMMENT(0)]]  '
+      comments:
+      - number: '9:1 '
+        content: Or <b>the abyss, </b>or <b>the underworld; </b>also in 9:11.
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'When he opened it, smoke poured out as though from a huge furnace,
+        and the sunlight and air turned dark from the smoke.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Then locusts came from the smoke and descended on the earth, and
+        they were given power to sting like scorpions. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'They were told not to harm the grass or plants or trees, but only
+        the people who did not have the seal of God on their foreheads. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'They were told not to kill them but to torture them for five months
+        with pain like the pain of a scorpion sting. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'In those days people will seek death but will not find it. They will
+        long to die, but death will flee from them!  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'The locusts looked like horses prepared for battle. They had what
+        looked like gold crowns on their heads, and their faces looked like human
+        faces. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "They had hair like women\u2019s hair and teeth like the teeth of
+        a lion. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'They wore armor made of iron, and their wings roared like an army
+        of chariots rushing into battle. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'They had tails that stung like scorpions, and for five months they
+        had the power to torment people. '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Their king is the angel from the bottomless pit; his name in Hebrew
+        is Abaddon, and in Greek, Apollyon\u2014the Destroyer.  "
+      comments: []
+    - name: '12: The Sixth Trumpet Brings the Second Terror'
+      title: The Sixth Trumpet Brings the Second Terror
+      number: 12
+      content: 'The first terror is past, but look, two more terrors are coming!  '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'Then the sixth angel blew his trumpet, and I heard a voice speaking
+        from the four horns of the gold altar that stands in the presence of God. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "And the voice said to the sixth angel who held the trumpet, \u201CRelease
+        the four angels who are bound at the great Euphrates River.\u201D "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Then the four angels who had been prepared for this hour and day
+        and month and year were turned loose to kill one-third of all the people
+        on earth. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'I heard the size of their army, which was 200 million mounted troops.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And in my vision, I saw the horses and the riders sitting on them.
+        The riders wore armor that was fiery red and dark blue and yellow. The horses
+        had heads like lions, and fire and smoke and burning sulfur billowed from
+        their mouths. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "One-third of all the people on earth were killed by these three plagues\u2014by
+        the fire and smoke and burning sulfur that came from the mouths of the horses. "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Their power was in their mouths and in their tails. For their tails
+        had heads like snakes, with the power to injure people.  '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "But the people who did not die in these plagues still refused to
+        repent of their evil deeds and turn to God. They continued to worship demons
+        and idols made of gold, silver, bronze, stone, and wood\u2014idols that can
+        neither see nor hear nor walk! "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: And they did not repent of their murders or their witchcraft or their
+        sexual immorality or their thefts.
+      comments: []
+  - verses:
+    - name: '1: The Angel and the Small Scroll'
+      title: The Angel and the Small Scroll
+      number: 1
+      content: '  Then I saw another mighty angel coming down from heaven, surrounded
+        by a cloud, with a rainbow over his head. His face shone like the sun, and
+        his feet were like pillars of fire. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And in his hand was a small scroll[[COMMENT(0)]] that had been opened.
+        He stood with his right foot on the sea and his left foot on the land. '
+      comments:
+      - number: '10:2 '
+        content: Or <b>book; </b>also in 10:8, 9, 10.
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'And he gave a great shout like the roar of a lion. And when he shouted,
+        the seven thunders answered.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "When the seven thunders spoke, I was about to write. But I heard
+        a voice from heaven saying, \u201CKeep secret[[COMMENT(0)]] what the seven
+        thunders said, and do not write it down.\u201D  "
+      comments:
+      - number: '10:4 '
+        content: Greek <b>Seal up.</b>
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Then the angel I saw standing on the sea and on the land raised his
+        right hand toward heaven. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "He swore an oath in the name of the one who lives forever and ever,
+        who created the heavens and everything in them, the earth and everything
+        in it, and the sea and everything in it. He said, \u201CThere will be no
+        more delay. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "When the seventh angel blows his trumpet, God\u2019s mysterious plan
+        will be fulfilled. It will happen just as he announced it to his servants
+        the prophets.\u201D  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Then the voice from heaven spoke to me again: \u201CGo and take the
+        open scroll from the hand of the angel who is standing on the sea and on
+        the land.\u201D  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "So I went to the angel and told him to give me the small scroll.
+        \u201CYes, take it and eat it,\u201D he said. \u201CIt will be sweet as honey
+        in your mouth, but it will turn sour in your stomach!\u201D "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'So I took the small scroll from the hand of the angel, and I ate
+        it! It was sweet in my mouth, but when I swallowed it, it turned sour in
+        my stomach.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Then I was told, \u201CYou must prophesy again about many peoples,
+        nations, languages, and kings.\u201D"
+      comments: []
+  - verses:
+    - name: '1: The Two Witnesses'
+      title: The Two Witnesses
+      number: 1
+      content: "  Then I was given a measuring stick, and I was told, \u201CGo and
+        measure the Temple of God and the altar, and count the number of worshipers. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'But do not measure the outer courtyard, for it has been turned over
+        to the nations. They will trample the holy city for 42 months. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And I will give power to my two witnesses, and they will be clothed
+        in burlap and will prophesy during those 1,260 days.\u201D  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'These two prophets are the two olive trees and the two lampstands
+        that stand before the Lord of all the earth. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'If anyone tries to harm them, fire flashes from their mouths and
+        consumes their enemies. This is how anyone who tries to harm them must die. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'They have power to shut the sky so that no rain will fall for as
+        long as they prophesy. And they have the power to turn the rivers and oceans
+        into blood, and to strike the earth with every kind of plague as often as
+        they wish.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'When they complete their testimony, the beast that comes up out of
+        the bottomless pit[[COMMENT(0)]] will declare war against them, and he will
+        conquer them and kill them. '
+      comments:
+      - number: '11:7 '
+        content: Or <b>the abyss, </b>or <b>the underworld.</b>
+    - name: '8: '
+      title: 
+      number: 8
+      content: "And their bodies will lie in the main street of Jerusalem,[[COMMENT(0)]]
+        the city that is figuratively called \u201CSodom\u201D and \u201CEgypt,\u201D
+        the city where their Lord was crucified. "
+      comments:
+      - number: '11:8 '
+        content: Greek <b>the great city.</b>
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And for three and a half days, all peoples, tribes, languages, and
+        nations will stare at their bodies. No one will be allowed to bury them. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'All the people who belong to this world will gloat over them and
+        give presents to each other to celebrate the death of the two prophets who
+        had tormented them.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'But after three and a half days, God breathed life into them, and
+        they stood up! Terror struck all who were staring at them. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Then a loud voice from heaven called to the two prophets, \u201CCome
+        up here!\u201D And they rose to heaven in a cloud as their enemies watched.  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'At the same time there was a terrible earthquake that destroyed a
+        tenth of the city. Seven thousand people died in that earthquake, and everyone
+        else was terrified and gave glory to the God of heaven.  '
+      comments: []
+    - name: '14: The Seventh Trumpet Brings the Third Terror'
+      title: The Seventh Trumpet Brings the Third Terror
+      number: 14
+      content: 'The second terror is past, but look, the third terror is coming quickly.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "Then the seventh angel blew his trumpet, and there were loud voices
+        shouting in heaven:\u201CThe world has now become the Kingdom of our Lord
+        and of his Christ,[[COMMENT(0)]]and he will reign forever and ever.\u201D  "
+      comments:
+      - number: '11:15 '
+        content: Or <b>his Messiah.</b>
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The twenty-four elders sitting on their thrones before God fell with
+        their faces to the ground and worshiped him. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "And they said,\u201CWe give thanks to you, Lord God, the Almighty,the
+        one who is and who always was,for now you have assumed your great powerand
+        have begun to reign.  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "The nations were filled with wrath,but now the time of your wrath
+        has come.It is time to judge the deadand reward your servants the prophets,as
+        well as your holy people,and all who fear your name,from the least to the
+        greatest.It is time to destroyall who have caused destruction on the earth.\u201D  "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: Then, in heaven, the Temple of God was opened and the Ark of his covenant
+        could be seen inside the Temple. Lightning flashed, thunder crashed and roared,
+        and there was an earthquake and a terrible hailstorm.
+      comments: []
+  - verses:
+    - name: '1: The Woman and the Dragon'
+      title: The Woman and the Dragon
+      number: 1
+      content: '  Then I witnessed in heaven an event of great significance. I saw
+        a woman clothed with the sun, with the moon beneath her feet, and a crown
+        of twelve stars on her head. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'She was pregnant, and she cried out because of her labor pains and
+        the agony of giving birth.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Then I witnessed in heaven another significant event. I saw a large
+        red dragon with seven heads and ten horns, with seven crowns on his heads. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'His tail swept away one-third of the stars in the sky, and he threw
+        them to the earth. He stood in front of the woman as she was about to give
+        birth, ready to devour her baby as soon as it was born.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'She gave birth to a son who was to rule all nations with an iron
+        rod. And her child was snatched away from the dragon and was caught up to
+        God and to his throne. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'And the woman fled into the wilderness, where God had prepared a
+        place to care for her for 1,260 days.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Then there was war in heaven. Michael and his angels fought against
+        the dragon and his angels. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And the dragon lost the battle, and he and his angels were forced
+        out of heaven. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "This great dragon\u2014the ancient serpent called the devil, or Satan,
+        the one deceiving the whole world\u2014was thrown down to the earth with
+        all his angels.  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Then I heard a loud voice shouting across the heavens,\u201CIt has
+        come at last\u2014salvation and powerand the Kingdom of our God,and the authority
+        of his Christ.[[COMMENT(0)]]For the accuser of our brothers and sisters[[COMMENT(1)]]has
+        been thrown down to earth\u2014the one who accuses thembefore our God day
+        and night.  "
+      comments:
+      - number: '12:10a '
+        content: Or <b>his Messiah.</b>
+      - number: '12:10b '
+        content: Greek <b>brothers.</b>
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And they have defeated him by the blood of the Lamband by their testimony.And
+        they did not love their lives so muchthat they were afraid to die.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "Therefore, rejoice, O heavens!And you who live in the heavens, rejoice!But
+        terror will come on the earth and the sea,for the devil has come down to
+        you in great anger,knowing that he has little time.\u201D  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'When the dragon realized that he had been thrown down to the earth,
+        he pursued the woman who had given birth to the male child. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'But she was given two wings like those of a great eagle so she could
+        fly to the place prepared for her in the wilderness. There she would be cared
+        for and protected from the dragon[[COMMENT(0)]] for a time, times, and half
+        a time.  '
+      comments:
+      - number: '12:14 '
+        content: Greek <b>the serpent; </b>also in 12:15. See 12:9.
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'Then the dragon tried to drown the woman with a flood of water that
+        flowed from his mouth. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'But the earth helped her by opening its mouth and swallowing the
+        river that gushed out from the mouth of the dragon. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "And the dragon was angry at the woman and declared war against the
+        rest of her children\u2014all who keep God\u2019s commandments and maintain
+        their testimony for Jesus.  "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: Then the dragon took his stand[[COMMENT(0)]] on the shore beside the
+        sea.
+      comments:
+      - number: '12:18 '
+        content: Greek <b>Then he took his stand; </b>some manuscripts read <b>Then
+          I took my stand</b>. Some translations put this entire sentence into 13:1.
+  - verses:
+    - name: '1: The Beast out of the Sea'
+      title: The Beast out of the Sea
+      number: 1
+      content: '  Then I saw a beast rising up out of the sea. It had seven heads
+        and ten horns, with ten crowns on its horns. And written on each head were
+        names that blasphemed God. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'This beast looked like a leopard, but it had the feet of a bear and
+        the mouth of a lion! And the dragon gave the beast his own power and throne
+        and great authority.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "I saw that one of the heads of the beast seemed wounded beyond recovery\u2014but
+        the fatal wound was healed! The whole world marveled at this miracle and
+        gave allegiance to the beast. "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "They worshiped the dragon for giving the beast such power, and they
+        also worshiped the beast. \u201CWho is as great as the beast?\u201D they
+        exclaimed. \u201CWho is able to fight against him?\u201D  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'Then the beast was allowed to speak great blasphemies against God.
+        And he was given authority to do whatever he wanted for forty-two months. '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And he spoke terrible words of blasphemy against God, slandering
+        his name and his dwelling\u2014that is, those who dwell in heaven.[[COMMENT(0)]]  "
+      comments:
+      - number: '13:6 '
+        content: Some manuscripts read <b>and his dwelling and all who dwell in heaven.</b>
+    - name: '7: '
+      title: 
+      number: 7
+      content: "And the beast was allowed to wage war against God\u2019s holy people
+        and to conquer them. And he was given authority to rule over every tribe
+        and people and language and nation. "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'And all the people who belong to this world worshiped the beast.
+        They are the ones whose names were not written in the Book of Life that belongs
+        to the Lamb who was slaughtered before the world was made.[[COMMENT(0)]]  '
+      comments:
+      - number: '13:8 '
+        content: "Or <b>not written in the Book of Life before the world was made\u2014the
+          Book that belongs to the Lamb who was slaughtered.</b>"
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Anyone with ears to hearshould listen and understand.  '
+      comments: []
+    - name: '10: The Beast out of the Earth'
+      title: The Beast out of the Earth
+      number: 10
+      content: "Anyone who is destined for prisonwill be taken to prison.Anyone destined
+        to die by the swordwill die by the sword.This means that God\u2019s holy
+        people must endure persecution patiently and remain faithful.  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Then I saw another beast come up out of the earth. He had two horns
+        like those of a lamb, but he spoke with the voice of a dragon. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'He exercised all the authority of the first beast. And he required
+        all the earth and its people to worship the first beast, whose fatal wound
+        had been healed. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'He did astounding miracles, even making fire flash down to earth
+        from the sky while everyone was watching. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'And with all the miracles he was allowed to perform on behalf of
+        the first beast, he deceived all the people who belong to this world. He
+        ordered the people to make a great statue of the first beast, who was fatally
+        wounded and then came back to life. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'He was then permitted to give life to this statue so that it could
+        speak. Then the statue of the beast commanded that anyone refusing to worship
+        it must die.  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "He required everyone\u2014small and great, rich and poor, free and
+        slave\u2014to be given a mark on the right hand or on the forehead. "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'And no one could buy or sell anything without that mark, which was
+        either the name of the beast or the number representing his name. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: Wisdom is needed here. Let the one with understanding solve the meaning
+        of the number of the beast, for it is the number of a man.[[COMMENT(0)]]
+        His number is 666.[[COMMENT(1)]]
+      comments:
+      - number: '13:18a '
+        content: Or <b>of humanity.</b>
+      - number: '13:18b '
+        content: Some manuscripts read <b>616.</b>
+  - verses:
+    - name: '1: The Lamb and the 144,000'
+      title: The Lamb and the 144,000
+      number: 1
+      content: "  Then I saw the Lamb standing on Mount Zion, and with him were 144,000
+        who had his name and his Father\u2019s name written on their foreheads. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And I heard a sound from heaven like the roar of mighty ocean waves
+        or the rolling of loud thunder. It was like the sound of many harpists playing
+        together.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'This great choir sang a wonderful new song in front of the throne
+        of God and before the four living beings and the twenty-four elders. No one
+        could learn this song except the 144,000 who had been redeemed from the earth. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'They have kept themselves as pure as virgins,[[COMMENT(0)]] following
+        the Lamb wherever he goes. They have been purchased from among the people
+        on the earth as a special offering[[COMMENT(1)]] to God and to the Lamb. '
+      comments:
+      - number: '14:4a '
+        content: Greek <b>They are virgins who have not defiled themselves with women.</b>
+      - number: '14:4b '
+        content: Greek <b>as firstfruits.</b>
+    - name: '5: The Three Angels'
+      title: The Three Angels
+      number: 5
+      content: 'They have told no lies; they are without blame.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And I saw another angel flying through the sky, carrying the eternal
+        Good News to proclaim to the people who belong to this world\u2014to every
+        nation, tribe, language, and people. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CFear God,\u201D he shouted. \u201CGive glory to him. For the
+        time has come when he will sit as judge. Worship him who made the heavens,
+        the earth, the sea, and all the springs of water.\u201D  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Then another angel followed him through the sky, shouting, \u201CBabylon
+        is fallen\u2014that great city is fallen\u2014because she made all the nations
+        of the world drink the wine of her passionate immorality.\u201D  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Then a third angel followed them, shouting, \u201CAnyone who worships
+        the beast and his statue or who accepts his mark on the forehead or on the
+        hand "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "must drink the wine of God\u2019s anger. It has been poured full
+        strength into God\u2019s cup of wrath. And they will be tormented with fire
+        and burning sulfur in the presence of the holy angels and the Lamb. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "The smoke of their torment will rise forever and ever, and they will
+        have no relief day or night, for they have worshiped the beast and his statue
+        and have accepted the mark of his name.\u201D  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "This means that God\u2019s holy people must endure persecution patiently,
+        obeying his commands and maintaining their faith in Jesus.  "
+      comments: []
+    - name: '13: The Harvest of the Earth'
+      title: The Harvest of the Earth
+      number: 13
+      content: "And I heard a voice from heaven saying, \u201CWrite this down: Blessed
+        are those who die in the Lord from now on. Yes, says the Spirit, they are
+        blessed indeed, for they will rest from their hard work; for their good deeds
+        follow them!\u201D  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Then I saw a white cloud, and seated on the cloud was someone like
+        the Son of Man.[[COMMENT(0)]] He had a gold crown on his head and a sharp
+        sickle in his hand.  '
+      comments:
+      - number: '14:14 '
+        content: "Or <b>like a son of man. </b>See Dan 7:13. \u201CSon of Man\u201D
+          is a title Jesus used for himself."
+    - name: '15: '
+      title: 
+      number: 15
+      content: "Then another angel came from the Temple and shouted to the one sitting
+        on the cloud, \u201CSwing the sickle, for the time of harvest has come; the
+        crop on earth is ripe.\u201D "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'So the one sitting on the cloud swung his sickle over the earth,
+        and the whole earth was harvested.  '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'After that, another angel came from the Temple in heaven, and he
+        also had a sharp sickle. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "Then another angel, who had power to destroy with fire, came from
+        the altar. He shouted to the angel with the sharp sickle, \u201CSwing your
+        sickle now to gather the clusters of grapes from the vines of the earth,
+        for they are ripe for judgment.\u201D "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "So the angel swung his sickle over the earth and loaded the grapes
+        into the great winepress of God\u2019s wrath. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "The grapes were trampled in the winepress outside the city, and blood
+        flowed from the winepress in a stream about 180 miles[[COMMENT(0)]] long
+        and as high as a horse\u2019s bridle."
+      comments:
+      - number: '14:20 '
+        content: Greek <b>1,600 stadia </b>[300 kilometers].
+  - verses:
+    - name: '1: The Song of Moses and of the Lamb'
+      title: The Song of Moses and of the Lamb
+      number: 1
+      content: "  Then I saw in heaven another marvelous event of great significance.
+        Seven angels were holding the seven last plagues, which would bring God\u2019s
+        wrath to completion. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'I saw before me what seemed to be a glass sea mixed with fire. And
+        on it stood all the people who had been victorious over the beast and his
+        statue and the number representing his name. They were all holding harps
+        that God had given them. '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And they were singing the song of Moses, the servant of God, and
+        the song of the Lamb:\u201CGreat and marvelous are your works,O Lord God,
+        the Almighty.Just and true are your ways,O King of the nations.[[COMMENT(0)]]  "
+      comments:
+      - number: '15:3 '
+        content: Some manuscripts read <b>King of the ages.</b>
+    - name: '4: The Seven Bowls of the Seven Plagues'
+      title: The Seven Bowls of the Seven Plagues
+      number: 4
+      content: "Who will not fear you, Lord,and glorify your name?For you alone are
+        holy.All nations will come and worship before you,for your righteous deeds
+        have been revealed.\u201D  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "Then I looked and saw that the Temple in heaven, God\u2019s Tabernacle,
+        was thrown wide open. "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'The seven angels who were holding the seven plagues came out of the
+        Temple. They were clothed in spotless white linen[[COMMENT(0)]] with gold
+        sashes across their chests. '
+      comments:
+      - number: '15:6 '
+        content: Other manuscripts read <b>white stone; </b>still others read <b>white
+          [garments] made of linen.</b>
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Then one of the four living beings handed each of the seven angels
+        a gold bowl filled with the wrath of God, who lives forever and ever. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "The Temple was filled with smoke from God\u2019s glory and power.
+        No one could enter the Temple until the seven angels had completed pouring
+        out the seven plagues."
+      comments: []
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: "  Then I heard a mighty voice from the Temple say to the seven angels,
+        \u201CGo your ways and pour out on the earth the seven bowls containing God\u2019s
+        wrath.\u201D  "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'So the first angel left the Temple and poured out his bowl on the
+        earth, and horrible, malignant sores broke out on everyone who had the mark
+        of the beast and who worshiped his statue.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'Then the second angel poured out his bowl on the sea, and it became
+        like the blood of a corpse. And everything in the sea died.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Then the third angel poured out his bowl on the rivers and springs,
+        and they became blood. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And I heard the angel who had authority over all water saying,\u201CYou
+        are just, O Holy One, who is and who always was,because you have sent these
+        judgments.  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Since they shed the bloodof your holy people and your prophets,you
+        have given them blood to drink.It is their just reward.\u201D  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "And I heard a voice from the altar,[[COMMENT(0)]] saying,\u201CYes,
+        O Lord God, the Almighty,your judgments are true and just.\u201D  "
+      comments:
+      - number: '16:7 '
+        content: Greek <b>I heard the altar.</b>
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'Then the fourth angel poured out his bowl on the sun, causing it
+        to scorch everyone with its fire. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'Everyone was burned by this blast of heat, and they cursed the name
+        of God, who had control over all these plagues. They did not repent of their
+        sins and turn to God and give him glory.  '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Then the fifth angel poured out his bowl on the throne of the beast,
+        and his kingdom was plunged into darkness. His subjects ground their teeth[[COMMENT(0)]]
+        in anguish, '
+      comments:
+      - number: '16:10 '
+        content: Greek <b>gnawed their tongues.</b>
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'and they cursed the God of heaven for their pains and sores. But
+        they did not repent of their evil deeds and turn to God.  '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'Then the sixth angel poured out his bowl on the great Euphrates River,
+        and it dried up so that the kings from the east could march their armies
+        toward the west without hindrance. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'And I saw three evil[[COMMENT(0)]] spirits that looked like frogs
+        leap from the mouths of the dragon, the beast, and the false prophet. '
+      comments:
+      - number: '16:13 '
+        content: Greek <b>unclean.</b>
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'They are demonic spirits who work miracles and go out to all the
+        rulers of the world to gather them for battle against the Lord on that great
+        judgment day of God the Almighty.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "  <JESUS>\u201CLook, I will come as unexpectedly as a thief! Blessed
+        are all who are watching for me, who keep their clothing ready so they will
+        not have to walk around naked and ashamed.\u201D</JESUS>  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'And the demonic spirits gathered all the rulers and their armies
+        to a place with the Hebrew name Armageddon.[[COMMENT(0)]]  '
+      comments:
+      - number: '16:16 '
+        content: Or <b>Harmagedon.</b>
+    - name: '17: '
+      title: 
+      number: 17
+      content: "Then the seventh angel poured out his bowl into the air. And a mighty
+        shout came from the throne in the Temple, saying, \u201CIt is finished!\u201D "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "Then the thunder crashed and rolled, and lightning flashed. And a
+        great earthquake struck\u2014the worst since people were placed on the earth. "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "The great city of Babylon split into three sections, and the cities
+        of many nations fell into heaps of rubble. So God remembered all of Babylon\u2019s
+        sins, and he made her drink the cup that was filled with the wine of his
+        fierce wrath. "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'And every island disappeared, and all the mountains were leveled. '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: There was a terrible hailstorm, and hailstones weighing as much as
+        seventy-five pounds[[COMMENT(0)]] fell from the sky onto the people below.
+        They cursed God because of the terrible plague of the hailstorm.
+      comments:
+      - number: '16:21 '
+        content: Greek <b>1 talent </b>[34 kilograms].
+  - verses:
+    - name: '1: The Great Prostitute'
+      title: The Great Prostitute
+      number: 1
+      content: "  One of the seven angels who had poured out the seven bowls came
+        over and spoke to me. \u201CCome with me,\u201D he said, \u201Cand I will
+        show you the judgment that is going to come on the great prostitute, who
+        rules over many waters. "
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "The kings of the world have committed adultery with her, and the
+        people who belong to this world have been made drunk by the wine of her immorality.\u201D  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'So the angel took me in the Spirit[[COMMENT(0)]] into the wilderness.
+        There I saw a woman sitting on a scarlet beast that had seven heads and ten
+        horns, and blasphemies against God were written all over it. '
+      comments:
+      - number: '17:3 '
+        content: Or <b>in spirit.</b>
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'The woman wore purple and scarlet clothing and beautiful jewelry
+        made of gold and precious gems and pearls. In her hand she held a gold goblet
+        full of obscenities and the impurities of her immorality. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "A mysterious name was written on her forehead: \u201CBabylon the
+        Great, Mother of All Prostitutes and Obscenities in the World.\u201D "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "I could see that she was drunk\u2014drunk with the blood of God\u2019s
+        holy people who were witnesses for Jesus. I stared at her in complete amazement.  "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: "\u201CWhy are you so amazed?\u201D the angel asked. \u201CI will
+        tell you the mystery of this woman and of the beast with seven heads and
+        ten horns on which she sits. "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "The beast you saw was once alive but isn\u2019t now. And yet he will
+        soon come up out of the bottomless pit[[COMMENT(0)]] and go to eternal destruction.
+        And the people who belong to this world, whose names were not written in
+        the Book of Life before the world was made, will be amazed at the reappearance
+        of this beast who had died.  "
+      comments:
+      - number: '17:8 '
+        content: Or <b>the abyss, </b>or <b>the underworld.</b>
+    - name: '9: '
+      title: 
+      number: 9
+      content: "\u201CThis calls for a mind with understanding: The seven heads of
+        the beast represent the seven hills where the woman rules. They also represent
+        seven kings. "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'Five kings have already fallen, the sixth now reigns, and the seventh
+        is yet to come, but his reign will be brief.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "\u201CThe scarlet beast that was, but is no longer, is the eighth
+        king. He is like the other seven, and he, too, is headed for destruction. "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The ten horns of the beast are ten kings who have not yet risen to
+        power. They will be appointed to their kingdoms for one brief moment to reign
+        with the beast. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'They will all agree to give him their power and authority. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "Together they will go to war against the Lamb, but the Lamb will
+        defeat them because he is Lord of all lords and King of all kings. And his
+        called and chosen and faithful ones will be with him.\u201D  "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "Then the angel said to me, \u201CThe waters where the prostitute
+        is ruling represent masses of people of every nation and language. "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'The scarlet beast and his ten horns all hate the prostitute. They
+        will strip her naked, eat her flesh, and burn her remains with fire. '
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'For God has put a plan into their minds, a plan that will carry out
+        his purposes. They will agree to give their authority to the scarlet beast,
+        and so the words of God will be fulfilled. '
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "And this woman you saw in your vision represents the great city that
+        rules over the kings of the world.\u201D"
+      comments: []
+  - verses:
+    - name: '1: The Fall of Babylon'
+      title: The Fall of Babylon
+      number: 1
+      content: '  After all this I saw another angel come down from heaven with great
+        authority, and the earth grew bright with his splendor. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: "He gave a mighty shout:\u201CBabylon is fallen\u2014that great city
+        is fallen!She has become a home for demons.She is a hideout for every foul[[COMMENT(0)]]
+        spirit,a hideout for every foul vultureand every foul and dreadful animal.[[COMMENT(1)]]  "
+      comments:
+      - number: '18:2a '
+        content: Greek <b>unclean; </b>also in each of the two following phrases.
+      - number: '18:2b '
+        content: Some manuscripts condense the last two lines to read <b>a hideout
+          for every foul [unclean] and dreadful vulture.</b>
+    - name: '3: '
+      title: 
+      number: 3
+      content: "For all the nations have fallen[[COMMENT(0)]]because of the wine
+        of her passionate immorality.The kings of the worldhave committed adultery
+        with her.Because of her desires for extravagant luxury,the merchants of the
+        world have grown rich.\u201D  "
+      comments:
+      - number: '18:3 '
+        content: Some manuscripts read <b>have drunk.</b>
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Then I heard another voice calling from heaven,\u201CCome away from
+        her, my people.Do not take part in her sins,or you will be punished with
+        her.  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'For her sins are piled as high as heaven,and God remembers her evil
+        deeds.  '
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: 'Do to her as she has done to others.Double her penalty[[COMMENT(0)]]
+        for all her evil deeds.She brewed a cup of terror for others,so brew twice
+        as much[[COMMENT(1)]] for her.  '
+      comments:
+      - number: '18:6a '
+        content: Or <b>Give her an equal penalty.</b>
+      - number: '18:6b '
+        content: Or <b>brew just as much.</b>
+    - name: '7: '
+      title: 
+      number: 7
+      content: "She glorified herself and lived in luxury,so match it now with torment
+        and sorrow.She boasted in her heart,\u2018I am queen on my throne.I am no
+        helpless widow,and I have no reason to mourn.\u2019  "
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "Therefore, these plagues will overtake her in a single day\u2014death
+        and mourning and famine.She will be completely consumed by fire,for the Lord
+        God who judges her is mighty.\u201D  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: 'And the kings of the world who committed adultery with her and enjoyed
+        her great luxury will mourn for her as they see the smoke rising from her
+        charred remains. '
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "They will stand at a distance, terrified by her great torment. They
+        will cry out,\u201CHow terrible, how terrible for you,O Babylon, you great
+        city!In a single momentGod\u2019s judgment came on you.\u201D  "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'The merchants of the world will weep and mourn for her, for there
+        is no one left to buy their goods. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'She bought great quantities of gold, silver, jewels, and pearls;
+        fine linen, purple, silk, and scarlet cloth; things made of fragrant thyine
+        wood, ivory goods, and objects made of expensive wood; and bronze, iron,
+        and marble. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "She also bought cinnamon, spice, incense, myrrh, frankincense, wine,
+        olive oil, fine flour, wheat, cattle, sheep, horses, wagons, and bodies\u2014that
+        is, human slaves.  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: "\u201CThe fancy things you loved so muchare gone,\u201D they cry.\u201CAll
+        your luxuries and splendorare gone forever,never to be yours again.\u201D  "
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The merchants who became wealthy by selling her these things will
+        stand at a distance, terrified by her great torment. They will weep and cry
+        out,  '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "\u201CHow terrible, how terrible for that great city!She was clothed
+        in finest purple and scarlet linens,decked out with gold and precious stones
+        and pearls!  "
+      comments: []
+    - name: '17: '
+      title: 
+      number: 17
+      content: "In a single momentall the wealth of the city is gone!\u201DAnd all
+        the captains of the merchant ships and their passengers and sailors and crews
+        will stand at a distance. "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "They will cry out as they watch the smoke ascend, and they will say,
+        \u201CWhere is there another city as great as this?\u201D "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "And they will weep and throw dust on their heads to show their grief.
+        And they will cry out,\u201CHow terrible, how terrible for that great city!The
+        shipowners became wealthyby transporting her great wealth on the seas.In
+        a single moment it is all gone.\u201D  "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'Rejoice over her fate, O heavenand people of God and apostles and
+        prophets!For at last God has judged herfor your sakes.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "Then a mighty angel picked up a boulder the size of a huge millstone.
+        He threw it into the ocean and shouted,\u201CJust like this, the great city
+        Babylonwill be thrown down with violenceand will never be found again.  "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'The sound of harps, singers, flutes, and trumpetswill never be heard
+        in you again.No craftsmen and no tradeswill ever be found in you again.The
+        sound of the millwill never be heard in you again.  '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'The light of a lampwill never shine in you again.The happy voices
+        of brides and groomswill never be heard in you again.For your merchants were
+        the greatest in the world,and you deceived the nations with your sorceries.  '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: "In your[[COMMENT(0)]] streets flowed the blood of the prophets and
+        of God\u2019s holy peopleand the blood of people slaughtered all over the
+        world.\u201D"
+      comments:
+      - number: '18:24 '
+        content: Greek <b>her.</b>
+  - verses:
+    - name: '1: Songs of Victory in Heaven'
+      title: Songs of Victory in Heaven
+      number: 1
+      content: "  After this, I heard what sounded like a vast crowd in heaven shouting,\u201CPraise
+        the <smallcaps>Lord</smallcaps>![[COMMENT(0)]]<smallcaps>Salvation and glory
+        and power belong to our God.</smallcaps>  "
+      comments:
+      - number: '19:1 '
+        content: "Greek <b>Hallelujah; </b>also in 19:3, 4, 6. <b>Hallelujah </b>is
+          the transliteration of a Hebrew term that means \u201CPraise the <span
+          class=\"ChapterContent_nd__ECPAf\">Lord</span>.\u201D"
+    - name: '2: '
+      title: 
+      number: 2
+      content: "His judgments are true and just.He has punished the great prostitutewho
+        corrupted the earth with her immorality.He has avenged the murder of his
+        servants.\u201D  "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "And again their voices rang out:\u201CPraise the <smallcaps>Lord</smallcaps>!The
+        smoke from that city ascends forever and ever!\u201D  "
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: "Then the twenty-four elders and the four living beings fell down
+        and worshiped God, who was sitting on the throne. They cried out, \u201CAmen!
+        Praise the <smallcaps>Lord</smallcaps>!\u201D  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And from the throne came a voice that said,\u201CPraise our God,all
+        his servants,all who fear him,from the least to the greatest.\u201D  "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "Then I heard again what sounded like the shout of a vast crowd or
+        the roar of mighty ocean waves or the crash of loud thunder:\u201CPraise
+        the <smallcaps>Lord</smallcaps>!For the Lord our God,[[COMMENT(0)]] the Almighty,
+        reigns.  "
+      comments:
+      - number: '19:6 '
+        content: Some manuscripts read <b>the Lord God.</b>
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'Let us be glad and rejoice,and let us give honor to him.For the time
+        has come for the wedding feast of the Lamb,and his bride has prepared herself.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "She has been given the finest of pure white linen to wear.\u201DFor
+        the fine linen represents the good deeds of God\u2019s holy people.  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And the angel said to me, \u201CWrite this: Blessed are those who
+        are invited to the wedding feast of the Lamb.\u201D And he added, \u201CThese
+        are true words that come from God.\u201D  "
+      comments: []
+    - name: '10: The Rider on the White Horse'
+      title: The Rider on the White Horse
+      number: 10
+      content: "Then I fell down at his feet to worship him, but he said, \u201CNo,
+        don\u2019t worship me. I am a servant of God, just like you and your brothers
+        and sisters[[COMMENT(0)]] who testify about their faith in Jesus. Worship
+        only God. For the essence of prophecy is to give a clear witness for Jesus.[[COMMENT(1)]]\u201D  "
+      comments:
+      - number: '19:10a '
+        content: Greek <b>brothers.</b>
+      - number: '19:10b '
+        content: Or <b>is the message confirmed by Jesus.</b>
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'Then I saw heaven opened, and a white horse was standing there. Its
+        rider was named Faithful and True, for he judges fairly and wages a righteous
+        war. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'His eyes were like flames of fire, and on his head were many crowns.
+        A name was written on him that no one understood except himself. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'He wore a robe dipped in blood, and his title was the Word of God. '
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The armies of heaven, dressed in the finest of pure white linen,
+        followed him on white horses. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'From his mouth came a sharp sword to strike down the nations. He
+        will rule them with an iron rod. He will release the fierce wrath of God,
+        the Almighty, like juice flowing from a winepress. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'On his robe at his thigh[[COMMENT(0)]] was written this title: King
+        of all kings and Lord of all lords.  '
+      comments:
+      - number: '19:16 '
+        content: Or <b>On his robe and thigh.</b>
+    - name: '17: '
+      title: 
+      number: 17
+      content: "Then I saw an angel standing in the sun, shouting to the vultures
+        flying high in the sky: \u201CCome! Gather together for the great banquet
+        God has prepared. "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: "Come and eat the flesh of kings, generals, and strong warriors; of
+        horses and their riders; and of all humanity, both free and slave, small
+        and great.\u201D  "
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'Then I saw the beast and the kings of the world and their armies
+        gathered together to fight against the one sitting on the horse and his army. '
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "And the beast was captured, and with him the false prophet who did
+        mighty miracles on behalf of the beast\u2014miracles that deceived all who
+        had accepted the mark of the beast and who worshiped his statue. Both the
+        beast and his false prophet were thrown alive into the fiery lake of burning
+        sulfur. "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: Their entire army was killed by the sharp sword that came from the
+        mouth of the one riding the white horse. And the vultures all gorged themselves
+        on the dead bodies.
+      comments: []
+  - verses:
+    - name: '1: The Thousand Years'
+      title: The Thousand Years
+      number: 1
+      content: '  Then I saw an angel coming down from heaven with the key to the
+        bottomless pit[[COMMENT(0)]] and a heavy chain in his hand. '
+      comments:
+      - number: '20:1 '
+        content: Or <b>the abyss, </b>or <b>the underworld; </b>also in 20:3.
+    - name: '2: '
+      title: 
+      number: 2
+      content: "He seized the dragon\u2014that old serpent, who is the devil, Satan\u2014and
+        bound him in chains for a thousand years. "
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'The angel threw him into the bottomless pit, which he then shut and
+        locked so Satan could not deceive the nations anymore until the thousand
+        years were finished. Afterward he must be released for a little while.  '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'Then I saw thrones, and the people sitting on them had been given
+        the authority to judge. And I saw the souls of those who had been beheaded
+        for their testimony about Jesus and for proclaiming the word of God. They
+        had not worshiped the beast or his statue, nor accepted his mark on their
+        foreheads or their hands. They all came to life again, and they reigned with
+        Christ for a thousand years.  '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: 'This is the first resurrection. (The rest of the dead did not come
+        back to life until the thousand years had ended.) '
+      comments: []
+    - name: '6: The Defeat of Satan'
+      title: The Defeat of Satan
+      number: 6
+      content: 'Blessed and holy are those who share in the first resurrection. For
+        them the second death holds no power, but they will be priests of God and
+        of Christ and will reign with him a thousand years.  '
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'When the thousand years come to an end, Satan will be let out of
+        his prison. '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "He will go out to deceive the nations\u2014called Gog and Magog\u2014in
+        every corner of the earth. He will gather them together for battle\u2014a
+        mighty army, as numberless as sand along the seashore. "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "And I saw them as they went up on the broad plain of the earth and
+        surrounded God\u2019s people and the beloved city. But fire from heaven came
+        down on the attacking armies and consumed them.  "
+      comments: []
+    - name: '10: The Final Judgment'
+      title: The Final Judgment
+      number: 10
+      content: 'Then the devil, who had deceived them, was thrown into the fiery
+        lake of burning sulfur, joining the beast and the false prophet. There they
+        will be tormented day and night forever and ever.  '
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: 'And I saw a great white throne and the one sitting on it. The earth
+        and sky fled from his presence, but they found no place to hide. '
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "I saw the dead, both great and small, standing before God\u2019s
+        throne. And the books were opened, including the Book of Life. And the dead
+        were judged according to what they had done, as recorded in the books. "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: 'The sea gave up its dead, and death and the grave[[COMMENT(0)]] gave
+        up their dead. And all were judged according to their deeds. '
+      comments:
+      - number: '20:13 '
+        content: Greek <b>and Hades; </b>also in 20:14.
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Then death and the grave were thrown into the lake of fire. This
+        lake of fire is the second death. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: And anyone whose name was not found recorded in the Book of Life was
+        thrown into the lake of fire.
+      comments: []
+  - verses:
+    - name: '1: The New Jerusalem'
+      title: The New Jerusalem
+      number: 1
+      content: '  Then I saw a new heaven and a new earth, for the old heaven and
+        the old earth had disappeared. And the sea was also gone. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'And I saw the holy city, the new Jerusalem, coming down from God
+        out of heaven like a bride beautifully dressed for her husband.  '
+      comments: []
+    - name: '3: '
+      title: 
+      number: 3
+      content: "I heard a loud shout from the throne, saying, \u201CLook, God\u2019s
+        home is now among his people! He will live with them, and they will be his
+        people. God himself will be with them.[[COMMENT(0)]]  "
+      comments:
+      - number: '21:3 '
+        content: Some manuscripts read <b>God himself will be with them, their God.</b>
+    - name: '4: '
+      title: 
+      number: 4
+      content: "He will wipe every tear from their eyes, and there will be no more
+        death or sorrow or crying or pain. All these things are gone forever.\u201D  "
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And the one sitting on the throne said, \u201CLook, I am making everything
+        new!\u201D And then he said to me, \u201CWrite this down, for what I tell
+        you is trustworthy and true.\u201D "
+      comments: []
+    - name: '6: '
+      title: 
+      number: 6
+      content: "And he also said, \u201CIt is finished! I am the Alpha and the Omega\u2014the
+        Beginning and the End. To all who are thirsty I will give freely from the
+        springs of the water of life. "
+      comments: []
+    - name: '7: '
+      title: 
+      number: 7
+      content: 'All who are victorious will inherit all these blessings, and I will
+        be their God, and they will be my children.  '
+      comments: []
+    - name: '8: '
+      title: 
+      number: 8
+      content: "\u201CBut cowards, unbelievers, the corrupt, murderers, the immoral,
+        those who practice witchcraft, idol worshipers, and all liars\u2014their
+        fate is in the fiery lake of burning sulfur. This is the second death.\u201D  "
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "Then one of the seven angels who held the seven bowls containing
+        the seven last plagues came and said to me, \u201CCome with me! I will show
+        you the bride, the wife of the Lamb.\u201D  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: 'So he took me in the Spirit[[COMMENT(0)]] to a great, high mountain,
+        and he showed me the holy city, Jerusalem, descending out of heaven from
+        God. '
+      comments:
+      - number: '21:10 '
+        content: Or <b>in spirit.</b>
+    - name: '11: '
+      title: 
+      number: 11
+      content: "It shone with the glory of God and sparkled like a precious stone\u2014like
+        jasper as clear as crystal. "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: 'The city wall was broad and high, with twelve gates guarded by twelve
+        angels. And the names of the twelve tribes of Israel were written on the
+        gates. '
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "There were three gates on each side\u2014east, north, south, and
+        west. "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'The wall of the city had twelve foundation stones, and on them were
+        written the names of the twelve apostles of the Lamb.  '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: 'The angel who talked to me held in his hand a gold measuring stick
+        to measure the city, its gates, and its wall. '
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: 'When he measured it, he found it was a square, as wide as it was
+        long. In fact, its length and width and height were each 1,400 miles.[[COMMENT(0)]]  '
+      comments:
+      - number: '21:16 '
+        content: Greek <b>12,000 stadia </b>[2,220 kilometers].
+    - name: '17: '
+      title: 
+      number: 17
+      content: 'Then he measured the walls and found them to be 216 feet thick[[COMMENT(0)]]
+        (according to the human standard used by the angel).  '
+      comments:
+      - number: '21:17 '
+        content: Greek <b>144 cubits </b>[65 meters].
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'The wall was made of jasper, and the city was pure gold, as clear
+        as glass. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: 'The wall of the city was built on foundation stones inlaid with twelve
+        precious stones:[[COMMENT(0)]] the first was jasper, the second sapphire,
+        the third agate, the fourth emerald, '
+      comments:
+      - number: '21:19 '
+        content: The identification of some of these gemstones is uncertain.
+    - name: '20: '
+      title: 
+      number: 20
+      content: 'the fifth onyx, the sixth carnelian, the seventh chrysolite, the
+        eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth,
+        the twelfth amethyst.  '
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "The twelve gates were made of pearls\u2014each gate from a single
+        pearl! And the main street was pure gold, as clear as glass.  "
+      comments: []
+    - name: '22: '
+      title: 
+      number: 22
+      content: 'I saw no temple in the city, for the Lord God Almighty and the Lamb
+        are its temple. '
+      comments: []
+    - name: '23: '
+      title: 
+      number: 23
+      content: 'And the city has no need of sun or moon, for the glory of God illuminates
+        the city, and the Lamb is its light. '
+      comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: 'The nations will walk in its light, and the kings of the world will
+        enter the city in all their glory. '
+      comments: []
+    - name: '25: '
+      title: 
+      number: 25
+      content: 'Its gates will never be closed at the end of day because there is
+        no night there. '
+      comments: []
+    - name: '26: '
+      title: 
+      number: 26
+      content: 'And all the nations will bring their glory and honor into the city. '
+      comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: "Nothing evil[[COMMENT(0)]] will be allowed to enter, nor anyone who
+        practices shameful idolatry and dishonesty\u2014but only those whose names
+        are written in the Lamb\u2019s Book of Life."
+      comments:
+      - number: '21:27 '
+        content: Or <b>ceremonially unclean.</b>
+  - verses:
+    - name: '1: '
+      title: 
+      number: 1
+      content: '  Then the angel showed me a river with the water of life, clear
+        as crystal, flowing from the throne of God and of the Lamb. '
+      comments: []
+    - name: '2: '
+      title: 
+      number: 2
+      content: 'It flowed down the center of the main street. On each side of the
+        river grew a tree of life, bearing twelve crops of fruit,[[COMMENT(0)]] with
+        a fresh crop each month. The leaves were used for medicine to heal the nations.  '
+      comments:
+      - number: '22:2 '
+        content: Or <b>twelve kinds of fruit.</b>
+    - name: '3: '
+      title: 
+      number: 3
+      content: 'No longer will there be a curse upon anything. For the throne of
+        God and of the Lamb will be there, and his servants will worship him. '
+      comments: []
+    - name: '4: '
+      title: 
+      number: 4
+      content: 'And they will see his face, and his name will be written on their
+        foreheads. '
+      comments: []
+    - name: '5: '
+      title: 
+      number: 5
+      content: "And there will be no night there\u2014no need for lamps or sun\u2014for
+        the Lord God will shine on them. And they will reign forever and ever.  "
+      comments: []
+    - name: '6: Jesus Is Coming'
+      title: Jesus Is Coming
+      number: 6
+      content: "Then the angel said to me, \u201CEverything you have heard and seen
+        is trustworthy and true. The Lord God, who inspires his prophets,[[COMMENT(0)]]
+        has sent his angel to tell his servants what will happen soon.[[COMMENT(1)]]\u201D  "
+      comments:
+      - number: '22:6a '
+        content: Or <b>The Lord, the God of the spirits of the prophets.</b>
+      - number: '22:6b '
+        content: 'Or <b>suddenly</b>, or <b>quickly; </b>also in 22:7, 12, 20.  '
+    - name: '7: '
+      title: 
+      number: 7
+      content: "  <JESUS>\u201CLook, I am coming soon! Blessed are those who obey
+        the words of prophecy written in this book.</JESUS>  [[COMMENT(0)]]  <JESUS>\u201D</JESUS>  "
+      comments:
+      - number: '22:7 '
+        content: '  Or   <b>scroll</b>  ; also in 22:9, 10, 18, 19.    '
+    - name: '8: '
+      title: 
+      number: 8
+      content: 'I, John, am the one who heard and saw all these things. And when
+        I heard and saw them, I fell down to worship at the feet of the angel who
+        showed them to me. '
+      comments: []
+    - name: '9: '
+      title: 
+      number: 9
+      content: "But he said, \u201CNo, don\u2019t worship me. I am a servant of God,
+        just like you and your brothers the prophets, as well as all who obey what
+        is written in this book. Worship only God!\u201D  "
+      comments: []
+    - name: '10: '
+      title: 
+      number: 10
+      content: "Then he instructed me, \u201CDo not seal up the prophetic words in
+        this book, for the time is near. "
+      comments: []
+    - name: '11: '
+      title: 
+      number: 11
+      content: "Let the one who is doing harm continue to do harm; let the one who
+        is vile continue to be vile; let the one who is righteous continue to live
+        righteously; let the one who is holy continue to be holy.\u201D  "
+      comments: []
+    - name: '12: '
+      title: 
+      number: 12
+      content: "  <JESUS>\u201CLook, I am coming soon, bringing my reward with me
+        to repay all people according to their deeds.</JESUS>  "
+      comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "<JESUS>I am the Alpha and the Omega, the First and the Last, the
+        Beginning and the End.\u201D</JESUS>  "
+      comments: []
+    - name: '14: '
+      title: 
+      number: 14
+      content: 'Blessed are those who wash their robes. They will be permitted to
+        enter through the gates of the city and eat the fruit from the tree of life. '
+      comments: []
+    - name: '15: '
+      title: 
+      number: 15
+      content: "Outside the city are the dogs\u2014the sorcerers, the sexually immoral,
+        the murderers, the idol worshipers, and all who love to live a lie.  "
+      comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "  <JESUS>\u201CI, Jesus, have sent my angel to give you this message
+        for the churches. I am both the source of David and the heir to his throne.</JESUS> 
+        [[COMMENT(0)]]  <JESUS>I am the bright morning star.\u201D</JESUS>  "
+      comments:
+      - number: '22:16 '
+        content: '  Greek   <b>I am the root and offspring of David.</b>  '
+    - name: '17: '
+      title: 
+      number: 17
+      content: "The Spirit and the bride say, \u201CCome.\u201D Let anyone who hears
+        this say, \u201CCome.\u201D Let anyone who is thirsty come. Let anyone who
+        desires drink freely from the water of life. "
+      comments: []
+    - name: '18: '
+      title: 
+      number: 18
+      content: 'And I solemnly declare to everyone who hears the words of prophecy
+        written in this book: If anyone adds anything to what is written here, God
+        will add to that person the plagues described in this book. '
+      comments: []
+    - name: '19: '
+      title: 
+      number: 19
+      content: "And if anyone removes any of the words from this book of prophecy,
+        God will remove that person\u2019s share in the tree of life and in the holy
+        city that are described in this book.  "
+      comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: "He who is the faithful witness to all these things says, <JESUS>\u201CYes,
+        I am coming soon!\u201D</JESUS>Amen! Come, Lord Jesus!  "
+      comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: "May the grace of the Lord Jesus be with God\u2019s holy people.[[COMMENT(0)]]"
+      comments:
+      - number: '22:21 '
+        content: "Other manuscripts read <b>be with all; </b>still others read <b>be
+          with all of God\u2019s holy people. </b>Some manuscripts add <b>Amen.</b>"

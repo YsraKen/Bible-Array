@@ -19,11 +19,15 @@ MonoBehaviour:
   description: 
   chapters:
   - verses:
-    - title: Greetings from Paul
+    - name: '1: Greetings from Paul'
+      title: Greetings from Paul
+      number: 1
       content: '  This letter is from Paul, chosen by the will of God to be an apostle
         of Christ Jesus, and from our brother Sosthenes.  '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "I am writing to God\u2019s church in Corinth,[[COMMENT(0)]] to you
         who have been called by God to be his own holy people. He made you holy by
         means of Christ Jesus,[[COMMENT(1)]] just as he did for all people everywhere
@@ -34,33 +38,49 @@ MonoBehaviour:
           of the Greek peninsula.
       - number: '1:2b '
         content: Or <b>because you belong to Christ Jesus.</b>
-    - title: Paul Gives Thanks to God
+    - name: '3: Paul Gives Thanks to God'
+      title: Paul Gives Thanks to God
+      number: 3
       content: 'May God our Father and the Lord Jesus Christ give you grace and peace.  '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'I always thank my God for you and for the gracious gifts he has given
         you, now that you belong to Christ Jesus. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "Through him, God has enriched your church in every way\u2014with
         all of your eloquent words and all of your knowledge. "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'This confirms that what I told you about Christ is true. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Now you have every spiritual gift you need as you eagerly wait for
         the return of our Lord Jesus Christ. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'He will keep you strong to the end so that you will be free from
         all blame on the day when our Lord Jesus Christ returns. '
       comments: []
-    - title: Divisions in the Church
+    - name: '9: Divisions in the Church'
+      title: Divisions in the Church
+      number: 9
       content: 'God will do this, for he is faithful to do what he says, and he has
         invited you into partnership with his Son, Jesus Christ our Lord.  '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'I appeal to you, dear brothers and sisters,[[COMMENT(0)]] by the
         authority of our Lord Jesus Christ, to live in harmony with each other. Let
         there be no divisions in the church. Rather, be of one mind, united in thought
@@ -68,104 +88,154 @@ MonoBehaviour:
       comments:
       - number: '1:10 '
         content: Greek <b>brothers; </b>also in 1:11, 26.
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "For some members of Chloe\u2019s household have told me about your
         quarrels, my dear brothers and sisters. "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "Some of you are saying, \u201CI am a follower of Paul.\u201D Others
         are saying, \u201CI follow Apollos,\u201D or \u201CI follow Peter,[[COMMENT(0)]]\u201D
         or \u201CI follow only Christ.\u201D  "
       comments:
       - number: '1:12 '
         content: Greek <b>Cephas.</b>
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Has Christ been divided into factions? Was I, Paul, crucified for
         you? Were any of you baptized in the name of Paul? Of course not! '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'I thank God that I did not baptize any of you except Crispus and
         Gaius, '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'for now no one can say they were baptized in my name. '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "(Oh yes, I also baptized the household of Stephanas, but I don\u2019t
         remember baptizing anyone else.) "
       comments: []
-    - title: The Wisdom of God
+    - name: '17: The Wisdom of God'
+      title: The Wisdom of God
+      number: 17
       content: "For Christ didn\u2019t send me to baptize, but to preach the Good
         News\u2014and not with clever speech, for fear that the cross of Christ would
         lose its power.  "
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'The message of the cross is foolish to those who are headed for destruction!
         But we who are being saved know it is the very power of God. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: "As the Scriptures say,\u201CI will destroy the wisdom of the wiseand
         discard the intelligence of the intelligent.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '1:19 '
         content: Isa 29:14.
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: "So where does this leave the philosophers, the scholars, and the
         world\u2019s brilliant debaters? God has made the wisdom of this world look
         foolish. "
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: 'Since God in his wisdom saw to it that the world would never know
         him through human wisdom, he has used our foolish preaching to save those
         who believe. '
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'It is foolish to the Jews, who ask for signs from heaven. And it
         is foolish to the Greeks, who seek human wisdom. '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: "So when we preach that Christ was crucified, the Jews are offended
         and the Gentiles say it\u2019s all nonsense.  "
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: 'But to those called by God to salvation, both Jews and Gentiles,[[COMMENT(0)]]
         Christ is the power of God and the wisdom of God. '
       comments:
       - number: '1:24 '
         content: Greek <b>and Greeks.</b>
-    - title: 
+    - name: '25: '
+      title: 
+      number: 25
       content: "This foolish plan of God is wiser than the wisest of human plans,
         and God\u2019s weakness is stronger than the greatest of human strength.  "
       comments: []
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: "Remember, dear brothers and sisters, that few of you were wise in
         the world\u2019s eyes or powerful or wealthy[[COMMENT(0)]] when God called
         you. "
       comments:
       - number: '1:26 '
         content: Or <b>high born.</b>
-    - title: 
+    - name: '27: '
+      title: 
+      number: 27
       content: 'Instead, God chose things the world considers foolish in order to
         shame those who think they are wise. And he chose things that are powerless
         to shame those who are powerful. '
       comments: []
-    - title: 
+    - name: '28: '
+      title: 
+      number: 28
       content: 'God chose things despised by the world,[[COMMENT(0)]] things counted
         as nothing at all, and used them to bring to nothing what the world considers
         important. '
       comments:
       - number: '1:28 '
         content: Or <b>God chose those who are low born.</b>
-    - title: 
+    - name: '29: '
+      title: 
+      number: 29
       content: 'As a result, no one can ever boast in the presence of God.  '
       comments: []
-    - title: 
+    - name: '30: '
+      title: 
+      number: 30
       content: 'God has united you with Christ Jesus. For our benefit God made him
         to be wisdom itself. Christ made us right with God; he made us pure and holy,
         and he freed us from sin. '
       comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: "Therefore, as the Scriptures say, \u201CIf you want to boast, boast
+        only about the <smallcaps>Lord</smallcaps>.\u201D[[COMMENT(0)]]"
+      comments:
+      - number: '1:31 '
+        content: Jer 9:24.
   - verses:
-    - title: "Paul\u2019s Message of Wisdom"
+    - name: "1: Paul\u2019s Message of Wisdom"
+      title: "Paul\u2019s Message of Wisdom"
+      number: 1
       content: "  When I first came to you, dear brothers and sisters,[[COMMENT(0)]]
         I didn\u2019t use lofty words and impressive wisdom to tell you God\u2019s
         secret plan.[[COMMENT(1)]]  "
@@ -175,61 +245,85 @@ MonoBehaviour:
       - number: '2:1b '
         content: "Greek <b>God\u2019s mystery; </b>other manuscripts read <b>God\u2019s
           testimony.</b>"
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'For I decided that while I was with you I would forget everything
         except Jesus Christ, the one who was crucified. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "I came to you in weakness\u2014timid and trembling. "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'And my message and my preaching were very plain. Rather than using
         clever and persuasive speeches, I relied only on the power of the Holy Spirit. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'I did this so you would trust not in human wisdom but in the power
         of God.  '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Yet when I am among mature believers, I do speak with words of wisdom,
         but not the kind of wisdom that belongs to this world or to the rulers of
         this world, who are soon forgotten. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "No, the wisdom we speak of is the mystery of God[[COMMENT(0)]]\u2014his
         plan that was previously hidden, even though he made it for our ultimate
         glory before the world began. "
       comments:
       - number: '2:7 '
         content: "Greek <b>But we speak God\u2019s wisdom in a mystery.</b>"
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'But the rulers of this world have not understood it; if they had,
         they would not have crucified our glorious Lord. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "That is what the Scriptures mean when they say,\u201CNo eye has seen,
         no ear has heard,and no mind has imaginedwhat God has preparedfor those who
         love him.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '2:9 '
         content: Isa 64:4.
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "But[[COMMENT(0)]] it was to us that God revealed these things by
         his Spirit. For his Spirit searches out everything and shows us God\u2019s
         deep secrets. "
       comments:
       - number: '2:10 '
         content: Some manuscripts read <b>For.</b>
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "No one can know a person\u2019s thoughts except that person\u2019s
         own spirit, and no one can know God\u2019s thoughts except God\u2019s own
         Spirit. "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "And we have received God\u2019s Spirit (not the world\u2019s spirit),
         so we can know the wonderful things God has freely given us.  "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "When we tell you these things, we do not use words that come from
         human wisdom. Instead, we speak words given to us by the Spirit, using the
         Spirit\u2019s words to explain spiritual truths.[[COMMENT(0)]]  "
@@ -237,7 +331,9 @@ MonoBehaviour:
       - number: '2:13 '
         content: Or <b>explaining spiritual truths in spiritual language, </b>or
           <b>explaining spiritual truths to spiritual people.</b>
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "But people who aren\u2019t spiritual[[COMMENT(0)]] can\u2019t receive
         these truths from God\u2019s Spirit. It all sounds foolish to them and they
         can\u2019t understand it, for only those who are spiritual can understand
@@ -246,12 +342,25 @@ MonoBehaviour:
       - number: '2:14 '
         content: "Or <b>who don\u2019t have the Spirit; </b>or <b>who have only physical
           life.</b>"
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Those who are spiritual can evaluate all things, but they themselves
         cannot be evaluated by others. '
       comments: []
+    - name: '16: '
+      title: 
+      number: 16
+      content: "For,\u201CWho can know the <smallcaps>Lord</smallcaps>\u2019s thoughts?Who
+        knows enough to teach him?\u201D[[COMMENT(0)]]But we understand these things,
+        for we have the mind of Christ."
+      comments:
+      - number: '2:16 '
+        content: Isa 40:13 (Greek version).
   - verses:
-    - title: Paul and Apollos, Servants of Christ
+    - name: '1: Paul and Apollos, Servants of Christ'
+      title: Paul and Apollos, Servants of Christ
+      number: 1
       content: "  Dear brothers and sisters,[[COMMENT(0)]] when I was with you I
         couldn\u2019t talk to you as I would to spiritual people.[[COMMENT(1)]] I
         had to talk as though you belonged to this world or as though you were infants
@@ -261,127 +370,186 @@ MonoBehaviour:
         content: Greek <b>Brothers.</b>
       - number: '3:1b '
         content: Or <b>to people who have the Spirit.</b>
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "I had to feed you with milk, not with solid food, because you weren\u2019t
         ready for anything stronger. And you still aren\u2019t ready, "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "for you are still controlled by your sinful nature. You are jealous
         of one another and quarrel with each other. Doesn\u2019t that prove you are
         controlled by your sinful nature? Aren\u2019t you living like people of the
         world? "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "When one of you says, \u201CI am a follower of Paul,\u201D and another
         says, \u201CI follow Apollos,\u201D aren\u2019t you acting just like people
         of the world?  "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "After all, who is Apollos? Who is Paul? We are only God\u2019s servants
         through whom you believed the Good News. Each of us did the work the Lord
         gave us. "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'I planted the seed in your hearts, and Apollos watered it, but it
         was God who made it grow. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "It\u2019s not important who does the planting, or who does the watering.
         What\u2019s important is that God makes the seed grow. "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'The one who plants and the one who waters work together with the
         same purpose. And both will be rewarded for their own hard work. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "For we are both God\u2019s workers. And you are God\u2019s field.
         You are God\u2019s building.  "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "Because of God\u2019s grace to me, I have laid the foundation like
         an expert builder. Now others are building on it. But whoever is building
         on this foundation must be very careful. "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "For no one can lay any foundation other than the one we already have\u2014Jesus
         Christ.  "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "Anyone who builds on that foundation may use a variety of materials\u2014gold,
         silver, jewels, wood, hay, or straw. "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "But on the judgment day, fire will reveal what kind of work each
         builder has done. The fire will show if a person\u2019s work has any value. "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'If the work survives, that builder will receive a reward. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'But if the work is burned up, the builder will suffer great loss.
         The builder will be saved, but like someone barely escaping through a wall
         of flames.  '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "Don\u2019t you realize that all of you together are the temple of
         God and that the Spirit of God lives in[[COMMENT(0)]] you? "
       comments:
       - number: '3:16 '
         content: Or <b>among.</b>
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: "God will destroy anyone who destroys this temple. For God\u2019s
         temple is holy, and you are that temple.  "
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: "Stop deceiving yourselves. If you think you are wise by this world\u2019s
         standards, you need to become a fool to be truly wise. "
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: "For the wisdom of this world is foolishness to God. As the Scriptures
         say,\u201CHe traps the wisein the snare of their own cleverness.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '3:19 '
         content: Job 5:13.
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: "And again,\u201CThe <smallcaps>Lord</smallcaps> knows the thoughts
         of the wise;he knows they are worthless.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '3:20 '
         content: Ps 94:11.
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: "So don\u2019t boast about following a particular human leader. For
         everything belongs to you\u2014 "
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'whether Paul or Apollos or Peter,[[COMMENT(0)]] or the world, or
         life and death, or the present and the future. Everything belongs to you, '
       comments:
       - number: '3:22 '
         content: Greek <b>Cephas.</b>
+    - name: '23: '
+      title: 
+      number: 23
+      content: and you belong to Christ, and Christ belongs to God.
+      comments: []
   - verses:
-    - title: "Paul\u2019s Relationship with the Corinthians"
+    - name: "1: Paul\u2019s Relationship with the Corinthians"
+      title: "Paul\u2019s Relationship with the Corinthians"
+      number: 1
       content: "  So look at Apollos and me as mere servants of Christ who have been
         put in charge of explaining God\u2019s mysteries. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'Now, a person who is put in charge as a manager must be faithful. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "As for me, it matters very little how I might be evaluated by you
         or by any human authority. I don\u2019t even trust my own judgment on this
         point. "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "My conscience is clear, but that doesn\u2019t prove I\u2019m right.
         It is the Lord himself who will examine me and decide.  "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "So don\u2019t make judgments about anyone ahead of time\u2014before
         the Lord returns. For he will bring our darkest secrets to light and will
         reveal our private motives. Then God will give to each one whatever praise
         is due.  "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "Dear brothers and sisters,[[COMMENT(0)]] I have used Apollos and
         myself to illustrate what I\u2019ve been saying. If you pay attention to
         what I have quoted from the Scriptures,[[COMMENT(1)]] you won\u2019t be proud
@@ -391,96 +559,140 @@ MonoBehaviour:
         content: Greek <b>Brothers.</b>
       - number: '4:6b '
         content: "Or <b>If you learn not to go beyond \u201Cwhat is written.\u201D</b>"
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "For what gives you the right to make such a judgment? What do you
         have that God hasn\u2019t given you? And if everything you have is from God,
         why boast as though it were not a gift?  "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "You think you already have everything you need. You think you are
         already rich. You have begun to reign in God\u2019s kingdom without us! I
         wish you really were reigning already, for then we would be reigning with
         you. "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "Instead, I sometimes think God has put us apostles on display, like
         prisoners of war at the end of a victor\u2019s parade, condemned to die.
         We have become a spectacle to the entire world\u2014to people and angels
         alike.  "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'Our dedication to Christ makes us look like fools, but you claim
         to be so wise in Christ! We are weak, but you are so powerful! You are honored,
         but we are ridiculed. '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "Even now we go hungry and thirsty, and we don\u2019t have enough
         clothes to keep warm. We are often beaten and have no home. "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'We work wearily with our own hands to earn our living. We bless those
         who curse us. We are patient with those who abuse us. '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "We appeal gently when evil things are said about us. Yet we are treated
         like the world\u2019s garbage, like everybody\u2019s trash\u2014right up
         to the present moment.  "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'I am not writing these things to shame you, but to warn you as my
         beloved children. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'For even if you had ten thousand others to teach you about Christ,
         you have only one spiritual father. For I became your father in Christ Jesus
         when I preached the Good News to you. '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'So I urge you to imitate me.  '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: "That\u2019s why I have sent Timothy, my beloved and faithful child
         in the Lord. He will remind you of how I follow Christ Jesus, just as I teach
         in all the churches wherever I go.  "
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Some of you have become arrogant, thinking I will not visit you again. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: "But I will come\u2014and soon\u2014if the Lord lets me, and then
         I\u2019ll find out whether these arrogant people just give pretentious speeches
         or whether they really have God\u2019s power. "
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: "For the Kingdom of God is not just a lot of talk; it is living by
         God\u2019s power. "
       comments: []
+    - name: '21: '
+      title: 
+      number: 21
+      content: Which do you choose? Should I come with a rod to punish you, or should
+        I come with love and a gentle spirit?
+      comments: []
   - verses:
-    - title: Paul Condemns Spiritual Pride
+    - name: '1: Paul Condemns Spiritual Pride'
+      title: Paul Condemns Spiritual Pride
+      number: 1
       content: "  I can hardly believe the report about the sexual immorality going
         on among you\u2014something that even pagans don\u2019t do. I am told that
         a man in your church is living in sin with his stepmother.[[COMMENT(0)]]  "
       comments:
       - number: '5:1 '
         content: "Greek <b>his father\u2019s wife.</b>"
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'You are so proud of yourselves, but you should be mourning in sorrow
         and shame. And you should remove this man from your fellowship.  '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'Even though I am not with you in person, I am with you in the Spirit.[[COMMENT(0)]]
         And as though I were there, I have already passed judgment on this man '
       comments:
       - number: '5:3 '
         content: Or <b>in spirit.</b>
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'in the name of the Lord Jesus. You must call a meeting of the church.[[COMMENT(0)]]
         I will be present with you in spirit, and so will the power of our Lord Jesus. '
       comments:
       - number: '5:4 '
         content: Or <b>In the name of the Lord Jesus, you must call a meeting of
           the church.</b>
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Then you must throw this man out and hand him over to Satan so that
         his sinful nature will be destroyed[[COMMENT(0)]] and he himself[[COMMENT(1)]]
         will be saved on the day the Lord[[COMMENT(2)]] returns.  '
@@ -493,11 +705,15 @@ MonoBehaviour:
       - number: '5:5c '
         content: Other manuscripts read <b>the Lord Jesus; </b>still others read
           <b>our Lord Jesus Christ.</b>
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "Your boasting about this is terrible. Don\u2019t you realize that
         this sin is like a little yeast that spreads through the whole batch of dough? "
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "Get rid of the old \u201Cyeast\u201D by removing this wicked person
         from among you. Then you will be like a fresh batch of dough made without
         yeast, which is what you really are. Christ, our Passover Lamb, has been
@@ -505,7 +721,9 @@ MonoBehaviour:
       comments:
       - number: '5:7 '
         content: Greek <b>has been sacrificed.</b>
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'So let us celebrate the festival, not with the old bread[[COMMENT(0)]]
         of wickedness and evil, but with the new bread[[COMMENT(1)]] of sincerity
         and truth.  '
@@ -514,16 +732,22 @@ MonoBehaviour:
         content: Greek <b>not with old leaven.</b>
       - number: '5:8b '
         content: Greek <b>but with unleavened [bread].</b>
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'When I wrote to you before, I told you not to associate with people
         who indulge in sexual sin. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "But I wasn\u2019t talking about unbelievers who indulge in sexual
         sin, or are greedy, or cheat people, or worship idols. You would have to
         leave this world to avoid people like that. "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "I meant that you are not to associate with anyone who claims to be
         a believer[[COMMENT(0)]] yet indulges in sexual sin, or is greedy, or worships
         idols, or is abusive, or is a drunkard, or cheats people. Don\u2019t even
@@ -531,157 +755,235 @@ MonoBehaviour:
       comments:
       - number: '5:11 '
         content: Greek <b>a brother.</b>
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "It isn\u2019t my responsibility to judge outsiders, but it certainly
         is your responsibility to judge those inside the church who are sinning. "
       comments: []
+    - name: '13: '
+      title: 
+      number: 13
+      content: "God will judge those on the outside; but as the Scriptures say, \u201CYou
+        must remove the evil person from among you.\u201D[[COMMENT(0)]]"
+      comments:
+      - number: '5:13 '
+        content: Deut 17:7.
   - verses:
-    - title: Avoiding Lawsuits with Christians
+    - name: '1: Avoiding Lawsuits with Christians'
+      title: Avoiding Lawsuits with Christians
+      number: 1
       content: '  When one of you has a dispute with another believer, how dare you
         file a lawsuit and ask a secular court to decide the matter instead of taking
         it to other believers[[COMMENT(0)]]! '
       comments:
       - number: '6:1 '
         content: "Greek <b>God\u2019s holy people; </b>also in 6:2."
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "Don\u2019t you realize that someday we believers will judge the world?
         And since you are going to judge the world, can\u2019t you decide even these
         little things among yourselves? "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "Don\u2019t you realize that we will judge angels? So you should surely
         be able to resolve ordinary disputes in this life. "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'If you have legal disputes about such matters, why go to outside
         judges who are not respected by the church? '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "I am saying this to shame you. Isn\u2019t there anyone in all the
         church who is wise enough to decide these issues? "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: "But instead, one believer[[COMMENT(0)]] sues another\u2014right in
         front of unbelievers!  "
       comments:
       - number: '6:6 '
         content: Greek <b>one brother.</b>
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Even to have such lawsuits with one another is a defeat for you.
         Why not just accept the injustice and leave it at that? Why not let yourselves
         be cheated? '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Instead, you yourselves are the ones who do wrong and cheat even
         your fellow believers.[[COMMENT(0)]]  '
       comments:
       - number: '6:8 '
         content: Greek <b>even the brothers.</b>
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "Don\u2019t you realize that those who do wrong will not inherit the
         Kingdom of God? Don\u2019t fool yourselves. Those who indulge in sexual sin,
         or who worship idols, or commit adultery, or are male prostitutes, or practice
         homosexuality, "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "or are thieves, or greedy people, or drunkards, or are abusive, or
         cheat people\u2014none of these will inherit the Kingdom of God. "
       comments: []
-    - title: Avoiding Sexual Sin
+    - name: '11: Avoiding Sexual Sin'
+      title: Avoiding Sexual Sin
+      number: 11
       content: 'Some of you were once like that. But you were cleansed; you were
         made holy; you were made right with God by calling on the name of the Lord
         Jesus Christ and by the Spirit of our God.  '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "You say, \u201CI am allowed to do anything\u201D\u2014but not everything
         is good for you. And even though \u201CI am allowed to do anything,\u201D
         I must not become a slave to anything. "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "You say, \u201CFood was made for the stomach, and the stomach for
         food.\u201D (This is true, though someday God will do away with both of them.)
         But you can\u2019t say that our bodies were made for sexual immorality. They
         were made for the Lord, and the Lord cares about our bodies. "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'And God will raise us from the dead by his power, just as he raised
         our Lord from the dead.  '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "Don\u2019t you realize that your bodies are actually parts of Christ?
         Should a man take his body, which is part of Christ, and join it to a prostitute?
         Never! "
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "And don\u2019t you realize that if a man joins himself to a prostitute,
         he becomes one body with her? For the Scriptures say, \u201CThe two are united
         into one.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '6:16 '
         content: Gen 2:24.
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'But the person who is joined to the Lord is one spirit with him.  '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'Run from sexual sin! No other sin so clearly affects the body as
         this one does. For sexual immorality is a sin against your own body. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: "Don\u2019t you realize that your body is the temple of the Holy Spirit,
         who lives in you and was given to you by God? You do not belong to yourself, "
       comments: []
+    - name: '20: '
+      title: 
+      number: 20
+      content: for God bought you with a high price. So you must honor God with your
+        body.
+      comments: []
   - verses:
-    - title: Instruction on Marriage
+    - name: '1: Instruction on Marriage'
+      title: Instruction on Marriage
+      number: 1
       content: '  Now regarding the questions you asked in your letter. Yes, it is
         good to abstain from sexual relations.[[COMMENT(0)]]  '
       comments:
       - number: '7:1 '
         content: Or <b>to live a celibate life; </b>Greek reads <b>It is good for
           a man not to touch a woman.</b>
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'But because there is so much sexual immorality, each man should have
         his own wife, and each woman should have her own husband.  '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "The husband should fulfill his wife\u2019s sexual needs, and the
         wife should fulfill her husband\u2019s needs. "
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'The wife gives authority over her body to her husband, and the husband
         gives authority over his body to his wife.  '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "Do not deprive each other of sexual relations, unless you both agree
         to refrain from sexual intimacy for a limited time so you can give yourselves
         more completely to prayer. Afterward, you should come together again so that
         Satan won\u2019t be able to tempt you because of your lack of self-control. "
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'I say this as a concession, not as a command. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'But I wish everyone were single, just as I am. Yet each person has
         a special gift from God, of one kind or another.  '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "So I say to those who aren\u2019t married and to widows\u2014it\u2019s
         better to stay unmarried, just as I am. "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "But if they can\u2019t control themselves, they should go ahead and
         marry. It\u2019s better to marry than to burn with lust.  "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'But for those who are married, I have a command that comes not from
         me, but from the Lord.[[COMMENT(0)]] A wife must not leave her husband. '
       comments:
       - number: '7:10 '
         content: See Matt 5:32; 19:9; Mark 10:11-12; Luke 16:18.
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'But if she does leave him, let her remain single or else be reconciled
         to him. And the husband must not leave his wife.  '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Now, I will speak to the rest of you, though I do not have a direct
         command from the Lord. If a fellow believer[[COMMENT(0)]] has a wife who
         is not a believer and she is willing to continue living with him, he must
@@ -689,18 +991,24 @@ MonoBehaviour:
       comments:
       - number: '7:12 '
         content: Greek <b>a brother.</b>
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'And if a believing woman has a husband who is not a believer and
         he is willing to continue living with her, she must not leave him. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'For the believing wife brings holiness to her marriage, and the believing
         husband[[COMMENT(0)]] brings holiness to his marriage. Otherwise, your children
         would not be holy, but now they are holy. '
       comments:
       - number: '7:14 '
         content: Greek <b>the brother.</b>
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "(But if the husband or wife who isn\u2019t a believer insists on
         leaving, let them go. In such cases the believing husband or wife[[COMMENT(0)]]
         is no longer bound to the other, for God has called you[[COMMENT(1)]] to
@@ -710,202 +1018,297 @@ MonoBehaviour:
         content: Greek <b>the brother or sister.</b>
       - number: '7:15b '
         content: Some manuscripts read <b>us.</b>
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "Don\u2019t you wives realize that your husbands might be saved because
         of you? And don\u2019t you husbands realize that your wives might be saved
         because of you?  "
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'Each of you should continue to live in whatever situation the Lord
         has placed you, and remain as you were when God first called you. This is
         my rule for all the churches. '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'For instance, a man who was circumcised before he became a believer
         should not try to reverse it. And the man who was uncircumcised when he became
         a believer should not be circumcised now. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: "For it makes no difference whether or not a man has been circumcised.
         The important thing is to keep God\u2019s commandments.  "
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'Yes, each of you should remain as you were when God called you. '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: "Are you a slave? Don\u2019t let that worry you\u2014but if you get
         a chance to be free, take it. "
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'And remember, if you were a slave when the Lord called you, you are
         now free in the Lord. And if you were free when the Lord called you, you
         are now a slave of Christ. '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: "God paid a high price for you, so don\u2019t be enslaved by the world.[[COMMENT(0)]]  "
       comments:
       - number: '7:23 '
         content: "Greek <b>don\u2019t become slaves of people.</b>"
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: 'Each of you, dear brothers and sisters,[[COMMENT(0)]] should remain
         as you were when God first called you.  '
       comments:
       - number: '7:24 '
         content: Greek <b>brothers; </b>also in 7:29.
-    - title: 
+    - name: '25: '
+      title: 
+      number: 25
       content: 'Now regarding your question about the young women who are not yet
         married. I do not have a command from the Lord for them. But the Lord in
         his mercy has given me wisdom that can be trusted, and I will share it with
         you. '
       comments: []
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: 'Because of the present crisis,[[COMMENT(0)]] I think it is best to
         remain as you are. '
       comments:
       - number: '7:26 '
         content: Or <b>the pressures of life.</b>
-    - title: 
+    - name: '27: '
+      title: 
+      number: 27
       content: 'If you have a wife, do not seek to end the marriage. If you do not
         have a wife, do not seek to get married. '
       comments: []
-    - title: 
+    - name: '28: '
+      title: 
+      number: 28
       content: 'But if you do get married, it is not a sin. And if a young woman
         gets married, it is not a sin. However, those who get married at this time
         will have troubles, and I am trying to spare you those problems.  '
       comments: []
-    - title: 
+    - name: '29: '
+      title: 
+      number: 29
       content: 'But let me say this, dear brothers and sisters: The time that remains
         is very short. So from now on, those with wives should not focus only on
         their marriage. '
       comments: []
-    - title: 
+    - name: '30: '
+      title: 
+      number: 30
       content: 'Those who weep or who rejoice or who buy things should not be absorbed
         by their weeping or their joy or their possessions. '
       comments: []
-    - title: 
+    - name: '31: '
+      title: 
+      number: 31
       content: 'Those who use the things of the world should not become attached
         to them. For this world as we know it will soon pass away.  '
       comments: []
-    - title: 
+    - name: '32: '
+      title: 
+      number: 32
       content: "I want you to be free from the concerns of this life. An unmarried
         man can spend his time doing the Lord\u2019s work and thinking how to please
         him. "
       comments: []
-    - title: 
+    - name: '33: '
+      title: 
+      number: 33
       content: 'But a married man has to think about his earthly responsibilities
         and how to please his wife. '
       comments: []
-    - title: 
+    - name: '34: '
+      title: 
+      number: 34
       content: 'His interests are divided. In the same way, a woman who is no longer
         married or has never been married can be devoted to the Lord and holy in
         body and in spirit. But a married woman has to think about her earthly responsibilities
         and how to please her husband. '
       comments: []
-    - title: 
+    - name: '35: '
+      title: 
+      number: 35
       content: 'I am saying this for your benefit, not to place restrictions on you.
         I want you to do whatever will help you serve the Lord best, with as few
         distractions as possible.  '
       comments: []
-    - title: 
+    - name: '36: '
+      title: 
+      number: 36
       content: "But if a man thinks that he\u2019s treating his fianc\xE9e improperly
         and will inevitably give in to his passion, let him marry her as he wishes.
         It is not a sin. "
       comments: []
-    - title: 
+    - name: '37: '
+      title: 
+      number: 37
       content: 'But if he has decided firmly not to marry and there is no urgency
         and he can control his passion, he does well not to marry. '
       comments: []
-    - title: 
+    - name: '38: '
+      title: 
+      number: 38
       content: "So the person who marries his fianc\xE9e does well, and the person
         who doesn\u2019t marry does even better.  "
       comments: []
-    - title: 
+    - name: '39: '
+      title: 
+      number: 39
       content: 'A wife is bound to her husband as long as he lives. If her husband
         dies, she is free to marry anyone she wishes, but only if he loves the Lord.[[COMMENT(0)]]  '
       comments:
       - number: '7:39 '
         content: Greek <b>but only in the Lord.</b>
+    - name: '40: '
+      title: 
+      number: 40
+      content: "But in my opinion it would be better for her to stay single, and
+        I think I am giving you counsel from God\u2019s Spirit when I say this."
+      comments: []
   - verses:
-    - title: Food Sacrificed to Idols
+    - name: '1: Food Sacrificed to Idols'
+      title: Food Sacrificed to Idols
+      number: 1
       content: "  Now regarding your question about food that has been offered to
         idols. Yes, we know that \u201Cwe all have knowledge\u201D about this issue.
         But while knowledge makes us feel important, it is love that strengthens
         the church. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "Anyone who claims to know all the answers doesn\u2019t really know
         very much. "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'But the person who loves God is the one whom God recognizes.[[COMMENT(0)]]  '
       comments:
       - number: '8:3 '
         content: Some manuscripts read <b>the person who loves has full knowledge.</b>
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'So, what about eating meat that has been offered to idols? Well,
         we all know that an idol is not really a god and that there is only one God. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'There may be so-called gods both in heaven and on earth, and some
         people actually worship many gods and many lords. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'But for us,There is one God, the Father,by whom all things were created,and
         for whom we live.And there is one Lord, Jesus Christ,through whom all things
         were created,and through whom we live.  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'However, not all believers know this. Some are accustomed to thinking
         of idols as being real, so when they eat food that has been offered to idols,
         they think of it as the worship of real gods, and their weak consciences
         are violated. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "It\u2019s true that we can\u2019t win God\u2019s approval by what
         we eat. We don\u2019t lose anything if we don\u2019t eat it, and we don\u2019t
         gain anything if we do.  "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'But you must be careful so that your freedom does not cause others
         with a weaker conscience to stumble. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "For if others see you\u2014with your \u201Csuperior knowledge\u201D\u2014eating
         in the temple of an idol, won\u2019t they be encouraged to violate their
         conscience by eating food that has been offered to an idol? "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'So because of your superior knowledge, a weak believer[[COMMENT(0)]]
         for whom Christ died will be destroyed. '
       comments:
       - number: '8:11 '
         content: Greek <b>brother; </b>also in 8:13.
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'And when you sin against other believers[[COMMENT(0)]] by encouraging
         them to do something they believe is wrong, you are sinning against Christ. '
       comments:
       - number: '8:12 '
         content: Greek <b>brothers.</b>
+    - name: '13: '
+      title: 
+      number: 13
+      content: "So if what I eat causes another believer to sin, I will never eat
+        meat again as long as I live\u2014for I don\u2019t want to cause another
+        believer to stumble."
+      comments: []
   - verses:
-    - title: Paul Gives Up His Rights
+    - name: '1: Paul Gives Up His Rights'
+      title: Paul Gives Up His Rights
+      number: 1
       content: "  Am I not as free as anyone else? Am I not an apostle? Haven\u2019t
         I seen Jesus our Lord with my own eyes? Isn\u2019t it because of my work
         that you belong to the Lord? "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "Even if others think I am not an apostle, I certainly am to you.
         You yourselves are proof that I am the Lord\u2019s apostle.  "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'This is my answer to those who question my authority.[[COMMENT(0)]]  '
       comments:
       - number: '9:3 '
         content: Greek <b>those who examine me.</b>
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: "Don\u2019t we have the right to live in your homes and share your
         meals? "
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: "Don\u2019t we have the right to bring a believing wife[[COMMENT(0)]]
         with us as the other apostles and the Lord\u2019s brothers do, and as Peter[[COMMENT(1)]]
         does? "
@@ -914,106 +1317,156 @@ MonoBehaviour:
         content: Greek <b>a sister a wife.</b>
       - number: '9:5b '
         content: Greek <b>Cephas.</b>
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Or is it only Barnabas and I who have to work to support ourselves?  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "What soldier has to pay his own expenses? What farmer plants a vineyard
         and doesn\u2019t have the right to eat some of its fruit? What shepherd cares
         for a flock of sheep and isn\u2019t allowed to drink some of the milk? "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Am I expressing merely a human opinion, or does the law say the same
         thing? '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "For the law of Moses says, \u201CYou must not muzzle an ox to keep
         it from eating as it treads out the grain.\u201D[[COMMENT(0)]] Was God thinking
         only about oxen when he said this? "
       comments:
       - number: '9:9 '
         content: Deut 25:4.
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "Wasn\u2019t he actually speaking to us? Yes, it was written for us,
         so that the one who plows and the one who threshes the grain might both expect
         a share of the harvest.  "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "Since we have planted spiritual seed among you, aren\u2019t we entitled
         to a harvest of physical food and drink? "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "If you support others who preach to you, shouldn\u2019t we have an
         even greater right to be supported? But we have never used this right. We
         would rather put up with anything than be an obstacle to the Good News about
         Christ.  "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: "Don\u2019t you realize that those who work in the temple get their
         meals from the offerings brought to the temple? And those who serve at the
         altar get a share of the sacrificial offerings. "
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'In the same way, the Lord ordered that those who preach the Good
         News should be supported by those who benefit from it. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Yet I have never used any of these rights. And I am not writing this
         to suggest that I want to start now. In fact, I would rather die than lose
         my right to boast about preaching without charge. '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "Yet preaching the Good News is not something I can boast about. I
         am compelled by God to do it. How terrible for me if I didn\u2019t preach
         the Good News!  "
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'If I were doing this on my own initiative, I would deserve payment.
         But I have no choice, for God has given me this sacred trust. '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: "What then is my pay? It is the opportunity to preach the Good News
         without charging anyone. That\u2019s why I never demand my rights when I
         preach the Good News.  "
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'Even though I am a free man with no master, I have become a slave
         to all people to bring many to Christ. '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'When I was with the Jews, I lived like a Jew to bring the Jews to
         Christ. When I was with those who follow the Jewish law, I too lived under
         that law. Even though I am not subject to the law, I did this so I could
         bring to Christ those who are under the law. '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: 'When I am with the Gentiles who do not follow the Jewish law,[[COMMENT(0)]]
         I too live apart from that law so I can bring them to Christ. But I do not
         ignore the law of God; I obey the law of Christ.  '
       comments:
       - number: '9:21 '
         content: Greek <b>those without the law.</b>
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'When I am with those who are weak, I share their weakness, for I
         want to bring the weak to Christ. Yes, I try to find common ground with everyone,
         doing everything I can to save some. '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: 'I do everything to spread the Good News and share in its blessings.  '
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: "Don\u2019t you realize that in a race everyone runs, but only one
         person gets the prize? So run to win! "
       comments: []
-    - title: 
+    - name: '25: '
+      title: 
+      number: 25
       content: 'All athletes are disciplined in their training. They do it to win
         a prize that will fade away, but we do it for an eternal prize. '
       comments: []
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: 'So I run with purpose in every step. I am not just shadowboxing. '
       comments: []
+    - name: '27: '
+      title: 
+      number: 27
+      content: I discipline my body like an athlete, training it to do what it should.
+        Otherwise, I fear that after preaching to others I myself might be disqualified.
+      comments: []
   - verses:
-    - title: "Lessons from Israel\u2019s Idolatry"
+    - name: "1: Lessons from Israel\u2019s Idolatry"
+      title: "Lessons from Israel\u2019s Idolatry"
+      number: 1
       content: "  I don\u2019t want you to forget, dear brothers and sisters,[[COMMENT(0)]]
         about our ancestors in the wilderness long ago. All of them were guided by
         a cloud that moved ahead of them, and all of them walked through the sea
@@ -1021,154 +1474,229 @@ MonoBehaviour:
       comments:
       - number: '10:1 '
         content: Greek <b>brothers.</b>
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'In the cloud and in the sea, all of them were baptized as followers
         of Moses. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'All of them ate the same spiritual food, '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'and all of them drank the same spiritual water. For they drank from
         the spiritual rock that traveled with them, and that rock was Christ. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'Yet God was not pleased with most of them, and their bodies were
         scattered in the wilderness.  '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'These things happened as a warning to us, so that we would not crave
         evil things as they did, '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "or worship idols as some of them did. As the Scriptures say, \u201CThe
         people celebrated with feasting and drinking, and they indulged in pagan
         revelry.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '10:7 '
         content: Exod 32:6.
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'And we must not engage in sexual immorality as some of them did,
         causing 23,000 of them to die in one day.  '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Nor should we put Christ[[COMMENT(0)]] to the test, as some of them
         did and then died from snakebites. '
       comments:
       - number: '10:9 '
         content: Some manuscripts read <b>the Lord.</b>
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "And don\u2019t grumble as some of them did, and then were destroyed
         by the angel of death. "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'These things happened to them as examples for us. They were written
         down to warn us who live at the end of the age.  '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'If you think you are standing strong, be careful not to fall. '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'The temptations in your life are no different from what others experience.
         And God is faithful. He will not allow the temptation to be more than you
         can stand. When you are tempted, he will show you a way out so that you can
         endure.  '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'So, my dear friends, flee from the worship of idols. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'You are reasonable people. Decide for yourselves if what I am saying
         is true. '
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "When we bless the cup at the Lord\u2019s Table, aren\u2019t we sharing
         in the blood of Christ? And when we break the bread, aren\u2019t we sharing
         in the body of Christ? "
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'And though we are many, we all eat from one loaf of bread, showing
         that we are one body. '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: "Think about the people of Israel. Weren\u2019t they united by eating
         the sacrifices at the altar?  "
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'What am I trying to say? Am I saying that food offered to idols has
         some significance, or that idols are real gods? '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: "No, not at all. I am saying that these sacrifices are offered to
         demons, not to God. And I don\u2019t want you to participate with demons. "
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: "You cannot drink from the cup of the Lord and from the cup of demons,
         too. You cannot eat at the Lord\u2019s Table and at the table of demons,
         too. "
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: "What? Do we dare to rouse the Lord\u2019s jealousy? Do you think
         we are stronger than he is?  "
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: "You say, \u201CI am allowed to do anything\u201D[[COMMENT(0)]]\u2014but
         not everything is good for you. You say, \u201CI am allowed to do anything\u201D\u2014but
         not everything is beneficial. "
       comments:
       - number: '10:23 '
         content: Greek <b>All things are lawful; </b>also in 10:23b.
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: "Don\u2019t be concerned for your own good but for the good of others.  "
       comments: []
-    - title: 
+    - name: '25: '
+      title: 
+      number: 25
       content: 'So you may eat any meat that is sold in the marketplace without raising
         questions of conscience. '
       comments: []
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: "For \u201Cthe earth is the <smallcaps>Lord</smallcaps>\u2019s, and
         everything in it.\u201D[[COMMENT(0)]]  "
       comments:
       - number: '10:26 '
         content: Ps 24:1.
-    - title: 
+    - name: '27: '
+      title: 
+      number: 27
       content: "If someone who isn\u2019t a believer asks you home for dinner, accept
         the invitation if you want to. Eat whatever is offered to you without raising
         questions of conscience. "
       comments: []
-    - title: 
+    - name: '28: '
+      title: 
+      number: 28
       content: "(But suppose someone tells you, \u201CThis meat was offered to an
         idol.\u201D Don\u2019t eat it, out of consideration for the conscience of
         the one who told you. "
       comments: []
-    - title: 
+    - name: '29: '
+      title: 
+      number: 29
       content: 'It might not be a matter of conscience for you, but it is for the
         other person.) For why should my freedom be limited by what someone else
         thinks? '
       comments: []
-    - title: 
+    - name: '30: '
+      title: 
+      number: 30
       content: 'If I can thank God for the food and enjoy it, why should I be condemned
         for eating it?  '
       comments: []
-    - title: 
+    - name: '31: '
+      title: 
+      number: 31
       content: 'So whether you eat or drink, or whatever you do, do it all for the
         glory of God. '
       comments: []
-    - title: 
+    - name: '32: '
+      title: 
+      number: 32
       content: "Don\u2019t give offense to Jews or Gentiles[[COMMENT(0)]] or the
         church of God. "
       comments:
       - number: '10:32 '
         content: Greek <b>or Greeks.</b>
+    - name: '33: '
+      title: 
+      number: 33
+      content: "I, too, try to please everyone in everything I do. I don\u2019t just
+        do what is best for me; I do what is best for others so that many may be
+        saved."
+      comments: []
   - verses:
-    - title: Instructions for Public Worship
+    - name: '1: Instructions for Public Worship'
+      title: Instructions for Public Worship
+      number: 1
       content: '  And you should imitate me, just as I imitate Christ.  '
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'I am so glad that you always keep me in your thoughts, and that you
         are following the teachings I passed on to you. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'But there is one thing I want you to know: The head of every man
         is Christ, the head of woman is man, and the head of Christ is God.[[COMMENT(0)]]  '
       comments:
@@ -1177,125 +1705,177 @@ MonoBehaviour:
           woman is man, and the source of Christ is God. </b>Or <b>to know: Every
           man is responsible to Christ, a woman is responsible to her husband, and
           Christ is responsible to God.</b>'
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'A man dishonors his head[[COMMENT(0)]] if he covers his head while
         praying or prophesying. '
       comments:
       - number: '11:4 '
         content: Or <b>dishonors Christ.</b>
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'But a woman dishonors her head[[COMMENT(0)]] if she prays or prophesies
         without a covering on her head, for this is the same as shaving her head. '
       comments:
       - number: '11:5 '
         content: Or <b>dishonors her husband.</b>
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Yes, if she refuses to wear a head covering, she should cut off all
         her hair! But since it is shameful for a woman to have her hair cut or her
         head shaved, she should wear a covering.[[COMMENT(0)]]  '
       comments:
       - number: '11:6 '
         content: Or <b>should have long hair.</b>
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "A man should not wear anything on his head when worshiping, for man
         is made in God\u2019s image and reflects God\u2019s glory. And woman reflects
         man\u2019s glory. "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "For the first man didn\u2019t come from woman, but the first woman
         came from man. "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'And man was not made for woman, but woman was made for man. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'For this reason, and because the angels are watching, a woman should
         wear a covering on her head to show she is under authority.[[COMMENT(0)]]  '
       comments:
       - number: '11:10 '
         content: Greek <b>should have an authority on her head.</b>
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "But among the Lord\u2019s people, women are not independent of men,
         and men are not independent of women. "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'For although the first woman came from man, every other man was born
         from a woman, and everything comes from God.  '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Judge for yourselves. Is it right for a woman to pray to God in public
         without covering her head? '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "Isn\u2019t it obvious that it\u2019s disgraceful for a man to have
         long hair? "
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "And isn\u2019t long hair a woman\u2019s pride and joy? For it has
         been given to her as a covering. "
       comments: []
-    - title: "Order at the Lord\u2019s Supper"
+    - name: "16: Order at the Lord\u2019s Supper"
+      title: "Order at the Lord\u2019s Supper"
+      number: 16
       content: "But if anyone wants to argue about this, I simply say that we have
         no other custom than this, and neither do God\u2019s other churches.  "
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'But in the following instructions, I cannot praise you. For it sounds
         as if more harm than good is done when you meet together. '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'First, I hear that there are divisions among you when you meet as
         a church, and to some extent I believe it. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: "But, of course, there must be divisions among you so that you who
         have God\u2019s approval will be recognized!  "
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: "When you meet together, you are not really interested in the Lord\u2019s
         Supper. "
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: 'For some of you hurry to eat your own meal without sharing with others.
         As a result, some go hungry while others get drunk. '
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: "What? Don\u2019t you have your own homes for eating and drinking?
         Or do you really want to disgrace God\u2019s church and shame the poor? What
         am I supposed to say? Do you want me to praise you? Well, I certainly will
         not praise you for this!  "
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: 'For I pass on to you what I received from the Lord himself. On the
         night when he was betrayed, the Lord Jesus took some bread '
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: "and gave thanks to God for it. Then he broke it in pieces and said,
-        \u201CThis is my body, which is given for you.[[COMMENT(0)]]  Do this in
-        remembrance of me.\u201D  "
+        <JESUS>\u201CThis is my body, which is given for you.</JESUS>[[COMMENT(0)]] 
+        <JESUS>Do this in remembrance of me.\u201D</JESUS>  "
       comments:
       - number: '11:24 '
         content: Greek <b>which is for you; </b>other manuscripts read <b>which is
           broken for you.</b>
-    - title: 
-      content: "In the same way, he took the cup of wine after supper, saying, \u201CThis
+    - name: '25: '
+      title: 
+      number: 25
+      content: "In the same way, he took the cup of wine after supper, saying, <JESUS>\u201CThis
         cup is the new covenant between God and his people\u2014an agreement confirmed
-        with my blood. Do this in remembrance of me as often as you drink it.\u201D  "
+        with my blood. Do this in remembrance of me as often as you drink it.\u201D</JESUS>  "
       comments: []
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: "For every time you eat this bread and drink this cup, you are announcing
         the Lord\u2019s death until he comes again.  "
       comments: []
-    - title: 
+    - name: '27: '
+      title: 
+      number: 27
       content: 'So anyone who eats this bread or drinks this cup of the Lord unworthily
         is guilty of sinning against[[COMMENT(0)]] the body and blood of the Lord. '
       comments:
       - number: '11:27 '
         content: Or <b>is responsible for.</b>
-    - title: 
+    - name: '28: '
+      title: 
+      number: 28
       content: 'That is why you should examine yourself before eating the bread and
         drinking the cup. '
       comments: []
-    - title: 
+    - name: '29: '
+      title: 
+      number: 29
       content: "For if you eat the bread or drink the cup without honoring the body
         of Christ,[[COMMENT(0)]] you are eating and drinking God\u2019s judgment
         upon yourself. "
@@ -1303,54 +1883,85 @@ MonoBehaviour:
       - number: '11:29 '
         content: "Greek <b>the body; </b>other manuscripts read <b>the Lord\u2019s
           body.</b>"
-    - title: 
+    - name: '30: '
+      title: 
+      number: 30
       content: 'That is why many of you are weak and sick and some have even died.  '
       comments: []
-    - title: 
+    - name: '31: '
+      title: 
+      number: 31
       content: 'But if we would examine ourselves, we would not be judged by God
         in this way. '
       comments: []
-    - title: 
+    - name: '32: '
+      title: 
+      number: 32
       content: 'Yet when we are judged by the Lord, we are being disciplined so that
         we will not be condemned along with the world.  '
       comments: []
-    - title: 
+    - name: '33: '
+      title: 
+      number: 33
       content: "So, my dear brothers and sisters,[[COMMENT(0)]] when you gather for
         the Lord\u2019s Supper, wait for each other. "
       comments:
       - number: '11:33 '
         content: Greek <b>brothers.</b>
+    - name: '34: '
+      title: 
+      number: 34
+      content: "If you are really hungry, eat at home so you won\u2019t bring judgment
+        upon yourselves when you meet together. I\u2019ll give you instructions about
+        the other matters after I arrive."
+      comments: []
   - verses:
-    - title: Spiritual Gifts
+    - name: '1: Spiritual Gifts'
+      title: Spiritual Gifts
+      number: 1
       content: "  Now, dear brothers and sisters,[[COMMENT(0)]] regarding your question
         about the special abilities the Spirit gives us. I don\u2019t want you to
         misunderstand this. "
       comments:
       - number: '12:1 '
         content: Greek <b>brothers.</b>
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: 'You know that when you were still pagans, you were led astray and
         swept along in worshiping speechless idols. '
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'So I want you to know that no one speaking by the Spirit of God will
         curse Jesus, and no one can say Jesus is Lord, except by the Holy Spirit.  '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'There are different kinds of spiritual gifts, but the same Spirit
         is the source of them all. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'There are different kinds of service, but we serve the same Lord. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'God works in different ways, but it is the same God who does the
         work in all of us.  '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'A spiritual gift is given to each of us so we can help each other. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'To one person the Spirit gives the ability to give wise advice[[COMMENT(0)]];
         to another the same Spirit gives a message of special knowledge.[[COMMENT(1)]]  '
       comments:
@@ -1358,11 +1969,15 @@ MonoBehaviour:
         content: Or <b>gives a word of wisdom.</b>
       - number: '12:8b '
         content: Or <b>gives a word of knowledge.</b>
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'The same Spirit gives great faith to another, and to someone else
         the one Spirit gives the gift of healing. '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'He gives one person the power to perform miracles, and another the
         ability to prophesy. He gives someone else the ability to discern whether
         a message is from the Spirit of God or from another spirit. Still another
@@ -1371,15 +1986,21 @@ MonoBehaviour:
       comments:
       - number: '12:10 '
         content: Or <b>in various tongues; </b>also in 12:28, 30.
-    - title: One Body with Many Parts
+    - name: '11: One Body with Many Parts'
+      title: One Body with Many Parts
+      number: 11
       content: 'It is the one and only Spirit who distributes all these gifts. He
         alone decides which gift each person should have.  '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'The human body has many parts, but the many parts make up one whole
         body. So it is with the body of Christ. '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Some of us are Jews, some are Gentiles,[[COMMENT(0)]] some are slaves,
         and some are free. But we have all been baptized into one body by one Spirit,
         and we all share the same Spirit.[[COMMENT(1)]]  '
@@ -1388,127 +2009,191 @@ MonoBehaviour:
         content: Greek <b>some are Greeks.</b>
       - number: '12:13b '
         content: Greek <b>we were all given one Spirit to drink.</b>
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'Yes, the body has many different parts, not just one part. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "If the foot says, \u201CI am not a part of the body because I am
         not a hand,\u201D that does not make it any less a part of the body. "
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "And if the ear says, \u201CI am not part of the body because I am
         not an eye,\u201D would that make it any less a part of the body? "
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'If the whole body were an eye, how would you hear? Or if your whole
         body were an ear, how would you smell anything?  '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'But our bodies have many parts, and God has put each part just where
         he wants it. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'How strange a body would be if it had only one part! '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'Yes, there are many parts, but only one body. '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: "The eye can never say to the hand, \u201CI don\u2019t need you.\u201D
         The head can\u2019t say to the feet, \u201CI don\u2019t need you.\u201D  "
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'In fact, some parts of the body that seem weakest and least important
         are actually the most necessary. '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: 'And the parts we regard as less honorable are those we clothe with
         the greatest care. So we carefully protect those parts that should not be
         seen, '
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: 'while the more honorable parts do not require this special care.
         So God has put the body together such that extra honor and care are given
         to those parts that have less dignity. '
       comments: []
-    - title: 
+    - name: '25: '
+      title: 
+      number: 25
       content: 'This makes for harmony among the members, so that all the members
         care for each other. '
       comments: []
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: 'If one part suffers, all the parts suffer with it, and if one part
         is honored, all the parts are glad.  '
       comments: []
-    - title: 
+    - name: '27: '
+      title: 
+      number: 27
       content: "All of you together are Christ\u2019s body, and each of you is a
         part of it. "
       comments: []
-    - title: 
+    - name: '28: '
+      title: 
+      number: 28
       content: 'Here are some of the parts God has appointed for the church:first
         are apostles,second are prophets,third are teachers,then those who do miracles,those
         who have the gift of healing,those who can help others,those who have the
         gift of leadership,those who speak in unknown languages.  '
       comments: []
-    - title: 
+    - name: '29: '
+      title: 
+      number: 29
       content: 'Are we all apostles? Are we all prophets? Are we all teachers? Do
         we all have the power to do miracles? '
       comments: []
-    - title: 
+    - name: '30: '
+      title: 
+      number: 30
       content: 'Do we all have the gift of healing? Do we all have the ability to
         speak in unknown languages? Do we all have the ability to interpret unknown
         languages? Of course not! '
       comments: []
+    - name: '31: '
+      title: 
+      number: 31
+      content: So you should earnestly desire the most helpful gifts.But now let
+        me show you a way of life that is best of all.
+      comments: []
   - verses:
-    - title: Love Is the Greatest
+    - name: '1: Love Is the Greatest'
+      title: Love Is the Greatest
+      number: 1
       content: "  If I could speak all the languages of earth and of angels, but
         didn\u2019t love others, I would only be a noisy gong or a clanging cymbal. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "If I had the gift of prophecy, and if I understood all of God\u2019s
         secret plans and possessed all knowledge, and if I had such faith that I
         could move mountains, but didn\u2019t love others, I would be nothing. "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: "If I gave everything I have to the poor and even sacrificed my body,
         I could boast about it;[[COMMENT(0)]] but if I didn\u2019t love others, I
         would have gained nothing.  "
       comments:
       - number: '13:3 '
         content: Some manuscripts read <b>sacrificed my body to be burned.</b>
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'Love is patient and kind. Love is not jealous or boastful or proud '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'or rude. It does not demand its own way. It is not irritable, and
         it keeps no record of being wronged. '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'It does not rejoice about injustice but rejoices whenever the truth
         wins out. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Love never gives up, never loses faith, is always hopeful, and endures
         through every circumstance.  '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Prophecy and speaking in unknown languages[[COMMENT(0)]] and special
         knowledge will become useless. But love will last forever! '
       comments:
       - number: '13:8 '
         content: Or <b>in tongues.</b>
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'Now our knowledge is partial and incomplete, and even the gift of
         prophecy reveals only part of the whole picture! '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'But when the time of perfection comes, these partial things will
         become useless.  '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: 'When I was a child, I spoke and thought and reasoned as a child.
         But when I grew up, I put away childish things. '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'Now we see things imperfectly, like puzzling reflections in a mirror,
         but then we will see everything with perfect clarity.[[COMMENT(0)]] All that
         I know now is partial and incomplete, but then I will know everything completely,
@@ -1516,12 +2201,22 @@ MonoBehaviour:
       comments:
       - number: '13:12 '
         content: Greek <b>see face to face.</b>
+    - name: '13: '
+      title: 
+      number: 13
+      content: "Three things will last forever\u2014faith, hope, and love\u2014and
+        the greatest of these is love."
+      comments: []
   - verses:
-    - title: Tongues and Prophecy
+    - name: '1: Tongues and Prophecy'
+      title: Tongues and Prophecy
+      number: 1
       content: "  Let love be your highest goal! But you should also desire the special
         abilities the Spirit gives\u2014especially the ability to prophesy. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "For if you have the ability to speak in tongues,[[COMMENT(0)]] you
         will be talking only to God, since people won\u2019t be able to understand
         you. You will be speaking by the power of the Spirit,[[COMMENT(1)]] but it
@@ -1532,20 +2227,28 @@ MonoBehaviour:
           26, 27, 28, 39.
       - number: '14:2b '
         content: Or <b>speaking in your spirit.</b>
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'But one who prophesies strengthens others, encourages them, and comforts
         them. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'A person who speaks in tongues is strengthened personally, but one
         who speaks a word of prophecy strengthens the entire church.  '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'I wish you could all speak in tongues, but even more I wish you could
         all prophesy. For prophecy is greater than speaking in tongues, unless someone
         interprets what you are saying so that the whole church will be strengthened.  '
       comments: []
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Dear brothers and sisters,[[COMMENT(0)]] if I should come to you
         speaking in an unknown language,[[COMMENT(1)]] how would that help you? But
         if I bring you a revelation or some special knowledge or prophecy or teaching,
@@ -1555,70 +2258,100 @@ MonoBehaviour:
         content: Greek <b>brothers; </b>also in 14:20, 26, 39.
       - number: '14:6b '
         content: Or <b>in tongues; </b>also in 14:19, 23.
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Even lifeless instruments like the flute or the harp must play the
         notes clearly, or no one will recognize the melody. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: "And if the bugler doesn\u2019t sound a clear call, how will the soldiers
         know they are being called to battle?  "
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "It\u2019s the same for you. If you speak to people in words they
         don\u2019t understand, how will they know what you are saying? You might
         as well be talking into empty space.  "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: 'There are many different languages in the world, and every language
         has meaning. '
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "But if I don\u2019t understand a language, I will be a foreigner
         to someone who speaks it, and the one who speaks it will be a foreigner to
         me. "
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: 'And the same is true for you. Since you are so eager to have the
         special abilities the Spirit gives, seek those that will strengthen the whole
         church.  '
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'So anyone who speaks in tongues should pray also for the ability
         to interpret what has been said. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: "For if I pray in tongues, my spirit is praying, but I don\u2019t
         understand what I am saying.  "
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: 'Well then, what shall I do? I will pray in the spirit,[[COMMENT(0)]]
         and I will also pray in words I understand. I will sing in the spirit, and
         I will also sing in words I understand. '
       comments:
       - number: '14:15 '
         content: Or <b>in the Spirit; </b>also in 14:15b, 16.
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: "For if you praise God only in the spirit, how can those who don\u2019t
         understand you praise God along with you? How can they join you in giving
         thanks when they don\u2019t understand what you are saying? "
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: "You will be giving thanks very well, but it won\u2019t strengthen
         the people who hear you.  "
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'I thank God that I speak in tongues more than any of you. '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'But in a church meeting I would rather speak five understandable
         words to help others than ten thousand words in an unknown language.  '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: "Dear brothers and sisters, don\u2019t be childish in your understanding
         of these things. Be innocent as babies when it comes to evil, but be mature
         in understanding matters of this kind. "
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: "It is written in the Scriptures[[COMMENT(0)]]:\u201CI will speak
         to my own peoplethrough strange languagesand through the lips of foreigners.But
         even then, they will not listen to me,\u201D[[COMMENT(1)]]says the <smallcaps>Lord</smallcaps>.  "
@@ -1627,232 +2360,337 @@ MonoBehaviour:
         content: Greek <b>in the law.</b>
       - number: '14:21b '
         content: Isa 28:11-12.
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'So you see that speaking in tongues is a sign, not for believers,
         but for unbelievers. Prophecy, however, is for the benefit of believers,
         not unbelievers. '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: "Even so, if unbelievers or people who don\u2019t understand these
         things come into your church meeting and hear everyone speaking in an unknown
         language, they will think you are crazy. "
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: "But if all of you are prophesying, and unbelievers or people who
         don\u2019t understand these things come into your meeting, they will be convicted
         of sin and judged by what you say. "
       comments: []
-    - title: A Call to Orderly Worship
+    - name: '25: A Call to Orderly Worship'
+      title: A Call to Orderly Worship
+      number: 25
       content: "As they listen, their secret thoughts will be exposed, and they will
         fall to their knees and worship God, declaring, \u201CGod is truly here among
         you.\u201D  "
       comments: []
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: "Well, my brothers and sisters, let\u2019s summarize. When you meet
         together, one will sing, another will teach, another will tell some special
         revelation God has given, one will speak in tongues, and another will interpret
         what is said. But everything that is done must strengthen all of you.  "
       comments: []
-    - title: 
+    - name: '27: '
+      title: 
+      number: 27
       content: 'No more than two or three should speak in tongues. They must speak
         one at a time, and someone must interpret what they say. '
       comments: []
-    - title: 
+    - name: '28: '
+      title: 
+      number: 28
       content: 'But if no one is present who can interpret, they must be silent in
         your church meeting and speak in tongues to God privately.  '
       comments: []
-    - title: 
+    - name: '29: '
+      title: 
+      number: 29
       content: 'Let two or three people prophesy, and let the others evaluate what
         is said. '
       comments: []
-    - title: 
+    - name: '30: '
+      title: 
+      number: 30
       content: 'But if someone is prophesying and another person receives a revelation
         from the Lord, the one who is speaking must stop. '
       comments: []
-    - title: 
+    - name: '31: '
+      title: 
+      number: 31
       content: 'In this way, all who prophesy will have a turn to speak, one after
         the other, so that everyone will learn and be encouraged. '
       comments: []
-    - title: 
+    - name: '32: '
+      title: 
+      number: 32
       content: 'Remember that people who prophesy are in control of their spirit
         and can take turns. '
       comments: []
-    - title: 
+    - name: '33: '
+      title: 
+      number: 33
       content: "For God is not a God of disorder but of peace, as in all the meetings
         of God\u2019s holy people.[[COMMENT(0)]]  "
       comments:
       - number: '14:33 '
         content: "The phrase <b>as in all the meetings of God\u2019s holy people
           </b>could instead be joined to the beginning of 14:34."
-    - title: 
+    - name: '34: '
+      title: 
+      number: 34
       content: 'Women should be silent during the church meetings. It is not proper
         for them to speak. They should be submissive, just as the law says. '
       comments: []
-    - title: 
+    - name: '35: '
+      title: 
+      number: 35
       content: 'If they have any questions, they should ask their husbands at home,
         for it is improper for women to speak in church meetings.[[COMMENT(0)]]  '
       comments:
       - number: '14:35 '
         content: Some manuscripts place verses 34-35 after 14:40.
-    - title: 
+    - name: '36: '
+      title: 
+      number: 36
       content: "Or do you think God\u2019s word originated with you Corinthians?
         Are you the only ones to whom it was given? "
       comments: []
-    - title: 
+    - name: '37: '
+      title: 
+      number: 37
       content: 'If you claim to be a prophet or think you are spiritual, you should
         recognize that what I am saying is a command from the Lord himself. '
       comments: []
-    - title: 
+    - name: '38: '
+      title: 
+      number: 38
       content: 'But if you do not recognize this, you yourself will not be recognized.[[COMMENT(0)]]  '
       comments:
       - number: '14:38 '
         content: Some manuscripts read <b>If you are ignorant of this, stay in your
           ignorance.</b>
-    - title: 
+    - name: '39: '
+      title: 
+      number: 39
       content: "So, my dear brothers and sisters, be eager to prophesy, and don\u2019t
         forbid speaking in tongues. "
       comments: []
+    - name: '40: '
+      title: 
+      number: 40
+      content: But be sure that everything is done properly and in order.
+      comments: []
   - verses:
-    - title: The Resurrection of Christ
+    - name: '1: The Resurrection of Christ'
+      title: The Resurrection of Christ
+      number: 1
       content: '  Let me now remind you, dear brothers and sisters,[[COMMENT(0)]]
         of the Good News I preached to you before. You welcomed it then, and you
         still stand firm in it. '
       comments:
       - number: '15:1 '
         content: Greek <b>brothers; </b>also in 15:31, 50, 58.
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "It is this Good News that saves you if you continue to believe the
         message I told you\u2014unless, of course, you believed something that was
         never true in the first place.[[COMMENT(0)]]  "
       comments:
       - number: '15:2 '
         content: Or <b>unless you never believed it in the first place.</b>
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'I passed on to you what was most important and what had also been
         passed on to me. Christ died for our sins, just as the Scriptures said. '
       comments: []
-    - title: 
+    - name: '4: '
+      title: 
+      number: 4
       content: 'He was buried, and he was raised from the dead on the third day,
         just as the Scriptures said. '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'He was seen by Peter[[COMMENT(0)]] and then by the Twelve. '
       comments:
       - number: '15:5 '
         content: Greek <b>Cephas.</b>
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'After that, he was seen by more than 500 of his followers[[COMMENT(0)]]
         at one time, most of whom are still alive, though some have died. '
       comments:
       - number: '15:6 '
         content: Greek <b>the brothers.</b>
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: 'Then he was seen by James and later by all the apostles. '
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'Last of all, as though I had been born at the wrong time, I also
         saw him. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: "For I am the least of all the apostles. In fact, I\u2019m not even
         worthy to be called an apostle after the way I persecuted God\u2019s church.  "
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "But whatever I am now, it is all because God poured out his special
         favor on me\u2014and not without results. For I have worked harder than any
         of the other apostles; yet it was not I but God who was working through me
         by his grace. "
       comments: []
-    - title: The Resurrection of the Dead
+    - name: '11: The Resurrection of the Dead'
+      title: The Resurrection of the Dead
+      number: 11
       content: 'So it makes no difference whether I preach or they preach, for we
         all preach the same message you have already believed.  '
       comments: []
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "But tell me this\u2014since we preach that Christ rose from the dead,
         why are some of you saying there will be no resurrection of the dead? "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'For if there is no resurrection of the dead, then Christ has not
         been raised either. '
       comments: []
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'And if Christ has not been raised, then all our preaching is useless,
         and your faith is useless. '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "And we apostles would all be lying about God\u2014for we have said
         that God raised Christ from the grave. But that can\u2019t be true if there
         is no resurrection of the dead. "
       comments: []
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'And if there is no resurrection of the dead, then Christ has not
         been raised. '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: 'And if Christ has not been raised, then your faith is useless and
         you are still guilty of your sins. '
       comments: []
-    - title: 
+    - name: '18: '
+      title: 
+      number: 18
       content: 'In that case, all who have died believing in Christ are lost! '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'And if our hope in Christ is only for this life, we are more to be
         pitied than anyone in the world.  '
       comments: []
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'But in fact, Christ has been raised from the dead. He is the first
         of a great harvest of all who have died.  '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: 'So you see, just as death came into the world through a man, now
         the resurrection from the dead has begun through another man. '
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'Just as everyone dies because we all belong to Adam, everyone who
         belongs to Christ will be given new life. '
       comments: []
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: 'But there is an order to this resurrection: Christ was raised as
         the first of the harvest; then all who belong to Christ will be raised when
         he comes back.  '
       comments: []
-    - title: 
+    - name: '24: '
+      title: 
+      number: 24
       content: 'After that the end will come, when he will turn the Kingdom over
         to God the Father, having destroyed every ruler and authority and power. '
       comments: []
-    - title: 
+    - name: '25: '
+      title: 
+      number: 25
       content: 'For Christ must reign until he humbles all his enemies beneath his
         feet. '
       comments: []
-    - title: 
+    - name: '26: '
+      title: 
+      number: 26
       content: 'And the last enemy to be destroyed is death. '
       comments: []
-    - title: 
+    - name: '27: '
+      title: 
+      number: 27
       content: "For the Scriptures say, \u201CGod has put all things under his authority.\u201D[[COMMENT(0)]]
         (Of course, when it says \u201Call things are under his authority,\u201D
         that does not include God himself, who gave Christ his authority.) "
       comments:
       - number: '15:27 '
         content: Ps 8:6.
-    - title: 
+    - name: '28: '
+      title: 
+      number: 28
       content: "Then, when all things are under his authority, the Son will put himself
         under God\u2019s authority, so that God, who gave his Son authority over
         all things, will be utterly supreme over everything everywhere.  "
       comments: []
-    - title: 
+    - name: '29: '
+      title: 
+      number: 29
       content: 'If the dead will not be raised, what point is there in people being
         baptized for those who are dead? Why do it unless the dead will someday rise
         again?  '
       comments: []
-    - title: 
+    - name: '30: '
+      title: 
+      number: 30
       content: 'And why should we ourselves risk our lives hour by hour? '
       comments: []
-    - title: 
+    - name: '31: '
+      title: 
+      number: 31
       content: 'For I swear, dear brothers and sisters, that I face death daily.
         This is as certain as my pride in what Christ Jesus our Lord has done in
         you. '
       comments: []
-    - title: 
+    - name: '32: '
+      title: 
+      number: 32
       content: "And what value was there in fighting wild beasts\u2014those people
         of Ephesus[[COMMENT(0)]]\u2014if there will be no resurrection from the dead?
         And if there is no resurrection, \u201CLet\u2019s feast and drink, for tomorrow
@@ -1862,100 +2700,144 @@ MonoBehaviour:
         content: Greek <b>fighting wild beasts in Ephesus.</b>
       - number: '15:32b '
         content: Isa 22:13.
-    - title: 
+    - name: '33: '
+      title: 
+      number: 33
       content: "Don\u2019t be fooled by those who say such things, for \u201Cbad
         company corrupts good character.\u201D "
       comments: []
-    - title: The Resurrection Body
+    - name: '34: The Resurrection Body'
+      title: The Resurrection Body
+      number: 34
       content: "Think carefully about what is right, and stop sinning. For to your
         shame I say that some of you don\u2019t know God at all.  "
       comments: []
-    - title: 
+    - name: '35: '
+      title: 
+      number: 35
       content: "But someone may ask, \u201CHow will the dead be raised? What kind
         of bodies will they have?\u201D "
       comments: []
-    - title: 
+    - name: '36: '
+      title: 
+      number: 36
       content: "What a foolish question! When you put a seed into the ground, it
         doesn\u2019t grow into a plant unless it dies first. "
       comments: []
-    - title: 
+    - name: '37: '
+      title: 
+      number: 37
       content: 'And what you put in the ground is not the plant that will grow, but
         only a bare seed of wheat or whatever you are planting. '
       comments: []
-    - title: 
+    - name: '38: '
+      title: 
+      number: 38
       content: 'Then God gives it the new body he wants it to have. A different plant
         grows from each kind of seed. '
       comments: []
-    - title: 
+    - name: '39: '
+      title: 
+      number: 39
       content: "Similarly there are different kinds of flesh\u2014one kind for humans,
         another for animals, another for birds, and another for fish.  "
       comments: []
-    - title: 
+    - name: '40: '
+      title: 
+      number: 40
       content: 'There are also bodies in the heavens and bodies on the earth. The
         glory of the heavenly bodies is different from the glory of the earthly bodies. '
       comments: []
-    - title: 
+    - name: '41: '
+      title: 
+      number: 41
       content: 'The sun has one kind of glory, while the moon and stars each have
         another kind. And even the stars differ from each other in their glory.  '
       comments: []
-    - title: 
+    - name: '42: '
+      title: 
+      number: 42
       content: 'It is the same way with the resurrection of the dead. Our earthly
         bodies are planted in the ground when we die, but they will be raised to
         live forever. '
       comments: []
-    - title: 
+    - name: '43: '
+      title: 
+      number: 43
       content: 'Our bodies are buried in brokenness, but they will be raised in glory.
         They are buried in weakness, but they will be raised in strength. '
       comments: []
-    - title: 
+    - name: '44: '
+      title: 
+      number: 44
       content: 'They are buried as natural human bodies, but they will be raised
         as spiritual bodies. For just as there are natural bodies, there are also
         spiritual bodies.  '
       comments: []
-    - title: 
+    - name: '45: '
+      title: 
+      number: 45
       content: "The Scriptures tell us, \u201CThe first man, Adam, became a living
         person.\u201D[[COMMENT(0)]] But the last Adam\u2014that is, Christ\u2014is
         a life-giving Spirit. "
       comments:
       - number: '15:45 '
         content: Gen 2:7.
-    - title: 
+    - name: '46: '
+      title: 
+      number: 46
       content: 'What comes first is the natural body, then the spiritual body comes
         later. '
       comments: []
-    - title: 
+    - name: '47: '
+      title: 
+      number: 47
       content: 'Adam, the first man, was made from the dust of the earth, while Christ,
         the second man, came from heaven. '
       comments: []
-    - title: 
+    - name: '48: '
+      title: 
+      number: 48
       content: 'Earthly people are like the earthly man, and heavenly people are
         like the heavenly man. '
       comments: []
-    - title: 
+    - name: '49: '
+      title: 
+      number: 49
       content: 'Just as we are now like the earthly man, we will someday be like[[COMMENT(0)]]
         the heavenly man.  '
       comments:
       - number: '15:49 '
         content: Some manuscripts read <b>let us be like.</b>
-    - title: 
+    - name: '50: '
+      title: 
+      number: 50
       content: 'What I am saying, dear brothers and sisters, is that our physical
         bodies cannot inherit the Kingdom of God. These dying bodies cannot inherit
         what will last forever.  '
       comments: []
-    - title: 
+    - name: '51: '
+      title: 
+      number: 51
       content: 'But let me reveal to you a wonderful secret. We will not all die,
         but we will all be transformed! '
       comments: []
-    - title: 
+    - name: '52: '
+      title: 
+      number: 52
       content: 'It will happen in a moment, in the blink of an eye, when the last
         trumpet is blown. For when the trumpet sounds, those who have died will be
         raised to live forever. And we who are living will also be transformed. '
       comments: []
-    - title: 
+    - name: '53: '
+      title: 
+      number: 53
       content: 'For our dying bodies must be transformed into bodies that will never
         die; our mortal bodies must be transformed into immortal bodies.  '
       comments: []
-    - title: 
+    - name: '54: '
+      title: 
+      number: 54
       content: "Then, when our dying bodies have been transformed into bodies that
         will never die,[[COMMENT(0)]] this Scripture will be fulfilled:\u201CDeath
         is swallowed up in victory.[[COMMENT(1)]]  "
@@ -1965,86 +2847,129 @@ MonoBehaviour:
           into immortal bodies.</b>
       - number: '15:54b '
         content: Isa 25:8.
-    - title: 
+    - name: '55: '
+      title: 
+      number: 55
       content: "O death, where is your victory?O death, where is your sting?[[COMMENT(0)]]\u201D  "
       comments:
       - number: '15:55 '
         content: Hos 13:14 (Greek version).
-    - title: 
+    - name: '56: '
+      title: 
+      number: 56
       content: 'For sin is the sting that results in death, and the law gives sin
         its power. '
       comments: []
-    - title: 
+    - name: '57: '
+      title: 
+      number: 57
       content: 'But thank God! He gives us victory over sin and death through our
         Lord Jesus Christ.  '
       comments: []
+    - name: '58: '
+      title: 
+      number: 58
+      content: So, my dear brothers and sisters, be strong and immovable. Always
+        work enthusiastically for the Lord, for you know that nothing you do for
+        the Lord is ever useless.
+      comments: []
   - verses:
-    - title: The Collection for Jerusalem
+    - name: '1: The Collection for Jerusalem'
+      title: The Collection for Jerusalem
+      number: 1
       content: "  Now regarding your question about the money being collected for
         God\u2019s people in Jerusalem. You should follow the same procedure I gave
         to the churches in Galatia. "
       comments: []
-    - title: 
+    - name: '2: '
+      title: 
+      number: 2
       content: "On the first day of each week, you should each put aside a portion
         of the money you have earned. Don\u2019t wait until I get there and then
         try to collect it all at once. "
       comments: []
-    - title: 
+    - name: '3: '
+      title: 
+      number: 3
       content: 'When I come, I will write letters of recommendation for the messengers
         you choose to deliver your gift to Jerusalem. '
       comments: []
-    - title: "Paul\u2019s Final Instructions"
+    - name: "4: Paul\u2019s Final Instructions"
+      title: "Paul\u2019s Final Instructions"
+      number: 4
       content: 'And if it seems appropriate for me to go along, they can travel with
         me.  '
       comments: []
-    - title: 
+    - name: '5: '
+      title: 
+      number: 5
       content: 'I am coming to visit you after I have been to Macedonia,[[COMMENT(0)]]
         for I am planning to travel through Macedonia. '
       comments:
       - number: '16:5 '
         content: <b>Macedonia </b>was in the northern region of Greece.
-    - title: 
+    - name: '6: '
+      title: 
+      number: 6
       content: 'Perhaps I will stay awhile with you, possibly all winter, and then
         you can send me on my way to my next destination. '
       comments: []
-    - title: 
+    - name: '7: '
+      title: 
+      number: 7
       content: "This time I don\u2019t want to make just a short visit and then go
         right on. I want to come and stay awhile, if the Lord will let me. "
       comments: []
-    - title: 
+    - name: '8: '
+      title: 
+      number: 8
       content: 'In the meantime, I will be staying here at Ephesus until the Festival
         of Pentecost. '
       comments: []
-    - title: 
+    - name: '9: '
+      title: 
+      number: 9
       content: 'There is a wide-open door for a great work here, although many oppose
         me.  '
       comments: []
-    - title: 
+    - name: '10: '
+      title: 
+      number: 10
       content: "When Timothy comes, don\u2019t intimidate him. He is doing the Lord\u2019s
         work, just as I am. "
       comments: []
-    - title: 
+    - name: '11: '
+      title: 
+      number: 11
       content: "Don\u2019t let anyone treat him with contempt. Send him on his way
         with your blessing when he returns to me. I expect him to come with the other
         believers.[[COMMENT(0)]]  "
       comments:
       - number: '16:11 '
         content: Greek <b>with the brothers; </b>also in 16:12.
-    - title: 
+    - name: '12: '
+      title: 
+      number: 12
       content: "Now about our brother Apollos\u2014I urged him to visit you with
         the other believers, but he was not willing to go right now. He will see
         you later when he has the opportunity.  "
       comments: []
-    - title: 
+    - name: '13: '
+      title: 
+      number: 13
       content: 'Be on guard. Stand firm in the faith. Be courageous.[[COMMENT(0)]]
         Be strong. '
       comments:
       - number: '16:13 '
         content: Greek <b>Be men.</b>
-    - title: 
+    - name: '14: '
+      title: 
+      number: 14
       content: 'And do everything with love.  '
       comments: []
-    - title: 
+    - name: '15: '
+      title: 
+      number: 15
       content: "You know that Stephanas and his household were the first of the harvest
         of believers in Greece,[[COMMENT(0)]] and they are spending their lives in
         service to God\u2019s people. I urge you, dear brothers and sisters,[[COMMENT(1)]]  "
@@ -2053,18 +2978,26 @@ MonoBehaviour:
         content: Greek <b>in Achaia, </b>the southern region of the Greek peninsula.
       - number: '16:15b '
         content: Greek <b>brothers; </b>also in 16:20.
-    - title: 
+    - name: '16: '
+      title: 
+      number: 16
       content: 'to submit to them and others like them who serve with such devotion. '
       comments: []
-    - title: 
+    - name: '17: '
+      title: 
+      number: 17
       content: "I am very glad that Stephanas, Fortunatus, and Achaicus have come
         here. They have been providing the help you weren\u2019t here to give me. "
       comments: []
-    - title: "Paul\u2019s Final Greetings"
+    - name: "18: Paul\u2019s Final Greetings"
+      title: "Paul\u2019s Final Greetings"
+      number: 18
       content: 'They have been a wonderful encouragement to me, as they have been
         to you. You must show your appreciation to all who serve so well.  '
       comments: []
-    - title: 
+    - name: '19: '
+      title: 
+      number: 19
       content: 'The churches here in the province of Asia[[COMMENT(0)]] send greetings
         in the Lord, as do Aquila and Priscilla[[COMMENT(1)]] and all the others
         who gather in their home for church meetings. '
@@ -2073,20 +3006,35 @@ MonoBehaviour:
         content: <b>Asia </b>was a Roman province in what is now western Turkey.
       - number: '16:19b '
         content: Greek <b>Prisca.</b>
-    - title: 
+    - name: '20: '
+      title: 
+      number: 20
       content: 'All the brothers and sisters here send greetings to you. Greet each
         other with a sacred kiss.  '
       comments: []
-    - title: 
+    - name: '21: '
+      title: 
+      number: 21
       content: "  Here is my greeting in my own handwriting\u2014Paul.  "
       comments: []
-    - title: 
+    - name: '22: '
+      title: 
+      number: 22
       content: 'If anyone does not love the Lord, that person is cursed. Our Lord,
         come![[COMMENT(0)]]  '
       comments:
       - number: '16:22 '
         content: "From Aramaic, <b>Marana tha. </b>Some manuscripts read <b>Maran
           atha, </b>\u201COur Lord has come.\u201D"
-    - title: 
+    - name: '23: '
+      title: 
+      number: 23
       content: 'May the grace of the Lord Jesus be with you.  '
       comments: []
+    - name: '24: '
+      title: 
+      number: 24
+      content: My love to all of you in Christ Jesus.[[COMMENT(0)]]
+      comments:
+      - number: '16:24 '
+        content: Some manuscripts add <b>Amen.</b>
