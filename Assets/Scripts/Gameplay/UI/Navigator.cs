@@ -6,33 +6,34 @@ public class Navigator : MonoBehaviour
 {
 	public GeneralInformation genInfo;
 	public GameObject _bookButtonTemplate, _chapterButtonTemplate;
+	public Text _bookTxt;
 	
 	[Space]
 	public ScrollRect _chapterSelectScroll;
 	public float chaptersUpdateTotalDuration = 0.75f;
+	public Toggle createNewTabToggle;
 	
-	[EnumData(typeof(ScreenOrientation)), Range(0,1)]
-	public float[] screenHeightMultipliers;
-	public RectTransform _screenHeightRef;
+	[EnumData(typeof(ScreenOrientation))]
+	public RectTransform[] _panelOrientationRefs;
+	public RectTransform _panel;
 	
-	int _selectedBookIndex;
+	public bool createNewTab { get; set; }
+	
+	public static int SelectedBookIndex;
 	Coroutine _updateChaptersRoutine;
 	
 	bool _started;
 	
 	void Start()
 	{
-		var backBtnT = _bookButtonTemplate.transform;
+		var bookBtnT = _bookButtonTemplate.transform;
 		var chapBtnT = _chapterButtonTemplate.transform;
 		
-		var backBtnPar = backBtnT.parent;
+		var bookBtnPar = bookBtnT.parent;
 		var chapBtnPar = chapBtnT.parent;
 		
 		for(int i = 0; i < genInfo.bookChapterVerseInfos.Length; i++)
-		{
-			var btn = Instantiate(_bookButtonTemplate, backBtnPar, false);
-				btn.GetComponentInChildren<Text>().text = genInfo.bookChapterVerseInfos[i].name;
-		}
+			Instantiate(_bookButtonTemplate, bookBtnPar, false);
 		
 		for(int i = 0; i < genInfo.maxChapterCount; i++)
 		{
@@ -40,11 +41,23 @@ public class Navigator : MonoBehaviour
 				btn.GetComponentInChildren<Text>().text = $"{i + 1}";
 		}
 		
-		backBtnT.SetAsLastSibling();
+		bookBtnT.SetAsLastSibling();
 		chapBtnT.SetAsLastSibling();
 		
 		_bookButtonTemplate.SetActive(false);
 		_chapterButtonTemplate.SetActive(false);
+		
+		#region Initial Highlighting
+		
+		_bookTxt.text = genInfo.bookChapterVerseInfos[SelectedBookIndex].name;
+		
+		// for(int i = 0; i < bookBtnPar.childCount; i++)
+		// {
+			// var child = bookBtnPar.GetChild(i);
+				// child.GetChild(0).gameObject.SetActive(i == SelectedBookIndex);
+		// }
+		
+		#endregion
 		
 		_started = true;
 		
@@ -55,13 +68,50 @@ public class Navigator : MonoBehaviour
 	{
 		if(!_started) return;
 		
+		var activeBibleVersion = GameManager.Instance.GetActiveBible().version;
+		
+		for(int i = 0; i < genInfo.bookChapterVerseInfos.Length; i++)
+		{
+			var book = activeBibleVersion.Books.GetElement(i);
+			string name = book? book.Name: genInfo.bookChapterVerseInfos[i].name;
+			
+			var btn = _bookButtonTemplate.transform.parent.GetChild(i);
+				btn.GetComponentInChildren<Text>().text = name;
+		}
+		
+		OnBookSelect(_bookButtonTemplate.transform.parent.GetChild(SelectedBookIndex));
 		UpdateChapters();
+		
 		AdjustScreenHeight(GameManager.Instance.ScreenOrientation);
+	}
+	
+	void OnValidate()
+	{
+		if(Application.isPlaying)
+			return;
+		
+		var mgr = FindObjectOfType<GameManager>();
+		AdjustScreenHeight(mgr.ScreenOrientation);
 	}
 	
 	public void OnBookSelect(Transform t)
 	{
-		_selectedBookIndex = t.GetSiblingIndex();
+		SelectedBookIndex = t.GetSiblingIndex();
+		
+		#region Highlighting
+		t.GetChild(0).gameObject.SetActive(true);
+		
+		for(int i = 0; i < t.parent.childCount; i++)
+		{
+			if(i == SelectedBookIndex)
+				continue;
+			
+			var child = t.parent.GetChild(i);
+				child.GetChild(0).gameObject.SetActive(false);
+		}
+		#endregion
+		
+		_bookTxt.text = genInfo.bookChapterVerseInfos[SelectedBookIndex].name;
 		
 		UpdateChapters();
 		
@@ -71,8 +121,17 @@ public class Navigator : MonoBehaviour
 	public void OnChapterSelect(Transform t)
 	{
 		int index = t.GetSiblingIndex();
+		var mgr = GameManager.Instance;
 		
-		GameManager.Instance.NavigateTo(_selectedBookIndex, index);
+		if(createNewTab)
+		{
+			mgr.AddTab(SelectedBookIndex, index);
+			createNewTabToggle.isOn = false;
+		}
+		
+		else
+			mgr.NavigateTo(SelectedBookIndex, index);
+		
 		gameObject.SetActive(false);
 	}
 	
@@ -85,7 +144,7 @@ public class Navigator : MonoBehaviour
 		
 		IEnumerator r()
 		{
-			int chapters = genInfo.bookChapterVerseInfos[_selectedBookIndex].chaptersAndVerses.Length;
+			int chapters = genInfo.bookChapterVerseInfos[SelectedBookIndex].chaptersAndVerses.Length;
 			var parent = _chapterButtonTemplate.transform.parent;
 			
 			for(int i = 0; i < genInfo.maxChapterCount; i++)
@@ -108,10 +167,6 @@ public class Navigator : MonoBehaviour
 	
 	public void AdjustScreenHeight(ScreenOrientation orientation)
 	{
-		_screenHeightRef.sizeDelta = new Vector2
-		(
-			_screenHeightRef.sizeDelta.x,
-			GameManager.Instance.ScreenSize.y * screenHeightMultipliers[(int) orientation]
-		);
+		_panel.sizeDelta = _panelOrientationRefs[(int) orientation].sizeDelta;
 	}
 }

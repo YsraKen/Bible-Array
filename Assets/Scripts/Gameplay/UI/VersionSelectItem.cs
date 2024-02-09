@@ -9,6 +9,18 @@ public class VersionSelectItem : MonoBehaviour
 	
 	private Version target;
 	
+	private VersionSelectPanel _panel;
+	private VersionSelectPanel panel
+	{
+		get
+		{
+			if(!_panel)
+				_panel = GetComponentInParent<VersionSelectPanel>();
+			
+			return _panel;
+		}
+	}
+	
 	public void Setup(Version target, bool isFavorite = false)
 	{
 		this.target = target;		
@@ -17,7 +29,6 @@ public class VersionSelectItem : MonoBehaviour
 		_favToggle.SetIsOnWithoutNotify(isFavorite);
 	}
 	
-	public void OnSelect() => GameManager.Instance.OnVersionSelect(target);
-	
-	public void AddToFavorites(bool isAdding) => GameManager.Instance.AddFavoriteVersion(target, isAdding);
+	public void OnSelect() => panel.OnItemSelected(target);
+	public void AddToFavorites(bool isAdding) => panel.AddFavoriteVersion(target, isAdding);
 }

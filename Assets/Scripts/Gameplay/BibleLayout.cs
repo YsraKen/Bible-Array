@@ -10,7 +10,7 @@ public class BibleLayout : MonoBehaviour
 		var bibles = GameManager.Instance.BibleInstances;
 		if(bibles.IsNullOrEmpty()) return;
 		
-		Array.ForEach(bibles, bible => bible.UpdateVerseSizes());
+		bibles.ForEach(bible => bible.UpdateVerseSizes());
 		
 		int numberOfVerses = bibles[0].Body.childCount;
 		float maxVerseSize = 0;
@@ -41,6 +41,6 @@ public class BibleLayout : MonoBehaviour
 			maxVerseSize = 0;
 		}
 		
-		Array.ForEach(bibles, bible => bible.AdjustBodySize());
+		bibles.ForEach(bible => bible.AdjustBodySize());
 	}
 }

@@ -8,34 +8,42 @@ using TMPro;
 
 public class GameManager : MonoBehaviour
 {
+	#region Variables and Properties
+	
 	[SerializeField] private Language[] _languages;
 	[SerializeField] private Version[] _versions;
 	
-	private Collection[] _collections;
+	public Collection[] Collections { get; private set; }
 	
 	[Space]
 	[SerializeField] private BibleUI2 _biblePrefab;
 	[SerializeField] private Version[] _onStartBibles;
 	
-	[Space]
-	[SerializeField] private BibleLayout _layout;
-	[SerializeField] private TMP_Text _chapterTmp;
-	
+	[field: SerializeField] public GeneralInformation GeneralInfo { get; private set; }
 	[field: SerializeField] public Color JesusWordColor { get; private set; } = Color.red;
 	[field: SerializeField] public string VerseCommentLink { get; private set; }
 	
-	[field: SerializeField] public BibleUI2[] BibleInstances { get; private set; }
+	[field: SerializeField]
+	public List<BibleUI2> BibleInstances { get; private set; } = new List<BibleUI2>();
 	
 	[field: SerializeField] public int CurrentBookIndex { get; private set; }
 	[field: SerializeField] public int CurrentChapterIndex { get; private set; }
 	
-	[HideInInspector]
-	public List<Version>
-		recents = new List<Version>(),
-		favorites = new List<Version>();
+	[Space]
+	[SerializeField] private GameObject _tabTemplate;
+	[SerializeField] private ScrollRect _tabsScroll;
+	
+	private List<Tab> _tabs = new List<Tab>();
+	private int _currentTabIndex;
 	
 	[SerializeField] private ScrollRect _mainScroll;
 	[SerializeField] private float _hudReactionThresholdToMainScrollVelocity = 100f;
+	
+	[SerializeField] private BibleLayout _layout;
+	
+	[field: SerializeField]
+	public GameObject MainContentLoadingOverlay { get; private set; }
+	public bool IsLoadingContent { get; private set; }
 	
 	[field: SerializeField]
 	public Sprite RecentIcon { get; private set; }
@@ -43,41 +51,21 @@ public class GameManager : MonoBehaviour
 	[field: SerializeField]
 	public Sprite FavoritesIcon { get; private set; }
 	
-	[SerializeField] private int _maxRecentCount = 3;
-	
-	// [field: SerializeField]
-	// public List<TMP_Dropdown.OptionData> BibleOptionsDefaultList { get; private set; } = new List<TMP_Dropdown.OptionData>();
-	
 	[Space]
 	[SerializeField] private GameObject _versionSelectPanel;
 	[SerializeField] private TMP_Dropdown _languageSelector;
 	
-	private int _selectedLanguageIndex;
+	[SerializeField] private VersionSelectPanel _versionSelect;
 	private BibleUI2 _versionSelectTargetBible;
 	
-	[SerializeField] private VersionSelectItem _versionSelectOptionTemplate;
-	
-	[Space]
-	[SerializeField] private GameObject _verSelectSeparator_Recents;
-	[SerializeField] private GameObject _verSelectSeparator_Favorites;
-	[SerializeField] private GameObject _verSelectSeparator_All;
-	
-	private List<VersionSelectItem>
-		_verSelectItemInstances_Recent = new List<VersionSelectItem>(),
-		_verSelectItemInstances_Favorites = new List<VersionSelectItem>(),
-		_verSelectItemInstances_All = new List<VersionSelectItem>();
-	
-	private bool _verSelectIsExpanded_Recent = true;
-	private bool _verSelectIsExpanded_Favorites;
-	private bool _verSelectIsExpanded_All = true;
-	
-	[SerializeField] private Animation _hudAnimation;
+	[SerializeField] private Animation[] _hudAnimations;
 	private Vector2 _lastScrollPosition;
 	
 	private bool _appearHud_OneFrameGate;
 	public bool IsHudShown { get; private set; } = true;
 	
 	[Space]
+	[SerializeField] private BookInfoUI _bookInfoPanel;
 	[SerializeField] private TMP_Text _popupTitle;
 	[SerializeField] private TMP_Text _popup;
 	
@@ -87,6 +75,7 @@ public class GameManager : MonoBehaviour
 	Vector3 _repositionOffset;
 	
 	public List<VerseUI2> SelectedVerses { get; private set; } = new List<VerseUI2>(); // or use Dictionary
+	public Action onVerseSelectUpdate;
 	
 	[SerializeField] private RectTransform _screenSizeRef;
 	
@@ -103,6 +92,8 @@ public class GameManager : MonoBehaviour
 	public static GameManager Instance { get; private set; }
 	public bool Started { get; private set; }
 	
+	#endregion
+	
 	void Awake()
 	{
 		Started = false;
@@ -112,7 +103,7 @@ public class GameManager : MonoBehaviour
 	IEnumerator Start()
 	{
 		int count = _languages.Length;
-		_collections = new Collection[count];
+		Collections = new Collection[count];
 		
 		_languageSelector.ClearOptions();
 		var languageSelectorOptions = new List<string>();
@@ -122,7 +113,7 @@ public class GameManager : MonoBehaviour
 			var language = _languages[i];
 			var versions = new List<Version>();
 			
-			_collections[i] = new Collection(){ language = language };
+			Collections[i] = new Collection(){ language = language };
 			
 			foreach(var version in _versions)
 			{
@@ -130,7 +121,7 @@ public class GameManager : MonoBehaviour
 					versions.Add(version);
 			}
 			
-			_collections[i].versions = versions;
+			Collections[i].versions = versions;
 			languageSelectorOptions.Add(language.Name);
 		}
 		
@@ -141,6 +132,8 @@ public class GameManager : MonoBehaviour
 		yield return null;
 		
 		DefaultMinWidth = Mathf.Min(ScreenSize.x, ScreenSize.y);
+		
+		AddTab(CurrentBookIndex, CurrentChapterIndex);
 		UpdateBibleContents();
 		
 		Started = true;
@@ -173,11 +166,11 @@ public class GameManager : MonoBehaviour
 		StartCoroutine(r());
 		IEnumerator r()
 		{
-			_chapterTmp.text = $"<b>{_versions[0].Books[CurrentBookIndex].nickname.ToUpper()}</b> {CurrentChapterIndex + 1}/{_versions[0].Books[CurrentBookIndex].chapters.Length}";
-			yield return null;
+			IsLoadingContent = true;
+			MainContentLoadingOverlay.SetActive(true);
 			
-			BibleInstances = _layout.GetComponentsInChildren<BibleUI2>();
-			Array.ForEach(BibleInstances, instance => instance.Cover.SetActive(true));
+			var commentPopup = _popupTitle.transform.parent.gameObject;
+				commentPopup.SetActive(false);
 			
 			yield return null;
 			
@@ -191,147 +184,117 @@ public class GameManager : MonoBehaviour
 			_layout.Repaint();
 			
 			yield return null;
-			Array.ForEach(BibleInstances, instance => instance.Cover.SetActive(false));
+			
+			MainContentLoadingOverlay.SetActive(false);
+			IsLoadingContent = false;
 		}
 	}
+	
+	#region Version Select
 	
 	public void OpenVersionSelector(BibleUI2 target)
 	{
-		_versionSelectPanel.SetActive(true);
 		_versionSelectTargetBible = target;
-		
-		UpdateVersionSelectList();
+		_versionSelect.StartSelection(OnVersionSelect);
 	}
 	
-	public void OnLanguageSelect(int index)
-	{
-		_selectedLanguageIndex = index;
-		
-		UpdateVersionSelectList();
-		
-		_verSelectIsExpanded_All = true;
-		
-		foreach(var instance in _verSelectItemInstances_All)
-			instance.gameObject.SetActive(_verSelectIsExpanded_All);
-		
-		UpdateVersionSelectFoldoutGpx(_verSelectIsExpanded_All, _verSelectSeparator_All.transform);
-	}
+	public void AddVersion() => _versionSelect.StartSelection(OnVersionSelect);
 	
-	public void UpdateVersionSelectList()
-	{
-		destroy(ref _verSelectItemInstances_All);
-		destroy(ref _verSelectItemInstances_Recent);
-		destroy(ref _verSelectItemInstances_Favorites);
-		
-		void destroy(ref List<VersionSelectItem> instances)
-		{
-			for(int i = 0; i < instances.Count; i++)
-			{
-				if(instances[i])
-					Destroy(instances[i].gameObject);
-			}
-			instances.Clear();
-		}
-		
-		var transform = _versionSelectOptionTemplate.transform;
-		var parent = transform.parent;
-		
-		setupItems(recents, ref _verSelectItemInstances_Recent, _verSelectIsExpanded_Recent, _verSelectSeparator_Recents);
-		setupItems(favorites, ref _verSelectItemInstances_Favorites, _verSelectIsExpanded_Favorites, _verSelectSeparator_Favorites);
-		
-		var collection = _collections[_selectedLanguageIndex];
-		setupItems(collection.versions, ref _verSelectItemInstances_All, _verSelectIsExpanded_All, _verSelectSeparator_All);
-		
-		void setupItems(List<Version> versions, ref List<VersionSelectItem> instances, bool isExpanded, GameObject separator)
-		{
-			bool hasItems = versions.Count > 0;
-			separator?.SetActive(hasItems);
-			
-			if(!hasItems) return;
-			
-			var transform = separator.transform;
-				transform.SetAsLastSibling();
-			
-			UpdateVersionSelectFoldoutGpx(isExpanded, transform);
-			
-			foreach(var version in versions)
-			{
-				var instance = Instantiate(_versionSelectOptionTemplate, parent, false);
-					instance.Setup(version, favorites.Contains(version));
-					instance.gameObject.SetActive(isExpanded);
-				
-				instances.Add(instance);
-			}
-		}
-		
-		transform.SetAsLastSibling();
-		_versionSelectOptionTemplate.gameObject.SetActive(false);
-	}
+	public void UpdateVersionSelectList() => _versionSelect.UpdateList();
 	
 	public void OnVersionSelect(Version version)
 	{
-		if(!_versionSelectTargetBible)
-			_versionSelectTargetBible = CreateBibleInstance(version);
-			
-		else if(_versionSelectTargetBible.version == version)
-			return;
-		
-		_versionSelectTargetBible.SetVersion(version);
 		_versionSelectPanel.SetActive(false);
+		bool hasCreatedNewInstance = false;
 		
-		if(recents.Count < _maxRecentCount && !recents.Contains(version))
-			recents.Add(version);
+		#region Gates
+		
+		if(!_versionSelectTargetBible)
+		{
+			if(isVersionExists_UpdateScrollPosition())
+				return;
+			
+			_versionSelectTargetBible = CreateBibleInstance(version);
+			hasCreatedNewInstance = true;
+		}
+		
+		else if(_versionSelectTargetBible.version == version)
+		{
+			NullifyVersionSelectTargetBible();
+			return;
+		}
+		
+		if(isVersionExists_UpdateScrollPosition())
+		{
+			NullifyVersionSelectTargetBible();
+			return;
+		}
+		
+		#endregion
 		
 		StartCoroutine(r());
+		
+		#region Sub Methods
+		
+		bool isVersionExists_UpdateScrollPosition()
+		{
+			bool output = BibleInstances.TryFindIndex(instance => instance.version == version, out int index);
+			
+			if(output)
+			{
+				float scrollPosition = Mathf.InverseLerp(0, BibleInstances.Count - 1, index);
+				StartCoroutine(updateScrollPosition(scrollPosition, BibleInstances[index].Glow));
+			}
+			
+			return output;
+		}
+		
 		IEnumerator r()
 		{
+			_versionSelectTargetBible.SetVersion(version);
+			_versionSelect.AddRecents(version);
+			
 			yield return null;
 			_versionSelectTargetBible.UpdateContents();
 			
 			yield return null;
-			UpdateBibleContents();
 			
-			_versionSelectTargetBible = null;
+			UpdateBibleContents();
+			NullifyVersionSelectTargetBible();
+			
+			if(hasCreatedNewInstance)
+			{
+				var instance = BibleInstances[BibleInstances.Count - 1];
+				yield return updateScrollPosition(1f, instance.Glow);
+			}
+			else
+			{
+				yield return new WaitWhile(()=> IsLoadingContent);
+				
+				var instance = BibleInstances.Find(instance => instance.version == version);
+					instance.Glow.SetActive(true);
+			}
 		}
-	}
-	
-	public void ToggleVersionSelectFoldout_Recent() => ToggleVersionSelectFoldout(ref _verSelectIsExpanded_Recent, ref _verSelectItemInstances_Recent, _verSelectSeparator_Recents);
-	public void ToggleVersionSelectFoldout_Favorites() => ToggleVersionSelectFoldout(ref _verSelectIsExpanded_Favorites, ref _verSelectItemInstances_Favorites, _verSelectSeparator_Favorites);
-	public void ToggleVersionSelectFoldout_All() => ToggleVersionSelectFoldout(ref _verSelectIsExpanded_All, ref _verSelectItemInstances_All, _verSelectSeparator_All);
-	
-	public void ToggleVersionSelectFoldout(ref bool isExpanded, ref List<VersionSelectItem> instances, GameObject gameObject)
-	{
-		isExpanded = !isExpanded;
 		
-		foreach(var instance in  instances)
-			instance.gameObject.SetActive(isExpanded);
-		
-		UpdateVersionSelectFoldoutGpx(isExpanded, gameObject.transform);
-	}
-	
-	private void UpdateVersionSelectFoldoutGpx(bool isExpanded, Transform target)
-	{
-		float gpxAngle = isExpanded? 0f: 90f;
-		
-		var arrow = target.GetChild(0);
-			arrow.eulerAngles = Vector3.forward * gpxAngle;
-	}
-	
-	public void AddFavoriteVersion(Version version, bool isAdding)
-	{
-		if(isAdding)
+		IEnumerator updateScrollPosition(float normalizedPosition, GameObject glow)
 		{
-			if(!favorites.Contains(version))
-				favorites.Add(version);
-		}
-		else
-		{
-			if(favorites.Contains(version))
-				favorites.Remove(version);
+			var position = new Vector2
+			(
+				normalizedPosition,
+				_mainScroll.normalizedPosition.y
+			);
+			
+			yield return _mainScroll.SetPositionRoutine(position, 0.75f);
+			
+			glow.SetActive(true);
 		}
 		
-		UpdateVersionSelectList();
+		#endregion
 	}
+	
+	public void NullifyVersionSelectTargetBible() => _versionSelectTargetBible = null;
+	
+	#endregion
 	
 	public void OnScroll(Vector2 value)
 	{
@@ -344,7 +307,7 @@ public class GameManager : MonoBehaviour
 		{
 			if(!_appearHud_OneFrameGate)
 			{
-				_hudAnimation.Play("hudAppear");
+				Array.ForEach(_hudAnimations, animation => animation.Play("hudAppear"));
 				_appearHud_OneFrameGate = true;
 			}
 			
@@ -356,8 +319,7 @@ public class GameManager : MonoBehaviour
 		{
 			if(!_appearHud_OneFrameGate)
 			{
-				_hudAnimation.Play("hudAppear");
-				// _hudAnimation.gameObject.SetActive(true);
+				Array.ForEach(_hudAnimations, animation => animation.Play("hudAppear"));
 				_appearHud_OneFrameGate = true;
 			}
 			
@@ -368,7 +330,7 @@ public class GameManager : MonoBehaviour
 		{
 			if(_appearHud_OneFrameGate)
 			{
-				_hudAnimation.Play("hudDisappear");
+				Array.ForEach(_hudAnimations, animation => animation.Play("hudDisappear"));
 				_appearHud_OneFrameGate = false;
 			}
 			
@@ -406,6 +368,17 @@ public class GameManager : MonoBehaviour
 		}
 		
 		UpdateBibleContents();
+		UpdateTabText();
+	}
+	
+	[ContextMenu("Test")]
+	public void Test()
+	{
+		int bookIndex = UnityEngine.Random.Range(0, 66);
+		int chapterCount = GeneralInfo.bookChapterVerseInfos[bookIndex].chaptersAndVerses.Length;
+		int chapterIndex = UnityEngine.Random.Range(0, chapterCount);
+		
+		NavigateTo(bookIndex, chapterIndex);
 	}
 	
 	public void NavigateTo(int bookIndex, int chapterIndex)
@@ -414,8 +387,24 @@ public class GameManager : MonoBehaviour
 		CurrentChapterIndex = chapterIndex;
 		
 		UpdateBibleContents();
-		
 		_mainScroll.verticalNormalizedPosition = 1;
+		
+		// TABS
+		UpdateTabText();
+		
+		_tabs.ForEach(tab => tab.SetHighlight(false));
+		_tabs[_currentTabIndex].SetHighlight(true);
+		
+		_tabs[_currentTabIndex].bookIndex = bookIndex;
+		_tabs[_currentTabIndex].chapterIndex = chapterIndex;
+	}
+	
+	public void PreviewBookInfo(Book book)
+	{
+		string bookName = string.IsNullOrEmpty(book.fancyName)? book.Name: book.fancyName;
+		string title = $"<b>[{book.version.NameCode}]</b> {bookName}";
+		
+		_bookInfoPanel.Show(book.description, title);
 	}
 	
 	public void ShowVerseCommentPopup(Version version, int index, int commentIndex, Vector3 position)
@@ -430,18 +419,8 @@ public class GameManager : MonoBehaviour
 			transform.gameObject.SetActive(true);
 	}
 	
-	public void OnVerseSelect(VerseUI2 verseUI/* , Version version */)
+	public void OnVerseSelect(VerseUI2 verseUI)
 	{
-		/* if(SelectedVerses.TryFindIndex(selected => selected.Compare(verseUI.Index, version), out int selectedIndex))
-		{
-			verseUI.OnSelectionHighlight(false);
-			SelectedVerses.RemoveAt(selectedIndex);
-		}
-		else
-			SelectedVerses.Add(new SelectedVerse(verseUI, version));
-		
-		SelectedVerses.ForEach(selected => selected.verseUI.OnSelectionHighlight(true)); */
-		
 		if(SelectedVerses.Contains(verseUI, out int index))
 		{
 			verseUI.OnSelectionHighlight(false);
@@ -452,10 +431,92 @@ public class GameManager : MonoBehaviour
 		
 		SelectedVerses.ForEach(selected => selected.OnSelectionHighlight(true));
 		_verseOptions.SetActive(SelectedVerses.Count > 0);
+		
+		onVerseSelectUpdate?.Invoke();
 	}
 	
 	public void Reposition_Start(Transform transform) => _repositionOffset = transform.position - Input.mousePosition;
 	public void Reposition(Transform transform) => transform.position = Input.mousePosition + _repositionOffset;
+	
+	public BibleUI2 GetActiveBible()
+	{
+		int index = Mathf.RoundToInt(Mathf.Lerp(0, BibleInstances.Count - 1, _mainScroll.horizontalNormalizedPosition));
+		return BibleInstances[index];
+	}
+	
+	public void AddTab(int bookIndex, int chapterIndex)
+	{
+		StartCoroutine(r());
+		IEnumerator r()
+		{
+			var templateT = _tabTemplate.transform;
+			
+			_tabTemplate.SetActive(true);
+			
+			var tab = Instantiate(_tabTemplate, templateT.parent, false);
+			var txt = tab.GetComponentInChildren<Text>();
+			
+			var info = new Tab()
+			{
+				gameObject = tab,
+				txt = txt,
+				bookIndex = bookIndex,
+				chapterIndex = chapterIndex
+			};
+			
+			_tabs.Add(info);
+			_currentTabIndex = _tabs.Count - 1;
+			
+			_tabTemplate.SetActive(false);
+			templateT.SetAsLastSibling();
+			
+			yield return null;
+			
+			_tabsScroll.horizontalNormalizedPosition = 1f;
+			NavigateTo(bookIndex, chapterIndex);
+			
+			yield return new WaitWhile(()=> IsLoadingContent);
+			
+			var glow = tab.transform.GetChild(0).GetChild(0);
+				glow.gameObject.SetActive(true);
+		}
+	}
+	
+	private void UpdateTabText()
+	{
+		var tab = _tabs[_currentTabIndex];
+			tab.txt.text = $"{GeneralInfo.bookChapterVerseInfos[CurrentBookIndex].name} {CurrentChapterIndex + 1}";
+	}
+	
+	public void OnTabSelect(Transform transform) => OnTabSelect(transform.GetSiblingIndex());
+	
+	public void OnTabSelect(int index)
+	{
+		_currentTabIndex = index % _tabs.Count;
+		var tab = _tabs[_currentTabIndex];
+		
+		NavigateTo(tab.bookIndex, tab.chapterIndex);
+	}
+	
+	public void RemoveTab(Transform transform)
+	{
+		if(_tabs.Count == 1)
+			return;
+		
+		int index = transform.GetSiblingIndex();
+		bool isActive = index == _currentTabIndex;
+		
+		var tab = _tabs[index];
+		
+		Destroy(tab.gameObject);
+		_tabs.RemoveAt(index);
+		
+		if(isActive)
+			OnTabSelect(index);
+		
+		else
+			_currentTabIndex = index % _tabs.Count;
+	}
 	
 	public class Collection
 	{
@@ -463,20 +524,19 @@ public class GameManager : MonoBehaviour
 		public List<Version> versions;
 	}
 	
-	/* [System.Serializable]
-	public class SelectedVerse
+	public class Tab
 	{
-		public VerseUI2 verseUI;
-		public Version version;
+		public GameObject gameObject;
+		public Text txt;
+		public int bookIndex;
+		public int chapterIndex;
 		
-		public SelectedVerse(VerseUI2 verseUI, Version version)
+		public void SetHighlight(bool isHighlighted)
 		{
-			this.verseUI = verseUI;
-			this.version = version;
+			var highlight = gameObject.transform.GetChild(0);
+				highlight.gameObject.SetActive(isHighlighted);
 		}
-		
-		public bool Compare(int index, Version version) =>	index == verseUI.Index && version == this.version;
-	} */
+	}
 }
 
 public enum ScreenOrientation { Vertical, Horizontal }

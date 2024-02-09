@@ -10,6 +10,8 @@ public class BibleUI2 : MonoBehaviour
 	public Version version;
 	
 	[SerializeField] private TMP_Text _chapterTmp;
+	[SerializeField] private GameObject _bookInfoButton;
+	
 	[SerializeField] private VerseUI2 _verseTemplate;
 	
 	[HideInInspector]
@@ -18,15 +20,15 @@ public class BibleUI2 : MonoBehaviour
 	[SerializeField] private Transform _header;
 	[SerializeField] private Transform _headerClampTarget;
 	
+	[field: SerializeField]
+	public GameObject Glow { get; private set; }
+	
 	[SerializeField] private TMP_Text _versionTmp;
 	// [SerializeField] private TMP_Dropdown _options;
 	
 	[Space]
 	[SerializeField] private RectTransform _rectTransform;
 	[SerializeField] private RectTransform _body;
-	
-	[field: SerializeField, FormerlySerializedAs("_cover")]
-	public GameObject Cover { get; private set; }
 	
 	[Space]
 	[SerializeField] private float _headSizeOffset = 40f;
@@ -41,9 +43,10 @@ public class BibleUI2 : MonoBehaviour
 	
 	IEnumerator Start()
 	{
-		Cover.SetActive(true);
-		
 		_mgr = GameManager.Instance;
+		_mgr.BibleInstances.Add(this);
+		_mgr.MainContentLoadingOverlay.SetActive(true);
+		
 		yield return new WaitUntil(()=> _mgr.Started);
 		
 		var sizeDelta = _rectTransform.sizeDelta;
@@ -56,7 +59,9 @@ public class BibleUI2 : MonoBehaviour
 		_rectTransform.sizeDelta = sizeDelta;
 		
 		yield return null;
-		Cover.SetActive(false);
+		
+		if(!_mgr.IsLoadingContent)
+			_mgr.MainContentLoadingOverlay.SetActive(false);
 	}
 	
 	void LateUpdate()
@@ -72,6 +77,11 @@ public class BibleUI2 : MonoBehaviour
 		_header.position = new Vector3(_header.position.x, positionY, _header.position.z);
 	}
 	
+	void OnDestroy()
+	{
+		_mgr.BibleInstances.Remove(this);
+	}
+	
 	[ContextMenu("Update Contents")]
 	public void UpdateContents()
 	{
@@ -84,34 +94,36 @@ public class BibleUI2 : MonoBehaviour
 		int chapterIndex = _mgr.CurrentChapterIndex;
 		
 		var book = version.Books[bookIndex];
-		// _versionTmp.text = $"<b>[{version.NameCode}]</b>";
+		
 		_versionTmp.text = version.Name;
+		_chapterTmp.text = "";
 		
 		if(!book) return;
 		
 		var chapter = book.chapters[chapterIndex];
 		
-		// _versionTmp.text += $" {book.Name} {chapterIndex + 1}";
-		
-		string bookName = book.fancyName;
+		bool isFirstChapter = chapterIndex == 0;
+		string bookName = isFirstChapter? book.fancyName: book.Name;
 		
 		if(string.IsNullOrEmpty(bookName))
 			bookName = book.Name;
 		
-		_chapterTmp.text = $"<size={_chapterTmp.fontSize * 2f}>{chapterIndex + 1}</size>\n{bookName}";
+		_chapterTmp.text += $"\n<size={_chapterTmp.fontSize * 2f}>{chapterIndex + 1}</size>\n{bookName}\n\n";
+		
+		bool hasBookDescription = isFirstChapter && !string.IsNullOrEmpty(book.description);
+		_bookInfoButton.SetActive(hasBookDescription);
 		
 		_verseTemplate.gameObject.SetActive(true);
 		{
 			int index = 0;
-			
 			Verse previousVerse = null;
-			_verseTemplate.bible = this;
 			
 			foreach(var verse in chapter.verses)
 			{
 				bool isDuplicated = previousVerse != null? verse.number == previousVerse.number: false;
 				
 				var instance = _verseTemplate.Create(index ++, verse, isDuplicated);
+					instance.bible = this;
 				
 				_verseInstances.Add(instance);
 				previousVerse = verse;
@@ -177,56 +189,11 @@ public class BibleUI2 : MonoBehaviour
 		UpdateContents();
 	}
 	
-	/* public void OnOptionsOpen()
+	public void OnBookInfoClick()
 	{
-		_options.ClearOptions();
-		
-		var options = new List<TMP_Dropdown.OptionData>();
-		var _mgr = _mgr;
-		
-		foreach(var option in _mgr.BibleOptionsDefaultList)
-			options.Add(option);
-		
-		int recents = _mgr.recents.Count;
-		
-		if(recents > 0)
-		{
-			var recent = _mgr.recents[recents - 1];
-			options.Add(new TMP_Dropdown.OptionData(recent.NameCode, _mgr.RecentIcon));
-		}
-		
-		foreach(var favorite in _mgr.favorites)
-			options.Add(new TMP_Dropdown.OptionData(favorite.NameCode, _mgr.FavoritesIcon));
-		
-		_options.AddOptions(options);
+		var bookInfo = version.Books[_mgr.CurrentBookIndex];
+		_mgr.PreviewBookInfo(bookInfo);
 	}
-	
-	public void OnOptionsSelect()
-	{
-		StartCoroutine(r());
-		IEnumerator r()
-		{
-			int index = _options.value;
-			_options.Hide();
-			
-			yield return new WaitForSeconds(0.15f);
-			
-			switch(index)
-			{
-				case 0:
-					var newInstance = Instantiate(gameObject, transform.parent, false);
-					int myIndex = transform.GetSiblingIndex();
-					
-					newInstance.transform.SetSiblingIndex(myIndex + 1);
-					
-					break;
-				
-				case 1:
-					Destroy(gameObject);
-					break;
-			}
-		}
-	} */
 	
 	public void OnDelete() => Destroy(gameObject);
 }

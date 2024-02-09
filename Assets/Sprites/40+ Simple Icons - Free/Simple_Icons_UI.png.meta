@@ -848,7 +848,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1416
         y: 208
-        width: 52
+        width: 113
         height: 86
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -859,48 +859,6 @@ TextureImporter:
       bones: []
       spriteID: a470f63c939bb0d4e920b0306a061c50
       internalID: -266794997
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simple_Icons_UI_37
-      rect:
-        serializedVersion: 2
-        x: 1474
-        y: 218
-        width: 26
-        height: 66
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 33dae7b8ab23e7a4c919e47ff190fa96
-      internalID: 669774926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simple_Icons_UI_38
-      rect:
-        serializedVersion: 2
-        x: 1495
-        y: 208
-        width: 32
-        height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4038fac23b6aaad4d83d2e19b2a4f087
-      internalID: 44280053
       vertices: []
       indices: 
       edges: []
@@ -1136,9 +1094,9 @@ TextureImporter:
       Simple_Icons_UI_50: -1936874240
       Simple_Icons_UI_59: 1711603843
       Simple_Icons_UI_13: -1269384785
-      Simple_Icons_UI_45: -1579372762
-      Simple_Icons_UI_6: -145746111
       Simple_Icons_UI_57: 399693323
+      Simple_Icons_UI_6: -145746111
+      Simple_Icons_UI_45: -1579372762
       Simple_Icons_UI_19: 637246163
       Simple_Icons_UI_14: -1215813254
       Simple_Icons_UI_32: 498315812
