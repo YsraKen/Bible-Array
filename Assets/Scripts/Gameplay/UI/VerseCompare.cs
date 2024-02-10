@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
+using System.Text.RegularExpressions;
 
 public class VerseCompare : MonoBehaviour
 {
@@ -16,7 +17,7 @@ public class VerseCompare : MonoBehaviour
 	public Sprite recentIcon;
 	public Sprite favoriteIcon;
 	
-	public VerseOptionsPanel mainPanel;
+	public GameObject copyPopup;
 	
 	public void Show(List<VerseUI2> selections)
 	{
@@ -53,6 +54,21 @@ public class VerseCompare : MonoBehaviour
 	
 	public void CopyAll()
 	{
-		mainPanel.CopyElements(selectedVerses);
+		var mgr = GameManager.Instance;
+		int bookIndex = mgr.CurrentBookIndex;
+		int chapterIndex = mgr.CurrentChapterIndex;
+		
+		string text =$"{mgr.GeneralInfo.bookChapterVerseInfos[bookIndex].name} {chapterIndex + 1}";
+		
+		foreach(var item in items)
+			text += $"\n\n[{item.version.NameCode}]\n{item.text}";
+		
+		string pattern = @"<[^>]+>";
+        text = Regex.Replace(text, pattern, "");
+		
+		GUIUtility.systemCopyBuffer = text;
+		Debug.Log(text, this);
+		
+		copyPopup.SetActive(true);
 	}
 }

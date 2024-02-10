@@ -116,14 +116,23 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 			if(currentBgHex == bgHex && currentLetterHex == letterHex)
 			{
 				_isMarked = false;
+				
+				DeleteSavedData();
 				return;
 			}
 		}
 		
+		SetMark(tagOpen, tagClose);
+	}
+	
+	public void SetMark(string tagOpen, string tagClose)
+	{
 		_mainTmp.text = _mainTmp.text.Insert(0, tagOpen);
 		_mainTmp.text += tagClose;
 		
 		_isMarked = true;
+		
+		SaveData(tagOpen, tagClose);
 	}
 	
 	public void RemoveMark(string tmpFontName)
@@ -133,5 +142,56 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 		
 		_mainTmp.text = _mainTmp.text.Remove(0, tagOpen.Length);
 		_mainTmp.text = _mainTmp.text.Remove(_mainTmp.text.Length - tagClose.Length - 1, tagClose.Length);
+		
+		DeleteSavedData();
+	}
+	
+	public void LoadData()
+	{
+		string key = GetSaveKey();
+		string key1 = key + "open"; 
+		string key2 = key + "close"; 
+		
+		string tagOpen = "";
+		string tagClose = "";
+		
+		bool hasKey1 = PlayerPrefs.HasKey(key1);
+		bool hasKey2 = PlayerPrefs.HasKey(key2);
+		
+		if(hasKey1)
+			tagOpen = PlayerPrefs.GetString(key1);
+		
+		if(hasKey2)
+			tagClose = PlayerPrefs.GetString(key2);
+		
+		if(hasKey1 && hasKey2)
+			SetMark(tagOpen, tagClose);
+	}
+	
+	void SaveData(string tagOpen, string tagClose)
+	{
+		string key = GetSaveKey();
+		
+		PlayerPrefs.SetString(key + "open", tagOpen);
+		PlayerPrefs.SetString(key + "close", tagClose);
+	}
+	
+	void DeleteSavedData()
+	{
+		string key = GetSaveKey();
+		
+		PlayerPrefs.DeleteKey(key + "open");
+		PlayerPrefs.DeleteKey(key + "close");
+	}
+	
+	string GetSaveKey()
+	{
+		var version = bible.version;
+		var book = version.Books[GameManager.Instance.CurrentBookIndex];
+		int chapterIndex = GameManager.Instance.CurrentChapterIndex;
+		
+		string value = $"VerseData-{bible.version.NameCode}-{book.nickname}{chapterIndex}:{Index}";
+		
+		return value;
 	}
 }

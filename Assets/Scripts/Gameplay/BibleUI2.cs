@@ -124,6 +124,7 @@ public class BibleUI2 : MonoBehaviour
 				
 				var instance = _verseTemplate.Create(index ++, verse, isDuplicated);
 					instance.bible = this;
+					instance.LoadData();
 				
 				_verseInstances.Add(instance);
 				previousVerse = verse;
