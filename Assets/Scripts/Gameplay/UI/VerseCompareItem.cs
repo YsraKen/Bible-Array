@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using System.Collections.Generic;
 
 public class VerseCompareItem : MonoBehaviour
 {
@@ -51,18 +52,15 @@ public class VerseCompareItem : MonoBehaviour
 		
 		void onSelect(Version newVersion)
 		{
-			bool isVersionFromDefault = panel.defaultItem.version == newVersion;
-			bool isVersionFromItems = panel.items.TryFindIndex(item => item.version == newVersion, out int existIndex);
+			var items = new List<VerseCompareItem>(panel.items);
+				items.Insert(0, panel.defaultItem);
 			
-			if(isVersionFromDefault || isVersionFromItems)
+			if(items.TryFindIndex(item => item.version == newVersion, out int existIndex))
 			{
-				if(existIndex != -1)
-				{
-					var scrollPosition = isVersionFromDefault? 1: Mathf.InverseLerp(panel.items.Count - 1, 0, existIndex);
-					var item = isVersionFromDefault?  panel.defaultItem: panel.items[existIndex];
-					
-					panel.scroll.SetPosition(Vector2.up * scrollPosition, 0.5f, ()=> item.highlighter.SetActive(true));
-				}
+				var scrollPosition = Mathf.InverseLerp(items.Count - 1, 0, existIndex);
+				var item = items[existIndex];
+				
+				panel.scroll.SetPosition(Vector2.up * scrollPosition, 0.5f, ()=> item.highlighter.SetActive(true));
 				
 				return;
 			}
@@ -70,7 +68,7 @@ public class VerseCompareItem : MonoBehaviour
 			version = newVersion;
 			UpdateContent();
 			
-			highlighter.SetActive(true);
+			panel.scroll.SetPosition(Vector2.zero, 0.3f, ()=> highlighter.SetActive(true));
 		}
 	}
 	

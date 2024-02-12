@@ -122,23 +122,24 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 			}
 		}
 		
-		SetMark(tagOpen, tagClose);
+		SetMark(tagOpen);
 	}
 	
-	public void SetMark(string tagOpen, string tagClose)
+	public void SetMark(string tagOpen, bool saveData = true)
 	{
 		_mainTmp.text = _mainTmp.text.Insert(0, tagOpen);
-		_mainTmp.text += tagClose;
+		_mainTmp.text += UserData.highlightClose;
 		
 		_isMarked = true;
 		
-		SaveData(tagOpen, tagClose);
+		if(saveData)
+			SaveData(tagOpen);
 	}
 	
 	public void RemoveMark(string tmpFontName)
 	{
 		string tagOpen = $"<font={quot}{tmpFontName}{quot}><mark=#000000FF><color=#000000FF>";
-		string tagClose = "</color></mark></font>";
+		string tagClose = UserData.highlightClose;
 		
 		_mainTmp.text = _mainTmp.text.Remove(0, tagOpen.Length);
 		_mainTmp.text = _mainTmp.text.Remove(_mainTmp.text.Length - tagClose.Length - 1, tagClose.Length);
@@ -146,42 +147,31 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 		DeleteSavedData();
 	}
 	
+	#region DataManagent
+	
 	public void LoadData()
 	{
 		string key = GetSaveKey();
-		string key1 = key + "open"; 
-		string key2 = key + "close"; 
 		
-		string tagOpen = "";
-		string tagClose = "";
-		
-		bool hasKey1 = PlayerPrefs.HasKey(key1);
-		bool hasKey2 = PlayerPrefs.HasKey(key2);
-		
-		if(hasKey1)
-			tagOpen = PlayerPrefs.GetString(key1);
-		
-		if(hasKey2)
-			tagClose = PlayerPrefs.GetString(key2);
-		
-		if(hasKey1 && hasKey2)
-			SetMark(tagOpen, tagClose);
+		if(PlayerPrefs.HasKey(key))
+		{
+			var userData = SaveManager.Load<UserData>(key);
+			SetMark(userData.highlightOpen, false);
+		}
 	}
 	
-	void SaveData(string tagOpen, string tagClose)
+	void SaveData(string highlightOpen)
 	{
+		var userData = new UserData(){ highlightOpen = highlightOpen };
 		string key = GetSaveKey();
 		
-		PlayerPrefs.SetString(key + "open", tagOpen);
-		PlayerPrefs.SetString(key + "close", tagClose);
+		SaveManager.Save(userData, key);
 	}
 	
 	void DeleteSavedData()
 	{
-		string key = GetSaveKey();
-		
-		PlayerPrefs.DeleteKey(key + "open");
-		PlayerPrefs.DeleteKey(key + "close");
+		string key = GetSaveKey();		
+		PlayerPrefs.DeleteKey(key);
 	}
 	
 	string GetSaveKey()
@@ -194,4 +184,13 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 		
 		return value;
 	}
+	
+	[System.Serializable]
+	public class UserData
+	{
+		public string highlightOpen;
+		
+		public const string highlightClose = "</color></mark></font>";
+	}
+	#endregion
 }

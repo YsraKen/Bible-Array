@@ -35,8 +35,31 @@ public class VersionSelectPanel : MonoBehaviour
 	
 	private Version _onFinishTargetItem;
 	
+	bool _started;
+	
+	#region Unity
+	
+	void Start()
+	{
+		if(SaveManager.TryLoad<UserData>("VersionSelect", out var userData))
+		{
+			recents.Clear();
+			favorites.Clear();
+			
+			var mgr = GameManager.Instance;
+			
+			Array.ForEach(userData.recentVersionIndexes, index => recents.Add(mgr.Versions[index]));
+			Array.ForEach(userData.favoriteVersionIndexes, index => favorites.Add(mgr.Versions[index]));
+		}
+		
+		_started = true;
+		OnEnable();
+	}
+	
 	void OnEnable()
 	{
+		if(!_started) return;
+		
 		if(_originalSize == Vector2.zero)
 			_originalSize = panel.sizeDelta;
 	
@@ -47,7 +70,37 @@ public class VersionSelectPanel : MonoBehaviour
 			size.x = screenWidth;
 		
 		panel.sizeDelta = size;
+		
+		UpdateList();
 	}
+	
+	// void OnApplicationQuit()
+	void OnDisable()
+	{
+		int recentCount = recents.Count;
+		int favoriteCount = favorites.Count;
+		
+		var recentVersionIndexes = new int[recentCount];
+		var favoriteVersionIndexes = new int[favoriteCount];
+		
+		var mgr = GameManager.Instance;
+		
+		for(int i = 0; i < recentCount; i++)
+			recentVersionIndexes[i] = Array.FindIndex(mgr.Versions, version => version == recents[i]);
+		
+		for(int i = 0; i < favoriteCount; i++)
+			favoriteVersionIndexes[i] = Array.FindIndex(mgr.Versions, version => version == favorites[i]);
+		
+		var data = new UserData()
+		{
+			recentVersionIndexes = recentVersionIndexes,
+			favoriteVersionIndexes = favoriteVersionIndexes
+		};
+		
+		SaveManager.Save<UserData>(data, "VersionSelect");
+	}
+	
+	#endregion
 	
 	public void StartSelection(Action<Version> onFinish)
 	{
@@ -56,7 +109,6 @@ public class VersionSelectPanel : MonoBehaviour
 		StartCoroutine(r());
 		IEnumerator r()
 		{
-			UpdateList();
 			yield return new WaitUntil(()=> _onFinishTargetItem);
 			
 			onFinish(_onFinishTargetItem);
@@ -179,5 +231,12 @@ public class VersionSelectPanel : MonoBehaviour
 		}
 		
 		UpdateList();
+	}
+	
+	[System.Serializable]
+	public class UserData
+	{
+		public int[] recentVersionIndexes;
+		public int[] favoriteVersionIndexes;
 	}
 }
