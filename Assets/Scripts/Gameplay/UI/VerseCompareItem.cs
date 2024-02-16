@@ -48,9 +48,9 @@ public class VerseCompareItem : MonoBehaviour
 	
 	public void OnVersionSelect()
 	{
-		panel.versionSelect.StartSelection(onSelect);
+		panel.versionSelect.StartSelection(onConfirm, onCancel);
 		
-		void onSelect(Version newVersion)
+		void onConfirm(Version newVersion)
 		{
 			var items = new List<VerseCompareItem>(panel.items);
 				items.Insert(0, panel.defaultItem);
@@ -69,6 +69,15 @@ public class VerseCompareItem : MonoBehaviour
 			UpdateContent();
 			
 			panel.scroll.SetPosition(Vector2.zero, 0.3f, ()=> highlighter.SetActive(true));
+		}
+		
+		void onCancel()
+		{
+			var items = new List<VerseCompareItem>(panel.items);
+				items.Insert(0, panel.defaultItem);
+			
+			if(items.Exists(item => item != this && item.version == version))
+				panel.DeleteItem(this);
 		}
 	}
 	

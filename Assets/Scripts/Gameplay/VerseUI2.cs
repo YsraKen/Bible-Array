@@ -9,6 +9,10 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 	[SerializeField] private TMP_Text _mainTmp;
 	[SerializeField] private TMP_Text _foreTmp;
 	
+	private string _content;
+	private string _bgHex;
+	private string _letterHex;
+	
 	[SerializeField] private GameObject _selectBorderHighlight;
 	[SerializeField] private char quot;
 	
@@ -23,14 +27,18 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 		var instance = Instantiate(this, transform.parent, false);
 		
 		instance.Index = index;
-		instance._mainTmp.text = "";
+		// instance._mainTmp.text = "";
+		instance._content = "";
 		
 		if(isEmpty) return instance;
 		
 		if(!string.IsNullOrEmpty(verse.title))
-			instance._mainTmp.text += $"<size={instance._mainTmp.fontSize * 1.15f}><b>{verse.title}</b></size>\n\n";
+			// instance._mainTmp.text += $"<size={instance._mainTmp.fontSize * 1.15f}><b>{verse.title}</b></size>\n\n";
+			instance._content += $"<size={instance._mainTmp.fontSize * 1.15f}><b>{verse.title}</b></size>\n\n";
 		
-		instance._mainTmp.text += GetMainContent(verse, _mainTmp.fontSize);
+		// instance._mainTmp.text += GetMainContent(verse, _mainTmp.fontSize);
+		instance._content += GetMainContent(verse, _mainTmp.fontSize);
+		instance._mainTmp.text = instance._content;
 		
 		return instance;
 	}
@@ -98,12 +106,34 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 			_selectBorderHighlight?.SetActive(isHighlighted);
 	}
 	
-	public void SetMark(string tmpFontName, string bgHex, string letterHex)
+	public void SetMark(/* string tmpFontName,  */string bgHex, string letterHex, bool saveData = true)
 	{
 		// string hex = ColorUtility.ToHtmlStringRGBA(color);
 		
-		string tagOpen = $"<font={quot}{tmpFontName}{quot}><mark=#{bgHex}><color=#{letterHex}>";
-		string tagClose = "</color></mark></font>";
+		_mainTmp.text = $"<mark=#{bgHex}>{_content}</mark>";
+		_foreTmp.text = $"<color=#{letterHex}>{_content}</color>";
+		
+		if(_isMarked && (bgHex == _bgHex && letterHex == _letterHex))
+		{
+			_mainTmp.text = _content;
+			_foreTmp.text = "";
+		
+			DeleteSavedData();
+			
+			_isMarked = false;
+			return;
+		}
+		
+		_bgHex = bgHex;
+		_letterHex = letterHex;
+		
+		_isMarked = true;
+		
+		if(saveData)
+			SaveData();
+		
+		/* // string tagOpen = $"<font={quot}{tmpFontName}{quot}><mark=#{bgHex}><color=#{letterHex}>";
+		// string tagClose = "</color></mark></font>";
 		
 		if(_isMarked)
 		{
@@ -116,17 +146,20 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 			if(currentBgHex == bgHex && currentLetterHex == letterHex)
 			{
 				_isMarked = false;
+				// _foreTmp.text = "";
 				
 				DeleteSavedData();
 				return;
 			}
 		}
 		
-		SetMark(tagOpen);
+		SetMark(tagOpen); */
 	}
 	
-	public void SetMark(string tagOpen, bool saveData = true)
+	/* public void SetMark(string tagOpen, bool saveData = true)
 	{
+		// _foreTmp.text = _mainTmp.text;
+		
 		_mainTmp.text = _mainTmp.text.Insert(0, tagOpen);
 		_mainTmp.text += UserData.highlightClose;
 		
@@ -134,7 +167,7 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 		
 		if(saveData)
 			SaveData(tagOpen);
-	}
+	} */
 	
 	public void RemoveMark(string tmpFontName)
 	{
@@ -156,13 +189,21 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 		if(PlayerPrefs.HasKey(key))
 		{
 			var userData = SaveManager.Load<UserData>(key);
-			SetMark(userData.highlightOpen, false);
+			// SetMark(userData.highlightOpen, false);
+			SetMark(userData.bgHex, userData.letterHex, false);
 		}
 	}
 	
-	void SaveData(string highlightOpen)
+	// void SaveData(string highlightOpen)
+	void SaveData()
 	{
-		var userData = new UserData(){ highlightOpen = highlightOpen };
+		// var userData = new UserData(){ highlightOpen = highlightOpen };
+		var userData = new UserData()
+		{
+			bgHex = _bgHex,
+			letterHex = _letterHex
+		};
+		
 		string key = GetSaveKey();
 		
 		SaveManager.Save(userData, key);
@@ -188,9 +229,13 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 	[System.Serializable]
 	public class UserData
 	{
+		public string bgHex;
+		public string letterHex;
+		
 		public string highlightOpen;
 		
 		public const string highlightClose = "</color></mark></font>";
+		// public const string highlightClose = "</mark>";
 	}
 	#endregion
 }

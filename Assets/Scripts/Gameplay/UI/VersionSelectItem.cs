@@ -7,7 +7,7 @@ public class VersionSelectItem : MonoBehaviour
 	[SerializeField] TMP_Text _tmp;
 	[SerializeField] Toggle _favToggle;
 	
-	private Version target;
+	public Version Target { get; private set; }
 	
 	private VersionSelectPanel _panel;
 	private VersionSelectPanel panel
@@ -21,14 +21,14 @@ public class VersionSelectItem : MonoBehaviour
 		}
 	}
 	
-	public void Setup(Version target, bool isFavorite = false)
+	public void Setup(Version Target, bool isFavorite = false)
 	{
-		this.target = target;		
-		_tmp.text = $"{target.Name} ({target.NameCode})";
+		this.Target = Target;
+		_tmp.text = $"{Target.Name} ({Target.NameCode})";
 		
 		_favToggle.SetIsOnWithoutNotify(isFavorite);
 	}
 	
-	public void OnSelect() => panel.OnItemSelected(target);
-	public void AddToFavorites(bool isAdding) => panel.AddFavoriteVersion(target, isAdding);
+	public void OnSelect() => panel.OnItemSelected(Target);
+	public void AddToFavorites(bool isAdding) => panel.AddFavoriteVersion(Target, isAdding);
 }

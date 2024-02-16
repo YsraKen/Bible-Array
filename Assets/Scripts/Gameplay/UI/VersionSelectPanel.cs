@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class VersionSelectPanel : MonoBehaviour
 {
@@ -14,6 +15,13 @@ public class VersionSelectPanel : MonoBehaviour
 	[SerializeField] private GameObject _separator_Favorites;
 	[SerializeField] private GameObject _separator_All;
 	
+	[Space]
+	[SerializeField] private TMP_InputField _searchInput;
+	[SerializeField] private RectTransform _searchField;
+	[SerializeField] private Vector2 _searchFieldVerticalSizes = new Vector2(50, 80);
+	[SerializeField] private GameObject _searchOptions;
+	[SerializeField] private VerticalLayoutGroup _body;
+	
 	[HideInInspector]
 	public List<Version>
 		recents = new List<Version>(),
@@ -22,7 +30,8 @@ public class VersionSelectPanel : MonoBehaviour
 	private List<VersionSelectItem>
 		_instances_Recent = new List<VersionSelectItem>(),
 		_instances_Favorites = new List<VersionSelectItem>(),
-		_instances_All = new List<VersionSelectItem>();
+		_instances_All = new List<VersionSelectItem>(),
+		_instances_SearchMsc = new List<VersionSelectItem>();
 	
 	private bool _isExpanded_Recent = true;
 	private bool _isExpanded_Favorites;
@@ -34,6 +43,12 @@ public class VersionSelectPanel : MonoBehaviour
 	private Vector2 _originalSize;
 	
 	private Version _onFinishTargetItem;
+	private Action _onCancel;
+	
+	private bool _isSearchModeActive;
+	private Coroutine _searchRoutine;
+	private string _searchInputValue;
+	private bool _searchForSelectedLanguageOnly = true;
 	
 	bool _started;
 	
@@ -77,6 +92,11 @@ public class VersionSelectPanel : MonoBehaviour
 	// void OnApplicationQuit()
 	void OnDisable()
 	{
+		if(_isSearchModeActive)
+			CancelSearchMode();
+		
+		_onCancel?.Invoke();
+		
 		int recentCount = recents.Count;
 		int favoriteCount = favorites.Count;
 		
@@ -102,8 +122,11 @@ public class VersionSelectPanel : MonoBehaviour
 	
 	#endregion
 	
-	public void StartSelection(Action<Version> onFinish)
+	public void StartSelection(Action<Version> onFinish, Action onCancel = null)
 	{
+		_onCancel = onCancel;
+		
+		_searchInput.SetTextWithoutNotify("");
 		gameObject.SetActive(true);
 		
 		StartCoroutine(r());
@@ -116,6 +139,8 @@ public class VersionSelectPanel : MonoBehaviour
 			
 			yield return null;
 			gameObject.SetActive(false);
+			
+			_onCancel = null;
 		}
 	}
 	
@@ -180,16 +205,18 @@ public class VersionSelectPanel : MonoBehaviour
 			arrow.eulerAngles = Vector3.forward * gpxAngle;
 	}
 	
-	public void OnLanguageSelect(int index)
+	public void OnLanguageSelect(int index = -1)
 	{
-		_selectedLanguageIndex = index;
+		if(_isSearchModeActive)
+			CancelSearchMode();
+		
+		if(index >= 0)
+			_selectedLanguageIndex = index;
 		
 		UpdateList();
 		
 		_isExpanded_All = true;
-		
-		foreach(var instance in _instances_All)
-			instance.gameObject.SetActive(_isExpanded_All);
+		_instances_All.ForEach(instance => instance.gameObject.SetActive(_isExpanded_All));
 		
 		UpdateFoldoutGpx(_isExpanded_All, _separator_All.transform);
 	}
@@ -232,6 +259,146 @@ public class VersionSelectPanel : MonoBehaviour
 		
 		UpdateList();
 	}
+	
+	#region Search
+	
+	public void OnSearchInput(string value)
+	{
+		_searchInputValue = value;
+		StartSearchMode();
+	}
+	
+	public void SearchForSelectedLanguageOnly(bool value)
+	{
+		_searchForSelectedLanguageOnly = value;
+		StartSearchMode();
+	}
+	
+	private void StartSearchMode()
+	{
+		if(_searchRoutine != null)
+			StopCoroutine(_searchRoutine);
+		
+		_searchRoutine = StartCoroutine(r());
+		
+		IEnumerator r()
+		{
+			if(!_isSearchModeActive)
+			{
+				_searchField.sizeDelta = new Vector2(_searchField.sizeDelta.x, _searchFieldVerticalSizes.y);
+				_body.padding.top = 25;
+				_searchOptions.SetActive(true);
+				
+				_isSearchModeActive = true;
+			}
+			
+			var genInfo = GameManager.Instance.GeneralInfo;
+			yield return null;
+			
+			_separator_Recents.SetActive(false);
+			_separator_Favorites.SetActive(false);
+			_separator_All.SetActive(false);
+			
+			_instances_Recent.ForEach(instance => instance.gameObject.SetActive(false));
+			_instances_Favorites.ForEach(instance => instance.gameObject.SetActive(false));
+			_instances_All.ForEach(instance => instance.gameObject.SetActive(false));
+			
+			yield return null;
+			
+			var results = new List<VersionSelectItem>();
+			yield return searchIn(_instances_All, results);
+			
+			_instances_SearchMsc.ForEach(instance => instance.gameObject.SetActive(false));
+			
+			if(!_searchForSelectedLanguageOnly)
+			{
+				var mgr = GameManager.Instance;
+				
+				foreach(var collection in mgr.Collections)
+				{
+					if(collection.language == mgr.Languages[_selectedLanguageIndex])
+						continue;
+					
+					foreach(var version in collection.versions)
+					{
+						if(_instances_SearchMsc.Exists(instance => instance.Target == version))
+							continue;
+						
+						var instance = Instantiate(_optionTemplate, _optionTemplate.transform.parent, false);
+							instance.Setup(version, favorites.Contains(version));
+						
+						_instances_SearchMsc.Add(instance);
+					}
+				}
+				
+				yield return searchIn(_instances_SearchMsc, results);
+			}
+		}
+		
+		IEnumerator searchIn(List<VersionSelectItem> instances, List<VersionSelectItem> results)
+		{
+			foreach(var instance in instances)
+			{
+				yield return null;
+				
+				if(results.Contains(instance))
+					continue;
+				
+				string value = _searchInputValue.ToLower();
+				var target = instance.Target;
+				
+				string name = target.Name.ToLower();
+				
+				if(name.Contains(value))
+				{
+					onFound(instance);
+					continue;
+				}
+				
+				string nameCode = target.NameCode.ToLower();
+				
+				if(nameCode.Contains(value))
+				{
+					onFound(instance);
+					continue;
+				}
+				
+				if(value.Contains(name))
+				{
+					onFound(instance);
+					continue;
+				}
+				
+				if(value.Contains(nameCode))
+				{
+					onFound(instance);
+					continue;
+				}
+			}
+			
+			void onFound(VersionSelectItem instance)
+			{
+				results.Add(instance);
+				instance.gameObject.SetActive(true);
+			}
+		}
+	}
+	
+	public void CancelSearchMode()
+	{
+		_searchField.sizeDelta = new Vector2(_searchField.sizeDelta.x, _searchFieldVerticalSizes.x);
+		_body.padding.top = 0;
+		_searchOptions.SetActive(false);
+		
+		_isSearchModeActive = false;
+		
+		for(int i = 0; i < _instances_SearchMsc.Count; i++)
+			Destroy(_instances_SearchMsc[i].gameObject);
+		
+		_instances_SearchMsc.Clear();
+	}
+	
+	#endregion
 	
 	[System.Serializable]
 	public class UserData

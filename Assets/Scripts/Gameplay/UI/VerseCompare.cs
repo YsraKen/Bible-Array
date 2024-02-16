@@ -36,8 +36,12 @@ public class VerseCompare : MonoBehaviour
 			for(int i = 0; i < userData.Length; i++)
 			{
 				var version = GameManager.Instance.Versions[userData[i]];
+				
 				var item = Instantiate(defaultItem, itemsParent, false);
-					items.Add(item);
+					item.version = version;
+					item.UpdateContent();
+				
+				items.Add(item);
 			}
 			
 			addItemButton.SetAsLastSibling();

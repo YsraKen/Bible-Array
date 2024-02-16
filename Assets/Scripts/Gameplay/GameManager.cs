@@ -11,11 +11,6 @@ public class GameManager : MonoBehaviour
 {
 	#region Variables and Properties
 	
-	[SerializeField] private Language[] _languages;
-	
-	[field: SerializeField, FormerlySerializedAs("_versions")]
-	public Version[] Versions { get; private set; }
-	
 	public Collection[] Collections { get; private set; }
 	
 	[Space]
@@ -23,20 +18,24 @@ public class GameManager : MonoBehaviour
 	[SerializeField, FormerlySerializedAs("_onStartBibles")] private Version[] _onStartBiblesDefault;
 	
 	[field: SerializeField] public GeneralInformation GeneralInfo { get; private set; }
+	
+	public Version[] Versions => GeneralInfo.allVersions;
+	public Language[] Languages => GeneralInfo.allLanguages;
+	
 	[field: SerializeField] public Color JesusWordColor { get; private set; } = Color.red;
 	[field: SerializeField] public string VerseCommentLink { get; private set; }
 	
 	[field: SerializeField]
 	public List<BibleUI2> BibleInstances { get; private set; } = new List<BibleUI2>();
 	
-	[field: SerializeField] public int CurrentBookIndex { get; private set; }
-	[field: SerializeField] public int CurrentChapterIndex { get; private set; }
+	public int CurrentBookIndex { get; private set; }
+	public int CurrentChapterIndex { get; private set; }
 	
 	[Space]
 	[SerializeField] private GameObject _tabTemplate;
 	[SerializeField] private ScrollRect _tabsScroll;
 	
-	private List<Tab> _tabs = new List<Tab>();
+	[SerializeField] private List<Tab> _tabs = new List<Tab>();
 	private int _currentTabIndex;
 	private Coroutine _tabRoutine;
 	
@@ -105,8 +104,6 @@ public class GameManager : MonoBehaviour
 	
 	public static GameManager Instance { get; private set; }
 	
-	private UserData _userData = null;
-	
 	public bool Started { get; private set; }
 	
 	#endregion
@@ -119,19 +116,11 @@ public class GameManager : MonoBehaviour
 		
 		Started = false;
 		Instance = this;
-		
-		if(PlayerPrefs.HasKey("GameManager"))
-		{
-			_userData = SaveManager.Load<UserData>("GameManager");
-		
-			CurrentBookIndex = _userData.currentBookIndex;
-			CurrentChapterIndex = _userData.currentChapterIndex;
-		}
 	}
 	
 	IEnumerator Start()
 	{
-		int langCount = _languages.Length;
+		int langCount = Languages.Length;
 		Collections = new Collection[langCount];
 		
 		_languageSelector.ClearOptions();
@@ -139,7 +128,7 @@ public class GameManager : MonoBehaviour
 		
 		for(int i = 0; i < langCount; i++)
 		{
-			var language = _languages[i];
+			var language = Languages[i];
 			var versions = new List<Version>();
 			
 			Collections[i] = new Collection(){ language = language };
@@ -158,21 +147,17 @@ public class GameManager : MonoBehaviour
 		yield return null;
 		
 		yield return LoadOnstartDefaultBibleData();
-		
-		DefaultMinWidth = Mathf.Min(ScreenSize.x, ScreenSize.y);
-		
 		yield return AddOnStartTabs();
+		
+		CurrentBookIndex = _tabs[_currentTabIndex].bookIndex;
+		CurrentChapterIndex = _tabs[_currentTabIndex].chapterIndex;
+		
 		UpdateBibleContents();
 		
 		yield return new WaitWhile(()=> IsLoadingContent);
+		yield return InitializeScrollPositionings();
 		
-		if(_userData != null)
-		{
-			yield return null;
-			
-			var scrollPosition = _userData.tabs[_userData.currentTabIndex].scrollPosition;			
-			yield return _mainScroll.SetPositionRoutine(scrollPosition, 0.65f);
-		}
+		DefaultMinWidth = Mathf.Min(ScreenSize.x, ScreenSize.y);
 		
 		Started = true;
 	}
@@ -194,32 +179,33 @@ public class GameManager : MonoBehaviour
 			_quitPanel.SetActive(true);
 	}
 	
-	void OnApplicationQuit()
-	{
-		SaveUserData();
-	}
+	void OnApplicationQuit() => SaveUserData();
 	
 	#endregion
 	
+	#region Initializations
+	
 	IEnumerator LoadOnstartDefaultBibleData()
 	{
-		if(_userData == null)
+		var sessionData = SessionSelect.LoadedData;
+		
+		if(sessionData == null)
 		{
 			Array.ForEach(_onStartBiblesDefault, osb => CreateBibleInstance(osb));
 			yield break;
 		}
 		
-		int onStartBibleCount = _userData.onStartBibleVersionIndexes.Length;
-		
-		if(onStartBibleCount == 0)
+		if(sessionData.versions.IsNullOrEmpty())
 		{
 			Array.ForEach(_onStartBiblesDefault, osb => CreateBibleInstance(osb));
 			yield break;
 		}
+		
+		int onStartBibleCount = sessionData.versions.Length;
 		
 		for(int i = 0; i < onStartBibleCount; i++)
 		{
-			int versionIndex = _userData.onStartBibleVersionIndexes[i];
+			int versionIndex = sessionData.versions[i];
 			var version = Versions[versionIndex];
 			
 			CreateBibleInstance(version);
@@ -229,26 +215,57 @@ public class GameManager : MonoBehaviour
 	
 	IEnumerator AddOnStartTabs()
 	{
-		if(_userData == null)
+		var sessionData = SessionSelect.LoadedData;
+		
+		if(sessionData == null)
 		{
-			AddTab(CurrentBookIndex, CurrentChapterIndex);
-			_tabs[_tabs.Count -1].scrollPosition = new Vector2(_mainScroll.horizontalNormalizedPosition, 1f);
-			
+			addDefaultTab();
 			yield break;
 		}
 		
-		for(int i = 0; i < _userData.tabs.Length; i++)
+		if(sessionData.tabs.IsNullOrEmpty())
 		{
-			var data = _userData.tabs[i];
+			addDefaultTab();
+			yield break;
+		}
+		
+		void addDefaultTab()
+		{
+			AddTab(0, 0);
+			
+			var newTab = _tabs[_tabs.Count -1];
+				newTab.scrollPosition = Vector2.up;
+		}
+		
+		for(int i = 0; i < sessionData.tabs.Length; i++)
+		{
+			var data = sessionData.tabs[i];
 			
 			AddTab(data.bookIndex, data.chapterIndex, data.scrollPosition, false);
-			
-			var tab = _tabs[_tabs.Count - 1];
-				tab.txt.text = $"{GeneralInfo.bookChapterVerseInfos[data.bookIndex].name} {data.chapterIndex + 1}";
 		}
 		
 		yield return null;
-		OnTabSelect(_userData.currentTabIndex);
+		OnTabSelect(sessionData.currentTabIndex);
+	}
+	
+	IEnumerator InitializeScrollPositionings()
+	{
+		if(SessionSelect.LoadedData == null)
+			yield break;
+		
+		var tabsData = SessionSelect.LoadedData.tabs;
+		
+		for(int i = 0; i < _tabs.Count; i++)
+		{
+			if(tabsData.IsInsideRange(i))
+				_tabs[i].scrollPosition = tabsData[i].scrollPosition;
+		}
+		
+		_mainScroll.normalizedPosition = Vector2.up;
+		yield return null;
+		
+		var scrollPosition = _tabs[_currentTabIndex].scrollPosition;			
+		yield return _mainScroll.SetPositionRoutine(scrollPosition, 0.65f);
 	}
 	
 	BibleUI2 CreateBibleInstance(Version version)
@@ -256,7 +273,6 @@ public class GameManager : MonoBehaviour
 		var instance = Instantiate(_biblePrefab, _layout.transform, false);
 			instance.version = version;
 		
-		// BibleInstances.Add(instance);
 		return instance;
 	}
 	
@@ -288,6 +304,8 @@ public class GameManager : MonoBehaviour
 			IsLoadingContent = false;
 		}
 	}
+	
+	#endregion
 	
 	#region Version Select
 	
@@ -541,16 +559,6 @@ public class GameManager : MonoBehaviour
 		_mainScroll.verticalNormalizedPosition = 1;
 	}
 	
-	[ContextMenu("Test")]
-	public void Test()
-	{
-		int bookIndex = UnityEngine.Random.Range(0, 66);
-		int chapterCount = GeneralInfo.bookChapterVerseInfos[bookIndex].chaptersAndVerses.Length;
-		int chapterIndex = UnityEngine.Random.Range(0, chapterCount);
-		
-		NavigateTo(bookIndex, chapterIndex);
-	}
-	
 	public void NavigateTo(int bookIndex, int chapterIndex)
 	{
 		CurrentBookIndex = bookIndex;
@@ -559,14 +567,20 @@ public class GameManager : MonoBehaviour
 		_verseOptions.OnClose();
 		UpdateBibleContents();
 		
-		// TABS
-		UpdateTabText();
+		#region TABS
+		var currentTab = _tabs[_currentTabIndex];
 		
 		_tabs.ForEach(tab => tab.SetHighlight(false));
-		_tabs[_currentTabIndex].SetHighlight(true);
+		currentTab.SetHighlight(true);
 		
-		_tabs[_currentTabIndex].bookIndex = bookIndex;
-		_tabs[_currentTabIndex].chapterIndex = chapterIndex;
+		if(currentTab.bookIndex == bookIndex && currentTab.chapterIndex == chapterIndex)
+			return;
+		
+		currentTab.bookIndex = bookIndex;
+		currentTab.chapterIndex = chapterIndex;
+		
+		UpdateTabText();
+		#endregion
 	}
 	
 	public void PreviewBookInfo(Book book)
@@ -620,12 +634,13 @@ public class GameManager : MonoBehaviour
 	
 	public void AddTab(int bookIndex, int chapterIndex, Vector2 scrollPosition = default, bool ping = true)
 	{
-		var templateT = _tabTemplate.transform;
-		
 		_tabTemplate.SetActive(true);
 		
+		var templateT = _tabTemplate.transform;
 		var tab = Instantiate(_tabTemplate, templateT.parent, false);
+		
 		var txt = tab.GetComponentInChildren<Text>();
+			txt.text = $"{GeneralInfo.bookChapterVerseInfos[bookIndex].name} {chapterIndex + 1}";
 		
 		if(scrollPosition == default)
 			scrollPosition = new Vector2(_mainScroll.normalizedPosition.x, 1f);
@@ -676,34 +691,43 @@ public class GameManager : MonoBehaviour
 	
 	public void OnTabSelect(int index)
 	{
-		if(_tabs.IsInsideRange(_currentTabIndex))
-			_tabs[_currentTabIndex].scrollPosition = _mainScroll.normalizedPosition;
-		
-		_currentTabIndex = index % _tabs.Count;
-		var tab = _tabs[_currentTabIndex];
-		
-		NavigateTo(tab.bookIndex, tab.chapterIndex);
-		
 		if(_tabRoutine != null)
 			StopCoroutine(_tabRoutine);
 		
-		#region Set Scrolling
-		
 		_tabRoutine = StartCoroutine(r());
+		
 		IEnumerator r()
 		{
+			_tabs[_currentTabIndex].scrollPosition = GetTabScrollPosition(_currentTabIndex);
+			yield return null;
+			
+			_currentTabIndex = index % _tabs.Count;
+			var tab = _tabs[_currentTabIndex];
+			
+			NavigateTo(tab.bookIndex, tab.chapterIndex);
+			yield return null;
+			
+			_tabs.ForEach(tab => tab.SetHighlight(false));
+			_tabs[_currentTabIndex].SetHighlight(true);
+			
 			yield return new WaitWhile(() => IsLoadingContent);
-			
-			/* _mainScroll.normalizedPosition = new Vector2
-			(
-				_mainScroll.normalizedPosition.x,
-				tab.verticalScrollPosition
-			); */
-			
 			_mainScroll.normalizedPosition = tab.scrollPosition;
 		}
+	}
+	
+	private Vector2 GetTabScrollPosition(int tabIndex)
+	{
+		if(!_tabs.IsInsideRange(_currentTabIndex))
+			return new Vector2(_mainScroll.horizontalNormalizedPosition, 1);
+	
+		// Snap the scroll position to the nearest bible instance index
+		int biblesMaxIndex = BibleInstances.Count - 1;
+		int nearestBibleIndex = Mathf.RoundToInt(Mathf.Lerp(0, biblesMaxIndex, _mainScroll.horizontalNormalizedPosition));
 		
-		#endregion
+		var scrollPosition = _mainScroll.normalizedPosition;
+			scrollPosition.x = Mathf.InverseLerp(0, biblesMaxIndex, nearestBibleIndex);
+		
+		return scrollPosition;
 	}
 	
 	public void RemoveTab(Transform transform)
@@ -730,7 +754,6 @@ public class GameManager : MonoBehaviour
 	
 	public void Quit()
 	{
-		// SaveUserData();
 		Application.Quit();
 		
 		#if UNITY_EDITOR
@@ -740,39 +763,42 @@ public class GameManager : MonoBehaviour
 	
 	public void SaveUserData()
 	{
+		var sessionData = SessionSelect.LoadedData;
+		string dateTimeNow = DateTime.Now.ToString();
+		
+		if(sessionData == null)
+		{
+			sessionData = new Session();
+			sessionData.dateCreated = dateTimeNow;
+		}
+	
+		#region Versions
+		
 		int bibleInstancesCount = BibleInstances.Count;
-		var onStartBibleVersionIndexes = new int[bibleInstancesCount];
+		sessionData.versions = new int[bibleInstancesCount];
 		
 		for(int i = 0; i < bibleInstancesCount; i++)
-			onStartBibleVersionIndexes[i] = Array.FindIndex(Versions, version => version == BibleInstances[i].version);
+			sessionData.versions[i] = Array.FindIndex(Versions, version => version == BibleInstances[i].version);
 		
-		_tabs[_currentTabIndex].scrollPosition = _mainScroll.normalizedPosition;
+		sessionData.dateModified = dateTimeNow;
+		
+		#endregion
+		
+		#region Tabs
+		
+		_tabs[_currentTabIndex].scrollPosition = GetTabScrollPosition(_currentTabIndex);
 		
 		int tabsCount = _tabs.Count;
-		var tabsData = new Tab.UserData[tabsCount];
+		sessionData.tabs = new Tab.UserData[tabsCount];
 		
 		for(int i = 0; i < tabsCount; i++)
-		{
-			var tab = _tabs[i];
-			
-			tabsData[i] = new Tab.UserData()
-			{
-				bookIndex = tab.bookIndex,
-				chapterIndex = tab.chapterIndex,
-				scrollPosition = tab.scrollPosition
-			};
-		}
+			sessionData.tabs[i] = new Tab.UserData(_tabs[i]);
 		
-		var _userData = new UserData()
-		{
-			currentBookIndex = CurrentBookIndex,
-			currentChapterIndex = CurrentChapterIndex,
-			onStartBibleVersionIndexes = onStartBibleVersionIndexes,
-			tabs = tabsData,
-			currentTabIndex = _currentTabIndex
-		};
+		sessionData.currentTabIndex = _currentTabIndex;
 		
-		SaveManager.Save(_userData, "GameManager");
+		#endregion
+		
+		SessionSelect.SaveCurrentSessionData(sessionData);
 	}
 	
 	public class Collection
@@ -780,41 +806,37 @@ public class GameManager : MonoBehaviour
 		public Language language;
 		public List<Version> versions;
 	}
+}
+
+public enum ScreenOrientation { Vertical, Horizontal }
+
+[System.Serializable]
+public class Tab
+{
+	public GameObject gameObject;
+	public Text txt;
+	public int bookIndex;
+	public int chapterIndex;
+	public Vector2 scrollPosition = Vector2.up;
 	
-	public class Tab
+	public void SetHighlight(bool isHighlighted)
 	{
-		public GameObject gameObject;
-		public Text txt;
-		public int bookIndex;
-		public int chapterIndex;
-		public Vector2 scrollPosition = Vector2.up;
-		
-		public void SetHighlight(bool isHighlighted)
-		{
-			var highlight = gameObject.transform.GetChild(0);
-				highlight.gameObject.SetActive(isHighlighted);
-		}
-		
-		[Serializable]
-		public class UserData
-		{
-			public int bookIndex;
-			public int chapterIndex;
-			public Vector2 scrollPosition = Vector2.up;
-		}
+		var highlight = gameObject.transform.GetChild(0);
+			highlight.gameObject.SetActive(isHighlighted);
 	}
 	
 	[Serializable]
 	public class UserData
 	{
-		public int currentBookIndex;
-		public int currentChapterIndex;
+		public int bookIndex;
+		public int chapterIndex;
+		public Vector2 scrollPosition = Vector2.up;
 		
-		public int[] onStartBibleVersionIndexes;
-		
-		public Tab.UserData[] tabs;
-		public int currentTabIndex;
+		public UserData(Tab tab)
+		{
+			bookIndex = tab.bookIndex;
+			chapterIndex = tab.chapterIndex;
+			scrollPosition = tab.scrollPosition;
+		}
 	}
 }
-
-public enum ScreenOrientation { Vertical, Horizontal }

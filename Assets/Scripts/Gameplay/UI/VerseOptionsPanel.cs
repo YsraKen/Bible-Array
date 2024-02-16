@@ -7,7 +7,11 @@ using System.Text.RegularExpressions;
 public class VerseOptionsPanel : MonoBehaviour
 {
 	public string currentTmpFontName = "LiberationSans SDF - Fallback";
+	
 	public HighlightInfo[] highlights;
+	public Dropdown _highlightGrpSelect;
+	public HighlightPanel _highlightPanel;
+	public Sprite _popupIcon;
 	
 	[Space]
 	public Button compareButton;
@@ -19,13 +23,26 @@ public class VerseOptionsPanel : MonoBehaviour
 		GameManager.Instance.onVerseSelectUpdate += OnVerseSelectUpdate;
 	}
 	
+	void OnEnable()
+	{
+		_highlightGrpSelect.ClearOptions();
+		var options = new List<Dropdown.OptionData>();
+		
+		foreach(var info in _highlightPanel.Infos)
+			options.Add(new Dropdown.OptionData(info.name));
+		
+		options.Add(new Dropdown.OptionData("Edit...", _popupIcon));
+		_highlightGrpSelect.AddOptions(options);
+	}
+	
 	public void OnHighlightButton(Transform transform)
 	{
 		int index = transform.GetSiblingIndex();
 		var info = highlights[index];
 		
 		foreach(var selected in GameManager.Instance.SelectedVerses)
-			selected.SetMark(currentTmpFontName, info.GetBackgroundHex(), info.GetLetterHex());
+			// selected.SetMark(currentTmpFontName, info.GetBackgroundHex(), info.GetLetterHex());
+			selected.SetMark(info.GetBackgroundHex(), info.GetLetterHex());
 		
 		OnClose();
 	}
@@ -142,9 +159,19 @@ public class VerseOptionsPanel : MonoBehaviour
 		copyPopup.SetActive(true);
 	}
 	
+	public void OnHighlightGroupSelect(int value)
+	{
+		if(value == (_highlightGrpSelect.options.Count - 1))
+		{
+			_highlightPanel.gameObject.SetActive(true);
+			return;
+		}
+	}
+	
 	[System.Serializable]
 	public struct HighlightInfo
 	{
+		public string name;
 		public Color background;
 		public Color letter;
 		

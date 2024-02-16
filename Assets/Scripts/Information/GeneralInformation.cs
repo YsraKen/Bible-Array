@@ -5,6 +5,10 @@ using System;
 public class GeneralInformation : ScriptableObject
 {
 	public HtmlTag[] targetTags;
+	
+	public Language[] allLanguages;
+	public Version[] allVersions;
+	
 	public BookChapterVerseInfo[] bookChapterVerseInfos;
 	public int maxChapterCount = 150;
 }
