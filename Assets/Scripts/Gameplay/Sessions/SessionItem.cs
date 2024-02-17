@@ -10,6 +10,7 @@ public class SessionItem : MonoBehaviour
 	[SerializeField] private Text _tabsTxt;
 	[SerializeField] private Text _versionsTxt;
 	[SerializeField] private Text _dateTxt;
+	[SerializeField] private GameObject _glow;
 	
 	[field: SerializeField]
 	public Toggle MultiSelectToggle { get; private set; }
@@ -48,7 +49,7 @@ public class SessionItem : MonoBehaviour
 		#region Versions
 		
 		if(info.versions.IsNullOrEmpty())
-			_versionsTxt.text = "No bible verions open";
+			_versionsTxt.text = "No bible verions were open";
 		
 		else
 		{
@@ -73,8 +74,8 @@ public class SessionItem : MonoBehaviour
 		#endregion
 	}
 	
-	public void OnSelect() => SessionSelect.Instance.OnSessionSelect(Index);
-	public void OnEdit() => SessionSelect.Instance.EditSession(Index);
+	public void OnSelect() => SessionSelect.Instance.OnSessionSelect(this);
+	public void OnEdit() => SessionSelect.Instance.EditSession(this);
 	
 	public void UpdateName(Session info)
 	{
@@ -111,4 +112,6 @@ public class SessionItem : MonoBehaviour
 	}
 	
 	public void OnMultiSelect() => SessionSelect.Instance.OnMultiselectAddItem(MultiSelectToggle);
+	
+	public void Ping() => _glow.SetActive(true);
 }

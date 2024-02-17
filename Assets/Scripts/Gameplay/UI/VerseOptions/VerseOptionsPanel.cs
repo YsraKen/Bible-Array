@@ -1,15 +1,20 @@
-using UnityEngine;
-using UnityEngine.UI;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
+using UnityEngine;
+using UnityEngine.UI;
 
 public class VerseOptionsPanel : MonoBehaviour
 {
-	public string currentTmpFontName = "LiberationSans SDF - Fallback";
+	public Transform[] tabs;
+	public GameObject[] tabBodies;
 	
-	public HighlightInfo[] highlights;
 	public Dropdown _highlightGrpSelect;
+	public GameObject _highlightQuickButtonTemplate;
+	public HorizontalLayoutGroup _highlightQuickButtonsLayoutGroup;
+	
+	List<GameObject> _highlightQuickButtons = new List<GameObject>();
+	
 	public HighlightPanel _highlightPanel;
 	public Sprite _popupIcon;
 	
@@ -18,6 +23,16 @@ public class VerseOptionsPanel : MonoBehaviour
 	public VerseCompare comparePanel;
 	public GameObject copyPopup;
 	
+	int _highlightGrpSelect_PreviousValue;
+	
+	public static VerseOptionsPanel Instance { get; private set; }
+	
+	void Awake()
+	{
+		Instance = this;
+		_highlightPanel.LoadData();
+	}
+	
 	void Start()
 	{
 		GameManager.Instance.onVerseSelectUpdate += OnVerseSelectUpdate;
@@ -25,24 +40,37 @@ public class VerseOptionsPanel : MonoBehaviour
 	
 	void OnEnable()
 	{
-		_highlightGrpSelect.ClearOptions();
-		var options = new List<Dropdown.OptionData>();
+		RefreshHighlightGrpDropdownOptions();
+		RefreshHighlightQuickButtons();
+	}
+	
+	public void OnTabSelect(Transform tab)
+	{
+		int index = tab.GetSiblingIndex();
 		
-		foreach(var info in _highlightPanel.Infos)
-			options.Add(new Dropdown.OptionData(info.name));
-		
-		options.Add(new Dropdown.OptionData("Edit...", _popupIcon));
-		_highlightGrpSelect.AddOptions(options);
+		for(int i = 0; i < tabs.Length; i++)
+		{
+			bool isActive = i == index;
+			
+			var highlighter = tabs[i].GetChild(0).gameObject;
+				highlighter.SetActive(isActive);
+			
+			tabBodies[i].SetActive(isActive);
+		}
 	}
 	
 	public void OnHighlightButton(Transform transform)
 	{
 		int index = transform.GetSiblingIndex();
-		var info = highlights[index];
+		
+		var info = _highlightPanel.GetActiveInfo();
+		var mark = info.marks[index];
 		
 		foreach(var selected in GameManager.Instance.SelectedVerses)
-			// selected.SetMark(currentTmpFontName, info.GetBackgroundHex(), info.GetLetterHex());
-			selected.SetMark(info.GetBackgroundHex(), info.GetLetterHex());
+		{
+			selected.SetMark(mark.GetBackgroundHex(), mark.GetLetterHex());
+			// selected.SetMark(mark);
+		}
 		
 		OnClose();
 	}
@@ -159,23 +187,80 @@ public class VerseOptionsPanel : MonoBehaviour
 		copyPopup.SetActive(true);
 	}
 	
+	#region Highlight Groups
+	
 	public void OnHighlightGroupSelect(int value)
 	{
-		if(value == (_highlightGrpSelect.options.Count - 1))
+		_highlightGrpSelect_PreviousValue = _highlightPanel.currentSelectedIndex;
+		_highlightPanel.currentSelectedIndex = value;
+		
+		bool isEditModeSelected = value == (_highlightGrpSelect.options.Count - 1);
+		
+		if(isEditModeSelected)
 		{
+			_highlightPanel.currentSelectedIndex = _highlightGrpSelect_PreviousValue;
 			_highlightPanel.gameObject.SetActive(true);
+			
+			_highlightGrpSelect.SetValueWithoutNotify(_highlightGrpSelect_PreviousValue);
+			
 			return;
 		}
+		
+		RefreshHighlightQuickButtons();
 	}
 	
-	[System.Serializable]
-	public struct HighlightInfo
+	public void UpdateHighlightGroupsInfo()
 	{
-		public string name;
-		public Color background;
-		public Color letter;
+		RefreshHighlightGrpDropdownOptions();
+		RefreshHighlightQuickButtons();
 		
-		public string GetBackgroundHex() => ColorUtility.ToHtmlStringRGBA(background);
-		public string GetLetterHex() => ColorUtility.ToHtmlStringRGBA(letter);
+		_highlightGrpSelect.SetValueWithoutNotify(_highlightPanel.currentSelectedIndex);
 	}
+	
+	private void RefreshHighlightGrpDropdownOptions()
+	{
+		_highlightGrpSelect.ClearOptions();
+		var options = new List<Dropdown.OptionData>();
+		
+		foreach(var info in _highlightPanel.Infos)
+		{
+			string name = string.IsNullOrEmpty(info.name)? "(untitled)": info.name;
+			options.Add(new Dropdown.OptionData(name));
+		}
+		
+		options.Add(new Dropdown.OptionData("Edit...", _popupIcon));
+		
+		_highlightGrpSelect.AddOptions(options);
+		_highlightGrpSelect.SetValueWithoutNotify(_highlightPanel.currentSelectedIndex);
+	}
+	
+	private void RefreshHighlightQuickButtons()
+	{
+		for(int i = 0; i < _highlightQuickButtons.Count; i++)
+			Destroy(_highlightQuickButtons[i]);
+		
+		_highlightQuickButtons.Clear();
+		
+		var info = _highlightPanel.GetActiveInfo();
+		
+		_highlightQuickButtonTemplate.SetActive(true);
+		
+		var templateT = _highlightQuickButtonTemplate.transform;
+		var parent = templateT.parent;
+		
+		foreach(var mark in  info.marks)
+		{
+			var button = Instantiate(_highlightQuickButtonTemplate, parent, false);
+			HighlightPanelItem.UpdateElementValues(button, mark, "A");
+			
+			_highlightQuickButtons.Add(button);
+		}
+		
+		templateT.SetAsLastSibling();
+		
+		_highlightQuickButtonTemplate.SetActive(false);
+		_highlightQuickButtonsLayoutGroup.Poke();
+	}
+	
+	#endregion
 }

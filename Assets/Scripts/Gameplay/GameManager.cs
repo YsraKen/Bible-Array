@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
 using UnityEngine.Serialization;
+using UnityEngine.SceneManagement;
 using TMPro;
 
 public class GameManager : MonoBehaviour
@@ -41,6 +42,9 @@ public class GameManager : MonoBehaviour
 	
 	[SerializeField] private ScrollRect _mainScroll;
 	[SerializeField] private float _hudReactionThresholdToMainScrollVelocity = 100f;
+	
+	// for later saving data: Unity annoyingly destroy "_mainScroll" even before calling "this" script's "OnDisable" method
+	Vector2 _scrollNormalizedPositionCache;
 	
 	[SerializeField] private GameObject _upButton;
 	[SerializeField] private GameObject _downButton;
@@ -94,6 +98,7 @@ public class GameManager : MonoBehaviour
 	public Transform HeadersClampRef { get; private set; }
 	
 	[SerializeField] private GameObject _quitPanel;
+	[SerializeField] private TMP_Text _sessionName;
 	
 	public Vector2 ScreenSize => _screenSizeRef.rect.size;
 	public float DefaultMinWidth { get; private set; }
@@ -105,6 +110,7 @@ public class GameManager : MonoBehaviour
 	public static GameManager Instance { get; private set; }
 	
 	public bool Started { get; private set; }
+	private bool _userDataSaved;
 	
 	#endregion
 	
@@ -112,6 +118,12 @@ public class GameManager : MonoBehaviour
 	
 	void Awake()
 	{
+		if(!AppEntry.IsLoaded)
+		{
+			SceneManager.LoadScene("AppEntry");
+			return;
+		}
+	
 		MainContentLoadingOverlay.SetActive(true);
 		
 		Started = false;
@@ -158,6 +170,7 @@ public class GameManager : MonoBehaviour
 		yield return InitializeScrollPositionings();
 		
 		DefaultMinWidth = Mathf.Min(ScreenSize.x, ScreenSize.y);
+		UpdateSessionNameUI();
 		
 		Started = true;
 	}
@@ -176,10 +189,16 @@ public class GameManager : MonoBehaviour
 		_previousScreenOrientation = ScreenOrientation;
 		
 		if(Input.GetButtonDown("Cancel"))
-			_quitPanel.SetActive(true);
+			_quitPanel.SetActive(!_quitPanel.activeSelf);
 	}
 	
 	void OnApplicationQuit() => SaveUserData();
+	
+	void OnDisable()
+	{
+		if(!_userDataSaved)
+			SaveUserData();
+	}
 	
 	#endregion
 	
@@ -266,6 +285,20 @@ public class GameManager : MonoBehaviour
 		
 		var scrollPosition = _tabs[_currentTabIndex].scrollPosition;			
 		yield return _mainScroll.SetPositionRoutine(scrollPosition, 0.65f);
+	}
+	
+	void UpdateSessionNameUI()
+	{
+		if(SessionSelect.LoadedData == null)
+		{
+			_sessionName.gameObject.SetActive(false);
+			return;
+		}
+	
+		_sessionName.text = SessionSelect.LoadedData.name;
+		
+		if(string.IsNullOrEmpty(_sessionName.text))
+			_sessionName.text = $"Session\n<i><size={_sessionName.fontSize * 0.75f}>{SessionSelect.LoadedData.dateCreated}</size></i>";
 	}
 	
 	BibleUI2 CreateBibleInstance(Version version)
@@ -417,6 +450,8 @@ public class GameManager : MonoBehaviour
 	
 	public void OnScroll(Vector2 value)
 	{
+		_scrollNormalizedPositionCache = value;
+		
 		#region Nav Buttons
 		
 		_upButton.SetActive(value.y < 0.9f);
@@ -718,13 +753,13 @@ public class GameManager : MonoBehaviour
 	private Vector2 GetTabScrollPosition(int tabIndex)
 	{
 		if(!_tabs.IsInsideRange(_currentTabIndex))
-			return new Vector2(_mainScroll.horizontalNormalizedPosition, 1);
+			return new Vector2(_scrollNormalizedPositionCache.x, 1);
 	
 		// Snap the scroll position to the nearest bible instance index
 		int biblesMaxIndex = BibleInstances.Count - 1;
-		int nearestBibleIndex = Mathf.RoundToInt(Mathf.Lerp(0, biblesMaxIndex, _mainScroll.horizontalNormalizedPosition));
+		int nearestBibleIndex = Mathf.RoundToInt(Mathf.Lerp(0, biblesMaxIndex, _scrollNormalizedPositionCache.x));
 		
-		var scrollPosition = _mainScroll.normalizedPosition;
+		var scrollPosition = _scrollNormalizedPositionCache;
 			scrollPosition.x = Mathf.InverseLerp(0, biblesMaxIndex, nearestBibleIndex);
 		
 		return scrollPosition;
@@ -752,6 +787,10 @@ public class GameManager : MonoBehaviour
 	
 	#endregion
 	
+	public void Home() => SceneManager.LoadScene("SessionSelect");
+	
+	public void Settings() {}
+	
 	public void Quit()
 	{
 		Application.Quit();
@@ -763,6 +802,8 @@ public class GameManager : MonoBehaviour
 	
 	public void SaveUserData()
 	{
+		if(!Started) return;
+		
 		var sessionData = SessionSelect.LoadedData;
 		string dateTimeNow = DateTime.Now.ToString();
 		
@@ -799,6 +840,7 @@ public class GameManager : MonoBehaviour
 		#endregion
 		
 		SessionSelect.SaveCurrentSessionData(sessionData);
+		_userDataSaved = true;
 	}
 	
 	public class Collection

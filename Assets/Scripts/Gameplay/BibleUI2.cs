@@ -77,11 +77,6 @@ public class BibleUI2 : MonoBehaviour
 		_header.position = new Vector3(_header.position.x, positionY, _header.position.z);
 	}
 	
-	void OnDestroy()
-	{
-		_mgr.BibleInstances.Remove(this);
-	}
-	
 	[ContextMenu("Update Contents")]
 	public void UpdateContents()
 	{
@@ -196,5 +191,9 @@ public class BibleUI2 : MonoBehaviour
 		_mgr.PreviewBookInfo(bookInfo);
 	}
 	
-	public void OnDelete() => Destroy(gameObject);
+	public void OnDelete()
+	{
+		_mgr.BibleInstances.Remove(this);
+		Destroy(gameObject);
+	}
 }

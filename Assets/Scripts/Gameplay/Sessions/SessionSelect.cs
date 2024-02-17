@@ -9,6 +9,8 @@ using TMPro;
 
 public class SessionSelect : MonoBehaviour
 {
+	#region Properties
+	
 	public static Session CurrentSession { get; private set; }
 	
 	public List<Session> allSessions = new List<Session>();
@@ -35,11 +37,14 @@ public class SessionSelect : MonoBehaviour
 	[Space]
 	[SerializeField] private GameObject _editScreen;
 	[SerializeField] private TMP_InputField _editInputField;
+	[SerializeField] private GameObject _continuePrevSessionToggle;
 	
 	[Space]
 	[SerializeField] private GameObject _newSessionScreen;
-	[SerializeField] private GameObject _loadScreenOverlay;
+	[SerializeField] private TMP_InputField _newSessionInput;
+	[SerializeField] private TMP_Text _newSessionSubmitBtn;
 	
+	[SerializeField] private GameObject _loadScreenOverlay;
 	[Space]
 	[SerializeField] private GameObject _multiSelectOptions;
 	[SerializeField] private GameObject _multiselectLabelSelect;
@@ -55,12 +60,16 @@ public class SessionSelect : MonoBehaviour
 	private List<int> _multiSelectedItems = new List<int>();
 	
 	private int _targetEditIndex;
+	
 	public string editInput { get; set; }
+	public bool continuePrevious { get; set; } = true;
 	public string newSessionInput { get; set; }
 	
 	public const string SAVE_KEY = "SessionSelect";
 	
 	public static SessionSelect Instance { get; private set; }
+	
+	#endregion
 	
 	void Awake()
 	{
@@ -68,6 +77,12 @@ public class SessionSelect : MonoBehaviour
 		
 		if(SaveManager.TryLoad<UserData>(SAVE_KEY, out UserData data))
 		{
+			if(data.allSessions.IsNullOrEmpty())
+			{
+				LoadMainScene();
+				return;
+			}
+			
 			allSessions.Clear();
 			labels.Clear();
 			
@@ -92,12 +107,15 @@ public class SessionSelect : MonoBehaviour
 			var item = Instantiate(_itemTemplate, itemParent, false);
 				item.Init(index ++, session);
 			
+			if(!string.IsNullOrEmpty(session.name))
+				item.name = session.name;
+			
 			_itemInstances.Add(item);
 		}
 		
 		_itemTemplate.gameObject.SetActive(false);
 		
-		_hasPreviousSession = _itemInstances.TryGetElement(_previousSessionIndex, out var instance);	
+		_hasPreviousSession = _itemInstances.TryGetElement(_previousSessionIndex, out var prevSessionInstance);	
 		_hasOtherSessions = _hasPreviousSession && _itemInstances.Count > 1;
 		
 		_previousSessionHeader.gameObject.SetActive(_hasPreviousSession);
@@ -105,10 +123,12 @@ public class SessionSelect : MonoBehaviour
 		
 		if(_hasPreviousSession)
 		{
+			// Debug.Log("Previous Session Index: " + _previousSessionIndex);
+			
 			_previousSessionHeader.SetAsFirstSibling();
 			int prevSessionTargetChildIndex = 1; // _previousSessionHeader.GetSiblingIndex() + 1;
 			
-			instance.transform.SetSiblingIndex(prevSessionTargetChildIndex);
+			prevSessionInstance.transform.SetSiblingIndex(prevSessionTargetChildIndex);
 			_otherSessionsHeader.SetSiblingIndex(prevSessionTargetChildIndex + 1);
 		}
 		
@@ -132,6 +152,8 @@ public class SessionSelect : MonoBehaviour
 		_labelItemTemplate.gameObject.SetActive(false);
 		
 		#endregion
+		
+		prevSessionInstance?.Ping();
 	}
 	
 	void OnDisable()
@@ -155,10 +177,14 @@ public class SessionSelect : MonoBehaviour
 		SaveManager.Save(userData, SAVE_KEY);
 	}
 	
+	public void OnSessionSelect(SessionItem item) => OnSessionSelect(_itemInstances.IndexOf(item));
+	
 	public void OnSessionSelect(int index)
 	{
 		if(IsMultiSelecting)
 			return;
+		
+		// Debug.Log(index);
 		
 		LoadedData = allSessions[index];
 		_previousSessionIndex = index;
@@ -166,7 +192,27 @@ public class SessionSelect : MonoBehaviour
 		LoadMainScene();
 	}
 	
+	public void OnProceedButton()
+	{
+		if(!continuePrevious)
+		{
+			NewSession();
+			return;
+		}
+		
+		if(allSessions.IsInsideRange(_previousSessionIndex))
+			OnSessionSelect(_previousSessionIndex);
+		
+		else if(allSessions.Count > 0)
+			OnSessionSelect(0);
+		
+		else
+			NewSession();
+	}
+	
 	#region Edit
+	
+	public void EditSession(SessionItem item) => EditSession(_itemInstances.IndexOf(item));
 	
 	public void EditSession(int index)
 	{
@@ -174,22 +220,22 @@ public class SessionSelect : MonoBehaviour
 			return;
 		
 		_targetEditIndex = index;
+		_editScreen.SetActive(true);
 		
 		_editInputField.SetTextWithoutNotify(allSessions[index].name);
-		_editScreen.SetActive(true);
+		_editInputField.Select();
 	}
 	
 	public void OnEditDelete()
 	{
-		while(_itemInstances.TryFindIndex(instance => instance.Index == _targetEditIndex, out int instanceIndex))
-		{
-			Destroy(_itemInstances[instanceIndex].gameObject);
-			_itemInstances.RemoveAt(instanceIndex);
-		}
+		Destroy(_itemInstances[_targetEditIndex].gameObject);
 		
+		_itemInstances.RemoveAt(_targetEditIndex);
 		allSessions.RemoveAt(_targetEditIndex);
 		
 		_editScreen.SetActive(false);
+		
+		_continuePrevSessionToggle.SetActive(!_itemInstances.IsNullOrEmpty());
 	}
 	
 	public void OnEditSave()
@@ -208,19 +254,28 @@ public class SessionSelect : MonoBehaviour
 	
 	#region Create
 	
-	public void NewSession()
+	public void OnNewSessionNameInput(string value)
+	{
+		_newSessionSubmitBtn.text = string.IsNullOrEmpty(value)? "Skip": "Open Bible";
+	}
+	
+	private void NewSession()
 	{
 		_previousSessionIndex = -1;
+		
 		_newSessionScreen.SetActive(true);
+		_newSessionInput.Select();
 	}
 	
 	public void OnNewSessionSubmit()
 	{
 		var session = CreateSessionData(newSessionInput);
-		allSessions.Add(session);
+		// allSessions.Add(session);
+		allSessions.Insert(0, session);
 		
 		LoadedData = session;
-		_previousSessionIndex = allSessions.Count - 1;
+		// _previousSessionIndex = allSessions.Count - 1;
+		_previousSessionIndex = 0;
 		
 		LoadMainScene();
 	}
@@ -404,9 +459,10 @@ public class SessionSelect : MonoBehaviour
 		StartCoroutine(r());
 		IEnumerator r()
 		{
-			var operation = SceneManager.LoadSceneAsync("Gameplay");
-			
 			_loadScreenOverlay.SetActive(true);
+			yield return new WaitForSeconds(1f);
+			
+			var operation = SceneManager.LoadSceneAsync("Gameplay");
 			yield return new WaitUntil(()=> operation.isDone);
 		}
 	}
@@ -428,9 +484,10 @@ public class SessionSelect : MonoBehaviour
 		else
 		{
 			var allSessions = userData.allSessions.ToList();
-				allSessions.Add(LoadedData);
+				allSessions.Insert(0, LoadedData);
 			
-			_previousSessionIndex = allSessions.Count - 1;
+			// _previousSessionIndex = allSessions.Count - 1;
+			_previousSessionIndex = 0;
 			userData.allSessions = allSessions.ToArray();
 		}
 		

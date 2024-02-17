@@ -15,6 +15,8 @@ public class AppEntry : MonoBehaviour
 	[SerializeField] private GameObject[] _onLoadObjects;
 	[SerializeField] private GameObject[] _onActivationObjects;
 	
+	public static bool IsLoaded { get; private set; }
+	
 	IEnumerator Start()
 	{
 		if(askForDataClear)
@@ -31,6 +33,13 @@ public class AppEntry : MonoBehaviour
 				PlayerPrefs.DeleteAll();
 		}
 		
+		IsLoaded = true;
+		
+		yield return Exit();
+	}
+	
+	private IEnumerator Exit()
+	{
 		Array.ForEach(_onActivationObjects, obj => obj.SetActive(false));
 		Array.ForEach(_onLoadObjects, obj => obj.SetActive(true));
 		
