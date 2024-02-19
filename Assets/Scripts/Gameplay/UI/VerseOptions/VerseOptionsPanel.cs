@@ -13,6 +13,11 @@ public class VerseOptionsPanel : MonoBehaviour
 	public GameObject _highlightQuickButtonTemplate;
 	public HorizontalLayoutGroup _highlightQuickButtonsLayoutGroup;
 	
+	[Space]
+	public GameObject _deleteHighlightButton;
+	public RectTransform _highlightQuickBtnsScrollViewport;
+	public float _highlightQuickBtnsScrollViewportOffset = 65f;
+	
 	List<GameObject> _highlightQuickButtons = new List<GameObject>();
 	
 	public HighlightPanel _highlightPanel;
@@ -24,6 +29,8 @@ public class VerseOptionsPanel : MonoBehaviour
 	public GameObject copyPopup;
 	
 	int _highlightGrpSelect_PreviousValue;
+	
+	[SerializeField] private BibleLayout _bblLayout;
 	
 	public static VerseOptionsPanel Instance { get; private set; }
 	
@@ -42,6 +49,8 @@ public class VerseOptionsPanel : MonoBehaviour
 	{
 		RefreshHighlightGrpDropdownOptions();
 		RefreshHighlightQuickButtons();
+		
+		CheckRemoveHighlightOption();
 	}
 	
 	public void OnTabSelect(Transform tab)
@@ -63,16 +72,29 @@ public class VerseOptionsPanel : MonoBehaviour
 	{
 		int index = transform.GetSiblingIndex();
 		
-		var info = _highlightPanel.GetActiveInfo();
+		var info = _highlightPanel.Infos[_highlightPanel.currentSelectedIndex];
 		var mark = info.marks[index];
 		
-		foreach(var selected in GameManager.Instance.SelectedVerses)
+		var gameMgr = GameManager.Instance;
+		var markMgr = gameMgr.MarkManager;
+		
+		foreach(var selected in gameMgr.SelectedVerses)
 		{
-			selected.SetMark(mark.GetBackgroundHex(), mark.GetLetterHex());
-			// selected.SetMark(mark);
+			int markDatabaseIndex = markMgr.GetDatabaseIndex(info.name, mark, selected.bible.version, selected.Index);
+			selected.SetMark(markDatabaseIndex);
 		}
 		
 		OnClose();
+		_bblLayout.Repaint();
+	}
+	
+	public void OnRemoveHighlightButton()
+	{
+		foreach(var selected in GameManager.Instance.SelectedVerses)
+			selected.RemoveMark();
+		
+		OnClose();
+		_bblLayout.Repaint();
 	}
 	
 	public void OnCompareButton()
@@ -241,7 +263,7 @@ public class VerseOptionsPanel : MonoBehaviour
 		
 		_highlightQuickButtons.Clear();
 		
-		var info = _highlightPanel.GetActiveInfo();
+		var info = _highlightPanel.Infos[_highlightPanel.currentSelectedIndex];
 		
 		_highlightQuickButtonTemplate.SetActive(true);
 		
@@ -260,6 +282,21 @@ public class VerseOptionsPanel : MonoBehaviour
 		
 		_highlightQuickButtonTemplate.SetActive(false);
 		_highlightQuickButtonsLayoutGroup.Poke();
+	}
+	
+	public void CheckRemoveHighlightOption()
+	{
+		bool hasHighlightSelection = GameManager.Instance.SelectedVerses.Exists(selected => selected.IsMarked);
+		_deleteHighlightButton.SetActive(hasHighlightSelection);
+		
+		var sizeDelta = _highlightQuickBtnsScrollViewport.sizeDelta;
+			sizeDelta.x = hasHighlightSelection? -_highlightQuickBtnsScrollViewportOffset: 0f;
+			
+		var anchoredPosition = _highlightQuickBtnsScrollViewport.anchoredPosition;
+			anchoredPosition.x = hasHighlightSelection? _highlightQuickBtnsScrollViewportOffset / 2f: 0f;
+		
+		_highlightQuickBtnsScrollViewport.sizeDelta = sizeDelta;
+		_highlightQuickBtnsScrollViewport.anchoredPosition = anchoredPosition;
 	}
 	
 	#endregion

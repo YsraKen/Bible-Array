@@ -63,9 +63,9 @@ public class HighlightPanel : MonoBehaviour
 		SaveData();
 	}
 	
-	public HighlightInfo GetActiveInfo() => Infos[currentSelectedIndex];
+	// public HighlightInfo GetActiveInfo() => Infos[currentSelectedIndex];
 	
-	private void UpdateSelectedItem(int index)
+	public void UpdateSelectedItem(int index, bool setFoldout = true)
 	{
 		for(int i = 0; i < _itemInstances.Count; i++)
 		{
@@ -73,7 +73,9 @@ public class HighlightPanel : MonoBehaviour
 			bool isSelected = i == index;
 			
 			item.SetSelected(isSelected);
-			item.SetFoldout(isSelected);
+			
+			if(setFoldout)
+				item.SetFoldout(isSelected);
 		}
 		
 		currentSelectedIndex = index;
@@ -156,40 +158,5 @@ public class HighlightPanel : MonoBehaviour
 	{
 		public int currentSelectedIndex;
 		public HighlightInfo[] infos;
-	}
-}
-
-[Serializable]
-public class HighlightInfo
-{
-	public string name;
-	public Mark[] marks;
-	
-	public HighlightInfo(string name = null)
-	{
-		this.name = name;
-		marks = new Mark[1]{ Mark.Default };
-	}
-	
-	[Serializable]
-	public struct Mark
-	{
-		public string name;
-		public Color background;
-		public Color letter;
-		
-		public bool b;
-		public bool i;
-		public bool s;
-		public bool u;
-		
-		public static Mark Default => new Mark()
-		{
-			background = Color.yellow,
-			letter = Color.black
-		};
-		
-		public string GetBackgroundHex() => ColorUtility.ToHtmlStringRGBA(background);
-		public string GetLetterHex() => ColorUtility.ToHtmlStringRGBA(letter);
 	}
 }

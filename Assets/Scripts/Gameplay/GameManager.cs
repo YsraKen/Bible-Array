@@ -16,9 +16,15 @@ public class GameManager : MonoBehaviour
 	
 	[Space]
 	[SerializeField] private BibleUI2 _biblePrefab;
-	[SerializeField, FormerlySerializedAs("_onStartBibles")] private Version[] _onStartBiblesDefault;
 	
-	[field: SerializeField] public GeneralInformation GeneralInfo { get; private set; }
+	[SerializeField, FormerlySerializedAs("_onStartBibles")]
+	private Version[] _onStartBiblesDefault;
+	
+	[field: SerializeField]
+	public GeneralInformation GeneralInfo { get; private set; }
+	
+	[field: SerializeField]
+	public MarkManager MarkManager { get; private set; }
 	
 	public Version[] Versions => GeneralInfo.allVersions;
 	public Language[] Languages => GeneralInfo.allLanguages;
@@ -32,6 +38,8 @@ public class GameManager : MonoBehaviour
 	public int CurrentBookIndex { get; private set; }
 	public int CurrentChapterIndex { get; private set; }
 	
+	public ChapterUserData ChapterUserData { get; private set; }
+	
 	[Space]
 	[SerializeField] private GameObject _tabTemplate;
 	[SerializeField] private ScrollRect _tabsScroll;
@@ -43,16 +51,28 @@ public class GameManager : MonoBehaviour
 	[SerializeField] private ScrollRect _mainScroll;
 	[SerializeField] private float _hudReactionThresholdToMainScrollVelocity = 100f;
 	
+	Coroutine _hudReactionRoutine;
+	bool _isHudReacting;
+	
 	// for later saving data: Unity annoyingly destroy "_mainScroll" even before calling "this" script's "OnDisable" method
 	Vector2 _scrollNormalizedPositionCache;
 	
-	[SerializeField] private GameObject _upButton;
-	[SerializeField] private GameObject _downButton;
-	[SerializeField] private GameObject _leftButton;
-	[SerializeField] private GameObject _rightButton;
+	[Space]
+	[SerializeField] private Animation _navigator;
+	
+	bool _isNavigatorExpanded = true;
+	
+	[SerializeField] private Button _upButton;
+	[SerializeField] private Button _downButton;
+	[SerializeField] private Button _leftButton;
+	[SerializeField] private Button _rightButton;
+	
+	[SerializeField] private Button _prevButton;
+	[SerializeField] private Button _nextButton;
 	
 	private Coroutine mainScrollAutoScrollerRoutine;
 	
+	[Space]
 	[SerializeField] private BibleLayout _layout;
 	
 	[field: SerializeField]
@@ -125,6 +145,9 @@ public class GameManager : MonoBehaviour
 		}
 	
 		MainContentLoadingOverlay.SetActive(true);
+		_navigator.gameObject.SetActive(false);
+		
+		MarkManager.LoadData();
 		
 		Started = false;
 		Instance = this;
@@ -164,6 +187,7 @@ public class GameManager : MonoBehaviour
 		CurrentBookIndex = _tabs[_currentTabIndex].bookIndex;
 		CurrentChapterIndex = _tabs[_currentTabIndex].chapterIndex;
 		
+		UpdateCurrentBookAndChapterData();
 		UpdateBibleContents();
 		
 		yield return new WaitWhile(()=> IsLoadingContent);
@@ -171,6 +195,11 @@ public class GameManager : MonoBehaviour
 		
 		DefaultMinWidth = Mathf.Min(ScreenSize.x, ScreenSize.y);
 		UpdateSessionNameUI();
+		
+		yield return null;
+		
+		UpdateNavButtons();
+		_navigator.gameObject.SetActive(true);
 		
 		Started = true;
 	}
@@ -264,7 +293,19 @@ public class GameManager : MonoBehaviour
 		}
 		
 		yield return null;
-		OnTabSelect(sessionData.currentTabIndex);
+		
+		int currentIndex = sessionData.currentTabIndex;
+		OnTabSelect(currentIndex);
+		
+		_tabsScroll.horizontalNormalizedPosition = Mathf.InverseLerp(0, _tabs.Count - 1, currentIndex);
+	}
+	
+	void UpdateCurrentBookAndChapterData()
+	{
+		ChapterUserData = SaveManager.Load<ChapterUserData>(GetChapterUserDataKey());
+		
+		if(ChapterUserData == null)
+			ChapterUserData = new ChapterUserData();
 	}
 	
 	IEnumerator InitializeScrollPositionings()
@@ -451,16 +492,9 @@ public class GameManager : MonoBehaviour
 	public void OnScroll(Vector2 value)
 	{
 		_scrollNormalizedPositionCache = value;
+		UpdateNavButtons();
 		
-		#region Nav Buttons
-		
-		_upButton.SetActive(value.y < 0.9f);
-		_downButton.SetActive(value.y > 0.1f);
-		
-		_leftButton.SetActive(value.x > 0.1f);
-		_rightButton.SetActive(value.x < 0.9f);
-		
-		#endregion
+		if(_isHudReacting) return;
 		
 		float velocity = Mathf.Abs(_mainScroll.velocity.y);
 		
@@ -473,6 +507,10 @@ public class GameManager : MonoBehaviour
 			{
 				string clip = ScreenOrientation == ScreenOrientation.Horizontal? "hudAppearHorizontal": "hudAppear";
 				Array.ForEach(_hudAnimations, animation => animation.Play(clip));
+				
+				// SetNavigatorFoldout(true);
+				
+				restartHudReaction();
 				_appearHud_OneFrameGate = true;
 			}
 			
@@ -486,6 +524,10 @@ public class GameManager : MonoBehaviour
 			{
 				string clip = ScreenOrientation == ScreenOrientation.Horizontal? "hudAppearHorizontal": "hudAppear";
 				Array.ForEach(_hudAnimations, animation => animation.Play(clip));
+				
+				// SetNavigatorFoldout(true);
+				
+				restartHudReaction();
 				_appearHud_OneFrameGate = true;
 			}
 			
@@ -497,6 +539,10 @@ public class GameManager : MonoBehaviour
 			if(_appearHud_OneFrameGate)
 			{
 				Array.ForEach(_hudAnimations, animation => animation.Play("hudDisappear"));
+				
+				SetNavigatorFoldout(false);
+				
+				restartHudReaction();
 				_appearHud_OneFrameGate = false;
 			}
 			
@@ -504,6 +550,61 @@ public class GameManager : MonoBehaviour
 		}
 		
 		_lastScrollPosition = value;
+		
+		void restartHudReaction()
+		{
+			if(_hudReactionRoutine != null)
+				StopCoroutine(_hudReactionRoutine);
+			
+			_hudReactionRoutine = StartCoroutine(r());
+			IEnumerator r()
+			{
+				_isHudReacting = true;
+				yield return new WaitForSeconds(0.5f);
+				_isHudReacting = false;
+			}
+		}
+	}
+	
+	public void ToggleNavigatorFoldout() => SetNavigatorFoldout(!_isNavigatorExpanded);
+	
+	void SetNavigatorFoldout(bool isExpanded)
+	{
+		if(_isNavigatorExpanded == isExpanded)
+			return;
+		
+		_isNavigatorExpanded = isExpanded;
+		
+		if(!_navigator.gameObject.activeSelf)
+			return;
+		
+		string animation = _isNavigatorExpanded? "expand": "collapse";
+		_navigator.Play(animation);
+		
+		if(!_isNavigatorExpanded)
+			return;
+	
+		StartCoroutine(oneFrameDelay());
+		IEnumerator oneFrameDelay()
+		{
+			yield return null;
+			Reposition_End((RectTransform) _navigator.transform);
+		}
+	}
+	
+	private void UpdateNavButtons()
+	{
+		_upButton.interactable = _scrollNormalizedPositionCache.y < 0.95f;
+		_downButton.interactable = _scrollNormalizedPositionCache.y > 0.05f;
+		
+		bool isLeftActive = _scrollNormalizedPositionCache.x > 0.05f;
+		bool isRightActive = _scrollNormalizedPositionCache.x < 0.95f;
+		
+		_leftButton.interactable = isLeftActive;
+		_rightButton.interactable = isRightActive;
+	
+		_prevButton.interactable = isLeftActive;
+		_nextButton.interactable = isRightActive;
 	}
 	
 	public void NavigateScroll(int direction)
@@ -561,8 +662,13 @@ public class GameManager : MonoBehaviour
 	
 	#endregion
 	
+	#region Bible Body
+	
 	public void IterateChapter(int dir)
 	{
+		if(ChapterUserData != null)
+			SaveManager.Save(ChapterUserData, GetChapterUserDataKey());
+		
 		dir = Mathf.Clamp(dir, -1, 1);
 		CurrentChapterIndex += dir;
 		
@@ -588,6 +694,7 @@ public class GameManager : MonoBehaviour
 			CurrentChapterIndex = 0;
 		}
 		
+		UpdateCurrentBookAndChapterData();
 		UpdateBibleContents();
 		UpdateTabText();
 		
@@ -596,10 +703,17 @@ public class GameManager : MonoBehaviour
 	
 	public void NavigateTo(int bookIndex, int chapterIndex)
 	{
+		// if(!Started) return;
+		
+		if(ChapterUserData != null)
+			SaveManager.Save(ChapterUserData, GetChapterUserDataKey());
+		
 		CurrentBookIndex = bookIndex;
 		CurrentChapterIndex = chapterIndex;
 		
 		_verseOptions.OnClose();
+		
+		UpdateCurrentBookAndChapterData();
 		UpdateBibleContents();
 		
 		#region TABS
@@ -637,6 +751,7 @@ public class GameManager : MonoBehaviour
 			transform.position = position;
 			transform.gameObject.SetActive(true);
 		
+		Reposition_End((RectTransform) transform);
 		_popupScroll.verticalNormalizedPosition = 1f;
 	}
 	
@@ -651,7 +766,12 @@ public class GameManager : MonoBehaviour
 			SelectedVerses.Add(verseUI);
 		
 		SelectedVerses.ForEach(selected => selected.OnSelectionHighlight(true));
-		_verseOptions.gameObject.SetActive(SelectedVerses.Count > 0);
+		
+		bool showOptions = SelectedVerses.Count > 0;
+		_verseOptions.gameObject.SetActive(showOptions);
+		
+		if(showOptions)
+			_verseOptions.CheckRemoveHighlightOption();
 		
 		onVerseSelectUpdate?.Invoke();
 	}
@@ -659,11 +779,27 @@ public class GameManager : MonoBehaviour
 	public void Reposition_Start(Transform transform) => _repositionOffset = transform.position - Input.mousePosition;
 	public void Reposition(Transform transform) => transform.position = Input.mousePosition + _repositionOffset;
 	
+	public void Reposition_End(RectTransform rTransform)
+	{
+		var rectSize = rTransform.rect.size;
+		// var screenSize = ScreenSize * 2f;
+		
+		var clampedPosition = new Vector3
+		(
+			Mathf.Clamp(rTransform.position.x, rectSize.x, Screen.width - rectSize.x),
+			Mathf.Clamp(rTransform.position.y, rectSize.y, Screen.height - rectSize.y)
+		);
+		
+		rTransform.position = clampedPosition;
+	}
+	
 	public BibleUI2 GetActiveBible()
 	{
 		int index = Mathf.RoundToInt(Mathf.Lerp(0, BibleInstances.Count - 1, _mainScroll.horizontalNormalizedPosition));
 		return BibleInstances[index];
 	}
+	
+	#endregion
 	
 	#region Tabs
 	
@@ -694,6 +830,8 @@ public class GameManager : MonoBehaviour
 		
 		_tabTemplate.SetActive(false);
 		templateT.SetAsLastSibling();
+		
+		if(!Started) return;
 		
 		if(ping)
 			StartCoroutine(r());
@@ -726,6 +864,9 @@ public class GameManager : MonoBehaviour
 	
 	public void OnTabSelect(int index)
 	{
+		if(index == _currentTabIndex)
+			return;
+	
 		if(_tabRoutine != null)
 			StopCoroutine(_tabRoutine);
 		
@@ -779,13 +920,18 @@ public class GameManager : MonoBehaviour
 		_tabs.RemoveAt(index);
 		
 		if(isActive)
+			OnTabSelect(index % _tabs.Count);
+		
+		/* if(isActive)
 			OnTabSelect(index);
 		
 		else
-			_currentTabIndex = index % _tabs.Count;
+			_currentTabIndex = index % _tabs.Count; */
 	}
 	
 	#endregion
+	
+	#region MSC
 	
 	public void Home() => SceneManager.LoadScene("SessionSelect");
 	
@@ -840,19 +986,40 @@ public class GameManager : MonoBehaviour
 		#endregion
 		
 		SessionSelect.SaveCurrentSessionData(sessionData);
+		
+		SaveManager.Save(ChapterUserData, GetChapterUserDataKey());
+		MarkManager.SaveData();
+		
 		_userDataSaved = true;
 	}
+	
+	#endregion
+	
+	#region Info and Data
 	
 	public class Collection
 	{
 		public Language language;
 		public List<Version> versions;
 	}
+	
+	public string GetChapterUserDataKey(int bookIndex = -1, int chapterIndex = -1)
+	{
+		if(bookIndex < 0)
+			bookIndex = CurrentBookIndex;
+		
+		if(chapterIndex < 0)
+			chapterIndex = CurrentChapterIndex;
+		
+		return $"ChapterUserData_b{bookIndex}_c{chapterIndex}";
+	}
+	
+	#endregion
 }
 
 public enum ScreenOrientation { Vertical, Horizontal }
 
-[System.Serializable]
+[Serializable]
 public class Tab
 {
 	public GameObject gameObject;
@@ -880,5 +1047,28 @@ public class Tab
 			chapterIndex = tab.chapterIndex;
 			scrollPosition = tab.scrollPosition;
 		}
+	}
+}
+
+[Serializable]
+public class ChapterUserData
+{
+	public List<VerseData> verseDatas = new List<VerseData>();
+	
+	public VerseData this[int index]
+	{
+		get => verseDatas[index];
+		set => verseDatas[index] = value;
+	}
+	
+	[Serializable]
+	public struct VerseData
+	{
+		// Target referencing
+		public int index;
+		public int versionIndex;
+		
+		// Customization Datas
+		public int markIndex;
 	}
 }

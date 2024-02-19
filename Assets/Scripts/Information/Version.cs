@@ -28,4 +28,16 @@ public class Version : ScriptableObject
 	public Book[] Books { get; private set; }
 	
 	public void SetBooks(Book[] books) => Books = books;
+	
+	int _index = -1;
+	
+	public int GetIndex()
+	{
+		var mgr = GameManager.Instance;
+		
+		if(_index < 0 && mgr)
+			_index = System.Array.IndexOf(mgr.GeneralInfo.allVersions, this);
+		
+		return _index;
+	}
 }

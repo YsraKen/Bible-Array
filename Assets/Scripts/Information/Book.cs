@@ -64,6 +64,16 @@ public class Book : ScriptableObject
 	#endif
 	
 	public void SetName(string name) => Name = name;
+	
+	int _index = -1;
+	
+	public int GetIndex()
+	{
+		if(_index < 0)
+			_index = System.Array.IndexOf(version.Books, this);
+		
+		return _index;
+	}
 }
 
 [Serializable]

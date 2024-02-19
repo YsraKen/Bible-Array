@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 using TMPro;
+using System;
 
 public class VerseUI2 : BibleTextContent, IPointerClickHandler
 {
@@ -10,15 +11,15 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 	[SerializeField] private TMP_Text _foreTmp;
 	
 	private string _content;
-	private string _bgHex;
-	private string _letterHex;
 	
 	[SerializeField] private GameObject _selectBorderHighlight;
 	[SerializeField] private char quot;
 	
-	// private Verse.Comment[] _comments;
 	public int Index{ get; private set; }
-	private bool _isMarked;
+	public int dataIndex { get; set; } = -1;
+	
+	public bool IsMarked;
+	private int _markDatabaseIndex;
 	
 	static GameManager _mgr => GameManager.Instance;
 	
@@ -27,16 +28,13 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 		var instance = Instantiate(this, transform.parent, false);
 		
 		instance.Index = index;
-		// instance._mainTmp.text = "";
 		instance._content = "";
 		
 		if(isEmpty) return instance;
 		
 		if(!string.IsNullOrEmpty(verse.title))
-			// instance._mainTmp.text += $"<size={instance._mainTmp.fontSize * 1.15f}><b>{verse.title}</b></size>\n\n";
 			instance._content += $"<size={instance._mainTmp.fontSize * 1.15f}><b>{verse.title}</b></size>\n\n";
 		
-		// instance._mainTmp.text += GetMainContent(verse, _mainTmp.fontSize);
 		instance._content += GetMainContent(verse, _mainTmp.fontSize);
 		instance._mainTmp.text = instance._content;
 		
@@ -48,7 +46,9 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 		string content = $"<size={fontSize * 0.65f}><b>{info.number}</b></size> ";
 		content += info.content;
 		
-		setupJesusTag("<JESUS>", $"<color=#{ColorUtility.ToHtmlStringRGBA(_mgr.JesusWordColor)}>");
+		var mgr = _mgr;
+		
+		setupJesusTag("<JESUS>", $"<color=#{ColorUtility.ToHtmlStringRGBA(mgr.JesusWordColor)}>");
 		setupJesusTag("</JESUS>", "</color>");
 		
 		void setupJesusTag(string tag, string insert)
@@ -69,7 +69,7 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 		
 		if(!comments.IsNullOrEmpty())
 		{
-			string replace = includeComments? _mgr.VerseCommentLink: "";
+			string replace = includeComments? mgr.VerseCommentLink: "";
 			
 			for(int i = 0; i < comments.Length; i++)
 			{
@@ -97,7 +97,7 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 		// copy
 		// report
 		
-		_mgr.OnVerseSelect(this/* , bible.version */);
+		_mgr.OnVerseSelect(this);
 	}
 	
 	public void OnSelectionHighlight(bool isHighlighted)
@@ -106,136 +106,118 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 			_selectBorderHighlight?.SetActive(isHighlighted);
 	}
 	
-	public void SetMark(/* string tmpFontName,  */string bgHex, string letterHex, bool saveData = true)
+	#region Marks
+	
+	public void SetMark(int markDatabaseIndex, bool saveData = true)
 	{
-		// string hex = ColorUtility.ToHtmlStringRGBA(color);
+		_mainTmp.fontStyle = FontStyles.Normal;
+		_foreTmp.fontStyle = FontStyles.Normal;
 		
-		_mainTmp.text = $"<mark=#{bgHex}>{_content}</mark>";
-		_foreTmp.text = $"<color=#{letterHex}>{_content}</color>";
-		
-		if(_isMarked && (bgHex == _bgHex && letterHex == _letterHex))
+		if(IsMarked)
 		{
-			_mainTmp.text = _content;
-			_foreTmp.text = "";
-		
+			bool isClearing = markDatabaseIndex == _markDatabaseIndex;
+			
 			DeleteSavedData();
 			
-			_isMarked = false;
-			return;
-		}
-		
-		_bgHex = bgHex;
-		_letterHex = letterHex;
-		
-		_isMarked = true;
-		
-		if(saveData)
-			SaveData();
-		
-		/* // string tagOpen = $"<font={quot}{tmpFontName}{quot}><mark=#{bgHex}><color=#{letterHex}>";
-		// string tagClose = "</color></mark></font>";
-		
-		if(_isMarked)
-		{
-			string currentBgHex = _mainTmp.text.Substring(_mainTmp.text.IndexOf("<mark=#") + 7, 8);
-			string currentLetterHex = _mainTmp.text.Substring(_mainTmp.text.IndexOf("><color=#") + 9, 8);
-			
-			_mainTmp.text = _mainTmp.text.Remove(0, tagOpen.Length);
-			_mainTmp.text = _mainTmp.text.Remove(_mainTmp.text.Length - tagClose.Length);
-			
-			if(currentBgHex == bgHex && currentLetterHex == letterHex)
+			if(isClearing)
 			{
-				_isMarked = false;
-				// _foreTmp.text = "";
-				
-				DeleteSavedData();
+				_mainTmp.text = _content;
+				_foreTmp.text = "";
+			
+				IsMarked = false;
 				return;
 			}
 		}
 		
-		SetMark(tagOpen); */
-	}
-	
-	/* public void SetMark(string tagOpen, bool saveData = true)
-	{
-		// _foreTmp.text = _mainTmp.text;
+		var value = _mgr.MarkManager.MarkInfos[markDatabaseIndex].value;
 		
-		_mainTmp.text = _mainTmp.text.Insert(0, tagOpen);
-		_mainTmp.text += UserData.highlightClose;
+		setFontStyles(_mainTmp);
+		setFontStyles(_foreTmp);
 		
-		_isMarked = true;
+		void setFontStyles(TMP_Text tmp)
+		{
+			if(value.b) tmp.fontStyle |= (FontStyles)(1 << 0);
+			if(value.i) tmp.fontStyle |= (FontStyles)(1 << 1);
+			if(value.s) tmp.fontStyle |= (FontStyles)(1 << 6);
+			if(value.u) tmp.fontStyle |= (FontStyles)(1 << 2);
+		}
+		
+		string bgHex = value.GetBackgroundHex();
+		string letterHex = value.GetLetterHex();
+		
+		_mainTmp.text = $"<mark=#{bgHex}>{_content}</mark>";
+		_foreTmp.text = $"<color=#{letterHex}>{_content}</color>";
+		
+		IsMarked = true;
+		_markDatabaseIndex = markDatabaseIndex;
 		
 		if(saveData)
-			SaveData(tagOpen);
-	} */
+			SaveData();
+	}
 	
-	public void RemoveMark(string tmpFontName)
+	public void RemoveMark()
 	{
-		string tagOpen = $"<font={quot}{tmpFontName}{quot}><mark=#000000FF><color=#000000FF>";
-		string tagClose = UserData.highlightClose;
+		_mainTmp.fontStyle = FontStyles.Normal;
+		_foreTmp.fontStyle = FontStyles.Normal;
 		
-		_mainTmp.text = _mainTmp.text.Remove(0, tagOpen.Length);
-		_mainTmp.text = _mainTmp.text.Remove(_mainTmp.text.Length - tagClose.Length - 1, tagClose.Length);
+		_mainTmp.text = _content;
+		_foreTmp.text = "";
+	
+		IsMarked = false;
 		
 		DeleteSavedData();
 	}
 	
+	#endregion
+	
 	#region DataManagent
 	
-	public void LoadData()
-	{
-		string key = GetSaveKey();
-		
-		if(PlayerPrefs.HasKey(key))
-		{
-			var userData = SaveManager.Load<UserData>(key);
-			// SetMark(userData.highlightOpen, false);
-			SetMark(userData.bgHex, userData.letterHex, false);
-		}
-	}
-	
-	// void SaveData(string highlightOpen)
 	void SaveData()
 	{
-		// var userData = new UserData(){ highlightOpen = highlightOpen };
-		var userData = new UserData()
+		var mgr = _mgr;
+		
+		if(dataIndex < 0)
 		{
-			bgHex = _bgHex,
-			letterHex = _letterHex
-		};
-		
-		string key = GetSaveKey();
-		
-		SaveManager.Save(userData, key);
+			dataIndex = mgr.ChapterUserData.verseDatas.Count;
+			
+			var data = new ChapterUserData.VerseData()
+			{
+				index = Index,
+				versionIndex = bible.version.GetIndex(),
+				markIndex = _markDatabaseIndex
+			};
+			
+			mgr.ChapterUserData.verseDatas.Add(data);
+		}
+		else
+		{
+			var data = mgr.ChapterUserData[dataIndex];
+				data.markIndex = _markDatabaseIndex;
+			
+			mgr.ChapterUserData[dataIndex] = data;
+		}
 	}
 	
 	void DeleteSavedData()
 	{
-		string key = GetSaveKey();		
-		PlayerPrefs.DeleteKey(key);
+		var mgr = _mgr;
+		
+		mgr.MarkManager.RemoveOn
+		(
+			_markDatabaseIndex,
+			bible.version.Language.GetIndex(),
+			bible.version.GetIndex(),
+			mgr.CurrentBookIndex,
+			mgr.CurrentChapterIndex,
+			Index
+		);
+		
+		if(mgr.ChapterUserData.verseDatas.IsInsideRange(dataIndex))
+			mgr.ChapterUserData.verseDatas.RemoveAt(dataIndex);
+		
+		_markDatabaseIndex = -1;
+		dataIndex = -1;
 	}
 	
-	string GetSaveKey()
-	{
-		var version = bible.version;
-		var book = version.Books[GameManager.Instance.CurrentBookIndex];
-		int chapterIndex = GameManager.Instance.CurrentChapterIndex;
-		
-		string value = $"VerseData-{bible.version.NameCode}-{book.nickname}{chapterIndex}:{Index}";
-		
-		return value;
-	}
-	
-	[System.Serializable]
-	public class UserData
-	{
-		public string bgHex;
-		public string letterHex;
-		
-		public string highlightOpen;
-		
-		public const string highlightClose = "</color></mark></font>";
-		// public const string highlightClose = "</mark>";
-	}
 	#endregion
 }

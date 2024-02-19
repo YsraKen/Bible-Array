@@ -24,7 +24,6 @@ public class BibleUI2 : MonoBehaviour
 	public GameObject Glow { get; private set; }
 	
 	[SerializeField] private TMP_Text _versionTmp;
-	// [SerializeField] private TMP_Dropdown _options;
 	
 	[Space]
 	[SerializeField] private RectTransform _rectTransform;
@@ -119,7 +118,7 @@ public class BibleUI2 : MonoBehaviour
 				
 				var instance = _verseTemplate.Create(index ++, verse, isDuplicated);
 					instance.bible = this;
-					instance.LoadData();
+					// instance.LoadData();
 				
 				_verseInstances.Add(instance);
 				previousVerse = verse;
@@ -127,6 +126,24 @@ public class BibleUI2 : MonoBehaviour
 		}		
 		_verseTemplate.gameObject.SetActive(false);
 		_verseTemplate.transform.SetAsLastSibling();
+		
+		#region User Data
+		
+		int versionIndex = version.GetIndex();
+		
+		for(int i = 0; i < _mgr.ChapterUserData.verseDatas.Count; i++)
+		{
+			var data = _mgr.ChapterUserData[i];
+			
+			if(data.versionIndex != versionIndex)
+				continue;
+			
+			var verseInstance = _verseInstances[data.index];
+				verseInstance.SetMark(data.markIndex, false);
+				verseInstance.dataIndex = i;
+		}
+		
+		#endregion
 	}
 	
 	[ContextMenu("Update Vertical Size")]

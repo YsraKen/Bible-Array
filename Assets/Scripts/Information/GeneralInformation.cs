@@ -25,4 +25,6 @@ public struct BookChapterVerseInfo
 {
 	public string name;
 	public int[] chaptersAndVerses;
+	
+	public int this[int chapterIndex] => chaptersAndVerses[chapterIndex];
 }

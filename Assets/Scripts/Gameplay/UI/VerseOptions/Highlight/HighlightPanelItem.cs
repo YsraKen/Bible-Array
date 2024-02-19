@@ -32,6 +32,8 @@ public class HighlightPanelItem : MonoBehaviour
 	
 	bool _isFoldoutExpanded;
 	
+	HighlightPanel _panel => HighlightPanel.Instance;
+	
 	public void Init(int index, HighlightInfo info)
 	{
 		_index = index;
@@ -94,6 +96,9 @@ public class HighlightPanelItem : MonoBehaviour
 		_bodyRect.SetActive(_isFoldoutExpanded);
 		
 		_layoutGroup.Poke();
+		
+		if(isExpanded)
+			_panel.UpdateSelectedItem(_index, false);
 	}
 	
 	public void OnEdit()
@@ -102,6 +107,8 @@ public class HighlightPanelItem : MonoBehaviour
 		
 		_headerTmp.gameObject.SetActive(false);
 		_headerInput.gameObject.SetActive(true);
+		
+		_headerInput.Select();
 	}
 	
 	public void OnEditInput(string value)
@@ -111,42 +118,50 @@ public class HighlightPanelItem : MonoBehaviour
 		_headerTmp.gameObject.SetActive(true);
 		_headerInput.gameObject.SetActive(false);
 		
-		HighlightPanel.Instance.OnItemEdit(value, _index);
+		_panel.OnItemEdit(value, _index);
+		_panel.UpdateSelectedItem(_index, false);
 	}
 	
 	public void OnDelete()
 	{
-		if(HighlightPanel.Instance.Infos.Count == 1)
+		if(_panel.Infos.Count == 1)
 			return;
 		
-		HighlightPanel.Instance.OnItemDelete(this);
+		_panel.OnItemDelete(this);
 		Destroy(gameObject);
 	}
 	
 	public void OnElementEdit(Transform transform)
 	{
 		int index = transform.GetSiblingIndex();
-		HighlightPanel.Instance.OpenColorPanel(_index, index, onApply);
+		_panel.OpenColorPanel(_index, index, onApply);
 		
 		void onApply(HighlightInfo.Mark mark)
 		{
 			var element = _elementInstances[index];
 			UpdateElementValues(element, mark);
+			
+			var ping = transform.GetChild(0);
+				ping.gameObject.SetActive(true);
+			
+			_panel.UpdateSelectedItem(_index, false);
 		}
 	}
 	
 	public void OnElementDelete(Transform transform)
 	{
 		int index = transform.GetSiblingIndex();
-		var info = HighlightPanel.Instance.GetActiveInfo();
+		// var info = _panel.GetActiveInfo();
 		
-		var marks = info.marks.ToList();
+		var marks = _panel.Infos[_panel.currentSelectedIndex].marks.ToList();
 			marks.RemoveAt(index);
 		
-		info.marks = marks.ToArray();
+		_panel.Infos[_panel.currentSelectedIndex].marks = marks.ToArray();
 		
 		_elementInstances.RemoveAt(index);
 		Destroy(transform.gameObject);
+		
+		_panel.UpdateSelectedItem(_index, false);
 	}
 	
 	public void AddElement()
@@ -156,14 +171,16 @@ public class HighlightPanelItem : MonoBehaviour
 		var newElement = Instantiate(_elementTemplate, templateT.parent, false);
 			newElement.gameObject.SetActive(true);
 		
-		var newMark = HighlightInfo.Mark.Default;
+		var newMark = UnityEngine.Random.value < 0.5f?
+			HighlightInfo.Mark.Random:
+			HighlightInfo.Mark.RandomComplimentary;
+			
 		UpdateElementValues(newElement, newMark);
 		
-		var info = HighlightPanel.Instance.GetActiveInfo();
-		var marks = info.marks.ToList();
+		var marks = _panel.Infos[_panel.currentSelectedIndex].marks.ToList();
 		
 		marks.Add(newMark);
-		info.marks = marks.ToArray();
+		_panel.Infos[_panel.currentSelectedIndex].marks = marks.ToArray();
 		
 		_elementInstances.Add(newElement);
 		
@@ -171,5 +188,9 @@ public class HighlightPanelItem : MonoBehaviour
 		_addElementButton.SetAsLastSibling();
 		
 		_layoutGroup.Poke();
+		_panel.UpdateSelectedItem(_index, false);
+		
+		var ping = newElement.transform.GetChild(0);
+			ping.gameObject.SetActive(true);
 	}
 }
