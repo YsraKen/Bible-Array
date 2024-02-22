@@ -31,76 +31,137 @@ MonoBehaviour:
   <Publisher>k__BackingField: Logos Bible Software
   <Copyright>k__BackingField: 2010 Logos Bible Software. Lexham is a registered trademark
     of Logos Bible Software
-  <Websites>k__BackingField:
-  - www.logos.com
-  - lexhamenglishbible.com/
-  - www.logos.com
-  - lexhamenglishbible.com
-  - www.logos.com
+  <_Books>k__BackingField:
+  - value: 0
+  - value: 1
+  - value: 2
+  - value: 3
+  - value: 4
+  - value: 5
+  - value: 6
+  - value: 7
+  - value: 8
+  - value: 9
+  - value: 10
+  - value: 11
+  - value: 12
+  - value: 13
+  - value: 14
+  - value: 15
+  - value: 16
+  - value: 17
+  - value: 18
+  - value: 19
+  - value: 20
+  - value: 21
+  - value: 22
+  - value: 23
+  - value: 24
+  - value: 25
+  - value: 26
+  - value: 27
+  - value: 28
+  - value: 29
+  - value: 30
+  - value: 31
+  - value: 32
+  - value: 33
+  - value: 34
+  - value: 35
+  - value: 36
+  - value: 37
+  - value: 38
+  - value: 39
+  - value: 40
+  - value: 41
+  - value: 42
+  - value: 43
+  - value: 44
+  - value: 45
+  - value: 46
+  - value: 47
+  - value: 48
+  - value: 49
+  - value: 50
+  - value: 51
+  - value: 52
+  - value: 53
+  - value: 54
+  - value: 55
+  - value: 56
+  - value: 57
+  - value: 58
+  - value: 59
+  - value: 60
+  - value: 61
+  - value: 62
+  - value: 63
+  - value: 64
+  - value: 65
   <Books>k__BackingField:
-  - {fileID: 11400000, guid: ed41d38316212f44896c8e3e82381e86, type: 2}
-  - {fileID: 11400000, guid: 2a607d9c923e9a247a2c6f8593d5fa10, type: 2}
-  - {fileID: 11400000, guid: c3ab5302c5bb327458bfd4cad7b7fec4, type: 2}
-  - {fileID: 11400000, guid: 5b6503526938c2f4992c29211a9dfd6a, type: 2}
-  - {fileID: 11400000, guid: 3f6c510a2ab8fbe4db413545ae318495, type: 2}
-  - {fileID: 11400000, guid: 925e58558e55e3c4b95d65a4c52d8ab8, type: 2}
-  - {fileID: 11400000, guid: 04ca61c957da53c4ab32d1deb6d5f44c, type: 2}
-  - {fileID: 11400000, guid: e9269ba31b01d8d42afca0e53904315a, type: 2}
-  - {fileID: 11400000, guid: 68ae3c517857b104a80635e9d9892f6b, type: 2}
-  - {fileID: 11400000, guid: cdd9e6d71357344419aa9ebc01cc4973, type: 2}
-  - {fileID: 11400000, guid: d03f8b0762129954dbf3be6e33a859df, type: 2}
-  - {fileID: 11400000, guid: 388a123bcc8f446428d7188e04eb23e0, type: 2}
-  - {fileID: 11400000, guid: b44844e6d3d627649ba0eaa933e752df, type: 2}
-  - {fileID: 11400000, guid: d7e1eddf2e5425e4380568d2550335f1, type: 2}
-  - {fileID: 11400000, guid: c6bab2503d4b38f42b13e44104141894, type: 2}
-  - {fileID: 11400000, guid: 934d83fb6735f9444aaad72e9a0fd817, type: 2}
-  - {fileID: 11400000, guid: c86c9cc7c677cd24794b1c04042d6ce0, type: 2}
-  - {fileID: 11400000, guid: 3a9cd8b842f641f4a9ea99d36d8571c6, type: 2}
-  - {fileID: 11400000, guid: 86c084681887d004ea6a5ea854819586, type: 2}
-  - {fileID: 11400000, guid: c3f95a58284f27a45bedb0340c8c0df3, type: 2}
-  - {fileID: 11400000, guid: 8c754391c2b1b6349989bbe88c003913, type: 2}
-  - {fileID: 11400000, guid: b648c7923f2af8645bcba70a96ea096b, type: 2}
-  - {fileID: 11400000, guid: 868bb64918935b34bbdf072a181a135c, type: 2}
-  - {fileID: 11400000, guid: 8ff396279d116404ab9befc577e2777b, type: 2}
-  - {fileID: 11400000, guid: 56d9d4e1cadae7641849de4c5326c1b0, type: 2}
-  - {fileID: 11400000, guid: 24b3f3e56c607c04ea32669b6f6e0b10, type: 2}
-  - {fileID: 11400000, guid: 6093f93ef66db194fbfe4a9a98af801c, type: 2}
-  - {fileID: 11400000, guid: e4414a237ceb0274c8760956e3cabb48, type: 2}
-  - {fileID: 11400000, guid: 90a8cd0fcfd129640b77e52aa769b6e8, type: 2}
-  - {fileID: 11400000, guid: 2aa30b8baea38d846893eb1b7f75c0a3, type: 2}
-  - {fileID: 11400000, guid: 0a536e640c88a474990eb8647de57568, type: 2}
-  - {fileID: 11400000, guid: db6f30f01cceb0a4ba31cd78d184d0a6, type: 2}
-  - {fileID: 11400000, guid: 6eff41f54dd76de4ca720f3d5e0647a6, type: 2}
-  - {fileID: 11400000, guid: b2efb7b36280cc54c9b010fa3bab8577, type: 2}
-  - {fileID: 11400000, guid: 25a1a774603da9f4784764f9143137c2, type: 2}
-  - {fileID: 11400000, guid: 8fe010ebd07c92e409b38aeac148c75c, type: 2}
-  - {fileID: 11400000, guid: 95bebd9143ca5ad4c942ad8c4f1ebfa1, type: 2}
-  - {fileID: 11400000, guid: 27e432bc1b112a34c8d3e23ff14fa573, type: 2}
-  - {fileID: 11400000, guid: c015c3a7d3a2c0848ac0cff463777fa1, type: 2}
-  - {fileID: 11400000, guid: 982b53e87365d9748b1ef70d54357e5c, type: 2}
-  - {fileID: 11400000, guid: 6431d4ae800c5b643ae77a1ac79895c2, type: 2}
-  - {fileID: 11400000, guid: 4907e26b628238e429d925045007bbe8, type: 2}
-  - {fileID: 11400000, guid: 766f051b41af47249a5cd348623da92d, type: 2}
-  - {fileID: 11400000, guid: 080cd100fc983fd409e882c97eb4293a, type: 2}
-  - {fileID: 11400000, guid: fae5aa3860b236c4bb91ec849c79e1c3, type: 2}
-  - {fileID: 11400000, guid: 231938f546a361a4297f1917e35cef2d, type: 2}
-  - {fileID: 11400000, guid: f3dea60c84f972e43a7b4c87582c176a, type: 2}
-  - {fileID: 11400000, guid: 9b0a7d34cc8fdc0498f11bc766ea0330, type: 2}
-  - {fileID: 11400000, guid: cf6ff00af40d566469f72a13319f1bc0, type: 2}
-  - {fileID: 11400000, guid: f818640f3a6b7f44f863b3cfc673268a, type: 2}
-  - {fileID: 11400000, guid: 308e051ddc0830b4d8d48642886fa9bd, type: 2}
-  - {fileID: 11400000, guid: 41c74dc258c45344a821eb987a797e92, type: 2}
-  - {fileID: 11400000, guid: 4dbb09eb21433d14b943da7eddc73256, type: 2}
-  - {fileID: 11400000, guid: 3f489c3351c230049af28483bd626c44, type: 2}
-  - {fileID: 11400000, guid: e28d7b11f10441a4e9f24fa2a2cefab9, type: 2}
-  - {fileID: 11400000, guid: 66f98c241ed98cb40a5e7d4fad19b4f5, type: 2}
-  - {fileID: 11400000, guid: d7410631e13c78942abddfe87a9d62b7, type: 2}
-  - {fileID: 11400000, guid: e4ff23fbd37a13a4991a35ae7b578822, type: 2}
-  - {fileID: 11400000, guid: 7b434886df8277e4189b5d2e3523ad24, type: 2}
-  - {fileID: 11400000, guid: 60bd3981352561045b87168a5fb87a2b, type: 2}
-  - {fileID: 11400000, guid: 09cca10297c930b479a6378d094c8eb4, type: 2}
-  - {fileID: 11400000, guid: 24142bc8d987dc44697ebbcc258f2ffc, type: 2}
-  - {fileID: 11400000, guid: c902eca6dab62544c8bd0dcfbbfae007, type: 2}
-  - {fileID: 11400000, guid: 33632e9760022ad4288e56f6f4535512, type: 2}
-  - {fileID: 11400000, guid: 4a05edf94e31d2f44960295943f06ecf, type: 2}
-  - {fileID: 11400000, guid: bee3041c0d870494a9ee24ae88e01ea1, type: 2}
+  - value: 0
+  - value: 1
+  - value: 2
+  - value: 3
+  - value: 4
+  - value: 5
+  - value: 6
+  - value: 7
+  - value: 8
+  - value: 9
+  - value: 10
+  - value: 11
+  - value: 12
+  - value: 13
+  - value: 14
+  - value: 15
+  - value: 16
+  - value: 17
+  - value: 18
+  - value: 19
+  - value: 20
+  - value: 21
+  - value: 22
+  - value: 23
+  - value: 24
+  - value: 25
+  - value: 26
+  - value: 27
+  - value: 28
+  - value: 29
+  - value: 30
+  - value: 31
+  - value: 32
+  - value: 33
+  - value: 34
+  - value: 35
+  - value: 36
+  - value: 37
+  - value: 38
+  - value: 39
+  - value: 40
+  - value: 41
+  - value: 42
+  - value: 43
+  - value: 44
+  - value: 45
+  - value: 46
+  - value: 47
+  - value: 48
+  - value: 49
+  - value: 50
+  - value: 51
+  - value: 52
+  - value: 53
+  - value: 54
+  - value: 55
+  - value: 56
+  - value: 57
+  - value: 58
+  - value: 59
+  - value: 60
+  - value: 61
+  - value: 62
+  - value: 63
+  - value: 64
+  - value: 65

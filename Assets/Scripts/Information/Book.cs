@@ -27,12 +27,12 @@ public class Book : ScriptableObject
 	[Space, TextArea(5,5)]
 	public string description;
 	
-	[Space]
-	public Chapter[] chapters;
+	// [Space]
+	// public Chapter[] chapters;
 	
-	public Chapter this[int index] => chapters[index];
+	// public Chapter this[int index] => chapters[index];
 	
-	#if UNITY_EDITOR
+	/* #if UNITY_EDITOR
 	[ContextMenu("Extract Data to JSON")]
 	public void ToJson()
 	{
@@ -61,7 +61,7 @@ public class Book : ScriptableObject
 		Debug.Log(path, this);
 	}
 	
-	#endif
+	#endif */
 	
 	public void SetName(string name) => Name = name;
 	
@@ -91,11 +91,39 @@ public class Verse
 	[HideInInspector] public string name;
 	#endif
 	
-	public string title;
+	// public string title;
 	public string number;
 	
-	[TextArea]
+	[TextArea(5,5)]
 	public string content;
+	
+	// public Content[] contents;
+	// public Content this[int index] => contents[index];
+	
+	[Serializable]
+	public struct Content
+	{
+		public string title;
+		public bool isMain;
+		
+		[TextArea]
+		public string body;
+		
+		public Comment[] comments;
+		public Comment this[int index] => comments[index];
+			
+		[Serializable]
+		public struct Comment
+		{
+			public string number;
+			
+			[TextArea]
+			public string content;
+		}
+	}
+	
+	/* [TextArea] public string preHead;
+	[TextArea] public string content;
 	
 	public Comment[] comments;
 	
@@ -108,7 +136,7 @@ public class Verse
 		
 		[TextArea]
 		public string content;
-	}
+	} */
 }
 
 [Serializable]
@@ -123,4 +151,16 @@ public class DataWrapper
 	public string ver;
 	public string description;
 	public Chapter[] chapters;
+}
+
+[Serializable]
+public class BookJsonInfo
+{
+	public string name;
+	public string fancyName;
+	public string nickname;
+	public string description;
+	public int language;
+	public int version;
+	// public Chapter[] chapters;
 }

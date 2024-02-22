@@ -22,12 +22,7 @@ public class Version : ScriptableObject
 	public string Copyright { get; private set; }
 	
 	[field: SerializeField]
-	public string[] Websites { get; private set; }
-	
-	[field: SerializeField]
-	public Book[] Books { get; private set; }
-	
-	public void SetBooks(Book[] books) => Books = books;
+	public BookSelect[] Books { get; private set; }
 	
 	int _index = -1;
 	

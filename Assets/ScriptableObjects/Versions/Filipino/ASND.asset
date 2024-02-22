@@ -25,72 +25,137 @@ MonoBehaviour:
   <Copyright>k__BackingField: "Ang Salita ng Dios (Tagalog Contemporary Bible)\r\n\r\nCopyright
     \xA9 2009, 2011, 2014, 2015 by Biblica, Inc. \xAE\r\n\r\nUsed by permission of
     Biblica, Inc.\xAE All rights reserved worldwide."
-  <Websites>k__BackingField:
-  - www.biblica.com
+  <_Books>k__BackingField:
+  - value: 0
+  - value: 1
+  - value: 2
+  - value: 3
+  - value: 4
+  - value: 5
+  - value: 6
+  - value: 7
+  - value: 8
+  - value: 9
+  - value: 10
+  - value: 11
+  - value: 12
+  - value: 13
+  - value: 14
+  - value: 15
+  - value: 16
+  - value: 17
+  - value: 18
+  - value: 19
+  - value: 20
+  - value: 21
+  - value: 22
+  - value: 23
+  - value: 24
+  - value: 25
+  - value: 26
+  - value: 27
+  - value: 28
+  - value: 29
+  - value: 30
+  - value: 31
+  - value: 32
+  - value: 33
+  - value: 34
+  - value: 35
+  - value: 36
+  - value: 37
+  - value: 38
+  - value: 39
+  - value: 40
+  - value: 41
+  - value: 42
+  - value: 43
+  - value: 44
+  - value: 45
+  - value: 46
+  - value: 47
+  - value: 48
+  - value: 49
+  - value: 50
+  - value: 51
+  - value: 52
+  - value: 53
+  - value: 54
+  - value: 55
+  - value: 56
+  - value: 57
+  - value: 58
+  - value: 59
+  - value: 60
+  - value: 61
+  - value: 62
+  - value: 63
+  - value: 64
+  - value: 65
   <Books>k__BackingField:
-  - {fileID: 11400000, guid: 9e7b34aa5de5e774b9f33c81597c7b8c, type: 2}
-  - {fileID: 11400000, guid: b68b97f3a63c145408fb210415d9441e, type: 2}
-  - {fileID: 11400000, guid: 58449b7f35fbb5749b8bf00989e0c225, type: 2}
-  - {fileID: 11400000, guid: 74f8d04a83b2e79429593fac7749a7b3, type: 2}
-  - {fileID: 11400000, guid: d473889239753194caa87f697b0b214c, type: 2}
-  - {fileID: 11400000, guid: 12a7593e1ba26cb4f85c4ae9dfa5df60, type: 2}
-  - {fileID: 11400000, guid: 11f76a47b94b1ab41a8513fa8a2cb833, type: 2}
-  - {fileID: 11400000, guid: 00f19d0256284e5489242340d18bfb29, type: 2}
-  - {fileID: 11400000, guid: ed4b8a0f9eddd5a4f85d66bd21e50dd8, type: 2}
-  - {fileID: 11400000, guid: eeecf783244ee3245b245cd2438560a2, type: 2}
-  - {fileID: 11400000, guid: 8e45f398f48694c46ae62d2157d79549, type: 2}
-  - {fileID: 11400000, guid: f307cd4c7184aa743a982eec9c36820a, type: 2}
-  - {fileID: 11400000, guid: 15aed607a3cecd84091d3fa9f377bf5d, type: 2}
-  - {fileID: 11400000, guid: 37b3a33bd67a00d4bb3fef28318bd27d, type: 2}
-  - {fileID: 11400000, guid: b00cce9772904d14d9df8ec684ca1a61, type: 2}
-  - {fileID: 11400000, guid: 4d5264b563b345f44960472ce297945d, type: 2}
-  - {fileID: 11400000, guid: e608ba21640796143bce5b51c53a7c09, type: 2}
-  - {fileID: 11400000, guid: cb62b1a70f435d64398dce41045ffc3f, type: 2}
-  - {fileID: 11400000, guid: ff812da1fd1bee94ebc5317931c79832, type: 2}
-  - {fileID: 11400000, guid: 35558ea06bcbb9947bf7c4080881f748, type: 2}
-  - {fileID: 11400000, guid: 158fd3d62966e5247bd667192669cce7, type: 2}
-  - {fileID: 11400000, guid: c5167f9d292bdc942aa93cebae432e03, type: 2}
-  - {fileID: 11400000, guid: 41cfc03f07e756f4393381ad2d56bad6, type: 2}
-  - {fileID: 11400000, guid: 60e45829419e2234d90c903834136c61, type: 2}
-  - {fileID: 11400000, guid: e614d99b576d1094fae9c7b7518b14e4, type: 2}
-  - {fileID: 11400000, guid: 1be79f1e37e0e254e9527f152e3667cc, type: 2}
-  - {fileID: 11400000, guid: 8bbe32cac174b6444b8bcba82e68f700, type: 2}
-  - {fileID: 11400000, guid: 24df12481593a2341b2612825fb225ab, type: 2}
-  - {fileID: 11400000, guid: 091e554b38896a3438557704a8d3a7a4, type: 2}
-  - {fileID: 11400000, guid: 4df8a359a12604b4ebe6b83e0611d40d, type: 2}
-  - {fileID: 11400000, guid: 16c02e0b52d87d7419366826e3e6686e, type: 2}
-  - {fileID: 11400000, guid: f8e81e0c4a00c3b4ca04a8aa7dd3313e, type: 2}
-  - {fileID: 11400000, guid: 3eb48ec4639cb914c96ca57618c5d627, type: 2}
-  - {fileID: 11400000, guid: f0fa9b70a7b65aa4183ebc7bfd117e60, type: 2}
-  - {fileID: 11400000, guid: dabaafb7f74556845b2f221feec9ec76, type: 2}
-  - {fileID: 11400000, guid: f32237dbe192a15428e7e0e812937caf, type: 2}
-  - {fileID: 11400000, guid: 9e4a1258e12660b47856c912483c5ae3, type: 2}
-  - {fileID: 11400000, guid: 9866c1c9bc197ff45b8c6a8be74c2acc, type: 2}
-  - {fileID: 11400000, guid: 9a5531ffde12c1545ba5165baed2f0a2, type: 2}
-  - {fileID: 11400000, guid: f3fee8e5a67c40648aa5f235977865f2, type: 2}
-  - {fileID: 11400000, guid: c2e30ad24f51f9144bed914f33219b47, type: 2}
-  - {fileID: 11400000, guid: 277502ae261885d4aa49b4ad0ea27462, type: 2}
-  - {fileID: 11400000, guid: 9049baf71bdcb4d4b92c2f943b6189c3, type: 2}
-  - {fileID: 11400000, guid: c99c28caef7ae154cb68207273359e43, type: 2}
-  - {fileID: 11400000, guid: e6faece83854db74092df530a678a3e3, type: 2}
-  - {fileID: 11400000, guid: 79a000b42939215419b46c0cc141d178, type: 2}
-  - {fileID: 11400000, guid: 6f5c36d59d1c45b4fb5b94720d95f255, type: 2}
-  - {fileID: 11400000, guid: 9133ea5491436334fabe1f6384ac6d1e, type: 2}
-  - {fileID: 11400000, guid: b4525e9daec381442add0e5d729f2aef, type: 2}
-  - {fileID: 11400000, guid: bac8f1153b8d54f409b5d4bd4bae48b7, type: 2}
-  - {fileID: 11400000, guid: d082ee92c52337742a76306192918ced, type: 2}
-  - {fileID: 11400000, guid: ab8f6cc2430b06140b3ea407dd6b207f, type: 2}
-  - {fileID: 11400000, guid: a1917898a691a424c8a6355f09b063c9, type: 2}
-  - {fileID: 11400000, guid: a4445f1928b4a744baa110fac2ea5c6a, type: 2}
-  - {fileID: 11400000, guid: 4ae0426b226d76249ae65c5784f74e1e, type: 2}
-  - {fileID: 11400000, guid: 18dcf5ee98056844990bdd3ca72d9656, type: 2}
-  - {fileID: 11400000, guid: 9648565264b0b154c835aabe8497b4f4, type: 2}
-  - {fileID: 11400000, guid: 8d55ec7823cb0144780e6857b0daa3d4, type: 2}
-  - {fileID: 11400000, guid: 94d1a3584b632c248b771dd926434ac3, type: 2}
-  - {fileID: 11400000, guid: 1d03419a51ef5224784271c633e528bd, type: 2}
-  - {fileID: 11400000, guid: 1a7efd3811f984541bbbb1d89e1613f6, type: 2}
-  - {fileID: 11400000, guid: e4c1eebcc5d6a6247839630089a2099b, type: 2}
-  - {fileID: 11400000, guid: 3756443506e5dbe41b6729bb304aaca0, type: 2}
-  - {fileID: 11400000, guid: 8f9a7108b2c416641949a82bd158dac9, type: 2}
-  - {fileID: 11400000, guid: 3a2fa4784fa344748a70f6b37008b005, type: 2}
-  - {fileID: 11400000, guid: ff08753a7239bf04f86366ba4b66ac5a, type: 2}
+  - value: 0
+  - value: 1
+  - value: 2
+  - value: 3
+  - value: 4
+  - value: 5
+  - value: 6
+  - value: 7
+  - value: 8
+  - value: 9
+  - value: 10
+  - value: 11
+  - value: 12
+  - value: 13
+  - value: 14
+  - value: 15
+  - value: 16
+  - value: 17
+  - value: 18
+  - value: 19
+  - value: 20
+  - value: 21
+  - value: 22
+  - value: 23
+  - value: 24
+  - value: 25
+  - value: 26
+  - value: 27
+  - value: 28
+  - value: 29
+  - value: 30
+  - value: 31
+  - value: 32
+  - value: 33
+  - value: 34
+  - value: 35
+  - value: 36
+  - value: 37
+  - value: 38
+  - value: 39
+  - value: 40
+  - value: 41
+  - value: 42
+  - value: 43
+  - value: 44
+  - value: 45
+  - value: 46
+  - value: 47
+  - value: 48
+  - value: 49
+  - value: 50
+  - value: 51
+  - value: 52
+  - value: 53
+  - value: 54
+  - value: 55
+  - value: 56
+  - value: 57
+  - value: 58
+  - value: 59
+  - value: 60
+  - value: 61
+  - value: 62
+  - value: 63
+  - value: 64
+  - value: 65

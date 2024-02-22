@@ -60,8 +60,10 @@ public class BibleDownloaderIterator : MonoBehaviour
 				
 				#region Progress Texts
 				
-				currentBookProgressTxt.text = $"<b>{downloader.currentBook.nickname.ToUpper()}:</b> {downloader.currentChapter} | {GetPercent(currentBookProgressImg.fillAmount)}%";
-				currentVersionProgressTxt.text = $"<b>{downloader.currentBook.version.NameCode.ToUpper()}:</b> {GetPercent(currentVersionProgressImg.fillAmount)}%";
+				// currentBookProgressTxt.text = $"<b>{downloader.currentBook.nickname.ToUpper()}:</b> {downloader.currentChapter} | {GetPercent(currentBookProgressImg.fillAmount)}%";
+				currentBookProgressTxt.text = $"<b>{downloader.currentBook}:</b> {downloader.currentChapter} | {GetPercent(currentBookProgressImg.fillAmount)}%";
+				// currentVersionProgressTxt.text = $"<b>{downloader.currentBook.version.NameCode.ToUpper()}:</b> {GetPercent(currentVersionProgressImg.fillAmount)}%";
+				currentVersionProgressTxt.text = $"<b>{downloader.version.NameCode}:</b> {GetPercent(currentVersionProgressImg.fillAmount)}%";
 				totalProgressTxt.text = $"<b>{GetPercent(totalProgressImg.fillAmount)}%</b>";
 				
 				#endregion

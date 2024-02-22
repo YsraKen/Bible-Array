@@ -32,8 +32,8 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 		
 		if(isEmpty) return instance;
 		
-		if(!string.IsNullOrEmpty(verse.title))
-			instance._content += $"<size={instance._mainTmp.fontSize * 1.15f}><b>{verse.title}</b></size>\n\n";
+		// if(!string.IsNullOrEmpty(verse.title))
+			// instance._content += $"<size={instance._mainTmp.fontSize * 1.15f}><b>{verse.title}</b></size>\n\n";
 		
 		instance._content += GetMainContent(verse, _mainTmp.fontSize);
 		instance._mainTmp.text = instance._content;
@@ -43,15 +43,37 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 	
 	public static string GetMainContent(Verse info, float fontSize, bool includeComments = true)
 	{
-		string content = $"<size={fontSize * 0.65f}><b>{info.number}</b></size> ";
-		content += info.content;
+		// string content = $"<size={fontSize * 0.65f}><b>{info.number}</b></size> ";
+		// content += info.content;
+		
+		string content = info.content;
 		
 		var mgr = _mgr;
 		
-		setupJesusTag("<JESUS>", $"<color=#{ColorUtility.ToHtmlStringRGBA(mgr.JesusWordColor)}>");
-		setupJesusTag("</JESUS>", "</color>");
+		setupTag("<MAIN>", "");
+		setupTag("</MAIN>", "");
 		
-		void setupJesusTag(string tag, string insert)
+		setupTag("<TITLE>", $"<size={fontSize * 1.5f}><b>");
+		setupTag("</TITLE>", $"</b></size>\n");
+		
+		setupTag("<VERSE>", $"");
+		setupTag("</VERSE>", $"");
+		
+		setupTag("<VERSE_NUM>", $"<size={fontSize * 0.75f}><b>");
+		setupTag("</VERSE_NUM>", $"</b></size>");
+		
+		string commentTag = includeComments? mgr.VerseCommentLink: "";
+		
+		setupTag("<COMMENT>", $"{commentTag}<size={fontSize * 0.65f}><i>");
+		setupTag("</COMMENT>", $"</i></size>");
+		
+		setupTag("<NUM>", $"<b>");
+		setupTag("</NUM>", $"</b>");
+
+		setupTag("<JESUS>", $"<color=#{ColorUtility.ToHtmlStringRGBA(mgr.JesusWordColor)}>");
+		setupTag("</JESUS>", "</color>");
+		
+		void setupTag(string tag, string insert)
 		{
 			for(int i = 0; i < content.Length; i++)
 			{
@@ -65,7 +87,7 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 			}
 		}
 		
-		var comments = info.comments;
+		/* var comments = info.comments;
 		
 		if(!comments.IsNullOrEmpty())
 		{
@@ -77,7 +99,7 @@ public class VerseUI2 : BibleTextContent, IPointerClickHandler
 				string tag = $"[[COMMENT({i})]]";
 				content = content.Replace(tag, replace);
 			}
-		}
+		} */
 		
 		return content;
 	}

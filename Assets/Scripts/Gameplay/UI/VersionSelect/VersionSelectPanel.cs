@@ -7,6 +7,8 @@ using TMPro;
 
 public class VersionSelectPanel : MonoBehaviour
 {
+	[SerializeField] private TMP_Dropdown _languageSelector;
+	
 	[SerializeField] private VersionSelectItem _optionTemplate;
 	[SerializeField] private int _maxRecentCount = 3;
 	
@@ -50,6 +52,7 @@ public class VersionSelectPanel : MonoBehaviour
 	private string _searchInputValue;
 	private bool _searchForSelectedLanguageOnly = true;
 	
+	GameManager _mgr;
 	bool _started;
 	
 	#region Unity
@@ -61,10 +64,8 @@ public class VersionSelectPanel : MonoBehaviour
 			recents.Clear();
 			favorites.Clear();
 			
-			var mgr = GameManager.Instance;
-			
-			Array.ForEach(userData.recentVersionIndexes, index => recents.Add(mgr.Versions[index]));
-			Array.ForEach(userData.favoriteVersionIndexes, index => favorites.Add(mgr.Versions[index]));
+			Array.ForEach(userData.recentVersionIndexes, index => recents.Add(_mgr.Versions[index]));
+			Array.ForEach(userData.favoriteVersionIndexes, index => favorites.Add(_mgr.Versions[index]));
 		}
 		
 		_started = true;
@@ -79,7 +80,7 @@ public class VersionSelectPanel : MonoBehaviour
 			_originalSize = panel.sizeDelta;
 	
 		var size = _originalSize;
-		var screenWidth = GameManager.Instance.ScreenSize.x;
+		var screenWidth = _mgr.ScreenSize.x;
 		
 		if(size.x > screenWidth)
 			size.x = screenWidth;
@@ -103,13 +104,11 @@ public class VersionSelectPanel : MonoBehaviour
 		var recentVersionIndexes = new int[recentCount];
 		var favoriteVersionIndexes = new int[favoriteCount];
 		
-		var mgr = GameManager.Instance;
-		
 		for(int i = 0; i < recentCount; i++)
-			recentVersionIndexes[i] = Array.FindIndex(mgr.Versions, version => version == recents[i]);
+			recentVersionIndexes[i] = Array.FindIndex(_mgr.Versions, version => version == recents[i]);
 		
 		for(int i = 0; i < favoriteCount; i++)
-			favoriteVersionIndexes[i] = Array.FindIndex(mgr.Versions, version => version == favorites[i]);
+			favoriteVersionIndexes[i] = Array.FindIndex(_mgr.Versions, version => version == favorites[i]);
 		
 		var data = new UserData()
 		{
@@ -121,6 +120,36 @@ public class VersionSelectPanel : MonoBehaviour
 	}
 	
 	#endregion
+	
+	public void Init()
+	{
+		_mgr = GameManager.Instance;
+		
+		int langCount = _mgr.Languages.Length;
+		_mgr.Collections = new GameManager.Collection[langCount];
+		
+		_languageSelector.ClearOptions();
+		var languageSelectorOptions = new List<string>();
+		
+		for(int i = 0; i < langCount; i++)
+		{
+			var language = _mgr.Languages[i];
+			var versions = new List<Version>();
+			
+			_mgr.Collections[i] = new GameManager.Collection(){ language = language };
+			
+			foreach(var version in _mgr.Versions)
+			{
+				if(version.Language == language)
+					versions.Add(version);
+			}
+			
+			_mgr.Collections[i].versions = versions;
+			languageSelectorOptions.Add(language.Name);
+		}
+		
+		_languageSelector.AddOptions(languageSelectorOptions);
+	}
 	
 	public void StartSelection(Action<Version> onFinish, Action onCancel = null)
 	{
@@ -168,7 +197,7 @@ public class VersionSelectPanel : MonoBehaviour
 		setupItems(recents, ref _instances_Recent, _isExpanded_Recent, _separator_Recents);
 		setupItems(favorites, ref _instances_Favorites, _isExpanded_Favorites, _separator_Favorites);
 		
-		var collection = GameManager.Instance.Collections[_selectedLanguageIndex];
+		var collection = _mgr.Collections[_selectedLanguageIndex];
 		setupItems(collection.versions, ref _instances_All, _isExpanded_All, _separator_All);
 		
 		void setupItems(List<Version> versions, ref List<VersionSelectItem> instances, bool isExpanded, GameObject separator)
@@ -292,7 +321,7 @@ public class VersionSelectPanel : MonoBehaviour
 				_isSearchModeActive = true;
 			}
 			
-			var genInfo = GameManager.Instance.GeneralInfo;
+			var genInfo = _mgr.GeneralInfo;
 			yield return null;
 			
 			_separator_Recents.SetActive(false);
@@ -312,11 +341,9 @@ public class VersionSelectPanel : MonoBehaviour
 			
 			if(!_searchForSelectedLanguageOnly)
 			{
-				var mgr = GameManager.Instance;
-				
-				foreach(var collection in mgr.Collections)
+				foreach(var collection in _mgr.Collections)
 				{
-					if(collection.language == mgr.Languages[_selectedLanguageIndex])
+					if(collection.language == _mgr.Languages[_selectedLanguageIndex])
 						continue;
 					
 					foreach(var version in collection.versions)

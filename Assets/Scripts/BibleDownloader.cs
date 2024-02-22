@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.IO;
 using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.UI;
@@ -12,14 +13,17 @@ using UnityEditor;
 
 public class BibleDownloader : MonoBehaviour
 {
-	public Book[] books;
+	public BookSelect[] books;
 	
-	public string urlPre;
-	public string urlPost;
-	public string htmlStartRead;
+	// public string urlPre;
+	// public string urlPost;
+	// public string htmlStartRead;
 	
 	[Space]
-	public Book currentBook;
+	public Language language;
+	public Version version;
+	
+	public string currentBook;
 	public int currentChapter;
 	
 	public BibleExtractor extractor;
@@ -35,7 +39,7 @@ public class BibleDownloader : MonoBehaviour
 	#region UI
 	
 	private static Text _urlTxt;
-	private static Image _graphTemplate;
+	private static GameObject _graphTemplate;
 	
 	public static float longestTime;
 	public static float graphMultiplierNormalized { get; set; } = 1f;
@@ -62,7 +66,7 @@ public class BibleDownloader : MonoBehaviour
 			_urlTxt = GameObject.FindWithTag("Download URL").GetComponent<Text>();
 		
 		if(!_graphTemplate)
-			_graphTemplate = GameObject.FindWithTag("Download Graph").GetComponent<Image>();
+			_graphTemplate = GameObject.FindWithTag("Download Graph");
 	}
 	
 	IEnumerator Start()
@@ -72,14 +76,20 @@ public class BibleDownloader : MonoBehaviour
 		
 		for(int i = 0; i < books.Length; i++)
 		{
+			yield return null;
+			
 			allProgress = (float) i / (float) (books.Length - 1);
 			
-			currentBook = books[i];
-			yield return Download(currentBook);
+			if(books[i] < 0) continue;
+			
+			var info = books[i].Info(genInfo);
+			currentBook = info.name;
+			
+			yield return Download(info);
 		}
 		
-		var version = books[0].version;
-			version.SetBooks(GetArrangedBooks());
+		// var version = books[0].version;
+			// version.SetBooks(GetArrangedBooks());
 		
 		yield return null;
 		
@@ -89,52 +99,94 @@ public class BibleDownloader : MonoBehaviour
 		IsDone = true;
 	}
 	
-	IEnumerator Download(Book book)
+	// IEnumerator Download(Book book)
+	IEnumerator Download(BookChapterVerseInfo bookInfo)
 	{
-		int numberOfChapters = book.chapters.Length;
+		int numberOfChapters = bookInfo.chaptersAndVerses.Length;
 		BookStartTime = Time.time;
+		
+		string langCode = language.NameCode;
+		string verCode = version.NameCode;
+		
+		string directory = $"{Application.persistentDataPath}/BibleData/JSON/{langCode}/{verCode}/{bookInfo.name}";
+		
+		if(!Directory.Exists(directory))
+			Directory.CreateDirectory(directory);
 		
 		for(int i = 0; i < numberOfChapters; i++)
 		{
-			currentChapter = i + 1;
+			yield return null;
 			
-			string url = $"{urlPre}{book.name}.{i + 1}{urlPost}";
-			string html = "";
+			currentChapter = i + 1;
+			bookProgress = (float) i / (float) (numberOfChapters - 1);
+			
+			string chapterInfoPath = $"{directory}/{langCode}-{verCode}-{bookInfo.name}-{i}.json";
 			
 			if(_urlTxt)
-				_urlTxt.text = url;
+				_urlTxt.text = chapterInfoPath;
 			
-			yield return GetWebData(url, downloadData => html = downloadData);
+			if(File.Exists(chapterInfoPath))
+				continue;
 			
-			int htmlStartIndex = html.IndexOf(htmlStartRead);
-			html = html.Substring(htmlStartIndex);
+			// string url = $"{urlPre}{book.name}.{i + 1}{urlPost}";
+			string html = "";			
 			
-			yield return null;
+			// yield return GetWebData(url, downloadData => html = downloadData);
+			GetHtmlFile($"{version.NameCode}/{bookInfo.name}", $"{i + 1}.txt", loadedData => html = loadedData);
+			
+			// int htmlStartIndex = html.IndexOf(htmlStartRead);
+			// html = html.Substring(htmlStartIndex);
+			
+			// yield return null;
 			
 			extractor.text = html;
 			extractor.Extract();
 			
-			yield return null;
+			// yield return null;
 			
 			var chapter = new Chapter(){ verses = extractor.verses.ToArray() };
-			book.chapters[i] = chapter;
+			// book.chapters[i] = chapter;
+			// bookJsonInfo.chapters[i] = chapter;
 			
-			bookProgress = (float) i / (float) (numberOfChapters - 1);
+			File.WriteAllText(chapterInfoPath, JsonUtility.ToJson(chapter, true));
+			
+			// yield return null;
+			
 		}
 		
-		book.SetName(extractor.bookName);
+		// yield return null;
+		// book.SetName(extractor.bookName);
+		
+		string bookInfoPath = $"{directory}/bookInfo.json";
+		
+		if(!File.Exists(bookInfoPath))
+		{
+			var bookJsonInfo = new BookJsonInfo()
+			{
+				name = extractor.bookName,
+				nickname = bookInfo.name.ToLower(),
+				language = language.GetIndex(),
+				version = version.GetIndex()
+			};
+			
+			
+			File.WriteAllText(bookInfoPath, JsonUtility.ToJson(bookJsonInfo, true));
+			// Debug.Log(path, this);
+		}
+		
+		// yield return null;
 		
 		float duration = Time.time - BookStartTime;
-		Debug.Log($"Done: <b>{book.version.NameCode}: <color=cyan>{book.name}</color></b>. duration: <color=yellow>'{duration.ToString("0.00")} seconds'</color>");
+		Debug.Log($"<color=lime>Done:</color> <b>{version.NameCode}: <color=cyan>{bookInfo.name}</color></b>. duration: <color=yellow>'{duration.ToString("0.00")} seconds'</color>");
 		
-		#if UNITY_EDITOR
-		EditorUtility.SetDirty(book);
-		#endif
+		// #if UNITY_EDITOR
+		// EditorUtility.SetDirty(book);
+		// #endif
 		
 		if(_graphTemplate)
-			UpdateGraphUI(duration, book);
+			UpdateGraphUI(duration, bookInfo);
 		
-		yield return null;
+		// yield return null;
 	}
 	
 	IEnumerator GetWebData(string url, Action<string> onLoad)
@@ -153,25 +205,39 @@ public class BibleDownloader : MonoBehaviour
 		}
 	}
 	
+	void GetHtmlFile(string directory, string filePath, Action<string> onLoad)
+	{
+		string path = $"{Application.persistentDataPath}/BibleData/HTML/{directory}/{filePath}";
+		// string relativePath = $"Assets/{relativeDirectory}/{filePath}.txt";
+		
+		// var file = AssetDatabase.LoadAssetAtPath(relativePath, typeof(TextAsset)) as TextAsset;
+		var file = File.ReadAllText(path);
+		
+		// Debug.Log(relativePath, file);
+		// Debug.Break();
+		
+		onLoad(file);
+	}
+	
 	#if UNITY_EDITOR
-	[ContextMenu("Extract All Data to JSON")]
+	/* [ContextMenu("Extract All Data to JSON")]
 	void ExtractAllJson()
 	{
 		foreach(var book in books)
 			book.ToJson();
-	}
+	} */
 	
-	[ContextMenu("Arrange Books")]
+	/* [ContextMenu("Arrange Books")]
 	void ArrangeBooks()
 	{
 		var version = books[0].version;
 			version.SetBooks(GetArrangedBooks());
 		
 		EditorUtility.SetDirty(version);
-	}
+	} */
 	#endif
 	
-	Book[] GetArrangedBooks()
+	/* Book[] GetArrangedBooks()
 	{
 		int count = genInfo.bookChapterVerseInfos.Length;
 		var arrangedBooks = new Book[count];
@@ -183,11 +249,12 @@ public class BibleDownloader : MonoBehaviour
 		}
 		
 		return arrangedBooks;
-	}
+	} */
 	
 	#region UI
 	
-	private void UpdateGraphUI(float duration, Book book)
+	// private void UpdateGraphUI(float duration, Book book)
+	private void UpdateGraphUI(float duration, BookChapterVerseInfo bookInfo)
 	{
 		_graphTemplate.gameObject.SetActive(true);
 		{
@@ -201,11 +268,16 @@ public class BibleDownloader : MonoBehaviour
 			
 			float percent = Mathf.Clamp01(duration / (longestTime * graphMultiplierNormalized));
 			
-			graph.fillAmount = percent;
-			graph.color = Color.HSVToRGB(Mathf.Lerp(0, 0.8f, percent), 1, 1);
-			graph.GetComponentInChildren<Text>().text = $"<b>{book.version.NameCode}:</b> <i>{book.nickname.ToUpper()}</i> - {(duration).ToString("0.0")} s";
-			
-			graphInstances.Add(new GraphInstance(graph, duration));
+			var img = graph.GetComponentInChildren<Image>();
+				img.fillAmount = percent;
+				img.color = Color.HSVToRGB(Mathf.Lerp(0, 0.8f, percent), 1, 1);
+				
+			var txt = graph.GetComponentInChildren<Text>();
+				// txt.text = $"{book.version.NameCode}: <b>{book.nickname.ToUpper()}</b> - {(duration).ToString("0.0")} s";
+				txt.text = $"{version.NameCode}: <b>{bookInfo.name}</b> - {(duration).ToString("0.0")} s";
+				
+				
+			graphInstances.Add(new GraphInstance(img, duration));
 		}
 		_graphTemplate.gameObject.SetActive(false);	
 	}

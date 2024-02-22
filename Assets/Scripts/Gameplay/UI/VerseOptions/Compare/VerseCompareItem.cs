@@ -41,7 +41,9 @@ public class VerseCompareItem : MonoBehaviour
 		
 		foreach(var selected in panel.selectedVerses)
 		{
-			var info = version.Books[bookIndex][chapterIndex][selected.Index];
+			// var info = version.Books[bookIndex][chapterIndex][selected.Index];
+			var info = selected.bible.ChapterData[selected.Index];
+			
 			text += VerseUI2.GetMainContent(info, txt.fontSize, false) + "\n";
 		}
 	}

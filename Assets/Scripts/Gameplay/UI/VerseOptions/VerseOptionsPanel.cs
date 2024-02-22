@@ -170,9 +170,12 @@ public class VerseOptionsPanel : MonoBehaviour
 			if(hasMultipleVersions) break;
 		}
 		
+		var genInfo = GameManager.Instance.GeneralInfo;
+		
 		string bookName = hasMultipleVersions?
-			$"{GameManager.Instance.GeneralInfo.bookChapterVerseInfos[bookIndex].name} {chapterIndex + 1}":
-			$"{previousVersion.Books[bookIndex].Name} {chapterIndex + 1} {previousVersion.NameCode}";
+			$"{genInfo.bookChapterVerseInfos[bookIndex].name} {chapterIndex + 1}":
+			// $"{previousVersion.Books[bookIndex].Name} {chapterIndex + 1} {previousVersion.NameCode}";
+			$"{genInfo.bookChapterVerseInfos[bookIndex].name} {chapterIndex + 1} {previousVersion.NameCode}";
 		
 		text += bookName;
 		text += "\n";
@@ -181,7 +184,7 @@ public class VerseOptionsPanel : MonoBehaviour
 		
 		foreach(var selected in selections)
 		{
-			var info = selected.bible.version.Books[bookIndex][chapterIndex][selected.Index];
+			var info = selected.bible.ChapterData[selected.Index];
 			string content = VerseUI2.GetMainContent(info, 1f, false);
 			
 			content = content.Insert(0, "[");

@@ -12,7 +12,7 @@ public class GameManager : MonoBehaviour
 {
 	#region Variables and Properties
 	
-	public Collection[] Collections { get; private set; }
+	public Collection[] Collections { get; /* private */ set; }
 	
 	[Space]
 	[SerializeField] private BibleUI2 _biblePrefab;
@@ -87,7 +87,7 @@ public class GameManager : MonoBehaviour
 	
 	[Space]
 	[SerializeField] private GameObject _versionSelectPanel;
-	[SerializeField] private TMP_Dropdown _languageSelector;
+	// [SerializeField] private TMP_Dropdown _languageSelector;
 	
 	[SerializeField] private VersionSelectPanel _versionSelect;
 	private BibleUI2 _versionSelectTargetBible;
@@ -155,7 +155,7 @@ public class GameManager : MonoBehaviour
 	
 	IEnumerator Start()
 	{
-		int langCount = Languages.Length;
+		/* int langCount = Languages.Length;
 		Collections = new Collection[langCount];
 		
 		_languageSelector.ClearOptions();
@@ -178,7 +178,10 @@ public class GameManager : MonoBehaviour
 			languageSelectorOptions.Add(language.Name);
 		}
 		
-		_languageSelector.AddOptions(languageSelectorOptions);
+		_languageSelector.AddOptions(languageSelectorOptions); */
+		
+		_versionSelect.Init();
+		
 		yield return null;
 		
 		yield return LoadOnstartDefaultBibleData();
@@ -673,6 +676,7 @@ public class GameManager : MonoBehaviour
 		CurrentChapterIndex += dir;
 		
 		var version = Versions[0];
+		int numberOfChapters = GeneralInfo.bookChapterVerseInfos[CurrentBookIndex].chaptersAndVerses.Length;
 		
 		if(CurrentChapterIndex < 0)
 		{
@@ -681,10 +685,10 @@ public class GameManager : MonoBehaviour
 			if(CurrentBookIndex < 0)
 				CurrentBookIndex = version.Books.Length - 1;
 			
-			CurrentChapterIndex = version.Books[CurrentBookIndex].chapters.Length - 1;
+			CurrentChapterIndex = numberOfChapters - 1;
 		}
 		
-		if(CurrentChapterIndex >= version.Books[CurrentBookIndex].chapters.Length)
+		if(CurrentChapterIndex >= numberOfChapters)
 		{
 			CurrentBookIndex ++;
 			
@@ -732,17 +736,20 @@ public class GameManager : MonoBehaviour
 		#endregion
 	}
 	
-	public void PreviewBookInfo(Book book)
+	// public void PreviewBookInfo(Book book)
+	// public void PreviewBookInfo(BookJsonInfo book)
+	public void PreviewBookInfo(BookJsonInfo bookInfo, string version)
 	{
-		string bookName = string.IsNullOrEmpty(book.fancyName)? book.Name: book.fancyName;
-		string title = $"<b>[{book.version.NameCode}]</b> {bookName}";
+		// string bookName = string.IsNullOrEmpty(bookInfo.fancyName)? bookInfo.Name: bookInfo.fancyName;
+		string bookName = string.IsNullOrEmpty(bookInfo.fancyName)? bookInfo.name: bookInfo.fancyName;
+		string title = $"<b>[{version}]</b> {bookName}";
 		
-		_bookInfoPanel.Show(book.description, title);
+		_bookInfoPanel.Show(bookInfo.description, title);
 	}
 	
 	public void ShowVerseCommentPopup(Version version, int index, int commentIndex, Vector3 position)
 	{
-		var comment = version.Books[CurrentBookIndex][CurrentChapterIndex][index][commentIndex];
+		/* var comment = version.Books[CurrentBookIndex][CurrentChapterIndex][index][commentIndex];
 		
 		_popupTitle.text = comment.number;
 		_popup.text = comment.content;
@@ -752,7 +759,7 @@ public class GameManager : MonoBehaviour
 			transform.gameObject.SetActive(true);
 		
 		Reposition_End((RectTransform) transform);
-		_popupScroll.verticalNormalizedPosition = 1f;
+		_popupScroll.verticalNormalizedPosition = 1f; */
 	}
 	
 	public void OnVerseSelect(VerseUI2 verseUI)

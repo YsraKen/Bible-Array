@@ -68,16 +68,27 @@ public class Navigator : MonoBehaviour
 	{
 		if(!_started) return;
 		
-		var activeBibleVersion = GameManager.Instance.GetActiveBible().version;
+		// var activeBibleVersion = GameManager.Instance.GetActiveBible().version;
+		var activeBible = GameManager.Instance.GetActiveBible();
 		
 		for(int i = 0; i < genInfo.bookChapterVerseInfos.Length; i++)
 		{
-			var book = activeBibleVersion.Books.GetElement(i);
-			string name = book? book.Name: genInfo.bookChapterVerseInfos[i].name;
+			int bookIndex = activeBible.version.Books[i];
+			
+			// string nickname = genInfo.bookChapterVerseInfos[i].name;
+			// string fullname = activeBible.BookDatas[i].name;
+			
+			string name = bookIndex < 0? genInfo.bookChapterVerseInfos[i].name: activeBible.BookDatas[i].name;
+			
+			// Debug.Log($"{i} | {bookIndex} | {name} | {genInfo.bookChapterVerseInfos[bookIndex].name}", this);
+			
+			// var book = activeBibleVersion.Books.GetElement(i);
+			// string name = book? book.Name: genInfo.bookChapterVerseInfos[i].name;
 			
 			var btn = _bookButtonTemplate.transform.parent.GetChild(i);
 				btn.GetComponentInChildren<Text>().text = name;
 		}
+		
 		
 		OnBookSelect(_bookButtonTemplate.transform.parent.GetChild(SelectedBookIndex));
 		UpdateChapters();

@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Serialization;
@@ -8,6 +9,9 @@ using TMPro;
 public class BibleUI2 : MonoBehaviour
 {
 	public Version version;
+	
+	public BookJsonInfo[] BookDatas { get; private set; }
+	public Chapter ChapterData { get; private set; }
 	
 	[SerializeField] private TMP_Text _chapterTmp;
 	[SerializeField] private GameObject _bookInfoButton;
@@ -87,32 +91,58 @@ public class BibleUI2 : MonoBehaviour
 		int bookIndex = _mgr.CurrentBookIndex;
 		int chapterIndex = _mgr.CurrentChapterIndex;
 		
-		var book = version.Books[bookIndex];
+		// var book = version.Books[bookIndex];
 		
 		_versionTmp.text = version.Name;
 		_chapterTmp.text = "";
 		
-		if(!book) return;
+		// if(!book) return;
+		if(version.Books[bookIndex] < 0) return;
 		
-		var chapter = book.chapters[chapterIndex];
+		var genInfo = GameManager.Instance.GeneralInfo;
+		var bookInfo = ((BookSelect) bookIndex).Info(genInfo);
+		
+		// var chapter = book.chapters[chapterIndex];
+		
+		string lang = version.Language.NameCode;
+		string ver = version.NameCode;
+		
+		string directory = Application.persistentDataPath + $"/BibleData/JSON/{lang}/{ver}";
+		
+		int bookCount = genInfo.bookChapterVerseInfos.Length;
+		BookDatas = new BookJsonInfo[bookCount];
+		
+		for(int i = 0; i < bookCount; i++)
+		{
+			string bookDataPath = $"{directory}/{genInfo.bookChapterVerseInfos[i].name}/bookInfo.json";
+			
+			if(File.Exists(bookDataPath))
+				BookDatas[i] = JsonUtility.FromJson<BookJsonInfo>(File.ReadAllText(bookDataPath));
+		}
+		
+		var bookData = BookDatas[bookIndex];
 		
 		bool isFirstChapter = chapterIndex == 0;
-		string bookName = isFirstChapter? book.fancyName: book.Name;
+		// string bookName = isFirstChapter? book.fancyName: book.Name;
+		string bookName = isFirstChapter? bookData.fancyName: bookData.name;
 		
 		if(string.IsNullOrEmpty(bookName))
-			bookName = book.Name;
+			bookName = bookData.name;
+		
+		bool hasBookDescription = isFirstChapter && !string.IsNullOrEmpty(bookData.description);
+		_bookInfoButton.SetActive(hasBookDescription);
+		
+		string chapterDataPath = $"{directory}/{bookInfo.name}/{lang}-{ver}-{bookInfo.name}-{chapterIndex}.json";
+		ChapterData = JsonUtility.FromJson<Chapter>(File.ReadAllText(chapterDataPath));;
 		
 		_chapterTmp.text += $"\n<size={_chapterTmp.fontSize * 2f}>{chapterIndex + 1}</size>\n{bookName}\n\n";
-		
-		bool hasBookDescription = isFirstChapter && !string.IsNullOrEmpty(book.description);
-		_bookInfoButton.SetActive(hasBookDescription);
 		
 		_verseTemplate.gameObject.SetActive(true);
 		{
 			int index = 0;
 			Verse previousVerse = null;
 			
-			foreach(var verse in chapter.verses)
+			foreach(var verse in ChapterData.verses)
 			{
 				bool isDuplicated = previousVerse != null? verse.number == previousVerse.number: false;
 				
@@ -204,8 +234,11 @@ public class BibleUI2 : MonoBehaviour
 	
 	public void OnBookInfoClick()
 	{
-		var bookInfo = version.Books[_mgr.CurrentBookIndex];
-		_mgr.PreviewBookInfo(bookInfo);
+		// var bookInfo = version.Books[_mgr.CurrentBookIndex];
+		// _mgr.PreviewBookInfo(bookInfo);
+		
+		var bookData = BookDatas[_mgr.CurrentBookIndex];
+		_mgr.PreviewBookInfo(bookData, version.NameCode);
 	}
 	
 	public void OnDelete()

@@ -15,7 +15,7 @@ MonoBehaviour:
   targetTags:
   - name: Chapter
     value: <h1>
-  - name: Pre-header
+  - name: PREHEAD
     value: <div class="ChapterContent_ms4__6Q9TL">
   - name: Title
     value: <span class="ChapterContent_heading__xBDcs">
@@ -29,6 +29,8 @@ MonoBehaviour:
     value: <span class="ChapterContent_wj___uP1U">
   - name: italic
     value: <span class="ChapterContent_add__9EgW2">
+  - name: COMMENT
+    value: <span class="ChapterContent_note__YlDW0">
   - name: Comment [number]
     value: <span class="ChapterContent_fr__0KsID">
   - name: Comment [ft]
@@ -38,6 +40,7 @@ MonoBehaviour:
   allLanguages:
   - {fileID: 11400000, guid: 339807bce41f4e54989aa8673c9b5d27, type: 2}
   - {fileID: 11400000, guid: 360694b24db0fd646b20d87973ee9106, type: 2}
+  - {fileID: 11400000, guid: c95de8fd24e36734ca429cda9b808bd0, type: 2}
   allVersions:
   - {fileID: 11400000, guid: 255596ce6b91ac640b392e20dd4f8a9e, type: 2}
   - {fileID: 11400000, guid: dd64eb842f3dd694bae8487ce6510215, type: 2}
@@ -49,6 +52,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 69cda689d36a6b64ca4a020e1d829e9f, type: 2}
   - {fileID: 11400000, guid: b1692a818c1891646a9fe3db3324e541, type: 2}
   - {fileID: 11400000, guid: fc06489f21c1c3c43a353b052ba682a3, type: 2}
+  - {fileID: 11400000, guid: 2d56630b878da5a4ea3087fc46f42aff, type: 2}
+  - {fileID: 11400000, guid: 3c5f3a4d4631501458577379d9162911, type: 2}
   bookChapterVerseInfos:
   - name: GEN
     chaptersAndVerses: 1f00000019000000180000001a000000200000001600000018000000160000001d000000200000002000000014000000120000001800000015000000100000001b0000002100000026000000120000002200000018000000140000004300000022000000230000002e00000016000000230000002b0000003700000020000000140000001f0000001d0000002b000000240000001e0000001700000017000000390000002600000022000000220000001c000000220000001f00000016000000210000001a000000

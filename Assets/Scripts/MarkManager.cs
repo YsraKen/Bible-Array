@@ -19,12 +19,14 @@ public class MarkManager : ScriptableObject
 			MarkInfos.Add(new MarkInfo(category, value));
 		}
 		
+		var mgr = GameManager.Instance;
+		
 		var indicies = new int[]
 		{
 			version.Language.GetIndex(),
 			version.GetIndex(),
-			GameManager.Instance.CurrentBookIndex,
-			GameManager.Instance.CurrentChapterIndex,
+			mgr.CurrentBookIndex,
+			mgr.CurrentChapterIndex,
 			verseIndex
 		};
 		
@@ -36,7 +38,9 @@ public class MarkManager : ScriptableObject
 		if(!exists)
 		{
 			var bibleTarget = new BibleTarget(indicies);
-				bibleTarget.name = $"{version.Language.NameCode}-{version.NameCode}-{version.Books[GameManager.Instance.CurrentBookIndex].nickname}[{GameManager.Instance.CurrentChapterIndex + 1}:{verseIndex + 1}]";
+			string bookName = ((BookSelect) version.Books[mgr.CurrentBookIndex]).Info(mgr.GeneralInfo).name;
+			
+			bibleTarget.name = $"{version.Language.NameCode}-{version.NameCode}-{bookName}[{mgr.CurrentChapterIndex + 1}:{verseIndex + 1}]";
 			
 			Tools.AddToArray(ref MarkInfos[index].appliedTo, bibleTarget);
 		}

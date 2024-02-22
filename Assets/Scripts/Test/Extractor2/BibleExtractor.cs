@@ -108,18 +108,19 @@ public class BibleExtractor : MonoBehaviour
 			int contentIndex = tag.openingIndex.x + tag.openingIndex.y;
 			int contentLength = tag.closingIndex.x - contentIndex;
 			string contentValue = text.Substring(contentIndex, contentLength);
-			int htmlEndIndex = tag.closingIndex.x + tag.closingIndex.x;
+			// int htmlEndIndex = tag.closingIndex.x + tag.closingIndex.x;
+			int htmlEndIndex = tag.closingIndex.x;
+			string htmlEndValue = text.Substring(htmlEndIndex, tag.closingIndex.y);
 			
 			var extractedInfo = new ExtractedInfo()
 			{
 				name = genInfo.targetTags[targetTagIndex].name,
 				targetTagIndex = targetTagIndex,
 				value = contentValue,
-				htmlEndIndex = htmlEndIndex
+				htmlEndIndex = htmlEndIndex,
+				htmlEndValue = htmlEndValue
 			};
 			
-			
-		
 			/* if(htmlEndIndex > farthestTagEndIndex)
 			{
 				for(int i = 0; i < otherActiveTargetTags.Count; i++)
@@ -143,6 +144,254 @@ public class BibleExtractor : MonoBehaviour
 	{
 		verses.Clear();
 		
+		ExtractedInfo currentExtractedInfo = null;
+		
+		bool isPreHeader = false;
+		int preHeaderHtmlEndIndex = 0;
+		
+		bool isCommenting = false;
+		bool isCommentNumbering = false;
+		int commentHtmlEndIndex = 0;
+		
+		bool isLordTagActive = false;
+		bool isJesusTagActive = false;
+		bool isItalicTagActive = false;
+		
+		var currentVerse = new Verse();
+		
+		var actions = new Action[]
+		{
+			chapter, preHeader, title, verseNumber, verseBody, Lord, Jesus, italic, comment, commentNumber, commentFt, commentEmphasis
+		};
+		
+		foreach(var extractedInfo in extractedInfos)
+		{
+			currentExtractedInfo =  extractedInfo;
+			actions[extractedInfo.targetTagIndex]();
+		}
+		
+		verses.Add(currentVerse);
+		
+		void chapter()
+		{
+			string value = currentExtractedInfo.value;
+			
+			#if UNITY_EDITOR
+			value = UnityEditor.ObjectNames.NicifyVariableName(value);
+			#endif
+			
+			// Trim the digits at the end of the string value
+			for(int v = value.Length - 1; v >= 0; v --)
+			{
+				if(value[v] == ' ')
+				{
+					value = value.Substring(0, v);
+					break;
+				}
+			}
+			
+			bookName = value;
+		}
+		
+		void preHeader()
+		{
+			// identify the 'start' and 'end' index
+			
+			isPreHeader = true;
+			preHeaderHtmlEndIndex = currentExtractedInfo.htmlEndIndex;
+			
+			currentVerse.content += tagStart("PREHEAD");
+		}
+		
+		void title()
+		{
+			string value = tagEncapsulate("TITLE", currentExtractedInfo.value);
+			int htmlEndIndex = currentExtractedInfo.htmlEndIndex;
+			
+			if(isCommentNumbering)
+			{
+				value += tagEnd("NUM");
+				isCommentNumbering = false;
+			}
+			
+			if(isLordTagActive)
+			{
+				value += "</smallcaps>";
+				isLordTagActive = false;
+			}
+			
+			if(isCommenting)
+			{
+				// end of preheader
+				if(htmlEndIndex > commentHtmlEndIndex)
+				{
+					value += tagEnd("COMMENT");
+					isCommenting = false;
+				}
+			}
+		
+			if(isPreHeader)
+			{
+				// end of preheader
+				if(htmlEndIndex > preHeaderHtmlEndIndex)
+				{
+					value += tagEnd("PREHEAD");
+					isPreHeader = false;
+				}
+			}
+			else
+			{
+				if(!string.IsNullOrEmpty(currentVerse.content) && currentVerse.content.Contains("MAIN"))
+				{
+					currentVerse.content += tagEnd("VERSE");
+					currentVerse.content += tagEnd("MAIN");
+					
+					verses.Add(currentVerse);
+					currentVerse = new Verse();
+				}
+				else
+					currentVerse.content += tagStart("MAIN");
+				
+				currentVerse.name = currentExtractedInfo.value;
+			}
+			
+			currentVerse.content += value;
+		}
+		
+		void verseNumber()
+		{
+			if(isCommenting) return;
+			
+			string value = currentExtractedInfo.value;
+			
+			if(string.IsNullOrEmpty(currentVerse.number))
+				currentVerse.number = value;
+			
+			else if(value != currentVerse.number)
+			{
+				currentVerse.content += tagEnd("VERSE");
+				
+				if(currentVerse.content.Contains("MAIN"))
+					currentVerse.content += tagEnd("MAIN");
+				
+				verses.Add(currentVerse);
+				currentVerse = new Verse();
+			}
+			
+			currentVerse.content += tagStart("VERSE");
+			currentVerse.content += tagEncapsulate("VERSE_NUM", value);
+			
+			currentVerse.number = value;
+		}
+		
+		void verseBody()
+		{
+			int htmlEndIndex = currentExtractedInfo.htmlEndIndex;
+			
+			if(isCommenting)
+			{
+				if(htmlEndIndex > commentHtmlEndIndex)
+				{
+					currentVerse.content += tagEnd("COMMENT");
+					isCommenting = false;
+				}
+			}
+			
+			if(isPreHeader)
+			{
+				// end of preheader
+				if(htmlEndIndex > preHeaderHtmlEndIndex)
+				{
+					currentVerse.content += tagEnd("PREHEAD");
+					isPreHeader = false;
+				}
+			}
+			
+			string value = currentExtractedInfo.value;
+			
+			if(char.IsLetterOrDigit(value[0]))
+				value = value.Insert(0, "\n\t");
+			
+			currentVerse.content += value;
+			
+			if(isLordTagActive)
+			{
+				currentVerse.content += "</smallcaps>";
+				isLordTagActive = false;
+			}
+			
+			if(isJesusTagActive)
+			{
+				currentVerse.content += tagEnd("JESUS");
+				isLordTagActive = false;
+			}
+			
+			if(isItalicTagActive)
+			{
+				currentVerse.content += "</i>";
+				isLordTagActive = false;
+			}
+		}
+		
+		void Lord()
+		{
+			isLordTagActive = true;
+			currentVerse.content += "<smallcaps>";
+		}
+		
+		void Jesus()
+		{
+			isJesusTagActive = true;
+			currentVerse.content += tagStart("JESUS");
+		}
+		
+		void italic()
+		{
+			isItalicTagActive = true;
+			currentVerse.content += "<i>";
+		}
+		
+		void comment()
+		{
+			isCommenting = true;
+			commentHtmlEndIndex = currentExtractedInfo.htmlEndIndex;
+			
+			currentVerse.content += tagStart("COMMENT");
+		}
+		
+		void commentNumber()
+		{
+			if(isPreHeader)
+			{
+				isCommentNumbering = true;
+				currentVerse.content += tagStart("NUM");
+				
+				return;
+			}
+			
+			currentVerse.content += tagEncapsulate("NUM", currentExtractedInfo.value);
+		}
+		
+		void commentFt()
+		{
+			string value = currentExtractedInfo.value;
+			
+			if(isPreHeader && value.Contains("<span"))
+				return;
+			
+			currentVerse.content += value;
+		}
+		
+		void commentEmphasis()
+		{
+			currentVerse.content += $"<b>{currentExtractedInfo.value}</b>";
+		}
+		
+	string tagStart(string value) => $"<{value.ToUpper()}>";
+	string tagEnd(string value) => $"</{value.ToUpper()}>";
+	
+	string tagEncapsulate(string tag, string value) => $"{tagStart(tag)}{value}{tagEnd(tag)}";
+/* 	
 		var verseInfo = new Verse();
 		int previousTargetIndex = 0;
 		
@@ -406,7 +655,7 @@ public class BibleExtractor : MonoBehaviour
 		verseInfo.name = $"{verseInfo.number}: {verseInfo.title}";
 		#endif
 		
-		verses.Add(verseInfo);
+		verses.Add(verseInfo); */
 	}
 	
 	[ContextMenu("Extract")]
@@ -424,8 +673,9 @@ public class ExtractedInfo
 	[HideInInspector] public string name;
 	[HideInInspector] public int targetTagIndex;
 	
-	[HideInInspector] public int htmlEndIndex;
-	
 	[TextArea]
 	public string value;
+	
+	public int htmlEndIndex;
+	public string htmlEndValue;
 }
